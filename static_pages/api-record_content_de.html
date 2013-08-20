@@ -1,0 +1,965 @@
+
+<style>
+.required{color:red;font-weight:bold}
+.todo{color:green}
+.bordered a{display:inline}
+#content-main h2{margin-top:1em}
+#content-main h3{margin:1em 0}
+#content-main{overflow:auto}
+.bordered td,.bordered th{line-height:140%;word-wrap:break-word;}
+#content-main sup, #content-main sub{vertical-align:baseline;position:relative;top:-0.4em;font-weight:bold}
+#content-main sub{top:0.4em}
+#footnotes{margin-top:3em}
+#content-main pre{color:rgb(136,0,0);overflow:auto}
+</style>
+
+<div id="content-main" class="with-sidebar">
+	
+	<h2 id="record.json">record.json</h2>
+	
+		<p>This API method is used for retrieving information about a single object<sup><a href="#footnote-1">1</a></sup> in the Europeana repository. Its mandatory parameter is the unique Europeana ID of the record. Differently from other API parameters, the record ID is not supplied via a query parameter, but as part of the path within the URL. <span class="todo">@todo : provide more information about the way records are identified.</span></p>
+
+		<h3 id="request">request</h3>
+
+			<pre class="prettyprint">http://europeana.eu/api/v2/record/[recordID].json</pre>
+
+			<table class="bordered">
+
+				<thead>
+
+					<tr>
+						<th>parameters</th>
+						<th>data&nbsp;type</th>
+						<th>description</th>
+					</tr>
+
+				</thead>
+
+				<tbody>
+
+						<tr>
+							<td>recordID <span class="required">*</span></td>
+							<td>int</td>
+							<td>The id of the record being requested.<br/>The record id consists of two parts concatenated together, the collection number and the item identifier, <code class="prettyprint">/09102/_SMS_MM_M777</code></td>
+						</tr>
+
+						<tr>
+							<td>wskey <span class="required">*</span></td>
+							<td>string</td>
+							<td>The API key you get when you register (see wskey section). The API key you get when you register (do not confuse with the other key, called Private key). Mandatory parameter in every JSON-based calls</td>
+						</tr>
+
+						<tr>
+							<td>callback</td>
+							<td>string</td>
+							<td>Name of a client side (JavaScript) callback function. If you set a funtion the JSON response will be wrapped by this function call, so it is not JSON, but <a href="http://en.wikipedia.org/wiki/JSONP" target="_blank" title="JSONP">JSONP</a> (JSON with Paggings). JSONP provides a method to request data from a server in a different domain, something prohibited by typical web browsers because of the <a href="http://en.wikipedia.org/wiki/Same_origin_policy" title="same origin policy" target="_blank">same origin policy</a>.</td>
+
+						<tr>
+							<td>profile</td>
+							<td>string</td>
+							<td><b>full</b> : all the available information about the returned records will be available.<br/><b>similar</b> : the records will contain, in addition to the full profile, information about Europeana records which are similar to the returned records.<br/>[default = full]</td>
+						</tr>
+
+					</tbody>
+
+			</table>
+
+			<span class="required">*</span> <small>indicates a required parameter</small>
+
+
+		<h3 id="response">response</h3>
+
+			<table class="bordered">
+
+				<thead>
+
+					<tr>
+						<th>response type</th>
+						<th>description</th>
+					</tr>
+
+				</thead>
+
+				<tbody>
+
+					<tr>
+						<td><a href="/portal/api-common-fields.html" title="common fields">common fields</a></td>
+						<td>A common collection of fields relating to the status of the api call.</td>
+					</tr>
+
+					<tr>
+						<td><a href="#record.json response" title="record.json response">record.json</a></td>
+						<td>A collection of fields and field objects specific to the record.json method call.</td>
+					</tr>
+
+					</tbody>
+
+			</table>
+
+
+		<h3 id="record.json response">record.json response</h3>
+
+			<p>A collection of fields and field objects specific to the record method call.</p>
+
+			<table class="bordered">
+
+				<thead>
+
+					<tr>
+						<th>fields</th>
+						<th>data&nbsp;type</th>
+						<th>description</th>
+					</tr>
+
+				</thead>
+
+				<tbody>
+
+						<tr>
+							<td>object <span class="required">*</span></td>
+							<td><a href="#object">object</td>
+							<td>an object represents the EDM metadata record</td>
+						</tr>
+
+						<tr>
+							<td>similarItems</td>
+							<td><a href="/portal/api-search-json.html#item" title="item[]">item[]</a></td>
+							<td>A collection of metadata records similar to the current one. Available only if profile parameter’s value is set to similar. The collection of items is the same as the search call’s item collection.</td>
+						</tr>
+			
+					</tbody>
+			
+			</table>
+
+			<span class="required">*</span> <small>indicates an object property guaranteed to be in the object</small>
+
+
+		<h3 id="object">object</h3>
+
+			<p>an object represents the EDM metadata record</p>
+
+			<table class="bordered">
+
+				<thead>
+
+					<tr>
+						<th>properties</th>
+						<th>data&nbsp;type</th>
+						<th>description</th>
+					</tr>
+
+				</thead>
+
+				<tbody>
+
+						<tr>
+							<td>about</td>
+							<td>string</td>
+							<td>is the record ID string such as "/9200143/41CCA52E2986E491BBA631D4899768A5002C455A". You can find it as part of URL of record call or of the full object page at Europeana portal.</td>
+						</tr>
+
+						<tr>
+							<td>agents</td>
+							<td><a href="#agent" title="agent[]">agent[]</a></td>
+							<td>A collection of EDM Agent objects. <span class="todo">more explanation needed - what is this, why would i use it, any online references to it</span></td>
+						</tr>
+
+						<tr>
+							<td>aggregations</td>
+							<td><a href="#aggregation" title="aggregation[]">aggregation[]</a></td>
+							<td>A collection of EDM Aggregation objects. <span class="todo">more explanation needed - what is this, why would i use it, any online references to it</span></td>
+						</tr>
+
+						<tr>
+							<td>europeanaAggregation</td>
+							<td><a href="#europeanaAggregation" title="europeanaAggregation[]">europeanaAggregation[]</a></td>
+							<td>A collection of EDM europeanaAggregation objects. <span class="todo">more explanation needed - what is this, why would i use it, any online references to it</span></td>
+						</tr>
+
+						<tr>
+							<td>europeanaCollectionName</td>
+							<td>array</td>
+							<td>A collection of collection identifiers that this record belongs to. <span class="todo">more explanation needed - what is this, why would i use it, any online references to it</span></td>
+						</tr>
+
+						<tr>
+							<td>europeanaCompleteness</td>
+							<td>int</td>
+							<td>a number (in range of 0-10) representing the metadata quality of the record. Note: the base of calculation will change in the future, so the numbers will change.</td>
+						</tr>
+
+						<tr>
+							<td>places</td>
+							<td><a href="#place" title="place[]">place[]</a></td>
+							<td>A collection of EDM Place objects. <span class="todo">more explanation needed - what is this, why would i use it, any online references to it</span></td>
+						</tr>
+
+						<tr>
+							<td>providedCHOs</td>
+							<td><a href="#providedCHO" title="providedCHO[]">providedCHO[]</a></td>
+							<td>A collection of EDM ProvidedCHO objects. <span class="todo">more explanation needed - what is this, why would i use it, any online references to it</span></td>
+						</tr>
+
+						<tr>
+							<td>proxies</td>
+							<td><a href="#proxy" title="proxy[]">proxy[]</a></td>
+							<td>A collection proxy objects for EDM ProvidedCHO objects. This is the most important part, because this contains the data provider's metadata. <span class="todo">more explanation needed - what is this, why would i use it, any online references to it</span></td>
+						</tr>
+
+						<tr>
+							<td>title</td>
+							<td><a href="#title" title="title[]">title[]</a></td>
+							<td>A collection title objects <span class="todo">more explanation needed - what is this, why would i use it, any online references to it</span></td>
+						</tr>
+
+						<tr>
+							<td>type</td>
+							<td>string</td>
+							<td>is the object type (same as the TYPE facet, see there)</td>
+						</tr>
+
+					</tbody>
+
+			</table>
+
+
+		<h3 id="agent">agent</h3>
+
+			<p>A collection of EDM Agent objects. <span class="todo">haven’t seen an example of this object yet - what is it made up of? why would i use it?</span></p>
+	
+			<table class="bordered">
+
+				<thead>
+
+					<tr>
+						<th>properties</th>
+						<th>data&nbsp;type</th>
+						<th>description</th>
+					</tr>
+
+				</thead>
+
+				<tbody>
+
+						<tr>
+							<td><span class="todo">need to define</span></td>
+							<td><span class="todo">need to define</span></td>
+							<td><span class="todo">need to define</span></td>
+						</tr>
+
+					</tbody>
+
+			</table>
+
+
+		<h3 id="aggregation">aggregation</h3>
+
+			<p>A collection of EDM Aggregation objects.</p>
+
+			<table class="bordered">
+
+				<thead>
+
+					<tr>
+						<th>properties</th>
+						<th>data&nbsp;type</th>
+						<th>description</th>
+					</tr>
+
+				</thead>
+
+				<tbody>
+
+						<tr>
+							<td>about</td>
+							<td>string</td>
+							<td><span class="todo">need to define</span></td>
+						</tr>
+
+						<tr>
+							<td>edmDataProvider</td>
+							<td><a href="#edmDataProvider">edmDataProvider[]</a></td>
+							<td>A collection of edmDataProvider definitions</td>
+						</tr>
+
+						<tr>
+							<td>edmIsShownBy</td>
+							<td>string</td>
+							<td>A url to ? <span class="todo">need to define</span></td>
+						</tr>
+
+						<tr>
+							<td>edmIsShownAt</td>
+							<td>string</td>
+							<td>A url to ? <span class="todo">need to define</span></td>
+						</tr>
+
+						<tr>
+							<td>edmObject</td>
+							<td>string</td>
+							<td>A url to ? <span class="todo">need to define</span></td>
+						</tr>
+
+						<tr>
+							<td>edmProvider</td>
+							<td><a href="#edmProvider">edmProvider[]</a></td>
+							<td>A collection of edmProvider definitions <span class="todo">need to define</span></td>
+						</tr>
+
+						<tr>
+							<td>edmRights</td>
+							<td><a href="#edmRights">edmRights[]</a></td>
+							<td>A collection of edmRights definitions <span class="todo">need to define</span></td>
+						</tr>
+
+						<tr>
+							<td>hasView</td>
+							<td>array</td>
+							<td>A collection of urls to ?<span class="todo">need to define</span></td>
+						</tr>
+
+						<tr>
+							<td>aggregatedCHO</td>
+							<td>string</td>
+							<td><span class="todo">need to define</span></td>
+						</tr>
+
+						<tr>
+							<td>webResources</td>
+							<td><a href="#webResources">webResources[]</a></td>
+							<td>A collection of webResource objects <span class="todo">need to define</span></td>
+						</tr>
+
+					</tbody>
+
+			</table>
+
+
+		<h3 id="edmDataProvider">edmDataProvider</h3>
+
+			<table class="bordered">
+
+				<thead>
+
+					<tr>
+						<th>properties</th>
+						<th>data&nbsp;type</th>
+						<th>description</th>
+					</tr>
+
+				</thead>
+
+				<tbody>
+
+						<tr>
+							<td>def</td>
+							<td>array</td>
+							<td>A collection of definitions for the referring object</td>
+						</tr>
+
+					</tbody>
+
+			</table>
+
+
+		<h3 id="edmProvider">edmProvider</h3>
+
+			<table class="bordered">
+
+				<thead>
+
+					<tr>
+						<th>properties</th>
+						<th>data&nbsp;type</th>
+						<th>description</th>
+					</tr>
+
+				</thead>
+
+				<tbody>
+
+						<tr>
+							<td>def</td>
+							<td>array</td>
+							<td>A collection of definitions for the referring object</td>
+						</tr>
+
+					</tbody>
+
+			</table>
+
+
+		<h3 id="edmRights">edmRights</h3>
+
+			<table class="bordered">
+
+				<thead>
+
+					<tr>
+						<th>properties</th>
+						<th>data&nbsp;type</th>
+						<th>description</th>
+					</tr>
+
+				</thead>
+
+				<tbody>
+
+						<tr>
+							<td>def</td>
+							<td>array</td>
+							<td>A collection of definitions for the referring object</td>
+						</tr>
+
+					</tbody>
+
+			</table>
+
+
+		<h3 id="webResources">webResources</h3>
+
+			<table class="bordered">
+
+				<thead>
+
+					<tr>
+						<th>properties</th>
+						<th>data&nbsp;type</th>
+						<th>description</th>
+					</tr>
+
+				</thead>
+
+				<tbody>
+
+					<tr>
+						<td>about</td>
+						<td>string</td>
+						<td><span class="todo">need to define</span></td>
+					</tr>
+
+					<tr>
+						<td>webResourceDcRights</td>
+						<td><a href="#webResourceDcRights">webResourceDcRights[]</a></td>
+						<td>A collection of web resource dc rights</td>
+					</tr>
+
+					<tr>
+						<td>webResourceEdmRights</td>
+						<td><a href="#webResourceEdmRights">webResourceEdmRights[]</a></td>
+						<td>A collection of web resource edm rights</td>
+					</tr>
+
+					</tbody>
+
+			</table>
+
+
+		<h3 id="webResourceDcRights">webResourceDcRights</h3>
+
+			<table class="bordered">
+
+				<thead>
+
+					<tr>
+						<th>properties</th>
+						<th>data&nbsp;type</th>
+						<th>description</th>
+					</tr>
+
+				</thead>
+
+				<tbody>
+
+					<tr>
+						<td>sv</td>
+						<td>array</td>
+						<td><span class="todo">need to define</span></td>
+					</tr>
+
+					</tbody>
+
+			</table>
+
+
+		<h3 id="webResourceEdmRights">webResourceEdmRights</h3>
+
+			<table class="bordered">
+
+				<thead>
+
+					<tr>
+						<th>properties</th>
+						<th>data&nbsp;type</th>
+						<th>description</th>
+					</tr>
+
+				</thead>
+
+				<tbody>
+
+					<tr>
+							<td>def</td>
+							<td>array</td>
+							<td>A collection of definitions for the referring object</td>
+						</tr>
+
+					</tbody>
+
+			</table>
+
+
+		<h3 id="europeanaAggregation">europeanaAggregation</h3>
+
+			<p>A collection of EDM europeanaAggregation objects. <span class="todo">more explanation needed - what is this, why would i use it, any online references to it</span></p>
+			
+			<table class="bordered">
+			
+				<thead>
+			
+					<tr>
+						<th>properties</th>
+						<th>data&nbsp;type</th>
+						<th>description</th>
+					</tr>
+			
+				</thead>
+			
+				<tbody>
+			
+						<tr>
+							<td>about</td>
+							<td>string</td>
+							<td><span class="todo">need to define</span></td>
+						</tr>
+			
+						<tr>
+							<td>aggregatedCHO</td>
+							<td>string</td>
+							<td><span class="todo">need to define</span></td>
+						</tr>
+			
+						<tr>
+							<td>dcCreator</td>
+							<td><a href="#dcCreator">dcCreator[]</a></td>
+							<td>A collection dcCreator definitions <span class="todo">need to define</span></td>
+						</tr>
+			
+						<tr>
+							<td>edmLandingPage</td>
+							<td>string</td>
+							<td>A url to ? <span class="todo">need to define</span></td>
+						</tr>
+			
+						<tr>
+							<td>edmCountry</td>
+							<td><a href="#edmCountry">edmCountry[]</a></td>
+							<td>A collection edmCountry definitions <span class="todo">need to define</span></td>
+						</tr>
+			
+						<tr>
+							<td>edmLanguage</td>
+							<td><a href="#edmCountry">edmLanguage[]</a></td>
+							<td>A collection edmLanguage definitions <span class="todo">need to define</span></td>
+						</tr>
+			
+						<tr>
+							<td>edmPreview</td>
+							<td>string</td>
+							<td>A url to ? <span class="todo">need to define</span></td>
+						</tr>
+			
+					</tbody>
+			
+			</table>
+
+
+		<h3 id="dcCreator">dcCreator</h3>
+
+			<table class="bordered">
+
+				<thead>
+
+					<tr>
+						<th>properties</th>
+						<th>data&nbsp;type</th>
+						<th>description</th>
+					</tr>
+
+				</thead>
+
+				<tbody>
+
+						<tr>
+							<td>def</td>
+							<td>array</td>
+							<td>A collection of definitions for the referring object</td>
+						</tr>
+
+					</tbody>
+
+			</table>
+
+
+		<h3 id="edmCountry">edmCountry</h3>
+
+			<table class="bordered">
+
+				<thead>
+
+					<tr>
+						<th>properties</th>
+						<th>data&nbsp;type</th>
+						<th>description</th>
+					</tr>
+
+				</thead>
+
+				<tbody>
+
+						<tr>
+							<td>def</td>
+							<td>array</td>
+							<td>A collection of definitions for the referring object</td>
+						</tr>
+
+					</tbody>
+
+			</table>
+
+
+		<h3 id="edmLanguage">edmLanguage</h3>
+
+			<table class="bordered">
+
+				<thead>
+
+					<tr>
+						<th>properties</th>
+						<th>data&nbsp;type</th>
+						<th>description</th>
+					</tr>
+
+				</thead>
+
+				<tbody>
+
+						<tr>
+							<td>def</td>
+							<td>array</td>
+							<td>A collection of definitions for the referring object</td>
+						</tr>
+
+					</tbody>
+
+			</table>
+
+
+		<h3 id="place">place</h3>
+
+			<p>A collection of EDM Place objects. <span class="todo">more explanation needed - what is this, why would i use it, any online references to it</span></p>
+
+			<table class="bordered">
+
+				<thead>
+
+					<tr>
+						<th>properties</th>
+						<th>data&nbsp;type</th>
+						<th>description</th>
+					</tr>
+
+				</thead>
+
+				<tbody>
+
+						<tr>
+							<td>about</td>
+							<td>string</td>
+							<td>A url to ? <span class="todo">need to define</span></td>
+						</tr>
+
+						<tr>
+							<td>prefLabel</td>
+							<td>array or object ? <span class="todo">need to define</span></td>
+							<td><span class="todo">need to define</span></td>
+						</tr>
+
+						<tr>
+							<td>altLabel</td>
+							<td>array or object ? <span class="todo">need to define</span></td>
+							<td><span class="todo">need to define</span></td>
+						</tr>
+
+						<tr>
+							<td>isPartOf</td>
+							<td>array or object ? <span class="todo">need to define</span></td>
+							<td><span class="todo">need to define</span></td>
+						</tr>
+
+						<tr>
+							<td>latitude</td>
+							<td>float</td>
+							<td>The latitude of the object’s current location</td>
+						</tr>
+
+						<tr>
+							<td>longitude</td>
+							<td>float</td>
+							<td>The longitude of the object’s current location</td>
+						</tr>
+
+						<tr>
+							<td>altitude</td>
+							<td>int</td>
+							<td>The altitude of the object’s current location</td>
+						</tr>
+
+					</tbody>
+
+			</table>
+
+
+		<h3 id="providedCHO">providedCHO</h3>
+
+			<p>A collection of EDM ProvidedCHO objects. <span class="todo">more explanation needed - what is this, why would i use it, any online references to it</span></p>
+
+			<table class="bordered">
+
+				<thead>
+
+					<tr>
+						<th>properties</th>
+						<th>data&nbsp;type</th>
+						<th>description</th>
+					</tr>
+
+				</thead>
+
+				<tbody>
+
+						<tr>
+							<td>about</td>
+							<td><span class="todo">need to define</span></td>
+							<td><span class="todo">need to define</span></td>
+						</tr>
+
+					</tbody>
+
+			</table>
+
+
+		<h3 id="proxy">proxy</h3>
+
+			<p>A collection proxy objects for EDM ProvidedCHO objects. This is the most important part, because this contains the data provider's metadata. <span class="todo">more explanation needed - what is this, why would i use it, any online references to it</span></p>
+
+			<table class="bordered">
+
+				<thead>
+
+					<tr>
+						<th>properties</th>
+						<th>data&nbsp;type</th>
+						<th>description</th>
+					</tr>
+
+				</thead>
+
+				<tbody>
+
+						<tr>
+							<td>about</td>
+							<td>string</td>
+							<td><span class="todo">need to define</span></td>
+						</tr>
+
+						<tr>
+							<td>dcCoverage</td>
+							<td><a href="#dcCoverage">dcCoverage[]</a></td>
+							<td>A collection dcCoverage objects <span class="todo">need to define</span></td>
+						</tr>
+
+						<tr>
+							<td>dcCreator</td>
+							<td><a href="#dcCreator">dcCreator[]</a></td>
+							<td>A collection dcCreator objects <span class="todo">need to define</span></td>
+						</tr>
+
+						<tr>
+							<td>dcIdentifier</td>
+							<td><a href="#dcIdentifier">dcIdentifier[]</a></td>
+							<td>A collection dcIdentifier objects <span class="todo">need to define</span></td>
+						</tr>
+
+						<tr>
+							<td>dcTitle</td>
+							<td><a href="#dcTitle">dcTitle[]</a></td>
+							<td>A collection dcTitle objects<span class="todo">need to define</span></td>
+						</tr>
+
+						<tr>
+							<td>proxyFor</td>
+							<td>string</td>
+							<td><span class="todo">need to define</span></td>
+						</tr>
+
+						<tr>
+							<td>edmType</td>
+							<td>string</td>
+							<td><span class="todo">need to define</span></td>
+						</tr>
+
+						<tr>
+							<td>europeanaProxy</td>
+							<td><span class="todo">need to define</span></td>
+							<td><span class="todo">need to define</span></td>
+						</tr>
+
+					</tbody>
+
+			</table>
+
+
+		<h3 id="dcCoverage">dcCoverage</h3>
+
+			<table class="bordered">
+
+				<thead>
+
+					<tr>
+						<th>properties</th>
+						<th>data&nbsp;type</th>
+						<th>description</th>
+					</tr>
+
+				</thead>
+
+				<tbody>
+
+					<tr>
+						<td>def</td>
+						<td>array</td>
+						<td>A collection of definitions for the referring object</td>
+					</tr>
+
+				</tbody>
+
+			</table>
+
+
+		<h3 id="dcCreator">dcCreator</h3>
+
+			<table class="bordered">
+
+				<thead>
+
+					<tr>
+						<th>properties</th>
+						<th>data&nbsp;type</th>
+						<th>description</th>
+					</tr>
+
+				</thead>
+
+				<tbody>
+
+					<tr>
+						<td>def</td>
+						<td>array</td>
+						<td>A collection of definitions for the referring object</td>
+					</tr>
+
+				</tbody>
+
+			</table>
+
+
+		<h3 id="dcIdentifier">dcIdentifier</h3>
+
+			<table class="bordered">
+
+				<thead>
+
+					<tr>
+						<th>properties</th>
+						<th>data&nbsp;type</th>
+						<th>description</th>
+					</tr>
+
+				</thead>
+
+				<tbody>
+
+					<tr>
+						<td>def</td>
+						<td>array</td>
+						<td>A collection of definitions for the referring object</td>
+					</tr>
+
+				</tbody>
+
+			</table>
+
+
+		<h3 id="dcTitle">dcTitle</h3>
+
+			<table class="bordered">
+
+				<thead>
+
+					<tr>
+						<th>properties</th>
+						<th>data&nbsp;type</th>
+						<th>description</th>
+					</tr>
+
+				</thead>
+
+				<tbody>
+
+					<tr>
+						<td>sv</td>
+						<td>array</td>
+						<td><span class="todo">need to define</span></td>
+					</tr>
+
+				</tbody>
+
+			</table>
+
+
+		<h3 id="title">title</h3>
+
+			<p>A collection title objects <span class="todo">more explanation needed - what is this, why would i use it, any online references to it</span></p>
+
+			<table class="bordered">
+
+				<thead>
+
+					<tr>
+						<th>properties</th>
+						<th>data&nbsp;type</th>
+						<th>description</th>
+					</tr>
+
+				</thead>
+
+				<tbody>
+
+					<tr>
+						<td><span class="todo">need to define</span></td>
+						<td><span class="todo">need to define</span></td>
+						<td><span class="todo">need to define</span></td>
+					</tr>
+
+				</tbody>
+
+			</table>
+
+
+		<h4 id="footnotes" class="headline">footnotes</h3>
+
+			<sup id="footnote-1">1</sup><small>Objects within the Europeana repository are made up of Cultural Heritage Objects (CHO), contextual resources, and digital representations, see the <a href="http://pro.europeana.eu/edm-documentation" title="edm documentaion" target="_blank">edm documentation</a> for further information.</small><br/>
+
+</div>
+
