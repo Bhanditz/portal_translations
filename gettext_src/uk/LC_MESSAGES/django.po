@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-03-21 21:37+0100\n"
-"PO-Revision-Date: 2013-08-08 15:35\n"
+"PO-Revision-Date: 2013-08-19 13:38\n"
 "Last-Translator: Ukrainian  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -1096,6 +1096,8 @@ msgstr "Точність, завершеність і таке інше вебс
 #: templates/rights/terms-of-use.html:53
 msgid "Any infringement of privacy, publicity or other rights, including infringement of copyrights to metadata, previews or other content made available on Europeana.eu under conditions that were not approved by the right holder;"
 msgstr ""
+"Будь яке порушення приватності, публічності або інших прав, включно із порушенням прав на метадані, \n"
+"або інший контент що став доступним на Europeana.eu згідно до умов що не були схвалені власником прав."
 
 #: templates/rights/terms-of-use.html:54
 msgid "Any use by third parties that goes beyond the rights expressed in these terms of use."
@@ -2171,7 +2173,7 @@ msgstr "Оновити"
 #: templates/static_pages/newcontent1.html:209
 #: templates/static_pages/newcontent1.html:210
 msgid "Disabled"
-msgstr ""
+msgstr "Неактивно"
 
 #: templates/static_pages/prop_file.html:5
 #: templates/static_pages/prop_file1.html:5
@@ -2312,19 +2314,19 @@ msgstr "Прізвище"
 #: templates/static_pages/prop_file.html:32
 #: templates/static_pages/prop_file1.html:32
 msgid "To make optimal use of this website you need to have JavaScript activated"
-msgstr ""
+msgstr "Для оптимального використання цього вебсайту, вам необхідно активувати JavaScript"
 
 #: templates/static_pages/prop_file.html:33
 #: templates/static_pages/prop_file1.html:33
 #: templates/static_pages/storyline.html:11
 #: templates/static_pages/storyline1.html:13
 msgid "Storyline and credits"
-msgstr ""
+msgstr "Сюжет та учасники"
 
 #: templates/static_pages/prop_file.html:34
 #: templates/static_pages/prop_file1.html:34
 msgid "Check the FAQs - they may cover your feedback"
-msgstr ""
+msgstr "Перегляньне FAQ - ви можете знайти відповідь згідно до вашої відповіді"
 
 #: templates/static_pages/prop_file.html:35
 #: templates/static_pages/prop_file1.html:35
@@ -2359,7 +2361,7 @@ msgstr ""
 #: templates/static_pages/prop_file.html:43
 #: templates/static_pages/prop_file1.html:43
 msgid "Find out more"
-msgstr ""
+msgstr "Знайти ще"
 
 #: templates/static_pages/prop_file.html:44
 #: templates/static_pages/prop_file1.html:44
@@ -5733,23 +5735,23 @@ msgstr "Європіана - Досліджуючи Європіана"
 
 #: templates/static_pages/usingeuropeana_explore.html:11
 msgid "In addition to the search and filter options, Europeana offers alternative ways to explore and navigate through our millions of objects. You can discover Europe's rich heritage by browsing"
-msgstr ""
+msgstr "На додаток до пошуку та налаштувань фільтрів, Європіана пропонує альтернативні шляхи дослідження та навігації за мільйонами об'єктів. Ви можете дослідити багату спадщину Європи переглядаючи "
 
 #: templates/static_pages/usingeuropeana_explore.html:14
 msgid "Our virtual exhibitions help you discover and learn more about specific themes, e.g. Art Nouveau or musical instruments. With extensive curatorial information that guides you through the themes, the virtual exhibitions can be found by choosing the"
-msgstr ""
+msgstr "Наші віртуальні виставки допоможуть вам дослідити та вивчити більше про спеціфічні теми, такі як Арт Нуво або про музикальні інструменти. Із обширною культурною інформацією, що надішле вас до необхідної тематики, віртуальні виставки можно знайти обравши "
 
 #: templates/static_pages/usingeuropeana_explore.html:14
 msgid "link at the foot of the page."
-msgstr ""
+msgstr "посилання у низу сторінки"
 
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "See the latest contributions from our partner museums, libraries, archives and audiovisual archives by choosing"
-msgstr ""
+msgstr "Перегляньте останні подання від наших партнерських музеїв, бібліотек, архівів та аудовізуальних архівів обираючи "
 
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "View more latest content from our partners"
-msgstr ""
+msgstr "Переглянути більше останнього контенту від наших партнерів "
 
 #: templates/static_pages/usingeuropeana_explore.html:15
 #: templates/static_pages/usingeuropeana_explore1.html:15
@@ -5759,7 +5761,7 @@ msgstr "в "
 
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "area"
-msgstr ""
+msgstr "площа"
 
 #: templates/static_pages/usingeuropeana_explore1.html:11
 msgid "In addition to standard search options, Europeana offers alternative ways to explore and navigate through our millions of objects. You can discover Europe's rich heritage by searching"
@@ -5841,7 +5843,7 @@ msgstr "Зареєструватись у"
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:11
 msgid "and you can"
-msgstr ""
+msgstr "та ви можете"
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:14
 #: templates/static_pages/usingeuropeana_myeuropeana1.html:14
@@ -5859,7 +5861,7 @@ msgstr "Збережіть ваші улюблені об'єкти для под
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:17
 msgid "If you are a developer who has registered for one or more API keys, these will be shown on the API Keys tab."
-msgstr ""
+msgstr "Якщо ви розробник, що зареєструвався, щоб отримати один чи більше API ключів, це буде відображено на вкладці із API ключами."
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:20
 #: templates/static_pages/usingeuropeana_myeuropeana1.html:19
@@ -5868,15 +5870,15 @@ msgstr "Щоб зберегти пошук, додати таг або збер�
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:20
 msgid "and click on the relevant action from the menu."
-msgstr ""
+msgstr "та оберіть необхідну дію із меню."
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:21
 msgid "To view your saved items, searches and tags, use the"
-msgstr ""
+msgstr "Для перегляду об'єктів, що збережено та тагів, використовуйте "
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:21
 msgid "shortcuts in the header."
-msgstr ""
+msgstr "короткі посилання в заголовку"
 
 #: templates/static_pages/usingeuropeana_myeuropeana1.html:11
 msgid "and you can:"
@@ -6311,7 +6313,7 @@ msgstr "Після введіть ваш пошуковий запит та пі
 
 #: templates/static_pages/usingeuropeana_search.html:27
 msgid "Alternatively, just ask yourself who, what, where or when you are interested in and type these words into Europeana's search box followed by a colon (:). Then enter your search term and hit"
-msgstr "Як альтернатиа, лише спитайте себе, хто, що, де або коли ви цікавились та вводіть ці слова в строку пошуку Європіана, слідом за двокрапкою (:). Потім введіть ваш пошуковий запит та підказку"
+msgstr "Або лише спитайте себе, ким, чим, де або коли ви цікавились та уведіть ці слова в строку пошуку Європіана, після двокрапки (:). Потім введіть ваш пошуковий запит та підказку"
 
 #: templates/static_pages/usingeuropeana_search.html:29
 msgid "For specific searches, you could:"
