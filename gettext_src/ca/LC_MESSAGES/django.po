@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-12 11:56+0200\n"
+"POT-Creation-Date: 2013-09-12 13:17+0200\n"
 "PO-Revision-Date: 2013-04-26 19:04\n"
 "Last-Translator: Catalan  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3519,25 +3519,19 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/prop_file.html:463
-#, fuzzy
-msgid "Download the Europeana Open Culture app for iPad"
-msgstr "Europeana pensa cultura"
-
 #: templates/static_pages/prop_file.html:466
-#, fuzzy
-msgid "Europeana Open Culture app"
-msgstr "Europeana pensa cultura"
+msgid "Get the latest news first!"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:467
 msgid ""
-"Our first free iPad app introduces you to specially selected collections "
-"from Europeana - explore, share and comment on them."
+"Europeana eNews showcases fantastic collections and keeps you up-to-date "
+"with news, events and competitions - in English and French."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:468
-#: templates/static_pages/prop_file.html:667
-msgid "Download"
-msgstr "Descarregar"
+msgid "Subscribe"
+msgstr "Subscriviu-vos"
 
 #: templates/static_pages/prop_file.html:472
 #, fuzzy
@@ -3812,6 +3806,10 @@ msgstr ""
 msgid "3D"
 msgstr "3D"
 
+#: templates/static_pages/prop_file.html:667
+msgid "Download"
+msgstr "Descarregar"
+
 #: templates/static_pages/prop_file.html:668
 msgid "Content created by user"
 msgstr "Contingut creat per l'usuari"
@@ -3967,17 +3965,10 @@ msgstr ""
 
 #: templates/static_pages/prop_file.html:744
 msgid ""
-"Crawford Art Gallery, a National Cultural Institution and regional art "
-"museum for Munster, is dedicated to the visual arts, both historic and "
-"contemporary. Located in the heart of Cork city, beside the Opera House, the "
-"Gallery is a critical part of Ireland's cultural and tourism infrastructure, "
-"welcoming over 200,000 visitors a year."
+"One of the oldest and the best museums of the Upper Volga Region, was "
+"founded in 1910. Now the museum houses more than 120 thousand exhibits: from "
+"saurian bones to paintings of famous artists."
 msgstr ""
-"La Crawford Art Gallery, una institució cultural nacional i museu d'art "
-"regional de Munster, està dedicada a les arts visuals, tant històriques com "
-"contemporànies. Situada al cor de la ciutat de Cork, al costat de l'Òpera "
-"House, la galeria és una part crítica de la infraestructura turística i "
-"cultural d'Irlanda, que rep més de 200.000 visitants a l'any."
 
 #: templates/static_pages/prop_file.html:754
 msgid ""
@@ -4019,8 +4010,9 @@ msgid "Refinement term(s)"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:776
+#, fuzzy
 msgid "Profile"
-msgstr ""
+msgstr "Europeana Professional"
 
 #: templates/static_pages/prop_file.html:777
 msgid "Number of records to retrieve"
@@ -4099,12 +4091,14 @@ msgid "API keys"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:807
+#, fuzzy
 msgid "No API key"
-msgstr ""
+msgstr "Eliminar"
 
 #: templates/static_pages/prop_file.html:808
+#, fuzzy
 msgid "API key"
-msgstr ""
+msgstr "Eliminar"
 
 #: templates/static_pages/prop_file.html:809
 #, fuzzy
@@ -4355,8 +4349,9 @@ msgid "We are unable to change the interface to the requested language."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:954
+#, fuzzy
 msgid "Please try another language from the dropdown list."
-msgstr ""
+msgstr "Intenteu, si us plau, una altra cerca."
 
 #: templates/static_pages/prop_file.html:955
 msgid "Number of results shown on the page"
@@ -5712,6 +5707,27 @@ msgstr ""
 msgid "We hope you enjoy using the new-look Europeana."
 msgstr ""
 
+#, fuzzy
+#~ msgid "Download the Europeana Open Culture app for iPad"
+#~ msgstr "Europeana pensa cultura"
+
+#, fuzzy
+#~ msgid "Europeana Open Culture app"
+#~ msgstr "Europeana pensa cultura"
+
+#~ msgid ""
+#~ "Crawford Art Gallery, a National Cultural Institution and regional art "
+#~ "museum for Munster, is dedicated to the visual arts, both historic and "
+#~ "contemporary. Located in the heart of Cork city, beside the Opera House, "
+#~ "the Gallery is a critical part of Ireland's cultural and tourism "
+#~ "infrastructure, welcoming over 200,000 visitors a year."
+#~ msgstr ""
+#~ "La Crawford Art Gallery, una institució cultural nacional i museu d'art "
+#~ "regional de Munster, està dedicada a les arts visuals, tant històriques "
+#~ "com contemporànies. Situada al cor de la ciutat de Cork, al costat de "
+#~ "l'Òpera House, la galeria és una part crítica de la infraestructura "
+#~ "turística i cultural d'Irlanda, que rep més de 200.000 visitants a l'any."
+
 #~ msgid "Europeana - Rights Reserved - Free Access"
 #~ msgstr "Europeana - Drets reservats - Accés Lliure"
 
@@ -6409,9 +6425,6 @@ msgstr ""
 #~ "Exploreu el contingut més nou d'Europeana. Aquesta pàgina enllaça a les "
 #~ "darreres contribucions dels nostres socis,  museus, arxius, biblioteques "
 #~ "i col·leccions audiovisuals."
-
-#~ msgid "Subscribe"
-#~ msgstr "Subscriviu-vos"
 
 #~ msgid ""
 #~ "to the RSS feed to be updated when new content is added to Europeana."
