@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-19 10:18+0200\n"
+"POT-Creation-Date: 2013-09-27 15:15+0200\n"
 "PO-Revision-Date: 2013-01-21 21:45\n"
 "Last-Translator: Bulgarian  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1039,6 +1039,7 @@ msgid "Date of creation of the Privacy Statement"
 msgstr "Дата на създаване на документа за Защита на личните данни"
 
 #: templates/rights/privacy.html:85 templates/rights/privacy.html.py:86
+#: templates/static_pages/aboutus_enews.html:15
 #: templates/static_pages/aboutus_enews.html:25
 #: templates/static_pages/aboutus_enews.html:34
 #: templates/static_pages/aboutus_enews.html:43
@@ -1597,6 +1598,11 @@ msgstr "Вижте историята и изображенията разказ
 #, fuzzy
 msgid "Europeana newsletters"
 msgstr "Europeana - Помощ"
+
+#: templates/static_pages/aboutus_enews.html:15
+#, fuzzy
+msgid "Discover Europeana's hand-picked collections"
+msgstr "Новите материали в колекциите на Europeana"
 
 #: templates/static_pages/aboutus_enews.html:16
 #: templates/static_pages/aboutus_enews.html:26
@@ -5842,8 +5848,11 @@ msgstr ""
 "Europeana?"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:9
+#, fuzzy
 msgid "How to configure your search widget"
 msgstr ""
+"Какво редставлява Външно приложение за търсене (Remote search widget) в "
+"Europeana?"
 
 #: templates/static_pages/whatsnew.html:3
 msgid "Europeana - What's New"
@@ -5907,6 +5916,10 @@ msgstr "тук."
 msgid "We hope you enjoy using the new-look Europeana."
 msgstr ""
 "Надяваме се да се забавлявате докато използвате Europenana в новия и дизайн."
+
+#, fuzzy
+#~ msgid "Follow U"
+#~ msgstr "Следвай ни"
 
 #, fuzzy
 #~ msgid "Download the Europeana Open Culture app for iPad"
@@ -6063,9 +6076,6 @@ msgstr ""
 
 #~ msgid "Read Europeana eNews and learn about..."
 #~ msgstr "Четете новините на Europeana и научете повече за..."
-
-#~ msgid "New items in Europeana's collection"
-#~ msgstr "Новите материали в колекциите на Europeana"
 
 #~ msgid "Stories behind the cultural objects on Europeana"
 #~ msgstr "Историите, свързани с културните обекти в Europeana"

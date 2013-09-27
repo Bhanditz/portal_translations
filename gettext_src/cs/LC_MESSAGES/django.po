@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-19 10:18+0200\n"
+"POT-Creation-Date: 2013-09-27 15:15+0200\n"
 "PO-Revision-Date: 2012-02-21 15:09\n"
 "Last-Translator: <jacob.lundqvist@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -996,6 +996,7 @@ msgid "Date of creation of the Privacy Statement"
 msgstr "Datum vytvoření společného Prohlášení o ochraně osobních údajů"
 
 #: templates/rights/privacy.html:85 templates/rights/privacy.html.py:86
+#: templates/static_pages/aboutus_enews.html:15
 #: templates/static_pages/aboutus_enews.html:25
 #: templates/static_pages/aboutus_enews.html:34
 #: templates/static_pages/aboutus_enews.html:43
@@ -1508,6 +1509,11 @@ msgstr ""
 #, fuzzy
 msgid "Europeana newsletters"
 msgstr "Milníky European"
+
+#: templates/static_pages/aboutus_enews.html:15
+#, fuzzy
+msgid "Discover Europeana's hand-picked collections"
+msgstr "nových položkách v Europeaně"
 
 #: templates/static_pages/aboutus_enews.html:16
 #: templates/static_pages/aboutus_enews.html:26
@@ -5865,10 +5871,6 @@ msgstr "Ulož si v Mých Europeanách"
 
 #~ msgid "Read Europeana eNews and learn about..."
 #~ msgstr "Čtěte Europeana e-novinky a dozvíte se o ..."
-
-#, fuzzy
-#~ msgid "New items in Europeana's collection"
-#~ msgstr "nových položkách v Europeaně"
 
 #~ msgid "Stories behind the cultural objects on Europeana"
 #~ msgstr "příbězích kulturních objektů v Europeaně"
