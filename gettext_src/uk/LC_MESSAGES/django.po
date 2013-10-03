@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-03-21 21:37+0100\n"
-"PO-Revision-Date: 2013-08-27 13:31\n"
+"PO-Revision-Date: 2013-10-01 14:24\n"
 "Last-Translator: Ukrainian  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -660,11 +660,11 @@ msgstr "Надання кредиту, там де кредит обгрунто
 
 #: templates/rights/metadata-usage-guidelines.html:30
 msgid "Give attribution to the data provider and all contributing data aggregators, including Europeana. Aggregators perform a crucial task in collecting, storing and harmonising data so that it is more widely accessible and interoperable."
-msgstr ""
+msgstr "Додайте атрибути до даних постачальника та до всіх агрегаторів даних, включно із Європіана. Агрегатори роблять важливу роботу щодо збирання, зберігання та гармонізації даних, що робить іх ще більш доступними та взаємодоповненими."
 
 #: templates/rights/metadata-usage-guidelines.html:31
 msgid "Make sure that others are aware of the rights status of the Europeana metadata and are aware of these guidelines. One way you can do this is to keep links to the CC0 Public Domain Dedication intact."
-msgstr ""
+msgstr "Переконайтесь, що всі інші знають статус прав метаданих Європіана та ознайомлені із цима керівними принципами. Один із шляхів, що дозволити вам це зробити це залишити недоторканими посилання до спільноти CC0 Посвячення Суспільних Надбаннь(Public Domain Dedication)"
 
 #: templates/rights/metadata-usage-guidelines.html:32
 msgid "If, for technical or other reasons, you cannot include all the appropriate source links and rights information alongside the metadata that you have used,  you should consider including them separately, for example in a separate document that is distributed with the metadata or dataset."
@@ -672,11 +672,11 @@ msgstr ""
 
 #: templates/rights/metadata-usage-guidelines.html:33
 msgid "If, for technical or other reasons, you cannot include all the appropriate source links and rights information alongside the metadata that you have used,  you may consider linking only to the specific metadata source on Europeana, where all available sources and rights information can be found, including machine-readable formats."
-msgstr ""
+msgstr "Якщо, за технічних або інших причин, ви не можете включити усі вказані похідні посилання та інформацію щодо прав стосовно метаданих, що ви використовуєте, ви можете пов'язати лише спіцифічні джерела метаданих в Європіана, де ви знайдете усі доступні джерела та інформацію щодо прав, включно із форматами, що прийнятні для машиного читання."
 
 #: templates/rights/metadata-usage-guidelines.html:36
 msgid "Metadata is dynamic; consider using the metadata via the Europeana APIs or by linking."
-msgstr ""
+msgstr "Метадані є динамічними; використовуйте метадані через Європіана API або посилаючись."
 
 #: templates/rights/metadata-usage-guidelines.html:39
 msgid "When working with metadata obtained via Europeana,please be aware that it is not static but subject to change. Europeana continuously updates its metadata to correct mistakes and include new and additional information. Therefore, the best way touse metadata published by Europeana is via the Europeana API or by linking to the specific data. If, for technical or other reasons, you cannot do this,then provide a link back to the source of the data on Europeana or implement an update mechanism."
@@ -684,7 +684,7 @@ msgstr ""
 
 #: templates/rights/metadata-usage-guidelines.html:43
 msgid "Mention your modifications of the metadata and make your modified metadata available under the same terms."
-msgstr ""
+msgstr "Ви можете згадати ваші модіфікації метаданих та зробити ваші змінені метадані доступними за тими ж умовами."
 
 #: templates/rights/metadata-usage-guidelines.html:47
 msgid "Please do not use the metadata in a way that suggests you have any official status or that the data provider, aggregator or Europeana endorses you or your use of the metadata, unless you have prior permission to do so."
@@ -692,11 +692,11 @@ msgstr ""
 
 #: templates/rights/metadata-usage-guidelines.html:48
 msgid "Please do not mislead others or misrepresent the metadata or its sources."
-msgstr ""
+msgstr "Будьте ласкаві не вводіть в оману інших та не спотворюйте метадані та їх джерела."
 
 #: templates/rights/metadata-usage-guidelines.html:49
 msgid "Please make the metadata and any improvements thereto freely available under the same terms as Europeana, i.e., without claiming any legal right to, or imposing any legally binding conditions on access to the metadata or your improvements."
-msgstr ""
+msgstr "Будьте ласкаві зробіть метадані та будь які вдосконалення вільно доступними за тими ж умовами що і Європіана, наприклад, не вимогаючи жодних юридичних прав до, та не нав'язуючи жодних юридично обов'якових умов доступу до метаданих або до ваших вдосконалень."
 
 #: templates/rights/metadata-usage-guidelines.html:53
 msgid "Please note that you use the metadata at your own risk."
@@ -712,7 +712,7 @@ msgstr "Будь яке використання метаданих, має бу
 
 #: templates/rights/metadata-usage-guidelines.html:59
 msgid "Be aware of any additional applicable community norms of data providers and data aggregators."
-msgstr ""
+msgstr "Прийміть до уваги будь які доступні норми спільнот провайдерів та агрегаторів даних."
 
 #: templates/rights/metadata-usage-guidelines.html:63
 msgid "Thank you for your cooperation"
@@ -744,7 +744,7 @@ msgstr "Лог файли та Кукі"
 
 #: templates/rights/privacy.html:29 templates/tou/privacy.html:24
 msgid "When you visit  Europeana.eu, your requests and actions are automatically logged on our server. Log files contain information such as your IP address, the date and time you accessed the website, the pages you requested for viewing, etc. Log files do not contain any personal identifiable information about you."
-msgstr ""
+msgstr "Коли ви відвідуєте Europeana.eu , ваши запити та дії автоматично записуються на нашому сервері. Лог файли зберігають інформацію, як то вашу IP адресу, дату та час вашого відвідання веб сайту, сторінки що ви запитували для перегляду та інше. Лог файли не зберігають жодної приватної інформаціі, що дозволяє ідентифікувати вашу особу."
 
 #: templates/rights/privacy.html:32 templates/tou/privacy.html:27
 msgid "Cookies are small amounts of information sent from a web server to your browser and stored on your computers hard-drive. They contain information about the internet sites that you have visited. Europeana.eu uses cookies to recognise you and your access privileges. Most web browsers automatically accept cookies but you can usually change your browser settings to prevent this (although you might not have access to the full functionality of the website, such as the language settings you might have chosen)."
@@ -764,7 +764,7 @@ msgstr "Для доступа та вдосконалення юзабіліті
 
 #: templates/rights/privacy.html:40 templates/tou/privacy.html:35
 msgid "To identify technical shortcomings and to troubleshoot."
-msgstr ""
+msgstr "Щоб ідентифікувати технічні недоліки та усунути неполадки."
 
 #: templates/rights/privacy.html:41 templates/tou/privacy.html:36
 msgid "To develop personalised services."
@@ -836,7 +836,7 @@ msgstr ""
 
 #: templates/rights/privacy.html:85 templates/tou/privacy.html:80
 msgid "Date of creation of the Privacy Statement"
-msgstr ""
+msgstr "Дата створення Положення Конфіденційності"
 
 #: templates/rights/privacy.html:85 templates/rights/privacy.html.py:86
 #: templates/static_pages/aboutus_enews.html:24
@@ -851,19 +851,19 @@ msgstr "Вересень"
 
 #: templates/rights/privacy.html:86 templates/tou/privacy.html:81
 msgid "Last amendment"
-msgstr ""
+msgstr "Останні зміни"
 
 #: templates/rights/privacy.html:89 templates/tou/privacy.html:84
 msgid "Feedback Form [title may differ in different languages]"
-msgstr ""
+msgstr "Форма зворотнього зв'язку [заголовок може відрізнятись у різних мовах]"
 
 #: templates/rights/privacy.html:90
 msgid "If you encounter any problem using this site or wish to make general comments/suggestions, please use this"
-msgstr ""
+msgstr "Якщо у вас виникли будь які труднощі пов'язані із використанням цього сайту або ви маєте бажання надати загальні коментарі/пропозиції, будьте ласкаві скористайтесь"
 
 #: templates/rights/privacy.html:90
 msgid "contact form"
-msgstr ""
+msgstr "форма контактів"
 
 #: templates/rights/privacy.html:92 templates/tou/privacy.html:87
 msgid "All of our online forms that require you to enter personal information are designed to meet privacy requirements. This privacy policy provides further details."
@@ -959,7 +959,7 @@ msgstr "так само як для використання цифрових р
 
 #: templates/rights/terms-and-policies.html:24
 msgid "Public Domain works that you find via Europeana."
-msgstr ""
+msgstr "у суспільному надбанні, що ви знайдете за допомогою Європіана."
 
 #: templates/rights/terms-and-policies.html:24
 msgid "Additionally we provide a list of"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-12 13:48+0200\n"
+"POT-Creation-Date: 2013-10-02 11:05+0200\n"
 "PO-Revision-Date: 2013-04-26 19:04\n"
 "Last-Translator: Catalan  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1041,6 +1041,7 @@ msgid "Date of creation of the Privacy Statement"
 msgstr "Data de creació de la Declaració de Privacitat"
 
 #: templates/rights/privacy.html:85 templates/rights/privacy.html.py:86
+#: templates/static_pages/aboutus_enews.html:15
 #: templates/static_pages/aboutus_enews.html:25
 #: templates/static_pages/aboutus_enews.html:34
 #: templates/static_pages/aboutus_enews.html:43
@@ -1593,6 +1594,11 @@ msgstr "Guió i crèdits del vídeo de llançament d'Europeana (amunt)"
 #: templates/static_pages/aboutus_enews.html:4
 msgid "Europeana newsletters"
 msgstr "Butlletins d'informació d'Europeana"
+
+#: templates/static_pages/aboutus_enews.html:15
+#, fuzzy
+msgid "Discover Europeana's hand-picked collections"
+msgstr "Nous ítems a la col·lecció Europeana"
 
 #: templates/static_pages/aboutus_enews.html:16
 #: templates/static_pages/aboutus_enews.html:26
@@ -3319,6 +3325,7 @@ msgid "Media Types"
 msgstr "Tipus"
 
 #: templates/static_pages/prop_file.html:359
+#: templates/static_pages/usingeuropeana_searchwidget.html:26
 msgid "Providers"
 msgstr "Proveïdors"
 
@@ -5684,6 +5691,270 @@ msgid ""
 "you want. This also includes print and email options."
 msgstr ""
 
+#: templates/static_pages/usingeuropeana_searchwidget.html:3
+#, fuzzy
+msgid "Europeana - How to configure your search widget"
+msgstr "Quin és el giny de cerca remota d'Europeana?"
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:9
+#, fuzzy
+msgid "How to configure your search widget"
+msgstr "Quin és el giny de cerca remota d'Europeana?"
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:10
+msgid ""
+"You can add a Europeana search facility to your blog or website. Our simple "
+"wizard takes you through the process step-by-step and gives you a snippet of "
+"code to embed."
+msgstr ""
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:11
+msgid ""
+"Configure the widget to search all collections and data providers within "
+"Europeana, or refine it to suit your website, e.g. to search only for videos "
+"to do with the First World War, or only images by Italian painters from the "
+"Rijksmuseum."
+msgstr ""
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:12
+#, fuzzy
+msgid "The Europeana Search Widget works with..."
+msgstr "Giny de Cerca d'Europeana"
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:13
+#: templates/static_pages/usingeuropeana_searchwidget.html:15
+#, fuzzy
+msgid "Information to follow."
+msgstr "Quina informació recollim?"
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:14
+#, fuzzy
+msgid "The Europeana Search Widget doesn't work with..."
+msgstr "Giny de Cerca d'Europeana"
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:16
+#, fuzzy
+msgid "Set up your Europeana Search Widget:"
+msgstr "Giny de Cerca d'Europeana"
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:18
+#, fuzzy
+msgid "Go to the search widget page."
+msgstr "són alguns dels termes de cerca"
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:19
+#, fuzzy
+msgid "Introduction tab"
+msgstr "Introducció"
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:19
+msgid ""
+"The Europeana Search widget is presented. A progress bar shows you how far "
+"you are through the process and a video takes you through the process step "
+"by step. To start configuring your widget, tap 'Next' or the 'Filter' tab "
+"heading."
+msgstr ""
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:20
+msgid "Filter tab"
+msgstr ""
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:20
+msgid ""
+"If you want your widget to include the entire Europeana dataset, you can go "
+"straight to the 'Style' tab. Tap 'Next' or the 'Style' tab heading."
+msgstr ""
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:21
+#, fuzzy
+msgid "To tailor your search widget"
+msgstr "Filtrar la cerca"
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:23
+#, fuzzy
+msgid "Keyword search"
+msgstr "Filtrar la cerca"
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:23
+msgid ""
+"By default, the widget searches the entire Europeana dataset. You can "
+"restrict the search to a key word or phrase. To do this, enter the key word"
+"(s) in the 'Search for' field. For example, if you are adding a widget to "
+"your First World War blog about military uniform, you might type 'uniform'."
+msgstr ""
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:24
+msgid ""
+"All the normal search functions work in this field, for example, use double "
+"quotes for a phrase, e.g. &quot;military uniform&quot;, use 'AND' to include "
+"searches on two words or 'NOT' to hide results for a particular word, e.g. "
+"'uniform AND war' or 'uniform NOT school'."
+msgstr ""
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:25
+#, fuzzy
+msgid "Search on types"
+msgstr "Consells de cerca"
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:25
+msgid ""
+"By default, the widget will search the entire Europeana dataset for your key "
+"words. You can restrict the search to 'Titles', 'Creators', 'Subjects', "
+"'Times/Periods', or 'Places'.  For example, you may wish to look only for "
+"results to do with 'Paris'. In which case, you would enter 'Paris' as a key "
+"word and 'Places' as a type. Tap 'Change' next to 'All Fields' and select "
+"the option you need."
+msgstr ""
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:26
+msgid ""
+"By default, the widget returns results from all of Europeana's providers. "
+"You can restrict it to your chosen providers.  Tap 'Change' next to 'All  "
+"Providers' and select the providers you need. You can search for a provider "
+"using the search field above the list.  The providers are presented in order "
+"of the size of their contributions to Europeana. The number in brackets "
+"shows how many items from that provider are available. If the name of the "
+"provider is followed by an arrow, then they are a data aggregator, tap the "
+"arrow to see the institutions included in their collection. Note: you can "
+"select more than one."
+msgstr ""
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:27
+#, fuzzy
+msgid "Countries"
+msgstr "País"
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:27
+msgid ""
+"By default, the widget returns results from all countries. You can restrict "
+"it to your chosen countries. Tap 'Change' next to 'All Providing Countries' "
+"and select the countries you need. The countries are presented in order of "
+"the size of their contributions to Europeana. The number in brackets shows "
+"how many items from that country are available. Note: you can select more "
+"than one. To clear your selection and start again, tap 'Clear'."
+msgstr ""
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:28
+#, fuzzy
+msgid "Media types"
+msgstr "Tipus"
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:28
+msgid ""
+"By default, the widget returns results of all media types - image, text, "
+"sound, video and 3D. You can restrict it to only the media types you're "
+"interested in. Tap 'Change' next to 'All Media Types' and select the types "
+"you need. The media types are presented in order of size. The number in "
+"brackets shows how many items of that media type are available. Note: you "
+"can select more than one.  To clear your selection and start again, tap "
+"'Clear'."
+msgstr ""
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:29
+#, fuzzy
+msgid "Copyright"
+msgstr "Per dret d'autor"
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:29
+msgid ""
+"By default, the widget returns results with any copyright status. You can "
+"restrict this, for example, to only show re-usable content. Tap 'Change' "
+"next to 'All Copyrights' and select the statuses you need. The copyright "
+"statuses are presented in order of size. The number in brackets shows how "
+"many items of that status are available. Note: you can select more than one. "
+"To clear your selection and start again, tap 'Clear'."
+msgstr ""
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:30
+#, fuzzy
+msgid "More information on the CC licenses"
+msgstr "Europeana - Drets reservats - Accés de pagament"
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:31
+#, fuzzy
+msgid "More information on the Rights Reserved - Free Access label"
+msgstr "Europeana - Drets reservats - Accés Lliure"
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:32
+#, fuzzy
+msgid "More information on the Rights Reserved - Restricted Access label"
+msgstr "Europeana - Drets reservats - Accés restringit"
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:33
+#, fuzzy
+msgid "More information on the Rights Reserved - Paid Access label"
+msgstr "Europeana - Drets reservats - Accés de pagament"
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:34
+#, fuzzy
+msgid "More information on the Unknown rights label"
+msgstr "Europeana - Drets reservats - Accés Lliure"
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:35
+#, fuzzy
+msgid "Languages"
+msgstr "Llengua"
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:35
+msgid ""
+"By default, the widget returns results in all languages. You can restrict it "
+"to your chosen languages. Tap 'Change' next to 'All Languages' and select "
+"the languages you need. The languages are presented in order of the size of "
+"their representation in Europeana. The number in brackets shows how many "
+"items of each language are available. Note: you can select more than one. To "
+"clear your selection and start again, tap 'Clear'."
+msgstr ""
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:36
+msgid ""
+"When you have selected all your filters, tap 'Next' or the 'Style' tab "
+"heading."
+msgstr ""
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:38
+msgid "Style tab"
+msgstr ""
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:38
+msgid ""
+"You can choose a black or white widget and select to include thumbnails or "
+"not. Select the style you would like to use."
+msgstr ""
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:39
+msgid "Tap 'Next' or the 'Preview' tab heading."
+msgstr ""
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:40
+#, fuzzy
+msgid "Preview tab"
+msgstr "Previsualització"
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:40
+msgid ""
+"Your widget will be displayed. Please note that the widget is responsive and "
+"so expands to fit the width of its container. For this reason, it may be a "
+"different size on the preview than it will be on your own web page."
+msgstr ""
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:42
+msgid ""
+"If you wish to amend the widget's properties, just go back to the 'Search', "
+"'Filter' or 'Style' tab and make your changes."
+msgstr ""
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:43
+msgid ""
+"If you are happy with your widget, simply copy the 'Embed' code displayed "
+"and paste this into your web page."
+msgstr ""
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:44
+msgid ""
+"We would love to know how you are using this search widget, please tell us "
+"by dropping us an email at"
+msgstr ""
+
 #: templates/static_pages/whatsnew.html:3
 msgid "Europeana - What's New"
 msgstr ""
@@ -5752,9 +6023,6 @@ msgstr ""
 #~ "l'Òpera House, la galeria és una part crítica de la infraestructura "
 #~ "turística i cultural d'Irlanda, que rep més de 200.000 visitants a l'any."
 
-#~ msgid "Europeana - Rights Reserved - Free Access"
-#~ msgstr "Europeana - Drets reservats - Accés Lliure"
-
 #~ msgid ""
 #~ "This item is protected by copyright and/or related rights. This item is "
 #~ "accessible without charge, but its use is subject to the licensing "
@@ -5783,9 +6051,6 @@ msgstr ""
 #~ "Tots els altres actes de reproducció i comunicació pública són subjectes "
 #~ "a les condicions de la llicència associades a l'obra."
 
-#~ msgid "Europeana - Rights Reserved - Paid Access"
-#~ msgstr "Europeana - Drets reservats - Accés de pagament"
-
 #~ msgid ""
 #~ "This item is protected by copyright and/or related rights. This item is "
 #~ "only accessible against payment of a fee and its use is subject to the "
@@ -5795,9 +6060,6 @@ msgstr ""
 #~ "ítem només és accessible previ pagament d'una taxa i el seu ús està "
 #~ "subjecte a les condicions de kla llicència establertes per la "
 #~ "organització que hi dóna accés."
-
-#~ msgid "Europeana - Rights Reserved - Restricted Access"
-#~ msgstr "Europeana - Drets reservats - Accés restringit"
 
 #~ msgid ""
 #~ "This item is protected by copyright and/or related rights. This item is "
@@ -5869,9 +6131,6 @@ msgstr ""
 
 #~ msgid "Read Europeana eNews and learn about..."
 #~ msgstr "Llegiu l'eNews d'Europeana per aprendre sobre ..."
-
-#~ msgid "New items in Europeana's collection"
-#~ msgstr "Nous ítems a la col·lecció Europeana"
 
 #~ msgid "Stories behind the cultural objects on Europeana"
 #~ msgstr "Les històries que hi ha darrera els objectes culturals d'Europeana"
@@ -6659,9 +6918,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Tingueu en compte que en aquest moment només estem explorant les "
 #~ "possibilitats de la  geolocalització. Per tant, només"
-
-#~ msgid "some of the search terms"
-#~ msgstr "són alguns dels termes de cerca"
 
 #~ msgid "on Europeana can be now displayed on a map."
 #~ msgstr "que es poden veure al mapa."

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-12 13:49+0200\n"
+"POT-Creation-Date: 2013-10-02 11:05+0200\n"
 "PO-Revision-Date: 2013-01-21 21:45\n"
 "Last-Translator: Bulgarian  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,1084 +17,116 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Translated-Using: django-rosetta 0.5.6\n"
 
-#: templates/static_pages/usingeuropeana_myeuropeana.html:3
-msgid "Europeana - Using My Europeana"
-msgstr "Europeana - използване на моята Europeana"
+#: templates/leftmenu.html:3
+msgid "About Us"
+msgstr "За нас"
 
-#: templates/static_pages/usingeuropeana_myeuropeana.html:9
-#: templates/static_pages/usingeuropeana_search.html:16
-msgid "Using My Europeana"
-msgstr "Как да използвам моята Europeana"
+#: templates/leftmenu.html:6
+msgid "Background"
+msgstr "История"
 
-#: templates/static_pages/usingeuropeana_myeuropeana.html:10
-#: templates/static_pages/usingeuropeana_myeuropeana.html:11
-#: templates/static_pages/usingeuropeana_myeuropeana.html:20
-#: templates/static_pages/usingeuropeana_myeuropeana.html:21
-msgid "My Europeana"
-msgstr "Моята Europeana"
+#: templates/leftmenu.html:8
+msgid "New content"
+msgstr "Ново съдържание"
 
-#: templates/static_pages/usingeuropeana_myeuropeana.html:10
-msgid "is your personal space on Europeana."
-msgstr "е Вашето персонално място в Europeana."
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:11
-msgid "Register for"
-msgstr "Регистрирайте се в"
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:11
-msgid "and you can"
-msgstr "и ще можете да"
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:14
-msgid "Save this search"
-msgstr "Запази търсенето"
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:14
-msgid ""
-"Keep up to date on a particular topic in Europeana by saving a search, so "
-"you can easily perform it again in future."
-msgstr ""
-"запазените резултати от определено търсене могат лесно да бъдат извикани "
-"отново в бъдеще, без да се повтаря самото търсене."
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:15
-msgid "Add a tag"
-msgstr "Добави етикет"
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:15
-msgid ""
-"Label your favourite items in Europeana with tags that mean something to "
-"you. You can then see all objects you have tagged, sorted by the keywords "
-"you have chosen, in the My Europeana interface."
-msgstr ""
-"Маркира вашите любими обекти в Europeana, чрез поставяне на етикети, които "
-"имат определено значение за вас. По-късно в моята Europeana, може да "
-"прегледате всички обекти, на които сте поставили етикети, подредени според "
-"ключовите думи, които сте подбрали."
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:16
-msgid "Save to My Europeana"
-msgstr "Запази в Моята Europeana"
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:16
-msgid "Store your favourite items for later viewing."
-msgstr ""
-"запазва  любимите Ви обекти, които могат да бъдат преглеждани многократно в "
-"бъдеще"
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:17
-msgid "API keys"
-msgstr "API ключ"
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:17
-msgid ""
-"If you are a developer who has registered for one or more API keys, these "
-"will be shown on the API Keys tab."
-msgstr ""
-"Ако сте разработчик, които е регистрирал един или повече API ключове, това "
-"ще бъде изобразено в таб-а API ключове."
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:20
-msgid "To save a search, add a tag or save an item, simply login to"
-msgstr ""
-"За да запазите търсене, добавите етикет или да запазите обект, е необходимо "
-"просто да влезете в профила си в"
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:20
-msgid "and click on the relevant action from the menu."
-msgstr "и кликнете на подходящата функция от менюто."
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:21
-msgid "To view your saved items, searches and tags, use the"
-msgstr ""
-"За да прегледате запазените обекти, търсения или етикети, моля използвайте"
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:21
-msgid "shortcuts in the header."
-msgstr "бързата връзка от лентата в на-горната част на страницата."
-
-#: templates/static_pages/usingeuropeana_results.html:3
-msgid "Europeana - Results in Europeana"
-msgstr "Europeana - резултати"
-
-#: templates/static_pages/usingeuropeana_results.html:9
-#: templates/static_pages/usingeuropeana_search.html:15
-msgid "Results in Europeana"
-msgstr "Резултати"
-
-#: templates/static_pages/usingeuropeana_results.html:11
-msgid ""
-"Europeana divides search results into 5 main categories: text, images, "
-"video, sound and 3D objects."
-msgstr ""
-"Europeana разделя намерените резултати в 5 категории: текст, изображения, "
-"видео, аудио и 3D обекти."
-
-#: templates/static_pages/usingeuropeana_results.html:12
-msgid "The types of items included in each section are:"
-msgstr "Видовете обекти включени във всяка секция са:"
-
-#: templates/static_pages/usingeuropeana_results.html:15
-msgid "Texts"
-msgstr "Текстове"
-
-#: templates/static_pages/usingeuropeana_results.html:15
-msgid ""
-"books, letters, archival papers, dissertations, poems, newspaper articles, "
-"facsimiles, manuscripts and music scores."
-msgstr ""
-"книги, писма, архивни документи, дисертации, стихове, статии от вестници и "
-"списания, факсимилета, ръкописи и музикални текстове."
-
-#: templates/static_pages/usingeuropeana_results.html:16
-msgid "Images"
-msgstr "Изображения"
-
-#: templates/static_pages/usingeuropeana_results.html:16
-msgid ""
-"paintings, drawings, prints, photographs, pictures of museum objects, maps, "
-"graphic designs, plans and musical notation."
-msgstr ""
-"картини, рисунки, отпечатъци, фотографии, снимки на музейни обекти, карти, "
-"графики, планове и музикални ноти."
-
-#: templates/static_pages/usingeuropeana_results.html:17
-msgid "Video"
-msgstr "Видео"
-
-#: templates/static_pages/usingeuropeana_results.html:17
-msgid "films, news broadcasts and television programmes"
-msgstr "филми, новини, предавания и телевизионни програми"
-
-#: templates/static_pages/usingeuropeana_results.html:18
-msgid "Sound"
-msgstr "Звукови файлове"
-
-#: templates/static_pages/usingeuropeana_results.html:18
-msgid ""
-"music and spoken word from cylinders, tapes, discs and radio broadcasts."
-msgstr "музика и фонографски записи, аудиозаписи, дискове и радиопредавания."
-
-#: templates/static_pages/usingeuropeana_results.html:19
-msgid "3D"
-msgstr "3D"
-
-#: templates/static_pages/usingeuropeana_results.html:19
+#: templates/leftmenu.html:9
 #, fuzzy
-msgid "virtual 3D representations of objects, architecture or places."
-msgstr ""
-"виртуално 3D представяне на обекти, архитектурни забележителности или места."
-
-#: templates/static_pages/usingeuropeana_results.html:22
-msgid ""
-"You can also sort search results by media type, language, date, country, "
-"copyright, or provider using the Refine your search pane of the results "
-"screen. See"
-msgstr ""
-"Намерените резултати от търсенето могат да бъдат сортирани според типа на "
-"носителя, език, дата, страна, авторско право, или доставчик чрез използване "
-"на бутон Ограничи търсенето разположен на панела на екрана с резултатите. Виж"
-
-#: templates/static_pages/usingeuropeana_results.html:22
-#: templates/static_pages/usingeuropeana_search.html:9
-#: templates/static_pages/usingeuropeana_search.html:13
-msgid "Searching Europeana"
-msgstr "Търсене в Europeana"
-
-#: templates/static_pages/usingeuropeana_results.html:22
-msgid "for more details."
-msgstr "за повече детайли."
-
-#: templates/static_pages/usingeuropeana_results.html:24
-msgid ""
-"Search results are presented in a grid. You can select how many results to "
-"show on a page by selecting an option from the"
-msgstr ""
-"Намерените резултати са представени в решетка (таблица). Можете да изберете "
-"колко резултата да се показват на една страница, като изберете опция от "
-"падащото метю"
-
-#: templates/static_pages/usingeuropeana_results.html:24
-msgid "Results per page"
-msgstr "Резултати на страница"
-
-#: templates/static_pages/usingeuropeana_results.html:24
-msgid "drop-down list either above or below the results. You can select"
-msgstr ", разположено над и под резултатите. Можете да избирате между"
-
-#: templates/static_pages/usingeuropeana_results.html:24
-#: templates/static_pages/usingeuropeana_results.html:25
-#: templates/static_pages/usingeuropeana_results.html:41
-#: templates/static_pages/usingeuropeana_results.html:49
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid "or"
-msgstr "или"
-
-#: templates/static_pages/usingeuropeana_results.html:25
-msgid ""
-"To navigate through the results pages, select the single arrows that are "
-"shown both above and below the results grid. Hit"
-msgstr ""
-"За да навигирате в страниците с резултати, изберете единичните стрелки, "
-"които са разположени както над, така и под мрежата с резултатите. Натиснете"
-
-#: templates/static_pages/usingeuropeana_results.html:25
-msgid "to move one page in either direction, or hit the double arrows"
-msgstr ""
-"за да се предвижите една страница в указаната посока или кликнете върху "
-"двойната стрелка "
-
-#: templates/static_pages/usingeuropeana_results.html:25
-msgid ""
-"to move to the last/first pages. Alternatively, type in the page number of "
-"the page you'd like to view."
-msgstr ""
-", за да се предвижите към първата/последната странциа. Като алтернатива може "
-"да въведете номера на страницата, на която желаете да отидете. "
-
-#: templates/static_pages/usingeuropeana_results.html:26
-msgid "Further details"
-msgstr "Повече детайли"
-
-#: templates/static_pages/usingeuropeana_results.html:26
-msgid "of an object can be found by selecting an item in the results list."
-msgstr "за обекта може да видите като го изберете от списъка с резултатите."
-
-#: templates/static_pages/usingeuropeana_results.html:28
-msgid "Individual items"
-msgstr "Дигитален обект"
-
-#: templates/static_pages/usingeuropeana_results.html:30
-msgid ""
-"After performing your search, select the item you want to view to find out "
-"more about it."
-msgstr ""
-"След като изпълните търсенето изберете обекта, за който желаете да научите "
-"повече."
-
-#: templates/static_pages/usingeuropeana_results.html:31
-msgid "The item page shows you the following:"
-msgstr "Страницата за дигиталния обект съдържа:"
-
-#: templates/static_pages/usingeuropeana_results.html:34
-msgid "Thumbnail image/preview"
-msgstr "Тъмбнейл изображение"
-
-#: templates/static_pages/usingeuropeana_results.html:34
-msgid "hit the magnifying glass"
-msgstr "кликнете върху увеличаващата лупа"
-
-#: templates/static_pages/usingeuropeana_results.html:34
-msgid "View"
-msgstr "Виж"
-
-#: templates/static_pages/usingeuropeana_results.html:34
-msgid ""
-"link at the bottom of the thumbnail to see a bigger image and additional "
-"information in a new window. To close that window, hit X at the top right."
-msgstr ""
-"разположена под тъмбнейла, за да видите (в нов прозорец) уголемено "
-"изображението и допълнителна информация. За да затворите прозореца натиснете "
-"Х в горния десен ъгъл."
-
-#: templates/static_pages/usingeuropeana_results.html:35
-msgid ""
-"If there are multiple images of the same object, e.g. pages of a book or "
-"different views of an object, a carousel of images is displayed under the "
-"main thumbnail. You can select items in the carousel or the left and right "
-"arrows on the main thumbnail to browse the images."
-msgstr ""
-"Ако към даден обект са асоциирани множество изображения, например отделните "
-"страници на дадена книга или различни изображения на един обект, ще се появи "
-"лента с изображения под основния тъмбнейл. Може да си изберете изображение "
-"от лентата или с помощта на дясната или лява стрелка да разгледате "
-"изображенията."
-
-#: templates/static_pages/usingeuropeana_results.html:37
-msgid "Rights and licensing"
-msgstr "Права и лицензи"
-
-#: templates/static_pages/usingeuropeana_results.html:37
-msgid ""
-"below each preview image you will find the rights statement indicating the "
-"terms on which you may re-use the digital object, including the preview. "
-"There are currently 12 rights statements describing the different terms on "
-"which re-use is permitted. Clicking on the rights statement will open a new "
-"window with a full description of the terms or, in the case of a Creative "
-"Commons licence, a link to the licence itself."
-msgstr ""
-"под всяко изображение ще намерите публикувани правата за ползване, при които "
-"може повторно да използвате дадения дигитален обект, включително "
-"изображението. В момента има 12 права, описващи различните условия, при "
-"които е разрешена повторната употреба. Кликвайки върху линка с правата, ще "
-"се отвори нов прозорец с пълно описание на условията или в случай на "
-"Creative Commons лиценз, линк към самия лиценз."
-
-#: templates/static_pages/usingeuropeana_results.html:39
-msgid "View item at"
-msgstr "Виж обекта в"
-
-#: templates/static_pages/usingeuropeana_results.html:39
-msgid ""
-"view the item on the item provider's own website. This is useful, for "
-"example, to find additional information and larger images, or to view an "
-"item in its fullest form, e.g. a whole book or video."
-msgstr ""
-"показва обекта на собствения уеб-сайт на доставчика. Това е полезно, "
-"например, за да намерите допълнителна информация и по-голям размер снимки, "
-"или да видите елемента в пълната си форма, например цялата книга или видео."
-
-#: templates/static_pages/usingeuropeana_results.html:40
-msgid "Share item"
-msgstr "Сподели"
-
-#: templates/static_pages/usingeuropeana_results.html:40
-msgid ""
-"share the item via a range of social media, or to print or email it. Just "
-"select the option you want."
-msgstr ""
-"споделя елемента в различни социални медии, отпечататва го или го изпращата "
-"по е-мейл. Просто изберете желаната опция."
-
-#: templates/static_pages/usingeuropeana_results.html:41
-msgid "Cite on Wikipedia"
-msgstr "Цитирай в Уикипедия"
-
-#: templates/static_pages/usingeuropeana_results.html:41
-msgid ""
-"this function will help you link to Europeana items and cite them in "
-"Wikipedia articles. The code you need is formatted for direct inclusion in "
-"Wikipedia's article authoring mode. Select"
-msgstr ""
-"тази функция помага на направите линк към Europeana или да цитирате оебкта в "
-"Уикипедия. Необходимия ви програмен код е форматиран във вид, позволявщ "
-"директно вкмъкване в статия за Уикипедия. Изберете"
-
-#: templates/static_pages/usingeuropeana_results.html:41
-msgid "Citation"
-msgstr "Цитат"
-
-#: templates/static_pages/usingeuropeana_results.html:41
-msgid "Footnote"
-msgstr "Бележка под линия"
-
-#: templates/static_pages/usingeuropeana_results.html:41
-msgid ""
-"and copy and paste the text provided. To close the citation window, hit the "
-"X in the top right corner."
-msgstr ""
-"и копирайте и поставете текста, който ви предоставяме. За да затворите "
-"прозореца за цитиране кликнете върху Х в горния десен ъгъл."
-
-#: templates/static_pages/usingeuropeana_results.html:42
-msgid "Translate details"
-msgstr "Преведи детайлите"
-
-#: templates/static_pages/usingeuropeana_results.html:42
-msgid ""
-"select an option from the drop-down list of languages. Please note this is a "
-"machine translation."
-msgstr ""
-"изберете опция от падащото меню със списък на езици. Моля, отбележете че "
-"това е автоматичен превод."
-
-#: templates/static_pages/usingeuropeana_results.html:45
-msgid ""
-"The main area of the item page gives you more information about the item. "
-"The amount and type of information will vary but may contain the item's name "
-"and description along with other information including places, dates, "
-"formats, and providers."
-msgstr ""
-"Основната част от информацията на страницата за дигитализирания обект е за "
-"самия обект. Количеството и вида на информацията може да варира, но винаги "
-"съдържа името и описанието на обекта, наред с допълнителна информация "
-"относно мястото, датата, формата и доставчика на данни."
-
-#: templates/static_pages/usingeuropeana_results.html:47
-msgid ""
-"This information may contain links to further details. Select these to find "
-"the item in an external service, e.g. the data provider's own website, or to "
-"search Europeana for the highlighted term."
-msgstr ""
-"Тази информация може да съдържа връзки към допълнителни детайли за обекта. "
-"Последвайте ги за да откриете обекта във външни услуги като например сайта "
-"на доставчика на данни."
-
-#: templates/static_pages/usingeuropeana_results.html:49
-msgid "To move to the previous or next item in your search results, hit the"
-msgstr ""
-"За да се предвижите към следващия или предишния запис в списъка с "
-"резултатите, натиснете"
-
-#: templates/static_pages/usingeuropeana_results.html:49
-msgid "Next"
-msgstr "Следващ"
-
-#: templates/static_pages/usingeuropeana_results.html:49
-msgid "Previous"
-msgstr "Предишен"
-
-#: templates/static_pages/usingeuropeana_results.html:49
-msgid "options"
-msgstr "бутон"
-
-#: templates/static_pages/usingeuropeana_results.html:51
-msgid "A carousel showing"
-msgstr "Лентата "
-
-#: templates/static_pages/usingeuropeana_results.html:51
-msgid "Similar content"
-msgstr "Подобно съдържание"
-
-#: templates/static_pages/usingeuropeana_results.html:51
-msgid ""
-"of up to 10 items related to the one you are viewing. Select an image to "
-"view more details."
-msgstr ""
-"показва до 10 подобни обекта на този, който в момента разглеждате. Изберете "
-"изображение, за да видите повече детайли."
-
-#: templates/static_pages/usingeuropeana_results.html:53
-msgid "Another way of finding similar content is to use the links in the"
-msgstr ""
-"Друга възможност за намиране на сходно съдържание е да използвате линка в"
-
-#: templates/static_pages/usingeuropeana_results.html:53
-msgid "Search also for"
-msgstr "Търсене и за"
-
-#: templates/static_pages/usingeuropeana_results.html:53
-msgid ""
-"pane. This provides links to other searches for items with, for example, the "
-"same title, author, format or are from the same provider. A number in "
-"brackets, e.g. (33) shows the number of results each of these searches "
-"returns. Simply hit the link to perform the search."
-msgstr ""
-"панела. Тук се предлага линк към сходно търсене например по същото заглавие, "
-"същия автор, формат или от същия доставчик на данни. Цифрата в скобите напр. "
-"(33) показва броя на резултатите, които всяко от тези запитвания ще върне. "
-"Кликнете върху линка, за да изпълните търсенето."
-
-#: templates/static_pages/usingeuropeana_search.html:3
-msgid "Europeana - Searching Europeana"
-msgstr "Europeana - Търсене в Europeana"
-
-#: templates/static_pages/usingeuropeana_search.html:11
-msgid ""
-"Welcome to Europeana. This page describes some of the things that you can do "
-"while you are here. Learn more about:"
-msgstr ""
-"Добре дошли в Europeana. Тази страница описва някои от нещата, които може да "
-"вършите докато сте тук. Научете повече за:"
-
-#: templates/static_pages/usingeuropeana_search.html:13
-msgid ""
-"Search tips, refined search, phrase search, exclude words, auto-completion, "
-"filter results, share your search."
-msgstr ""
-"съвети за търсене; ограничаване на търсенето; търсене по фраза; стоп-думи; "
-"автоматично завършване на думата; филтриране на резултатите; споделяне на "
-"търсенето."
-
-#: templates/static_pages/usingeuropeana_search.html:14
-msgid "Exploring Europeana"
-msgstr "Изследване в Europeana"
-
-#: templates/static_pages/usingeuropeana_search.html:14
-msgid "exhibitions, new content."
-msgstr "изложби; ново съдържание."
-
-#: templates/static_pages/usingeuropeana_search.html:15
-msgid ""
-"Seeing further details, rights and licence information, translating details, "
-"searching on external services, related searches on Europeana, viewing item "
-"on provider's site, embedding, and citing."
-msgstr ""
-"прегледайте пълните детайли; правата за ползване и лицензионната информация; "
-"превода на детайлите; търсене чрез външни услиги; сързани услуги в "
-"Europeana; преглед на обекта на сайта на доставчика; вграждане на обекта и "
-"цитиране."
-
-#: templates/static_pages/usingeuropeana_search.html:16
-msgid "Saving searches, saving items, and adding tags."
-msgstr "запазване на търсенето; запазване на обектите и добавяне на етикети."
-
-#: templates/static_pages/usingeuropeana_search.html:19
-msgid "General Search"
-msgstr "Общи съвети"
-
-#: templates/static_pages/usingeuropeana_search.html:21
-msgid ""
-"Searching the millions of items in Europeana is simple. Just enter your "
-"search term and hit"
-msgstr ""
-"Търсенето в милионите обекти, включени в Europeana e лесно. Само въведете "
-"фразата за търсене и натиснете"
-
-#: templates/static_pages/usingeuropeana_search.html:21
-#: templates/static_pages/usingeuropeana_search.html:25
-#: templates/static_pages/usingeuropeana_search.html:27
-#: templates/static_pages/usingeuropeana_search.html:45
-msgid "Search"
-msgstr "Търси"
-
-#: templates/static_pages/usingeuropeana_search.html:23
-msgid "Specific search"
-msgstr "Детайлно търсене"
-
-#: templates/static_pages/usingeuropeana_search.html:25
-msgid "You can narrow your search with the arrow to the right of"
-msgstr ""
-"Можете да ограничите търсенето като използвате стрелката от дясната страна "
-"на бутона"
-
-#: templates/static_pages/usingeuropeana_search.html:25
-msgid "Search All fields"
-msgstr "Търси във всички полета"
-
-#: templates/static_pages/usingeuropeana_search.html:25
-msgid "and selecting a category"
-msgstr "като изберете категория"
-
-#: templates/static_pages/usingeuropeana_search.html:25
-msgid "Titles, Creators, Subjects, Dates/Periods, Places"
-msgstr "Заглавие, Автор, Тема, Дата/Период, Място"
-
-#: templates/static_pages/usingeuropeana_search.html:25
-msgid "Then enter your search term and hit"
-msgstr "След това въведете фразата за търсене и натиснете"
-
-#: templates/static_pages/usingeuropeana_search.html:27
-msgid ""
-"Alternatively, just ask yourself who, what, where or when you are interested "
-"in and type these words into Europeana's search box followed by a colon (:). "
-"Then enter your search term and hit"
-msgstr ""
-"В допълнение може да си зададете въпроса от кого, какво, къде или кога се "
-"интересувате и чрез изписване на тези ключови думи в полете за търсене  на "
-"Europeana, последвани от двуеточие (:). След това въведете фразата за "
-"търсене и натиснете"
-
-#: templates/static_pages/usingeuropeana_search.html:29
-msgid "For specific searches, you could:"
-msgstr "За да детайлизирате търсенето:"
-
-#: templates/static_pages/usingeuropeana_search.html:31
-#: templates/static_pages/usingeuropeana_search.html:32
-#: templates/static_pages/usingeuropeana_search.html:33
-#: templates/static_pages/usingeuropeana_search.html:34
-msgid "Use the"
-msgstr "Използвайте филтъра"
-
-#: templates/static_pages/usingeuropeana_search.html:31
-msgid "Creator"
-msgstr "Автор/Създател"
-
-#: templates/static_pages/usingeuropeana_search.html:31
-#: templates/static_pages/usingeuropeana_search.html:32
-#: templates/static_pages/usingeuropeana_search.html:33
-#: templates/static_pages/usingeuropeana_search.html:34
-msgid "filter or enter"
-msgstr "или въведете ключа"
-
-#: templates/static_pages/usingeuropeana_search.html:31
-msgid ""
-"followed by a name of, for example, an actor, author or architect. Your "
-"results will display only items for which the name you entered is listed as "
-"the creator. For example, searching for"
-msgstr ""
-"последван от името, например на автор, актьор или архитект. Резултатите ще "
-"включват само обекти, за които търсената от вас личност е посочена като "
-"създател. Например търсите"
-
-#: templates/static_pages/usingeuropeana_search.html:31
-msgid ""
-"will narrow your results to van Gogh's works, excluding photographs of the "
-"artist or documentaries about him and his work."
-msgstr ""
-"ще ограничи резултатите само до записи с творби на Ван Гог, но няма да бъдат "
-"включени негови фотографии или архивни записи свързани с него или неговата "
-"работа."
-
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid "Subject"
-msgstr "Тема"
-
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid "Title"
-msgstr "Заглавие"
-
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid ""
-"followed by a type of item, a subject you are interested in or words from "
-"the title of the item you are looking for. Your search results will display "
-"only items of the requested type or subject or items whose title includes "
-"your search term. For example, searching for"
-msgstr ""
-"последван от вида материал или обект, от който се интересувате или дума от "
-"заглавието на обекта, който търсите. Резултатите ще включват само обекти от "
-"търсения тип или материал или такива, чийто заглавия включват търсената от "
-"вас фраза. Например търсите"
-
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid "will narrow your results to maps, or"
-msgstr "ще ограничи търсенето само до карти или"
-
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid ""
-"will display artworks, buildings and monuments done in the Art Nouveau style."
-msgstr "ще покаже само творби, сгради или паметници в стил Ар Нуво."
-
-#: templates/static_pages/usingeuropeana_search.html:33
-msgid "Place"
-msgstr "Място"
-
-#: templates/static_pages/usingeuropeana_search.html:33
-msgid ""
-"followed by a name of a town, city or country within Europe or around the "
-"world. Your search results will display only items which were created in, "
-"published in or depict the place you are searching for. For example, "
-"searching for"
-msgstr ""
-"последван от името на града или държавата - Европейска или която и да е "
-"друга. Резултатите ще включват само материали, които са били създадени, "
-"публикувани или нарисувани на мястото, което търсите. Например търсите"
-
-#: templates/static_pages/usingeuropeana_search.html:33
-msgid ""
-"will help you differentiate your search when you are looking only for "
-"objects created or held in Milan, excluding items on writer Milan Kundera "
-"from your search results."
-msgstr ""
-"ще ви помогне да прецизирате търсенето си, когато търсите обекти създадени "
-"или намиращи се в Милано, като се изключат творбите на писателя Милан "
-"Кундера от намерените резултати."
-
-#: templates/static_pages/usingeuropeana_search.html:34
-msgid "Date"
-msgstr "Дата"
-
-#: templates/static_pages/usingeuropeana_search.html:34
-msgid ""
-"followed by a date (e.g. 1945) or a period (e.g. Roman or Medieval). Your "
-"search results will display only items for which the date is listed in the "
-"item's date field. For example, searching for"
-msgstr ""
-"последван от датата (например 1945) или период (например Римски или "
-"Средновековие). Резултатите ще включват само материали за които, търсената "
-"от вас дата е посочена в полето дата. Например търсите"
-
-#: templates/static_pages/usingeuropeana_search.html:34
-msgid ""
-"will help you differentiate your search when you are looking only for items "
-"dated 1984, excluding items that have 1984 in their title or description, "
-"like George Orwell's novel."
-msgstr ""
-"ще ви помогне да прецизирате търсенето си, когато търсите обекти датирани от "
-"1984 г., изключвайки обекти, в които 1984 фигурира в заглавието или "
-"описанието, както е например при едноименната книга на Джордж Оруел."
-
-#: templates/static_pages/usingeuropeana_search.html:37
-msgid ""
-"These search functions also have support for different spellings and "
-"languages. For example, when you search for"
-msgstr ""
-"Тези функционални възможностти се поддържат при различни езици и изписвания. "
-"Например, когато търсите"
-
-#: templates/static_pages/usingeuropeana_search.html:37
-msgid ""
-"the results will also include items with Milano, Mailand or Milanas listed "
-"as their geographic coverage."
-msgstr ""
-"резултатите също така ще включват записи свързани с Milano, Mailand or "
-"Milanas описани в полето за географски обхват."
-
-#: templates/static_pages/usingeuropeana_search.html:39
-#: templates/static_pages/usingeuropeana_search.html:41
-msgid "Phrase search"
-msgstr "Търсене по фраза"
-
-#: templates/static_pages/usingeuropeana_search.html:41
-msgid "is also possible. Just put"
-msgstr "е също възможно. Поставете"
-
-#: templates/static_pages/usingeuropeana_search.html:41
-msgid "quotation marks"
-msgstr "кавички"
-
-#: templates/static_pages/usingeuropeana_search.html:41
-msgid "e.g."
-msgstr " "
-
-#: templates/static_pages/usingeuropeana_search.html:41
-msgid "around the phrase you want to find, or type"
-msgstr "около словосъчетанието, по което желаете да търсите или напишете"
-
-#: templates/static_pages/usingeuropeana_search.html:41
-msgid "between the keywords (e.g."
-msgstr "между думите (напр."
-
-#: templates/static_pages/usingeuropeana_search.html:43
-msgid "Exclude words"
-msgstr "Изключване на думи"
-
-#: templates/static_pages/usingeuropeana_search.html:43
-msgid "by typing"
-msgstr "напишете"
-
-#: templates/static_pages/usingeuropeana_search.html:43
-msgid "in capital letters, followed by the word you want to omit (e.g."
-msgstr ""
-"(изписва се с главни букви), следван от думата, която желаете да изпуснете "
-"(напр."
-
-#: templates/static_pages/usingeuropeana_search.html:45
-msgid "Another helpful search feature is"
-msgstr "Друга полезна функционална възможност е"
-
-#: templates/static_pages/usingeuropeana_search.html:45
-msgid "Auto completion"
-msgstr "Автоматично довършване на фраза"
-
-#: templates/static_pages/usingeuropeana_search.html:45
-msgid ""
-"Start typing a search term. Europeana will suggest words that may match what "
-"you are thinking of. Just select the term you want and hit"
-msgstr ""
-"Започнете да пишете в полето за търсене. Europeana   ще препоръча думи, "
-"които може би съвпадат с това което вие търсите. Изберете това което ви е "
-"нужно и натиснете"
-
-#: templates/static_pages/usingeuropeana_search.html:47
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid "Refine your search"
-msgstr "Ограничи търсенето"
-
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid ""
-"Once you have done an initial search, results can be narrowed down with the"
-msgstr ""
-"Получените резултати от първоначалното търсене могат да бъдат допълнително "
-"стеснявани чрез функцията"
-
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid ""
-"functions. These are in the grey pane on the search results screen. You can "
-"add more keywords to your search, thereby narrowing the search results. Just "
-"type your keyword into the"
-msgstr ""
-"Те са разположени в сивия панел на екрана с резултатите. Може да добавяте "
-"допълнителни ключови думи към вашето търсене, чрез които да ограничите "
-"(стесните) резултатите. Въведете ключовата дума в полето"
-
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid "Add more keywords"
-msgstr "Добави още ключови думи"
-
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid "field and hit"
-msgstr "и натиснете"
-
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid "Add"
-msgstr "Добави"
-
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid "The keyword is displayed at the top of the pane, under"
-msgstr "Ключовата дума се визуализира най-отгоре на панела, под полете"
-
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid "Matches for."
-msgstr "Съвпадения за."
-
-#: templates/static_pages/usingeuropeana_search.html:51
-msgid "To remove a keyword, hit the X icon next to the relevant keyword in the"
-msgstr ""
-"За да изчистите ключовата дума, натиснете бутона Х,  разположен "
-"непосредствено до нея в списъка"
-
-#: templates/static_pages/usingeuropeana_search.html:51
-#: templates/static_pages/usingeuropeana_search.html:63
-#: templates/static_pages/usingeuropeana_search.html:65
-msgid "Matches for"
-msgstr "Съвпадения за"
-
-#: templates/static_pages/usingeuropeana_search.html:51
-msgid "list."
-msgstr "."
-
-#: templates/static_pages/usingeuropeana_search.html:53
-msgid "You can also"
-msgstr "Може да"
-
-#: templates/static_pages/usingeuropeana_search.html:53
-msgid "filter your search results:"
-msgstr "филтрирате резултатите от търсенето:"
-
-#: templates/static_pages/usingeuropeana_search.html:55
-msgid "By media type"
-msgstr "По вид на материала"
-
-#: templates/static_pages/usingeuropeana_search.html:55
-msgid ""
-"will display only objects of a selected media type (images, text, video, "
-"sound or 3D). "
-msgstr ""
-"ще бъдат показани само резултатите от избрания вид на материала "
-"(изображения, текст, видео, звук или 3D)."
-
-#: templates/static_pages/usingeuropeana_search.html:56
-msgid "By language"
-msgstr "По език"
-
-#: templates/static_pages/usingeuropeana_search.html:56
-msgid ""
-"will display only objects with descriptions in selected languages, i.e. the "
-"language of the institution that provided the object to Europeana."
-msgstr ""
-"ще бъдат показани само резултатите с описания на избраните от вас езици, "
-"например езика на организацията, подаваща този обект към Europeana. "
-
-#: templates/static_pages/usingeuropeana_search.html:57
-msgid "By date"
-msgstr "По дата"
-
-#: templates/static_pages/usingeuropeana_search.html:57
-msgid "will display only objects with selected dates."
-msgstr "ще бъдат показани само резултатите от избраните от вас дати."
-
-#: templates/static_pages/usingeuropeana_search.html:58
-msgid "By country"
-msgstr "По държава"
-
-#: templates/static_pages/usingeuropeana_search.html:58
-msgid ""
-"will display only objects from selected countries, i.e. the country of the "
-"institution that provided the object to Europeana."
-msgstr ""
-"ще бъдат показани само резултатите от избраните от вас страни, например "
-"страната на организацията, която е подала този обект към Europeana."
-
-#: templates/static_pages/usingeuropeana_search.html:59
-msgid "By copyright"
-msgstr "По копирайт права"
-
-#: templates/static_pages/usingeuropeana_search.html:59
-msgid ""
-"will display objects labelled with the selected copyright label(s). This "
-"copyright label indicates how you may reuse the digital object, including "
-"the preview."
-msgstr ""
-"ще бъдат показани само резултатите, маркирани с избраните от вас копирайт "
-"права. Етикета за копирайт права, показва каква може да бъде повторната "
-"употреба на дигиталния обект, включително избображенията."
-
-#: templates/static_pages/usingeuropeana_search.html:60
-msgid "By provider"
+msgid "All providers"
 msgstr "По доставчик"
 
-#: templates/static_pages/usingeuropeana_search.html:60
-msgid "will display only objects from selected institutions"
-msgstr "ще включват само обекти от избраните организации"
+#: templates/leftmenu.html:10
+msgid "Previous newsletters"
+msgstr "Архив"
 
-#: templates/static_pages/usingeuropeana_search.html:63
-msgid ""
-"Select the filter name, e.g. 'By language' to expand it. Then just use the "
-"check boxes for the categories you wish the search results to include. The "
-"results will refresh automatically. The filter will be added to the"
-msgstr ""
-"Изберете филтъра, който ще използвате, например \"По език\", за да го "
-"включите. Използвайте чек-бутона за тази категория, която искате да бъде "
-"включена. Резултатите ще се опреснят автоматично. Филтъра ще бъде добавен "
-"към списъка"
+#: templates/leftmenu.html:12
+msgid "Press Centre"
+msgstr "Пресцентър"
 
-#: templates/static_pages/usingeuropeana_search.html:63
-msgid "list at the top of the pane."
-msgstr "разположен най-отгоре на панела."
+#: templates/leftmenu.html:13
+msgid "Jobs"
+msgstr "Работа"
 
-#: templates/static_pages/usingeuropeana_search.html:65
-msgid "To remove a filter, hit the X icon next to the item in the"
-msgstr ""
-"За да изчистите филтъра, натиснете бутона Х,  разположен непосредствено до "
-"нея в списъка"
+#: templates/leftmenu.html:14 templates/leftmenu.html.py:17
+msgid "Partners"
+msgstr "Партньори"
 
-#: templates/static_pages/usingeuropeana_search.html:65
-msgid "list, or de-select the check box next to the filter category."
-msgstr "или изключете чек-бутона, разположен непосредствено до филтъра."
+#: templates/leftmenu.html:15
+msgid "Press room"
+msgstr "Пресцентър"
 
-#: templates/static_pages/usingeuropeana_search.html:67
-msgid "You can also select to"
-msgstr "Може да изберете също така и"
+#: templates/leftmenu.html:16
+msgid "Job opportunities"
+msgstr "Възможности за работа"
 
-#: templates/static_pages/usingeuropeana_search.html:67
-msgid "Include content contributed by users"
-msgstr "Включите съдържание, допринесено от потребителите"
+#: templates/terms_leftmenu.html:3
+msgid "Terms &amp; Policies"
+msgstr "Условия &amp; Политики "
 
-#: templates/static_pages/usingeuropeana_search.html:67
-#, fuzzy
-msgid ""
-"This means items that have not come from a cultural institution but from an "
-"individual user, for example, items contributed to the Europeana 1914-1918 "
-"project."
-msgstr ""
-"Тази функционална възможност, маркира съдържание, което е набавено от частни "
-"лица, а не от културна институция. Пример за това е съдържанието набавено "
-"чрез поект Europeana 1914-1918."
+#: templates/terms_leftmenu.html:5
+msgid "Introduction"
+msgstr "Въведение"
 
-#: templates/static_pages/usingeuropeana_search.html:69
-msgid "Share your search with friends by choosing"
-msgstr "Споделете намереното от вас с помощта на бутона"
+#: templates/terms_leftmenu.html:7
+msgid "Using our data"
+msgstr "Използване на данните"
 
-#: templates/static_pages/usingeuropeana_search.html:69
-msgid "Share"
-msgstr "Сподели"
+#: templates/terms_leftmenu.html:9
+msgid "Terms of Use"
+msgstr "Условия за ползване"
 
-#: templates/static_pages/usingeuropeana_search.html:69
-msgid ""
-"A full list of social media sharing options is presented. Just select one "
-"you want. This also includes print and email options."
-msgstr ""
-"На екрана ще бъде визуализиран пълен списък на възможностите за споделяне в "
-"социалните мрежи. Изберете тази, която желаете да използвате. Тук са "
-"включени и възможностите за печат и изпращане по е-мейл. "
+#: templates/terms_leftmenu.html:10
+msgid "Usage Guidelines for Metadata"
+msgstr "Насоки за използване на метаданните"
 
-#: templates/static_pages/whatsnew.html:3
-msgid "Europeana - What's New"
-msgstr "Europeana - Какво ново"
+#: templates/terms_leftmenu.html:11
+msgid "Public Domain Usage Guidelines"
+msgstr "Europeana - насоки за използване на метданните"
 
-#: templates/static_pages/whatsnew.html:9
-msgid "What's New"
-msgstr "Какво ново"
+#: templates/terms_leftmenu.html:12
+msgid "API Terms of Use"
+msgstr "API - Условия за ползване"
 
-#: templates/static_pages/whatsnew.html:11
-msgid ""
-"We've made some changes so that as well as having a fresh new look and feel, "
-"it's now easier for you to discover and explore Europeana's treasures."
-msgstr ""
-"Направихме промени, които наред с новото  усещане и дизайн, ще ви позволят "
-"по-лесно и бързо да изследвате и откривате съкровищата в Europeana."
+#: templates/terms_leftmenu.html:13
+msgid "Europeana Data Sources"
+msgstr "Europeana източници на данни"
 
-#: templates/static_pages/whatsnew.html:13
-msgid ""
-"One of the biggest changes is that the site is now responsive. That means it "
-"automatically adapts to a range of different devices and screen sizes. So "
-"whether you're using a touchscreen smartphone or a large desktop, the portal "
-"will tailor its presentation so the layout always suits the screen."
-msgstr ""
-"Една от най-големите промени е отзивчивостта на сайта. Това означава, че той "
-"автоматично се адаптира към различните видове устройства или размери на "
-"екрана. Независимо от вида на използваното устройство - смартфон или "
-"настолен компютър - портала автоматично ще промени подходящо размера си."
+#: templates/terms_leftmenu.html:16
+msgid "Contributing data to us"
+msgstr "Как се доставят данни"
 
-#: templates/static_pages/whatsnew.html:15
-msgid ""
-"Searching is even easier with new automatic suggestions that pop up as you "
-"type. We'll predict what you're looking for and make recommendations based "
-"on that, before you’ve even finished typing."
-msgstr ""
-"Търсенето е дори по-лесно от преди с новата функционална възможност за "
-"автоматично подсказване когато пишете. Ние се опитваме да предскажем това "
-"което пишете и да направим предложения преди още да сте завършили да пишете."
+#: templates/terms_leftmenu.html:18
+msgid "Europeana Data Exchange Agreement"
+msgstr "Europeana - договор за сътрудничество"
 
-#: templates/static_pages/whatsnew.html:17
-msgid ""
-"The new homepage includes a stronger focus on our curated content, with a "
-"bigger image slideshow, a featured partner section and a great carousel "
-"highlighting our latest pins on Pinterest."
-msgstr ""
-"Новата начална страница е силно фокусирана върху съдържанието организирано "
-"във виртуални изложби, с по-голяма лента с изображения, разширена секция на "
-"партньорите, както и последното съдържание в Pinterest."
+#: templates/terms_leftmenu.html:19
+msgid "Terms for User Contributions"
+msgstr "Условия за принос на потребителите"
 
-#: templates/static_pages/whatsnew.html:19
-msgid ""
-"For the developers amongst you, we have also released the Europeana API "
-"(Application Programming Interface) v2.0 with an improved console and new "
-"features. Register for API keys"
-msgstr ""
-"За разработчиците анонсирахме Europeana API (Приложен програмен интерфейс) "
-"v.2.0 с подобрена конзола и функционални възможности. Регистрирайте си API "
-"ключ"
+#: templates/terms_leftmenu.html:22
+msgid "Our policies"
+msgstr "Нашите политики"
 
-#: templates/static_pages/whatsnew.html:19
-msgid "here"
-msgstr "тук."
+#: templates/terms_leftmenu.html:24
+msgid "Privacy"
+msgstr "Защита на личните данни"
 
-#: templates/static_pages/whatsnew.html:21
-msgid "We hope you enjoy using the new-look Europeana."
-msgstr ""
-"Надяваме се да се забавлявате докато използвате Europenana в новия и дизайн."
+#: templates/terms_leftmenu.html:25
+msgid "Language"
+msgstr "Език"
 
-#~ msgid "Europeana - Help"
-#~ msgstr "Europeana - Помощ"
+#: templates/terms_leftmenu.html:26
+msgid "Accessibility"
+msgstr "Достъпност"
 
-#~ msgid "Help"
-#~ msgstr "Помощ"
-
-#~ msgid ""
-#~ "Welcome to Europeana. This page describes some of the things that you can "
-#~ "do while you are here. Learn more about"
-#~ msgstr ""
-#~ "Добре дошли в Europeana. Този документ обяснява някои от функционалните "
-#~ "възможности на сайта. Тук можете да научите повече за"
-
-#~ msgid "Search tips"
-#~ msgstr "Съвети при търсене"
-
-#~ msgid "Refined search"
-#~ msgstr "Ограничи търсенето"
-
-#~ msgid "Auto-completion"
-#~ msgstr "Автоматично довършване на фраза"
-
-#~ msgid "Spelling suggestions"
-#~ msgstr "Предложения за изписване"
-
-#~ msgid "Through time"
-#~ msgstr "Търси във времето"
-
-#~ msgid "On a map"
-#~ msgstr "На картата"
-
-#~ msgid "With curatorial expertise"
-#~ msgstr "С помощта на куратор"
-
-#~ msgid "Seeing further details"
-#~ msgstr "Повече детайли"
-
-#~ msgid "Rights and license information"
-#~ msgstr "Авторски права и лицензна информация"
-
-#~ msgid "Translating details"
-#~ msgstr "Преведи детайлите"
-
-#~ msgid "Searching on external services"
-#~ msgstr "Търсене с външна услуга"
-
-#~ msgid "New related searches on Europeana"
-#~ msgstr "Нови подобни търсения в Europeana"
-
-#~ msgid "Viewing item on provider's site"
-#~ msgstr "Вижте обекта на сайта на доставчика"
-
-#~ msgid "Embedding"
-#~ msgstr "Вграждане"
-
-#~ msgid "and Citing"
-#~ msgstr "Цитиране"
-
-#~ msgid "Saving searches"
-#~ msgstr "Запазени запитвания"
-
-#~ msgid "Saving items"
-#~ msgstr "Запазени обекти"
-
-#~ msgid "and Adding tags"
-#~ msgstr "Поставяне на етикети"
+#: templates/terms_leftmenu.html:27
+msgid "Public Domain Charter"
+msgstr "Хартата за творби обществено достояние"
 
 #~ msgid "Europeana - Exploring Europeana"
 #~ msgstr "Europeana - Изследвай Europeana"
+
+#~ msgid "Exploring Europeana"
+#~ msgstr "Изследване в Europeana"
 
 #~ msgid ""
 #~ "In addition to the search and filter options, Europeana offers "
@@ -1124,9 +156,6 @@ msgstr ""
 #~ msgid "link at the foot of the page."
 #~ msgstr "разположен в долната част на страницата."
 
-#~ msgid "New content"
-#~ msgstr "Ново съдържание"
-
 #~ msgid ""
 #~ "See the latest contributions from our partner museums, libraries, "
 #~ "archives and audiovisual archives by choosing"
@@ -1146,148 +175,927 @@ msgstr ""
 #~ msgid "area"
 #~ msgstr "областта"
 
-#~ msgid "Europeana - Terms and Policies"
-#~ msgstr "Europeana - Условия и политики"
+#~ msgid "Europeana - Using My Europeana"
+#~ msgstr "Europeana - използване на моята Europeana"
 
-#~ msgid "Europeana Terms and Policies"
-#~ msgstr "Europeana условия и политики"
+#~ msgid "Using My Europeana"
+#~ msgstr "Как да използвам моята Europeana"
 
-#~ msgid ""
-#~ "In this section of the Europeana website you will find an overview of our "
-#~ "Terms and Policies. These are divided into three subsections: 'Using Our "
-#~ "data', 'Contributing data' and 'Our Policies':"
-#~ msgstr ""
-#~ "В тази секция на сайта на Europeana ще откриете преглед на нашите Условия "
-#~ "и политики. Те са раздлени на три секции: 'Използване на данните', "
-#~ "'Доставка на данни' и 'Нашите политики'"
+#~ msgid "My Europeana"
+#~ msgstr "Моята Europeana"
 
-#~ msgid "Using Our data"
-#~ msgstr "Използване на данните"
+#~ msgid "is your personal space on Europeana."
+#~ msgstr "е Вашето персонално място в Europeana."
 
-#~ msgid ""
-#~ "provides you with the Terms of Use and Guidelines for using the data "
-#~ "published on Europeana.eu."
-#~ msgstr ""
-#~ "ви запознава с Условията на ползване и Насоките за използване на данните "
-#~ "публикувани в Europeana.eu."
+#~ msgid "Register for"
+#~ msgstr "Регистрирайте се в"
 
-#~ msgid "Terms of Use"
-#~ msgstr "Условия за ползване"
+#~ msgid "and you can"
+#~ msgstr "и ще можете да"
+
+#~ msgid "Save this search"
+#~ msgstr "Запази търсенето"
 
 #~ msgid ""
-#~ "governs what you can or cannot do with the metadata and previews that are "
-#~ "published on Europeana.eu, with seperate"
+#~ "Keep up to date on a particular topic in Europeana by saving a search, so "
+#~ "you can easily perform it again in future."
 #~ msgstr ""
-#~ "регулира какво може и какво не може да се извършва с метаданните и "
-#~ "изображенията, които са публикувани в Europeana.eu с отделни"
+#~ "запазените резултати от определено търсене могат лесно да бъдат извикани "
+#~ "отново в бъдеще, без да се повтаря самото търсене."
 
-#~ msgid "Terms of Use for the Europeana API"
-#~ msgstr "Условия за ползване Europeana API"
+#~ msgid "Add a tag"
+#~ msgstr "Добави етикет"
 
-#~ msgid "Europeana publishes guidelines for working with"
-#~ msgstr "Europeana е публикувала насоки за работа с"
+#~ msgid ""
+#~ "Label your favourite items in Europeana with tags that mean something to "
+#~ "you. You can then see all objects you have tagged, sorted by the keywords "
+#~ "you have chosen, in the My Europeana interface."
+#~ msgstr ""
+#~ "Маркира вашите любими обекти в Europeana, чрез поставяне на етикети, "
+#~ "които имат определено значение за вас. По-късно в моята Europeana, може "
+#~ "да прегледате всички обекти, на които сте поставили етикети, подредени "
+#~ "според ключовите думи, които сте подбрали."
 
-#~ msgid "Europeana metadata"
-#~ msgstr "Europeana метаданни"
+#~ msgid "Save to My Europeana"
+#~ msgstr "Запази в Моята Europeana"
 
-#~ msgid "as well as for using digital reproductions of"
-#~ msgstr ", а също така и за използването на дигитални репродукции на"
+#~ msgid "Store your favourite items for later viewing."
+#~ msgstr ""
+#~ "запазва  любимите Ви обекти, които могат да бъдат преглеждани многократно "
+#~ "в бъдеще"
 
-#~ msgid "Public Domain works that you find via Europeana."
-#~ msgstr "творби обществено достояниe, които са намерени в Europeana."
+#~ msgid "API keys"
+#~ msgstr "API ключ"
 
-#~ msgid "Additionally we provide a list of"
-#~ msgstr "Допълнително ние поддържаме списък на"
+#~ msgid ""
+#~ "If you are a developer who has registered for one or more API keys, these "
+#~ "will be shown on the API Keys tab."
+#~ msgstr ""
+#~ "Ако сте разработчик, които е регистрирал един или повече API ключове, "
+#~ "това ще бъде изобразено в таб-а API ключове."
 
-#~ msgid "data sources that Europeana uses"
-#~ msgstr "източниците на данни, използвани от Europeana"
+#~ msgid "To save a search, add a tag or save an item, simply login to"
+#~ msgstr ""
+#~ "За да запазите търсене, добавите етикет или да запазите обект, е "
+#~ "необходимо просто да влезете в профила си в"
+
+#~ msgid "and click on the relevant action from the menu."
+#~ msgstr "и кликнете на подходящата функция от менюто."
+
+#~ msgid "To view your saved items, searches and tags, use the"
+#~ msgstr ""
+#~ "За да прегледате запазените обекти, търсения или етикети, моля използвайте"
+
+#~ msgid "shortcuts in the header."
+#~ msgstr "бързата връзка от лентата в на-горната част на страницата."
+
+#~ msgid "Europeana - Results in Europeana"
+#~ msgstr "Europeana - резултати"
+
+#~ msgid "Results in Europeana"
+#~ msgstr "Резултати"
+
+#~ msgid ""
+#~ "Europeana divides search results into 5 main categories: text, images, "
+#~ "video, sound and 3D objects."
+#~ msgstr ""
+#~ "Europeana разделя намерените резултати в 5 категории: текст, изображения, "
+#~ "видео, аудио и 3D обекти."
+
+#~ msgid "The types of items included in each section are:"
+#~ msgstr "Видовете обекти включени във всяка секция са:"
+
+#~ msgid "Texts"
+#~ msgstr "Текстове"
+
+#~ msgid ""
+#~ "books, letters, archival papers, dissertations, poems, newspaper "
+#~ "articles, facsimiles, manuscripts and music scores."
+#~ msgstr ""
+#~ "книги, писма, архивни документи, дисертации, стихове, статии от вестници "
+#~ "и списания, факсимилета, ръкописи и музикални текстове."
+
+#~ msgid "Images"
+#~ msgstr "Изображения"
+
+#~ msgid ""
+#~ "paintings, drawings, prints, photographs, pictures of museum objects, "
+#~ "maps, graphic designs, plans and musical notation."
+#~ msgstr ""
+#~ "картини, рисунки, отпечатъци, фотографии, снимки на музейни обекти, "
+#~ "карти, графики, планове и музикални ноти."
+
+#~ msgid "Video"
+#~ msgstr "Видео"
+
+#~ msgid "films, news broadcasts and television programmes"
+#~ msgstr "филми, новини, предавания и телевизионни програми"
+
+#~ msgid "Sound"
+#~ msgstr "Звукови файлове"
+
+#~ msgid ""
+#~ "music and spoken word from cylinders, tapes, discs and radio broadcasts."
+#~ msgstr ""
+#~ "музика и фонографски записи, аудиозаписи, дискове и радиопредавания."
+
+#~ msgid "3D"
+#~ msgstr "3D"
 
 #, fuzzy
-#~ msgid "to enrich the metadata provided by our data providers"
-#~ msgstr "за обогатяване на метаданните подадени от Доставчиците на данни"
-
-#~ msgid "Contributing data"
-#~ msgstr "Доставката на данни"
+#~ msgid "virtual 3D representations of objects, architecture or places."
+#~ msgstr ""
+#~ "виртуално 3D представяне на обекти, архитектурни забележителности или "
+#~ "места."
 
 #~ msgid ""
-#~ "provides terms that ensure that Europeana can combine objects and data "
-#~ "provided by individual users with the rest of the Europeana metadata"
+#~ "You can also sort search results by media type, language, date, country, "
+#~ "copyright, or provider using the Refine your search pane of the results "
+#~ "screen. See"
 #~ msgstr ""
-#~ "предвижда условия, които гарантират, че Europeana може да комбинира "
-#~ "обекти и данни, предоставени от индивидуални потребители с останалата "
-#~ "част от вече публикуваните метаданни"
+#~ "Намерените резултати от търсенето могат да бъдат сортирани според типа на "
+#~ "носителя, език, дата, страна, авторско право, или доставчик чрез "
+#~ "използване на бутон Ограничи търсенето разположен на панела на екрана с "
+#~ "резултатите. Виж"
 
-#~ msgid "The Europeana Data Exchange Agreement"
-#~ msgstr "Europeana Договора за сътрудничество"
+#~ msgid "Searching Europeana"
+#~ msgstr "Търсене в Europeana"
+
+#~ msgid "for more details."
+#~ msgstr "за повече детайли."
 
 #~ msgid ""
-#~ "governs the relationship between Europeana and the institutional data "
-#~ "providers. The"
+#~ "Search results are presented in a grid. You can select how many results "
+#~ "to show on a page by selecting an option from the"
 #~ msgstr ""
-#~ "регулира отношенията между Europeana и институциите - доставчици на данни."
+#~ "Намерените резултати са представени в решетка (таблица). Можете да "
+#~ "изберете колко резултата да се показват на една страница, като изберете "
+#~ "опция от падащото метю"
 
-#~ msgid "terms for user contributions"
-#~ msgstr "Условията за принос на потребителите"
+#~ msgid "Results per page"
+#~ msgstr "Резултати на страница"
 
-#~ msgid "governs the terms on which users contribute data to Europeana"
-#~ msgstr ""
-#~ "регулират условията, при които потребителите предоставят данни на "
-#~ "Europeana"
+#~ msgid "drop-down list either above or below the results. You can select"
+#~ msgstr ", разположено над и под резултатите. Можете да избирате между"
 
-#~ msgid "Our policies"
-#~ msgstr "Нашите политики"
-
-#~ msgid "contains Europeana's policies"
-#~ msgstr "съдържат политиките на Europeana"
-
-#~ msgid "The"
-#~ msgstr "Политиката по"
-
-#~ msgid "Privacy"
-#~ msgstr "Защита на личните данни"
+#~ msgid "or"
+#~ msgstr "или"
 
 #~ msgid ""
-#~ "policy details how we treat personal information that we have collected "
-#~ "from our users.  The"
+#~ "To navigate through the results pages, select the single arrows that are "
+#~ "shown both above and below the results grid. Hit"
 #~ msgstr ""
-#~ "детайлизира как третираме личната информация, която събираме от "
-#~ "потребителите. Политиката по"
+#~ "За да навигирате в страниците с резултати, изберете единичните стрелки, "
+#~ "които са разположени както над, така и под мрежата с резултатите. "
+#~ "Натиснете"
 
-#~ msgid "Language"
+#~ msgid "to move one page in either direction, or hit the double arrows"
+#~ msgstr ""
+#~ "за да се предвижите една страница в указаната посока или кликнете върху "
+#~ "двойната стрелка "
+
+#~ msgid ""
+#~ "to move to the last/first pages. Alternatively, type in the page number "
+#~ "of the page you'd like to view."
+#~ msgstr ""
+#~ ", за да се предвижите към първата/последната странциа. Като алтернатива "
+#~ "може да въведете номера на страницата, на която желаете да отидете. "
+
+#~ msgid "Further details"
+#~ msgstr "Повече детайли"
+
+#~ msgid "of an object can be found by selecting an item in the results list."
+#~ msgstr "за обекта може да видите като го изберете от списъка с резултатите."
+
+#~ msgid "Individual items"
+#~ msgstr "Дигитален обект"
+
+#~ msgid ""
+#~ "After performing your search, select the item you want to view to find "
+#~ "out more about it."
+#~ msgstr ""
+#~ "След като изпълните търсенето изберете обекта, за който желаете да "
+#~ "научите повече."
+
+#~ msgid "The item page shows you the following:"
+#~ msgstr "Страницата за дигиталния обект съдържа:"
+
+#~ msgid "Thumbnail image/preview"
+#~ msgstr "Тъмбнейл изображение"
+
+#~ msgid "hit the magnifying glass"
+#~ msgstr "кликнете върху увеличаващата лупа"
+
+#~ msgid "View"
+#~ msgstr "Виж"
+
+#~ msgid ""
+#~ "link at the bottom of the thumbnail to see a bigger image and additional "
+#~ "information in a new window. To close that window, hit X at the top right."
+#~ msgstr ""
+#~ "разположена под тъмбнейла, за да видите (в нов прозорец) уголемено "
+#~ "изображението и допълнителна информация. За да затворите прозореца "
+#~ "натиснете Х в горния десен ъгъл."
+
+#~ msgid ""
+#~ "If there are multiple images of the same object, e.g. pages of a book or "
+#~ "different views of an object, a carousel of images is displayed under the "
+#~ "main thumbnail. You can select items in the carousel or the left and "
+#~ "right arrows on the main thumbnail to browse the images."
+#~ msgstr ""
+#~ "Ако към даден обект са асоциирани множество изображения, например "
+#~ "отделните страници на дадена книга или различни изображения на един "
+#~ "обект, ще се появи лента с изображения под основния тъмбнейл. Може да си "
+#~ "изберете изображение от лентата или с помощта на дясната или лява стрелка "
+#~ "да разгледате изображенията."
+
+#~ msgid "Rights and licensing"
+#~ msgstr "Права и лицензи"
+
+#~ msgid ""
+#~ "below each preview image you will find the rights statement indicating "
+#~ "the terms on which you may re-use the digital object, including the "
+#~ "preview. There are currently 12 rights statements describing the "
+#~ "different terms on which re-use is permitted. Clicking on the rights "
+#~ "statement will open a new window with a full description of the terms "
+#~ "or, in the case of a Creative Commons licence, a link to the licence "
+#~ "itself."
+#~ msgstr ""
+#~ "под всяко изображение ще намерите публикувани правата за ползване, при "
+#~ "които може повторно да използвате дадения дигитален обект, включително "
+#~ "изображението. В момента има 12 права, описващи различните условия, при "
+#~ "които е разрешена повторната употреба. Кликвайки върху линка с правата, "
+#~ "ще се отвори нов прозорец с пълно описание на условията или в случай на "
+#~ "Creative Commons лиценз, линк към самия лиценз."
+
+#~ msgid "View item at"
+#~ msgstr "Виж обекта в"
+
+#~ msgid ""
+#~ "view the item on the item provider's own website. This is useful, for "
+#~ "example, to find additional information and larger images, or to view an "
+#~ "item in its fullest form, e.g. a whole book or video."
+#~ msgstr ""
+#~ "показва обекта на собствения уеб-сайт на доставчика. Това е полезно, "
+#~ "например, за да намерите допълнителна информация и по-голям размер "
+#~ "снимки, или да видите елемента в пълната си форма, например цялата книга "
+#~ "или видео."
+
+#~ msgid "Share item"
+#~ msgstr "Сподели"
+
+#~ msgid ""
+#~ "share the item via a range of social media, or to print or email it. Just "
+#~ "select the option you want."
+#~ msgstr ""
+#~ "споделя елемента в различни социални медии, отпечататва го или го "
+#~ "изпращата по е-мейл. Просто изберете желаната опция."
+
+#~ msgid "Cite on Wikipedia"
+#~ msgstr "Цитирай в Уикипедия"
+
+#~ msgid ""
+#~ "this function will help you link to Europeana items and cite them in "
+#~ "Wikipedia articles. The code you need is formatted for direct inclusion "
+#~ "in Wikipedia's article authoring mode. Select"
+#~ msgstr ""
+#~ "тази функция помага на направите линк към Europeana или да цитирате "
+#~ "оебкта в Уикипедия. Необходимия ви програмен код е форматиран във вид, "
+#~ "позволявщ директно вкмъкване в статия за Уикипедия. Изберете"
+
+#~ msgid "Citation"
+#~ msgstr "Цитат"
+
+#~ msgid "Footnote"
+#~ msgstr "Бележка под линия"
+
+#~ msgid ""
+#~ "and copy and paste the text provided. To close the citation window, hit "
+#~ "the X in the top right corner."
+#~ msgstr ""
+#~ "и копирайте и поставете текста, който ви предоставяме. За да затворите "
+#~ "прозореца за цитиране кликнете върху Х в горния десен ъгъл."
+
+#~ msgid "Translate details"
+#~ msgstr "Преведи детайлите"
+
+#~ msgid ""
+#~ "select an option from the drop-down list of languages. Please note this "
+#~ "is a machine translation."
+#~ msgstr ""
+#~ "изберете опция от падащото меню със списък на езици. Моля, отбележете че "
+#~ "това е автоматичен превод."
+
+#~ msgid ""
+#~ "The main area of the item page gives you more information about the item. "
+#~ "The amount and type of information will vary but may contain the item's "
+#~ "name and description along with other information including places, "
+#~ "dates, formats, and providers."
+#~ msgstr ""
+#~ "Основната част от информацията на страницата за дигитализирания обект е "
+#~ "за самия обект. Количеството и вида на информацията може да варира, но "
+#~ "винаги съдържа името и описанието на обекта, наред с допълнителна "
+#~ "информация относно мястото, датата, формата и доставчика на данни."
+
+#~ msgid ""
+#~ "This information may contain links to further details. Select these to "
+#~ "find the item in an external service, e.g. the data provider's own "
+#~ "website, or to search Europeana for the highlighted term."
+#~ msgstr ""
+#~ "Тази информация може да съдържа връзки към допълнителни детайли за "
+#~ "обекта. Последвайте ги за да откриете обекта във външни услуги като "
+#~ "например сайта на доставчика на данни."
+
+#~ msgid "To move to the previous or next item in your search results, hit the"
+#~ msgstr ""
+#~ "За да се предвижите към следващия или предишния запис в списъка с "
+#~ "резултатите, натиснете"
+
+#~ msgid "Next"
+#~ msgstr "Следващ"
+
+#~ msgid "Previous"
+#~ msgstr "Предишен"
+
+#~ msgid "options"
+#~ msgstr "бутон"
+
+#~ msgid "A carousel showing"
+#~ msgstr "Лентата "
+
+#~ msgid "Similar content"
+#~ msgstr "Подобно съдържание"
+
+#~ msgid ""
+#~ "of up to 10 items related to the one you are viewing. Select an image to "
+#~ "view more details."
+#~ msgstr ""
+#~ "показва до 10 подобни обекта на този, който в момента разглеждате. "
+#~ "Изберете изображение, за да видите повече детайли."
+
+#~ msgid "Another way of finding similar content is to use the links in the"
+#~ msgstr ""
+#~ "Друга възможност за намиране на сходно съдържание е да използвате линка в"
+
+#~ msgid "Search also for"
+#~ msgstr "Търсене и за"
+
+#~ msgid ""
+#~ "pane. This provides links to other searches for items with, for example, "
+#~ "the same title, author, format or are from the same provider. A number in "
+#~ "brackets, e.g. (33) shows the number of results each of these searches "
+#~ "returns. Simply hit the link to perform the search."
+#~ msgstr ""
+#~ "панела. Тук се предлага линк към сходно търсене например по същото "
+#~ "заглавие, същия автор, формат или от същия доставчик на данни. Цифрата в "
+#~ "скобите напр. (33) показва броя на резултатите, които всяко от тези "
+#~ "запитвания ще върне. Кликнете върху линка, за да изпълните търсенето."
+
+#~ msgid "Europeana - Searching Europeana"
+#~ msgstr "Europeana - Търсене в Europeana"
+
+#~ msgid ""
+#~ "Welcome to Europeana. This page describes some of the things that you can "
+#~ "do while you are here. Learn more about:"
+#~ msgstr ""
+#~ "Добре дошли в Europeana. Тази страница описва някои от нещата, които може "
+#~ "да вършите докато сте тук. Научете повече за:"
+
+#~ msgid ""
+#~ "Search tips, refined search, phrase search, exclude words, auto-"
+#~ "completion, filter results, share your search."
+#~ msgstr ""
+#~ "съвети за търсене; ограничаване на търсенето; търсене по фраза; стоп-"
+#~ "думи; автоматично завършване на думата; филтриране на резултатите; "
+#~ "споделяне на търсенето."
+
+#~ msgid "exhibitions, new content."
+#~ msgstr "изложби; ново съдържание."
+
+#~ msgid ""
+#~ "Seeing further details, rights and licence information, translating "
+#~ "details, searching on external services, related searches on Europeana, "
+#~ "viewing item on provider's site, embedding, and citing."
+#~ msgstr ""
+#~ "прегледайте пълните детайли; правата за ползване и лицензионната "
+#~ "информация; превода на детайлите; търсене чрез външни услиги; сързани "
+#~ "услуги в Europeana; преглед на обекта на сайта на доставчика; вграждане "
+#~ "на обекта и цитиране."
+
+#~ msgid "Saving searches, saving items, and adding tags."
+#~ msgstr ""
+#~ "запазване на търсенето; запазване на обектите и добавяне на етикети."
+
+#~ msgid "General Search"
+#~ msgstr "Общи съвети"
+
+#~ msgid ""
+#~ "Searching the millions of items in Europeana is simple. Just enter your "
+#~ "search term and hit"
+#~ msgstr ""
+#~ "Търсенето в милионите обекти, включени в Europeana e лесно. Само въведете "
+#~ "фразата за търсене и натиснете"
+
+#~ msgid "Search"
+#~ msgstr "Търси"
+
+#~ msgid "Specific search"
+#~ msgstr "Детайлно търсене"
+
+#~ msgid "You can narrow your search with the arrow to the right of"
+#~ msgstr ""
+#~ "Можете да ограничите търсенето като използвате стрелката от дясната "
+#~ "страна на бутона"
+
+#~ msgid "Search All fields"
+#~ msgstr "Търси във всички полета"
+
+#~ msgid "and selecting a category"
+#~ msgstr "като изберете категория"
+
+#~ msgid "Titles, Creators, Subjects, Dates/Periods, Places"
+#~ msgstr "Заглавие, Автор, Тема, Дата/Период, Място"
+
+#~ msgid "Then enter your search term and hit"
+#~ msgstr "След това въведете фразата за търсене и натиснете"
+
+#~ msgid ""
+#~ "Alternatively, just ask yourself who, what, where or when you are "
+#~ "interested in and type these words into Europeana's search box followed "
+#~ "by a colon (:). Then enter your search term and hit"
+#~ msgstr ""
+#~ "В допълнение може да си зададете въпроса от кого, какво, къде или кога се "
+#~ "интересувате и чрез изписване на тези ключови думи в полете за търсене  "
+#~ "на Europeana, последвани от двуеточие (:). След това въведете фразата за "
+#~ "търсене и натиснете"
+
+#~ msgid "For specific searches, you could:"
+#~ msgstr "За да детайлизирате търсенето:"
+
+#~ msgid "Use the"
+#~ msgstr "Използвайте филтъра"
+
+#~ msgid "Creator"
+#~ msgstr "Автор/Създател"
+
+#~ msgid "filter or enter"
+#~ msgstr "или въведете ключа"
+
+#~ msgid ""
+#~ "followed by a name of, for example, an actor, author or architect. Your "
+#~ "results will display only items for which the name you entered is listed "
+#~ "as the creator. For example, searching for"
+#~ msgstr ""
+#~ "последван от името, например на автор, актьор или архитект. Резултатите "
+#~ "ще включват само обекти, за които търсената от вас личност е посочена "
+#~ "като създател. Например търсите"
+
+#~ msgid ""
+#~ "will narrow your results to van Gogh's works, excluding photographs of "
+#~ "the artist or documentaries about him and his work."
+#~ msgstr ""
+#~ "ще ограничи резултатите само до записи с творби на Ван Гог, но няма да "
+#~ "бъдат включени негови фотографии или архивни записи свързани с него или "
+#~ "неговата работа."
+
+#~ msgid "Subject"
+#~ msgstr "Тема"
+
+#~ msgid "Title"
+#~ msgstr "Заглавие"
+
+#~ msgid ""
+#~ "followed by a type of item, a subject you are interested in or words from "
+#~ "the title of the item you are looking for. Your search results will "
+#~ "display only items of the requested type or subject or items whose title "
+#~ "includes your search term. For example, searching for"
+#~ msgstr ""
+#~ "последван от вида материал или обект, от който се интересувате или дума "
+#~ "от заглавието на обекта, който търсите. Резултатите ще включват само "
+#~ "обекти от търсения тип или материал или такива, чийто заглавия включват "
+#~ "търсената от вас фраза. Например търсите"
+
+#~ msgid "will narrow your results to maps, or"
+#~ msgstr "ще ограничи търсенето само до карти или"
+
+#~ msgid ""
+#~ "will display artworks, buildings and monuments done in the Art Nouveau "
+#~ "style."
+#~ msgstr "ще покаже само творби, сгради или паметници в стил Ар Нуво."
+
+#~ msgid "Place"
+#~ msgstr "Място"
+
+#~ msgid ""
+#~ "followed by a name of a town, city or country within Europe or around the "
+#~ "world. Your search results will display only items which were created in, "
+#~ "published in or depict the place you are searching for. For example, "
+#~ "searching for"
+#~ msgstr ""
+#~ "последван от името на града или държавата - Европейска или която и да е "
+#~ "друга. Резултатите ще включват само материали, които са били създадени, "
+#~ "публикувани или нарисувани на мястото, което търсите. Например търсите"
+
+#~ msgid ""
+#~ "will help you differentiate your search when you are looking only for "
+#~ "objects created or held in Milan, excluding items on writer Milan Kundera "
+#~ "from your search results."
+#~ msgstr ""
+#~ "ще ви помогне да прецизирате търсенето си, когато търсите обекти "
+#~ "създадени или намиращи се в Милано, като се изключат творбите на писателя "
+#~ "Милан Кундера от намерените резултати."
+
+#~ msgid "Date"
+#~ msgstr "Дата"
+
+#~ msgid ""
+#~ "followed by a date (e.g. 1945) or a period (e.g. Roman or Medieval). Your "
+#~ "search results will display only items for which the date is listed in "
+#~ "the item's date field. For example, searching for"
+#~ msgstr ""
+#~ "последван от датата (например 1945) или период (например Римски или "
+#~ "Средновековие). Резултатите ще включват само материали за които, "
+#~ "търсената от вас дата е посочена в полето дата. Например търсите"
+
+#~ msgid ""
+#~ "will help you differentiate your search when you are looking only for "
+#~ "items dated 1984, excluding items that have 1984 in their title or "
+#~ "description, like George Orwell's novel."
+#~ msgstr ""
+#~ "ще ви помогне да прецизирате търсенето си, когато търсите обекти датирани "
+#~ "от 1984 г., изключвайки обекти, в които 1984 фигурира в заглавието или "
+#~ "описанието, както е например при едноименната книга на Джордж Оруел."
+
+#~ msgid ""
+#~ "These search functions also have support for different spellings and "
+#~ "languages. For example, when you search for"
+#~ msgstr ""
+#~ "Тези функционални възможностти се поддържат при различни езици и "
+#~ "изписвания. Например, когато търсите"
+
+#~ msgid ""
+#~ "the results will also include items with Milano, Mailand or Milanas "
+#~ "listed as their geographic coverage."
+#~ msgstr ""
+#~ "резултатите също така ще включват записи свързани с Milano, Mailand or "
+#~ "Milanas описани в полето за географски обхват."
+
+#~ msgid "Phrase search"
+#~ msgstr "Търсене по фраза"
+
+#~ msgid "is also possible. Just put"
+#~ msgstr "е също възможно. Поставете"
+
+#~ msgid "quotation marks"
+#~ msgstr "кавички"
+
+#~ msgid "e.g."
+#~ msgstr " "
+
+#~ msgid "around the phrase you want to find, or type"
+#~ msgstr "около словосъчетанието, по което желаете да търсите или напишете"
+
+#~ msgid "between the keywords (e.g."
+#~ msgstr "между думите (напр."
+
+#~ msgid "Exclude words"
+#~ msgstr "Изключване на думи"
+
+#~ msgid "by typing"
+#~ msgstr "напишете"
+
+#~ msgid "in capital letters, followed by the word you want to omit (e.g."
+#~ msgstr ""
+#~ "(изписва се с главни букви), следван от думата, която желаете да "
+#~ "изпуснете (напр."
+
+#~ msgid "Another helpful search feature is"
+#~ msgstr "Друга полезна функционална възможност е"
+
+#~ msgid "Auto completion"
+#~ msgstr "Автоматично довършване на фраза"
+
+#~ msgid ""
+#~ "Start typing a search term. Europeana will suggest words that may match "
+#~ "what you are thinking of. Just select the term you want and hit"
+#~ msgstr ""
+#~ "Започнете да пишете в полето за търсене. Europeana   ще препоръча думи, "
+#~ "които може би съвпадат с това което вие търсите. Изберете това което ви е "
+#~ "нужно и натиснете"
+
+#~ msgid "Refine your search"
+#~ msgstr "Ограничи търсенето"
+
+#~ msgid ""
+#~ "Once you have done an initial search, results can be narrowed down with "
+#~ "the"
+#~ msgstr ""
+#~ "Получените резултати от първоначалното търсене могат да бъдат "
+#~ "допълнително стеснявани чрез функцията"
+
+#~ msgid ""
+#~ "functions. These are in the grey pane on the search results screen. You "
+#~ "can add more keywords to your search, thereby narrowing the search "
+#~ "results. Just type your keyword into the"
+#~ msgstr ""
+#~ "Те са разположени в сивия панел на екрана с резултатите. Може да добавяте "
+#~ "допълнителни ключови думи към вашето търсене, чрез които да ограничите "
+#~ "(стесните) резултатите. Въведете ключовата дума в полето"
+
+#~ msgid "Add more keywords"
+#~ msgstr "Добави още ключови думи"
+
+#~ msgid "field and hit"
+#~ msgstr "и натиснете"
+
+#~ msgid "Add"
+#~ msgstr "Добави"
+
+#~ msgid "The keyword is displayed at the top of the pane, under"
+#~ msgstr "Ключовата дума се визуализира най-отгоре на панела, под полете"
+
+#~ msgid "Matches for."
+#~ msgstr "Съвпадения за."
+
+#~ msgid ""
+#~ "To remove a keyword, hit the X icon next to the relevant keyword in the"
+#~ msgstr ""
+#~ "За да изчистите ключовата дума, натиснете бутона Х,  разположен "
+#~ "непосредствено до нея в списъка"
+
+#~ msgid "Matches for"
+#~ msgstr "Съвпадения за"
+
+#~ msgid "list."
+#~ msgstr "."
+
+#~ msgid "You can also"
+#~ msgstr "Може да"
+
+#~ msgid "filter your search results:"
+#~ msgstr "филтрирате резултатите от търсенето:"
+
+#~ msgid "By media type"
+#~ msgstr "По вид на материала"
+
+#~ msgid ""
+#~ "will display only objects of a selected media type (images, text, video, "
+#~ "sound or 3D). "
+#~ msgstr ""
+#~ "ще бъдат показани само резултатите от избрания вид на материала "
+#~ "(изображения, текст, видео, звук или 3D)."
+
+#~ msgid "By language"
+#~ msgstr "По език"
+
+#~ msgid ""
+#~ "will display only objects with descriptions in selected languages, i.e. "
+#~ "the language of the institution that provided the object to Europeana."
+#~ msgstr ""
+#~ "ще бъдат показани само резултатите с описания на избраните от вас езици, "
+#~ "например езика на организацията, подаваща този обект към Europeana. "
+
+#~ msgid "By date"
+#~ msgstr "По дата"
+
+#~ msgid "will display only objects with selected dates."
+#~ msgstr "ще бъдат показани само резултатите от избраните от вас дати."
+
+#~ msgid "By country"
+#~ msgstr "По държава"
+
+#~ msgid ""
+#~ "will display only objects from selected countries, i.e. the country of "
+#~ "the institution that provided the object to Europeana."
+#~ msgstr ""
+#~ "ще бъдат показани само резултатите от избраните от вас страни, например "
+#~ "страната на организацията, която е подала този обект към Europeana."
+
+#~ msgid "By copyright"
+#~ msgstr "По копирайт права"
+
+#~ msgid ""
+#~ "will display objects labelled with the selected copyright label(s). This "
+#~ "copyright label indicates how you may reuse the digital object, including "
+#~ "the preview."
+#~ msgstr ""
+#~ "ще бъдат показани само резултатите, маркирани с избраните от вас копирайт "
+#~ "права. Етикета за копирайт права, показва каква може да бъде повторната "
+#~ "употреба на дигиталния обект, включително избображенията."
+
+#~ msgid "By provider"
+#~ msgstr "По доставчик"
+
+#~ msgid "will display only objects from selected institutions"
+#~ msgstr "ще включват само обекти от избраните организации"
+
+#~ msgid ""
+#~ "Select the filter name, e.g. 'By language' to expand it. Then just use "
+#~ "the check boxes for the categories you wish the search results to "
+#~ "include. The results will refresh automatically. The filter will be added "
+#~ "to the"
+#~ msgstr ""
+#~ "Изберете филтъра, който ще използвате, например \"По език\", за да го "
+#~ "включите. Използвайте чек-бутона за тази категория, която искате да бъде "
+#~ "включена. Резултатите ще се опреснят автоматично. Филтъра ще бъде добавен "
+#~ "към списъка"
+
+#~ msgid "list at the top of the pane."
+#~ msgstr "разположен най-отгоре на панела."
+
+#~ msgid "To remove a filter, hit the X icon next to the item in the"
+#~ msgstr ""
+#~ "За да изчистите филтъра, натиснете бутона Х,  разположен непосредствено "
+#~ "до нея в списъка"
+
+#~ msgid "list, or de-select the check box next to the filter category."
+#~ msgstr "или изключете чек-бутона, разположен непосредствено до филтъра."
+
+#~ msgid "You can also select to"
+#~ msgstr "Може да изберете също така и"
+
+#~ msgid "Include content contributed by users"
+#~ msgstr "Включите съдържание, допринесено от потребителите"
+
+#, fuzzy
+#~ msgid ""
+#~ "This means items that have not come from a cultural institution but from "
+#~ "an individual user, for example, items contributed to the Europeana "
+#~ "1914-1918 project."
+#~ msgstr ""
+#~ "Тази функционална възможност, маркира съдържание, което е набавено от "
+#~ "частни лица, а не от културна институция. Пример за това е съдържанието "
+#~ "набавено чрез поект Europeana 1914-1918."
+
+#~ msgid "Share your search with friends by choosing"
+#~ msgstr "Споделете намереното от вас с помощта на бутона"
+
+#~ msgid "Share"
+#~ msgstr "Сподели"
+
+#~ msgid ""
+#~ "A full list of social media sharing options is presented. Just select one "
+#~ "you want. This also includes print and email options."
+#~ msgstr ""
+#~ "На екрана ще бъде визуализиран пълен списък на възможностите за споделяне "
+#~ "в социалните мрежи. Изберете тази, която желаете да използвате. Тук са "
+#~ "включени и възможностите за печат и изпращане по е-мейл. "
+
+#, fuzzy
+#~ msgid "Europeana - How to configure your search widget"
+#~ msgstr ""
+#~ "Какво редставлява Външно приложение за търсене (Remote search widget) в "
+#~ "Europeana?"
+
+#, fuzzy
+#~ msgid "How to configure your search widget"
+#~ msgstr ""
+#~ "Какво редставлява Външно приложение за търсене (Remote search widget) в "
+#~ "Europeana?"
+
+#, fuzzy
+#~ msgid "The Europeana Search Widget works with..."
+#~ msgstr "Europeana приложение за търсене"
+
+#, fuzzy
+#~ msgid "Information to follow."
+#~ msgstr "Каква информация събираме?"
+
+#, fuzzy
+#~ msgid "The Europeana Search Widget doesn't work with..."
+#~ msgstr "Europeana приложение за търсене"
+
+#, fuzzy
+#~ msgid "Set up your Europeana Search Widget:"
+#~ msgstr "Europeana приложение за търсене"
+
+#, fuzzy
+#~ msgid "Go to the search widget page."
+#~ msgstr "някои от термините за търсене"
+
+#, fuzzy
+#~ msgid "Introduction tab"
+#~ msgstr "Въведение"
+
+#, fuzzy
+#~ msgid "To tailor your search widget"
+#~ msgstr ""
+#~ "Какво редставлява Външно приложение за търсене (Remote search widget) в "
+#~ "Europeana?"
+
+#, fuzzy
+#~ msgid "Keyword search"
+#~ msgstr "Ограничи търсенето"
+
+#, fuzzy
+#~ msgid "Search on types"
+#~ msgstr "Съвети при търсене"
+
+#~ msgid "Providers"
+#~ msgstr "Доставчик"
+
+#, fuzzy
+#~ msgid "Countries"
+#~ msgstr "Държава"
+
+#, fuzzy
+#~ msgid "Media types"
+#~ msgstr "Вид на материала"
+
+#, fuzzy
+#~ msgid "Copyright"
+#~ msgstr "По копирайт права"
+
+#, fuzzy
+#~ msgid "More information on the CC licenses"
+#~ msgstr "Европеана - Права за ползване – Платен достъп"
+
+#, fuzzy
+#~ msgid "More information on the Rights Reserved - Free Access label"
+#~ msgstr "Европеана: Права за ползване – Свободен достъп"
+
+#, fuzzy
+#~ msgid "More information on the Rights Reserved - Restricted Access label"
+#~ msgstr "Европеана - Права за ползване – Ограничен достъп"
+
+#, fuzzy
+#~ msgid "More information on the Rights Reserved - Paid Access label"
+#~ msgstr "Европеана - Права за ползване – Платен достъп"
+
+#, fuzzy
+#~ msgid "More information on the Unknown rights label"
+#~ msgstr "Европеана: Права за ползване – Свободен достъп"
+
+#, fuzzy
+#~ msgid "Languages"
 #~ msgstr "Език"
 
-#~ msgid ""
-#~ "policy describes Europeana's policy for providing information in a users "
-#~ "own language and"
-#~ msgstr ""
-#~ "описва начина на предоставяне на информация на езика на потребителя, а "
-#~ "политиката по"
+#, fuzzy
+#~ msgid "Preview tab"
+#~ msgstr "Преглед"
 
-#~ msgid "Accessibility"
-#~ msgstr "Достъпност"
+#~ msgid "Europeana - What's New"
+#~ msgstr "Europeana - Какво ново"
 
-#~ msgid ""
-#~ "describes Europeana's aim to provide functionality and content that is "
-#~ "universally accessible. In this section you will also find the"
-#~ msgstr ""
-#~ "описва целите на Europeana да осигури универсална функционалност и "
-#~ "съдържание. В тази секция вие ще намерите също и"
-
-#~ msgid "Europeana Public Domain Charter"
-#~ msgstr "Хартата на Europeana за творби обществено достояние"
+#~ msgid "What's New"
+#~ msgstr "Какво ново"
 
 #~ msgid ""
-#~ "that explains Europeana's contribution to strengthening the digital "
-#~ "Public Domain"
+#~ "We've made some changes so that as well as having a fresh new look and "
+#~ "feel, it's now easier for you to discover and explore Europeana's "
+#~ "treasures."
 #~ msgstr ""
-#~ ", която обяснява приносът на Europeana за укрепване на творбите "
-#~ "обществено достояние"
+#~ "Направихме промени, които наред с новото  усещане и дизайн, ще ви "
+#~ "позволят по-лесно и бързо да изследвате и откривате съкровищата в "
+#~ "Europeana."
 
-#~ msgid "Europeana - Terms for User Contributions"
-#~ msgstr "Europeana - Условия за принос на потребителите"
+#~ msgid ""
+#~ "One of the biggest changes is that the site is now responsive. That means "
+#~ "it automatically adapts to a range of different devices and screen sizes. "
+#~ "So whether you're using a touchscreen smartphone or a large desktop, the "
+#~ "portal will tailor its presentation so the layout always suits the screen."
+#~ msgstr ""
+#~ "Една от най-големите промени е отзивчивостта на сайта. Това означава, че "
+#~ "той автоматично се адаптира към различните видове устройства или размери "
+#~ "на екрана. Независимо от вида на използваното устройство - смартфон или "
+#~ "настолен компютър - портала автоматично ще промени подходящо размера си."
 
-#~ msgid "Europeana Terms for User Contributions"
-#~ msgstr "Europeana условия за принос на потребителите"
+#~ msgid ""
+#~ "Searching is even easier with new automatic suggestions that pop up as "
+#~ "you type. We'll predict what you're looking for and make recommendations "
+#~ "based on that, before you’ve even finished typing."
+#~ msgstr ""
+#~ "Търсенето е дори по-лесно от преди с новата функционална възможност за "
+#~ "автоматично подсказване когато пишете. Ние се опитваме да предскажем това "
+#~ "което пишете и да направим предложения преди още да сте завършили да "
+#~ "пишете."
+
+#~ msgid ""
+#~ "The new homepage includes a stronger focus on our curated content, with a "
+#~ "bigger image slideshow, a featured partner section and a great carousel "
+#~ "highlighting our latest pins on Pinterest."
+#~ msgstr ""
+#~ "Новата начална страница е силно фокусирана върху съдържанието "
+#~ "организирано във виртуални изложби, с по-голяма лента с изображения, "
+#~ "разширена секция на партньорите, както и последното съдържание в "
+#~ "Pinterest."
+
+#~ msgid ""
+#~ "For the developers amongst you, we have also released the Europeana API "
+#~ "(Application Programming Interface) v2.0 with an improved console and new "
+#~ "features. Register for API keys"
+#~ msgstr ""
+#~ "За разработчиците анонсирахме Europeana API (Приложен програмен "
+#~ "интерфейс) v.2.0 с подобрена конзола и функционални възможности. "
+#~ "Регистрирайте си API ключ"
+
+#~ msgid "here"
+#~ msgstr "тук."
+
+#~ msgid "We hope you enjoy using the new-look Europeana."
+#~ msgstr ""
+#~ "Надяваме се да се забавлявате докато използвате Europenana в новия и "
+#~ "дизайн."
 
 #~ msgid "Europeana API"
 #~ msgstr "Europeana API"
@@ -1328,66 +1136,8 @@ msgstr ""
 #~ msgid "Twitter"
 #~ msgstr "Twitter"
 
-#~ msgid "About Us"
-#~ msgstr "За нас"
-
-#~ msgid "Background"
-#~ msgstr "История"
-
-#, fuzzy
-#~ msgid "All providers"
-#~ msgstr "По доставчик"
-
-#~ msgid "Previous newsletters"
-#~ msgstr "Архив"
-
-#~ msgid "Press Centre"
-#~ msgstr "Пресцентър"
-
-#~ msgid "Jobs"
-#~ msgstr "Работа"
-
-#~ msgid "Partners"
-#~ msgstr "Партньори"
-
-#~ msgid "Press room"
-#~ msgstr "Пресцентър"
-
-#~ msgid "Job opportunities"
-#~ msgstr "Възможности за работа"
-
-#~ msgid "Terms &amp; Policies"
-#~ msgstr "Условия &amp; Политики "
-
-#~ msgid "Introduction"
-#~ msgstr "Въведение"
-
-#~ msgid "Using our data"
-#~ msgstr "Използване на данните"
-
-#~ msgid "Usage Guidelines for Metadata"
-#~ msgstr "Насоки за използване на метаданните"
-
-#~ msgid "Public Domain Usage Guidelines"
-#~ msgstr "Europeana - насоки за използване на метданните"
-
-#~ msgid "API Terms of Use"
-#~ msgstr "API - Условия за ползване"
-
-#~ msgid "Europeana Data Sources"
-#~ msgstr "Europeana източници на данни"
-
-#~ msgid "Contributing data to us"
-#~ msgstr "Как се доставят данни"
-
-#~ msgid "Europeana Data Exchange Agreement"
-#~ msgstr "Europeana - договор за сътрудничество"
-
-#~ msgid "Terms for User Contributions"
-#~ msgstr "Условия за принос на потребителите"
-
-#~ msgid "Public Domain Charter"
-#~ msgstr "Хартата за творби обществено достояние"
+#~ msgid "Help"
+#~ msgstr "Помощ"
 
 #~ msgid "What's new"
 #~ msgstr "Какво ново"
@@ -2059,6 +1809,134 @@ msgstr ""
 #~ "личните данни. Този документ за Защита на личните данни предлага повече "
 #~ "информация относно това."
 
+#~ msgid "Europeana - Terms and Policies"
+#~ msgstr "Europeana - Условия и политики"
+
+#~ msgid "Europeana Terms and Policies"
+#~ msgstr "Europeana условия и политики"
+
+#~ msgid ""
+#~ "In this section of the Europeana website you will find an overview of our "
+#~ "Terms and Policies. These are divided into three subsections: 'Using Our "
+#~ "data', 'Contributing data' and 'Our Policies':"
+#~ msgstr ""
+#~ "В тази секция на сайта на Europeana ще откриете преглед на нашите Условия "
+#~ "и политики. Те са раздлени на три секции: 'Използване на данните', "
+#~ "'Доставка на данни' и 'Нашите политики'"
+
+#~ msgid "Using Our data"
+#~ msgstr "Използване на данните"
+
+#~ msgid ""
+#~ "provides you with the Terms of Use and Guidelines for using the data "
+#~ "published on Europeana.eu."
+#~ msgstr ""
+#~ "ви запознава с Условията на ползване и Насоките за използване на данните "
+#~ "публикувани в Europeana.eu."
+
+#~ msgid ""
+#~ "governs what you can or cannot do with the metadata and previews that are "
+#~ "published on Europeana.eu, with seperate"
+#~ msgstr ""
+#~ "регулира какво може и какво не може да се извършва с метаданните и "
+#~ "изображенията, които са публикувани в Europeana.eu с отделни"
+
+#~ msgid "Terms of Use for the Europeana API"
+#~ msgstr "Условия за ползване Europeana API"
+
+#~ msgid "Europeana publishes guidelines for working with"
+#~ msgstr "Europeana е публикувала насоки за работа с"
+
+#~ msgid "Europeana metadata"
+#~ msgstr "Europeana метаданни"
+
+#~ msgid "as well as for using digital reproductions of"
+#~ msgstr ", а също така и за използването на дигитални репродукции на"
+
+#~ msgid "Public Domain works that you find via Europeana."
+#~ msgstr "творби обществено достояниe, които са намерени в Europeana."
+
+#~ msgid "Additionally we provide a list of"
+#~ msgstr "Допълнително ние поддържаме списък на"
+
+#~ msgid "data sources that Europeana uses"
+#~ msgstr "източниците на данни, използвани от Europeana"
+
+#, fuzzy
+#~ msgid "to enrich the metadata provided by our data providers"
+#~ msgstr "за обогатяване на метаданните подадени от Доставчиците на данни"
+
+#~ msgid "Contributing data"
+#~ msgstr "Доставката на данни"
+
+#~ msgid ""
+#~ "provides terms that ensure that Europeana can combine objects and data "
+#~ "provided by individual users with the rest of the Europeana metadata"
+#~ msgstr ""
+#~ "предвижда условия, които гарантират, че Europeana може да комбинира "
+#~ "обекти и данни, предоставени от индивидуални потребители с останалата "
+#~ "част от вече публикуваните метаданни"
+
+#~ msgid "The Europeana Data Exchange Agreement"
+#~ msgstr "Europeana Договора за сътрудничество"
+
+#~ msgid ""
+#~ "governs the relationship between Europeana and the institutional data "
+#~ "providers. The"
+#~ msgstr ""
+#~ "регулира отношенията между Europeana и институциите - доставчици на данни."
+
+#~ msgid "terms for user contributions"
+#~ msgstr "Условията за принос на потребителите"
+
+#~ msgid "governs the terms on which users contribute data to Europeana"
+#~ msgstr ""
+#~ "регулират условията, при които потребителите предоставят данни на "
+#~ "Europeana"
+
+#~ msgid "contains Europeana's policies"
+#~ msgstr "съдържат политиките на Europeana"
+
+#~ msgid "The"
+#~ msgstr "Политиката по"
+
+#~ msgid ""
+#~ "policy details how we treat personal information that we have collected "
+#~ "from our users.  The"
+#~ msgstr ""
+#~ "детайлизира как третираме личната информация, която събираме от "
+#~ "потребителите. Политиката по"
+
+#~ msgid ""
+#~ "policy describes Europeana's policy for providing information in a users "
+#~ "own language and"
+#~ msgstr ""
+#~ "описва начина на предоставяне на информация на езика на потребителя, а "
+#~ "политиката по"
+
+#~ msgid ""
+#~ "describes Europeana's aim to provide functionality and content that is "
+#~ "universally accessible. In this section you will also find the"
+#~ msgstr ""
+#~ "описва целите на Europeana да осигури универсална функционалност и "
+#~ "съдържание. В тази секция вие ще намерите също и"
+
+#~ msgid "Europeana Public Domain Charter"
+#~ msgstr "Хартата на Europeana за творби обществено достояние"
+
+#~ msgid ""
+#~ "that explains Europeana's contribution to strengthening the digital "
+#~ "Public Domain"
+#~ msgstr ""
+#~ ", която обяснява приносът на Europeana за укрепване на творбите "
+#~ "обществено достояние"
+
+#~ msgid "Europeana - Terms for User Contributions"
+#~ msgstr "Europeana - Условия за принос на потребителите"
+
+#~ msgid "Europeana Terms for User Contributions"
+#~ msgstr "Europeana условия за принос на потребителите"
+
 #~ msgid "Europeana - Terms of Use"
 #~ msgstr "Europeana - Условия за ползване"
 
@@ -2364,6 +2242,10 @@ msgstr ""
 #~ msgid "Europeana newsletters"
 #~ msgstr "Europeana - Помощ"
 
+#, fuzzy
+#~ msgid "Discover Europeana's hand-picked collections"
+#~ msgstr "Новите материали в колекциите на Europeana"
+
 #~ msgid "June"
 #~ msgstr "Юни"
 
@@ -2381,6 +2263,9 @@ msgstr ""
 
 #~ msgid "October"
 #~ msgstr "Октомври"
+
+#~ msgid "Europeana - Help"
+#~ msgstr "Europeana - Помощ"
 
 #~ msgid "FAQs"
 #~ msgstr "Често задавани въпроси"
@@ -3598,9 +3483,6 @@ msgstr ""
 #~ msgid "Media Types"
 #~ msgstr "Вид на материала"
 
-#~ msgid "Providers"
-#~ msgstr "Доставчик"
-
 #~ msgid "Europeana attribution"
 #~ msgstr "Europeana атрибути"
 
@@ -4687,6 +4569,71 @@ msgstr ""
 #~ msgid "Link"
 #~ msgstr "Уебсайт"
 
+#~ msgid ""
+#~ "Welcome to Europeana. This page describes some of the things that you can "
+#~ "do while you are here. Learn more about"
+#~ msgstr ""
+#~ "Добре дошли в Europeana. Този документ обяснява някои от функционалните "
+#~ "възможности на сайта. Тук можете да научите повече за"
+
+#~ msgid "Search tips"
+#~ msgstr "Съвети при търсене"
+
+#~ msgid "Refined search"
+#~ msgstr "Ограничи търсенето"
+
+#~ msgid "Auto-completion"
+#~ msgstr "Автоматично довършване на фраза"
+
+#~ msgid "Spelling suggestions"
+#~ msgstr "Предложения за изписване"
+
+#~ msgid "Through time"
+#~ msgstr "Търси във времето"
+
+#~ msgid "On a map"
+#~ msgstr "На картата"
+
+#~ msgid "With curatorial expertise"
+#~ msgstr "С помощта на куратор"
+
+#~ msgid "Seeing further details"
+#~ msgstr "Повече детайли"
+
+#~ msgid "Rights and license information"
+#~ msgstr "Авторски права и лицензна информация"
+
+#~ msgid "Translating details"
+#~ msgstr "Преведи детайлите"
+
+#~ msgid "Searching on external services"
+#~ msgstr "Търсене с външна услуга"
+
+#~ msgid "New related searches on Europeana"
+#~ msgstr "Нови подобни търсения в Europeana"
+
+#~ msgid "Viewing item on provider's site"
+#~ msgstr "Вижте обекта на сайта на доставчика"
+
+#~ msgid "Embedding"
+#~ msgstr "Вграждане"
+
+#~ msgid "and Citing"
+#~ msgstr "Цитиране"
+
+#~ msgid "Saving searches"
+#~ msgstr "Запазени запитвания"
+
+#~ msgid "Saving items"
+#~ msgstr "Запазени обекти"
+
+#~ msgid "and Adding tags"
+#~ msgstr "Поставяне на етикети"
+
+#, fuzzy
+#~ msgid "Follow U"
+#~ msgstr "Следвай ни"
+
 #, fuzzy
 #~ msgid "Download the Europeana Open Culture app for iPad"
 #~ msgstr "Мисъл за културата"
@@ -4724,9 +4671,6 @@ msgstr ""
 #~ "традиционен японски елемент (малка торбичка) за съхранение на малки "
 #~ "обекти, скрепен за пояса на кимоното."
 
-#~ msgid "Europeana - Rights Reserved - Free Access"
-#~ msgstr "Европеана: Права за ползване – Свободен достъп"
-
 #~ msgid ""
 #~ "This item is protected by copyright and/or related rights. This item is "
 #~ "accessible without charge, but its use is subject to the licensing "
@@ -4754,9 +4698,6 @@ msgstr ""
 #~ "Всички други действия, свързани с репродуцирането и излагането пред "
 #~ "публика, са обект на лицензионните условия, свързани с обекта."
 
-#~ msgid "Europeana - Rights Reserved - Paid Access"
-#~ msgstr "Европеана - Права за ползване – Платен достъп"
-
 #~ msgid ""
 #~ "This item is protected by copyright and/or related rights. This item is "
 #~ "only accessible against payment of a fee and its use is subject to the "
@@ -4766,9 +4707,6 @@ msgstr ""
 #~ "е достъпен  само срещу заплащане като неговото използване е обект на "
 #~ "лицензионни условия,  поставени от организацията, предоставяща достъпа до "
 #~ "него."
-
-#~ msgid "Europeana - Rights Reserved - Restricted Access"
-#~ msgstr "Европеана - Права за ползване – Ограничен достъп"
 
 #~ msgid ""
 #~ "This item is protected by copyright and/or related rights. This item is "
@@ -4842,9 +4780,6 @@ msgstr ""
 
 #~ msgid "Read Europeana eNews and learn about..."
 #~ msgstr "Четете новините на Europeana и научете повече за..."
-
-#~ msgid "New items in Europeana's collection"
-#~ msgstr "Новите материали в колекциите на Europeana"
 
 #~ msgid "Stories behind the cultural objects on Europeana"
 #~ msgstr "Историите, свързани с културните обекти в Europeana"
@@ -5933,9 +5868,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Моля, имайте предвид, че на този етап, ние сме само проучваме "
 #~ "възможностите за геолокация.Следователно, резултатите само за"
-
-#~ msgid "some of the search terms"
-#~ msgstr "някои от термините за търсене"
 
 #~ msgid "on Europeana can be now displayed on a map."
 #~ msgstr "в Europeana могат да бъдат показани на картата."
