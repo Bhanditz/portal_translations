@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-04 11:41+0200\n"
+"POT-Creation-Date: 2013-10-09 17:11+0200\n"
 "PO-Revision-Date: 2013-01-21 21:45\n"
 "Last-Translator: Bulgarian  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,7 +17,91 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Translated-Using: django-rosetta 0.5.6\n"
 
-#: templates/api_leftmenu.html:3 templates/static_pages/europeana-api.html:4
+#: templates/static_pages/disclaimer.html:4
+msgid "Europeana - External links disclaimer"
+msgstr "Европеана - Отказ от отговорност за съдържанието на външни сайтове"
+
+#: templates/static_pages/disclaimer.html:8
+msgid "External links disclaimer"
+msgstr "Отказ от отговорност за съдържанието на външни сайтове"
+
+#: templates/static_pages/disclaimer.html:11
+msgid ""
+"On Europeana, you will often find links to external websites relevant to "
+"Europeana's mission: to help our users discover and share in the inspiring "
+"diversity of Europe's cultural and scientific heritage."
+msgstr ""
+"В Europeana често ще попадате на връзки към външни уебсайтове, които имат "
+"отношение към нашата мисия: да помагаме на потребителите да откриват и "
+"споделят вдъхновяващото разнообразие на европейското културно и научно "
+"наследство."
+
+#: templates/static_pages/disclaimer.html:15
+#, fuzzy
+msgid ""
+"Europeana makes every effort to ensure that all of these external links are "
+"accurate and relevant but these websites are not under our control. We "
+"cannot take responsibility for any information found on external websites."
+msgstr ""
+"Europeana полага всички усилия, за да гарантира, че всички тези външни "
+"връзки са адекватни и уместни, но тези уебсайтове не са под наш контрол. Не "
+"можем да поемем отговорност за информацията, която бихте могли да откриете "
+"там."
+
+#: templates/static_pages/disclaimer.html:18
+msgid ""
+"In particular, the linking from Europeana to other websites is provided as a "
+"convenience. External links"
+msgstr ""
+"В действителност връзките от Europeana към други сайтове се предлагат за "
+"ваше удобство. Външните връзки"
+
+#: templates/static_pages/disclaimer.html:18
+msgid "do not"
+msgstr "НЕ"
+
+#: templates/static_pages/disclaimer.html:22
+msgid ""
+"Imply on the part of Europeana any endorsement or guarantee of any of the "
+"organisations or information found on the respective websites."
+msgstr ""
+"предполагат от страна на Europeana никакво одобрение или гаранция, за която "
+"и да е от организациите или за информацията, която може да се намери в "
+"съответните сайтове;"
+
+#: templates/static_pages/disclaimer.html:23
+msgid ""
+"Represent any liability by Europeana for any damage to your computer "
+"hardware, software, data or business, which may result from the information "
+"or lack of information available."
+msgstr ""
+"предполагат поемането на отговорност от страна на Europeana за щети, "
+"нанесени на вашия компютърен хардуер и софтуер, на данните или на бизнеса "
+"ви, произтичащи от информация или от недостиг на информация;"
+
+#: templates/static_pages/disclaimer.html:24
+msgid ""
+"Guarantee that external websites will provide an uninterrupted service. "
+"Prototypes in particular may be subject to periods of downtime as they "
+"undergo further development."
+msgstr ""
+"гарантират постоянно обслужване от страна на външните сайтове. Някои "
+"прототипи в частност могат да имат периоди на неактивност вследствие на "
+"извършването на актуализации."
+
+#: templates/static_pages/disclaimer.html:27
+msgid ""
+"Please tell us if you find existing external links which are no longer "
+"working properly or which you believe are inappropriate. We would also be "
+"pleased to learn about any additional links, which you believe might be "
+"relevant for us to add."
+msgstr ""
+"Моля уведомявайте ни за съществуващи външни връзки, които вече не са "
+"актуални или ви се струват неподходящи. Също така ще се радваме на "
+"информация за допълнителни връзки, за които смятате, че е уместно да бъдат "
+"добавени."
+
+#: templates/static_pages/europeana-api.html:4
 #: templates/static_pages/prop_file.html:63
 #: templates/static_pages/prop_file.html:816
 #: templates/static_pages/prop_file.html:817
@@ -25,19 +109,18 @@ msgstr ""
 msgid "Europeana API"
 msgstr "Europeana API"
 
-#: templates/api_leftmenu.html:18 templates/static_pages/prop_file.html:984
-#: templates/static_pages/prop_file.html:985
-#: templates/static_pages/sitemap.html:64
-msgid "Get an API-Key"
-msgstr "Вземете API-ключ (API-key)"
+#: templates/static_pages/europeana-api.html:8
+msgid "Europeana API - Coming Soon!"
+msgstr "Europeana API - Очаквайте скоро!"
 
-#: templates/api_leftmenu.html:19 templates/static_pages/sitemap.html:65
-msgid "API Console"
-msgstr "API конзола"
-
-#: templates/api_leftmenu.html:23 templates/static_pages/sitemap.html:67
-msgid "Europeana API Forum"
-msgstr "Europeana API Forum"
+#: templates/static_pages/europeana-api.html:9
+msgid ""
+"We will be launching a new API very soon so please stay tuned. To find out "
+"more about our current API and our Linked Open Data visit their pages on"
+msgstr ""
+"Новата версия на API ще бъде анонсирана скоро. За да научите повече за "
+"текущата версия на API и Linked Open Data, моля проверявайте техните "
+"страници на портала"
 
 #: templates/explore_leftmenu.html:3 templates/static_pages/explore.html:9
 #: templates/static_pages/prop_file.html:539
@@ -126,6 +209,24 @@ msgstr "Facebook"
 msgid "Twitter"
 msgstr "Twitter"
 
+#: templates/static_pages/explore.html:3
+#: templates/static_pages/followus.html:3
+msgid "Europeana - Using Europeana"
+msgstr "Europeana - използвай Europeana"
+
+#: templates/static_pages/explore.html:11
+msgid ""
+"To make searching in Europeana easier, try alternative ways of navigating "
+"through our millions of objects. Learn more about different topics with "
+"curatorial help, see our most recent content, discover content from "
+"individual providers, and explore Europe's rich heritage on a timeline."
+msgstr ""
+"За да търсите по-лесно в Europeana може да използвате алтернативни методи за "
+"навигация сред милионите обекти. Научете повече за различните теми с помощта "
+"на куратор, вижте най-новото ни съдържание, открийте отделните ни доставчици "
+"и опознайте на богатото културно-историческо наследство на Европа с помощта "
+"на линията на времето."
+
 #: templates/leftmenu.html:3 templates/NOT/leftmenu1_old.html:3
 #: templates/NOT/leftmenu_old.html:3 templates/static_pages/prop_file.html:591
 #: templates/static_pages/prop_file.html:592
@@ -144,10 +245,10 @@ msgstr "История"
 msgid "All providers"
 msgstr "По доставчик"
 
-#: templates/leftmenu.html:10 templates/static_pages/aboutus_enews.html:11
-#: templates/static_pages/prop_file.html:917
+#: templates/leftmenu.html:10 templates/static_pages/prop_file.html:917
 #: templates/static_pages/prop_file.html:918
 #: templates/static_pages/sitemap.html:40
+#: templates/static_pages/aboutus_enews.html:11
 msgid "Previous newsletters"
 msgstr "Архив"
 
@@ -184,6 +285,16 @@ msgstr "Пресцентър"
 msgid "Job opportunities"
 msgstr "Възможности за работа"
 
+#: templates/static_pages/followus.html:11
+msgid ""
+"Discover some of the most interesting content on Europeana, keep up-to-date "
+"with our latest developments, find out about who we are and more with our "
+"newsletter, blog, Twitter and Facebook pages."
+msgstr ""
+"Открийте някой от най-интересните теми в Europeana, бъдете информирани за "
+"последните технологични новости, научете повече за нас чрез прессъобщенията, "
+"нашия блог, Twiter или Facebook."
+
 #: templates/terms_leftmenu.html:3
 msgid "Terms &amp; Policies"
 msgstr "Условия &amp; Политики "
@@ -196,8 +307,8 @@ msgstr "Въведение"
 msgid "Using our data"
 msgstr "Използване на данните"
 
-#: templates/terms_leftmenu.html:9 templates/rights/terms-and-policies.html:24
-#: templates/static_pages/sitemap.html:87
+#: templates/terms_leftmenu.html:9 templates/static_pages/sitemap.html:87
+#: templates/rights/terms-and-policies.html:24
 msgid "Terms of Use"
 msgstr "Условия за ползване"
 
@@ -213,9 +324,8 @@ msgstr "Europeana - насоки за използване на метданни
 msgid "API Terms of Use"
 msgstr "API - Условия за ползване"
 
-#: templates/terms_leftmenu.html:13
+#: templates/terms_leftmenu.html:13 templates/static_pages/sitemap.html:91
 #: templates/rights/linked-data-sources.html:16
-#: templates/static_pages/sitemap.html:91
 msgid "Europeana Data Sources"
 msgstr "Europeana източници на данни"
 
@@ -236,34 +346,37 @@ msgstr "Условия за принос на потребителите"
 msgid "Our policies"
 msgstr "Нашите политики"
 
-#: templates/terms_leftmenu.html:24 templates/rights/privacy.html:15
-#: templates/rights/terms-and-policies.html:37
-#: templates/static_pages/prop_file.html:68
+#: templates/terms_leftmenu.html:24 templates/static_pages/prop_file.html:68
 #: templates/static_pages/prop_file.html:523
 #: templates/static_pages/prop_file.html:524
-#: templates/static_pages/sitemap.html:94
+#: templates/static_pages/sitemap.html:94 templates/rights/privacy.html:15
+#: templates/rights/terms-and-policies.html:37
 msgid "Privacy"
 msgstr "Защита на личните данни"
 
-#: templates/terms_leftmenu.html:25 templates/rights/languagepolicy.html:15
-#: templates/rights/terms-and-policies.html:37
-#: templates/static_pages/prop_file.html:180
+#: templates/terms_leftmenu.html:25 templates/static_pages/prop_file.html:180
 #: templates/static_pages/prop_file.html:239
+#: templates/rights/languagepolicy.html:15
+#: templates/rights/terms-and-policies.html:37
 msgid "Language"
 msgstr "Език"
 
 #: templates/terms_leftmenu.html:26 templates/rights/accessibility.html:15
-#: templates/rights/terms-and-policies.html:37
 #: templates/static_pages/prop_file.html:65
 #: templates/static_pages/prop_file.html:511
 #: templates/static_pages/prop_file.html:512
 #: templates/static_pages/sitemap.html:96
+#: templates/rights/terms-and-policies.html:37
 msgid "Accessibility"
 msgstr "Достъпност"
 
 #: templates/terms_leftmenu.html:27 templates/static_pages/sitemap.html:97
 msgid "Public Domain Charter"
 msgstr "Хартата за творби обществено достояние"
+
+#: templates/static_pages/newcontent.html:3
+msgid "Europeana - New Content"
+msgstr "Europeana - Ново съдържание"
 
 #: templates/usingeuropeana_leftmenu.html:3
 #: templates/static_pages/prop_file.html:334
@@ -409,1388 +522,6 @@ msgstr ""
 #: templates/rights/accessibility.html:41
 msgid "feedback form"
 msgstr "форма за обратна връзка"
-
-#: templates/rights/api-terms-of-use.html:4
-msgid "Europeana - API Terms of Use"
-msgstr "Europeana - API условия за ползване"
-
-#: templates/rights/api-terms-of-use.html:15
-msgid "Europeana API Terms of Use"
-msgstr "Europeana - API условия за ползване"
-
-#: templates/rights/languagepolicy.html:4
-msgid "Europeana - Language policy"
-msgstr "Europeana - Езикова политика"
-
-#: templates/rights/languagepolicy.html:18
-msgid "Europeana.eu follows similar policy guidelines to"
-msgstr "Europeana.eu следва езиковата политика на"
-
-#: templates/rights/languagepolicy.html:18
-msgid "Europa"
-msgstr "Europa"
-
-#: templates/rights/languagepolicy.html:18
-msgid "(the portal site of The European Union)"
-msgstr "(Интернет порталът на Европейския съюз)"
-
-#: templates/rights/languagepolicy.html:22
-msgid ""
-"As far as possible, the aim is to provide the public with the information "
-"they\n"
-"are looking for in their own language. However, due to constraints on "
-"resources,\n"
-"this isn't always possible"
-msgstr ""
-"Целта ни, по възможност, е да предоставяме на потребителите информацията, "
-"която търсят на собствения си език. За съжаление това невинаги е възможно "
-"вследствие на ограничеността на ресурсите."
-
-#: templates/rights/languagepolicy.html:28
-msgid ""
-"Therefore the following guidelines apply in Europa and will\n"
-"apply in Europeana.eu"
-msgstr ""
-"При все това някои от ръководните принципи, приложени в Europa, ще се "
-"използват и в Europeana.eu."
-
-#: templates/rights/languagepolicy.html:32
-msgid "all top (*) level pages in all full partner languages"
-msgstr ""
-"всички основни страници (*) са достъпни на езиците на пълноправните членове"
-
-#: templates/rights/languagepolicy.html:33
-msgid "prioritise speed of publication over availability of translation"
-msgstr "приоритет е бързината на публикуване на документите, а не превода"
-
-#: templates/rights/languagepolicy.html:34
-msgid ""
-"Allow limited 'language mixing' (**) i.e.: where a warning sign needs to be "
-"displayed"
-msgstr ""
-"допуснато е ограничено “смесване на езици”, (**) например в случаите, при "
-"които трябва да бъде изписано предупреждение"
-
-#: templates/rights/languagepolicy.html:39
-msgid "(*) i.e.: the navigation, search, retrieval and display interfaces"
-msgstr ""
-"(*) т.е. навигация, търсене, възстановяване, интерфейс за извличане и "
-"показване на данни"
-
-#: templates/rights/languagepolicy.html:42
-msgid "(**) Language mixing = more than one language on a page"
-msgstr "(**)”Смесване на езици” – повече от един език на страница"
-
-#: templates/rights/languagepolicy.html:46
-msgid "In practical terms this means the following"
-msgstr "На практика това означава следното"
-
-#: templates/rights/languagepolicy.html:49
-msgid ""
-"Tools to manage translation will be developed and maintained by Europeana.eu"
-msgstr ""
-"Europeana.eu ще изгради и ще поддържа инструменти за управление на превода"
-
-#: templates/rights/languagepolicy.html:50
-msgid ""
-"The completion of the translations will be the responsibility of\n"
-"each designated volunteer partner institution"
-msgstr ""
-"Изпълнението на преводите ще е отговорност на всяка призната доброволно "
-"партнираща институция"
-
-#: templates/rights/languagepolicy.html:52
-msgid ""
-"These are unofficial translations and may not correspond exactly with the "
-"English version"
-msgstr ""
-"Преводите са неофициални и могат да не съвпадат напълно с английската версия"
-
-#: templates/rights/languagepolicy.html:53
-msgid ""
-"Europeana.eu will notify each designated volunteer partner\n"
-"institution should an update be required but will not chase for that\n"
-"update"
-msgstr ""
-"При нужда от актуализация на дадена информация Europeana.eu ще уведомява "
-"всяка призната доброволно партнираща институция, но няма да настоява за "
-"актуализация"
-
-#: templates/rights/languagepolicy.html:56
-msgid ""
-"Information that is urgent or has a very short life is in\n"
-"English only e.g.: Ad-hoc error messages"
-msgstr ""
-"Информация от спешен или временен характер се публикувана само на английски "
-"език, например моментни съобщения за грешки"
-
-#: templates/rights/languagepolicy.html:58
-msgid ""
-"All surveys about the site will be produced in all\n"
-"feasible languages only"
-msgstr "Проучванията по сайта ще се публикуват на всички достъпни езици"
-
-#: templates/rights/languagepolicy.html:60
-msgid ""
-"Search Engine Promotion to be executed in English, in the\n"
-"first instance"
-msgstr "Първоначалното представяне на Търсачката да бъде на английски език"
-
-#: templates/rights/languagepolicy.html:62
-msgid ""
-"The Management section and the technical information will\n"
-"be maintained solely in English, as the working language of\n"
-"Europeana.eu"
-msgstr ""
-"Разделът за управление и техническа информация ще се поддържа единствено на "
-"английски – работният език на Europeana.eu"
-
-#: templates/rights/languagepolicy.html:65
-msgid ""
-"If, however, an individual institution wishes to translate and maintain\n"
-"any of the above from within their own resources, Europeana.eu would be "
-"happy\n"
-"to enable its display"
-msgstr ""
-"Във всеки случай, ако дадена институция изяви желание да преведе и да "
-"поддържа със собствени ресурси някоя от изброените по-горе точки, от "
-"Europeana.eu ще се радваме да направим информацията достъпна."
-
-#: templates/rights/languagepolicy.html:69 templates/rights/privacy.html:93
-msgid ""
-"The translations are made on a voluntary basis by our partners and are for "
-"information only. The legally valid text is in English only."
-msgstr ""
-"Преводите са извършени на доброволен принцип от партньорите на Europeana и "
-"са само за информация. Правно валидните текстове са единствено на английски "
-"език."
-
-#: templates/rights/linked-data-sources.html:4
-msgid "Europeana - Europeana Data Sources"
-msgstr "Europeana - Europeana източници на данни"
-
-#: templates/rights/metadata-usage-guidelines.html:4
-msgid "Europeana - Usage Guidelines for Metadata"
-msgstr "Europeana - Насоки за използване на метаданни"
-
-#: templates/rights/metadata-usage-guidelines.html:15
-#: templates/rights/terms-of-use.html:26
-msgid "Europeana Usage Guidelines for Metadata"
-msgstr "Europeana - насоки за използване на метаданни"
-
-#: templates/rights/metadata-usage-guidelines.html:18
-msgid ""
-"These usage guidelines are based on goodwill, they are not a legal contract "
-"but Europeana requests that you follow these guidelines if you use metadata "
-"from Europeana."
-msgstr ""
-"Тези насоки са базирани на принципа на добрата воля. Те не са официален "
-"договор между Europeana и потребителя, но Europeana препоръчва да бъдат "
-"следвани в случаите, когато използвате метаданни от нейните колекции."
-
-#: templates/rights/metadata-usage-guidelines.html:22
-msgid ""
-"All metadata published by Europeana are available free of restriction under "
-"the"
-msgstr ""
-"Всички метаданни публикувани от Europeana са свободни за ползване, съобразно "
-"лиценза"
-
-#: templates/rights/metadata-usage-guidelines.html:22
-msgid ""
-"However, Europeana requests that you actively acknowledge and give "
-"attribution to all metadata sources, such as the data providers (being a "
-"specific cultural heritage institution) and any data aggregators, including "
-"Europeana."
-msgstr ""
-"Независимо от това Europeana изисква активно да бъдат отбелязвани и "
-"посочвани атрибутите на източниците на метаданни като Доставчик на данни "
-"(ако е специфична културна институция) и Агрегатор на данни, включително "
-"самата Europeana."
-
-#: templates/rights/metadata-usage-guidelines.html:26
-msgid "Give credit where credit is due."
-msgstr "Признаване на заслуги."
-
-#: templates/rights/metadata-usage-guidelines.html:30
-msgid ""
-"Give attribution to the data provider and all contributing data aggregators, "
-"including Europeana. Aggregators perform a crucial task in collecting, "
-"storing and harmonising data so that it is more widely accessible and "
-"interoperable."
-msgstr ""
-"Посочете атрибутите на Доставчиците на данни и на всички Агрегатори на "
-"данни, включително самата Europeana. Агрегаторите играят важна роля при "
-"събирането, съхранението и хармонизирането на данните, с цел тяхната по-"
-"широка достъпност и съвместимост."
-
-#: templates/rights/metadata-usage-guidelines.html:31
-msgid ""
-"Make sure that others are aware of the rights status of the Europeana "
-"metadata and are aware of these guidelines. One way you can do this is to "
-"keep links to the CC0 Public Domain Dedication intact."
-msgstr ""
-"Убедете се, че потребителите са запознати с правата на достъп до метаданните "
-"в Europeana и познават тези насоки. Един от начините да направите това е да "
-"запазите непроменена връзката към CC0 Public Domain. "
-
-#: templates/rights/metadata-usage-guidelines.html:32
-msgid ""
-"If, for technical or other reasons, you cannot include all the appropriate "
-"source links and rights information alongside the metadata that you have "
-"used,  you should consider including them separately, for example in a "
-"separate document that is distributed with the metadata or dataset."
-msgstr ""
-"Ако по технически или други причини, не можете да включите в метаданните "
-"връзки към всички източници и/или права за ползване, уверете се че сте ги "
-"посочили допълнително, например в отделен документ, който се разпространява "
-"заедно с набора от данни."
-
-#: templates/rights/metadata-usage-guidelines.html:33
-msgid ""
-"If, for technical or other reasons, you cannot include all the appropriate "
-"source links and rights information alongside the metadata that you have "
-"used,  you may consider linking only to the specific metadata source on "
-"Europeana, where all available sources and rights information can be found, "
-"including machine-readable formats."
-msgstr ""
-"Ако по технически или други причини, не можете да включите връзки към всички "
-"източници и/или права за ползване, може да предпочетете да посочите връзка "
-"към специфичен източник на информация поддържан от самата Europeana, където "
-"могат да бъдат открити всички налични източници включително машинно-четими "
-"формати."
-
-#: templates/rights/metadata-usage-guidelines.html:36
-msgid ""
-"Metadata is dynamic; consider using the metadata via the Europeana APIs or "
-"by linking."
-msgstr ""
-"Метаданните са динамични структури. Използвайте ги посредством Europeana API "
-"или чрез свързаност."
-
-#: templates/rights/metadata-usage-guidelines.html:39
-msgid ""
-"When working with metadata obtained via Europeana,please be aware that it is "
-"not static but subject to change. Europeana continuously updates its "
-"metadata to correct mistakes and include new and additional information. "
-"Therefore, the best way touse metadata published by Europeana is via the "
-"Europeana API or by linking to the specific data. If, for technical or other "
-"reasons, you cannot do this,then provide a link back to the source of the "
-"data on Europeana or implement an update mechanism."
-msgstr ""
-"Когато ползвате метаданни получени чрез Europeana, моля имайте предвид, че "
-"те не са статични структури. Europeana обновява периодично метаданните с цел "
-"корекция на грешки, като включва нова, допълнителна информация.  Поради тази "
-"причина най-добрия начин да се използват тези данни е посредством Europeana "
-"API или чрез свързаност с други специфични данни.  Ако поради техническа или "
-"друга причина, това не може да бъде изпълнено, моля изпратете ни линк към "
-"данните в Europeana или приложете процедурата по обновяване."
-
-#: templates/rights/metadata-usage-guidelines.html:43
-msgid ""
-"Mention your modifications of the metadata and make your modified metadata "
-"available under the same terms."
-msgstr ""
-"Отбележете вашата промяна в метаданните и ги направете достъпни при същите "
-"условия за ползване."
-
-#: templates/rights/metadata-usage-guidelines.html:47
-msgid ""
-"Please do not use the metadata in a way that suggests you have any official "
-"status or that the data provider, aggregator or Europeana endorses you or "
-"your use of the metadata, unless you have prior permission to do so."
-msgstr ""
-"Моля, не използвайте метаданните по начин, предполагащ наличие на официален "
-"статут или разрешение дадено ви от Доставчика на данни, Агрегатора или "
-"Europeana, освен ако нямате получено такова предварително."
-
-#: templates/rights/metadata-usage-guidelines.html:48
-msgid ""
-"Please do not mislead others or misrepresent the metadata or its sources."
-msgstr ""
-"Моля, не подвеждайте потребителите и/или представяйте данните по неверен "
-"начин."
-
-#: templates/rights/metadata-usage-guidelines.html:49
-msgid ""
-"Please make the metadata and any improvements thereto freely available under "
-"the same terms as Europeana, i.e., without claiming any legal right to, or "
-"imposing any legally binding conditions on access to the metadata or your "
-"improvements."
-msgstr ""
-"Моля, направете данните и всички промени в тях свободни за позлване и "
-"достъпни при същите условия като тези в Europeana, например без да "
-"претендирате за права или да налагате каквито и да било правно обвързани "
-"условия за достъп до метаданните или вашите промени."
-
-#: templates/rights/metadata-usage-guidelines.html:53
-msgid "Please note that you use the metadata at your own risk."
-msgstr ""
-"Моля, отбележете че използването на метаданните става на ваша собствена "
-"отговорност."
-
-#: templates/rights/metadata-usage-guidelines.html:57
-msgid ""
-"Europeana offers the metadata as-is and makes no representations or "
-"warranties of any kind concerning any metadata published by Europeana."
-msgstr ""
-"Europeana публикува метаданните така както са създадени и не дава гаранции "
-"от всякакво естество, касаещи последните."
-
-#: templates/rights/metadata-usage-guidelines.html:58
-msgid ""
-"Any use of the metadata must conform to all applicable laws and other "
-"regulations in your jurisdiction, notably concerning (but not limited to) "
-"data protection, defamation or copyright."
-msgstr ""
-"Всяко използване на метаданните трябва да отговаря на всички приложими "
-"закони и други нормативни актове, дейставащи във вашата юрисдикция и по-"
-"специално що се отнася до (но не само) защитата на данните или авторското "
-"право."
-
-#: templates/rights/metadata-usage-guidelines.html:59
-msgid ""
-"Be aware of any additional applicable community norms of data providers and "
-"data aggregators."
-msgstr ""
-"Уверете се, че познавате всякакви допълнителни приложими норми, отнасящи се "
-"до Доставчиците на данни и Агрегаторите."
-
-#: templates/rights/metadata-usage-guidelines.html:63
-msgid "Thank you for your cooperation"
-msgstr "Благодарим за съдействието"
-
-#: templates/rights/pd-usage-guide.html:4
-msgid "Europeana - Public Domain Usage Guidelines"
-msgstr "Europeana - насоки за използване на метданните"
-
-#: templates/rights/privacy.html:4
-msgid "Europeana - Privacy policy"
-msgstr "Europeana - Защита на личните данни"
-
-#: templates/rights/privacy.html:17
-msgid "What Information do we collect?"
-msgstr "Каква информация събираме?"
-
-#: templates/rights/privacy.html:20
-msgid ""
-"In line with common practice, when you visit Europeana website and when you "
-"register with us, we record and store some information about you. In some "
-"cases we process this information in order to better understand our users "
-"and their needs. This is done to improve the content and the usability of "
-"our portal and the services we offer. However,  Europeana.eu recognizes the "
-"importance of privacy to users of the Europeana.eu portal; consequently we "
-"handle such personal information with care."
-msgstr ""
-"В съответствие с обичайната практика, когато посещавате уеб сайт на "
-"Europeana и когато се регистрирате при нас, ние записваме и съхраняване "
-"определена информация за вас. В някои случаи обработваме тази информация, за "
-"да разберем по-добре нашите потребители и техните нужди. Това се прави за "
-"подобряване на съдържанието и използваемостта на нашия портал и услугите, "
-"които предлагаме. Въпреки това, Europeana.eu признава значението на правото "
-"на неприкосновеност на личните данни на потребителите на портала Europeana."
-"eu; в резултат на това ние боравим с тази лична информация внимателно."
-
-#: templates/rights/privacy.html:24
-msgid ""
-"Please read our Privacy Policy Statement to find out what information we log "
-"and how we use it. We collect the following: Log Files, cookies and "
-"information that we explicitly ask you to provide about yourself upon "
-"registration or upon using any electronic forms of communication with "
-"Europeana.eu staff."
-msgstr ""
-"Моля прочетете нашата политика за Защита на личните данни, за да откриете "
-"каква информация записваме и как я използваме. Europeana събира следното:  "
-"лог файлове, файлове тип cookie (\"бисквитка\") и информация, която изрично "
-"изискваме потребителят да ни предостави при регистрацията или при използване "
-"на електронната форма за комуникация с Europeana."
-
-#: templates/rights/privacy.html:27
-msgid "Log Files and Cookies"
-msgstr "Лог файлове и файлове тип cookie (\"бисквитка\") "
-
-#: templates/rights/privacy.html:29
-msgid ""
-"When you visit  Europeana.eu, your requests and actions are automatically "
-"logged on our server. Log files contain information such as your IP address, "
-"the date and time you accessed the website, the pages you requested for "
-"viewing, etc. Log files do not contain any personal identifiable information "
-"about you."
-msgstr ""
-"Когато посетите Europeana.eu, Вашите запитвания и действия се записват "
-"автоматично от нашия сървър. Лог файлът съдържа информация за Вашия IP "
-"адрес, датата и часа, когато сте посетили нашия уебсайт, страниците, които "
-"сте изискали за преглеждане и др. Лог файловете не съдържат каквато и да е "
-"лична информация за Вас."
-
-#: templates/rights/privacy.html:32
-msgid ""
-"Cookies are small amounts of information sent from a web server to your "
-"browser and stored on your computers hard-drive. They contain information "
-"about the internet sites that you have visited. Europeana.eu uses cookies to "
-"recognise you and your access privileges. Most web browsers automatically "
-"accept cookies but you can usually change your browser settings to prevent "
-"this (although you might not have access to the full functionality of the "
-"website, such as the language settings you might have chosen)."
-msgstr ""
-"Файловете тип cookie (\"бисквитка\") са малки пакети информация, изпратени "
-"от уеб сървъра към Вашия браузер и съхранени във Вашия твърд диск. Те "
-"съдържат информация за интернет сайтовете, които сте посетили. Europeana.eu "
-"използва \"бисквитките\", за да разпознае Вас и Вашите права за достъп. "
-"Повечето уеб браузери приемат \"бисквитките\" автоматично, но потребителят "
-"обикновено може да променя настройките на уеб браузера си, за да предотврати "
-"това  (в този случай може да нямате достъп до пълните функционални "
-"възможностти на уебсайта, като например езиковите настройки, които сте "
-"избрали)."
-
-#: templates/rights/privacy.html:35
-msgid ""
-"Europeana.eu collects or logs cookies and information about its users and "
-"processes this information to produce usage statistics. By processing such "
-"information we are trying to identify user profiles and usage habits to "
-"improve the content and services we offer according to users needs. Log "
-"files analysis are also used to inform Europeana.eu partner libraries about "
-"digitisation priorities based on user preferences. These aggregated data do "
-"not contain information from which individuals can be identified. They are "
-"used strictly for the following purposes"
-msgstr ""
-"Europeana.eu събира и записва файлове тип cookie (\"бисквитка\") и "
-"информация за потребителите. Тя обработва тази информация, за да изготвя "
-"статистика за потреблението. Посредством обработката на тези данни Europeana "
-"се опитва да идентифицира потребителски профили и навици, за да подобри "
-"съдържанието и услугите, които предлага съобразно потребителските нужди. "
-"Анализът на лог файловете се използва също и за информиране на партниращите "
-"на Europeana.eu библиотеки за приоритетите по дигитализация, базирани на "
-"потребителските предпочитания. Така събраните данни не съдържат информация, "
-"от която да могат да се идентифицират отделни потребители. Те се използват "
-"само за следните нужди"
-
-#: templates/rights/privacy.html:38
-msgid "To monitor and to better administer traffic to the website."
-msgstr "За наблюдение и за по-добро администриране на трафика."
-
-#: templates/rights/privacy.html:39
-msgid "To assess and improve usability, services and content."
-msgstr "За достъп и подобряване на използваемостта, услугите и съдържанието."
-
-#: templates/rights/privacy.html:40
-msgid "To identify technical shortcomings and to troubleshoot."
-msgstr "За идентификация на технически недостатъци и проблеми."
-
-#: templates/rights/privacy.html:41
-msgid "To develop personalised services."
-msgstr "За развитие на персонализирани услуги."
-
-#: templates/rights/privacy.html:42
-msgid "To develop efficient marketing tools."
-msgstr "За развитие на ефективни маркетингови инструменти."
-
-#: templates/rights/privacy.html:46
-msgid "Registered users data and data from other online forms"
-msgstr "Данни за регистрирани потребители и данни, получавани от онлайн форми"
-
-#: templates/rights/privacy.html:48
-msgid ""
-"When we ask you to register, we ask you to voluntarily supply some personal "
-"information about yourself. Identification of users allows us to provide "
-"personalised services on the portal. Currently the following options are "
-"offered: to save favorites or session query history for referencing at a "
-"later date. We intend to expand these services to offer more personalized "
-"possibilities to the users, such as: to save selected collections for use at "
-"a later date or to receive e-mail alerts about new collections added which "
-"might interest them."
-msgstr ""
-"Когато е нужно да се регистрирате, Вие предоставяте напълно доброволно лична "
-"информация. Идентифицирането на потребителите ни позволява да "
-"персонализираме предлаганите услуги. Понастоящем следните възможности са "
-"достъпни: запазване на любими обекти или история на търсенето. Възнамеряваме "
-"да разширим тези услуги като предложим повече перзонализирани възможности, "
-"като например: запазване на избрани колекции за бъдещо използване или "
-"получване на уведомления по е-мейл за новодобавени колекции, които може да "
-"представляват интерес за вас."
-
-#: templates/rights/privacy.html:51
-msgid ""
-"Through the use of any electronic form on our website (feedback form, "
-"newsletter subscription, report a link) you agree to supply some minimum "
-"personal information (namely name and e-mail address). We may use this "
-"information to reply to you about the issue involved. Your personal "
-"information will not be used for direct mailing or for other reasons than to "
-"answer your request."
-msgstr ""
-"С помощта на електронните форми на уебсайта (Форма за обратна връзка, Форма "
-"за заявка за получаване на еНовини, Форма за съобщения) потребителят се "
-"съгласява да предостави минимална лична информация (обикновено имена и е-"
-"мейл адрес).  Възможно е тази информация да бъде използвана за отговор на "
-"повдигнатия проблем. Вашата лична информация няма да бъде използвана, за да "
-"получите съобщение от Europeana  по друга причина, различна от отговор на "
-"Вашето запитване."
-
-#: templates/rights/privacy.html:54
-msgid "Data Protection"
-msgstr "Защита на данните"
-
-#: templates/rights/privacy.html:56
-msgid ""
-"Europeana.eu respects your privacy and seeks to protect your personal data. "
-"We do not sell, trade or rent the information we get from you on this site "
-"to others. Sometimes, we collaborate with public organisations such as "
-"universities that conduct research on our behalf on usage patterns and "
-"behaviour to help us improve the content and the services we offer. In these "
-"cases we do not disclose to them personal information (e.g. names or "
-"addresses)."
-msgstr ""
-"Europeana.eu уважава Вашата лична неприкосновеност и търси начини да защити "
-"Вашите лични данни. Europeana не продава, търгува или отдава под наем "
-"информацията, получена от Вас чрез този сайт. Понякога ние си сътрудничим с "
-"други обществени организации като университети например, които провеждат "
-"изследвания от наше име за потребителско поведение и модели на ползване с "
-"цел подобряване на съдържанието и услугите, които предлагаме. В този случай "
-"ние не им предоставяме лична информация като имена и адреси."
-
-#: templates/rights/privacy.html:59
-msgid ""
-"Europeana.eu takes all necessary measures to protect the data from un-"
-"authorised access and use in a way other than that stated in the Privacy "
-"Policy. Europeana.eu is hosted by SARA in The Netherlands and therefore uses "
-"the systems and security in place for this public institution."
-msgstr ""
-"Europeana.eu взема всички мерки, за да защити данните от неоторизиран достъп "
-"и използването им по начин, различен от описания в Защитата на личните "
-"данни.  Europeana.eu се хоства (физическото местоположение на данните) от "
-"SARA (Нидерландия) и поради тази причина използва системите и мерките за "
-"сигурност, валидни за тази обществена институция."
-
-#: templates/rights/privacy.html:62
-msgid ""
-"The data are stored for as long as they are useful for administrative "
-"reasons. Non-personal data may be stored indefinitely as research material."
-msgstr ""
-"Данните се съхраняват толкова дълго, колкото е нужно по административни "
-"причини. Данни, различни от личните, могат да бъдат съхранявани за "
-"неопределено дълъг период от време като изследователски материал."
-
-#: templates/rights/privacy.html:65
-msgid ""
-"Please note: Under law, we may be required to disclose the information that "
-"we log to the appropriate legal authorities."
-msgstr ""
-"Моля отбележете: По закон на Europeana  може да й бъде наложено да "
-"предостави информацията, която записва в лог файловете на съответните правни "
-"органи. "
-
-#: templates/rights/privacy.html:68
-msgid "About this Privacy Policy Statement"
-msgstr "Относно този документ за Защита на личните данни"
-
-#: templates/rights/privacy.html:70
-msgid ""
-"This Site may contain links to other web sites that are beyond our control. "
-"This privacy policy applies solely to the information you provide while "
-"visiting this Site. Other web sites to which you link may contain privacy "
-"policies that are different from this privacy policy."
-msgstr ""
-"Този сайт може да съдържа връзки към други уеб сайтове, които са извън нашия "
-"контрол. Политиката ни за Защита на личните данни се прилага единствено и "
-"само за информацията, която потребителят продоставя, докато използва този "
-"сайт. Всички други сайтове, към които потребителят прави връзки, може да "
-"имат политика за Защита на личните данни, различна от тази."
-
-#: templates/rights/privacy.html:73
-msgid ""
-"The current privacy policy statement is in accordance with the Dutch "
-"Personal Data Protection Act (Wet Bescherming Persoonsgegevens)."
-msgstr ""
-"Настоящият документ за Защита на личните данни е в съответствие със Закона "
-"за защита на личните данни в Нидерландия (Wet Bescherming Persoonsgegevens)."
-
-#: templates/rights/privacy.html:76
-msgid ""
-"Any changes to Europeana.eu privacy policy will be published on this page."
-msgstr ""
-"Всички бъдещи промени в Europeana.eu, отнасящи се до Защита на личните "
-"данни, ще бъдат публикувани на тази страница."
-
-#: templates/rights/privacy.html:79
-msgid "Questions, Complaints, and Dispute Resolution"
-msgstr "Въпроси, оплаквания и решаване на спорове"
-
-#: templates/rights/privacy.html:81
-msgid ""
-"By using our website you consent to the terms of the Privacy Statement "
-"hereby described. However, you have the right to prevent the use of your "
-"personal data for personalised services and marketing as well as to request "
-"not to be further contacted by us.\n"
-"If you wish to be informed about the personal data collected about you, or "
-"to have this data corrected or removed, or have any other question with "
-"regards to this statement, please contact"
-msgstr ""
-"Използвайки този сайт, потребителят се съгласява с условията за Защита на "
-"личните данни, описани в този документ. Обаче потребителят има право да "
-"предотврати използването на неговите лични данни за персонализирани услуги "
-"или маркетингови цели, а също така и да изяви желание да не бъде "
-"контактувано с него в бъдеще. Ако желаете да бъдете уведомени за това, какви "
-"лични данни за Вас са били събрани, или желаете да коригирате или изтриете "
-"тези данни, или имате някакви въпроси, свързани с тази политика за Защита на "
-"личните данни, моля свържете се с нас на"
-
-#: templates/rights/privacy.html:85
-msgid "Date of creation of the Privacy Statement"
-msgstr "Дата на създаване на документа за Защита на личните данни"
-
-#: templates/rights/privacy.html:85 templates/rights/privacy.html.py:86
-#: templates/static_pages/aboutus_enews.html:15
-#: templates/static_pages/aboutus_enews.html:25
-#: templates/static_pages/aboutus_enews.html:34
-#: templates/static_pages/aboutus_enews.html:43
-msgid "September"
-msgstr "Септември"
-
-#: templates/rights/privacy.html:86
-msgid "Last amendment"
-msgstr "Последна  редакция"
-
-#: templates/rights/privacy.html:89
-msgid "Feedback Form [title may differ in different languages]"
-msgstr "Форма за обратна връзка"
-
-#: templates/rights/privacy.html:90
-#, fuzzy
-msgid ""
-"If you encounter any problem using this site or wish to make general "
-"comments/suggestions, please use this"
-msgstr ""
-"При възникване на някакви проблеми при използването на този сайт или ако "
-"желаете да направите някакви общи коментари или предложения, моля използвайте"
-
-#: templates/rights/privacy.html:90
-#, fuzzy
-msgid "contact form"
-msgstr "contact.html"
-
-#: templates/rights/privacy.html:92
-msgid ""
-"All of our online forms that require you to enter personal information are "
-"designed to meet privacy requirements. This privacy policy provides further "
-"details."
-msgstr ""
-"Всички онлайн форми в Europeana, които изискват въвеждане на лична "
-"информация, са създадени по начин, отговарящ на изискванията за Защита на "
-"личните данни. Този документ за Защита на личните данни предлага повече "
-"информация относно това."
-
-#: templates/rights/terms-and-policies.html:4
-msgid "Europeana - Terms and Policies"
-msgstr "Europeana - Условия и политики"
-
-#: templates/rights/terms-and-policies.html:15
-msgid "Europeana Terms and Policies"
-msgstr "Europeana условия и политики"
-
-#: templates/rights/terms-and-policies.html:18
-msgid ""
-"In this section of the Europeana website you will find an overview of our "
-"Terms and Policies. These are divided into three subsections: 'Using Our "
-"data', 'Contributing data' and 'Our Policies':"
-msgstr ""
-"В тази секция на сайта на Europeana ще откриете преглед на нашите Условия и "
-"политики. Те са раздлени на три секции: 'Използване на данните', 'Доставка "
-"на данни' и 'Нашите политики'"
-
-#: templates/rights/terms-and-policies.html:22
-msgid "Using Our data"
-msgstr "Използване на данните"
-
-#: templates/rights/terms-and-policies.html:22
-msgid ""
-"provides you with the Terms of Use and Guidelines for using the data "
-"published on Europeana.eu."
-msgstr ""
-"ви запознава с Условията на ползване и Насоките за използване на данните "
-"публикувани в Europeana.eu."
-
-#: templates/rights/terms-and-policies.html:24
-msgid ""
-"governs what you can or cannot do with the metadata and previews that are "
-"published on Europeana.eu, with seperate"
-msgstr ""
-"регулира какво може и какво не може да се извършва с метаданните и "
-"изображенията, които са публикувани в Europeana.eu с отделни"
-
-#: templates/rights/terms-and-policies.html:24
-msgid "Terms of Use for the Europeana API"
-msgstr "Условия за ползване Europeana API"
-
-#: templates/rights/terms-and-policies.html:24
-msgid "Europeana publishes guidelines for working with"
-msgstr "Europeana е публикувала насоки за работа с"
-
-#: templates/rights/terms-and-policies.html:24
-msgid "Europeana metadata"
-msgstr "Europeana метаданни"
-
-#: templates/rights/terms-and-policies.html:24
-msgid "as well as for using digital reproductions of"
-msgstr ", а също така и за използването на дигитални репродукции на"
-
-#: templates/rights/terms-and-policies.html:24
-msgid "Public Domain works that you find via Europeana."
-msgstr "творби обществено достояниe, които са намерени в Europeana."
-
-#: templates/rights/terms-and-policies.html:24
-msgid "Additionally we provide a list of"
-msgstr "Допълнително ние поддържаме списък на"
-
-#: templates/rights/terms-and-policies.html:24
-msgid "data sources that Europeana uses"
-msgstr "източниците на данни, използвани от Europeana"
-
-#: templates/rights/terms-and-policies.html:24
-#, fuzzy
-msgid "to enrich the metadata provided by our data providers"
-msgstr "за обогатяване на метаданните подадени от Доставчиците на данни"
-
-#: templates/rights/terms-and-policies.html:28
-msgid "Contributing data"
-msgstr "Доставката на данни"
-
-#: templates/rights/terms-and-policies.html:28
-msgid ""
-"provides terms that ensure that Europeana can combine objects and data "
-"provided by individual users with the rest of the Europeana metadata"
-msgstr ""
-"предвижда условия, които гарантират, че Europeana може да комбинира обекти и "
-"данни, предоставени от индивидуални потребители с останалата част от вече "
-"публикуваните метаданни"
-
-#: templates/rights/terms-and-policies.html:31
-msgid "The Europeana Data Exchange Agreement"
-msgstr "Europeana Договора за сътрудничество"
-
-#: templates/rights/terms-and-policies.html:31
-msgid ""
-"governs the relationship between Europeana and the institutional data "
-"providers. The"
-msgstr ""
-"регулира отношенията между Europeana и институциите - доставчици на данни."
-
-#: templates/rights/terms-and-policies.html:31
-msgid "terms for user contributions"
-msgstr "Условията за принос на потребителите"
-
-#: templates/rights/terms-and-policies.html:31
-msgid "governs the terms on which users contribute data to Europeana"
-msgstr ""
-"регулират условията, при които потребителите предоставят данни на Europeana"
-
-#: templates/rights/terms-and-policies.html:35
-msgid "contains Europeana's policies"
-msgstr "съдържат политиките на Europeana"
-
-#: templates/rights/terms-and-policies.html:37
-msgid "The"
-msgstr "Политиката по"
-
-#: templates/rights/terms-and-policies.html:37
-msgid ""
-"policy details how we treat personal information that we have collected from "
-"our users.  The"
-msgstr ""
-"детайлизира как третираме личната информация, която събираме от "
-"потребителите. Политиката по"
-
-#: templates/rights/terms-and-policies.html:37
-msgid ""
-"policy describes Europeana's policy for providing information in a users own "
-"language and"
-msgstr ""
-"описва начина на предоставяне на информация на езика на потребителя, а "
-"политиката по"
-
-#: templates/rights/terms-and-policies.html:37
-msgid ""
-"describes Europeana's aim to provide functionality and content that is "
-"universally accessible. In this section you will also find the"
-msgstr ""
-"описва целите на Europeana да осигури универсална функционалност и "
-"съдържание. В тази секция вие ще намерите също и"
-
-#: templates/rights/terms-and-policies.html:37
-msgid "Europeana Public Domain Charter"
-msgstr "Хартата на Europeana за творби обществено достояние"
-
-#: templates/rights/terms-and-policies.html:37
-msgid ""
-"that explains Europeana's contribution to strengthening the digital Public "
-"Domain"
-msgstr ""
-", която обяснява приносът на Europeana за укрепване на творбите обществено "
-"достояние"
-
-#: templates/rights/terms-for-user-contributions.html:4
-msgid "Europeana - Terms for User Contributions"
-msgstr "Europeana - Условия за принос на потребителите"
-
-#: templates/rights/terms-for-user-contributions.html:49
-msgid "Europeana Terms for User Contributions"
-msgstr "Europeana условия за принос на потребителите"
-
-#: templates/rights/terms-of-use.html:4
-msgid "Europeana - Terms of Use"
-msgstr "Europeana - Условия за ползване"
-
-#: templates/rights/terms-of-use.html:15
-msgid "Europeana Terms of Use"
-msgstr "Europeana условия за ползване"
-
-#: templates/rights/terms-of-use.html:18
-msgid ""
-"The Europeana.eu website is run by the Europeana Foundation and gives access "
-"to a wide range of digitised cultural heritage from across Europe and "
-"beyond. This material is provided to Europeana by a large number of "
-"contributing institutions and organisations. Europeana strives to make all "
-"resources on this website available for re-use. As part of this, all "
-"metadata (textual information on digitised cultural heritage) on the site "
-"are published without any restrictions on re-use. Most other material, such "
-"as the previews to digitised cultural heritage, is clearly labelled with "
-"rights statements that indicate if and under which conditions it can be re-"
-"used."
-msgstr ""
-"Europeana.eu, уеб сайт поддържан от фондация Europeana, осигурява достъп до "
-"широк кръг от дигитализирани материали от културното наследство на цяла "
-"Европа и други страни. Тези материали са осигурени от голям брой институции "
-"и организации. Europeana се стреми да направи всички ресурси на нейния сайт "
-"достъпни за повторна употреба. Като част от това метаданните (текстовата "
-"информация, съпровождаща дигитализирания обект) са публикувани без "
-"рестрикции относно повторната употреба. Повечето от другите материали като "
-"например изображенията към дигитализраните обекти са ясно маркирани с какви "
-"права за достъп са и при какви условия могат да бъдат използвани повторно."
-
-#: templates/rights/terms-of-use.html:21
-msgid "Metadata"
-msgstr "Метаданни"
-
-#: templates/rights/terms-of-use.html:26
-msgid ""
-"All metadata available on europeana.eu are published free of restrictions, "
-"under the terms of the"
-msgstr ""
-"Всички метаданни достъпни на europeana.eu са публикувани без ограничения, в "
-"съответствие с условията на"
-
-#: templates/rights/terms-of-use.html:26
-msgid ""
-"However if you re-use data published by Europeana, we encourage you to "
-"follow the"
-msgstr ""
-"Въпреки всичко, ако използвате повторно данни публикивани от Europeana, ние "
-"ви окуражавамеда следвате препоръките публикувани в"
-
-#: templates/rights/terms-of-use.html:26
-msgid "and to provide attribution to the data sources whenever possible"
-msgstr ""
-"и да осигурите атрибутите на източниците на данни там където е възможно"
-
-#: templates/rights/terms-of-use.html:31
-msgid "Previews"
-msgstr "Предварителен преглед"
-
-#: templates/rights/terms-of-use.html:34
-msgid ""
-"The previews that are shown on Europeana.eu can only be used in accordance "
-"with the rights information displayed alongside them (the badges underneath "
-"the previews). If there is no rights information displayed alongside a "
-"preview, these previews may only be used in accordance with the applicable "
-"copyright laws. However, in the latter event, please refer to the website of "
-"the data provider to find out whether other types of use are also allowed."
-msgstr ""
-"Всички изображения за предварителен преглед (preview), публикувани на сайтa "
-"Europeana.eu могат да бъдат използвани в съответствие с правата за ползване "
-"посочени за тях (етикета под изображението). Ако няма посочена информация за "
-"правата за ползване на изображението, тогава то може да бъде използвано само "
-"в съответствие с приложимото право. В краен случай, моля, консултирайте се с "
-"уеб сайта на доставчика на данни, за да проверите какъв вид права за "
-"позлзаване са разрешени за този обект."
-
-#: templates/rights/terms-of-use.html:37
-msgid "Notice and Takedown"
-msgstr "Известия и бележки"
-
-#: templates/rights/terms-of-use.html:40
-msgid ""
-"Europeana is not the owner of the copyrights to the metadata, the previews "
-"or the digitised cultural heritage to which these metadata or previews "
-"refer. This information has been provided to Europeana by a large number of "
-"contributing institutions and organisations. These data providers have "
-"ensured Europeana that the owners of these rights have agreed to the "
-"publication of their works under the applicable conditions as referred to "
-"above. However, the Europeana Foundation cannot guarantee that this is "
-"always correct. If you think that anything published on Europeana.eu "
-"infringes your rights, you may report this to Europeana by emailing"
-msgstr ""
-"Europeana не е притежател на правата върху метаданните, изображенията или "
-"дигитализираните обекти от културното наследство, към които те се отнасят. "
-"Този вид информация е осигурена от широк кръг институции и организации. Тези "
-"доставчици на данни са уверили Europeana, че притежателите на правата за "
-"ползване са се съгласили техните творби и произведения да бъдат публикувани "
-"при условията посочени по-горе. Независимо от това фондация Euroepana не "
-"може да гарантира напълно, че тази информация е коректна. Ако смятате, че "
-"съществува инфомация публикувана на Europeana.eu, нарушаваща вашите права, "
-"моля сигнализирайте ни чрез е-мейл, изпратен на следния адрес:"
-
-#: templates/rights/terms-of-use.html:43
-msgid "Liability Disclaimer"
-msgstr "Отказ от отговорност"
-
-#: templates/rights/terms-of-use.html:45
-msgid ""
-"Europeana does not guarantee the accuracy or completeness of the website and "
-"its content."
-msgstr ""
-"Europeana не гарантира точността и пълнотата на този сайт и неговото "
-"съдържание."
-
-#: templates/rights/terms-of-use.html:48
-msgid ""
-"Except to the extent required by applicable law, in no event will Europeana "
-"be liable on any legal theory for any special, incidental, consequential, "
-"punitive or exemplary damages arising out of the use of the website or its "
-"content. In particular, it will not be liable for the following:"
-msgstr ""
-"Освен доколкото това се изисква от действащото законодателство, в никакъв "
-"случай Europeana няма да носи юридическа отговорност за каквито и да било "
-"специални, случайни, косвени, наказателни или примерни вреди, произтичащи от "
-"използването на този уебсайт или неговото съдържание. По-специално, тя няма "
-"да носи отговорност за следното:"
-
-#: templates/rights/terms-of-use.html:52
-msgid "Accuracy, completeness, etc. of the website or its content;"
-msgstr "Точността, пълнотата и др. на този уебсайт или неговото съдържание;"
-
-#: templates/rights/terms-of-use.html:53
-msgid ""
-"Any infringement of privacy, publicity or other rights, including "
-"infringement of copyrights to metadata, previews or other content made "
-"available on Europeana.eu under conditions that were not approved by the "
-"right holder;"
-msgstr ""
-"Всяко нарушение на неприкосновеността на личния живот, публичността или "
-"други права, включително нарушаване на авторските права върху метаданните, "
-"изображенията или друго съдържание, достъпно на Europeana.eu при условия, "
-"които не са били одобрени от притежателя на правото;"
-
-#: templates/rights/terms-of-use.html:54
-msgid ""
-"Any use by third parties that goes beyond the rights expressed in these "
-"terms of use."
-msgstr ""
-"Всяко използване от трети страни, което излиза извън рамките на правата, "
-"описани в тези условия за ползване."
-
-#: templates/rights/terms-of-use.html:57
-msgid "These terms of use"
-msgstr "Условия за ползване"
-
-#: templates/rights/terms-of-use.html:59
-msgid ""
-"These terms of use do not pertain to the metadata, previews and other "
-"content of virtual exhibitions offered by Europeana on"
-msgstr ""
-"Тези условия за ползване, не се отнасят до метаданните, изображенията и "
-"друго съдържание достъпни във виртуалните изложби, предлагани от Europeana на"
-
-#: templates/rights/terms-of-use.html:62
-msgid ""
-"By exercising any rights to the website or its content on grounds of these "
-"terms of use, you accept and agree to be bound to these terms of use. "
-"Europeana reserves the right to amend these terms of use."
-msgstr ""
-"Чрез упражняване на правата за ползване на този уебсайт или неговото "
-"съдържание въз основа на тези условия за ползване, вие приемате и се "
-"съгласявате да бъдете обвързани с тези условия за ползване. Europeana си "
-"запазва правото да ги променя."
-
-#: templates/rights/terms-of-use.html:65
-msgid "These terms of use are governed by the laws of The Netherlands."
-msgstr "Тези условия за ползване се регулират от законите на Холандия."
-
-#: templates/static_pages/aboutus.html:4
-msgid "Europeana - About us"
-msgstr "Europeana - за нас"
-
-#: templates/static_pages/aboutus.html:13
-msgid "think culture"
-msgstr "Мисъл за културата"
-
-#: templates/static_pages/aboutus.html:17
-msgid ""
-"Take a virtual trip through the kind of things you can find on Europeana"
-msgstr ""
-"Направете виртуална разходка сред обектите, които бихте могли да откриете в "
-"Europeana"
-
-#: templates/static_pages/aboutus.html:19
-msgid ""
-"Explore millions of items from a range of Europe's leading galleries, "
-"libraries, archives and museums. Books and manuscripts, photos and "
-"paintings, television and film, sculpture and crafts, diaries and maps, "
-"sheet music and recordings, they’re all here. No need to travel the "
-"continent, either physically or virtually!"
-msgstr ""
-"Изследвайте милионите обекти, съхранявани в най-известните Европейски "
-"галерии, библиотеки, архиви и музеи. Книги и ръкописи, снимки и картини, "
-"телевизионни програми и филми, склуптури и произведения на изкуството, "
-"дневници и карти, ноти и записи музика, всичко това е та,. Не е нужно да "
-"пътувате през континента - както физически така и виртуално."
-
-#: templates/static_pages/aboutus.html:21
-msgid ""
-"Found something you like? Download it, print it, use it, save it, share it, "
-"play with it, love it!"
-msgstr ""
-"Намерихте ли нещо което харесвате? Разгледайте, разпечатайте, запишете, "
-"споделете, слушайте или се влюбете в него!"
-
-#: templates/static_pages/aboutus.html:23
-msgid ""
-"Europeana is the trusted source of cultural heritage brought to you by the "
-"Europeana Foundation and a large number of European cultural institutions, "
-"projects and partners. It’s a real piece of team work."
-msgstr ""
-"Europeana е надежден източник на достъп до културното наследство, осигурен "
-"от Фондация Europeana и широк брой Европейски културни институции, проекти и "
-"партньори. Тя е изтински пример за екипна работа."
-
-#: templates/static_pages/aboutus.html:25
-msgid ""
-"Ideas and inspiration can be found within the millions of items on "
-"Europeana. These objects include"
-msgstr ""
-"Идеи и вдъхновение могат да бъдат почерпени от милионите обекти в Europeana. "
-"Тези обекти включват"
-
-#: templates/static_pages/aboutus.html:28
-#: templates/static_pages/prop_file.html:91
-#: templates/static_pages/usingeuropeana_results.html:16
-msgid "Images"
-msgstr "Изображения"
-
-#: templates/static_pages/aboutus.html:28
-msgid "paintings, drawings, maps, photos and pictures of museum objects"
-msgstr "картини, рисунки, фотографии, карти и снимки на музейни експонати"
-
-#: templates/static_pages/aboutus.html:29
-#: templates/static_pages/prop_file.html:90
-#: templates/static_pages/usingeuropeana_results.html:15
-msgid "Texts"
-msgstr "Текстове"
-
-#: templates/static_pages/aboutus.html:29
-msgid "books, newspapers, letters, diaries and archival papers"
-msgstr "книги, вестници, писма, дневници и архивни документи"
-
-#: templates/static_pages/aboutus.html:30
-#: templates/static_pages/prop_file.html:93
-msgid "Sounds"
-msgstr "Звукови файлове"
-
-#: templates/static_pages/aboutus.html:30
-msgid "music and spoken word from cylinders, tapes, discs and radio broadcasts"
-msgstr "музика и фонографски записи, аудиозаписи, дискове и радиопредавания"
-
-#: templates/static_pages/aboutus.html:31
-#: templates/static_pages/prop_file.html:92
-msgid "Videos"
-msgstr "Видео"
-
-#: templates/static_pages/aboutus.html:31
-msgid "films, newsreels and TV broadcasts"
-msgstr "филми, кинопрегледи и телевизионни предавания"
-
-#: templates/static_pages/aboutus.html:36
-msgid ""
-"Some items and topics are world famous, like Isaac Newton's book about the"
-msgstr ""
-"Някои експонати и материали са световноизвестни  – като книгата на Исак "
-"Нютон за"
-
-#: templates/static_pages/aboutus.html:36
-msgid "Laws of Motion"
-msgstr "Законите за движението"
-
-#: templates/static_pages/aboutus.html:36
-msgid "the drawings of"
-msgstr "картините на"
-
-#: templates/static_pages/aboutus.html:36
-msgid "Leonardo da Vinci"
-msgstr "Леонардо да Винчи"
-
-#: templates/static_pages/aboutus.html:36
-msgid "Johannes Vermeer's painting of the"
-msgstr "картината на Йоханес Вермеер"
-
-#: templates/static_pages/aboutus.html:36
-msgid "Girl With A Pearl Earring"
-msgstr "Момичето с перлената обеца,"
-
-#: templates/static_pages/aboutus.html:36
-msgid "or objects about the"
-msgstr "както и документи, свързани с"
-
-#: templates/static_pages/aboutus.html:36
-msgid "Berlin Wall"
-msgstr "Берлинската стена"
-
-#: templates/static_pages/aboutus.html:36
-msgid "Others are hidden treasures, waiting for you to discover them."
-msgstr "Останалите са скрити съкровища, които ви очакват, за да ги откриете."
-
-#: templates/static_pages/aboutus.html:38
-msgid "Renowned names such as the"
-msgstr "Известни имена като:"
-
-#: templates/static_pages/aboutus.html:38
-msgid "British Library"
-msgstr "Британската библиотека"
-
-#: templates/static_pages/aboutus.html:38
-msgid "in London, the"
-msgstr "(British Library) в Лондон,"
-
-#: templates/static_pages/aboutus.html:38
-msgid "Rijksmuseum"
-msgstr "Националния музей"
-
-#: templates/static_pages/aboutus.html:38
-msgid "in Amsterdam and the"
-msgstr "(Rijksmuseum) в Амстердам и парижкия"
-
-#: templates/static_pages/aboutus.html:38
-msgid "Louvre"
-msgstr "Лувър"
-
-#: templates/static_pages/aboutus.html:38
-msgid ""
-"in Paris are featured alongside smaller organisations across Europe. "
-"Together, their assembled collections allow you to explore Europe's history "
-"from ancient times to the modern day."
-msgstr ""
-"(the Louvre) са представени наред с по-малки организации от цяла Европа. "
-"Техните обединени колекции ви дават възможност да изследвате европейската "
-"история от древността до наши дни."
-
-#: templates/static_pages/aboutus.html:40
-msgid ""
-"Whether you find a celebrated work or a lesser known object, Europeana "
-"always connects you to the original source of the material so you can be "
-"sure of its authenticity."
-msgstr ""
-"Независимо дали ще откриете известна творба или по-малко известен обект, "
-"Europeana винаги ви свързва с оригиналния източник на материала, и Вие "
-"можете да бъдете сигурни в автентичността му."
-
-#: templates/static_pages/aboutus.html:43
-msgid "See the storyline and image credits for the Europeana video (above)"
-msgstr "Вижте историята и изображенията разказани във видеото (по-горе)"
-
-#: templates/static_pages/aboutus_enews.html:4
-#, fuzzy
-msgid "Europeana newsletters"
-msgstr "Europeana - Помощ"
-
-#: templates/static_pages/aboutus_enews.html:15
-#, fuzzy
-msgid "Discover Europeana's hand-picked collections"
-msgstr "Новите материали в колекциите на Europeana"
-
-#: templates/static_pages/aboutus_enews.html:16
-#: templates/static_pages/aboutus_enews.html:26
-#: templates/static_pages/aboutus_enews.html:35
-#: templates/static_pages/aboutus_enews.html:44
-msgid "June"
-msgstr "Юни"
-
-#: templates/static_pages/aboutus_enews.html:16
-msgid ""
-"Download free iPad app, explore great new content &amp; join Europeana 1989"
-msgstr ""
-
-#: templates/static_pages/aboutus_enews.html:17
-#: templates/static_pages/aboutus_enews.html:27
-#: templates/static_pages/aboutus_enews.html:36
-#: templates/static_pages/aboutus_enews.html:45
-msgid "April"
-msgstr "Април"
-
-#: templates/static_pages/aboutus_enews.html:17
-msgid "New look Europeana, Lithuania's buried secrets"
-msgstr ""
-
-#: templates/static_pages/aboutus_enews.html:18
-#: templates/static_pages/aboutus_enews.html:28
-#: templates/static_pages/aboutus_enews.html:37
-#: templates/static_pages/aboutus_enews.html:46
-msgid "February"
-msgstr "Февруари"
-
-#: templates/static_pages/aboutus_enews.html:23
-#: templates/static_pages/aboutus_enews.html:32
-#: templates/static_pages/aboutus_enews.html:41
-#: templates/static_pages/aboutus_enews.html:51
-msgid "December"
-msgstr "Декември"
-
-#: templates/static_pages/aboutus_enews.html:24
-#: templates/static_pages/aboutus_enews.html:42
-msgid "November"
-msgstr "Ноември"
-
-#: templates/static_pages/aboutus_enews.html:33
-msgid "October"
-msgstr "Октомври"
-
-#: templates/static_pages/aboutus_faqs.html:3
-#: templates/static_pages/usingeuropeana.html:3
-msgid "Europeana - Help"
-msgstr "Europeana - Помощ"
-
-#: templates/static_pages/aboutus_faqs.html:9
-msgid "FAQs"
-msgstr "Често задавани въпроси"
-
-#: templates/static_pages/api-fields.html:23
-msgid "Return to API introduction page"
-msgstr ""
-
-#: templates/static_pages/disclaimer.html:4
-msgid "Europeana - External links disclaimer"
-msgstr "Европеана - Отказ от отговорност за съдържанието на външни сайтове"
-
-#: templates/static_pages/disclaimer.html:8
-msgid "External links disclaimer"
-msgstr "Отказ от отговорност за съдържанието на външни сайтове"
-
-#: templates/static_pages/disclaimer.html:11
-msgid ""
-"On Europeana, you will often find links to external websites relevant to "
-"Europeana's mission: to help our users discover and share in the inspiring "
-"diversity of Europe's cultural and scientific heritage."
-msgstr ""
-"В Europeana често ще попадате на връзки към външни уебсайтове, които имат "
-"отношение към нашата мисия: да помагаме на потребителите да откриват и "
-"споделят вдъхновяващото разнообразие на европейското културно и научно "
-"наследство."
-
-#: templates/static_pages/disclaimer.html:15
-#, fuzzy
-msgid ""
-"Europeana makes every effort to ensure that all of these external links are "
-"accurate and relevant but these websites are not under our control. We "
-"cannot take responsibility for any information found on external websites."
-msgstr ""
-"Europeana полага всички усилия, за да гарантира, че всички тези външни "
-"връзки са адекватни и уместни, но тези уебсайтове не са под наш контрол. Не "
-"можем да поемем отговорност за информацията, която бихте могли да откриете "
-"там."
-
-#: templates/static_pages/disclaimer.html:18
-msgid ""
-"In particular, the linking from Europeana to other websites is provided as a "
-"convenience. External links"
-msgstr ""
-"В действителност връзките от Europeana към други сайтове се предлагат за "
-"ваше удобство. Външните връзки"
-
-#: templates/static_pages/disclaimer.html:18
-msgid "do not"
-msgstr "НЕ"
-
-#: templates/static_pages/disclaimer.html:22
-msgid ""
-"Imply on the part of Europeana any endorsement or guarantee of any of the "
-"organisations or information found on the respective websites."
-msgstr ""
-"предполагат от страна на Europeana никакво одобрение или гаранция, за която "
-"и да е от организациите или за информацията, която може да се намери в "
-"съответните сайтове;"
-
-#: templates/static_pages/disclaimer.html:23
-msgid ""
-"Represent any liability by Europeana for any damage to your computer "
-"hardware, software, data or business, which may result from the information "
-"or lack of information available."
-msgstr ""
-"предполагат поемането на отговорност от страна на Europeana за щети, "
-"нанесени на вашия компютърен хардуер и софтуер, на данните или на бизнеса "
-"ви, произтичащи от информация или от недостиг на информация;"
-
-#: templates/static_pages/disclaimer.html:24
-msgid ""
-"Guarantee that external websites will provide an uninterrupted service. "
-"Prototypes in particular may be subject to periods of downtime as they "
-"undergo further development."
-msgstr ""
-"гарантират постоянно обслужване от страна на външните сайтове. Някои "
-"прототипи в частност могат да имат периоди на неактивност вследствие на "
-"извършването на актуализации."
-
-#: templates/static_pages/disclaimer.html:27
-msgid ""
-"Please tell us if you find existing external links which are no longer "
-"working properly or which you believe are inappropriate. We would also be "
-"pleased to learn about any additional links, which you believe might be "
-"relevant for us to add."
-msgstr ""
-"Моля уведомявайте ни за съществуващи външни връзки, които вече не са "
-"актуални или ви се струват неподходящи. Също така ще се радваме на "
-"информация за допълнителни връзки, за които смятате, че е уместно да бъдат "
-"добавени."
-
-#: templates/static_pages/europeana-api.html:8
-msgid "Europeana API - Coming Soon!"
-msgstr "Europeana API - Очаквайте скоро!"
-
-#: templates/static_pages/europeana-api.html:9
-msgid ""
-"We will be launching a new API very soon so please stay tuned. To find out "
-"more about our current API and our Linked Open Data visit their pages on"
-msgstr ""
-"Новата версия на API ще бъде анонсирана скоро. За да научите повече за "
-"текущата версия на API и Linked Open Data, моля проверявайте техните "
-"страници на портала"
-
-#: templates/static_pages/explore.html:3
-#: templates/static_pages/followus.html:3
-msgid "Europeana - Using Europeana"
-msgstr "Europeana - използвай Europeana"
-
-#: templates/static_pages/explore.html:11
-msgid ""
-"To make searching in Europeana easier, try alternative ways of navigating "
-"through our millions of objects. Learn more about different topics with "
-"curatorial help, see our most recent content, discover content from "
-"individual providers, and explore Europe's rich heritage on a timeline."
-msgstr ""
-"За да търсите по-лесно в Europeana може да използвате алтернативни методи за "
-"навигация сред милионите обекти. Научете повече за различните теми с помощта "
-"на куратор, вижте най-новото ни съдържание, открийте отделните ни доставчици "
-"и опознайте на богатото културно-историческо наследство на Европа с помощта "
-"на линията на времето."
-
-#: templates/static_pages/followus.html:11
-msgid ""
-"Discover some of the most interesting content on Europeana, keep up-to-date "
-"with our latest developments, find out about who we are and more with our "
-"newsletter, blog, Twitter and Facebook pages."
-msgstr ""
-"Открийте някой от най-интересните теми в Europeana, бъдете информирани за "
-"последните технологични новости, научете повече за нас чрез прессъобщенията, "
-"нашия блог, Twiter или Facebook."
-
-#: templates/static_pages/newcontent.html:3
-msgid "Europeana - New Content"
-msgstr "Europeana - Ново съдържание"
 
 #: templates/static_pages/prop_file.html:5
 msgid ""
@@ -2219,6 +950,28 @@ msgstr "Разглеждане на подобни обекти"
 #: templates/static_pages/prop_file.html:89
 msgid "All"
 msgstr "Всички"
+
+#: templates/static_pages/prop_file.html:90
+#: templates/static_pages/usingeuropeana_results.html:15
+#: templates/static_pages/aboutus.html:29
+msgid "Texts"
+msgstr "Текстове"
+
+#: templates/static_pages/prop_file.html:91
+#: templates/static_pages/usingeuropeana_results.html:16
+#: templates/static_pages/aboutus.html:28
+msgid "Images"
+msgstr "Изображения"
+
+#: templates/static_pages/prop_file.html:92
+#: templates/static_pages/aboutus.html:31
+msgid "Videos"
+msgstr "Видео"
+
+#: templates/static_pages/prop_file.html:93
+#: templates/static_pages/aboutus.html:30
+msgid "Sounds"
+msgstr "Звукови файлове"
 
 #: templates/static_pages/prop_file.html:94
 msgid "Text"
@@ -4382,6 +3135,12 @@ msgstr "Моля, изберете друг език от падащото ме�
 msgid "Number of results shown on the page"
 msgstr ""
 
+#: templates/static_pages/prop_file.html:984
+#: templates/static_pages/prop_file.html:985
+#: templates/static_pages/sitemap.html:64
+msgid "Get an API-Key"
+msgstr "Вземете API-ключ (API-key)"
+
 #: templates/static_pages/prop_file.html:988
 msgid "API-key"
 msgstr ""
@@ -4389,6 +3148,14 @@ msgstr ""
 #: templates/static_pages/prop_file.html:989
 msgid "Number of calls"
 msgstr ""
+
+#: templates/rights/api-terms-of-use.html:4
+msgid "Europeana - API Terms of Use"
+msgstr "Europeana - API условия за ползване"
+
+#: templates/rights/api-terms-of-use.html:15
+msgid "Europeana API Terms of Use"
+msgstr "Europeana - API условия за ползване"
 
 #: templates/static_pages/sitemap.html:4
 msgid "Europeana - Sitemap"
@@ -4455,6 +3222,14 @@ msgstr "Europeana - Помощ"
 msgid "API1-API2 compatability"
 msgstr ""
 
+#: templates/static_pages/sitemap.html:65
+msgid "API Console"
+msgstr "API конзола"
+
+#: templates/static_pages/sitemap.html:67
+msgid "Europeana API Forum"
+msgstr "Europeana API Forum"
+
 #: templates/static_pages/sitemap.html:92
 #, fuzzy
 msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
@@ -4483,6 +3258,348 @@ msgstr "Незивестни или неуточнени права за пол�
 #, fuzzy
 msgid "Orphan work - Free access"
 msgstr "Права за ползване – Свободен достъп"
+
+#: templates/rights/languagepolicy.html:4
+msgid "Europeana - Language policy"
+msgstr "Europeana - Езикова политика"
+
+#: templates/rights/languagepolicy.html:18
+msgid "Europeana.eu follows similar policy guidelines to"
+msgstr "Europeana.eu следва езиковата политика на"
+
+#: templates/rights/languagepolicy.html:18
+msgid "Europa"
+msgstr "Europa"
+
+#: templates/rights/languagepolicy.html:18
+msgid "(the portal site of The European Union)"
+msgstr "(Интернет порталът на Европейския съюз)"
+
+#: templates/rights/languagepolicy.html:22
+msgid ""
+"As far as possible, the aim is to provide the public with the information "
+"they\n"
+"are looking for in their own language. However, due to constraints on "
+"resources,\n"
+"this isn't always possible"
+msgstr ""
+"Целта ни, по възможност, е да предоставяме на потребителите информацията, "
+"която търсят на собствения си език. За съжаление това невинаги е възможно "
+"вследствие на ограничеността на ресурсите."
+
+#: templates/rights/languagepolicy.html:28
+msgid ""
+"Therefore the following guidelines apply in Europa and will\n"
+"apply in Europeana.eu"
+msgstr ""
+"При все това някои от ръководните принципи, приложени в Europa, ще се "
+"използват и в Europeana.eu."
+
+#: templates/rights/languagepolicy.html:32
+msgid "all top (*) level pages in all full partner languages"
+msgstr ""
+"всички основни страници (*) са достъпни на езиците на пълноправните членове"
+
+#: templates/rights/languagepolicy.html:33
+msgid "prioritise speed of publication over availability of translation"
+msgstr "приоритет е бързината на публикуване на документите, а не превода"
+
+#: templates/rights/languagepolicy.html:34
+msgid ""
+"Allow limited 'language mixing' (**) i.e.: where a warning sign needs to be "
+"displayed"
+msgstr ""
+"допуснато е ограничено “смесване на езици”, (**) например в случаите, при "
+"които трябва да бъде изписано предупреждение"
+
+#: templates/rights/languagepolicy.html:39
+msgid "(*) i.e.: the navigation, search, retrieval and display interfaces"
+msgstr ""
+"(*) т.е. навигация, търсене, възстановяване, интерфейс за извличане и "
+"показване на данни"
+
+#: templates/rights/languagepolicy.html:42
+msgid "(**) Language mixing = more than one language on a page"
+msgstr "(**)”Смесване на езици” – повече от един език на страница"
+
+#: templates/rights/languagepolicy.html:46
+msgid "In practical terms this means the following"
+msgstr "На практика това означава следното"
+
+#: templates/rights/languagepolicy.html:49
+msgid ""
+"Tools to manage translation will be developed and maintained by Europeana.eu"
+msgstr ""
+"Europeana.eu ще изгради и ще поддържа инструменти за управление на превода"
+
+#: templates/rights/languagepolicy.html:50
+msgid ""
+"The completion of the translations will be the responsibility of\n"
+"each designated volunteer partner institution"
+msgstr ""
+"Изпълнението на преводите ще е отговорност на всяка призната доброволно "
+"партнираща институция"
+
+#: templates/rights/languagepolicy.html:52
+msgid ""
+"These are unofficial translations and may not correspond exactly with the "
+"English version"
+msgstr ""
+"Преводите са неофициални и могат да не съвпадат напълно с английската версия"
+
+#: templates/rights/languagepolicy.html:53
+msgid ""
+"Europeana.eu will notify each designated volunteer partner\n"
+"institution should an update be required but will not chase for that\n"
+"update"
+msgstr ""
+"При нужда от актуализация на дадена информация Europeana.eu ще уведомява "
+"всяка призната доброволно партнираща институция, но няма да настоява за "
+"актуализация"
+
+#: templates/rights/languagepolicy.html:56
+msgid ""
+"Information that is urgent or has a very short life is in\n"
+"English only e.g.: Ad-hoc error messages"
+msgstr ""
+"Информация от спешен или временен характер се публикувана само на английски "
+"език, например моментни съобщения за грешки"
+
+#: templates/rights/languagepolicy.html:58
+msgid ""
+"All surveys about the site will be produced in all\n"
+"feasible languages only"
+msgstr "Проучванията по сайта ще се публикуват на всички достъпни езици"
+
+#: templates/rights/languagepolicy.html:60
+msgid ""
+"Search Engine Promotion to be executed in English, in the\n"
+"first instance"
+msgstr "Първоначалното представяне на Търсачката да бъде на английски език"
+
+#: templates/rights/languagepolicy.html:62
+msgid ""
+"The Management section and the technical information will\n"
+"be maintained solely in English, as the working language of\n"
+"Europeana.eu"
+msgstr ""
+"Разделът за управление и техническа информация ще се поддържа единствено на "
+"английски – работният език на Europeana.eu"
+
+#: templates/rights/languagepolicy.html:65
+msgid ""
+"If, however, an individual institution wishes to translate and maintain\n"
+"any of the above from within their own resources, Europeana.eu would be "
+"happy\n"
+"to enable its display"
+msgstr ""
+"Във всеки случай, ако дадена институция изяви желание да преведе и да "
+"поддържа със собствени ресурси някоя от изброените по-горе точки, от "
+"Europeana.eu ще се радваме да направим информацията достъпна."
+
+#: templates/rights/languagepolicy.html:69 templates/rights/privacy.html:93
+msgid ""
+"The translations are made on a voluntary basis by our partners and are for "
+"information only. The legally valid text is in English only."
+msgstr ""
+"Преводите са извършени на доброволен принцип от партньорите на Europeana и "
+"са само за информация. Правно валидните текстове са единствено на английски "
+"език."
+
+#: templates/rights/linked-data-sources.html:4
+msgid "Europeana - Europeana Data Sources"
+msgstr "Europeana - Europeana източници на данни"
+
+#: templates/rights/metadata-usage-guidelines.html:4
+msgid "Europeana - Usage Guidelines for Metadata"
+msgstr "Europeana - Насоки за използване на метаданни"
+
+#: templates/rights/metadata-usage-guidelines.html:15
+#: templates/rights/terms-of-use.html:26
+msgid "Europeana Usage Guidelines for Metadata"
+msgstr "Europeana - насоки за използване на метаданни"
+
+#: templates/rights/metadata-usage-guidelines.html:18
+msgid ""
+"These usage guidelines are based on goodwill, they are not a legal contract "
+"but Europeana requests that you follow these guidelines if you use metadata "
+"from Europeana."
+msgstr ""
+"Тези насоки са базирани на принципа на добрата воля. Те не са официален "
+"договор между Europeana и потребителя, но Europeana препоръчва да бъдат "
+"следвани в случаите, когато използвате метаданни от нейните колекции."
+
+#: templates/rights/metadata-usage-guidelines.html:22
+msgid ""
+"All metadata published by Europeana are available free of restriction under "
+"the"
+msgstr ""
+"Всички метаданни публикувани от Europeana са свободни за ползване, съобразно "
+"лиценза"
+
+#: templates/rights/metadata-usage-guidelines.html:22
+msgid ""
+"However, Europeana requests that you actively acknowledge and give "
+"attribution to all metadata sources, such as the data providers (being a "
+"specific cultural heritage institution) and any data aggregators, including "
+"Europeana."
+msgstr ""
+"Независимо от това Europeana изисква активно да бъдат отбелязвани и "
+"посочвани атрибутите на източниците на метаданни като Доставчик на данни "
+"(ако е специфична културна институция) и Агрегатор на данни, включително "
+"самата Europeana."
+
+#: templates/rights/metadata-usage-guidelines.html:26
+msgid "Give credit where credit is due."
+msgstr "Признаване на заслуги."
+
+#: templates/rights/metadata-usage-guidelines.html:30
+msgid ""
+"Give attribution to the data provider and all contributing data aggregators, "
+"including Europeana. Aggregators perform a crucial task in collecting, "
+"storing and harmonising data so that it is more widely accessible and "
+"interoperable."
+msgstr ""
+"Посочете атрибутите на Доставчиците на данни и на всички Агрегатори на "
+"данни, включително самата Europeana. Агрегаторите играят важна роля при "
+"събирането, съхранението и хармонизирането на данните, с цел тяхната по-"
+"широка достъпност и съвместимост."
+
+#: templates/rights/metadata-usage-guidelines.html:31
+msgid ""
+"Make sure that others are aware of the rights status of the Europeana "
+"metadata and are aware of these guidelines. One way you can do this is to "
+"keep links to the CC0 Public Domain Dedication intact."
+msgstr ""
+"Убедете се, че потребителите са запознати с правата на достъп до метаданните "
+"в Europeana и познават тези насоки. Един от начините да направите това е да "
+"запазите непроменена връзката към CC0 Public Domain. "
+
+#: templates/rights/metadata-usage-guidelines.html:32
+msgid ""
+"If, for technical or other reasons, you cannot include all the appropriate "
+"source links and rights information alongside the metadata that you have "
+"used,  you should consider including them separately, for example in a "
+"separate document that is distributed with the metadata or dataset."
+msgstr ""
+"Ако по технически или други причини, не можете да включите в метаданните "
+"връзки към всички източници и/или права за ползване, уверете се че сте ги "
+"посочили допълнително, например в отделен документ, който се разпространява "
+"заедно с набора от данни."
+
+#: templates/rights/metadata-usage-guidelines.html:33
+msgid ""
+"If, for technical or other reasons, you cannot include all the appropriate "
+"source links and rights information alongside the metadata that you have "
+"used,  you may consider linking only to the specific metadata source on "
+"Europeana, where all available sources and rights information can be found, "
+"including machine-readable formats."
+msgstr ""
+"Ако по технически или други причини, не можете да включите връзки към всички "
+"източници и/или права за ползване, може да предпочетете да посочите връзка "
+"към специфичен източник на информация поддържан от самата Europeana, където "
+"могат да бъдат открити всички налични източници включително машинно-четими "
+"формати."
+
+#: templates/rights/metadata-usage-guidelines.html:36
+msgid ""
+"Metadata is dynamic; consider using the metadata via the Europeana APIs or "
+"by linking."
+msgstr ""
+"Метаданните са динамични структури. Използвайте ги посредством Europeana API "
+"или чрез свързаност."
+
+#: templates/rights/metadata-usage-guidelines.html:39
+msgid ""
+"When working with metadata obtained via Europeana,please be aware that it is "
+"not static but subject to change. Europeana continuously updates its "
+"metadata to correct mistakes and include new and additional information. "
+"Therefore, the best way touse metadata published by Europeana is via the "
+"Europeana API or by linking to the specific data. If, for technical or other "
+"reasons, you cannot do this,then provide a link back to the source of the "
+"data on Europeana or implement an update mechanism."
+msgstr ""
+"Когато ползвате метаданни получени чрез Europeana, моля имайте предвид, че "
+"те не са статични структури. Europeana обновява периодично метаданните с цел "
+"корекция на грешки, като включва нова, допълнителна информация.  Поради тази "
+"причина най-добрия начин да се използват тези данни е посредством Europeana "
+"API или чрез свързаност с други специфични данни.  Ако поради техническа или "
+"друга причина, това не може да бъде изпълнено, моля изпратете ни линк към "
+"данните в Europeana или приложете процедурата по обновяване."
+
+#: templates/rights/metadata-usage-guidelines.html:43
+msgid ""
+"Mention your modifications of the metadata and make your modified metadata "
+"available under the same terms."
+msgstr ""
+"Отбележете вашата промяна в метаданните и ги направете достъпни при същите "
+"условия за ползване."
+
+#: templates/rights/metadata-usage-guidelines.html:47
+msgid ""
+"Please do not use the metadata in a way that suggests you have any official "
+"status or that the data provider, aggregator or Europeana endorses you or "
+"your use of the metadata, unless you have prior permission to do so."
+msgstr ""
+"Моля, не използвайте метаданните по начин, предполагащ наличие на официален "
+"статут или разрешение дадено ви от Доставчика на данни, Агрегатора или "
+"Europeana, освен ако нямате получено такова предварително."
+
+#: templates/rights/metadata-usage-guidelines.html:48
+msgid ""
+"Please do not mislead others or misrepresent the metadata or its sources."
+msgstr ""
+"Моля, не подвеждайте потребителите и/или представяйте данните по неверен "
+"начин."
+
+#: templates/rights/metadata-usage-guidelines.html:49
+msgid ""
+"Please make the metadata and any improvements thereto freely available under "
+"the same terms as Europeana, i.e., without claiming any legal right to, or "
+"imposing any legally binding conditions on access to the metadata or your "
+"improvements."
+msgstr ""
+"Моля, направете данните и всички промени в тях свободни за позлване и "
+"достъпни при същите условия като тези в Europeana, например без да "
+"претендирате за права или да налагате каквито и да било правно обвързани "
+"условия за достъп до метаданните или вашите промени."
+
+#: templates/rights/metadata-usage-guidelines.html:53
+msgid "Please note that you use the metadata at your own risk."
+msgstr ""
+"Моля, отбележете че използването на метаданните става на ваша собствена "
+"отговорност."
+
+#: templates/rights/metadata-usage-guidelines.html:57
+msgid ""
+"Europeana offers the metadata as-is and makes no representations or "
+"warranties of any kind concerning any metadata published by Europeana."
+msgstr ""
+"Europeana публикува метаданните така както са създадени и не дава гаранции "
+"от всякакво естество, касаещи последните."
+
+#: templates/rights/metadata-usage-guidelines.html:58
+msgid ""
+"Any use of the metadata must conform to all applicable laws and other "
+"regulations in your jurisdiction, notably concerning (but not limited to) "
+"data protection, defamation or copyright."
+msgstr ""
+"Всяко използване на метаданните трябва да отговаря на всички приложими "
+"закони и други нормативни актове, дейставащи във вашата юрисдикция и по-"
+"специално що се отнася до (но не само) защитата на данните или авторското "
+"право."
+
+#: templates/rights/metadata-usage-guidelines.html:59
+msgid ""
+"Be aware of any additional applicable community norms of data providers and "
+"data aggregators."
+msgstr ""
+"Уверете се, че познавате всякакви допълнителни приложими норми, отнасящи се "
+"до Доставчиците на данни и Агрегаторите."
+
+#: templates/rights/metadata-usage-guidelines.html:63
+msgid "Thank you for your cooperation"
+msgstr "Благодарим за съдействието"
 
 #: templates/static_pages/storyline.html:4
 msgid "Europeana - Storyline and credits"
@@ -4927,6 +4044,14 @@ msgstr "Колекция"
 msgid "Link"
 msgstr "Уебсайт"
 
+#: templates/rights/pd-usage-guide.html:4
+msgid "Europeana - Public Domain Usage Guidelines"
+msgstr "Europeana - насоки за използване на метданните"
+
+#: templates/static_pages/usingeuropeana.html:3
+msgid "Europeana - Help"
+msgstr "Europeana - Помощ"
+
 #: templates/static_pages/usingeuropeana.html:11
 msgid ""
 "Welcome to Europeana. This page describes some of the things that you can do "
@@ -5017,6 +4142,321 @@ msgstr "Запазени обекти"
 #: templates/static_pages/usingeuropeana.html:21
 msgid "and Adding tags"
 msgstr "Поставяне на етикети"
+
+#: templates/rights/privacy.html:4
+msgid "Europeana - Privacy policy"
+msgstr "Europeana - Защита на личните данни"
+
+#: templates/rights/privacy.html:17
+msgid "What Information do we collect?"
+msgstr "Каква информация събираме?"
+
+#: templates/rights/privacy.html:20
+msgid ""
+"In line with common practice, when you visit Europeana website and when you "
+"register with us, we record and store some information about you. In some "
+"cases we process this information in order to better understand our users "
+"and their needs. This is done to improve the content and the usability of "
+"our portal and the services we offer. However,  Europeana.eu recognizes the "
+"importance of privacy to users of the Europeana.eu portal; consequently we "
+"handle such personal information with care."
+msgstr ""
+"В съответствие с обичайната практика, когато посещавате уеб сайт на "
+"Europeana и когато се регистрирате при нас, ние записваме и съхраняване "
+"определена информация за вас. В някои случаи обработваме тази информация, за "
+"да разберем по-добре нашите потребители и техните нужди. Това се прави за "
+"подобряване на съдържанието и използваемостта на нашия портал и услугите, "
+"които предлагаме. Въпреки това, Europeana.eu признава значението на правото "
+"на неприкосновеност на личните данни на потребителите на портала Europeana."
+"eu; в резултат на това ние боравим с тази лична информация внимателно."
+
+#: templates/rights/privacy.html:24
+msgid ""
+"Please read our Privacy Policy Statement to find out what information we log "
+"and how we use it. We collect the following: Log Files, cookies and "
+"information that we explicitly ask you to provide about yourself upon "
+"registration or upon using any electronic forms of communication with "
+"Europeana.eu staff."
+msgstr ""
+"Моля прочетете нашата политика за Защита на личните данни, за да откриете "
+"каква информация записваме и как я използваме. Europeana събира следното:  "
+"лог файлове, файлове тип cookie (\"бисквитка\") и информация, която изрично "
+"изискваме потребителят да ни предостави при регистрацията или при използване "
+"на електронната форма за комуникация с Europeana."
+
+#: templates/rights/privacy.html:27
+msgid "Log Files and Cookies"
+msgstr "Лог файлове и файлове тип cookie (\"бисквитка\") "
+
+#: templates/rights/privacy.html:29
+msgid ""
+"When you visit  Europeana.eu, your requests and actions are automatically "
+"logged on our server. Log files contain information such as your IP address, "
+"the date and time you accessed the website, the pages you requested for "
+"viewing, etc. Log files do not contain any personal identifiable information "
+"about you."
+msgstr ""
+"Когато посетите Europeana.eu, Вашите запитвания и действия се записват "
+"автоматично от нашия сървър. Лог файлът съдържа информация за Вашия IP "
+"адрес, датата и часа, когато сте посетили нашия уебсайт, страниците, които "
+"сте изискали за преглеждане и др. Лог файловете не съдържат каквато и да е "
+"лична информация за Вас."
+
+#: templates/rights/privacy.html:32
+msgid ""
+"Cookies are small amounts of information sent from a web server to your "
+"browser and stored on your computers hard-drive. They contain information "
+"about the internet sites that you have visited. Europeana.eu uses cookies to "
+"recognise you and your access privileges. Most web browsers automatically "
+"accept cookies but you can usually change your browser settings to prevent "
+"this (although you might not have access to the full functionality of the "
+"website, such as the language settings you might have chosen)."
+msgstr ""
+"Файловете тип cookie (\"бисквитка\") са малки пакети информация, изпратени "
+"от уеб сървъра към Вашия браузер и съхранени във Вашия твърд диск. Те "
+"съдържат информация за интернет сайтовете, които сте посетили. Europeana.eu "
+"използва \"бисквитките\", за да разпознае Вас и Вашите права за достъп. "
+"Повечето уеб браузери приемат \"бисквитките\" автоматично, но потребителят "
+"обикновено може да променя настройките на уеб браузера си, за да предотврати "
+"това  (в този случай може да нямате достъп до пълните функционални "
+"възможностти на уебсайта, като например езиковите настройки, които сте "
+"избрали)."
+
+#: templates/rights/privacy.html:35
+msgid ""
+"Europeana.eu collects or logs cookies and information about its users and "
+"processes this information to produce usage statistics. By processing such "
+"information we are trying to identify user profiles and usage habits to "
+"improve the content and services we offer according to users needs. Log "
+"files analysis are also used to inform Europeana.eu partner libraries about "
+"digitisation priorities based on user preferences. These aggregated data do "
+"not contain information from which individuals can be identified. They are "
+"used strictly for the following purposes"
+msgstr ""
+"Europeana.eu събира и записва файлове тип cookie (\"бисквитка\") и "
+"информация за потребителите. Тя обработва тази информация, за да изготвя "
+"статистика за потреблението. Посредством обработката на тези данни Europeana "
+"се опитва да идентифицира потребителски профили и навици, за да подобри "
+"съдържанието и услугите, които предлага съобразно потребителските нужди. "
+"Анализът на лог файловете се използва също и за информиране на партниращите "
+"на Europeana.eu библиотеки за приоритетите по дигитализация, базирани на "
+"потребителските предпочитания. Така събраните данни не съдържат информация, "
+"от която да могат да се идентифицират отделни потребители. Те се използват "
+"само за следните нужди"
+
+#: templates/rights/privacy.html:38
+msgid "To monitor and to better administer traffic to the website."
+msgstr "За наблюдение и за по-добро администриране на трафика."
+
+#: templates/rights/privacy.html:39
+msgid "To assess and improve usability, services and content."
+msgstr "За достъп и подобряване на използваемостта, услугите и съдържанието."
+
+#: templates/rights/privacy.html:40
+msgid "To identify technical shortcomings and to troubleshoot."
+msgstr "За идентификация на технически недостатъци и проблеми."
+
+#: templates/rights/privacy.html:41
+msgid "To develop personalised services."
+msgstr "За развитие на персонализирани услуги."
+
+#: templates/rights/privacy.html:42
+msgid "To develop efficient marketing tools."
+msgstr "За развитие на ефективни маркетингови инструменти."
+
+#: templates/rights/privacy.html:46
+msgid "Registered users data and data from other online forms"
+msgstr "Данни за регистрирани потребители и данни, получавани от онлайн форми"
+
+#: templates/rights/privacy.html:48
+msgid ""
+"When we ask you to register, we ask you to voluntarily supply some personal "
+"information about yourself. Identification of users allows us to provide "
+"personalised services on the portal. Currently the following options are "
+"offered: to save favorites or session query history for referencing at a "
+"later date. We intend to expand these services to offer more personalized "
+"possibilities to the users, such as: to save selected collections for use at "
+"a later date or to receive e-mail alerts about new collections added which "
+"might interest them."
+msgstr ""
+"Когато е нужно да се регистрирате, Вие предоставяте напълно доброволно лична "
+"информация. Идентифицирането на потребителите ни позволява да "
+"персонализираме предлаганите услуги. Понастоящем следните възможности са "
+"достъпни: запазване на любими обекти или история на търсенето. Възнамеряваме "
+"да разширим тези услуги като предложим повече перзонализирани възможности, "
+"като например: запазване на избрани колекции за бъдещо използване или "
+"получване на уведомления по е-мейл за новодобавени колекции, които може да "
+"представляват интерес за вас."
+
+#: templates/rights/privacy.html:51
+msgid ""
+"Through the use of any electronic form on our website (feedback form, "
+"newsletter subscription, report a link) you agree to supply some minimum "
+"personal information (namely name and e-mail address). We may use this "
+"information to reply to you about the issue involved. Your personal "
+"information will not be used for direct mailing or for other reasons than to "
+"answer your request."
+msgstr ""
+"С помощта на електронните форми на уебсайта (Форма за обратна връзка, Форма "
+"за заявка за получаване на еНовини, Форма за съобщения) потребителят се "
+"съгласява да предостави минимална лична информация (обикновено имена и е-"
+"мейл адрес).  Възможно е тази информация да бъде използвана за отговор на "
+"повдигнатия проблем. Вашата лична информация няма да бъде използвана, за да "
+"получите съобщение от Europeana  по друга причина, различна от отговор на "
+"Вашето запитване."
+
+#: templates/rights/privacy.html:54
+msgid "Data Protection"
+msgstr "Защита на данните"
+
+#: templates/rights/privacy.html:56
+msgid ""
+"Europeana.eu respects your privacy and seeks to protect your personal data. "
+"We do not sell, trade or rent the information we get from you on this site "
+"to others. Sometimes, we collaborate with public organisations such as "
+"universities that conduct research on our behalf on usage patterns and "
+"behaviour to help us improve the content and the services we offer. In these "
+"cases we do not disclose to them personal information (e.g. names or "
+"addresses)."
+msgstr ""
+"Europeana.eu уважава Вашата лична неприкосновеност и търси начини да защити "
+"Вашите лични данни. Europeana не продава, търгува или отдава под наем "
+"информацията, получена от Вас чрез този сайт. Понякога ние си сътрудничим с "
+"други обществени организации като университети например, които провеждат "
+"изследвания от наше име за потребителско поведение и модели на ползване с "
+"цел подобряване на съдържанието и услугите, които предлагаме. В този случай "
+"ние не им предоставяме лична информация като имена и адреси."
+
+#: templates/rights/privacy.html:59
+msgid ""
+"Europeana.eu takes all necessary measures to protect the data from un-"
+"authorised access and use in a way other than that stated in the Privacy "
+"Policy. Europeana.eu is hosted by SARA in The Netherlands and therefore uses "
+"the systems and security in place for this public institution."
+msgstr ""
+"Europeana.eu взема всички мерки, за да защити данните от неоторизиран достъп "
+"и използването им по начин, различен от описания в Защитата на личните "
+"данни.  Europeana.eu се хоства (физическото местоположение на данните) от "
+"SARA (Нидерландия) и поради тази причина използва системите и мерките за "
+"сигурност, валидни за тази обществена институция."
+
+#: templates/rights/privacy.html:62
+msgid ""
+"The data are stored for as long as they are useful for administrative "
+"reasons. Non-personal data may be stored indefinitely as research material."
+msgstr ""
+"Данните се съхраняват толкова дълго, колкото е нужно по административни "
+"причини. Данни, различни от личните, могат да бъдат съхранявани за "
+"неопределено дълъг период от време като изследователски материал."
+
+#: templates/rights/privacy.html:65
+msgid ""
+"Please note: Under law, we may be required to disclose the information that "
+"we log to the appropriate legal authorities."
+msgstr ""
+"Моля отбележете: По закон на Europeana  може да й бъде наложено да "
+"предостави информацията, която записва в лог файловете на съответните правни "
+"органи. "
+
+#: templates/rights/privacy.html:68
+msgid "About this Privacy Policy Statement"
+msgstr "Относно този документ за Защита на личните данни"
+
+#: templates/rights/privacy.html:70
+msgid ""
+"This Site may contain links to other web sites that are beyond our control. "
+"This privacy policy applies solely to the information you provide while "
+"visiting this Site. Other web sites to which you link may contain privacy "
+"policies that are different from this privacy policy."
+msgstr ""
+"Този сайт може да съдържа връзки към други уеб сайтове, които са извън нашия "
+"контрол. Политиката ни за Защита на личните данни се прилага единствено и "
+"само за информацията, която потребителят продоставя, докато използва този "
+"сайт. Всички други сайтове, към които потребителят прави връзки, може да "
+"имат политика за Защита на личните данни, различна от тази."
+
+#: templates/rights/privacy.html:73
+msgid ""
+"The current privacy policy statement is in accordance with the Dutch "
+"Personal Data Protection Act (Wet Bescherming Persoonsgegevens)."
+msgstr ""
+"Настоящият документ за Защита на личните данни е в съответствие със Закона "
+"за защита на личните данни в Нидерландия (Wet Bescherming Persoonsgegevens)."
+
+#: templates/rights/privacy.html:76
+msgid ""
+"Any changes to Europeana.eu privacy policy will be published on this page."
+msgstr ""
+"Всички бъдещи промени в Europeana.eu, отнасящи се до Защита на личните "
+"данни, ще бъдат публикувани на тази страница."
+
+#: templates/rights/privacy.html:79
+msgid "Questions, Complaints, and Dispute Resolution"
+msgstr "Въпроси, оплаквания и решаване на спорове"
+
+#: templates/rights/privacy.html:81
+msgid ""
+"By using our website you consent to the terms of the Privacy Statement "
+"hereby described. However, you have the right to prevent the use of your "
+"personal data for personalised services and marketing as well as to request "
+"not to be further contacted by us.\n"
+"If you wish to be informed about the personal data collected about you, or "
+"to have this data corrected or removed, or have any other question with "
+"regards to this statement, please contact"
+msgstr ""
+"Използвайки този сайт, потребителят се съгласява с условията за Защита на "
+"личните данни, описани в този документ. Обаче потребителят има право да "
+"предотврати използването на неговите лични данни за персонализирани услуги "
+"или маркетингови цели, а също така и да изяви желание да не бъде "
+"контактувано с него в бъдеще. Ако желаете да бъдете уведомени за това, какви "
+"лични данни за Вас са били събрани, или желаете да коригирате или изтриете "
+"тези данни, или имате някакви въпроси, свързани с тази политика за Защита на "
+"личните данни, моля свържете се с нас на"
+
+#: templates/rights/privacy.html:85
+msgid "Date of creation of the Privacy Statement"
+msgstr "Дата на създаване на документа за Защита на личните данни"
+
+#: templates/rights/privacy.html:85 templates/rights/privacy.html.py:86
+#: templates/static_pages/aboutus_enews.html:15
+#: templates/static_pages/aboutus_enews.html:25
+#: templates/static_pages/aboutus_enews.html:34
+#: templates/static_pages/aboutus_enews.html:43
+msgid "September"
+msgstr "Септември"
+
+#: templates/rights/privacy.html:86
+msgid "Last amendment"
+msgstr "Последна  редакция"
+
+#: templates/rights/privacy.html:89
+msgid "Feedback Form [title may differ in different languages]"
+msgstr "Форма за обратна връзка"
+
+#: templates/rights/privacy.html:90
+#, fuzzy
+msgid ""
+"If you encounter any problem using this site or wish to make general "
+"comments/suggestions, please use this"
+msgstr ""
+"При възникване на някакви проблеми при използването на този сайт или ако "
+"желаете да направите някакви общи коментари или предложения, моля използвайте"
+
+#: templates/rights/privacy.html:90
+#, fuzzy
+msgid "contact form"
+msgstr "contact.html"
+
+#: templates/rights/privacy.html:92
+msgid ""
+"All of our online forms that require you to enter personal information are "
+"designed to meet privacy requirements. This privacy policy provides further "
+"details."
+msgstr ""
+"Всички онлайн форми в Europeana, които изискват въвеждане на лична "
+"информация, са създадени по начин, отговарящ на изискванията за Защита на "
+"личните данни. Този документ за Защита на личните данни предлага повече "
+"информация относно това."
 
 #: templates/static_pages/usingeuropeana_explore.html:3
 msgid "Europeana - Exploring Europeana"
@@ -5427,6 +4867,158 @@ msgstr ""
 "същия автор, формат или от същия доставчик на данни. Цифрата в скобите напр. "
 "(33) показва броя на резултатите, които всяко от тези запитвания ще върне. "
 "Кликнете върху линка, за да изпълните търсенето."
+
+#: templates/rights/terms-and-policies.html:4
+msgid "Europeana - Terms and Policies"
+msgstr "Europeana - Условия и политики"
+
+#: templates/rights/terms-and-policies.html:15
+msgid "Europeana Terms and Policies"
+msgstr "Europeana условия и политики"
+
+#: templates/rights/terms-and-policies.html:18
+msgid ""
+"In this section of the Europeana website you will find an overview of our "
+"Terms and Policies. These are divided into three subsections: 'Using Our "
+"data', 'Contributing data' and 'Our Policies':"
+msgstr ""
+"В тази секция на сайта на Europeana ще откриете преглед на нашите Условия и "
+"политики. Те са раздлени на три секции: 'Използване на данните', 'Доставка "
+"на данни' и 'Нашите политики'"
+
+#: templates/rights/terms-and-policies.html:22
+msgid "Using Our data"
+msgstr "Използване на данните"
+
+#: templates/rights/terms-and-policies.html:22
+msgid ""
+"provides you with the Terms of Use and Guidelines for using the data "
+"published on Europeana.eu."
+msgstr ""
+"ви запознава с Условията на ползване и Насоките за използване на данните "
+"публикувани в Europeana.eu."
+
+#: templates/rights/terms-and-policies.html:24
+msgid ""
+"governs what you can or cannot do with the metadata and previews that are "
+"published on Europeana.eu, with seperate"
+msgstr ""
+"регулира какво може и какво не може да се извършва с метаданните и "
+"изображенията, които са публикувани в Europeana.eu с отделни"
+
+#: templates/rights/terms-and-policies.html:24
+msgid "Terms of Use for the Europeana API"
+msgstr "Условия за ползване Europeana API"
+
+#: templates/rights/terms-and-policies.html:24
+msgid "Europeana publishes guidelines for working with"
+msgstr "Europeana е публикувала насоки за работа с"
+
+#: templates/rights/terms-and-policies.html:24
+msgid "Europeana metadata"
+msgstr "Europeana метаданни"
+
+#: templates/rights/terms-and-policies.html:24
+msgid "as well as for using digital reproductions of"
+msgstr ", а също така и за използването на дигитални репродукции на"
+
+#: templates/rights/terms-and-policies.html:24
+msgid "Public Domain works that you find via Europeana."
+msgstr "творби обществено достояниe, които са намерени в Europeana."
+
+#: templates/rights/terms-and-policies.html:24
+msgid "Additionally we provide a list of"
+msgstr "Допълнително ние поддържаме списък на"
+
+#: templates/rights/terms-and-policies.html:24
+msgid "data sources that Europeana uses"
+msgstr "източниците на данни, използвани от Europeana"
+
+#: templates/rights/terms-and-policies.html:24
+#, fuzzy
+msgid "to enrich the metadata provided by our data providers"
+msgstr "за обогатяване на метаданните подадени от Доставчиците на данни"
+
+#: templates/rights/terms-and-policies.html:28
+msgid "Contributing data"
+msgstr "Доставката на данни"
+
+#: templates/rights/terms-and-policies.html:28
+msgid ""
+"provides terms that ensure that Europeana can combine objects and data "
+"provided by individual users with the rest of the Europeana metadata"
+msgstr ""
+"предвижда условия, които гарантират, че Europeana може да комбинира обекти и "
+"данни, предоставени от индивидуални потребители с останалата част от вече "
+"публикуваните метаданни"
+
+#: templates/rights/terms-and-policies.html:31
+msgid "The Europeana Data Exchange Agreement"
+msgstr "Europeana Договора за сътрудничество"
+
+#: templates/rights/terms-and-policies.html:31
+msgid ""
+"governs the relationship between Europeana and the institutional data "
+"providers. The"
+msgstr ""
+"регулира отношенията между Europeana и институциите - доставчици на данни."
+
+#: templates/rights/terms-and-policies.html:31
+msgid "terms for user contributions"
+msgstr "Условията за принос на потребителите"
+
+#: templates/rights/terms-and-policies.html:31
+msgid "governs the terms on which users contribute data to Europeana"
+msgstr ""
+"регулират условията, при които потребителите предоставят данни на Europeana"
+
+#: templates/rights/terms-and-policies.html:35
+msgid "contains Europeana's policies"
+msgstr "съдържат политиките на Europeana"
+
+#: templates/rights/terms-and-policies.html:37
+msgid "The"
+msgstr "Политиката по"
+
+#: templates/rights/terms-and-policies.html:37
+msgid ""
+"policy details how we treat personal information that we have collected from "
+"our users.  The"
+msgstr ""
+"детайлизира как третираме личната информация, която събираме от "
+"потребителите. Политиката по"
+
+#: templates/rights/terms-and-policies.html:37
+msgid ""
+"policy describes Europeana's policy for providing information in a users own "
+"language and"
+msgstr ""
+"описва начина на предоставяне на информация на езика на потребителя, а "
+"политиката по"
+
+#: templates/rights/terms-and-policies.html:37
+msgid ""
+"describes Europeana's aim to provide functionality and content that is "
+"universally accessible. In this section you will also find the"
+msgstr ""
+"описва целите на Europeana да осигури универсална функционалност и "
+"съдържание. В тази секция вие ще намерите също и"
+
+#: templates/rights/terms-and-policies.html:37
+msgid "Europeana Public Domain Charter"
+msgstr "Хартата на Europeana за творби обществено достояние"
+
+#: templates/rights/terms-and-policies.html:37
+msgid ""
+"that explains Europeana's contribution to strengthening the digital Public "
+"Domain"
+msgstr ""
+", която обяснява приносът на Europeana за укрепване на творбите обществено "
+"достояние"
+
+#: templates/rights/terms-for-user-contributions.html:4
+msgid "Europeana - Our Terms for User Contributions"
+msgstr "Europeana условия за принос на потребителите"
 
 #: templates/static_pages/usingeuropeana_search.html:3
 msgid "Europeana - Searching Europeana"
@@ -5843,6 +5435,185 @@ msgstr ""
 "социалните мрежи. Изберете тази, която желаете да използвате. Тук са "
 "включени и възможностите за печат и изпращане по е-мейл. "
 
+#: templates/rights/terms-of-use.html:4
+msgid "Europeana - Terms of Use"
+msgstr "Europeana - Условия за ползване"
+
+#: templates/rights/terms-of-use.html:15
+msgid "Europeana Terms of Use"
+msgstr "Europeana условия за ползване"
+
+#: templates/rights/terms-of-use.html:18
+msgid ""
+"The Europeana.eu website is run by the Europeana Foundation and gives access "
+"to a wide range of digitised cultural heritage from across Europe and "
+"beyond. This material is provided to Europeana by a large number of "
+"contributing institutions and organisations. Europeana strives to make all "
+"resources on this website available for re-use. As part of this, all "
+"metadata (textual information on digitised cultural heritage) on the site "
+"are published without any restrictions on re-use. Most other material, such "
+"as the previews to digitised cultural heritage, is clearly labelled with "
+"rights statements that indicate if and under which conditions it can be re-"
+"used."
+msgstr ""
+"Europeana.eu, уеб сайт поддържан от фондация Europeana, осигурява достъп до "
+"широк кръг от дигитализирани материали от културното наследство на цяла "
+"Европа и други страни. Тези материали са осигурени от голям брой институции "
+"и организации. Europeana се стреми да направи всички ресурси на нейния сайт "
+"достъпни за повторна употреба. Като част от това метаданните (текстовата "
+"информация, съпровождаща дигитализирания обект) са публикувани без "
+"рестрикции относно повторната употреба. Повечето от другите материали като "
+"например изображенията към дигитализраните обекти са ясно маркирани с какви "
+"права за достъп са и при какви условия могат да бъдат използвани повторно."
+
+#: templates/rights/terms-of-use.html:21
+msgid "Metadata"
+msgstr "Метаданни"
+
+#: templates/rights/terms-of-use.html:26
+msgid ""
+"All metadata available on europeana.eu are published free of restrictions, "
+"under the terms of the"
+msgstr ""
+"Всички метаданни достъпни на europeana.eu са публикувани без ограничения, в "
+"съответствие с условията на"
+
+#: templates/rights/terms-of-use.html:26
+msgid ""
+"However if you re-use data published by Europeana, we encourage you to "
+"follow the"
+msgstr ""
+"Въпреки всичко, ако използвате повторно данни публикивани от Europeana, ние "
+"ви окуражавамеда следвате препоръките публикувани в"
+
+#: templates/rights/terms-of-use.html:26
+msgid "and to provide attribution to the data sources whenever possible"
+msgstr ""
+"и да осигурите атрибутите на източниците на данни там където е възможно"
+
+#: templates/rights/terms-of-use.html:31
+msgid "Previews"
+msgstr "Предварителен преглед"
+
+#: templates/rights/terms-of-use.html:34
+msgid ""
+"The previews that are shown on Europeana.eu can only be used in accordance "
+"with the rights information displayed alongside them (the badges underneath "
+"the previews). If there is no rights information displayed alongside a "
+"preview, these previews may only be used in accordance with the applicable "
+"copyright laws. However, in the latter event, please refer to the website of "
+"the data provider to find out whether other types of use are also allowed."
+msgstr ""
+"Всички изображения за предварителен преглед (preview), публикувани на сайтa "
+"Europeana.eu могат да бъдат използвани в съответствие с правата за ползване "
+"посочени за тях (етикета под изображението). Ако няма посочена информация за "
+"правата за ползване на изображението, тогава то може да бъде използвано само "
+"в съответствие с приложимото право. В краен случай, моля, консултирайте се с "
+"уеб сайта на доставчика на данни, за да проверите какъв вид права за "
+"позлзаване са разрешени за този обект."
+
+#: templates/rights/terms-of-use.html:37
+msgid "Notice and Takedown"
+msgstr "Известия и бележки"
+
+#: templates/rights/terms-of-use.html:40
+msgid ""
+"Europeana is not the owner of the copyrights to the metadata, the previews "
+"or the digitised cultural heritage to which these metadata or previews "
+"refer. This information has been provided to Europeana by a large number of "
+"contributing institutions and organisations. These data providers have "
+"ensured Europeana that the owners of these rights have agreed to the "
+"publication of their works under the applicable conditions as referred to "
+"above. However, the Europeana Foundation cannot guarantee that this is "
+"always correct. If you think that anything published on Europeana.eu "
+"infringes your rights, you may report this to Europeana by emailing"
+msgstr ""
+"Europeana не е притежател на правата върху метаданните, изображенията или "
+"дигитализираните обекти от културното наследство, към които те се отнасят. "
+"Този вид информация е осигурена от широк кръг институции и организации. Тези "
+"доставчици на данни са уверили Europeana, че притежателите на правата за "
+"ползване са се съгласили техните творби и произведения да бъдат публикувани "
+"при условията посочени по-горе. Независимо от това фондация Euroepana не "
+"може да гарантира напълно, че тази информация е коректна. Ако смятате, че "
+"съществува инфомация публикувана на Europeana.eu, нарушаваща вашите права, "
+"моля сигнализирайте ни чрез е-мейл, изпратен на следния адрес:"
+
+#: templates/rights/terms-of-use.html:43
+msgid "Liability Disclaimer"
+msgstr "Отказ от отговорност"
+
+#: templates/rights/terms-of-use.html:45
+msgid ""
+"Europeana does not guarantee the accuracy or completeness of the website and "
+"its content."
+msgstr ""
+"Europeana не гарантира точността и пълнотата на този сайт и неговото "
+"съдържание."
+
+#: templates/rights/terms-of-use.html:48
+msgid ""
+"Except to the extent required by applicable law, in no event will Europeana "
+"be liable on any legal theory for any special, incidental, consequential, "
+"punitive or exemplary damages arising out of the use of the website or its "
+"content. In particular, it will not be liable for the following:"
+msgstr ""
+"Освен доколкото това се изисква от действащото законодателство, в никакъв "
+"случай Europeana няма да носи юридическа отговорност за каквито и да било "
+"специални, случайни, косвени, наказателни или примерни вреди, произтичащи от "
+"използването на този уебсайт или неговото съдържание. По-специално, тя няма "
+"да носи отговорност за следното:"
+
+#: templates/rights/terms-of-use.html:52
+msgid "Accuracy, completeness, etc. of the website or its content;"
+msgstr "Точността, пълнотата и др. на този уебсайт или неговото съдържание;"
+
+#: templates/rights/terms-of-use.html:53
+msgid ""
+"Any infringement of privacy, publicity or other rights, including "
+"infringement of copyrights to metadata, previews or other content made "
+"available on Europeana.eu under conditions that were not approved by the "
+"right holder;"
+msgstr ""
+"Всяко нарушение на неприкосновеността на личния живот, публичността или "
+"други права, включително нарушаване на авторските права върху метаданните, "
+"изображенията или друго съдържание, достъпно на Europeana.eu при условия, "
+"които не са били одобрени от притежателя на правото;"
+
+#: templates/rights/terms-of-use.html:54
+msgid ""
+"Any use by third parties that goes beyond the rights expressed in these "
+"terms of use."
+msgstr ""
+"Всяко използване от трети страни, което излиза извън рамките на правата, "
+"описани в тези условия за ползване."
+
+#: templates/rights/terms-of-use.html:57
+msgid "These terms of use"
+msgstr "Условия за ползване"
+
+#: templates/rights/terms-of-use.html:59
+msgid ""
+"These terms of use do not pertain to the metadata, previews and other "
+"content of virtual exhibitions offered by Europeana on"
+msgstr ""
+"Тези условия за ползване, не се отнасят до метаданните, изображенията и "
+"друго съдържание достъпни във виртуалните изложби, предлагани от Europeana на"
+
+#: templates/rights/terms-of-use.html:62
+msgid ""
+"By exercising any rights to the website or its content on grounds of these "
+"terms of use, you accept and agree to be bound to these terms of use. "
+"Europeana reserves the right to amend these terms of use."
+msgstr ""
+"Чрез упражняване на правата за ползване на този уебсайт или неговото "
+"съдържание въз основа на тези условия за ползване, вие приемате и се "
+"съгласявате да бъдете обвързани с тези условия за ползване. Europeana си "
+"запазва правото да ги променя."
+
+#: templates/rights/terms-of-use.html:65
+msgid "These terms of use are governed by the laws of The Netherlands."
+msgstr "Тези условия за ползване се регулират от законите на Холандия."
+
 #: templates/static_pages/usingeuropeana_searchwidget.html:3
 #, fuzzy
 msgid "Europeana - How to configure your search widget"
@@ -6175,6 +5946,229 @@ msgstr "тук."
 msgid "We hope you enjoy using the new-look Europeana."
 msgstr ""
 "Надяваме се да се забавлявате докато използвате Europenana в новия и дизайн."
+
+#: templates/static_pages/aboutus.html:4
+msgid "Europeana - About us"
+msgstr "Europeana - за нас"
+
+#: templates/static_pages/aboutus.html:13
+msgid "think culture"
+msgstr "Мисъл за културата"
+
+#: templates/static_pages/aboutus.html:17
+msgid ""
+"Take a virtual trip through the kind of things you can find on Europeana"
+msgstr ""
+"Направете виртуална разходка сред обектите, които бихте могли да откриете в "
+"Europeana"
+
+#: templates/static_pages/aboutus.html:19
+msgid ""
+"Explore millions of items from a range of Europe's leading galleries, "
+"libraries, archives and museums. Books and manuscripts, photos and "
+"paintings, television and film, sculpture and crafts, diaries and maps, "
+"sheet music and recordings, they’re all here. No need to travel the "
+"continent, either physically or virtually!"
+msgstr ""
+"Изследвайте милионите обекти, съхранявани в най-известните Европейски "
+"галерии, библиотеки, архиви и музеи. Книги и ръкописи, снимки и картини, "
+"телевизионни програми и филми, склуптури и произведения на изкуството, "
+"дневници и карти, ноти и записи музика, всичко това е та,. Не е нужно да "
+"пътувате през континента - както физически така и виртуално."
+
+#: templates/static_pages/aboutus.html:21
+msgid ""
+"Found something you like? Download it, print it, use it, save it, share it, "
+"play with it, love it!"
+msgstr ""
+"Намерихте ли нещо което харесвате? Разгледайте, разпечатайте, запишете, "
+"споделете, слушайте или се влюбете в него!"
+
+#: templates/static_pages/aboutus.html:23
+msgid ""
+"Europeana is the trusted source of cultural heritage brought to you by the "
+"Europeana Foundation and a large number of European cultural institutions, "
+"projects and partners. It’s a real piece of team work."
+msgstr ""
+"Europeana е надежден източник на достъп до културното наследство, осигурен "
+"от Фондация Europeana и широк брой Европейски културни институции, проекти и "
+"партньори. Тя е изтински пример за екипна работа."
+
+#: templates/static_pages/aboutus.html:25
+msgid ""
+"Ideas and inspiration can be found within the millions of items on "
+"Europeana. These objects include"
+msgstr ""
+"Идеи и вдъхновение могат да бъдат почерпени от милионите обекти в Europeana. "
+"Тези обекти включват"
+
+#: templates/static_pages/aboutus.html:28
+msgid "paintings, drawings, maps, photos and pictures of museum objects"
+msgstr "картини, рисунки, фотографии, карти и снимки на музейни експонати"
+
+#: templates/static_pages/aboutus.html:29
+msgid "books, newspapers, letters, diaries and archival papers"
+msgstr "книги, вестници, писма, дневници и архивни документи"
+
+#: templates/static_pages/aboutus.html:30
+msgid "music and spoken word from cylinders, tapes, discs and radio broadcasts"
+msgstr "музика и фонографски записи, аудиозаписи, дискове и радиопредавания"
+
+#: templates/static_pages/aboutus.html:31
+msgid "films, newsreels and TV broadcasts"
+msgstr "филми, кинопрегледи и телевизионни предавания"
+
+#: templates/static_pages/aboutus.html:36
+msgid ""
+"Some items and topics are world famous, like Isaac Newton's book about the"
+msgstr ""
+"Някои експонати и материали са световноизвестни  – като книгата на Исак "
+"Нютон за"
+
+#: templates/static_pages/aboutus.html:36
+msgid "Laws of Motion"
+msgstr "Законите за движението"
+
+#: templates/static_pages/aboutus.html:36
+msgid "the drawings of"
+msgstr "картините на"
+
+#: templates/static_pages/aboutus.html:36
+msgid "Leonardo da Vinci"
+msgstr "Леонардо да Винчи"
+
+#: templates/static_pages/aboutus.html:36
+msgid "Johannes Vermeer's painting of the"
+msgstr "картината на Йоханес Вермеер"
+
+#: templates/static_pages/aboutus.html:36
+msgid "Girl With A Pearl Earring"
+msgstr "Момичето с перлената обеца,"
+
+#: templates/static_pages/aboutus.html:36
+msgid "or objects about the"
+msgstr "както и документи, свързани с"
+
+#: templates/static_pages/aboutus.html:36
+msgid "Berlin Wall"
+msgstr "Берлинската стена"
+
+#: templates/static_pages/aboutus.html:36
+msgid "Others are hidden treasures, waiting for you to discover them."
+msgstr "Останалите са скрити съкровища, които ви очакват, за да ги откриете."
+
+#: templates/static_pages/aboutus.html:38
+msgid "Renowned names such as the"
+msgstr "Известни имена като:"
+
+#: templates/static_pages/aboutus.html:38
+msgid "British Library"
+msgstr "Британската библиотека"
+
+#: templates/static_pages/aboutus.html:38
+msgid "in London, the"
+msgstr "(British Library) в Лондон,"
+
+#: templates/static_pages/aboutus.html:38
+msgid "Rijksmuseum"
+msgstr "Националния музей"
+
+#: templates/static_pages/aboutus.html:38
+msgid "in Amsterdam and the"
+msgstr "(Rijksmuseum) в Амстердам и парижкия"
+
+#: templates/static_pages/aboutus.html:38
+msgid "Louvre"
+msgstr "Лувър"
+
+#: templates/static_pages/aboutus.html:38
+msgid ""
+"in Paris are featured alongside smaller organisations across Europe. "
+"Together, their assembled collections allow you to explore Europe's history "
+"from ancient times to the modern day."
+msgstr ""
+"(the Louvre) са представени наред с по-малки организации от цяла Европа. "
+"Техните обединени колекции ви дават възможност да изследвате европейската "
+"история от древността до наши дни."
+
+#: templates/static_pages/aboutus.html:40
+msgid ""
+"Whether you find a celebrated work or a lesser known object, Europeana "
+"always connects you to the original source of the material so you can be "
+"sure of its authenticity."
+msgstr ""
+"Независимо дали ще откриете известна творба или по-малко известен обект, "
+"Europeana винаги ви свързва с оригиналния източник на материала, и Вие "
+"можете да бъдете сигурни в автентичността му."
+
+#: templates/static_pages/aboutus.html:43
+msgid "See the storyline and image credits for the Europeana video (above)"
+msgstr "Вижте историята и изображенията разказани във видеото (по-горе)"
+
+#: templates/static_pages/aboutus_enews.html:4
+#, fuzzy
+msgid "Europeana newsletters"
+msgstr "Europeana - Помощ"
+
+#: templates/static_pages/aboutus_enews.html:15
+#, fuzzy
+msgid "Discover Europeana's hand-picked collections"
+msgstr "Новите материали в колекциите на Europeana"
+
+#: templates/static_pages/aboutus_enews.html:16
+#: templates/static_pages/aboutus_enews.html:26
+#: templates/static_pages/aboutus_enews.html:35
+#: templates/static_pages/aboutus_enews.html:44
+msgid "June"
+msgstr "Юни"
+
+#: templates/static_pages/aboutus_enews.html:16
+msgid ""
+"Download free iPad app, explore great new content &amp; join Europeana 1989"
+msgstr ""
+
+#: templates/static_pages/aboutus_enews.html:17
+#: templates/static_pages/aboutus_enews.html:27
+#: templates/static_pages/aboutus_enews.html:36
+#: templates/static_pages/aboutus_enews.html:45
+msgid "April"
+msgstr "Април"
+
+#: templates/static_pages/aboutus_enews.html:17
+msgid "New look Europeana, Lithuania's buried secrets"
+msgstr ""
+
+#: templates/static_pages/aboutus_enews.html:18
+#: templates/static_pages/aboutus_enews.html:28
+#: templates/static_pages/aboutus_enews.html:37
+#: templates/static_pages/aboutus_enews.html:46
+msgid "February"
+msgstr "Февруари"
+
+#: templates/static_pages/aboutus_enews.html:23
+#: templates/static_pages/aboutus_enews.html:32
+#: templates/static_pages/aboutus_enews.html:41
+#: templates/static_pages/aboutus_enews.html:51
+msgid "December"
+msgstr "Декември"
+
+#: templates/static_pages/aboutus_enews.html:24
+#: templates/static_pages/aboutus_enews.html:42
+msgid "November"
+msgstr "Ноември"
+
+#: templates/static_pages/aboutus_enews.html:33
+msgid "October"
+msgstr "Октомври"
+
+#~ msgid "FAQs"
+#~ msgstr "Често задавани въпроси"
+
+#~ msgid "Europeana - Terms for User Contributions"
+#~ msgstr "Europeana - Условия за принос на потребителите"
+
+#~ msgid "Europeana Terms for User Contributions"
+#~ msgstr "Europeana условия за принос на потребителите"
 
 #, fuzzy
 #~ msgid ""
@@ -7976,9 +7970,6 @@ msgstr ""
 
 #~ msgid "Introduction to our Terms &amp; Policies"
 #~ msgstr "Въведение в Условия и Политики"
-
-#~ msgid "Europeana - Our Terms for User Contributions"
-#~ msgstr "Europeana условия за принос на потребителите"
 
 #~ msgid "Our Terms for User Contributions"
 #~ msgstr "Условия за принос на потребителите"
