@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-15 11:56+0200\n"
-"PO-Revision-Date: 2013-04-26 19:04\n"
+"POT-Creation-Date: 2013-10-17 09:18+0200\n"
+"PO-Revision-Date: 2013-10-17 00:23\n"
 "Last-Translator: Catalan  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -140,9 +140,8 @@ msgstr "Antecedents"
 
 #: templates/leftmenu.html:9 templates/static_pages/prop_file.html:916
 #: templates/static_pages/prop_file.html:917
-#, fuzzy
 msgid "All providers"
-msgstr "Per proveïdor"
+msgstr "Tots els proveïdors"
 
 #: templates/leftmenu.html:10 templates/static_pages/aboutus_enews.html:11
 #: templates/static_pages/prop_file.html:921
@@ -1592,9 +1591,8 @@ msgid "Europeana newsletters"
 msgstr "Butlletins d'informació d'Europeana"
 
 #: templates/static_pages/aboutus_enews.html:15
-#, fuzzy
 msgid "Discover Europeana's hand-picked collections"
-msgstr "Nous ítems a la col·lecció Europeana"
+msgstr ""
 
 #: templates/static_pages/aboutus_enews.html:16
 #: templates/static_pages/aboutus_enews.html:26
@@ -1653,7 +1651,7 @@ msgstr "PMF"
 
 #: templates/static_pages/api-fields.html:23
 msgid "Return to API introduction page"
-msgstr ""
+msgstr "Tornar a la pàgina d'introducció d'API"
 
 #: templates/static_pages/disclaimer.html:4
 msgid "Europeana - External links disclaimer"
@@ -1950,7 +1948,7 @@ msgstr ""
 "odioses, racials o ètniques o de qualsevol mena que puguin ser objectables. "
 "En fer clic en aquesta casella accepto complir aquest acord, i entenc que si "
 "no ho faig, la meva condició de membre de La Meva Europeana es donarà per "
-"finalitzada. CLIQUEU PER ACCEPTAR"
+"finalitzada. FEU CLIC PER ACCEPTAR"
 
 #: templates/static_pages/prop_file.html:30
 msgid "First name"
@@ -2239,11 +2237,11 @@ msgstr "de"
 
 #: templates/static_pages/prop_file.html:102
 msgid "Click here for previous page of results"
-msgstr "feu clic aquí per anar a la pàgina anterior de resultats"
+msgstr "Feu clic aquí per anar a la pàgina anterior de resultats"
 
 #: templates/static_pages/prop_file.html:103
 msgid "Click here for next page of results"
-msgstr "Cliqueu aquí per anar a la pàgina següent de resultats"
+msgstr "Feu clic aquí per anar a la pàgina següent de resultats"
 
 #: templates/static_pages/prop_file.html:104
 msgid "Print this page"
@@ -3489,6 +3487,9 @@ msgid ""
 "early mission was to share their enthusiasm for rhythm and blues, but they "
 "were received as symbols and leaders of rebellious youth."
 msgstr ""
+"The Rolling Stones és una banda de rock anglesa formada a Londres al 1962. "
+"La seva missió inicial va ser compartir el seu entusiasme pel rhythm and "
+"blues. però van ser rebuts com a símbols i líders de la joventut rebel."
 
 #: templates/static_pages/prop_file.html:425
 msgid ""
@@ -3563,18 +3564,16 @@ msgid "Subscribe"
 msgstr "Subscriviu-vos"
 
 #: templates/static_pages/prop_file.html:502
-#, fuzzy
 msgid "Europana 1989 - now live!"
-msgstr "Europeana - Guanya un Kindle!"
+msgstr "Europeana 1989 - disponible!"
 
 #: templates/static_pages/prop_file.html:505
-#, fuzzy
 msgid "Europeana 1989 - now live"
-msgstr "Europeana - Guanya un Kindle!"
+msgstr "Europeana 1989 - disponible"
 
 #: templates/static_pages/prop_file.html:506
 msgid "Journey through the fall of the Iron Curtain."
-msgstr ""
+msgstr "Un viatge a través del Teló d'acer."
 
 #: templates/static_pages/prop_file.html:507
 msgid "Visit"
@@ -3923,7 +3922,7 @@ msgstr "Seguiu-nos a "
 
 #: templates/static_pages/prop_file.html:725
 msgid "Unable to find content for this page."
-msgstr "No es pot trobar el contingut d'aquesta pàgina"
+msgstr "No s'ha trobat contingut per a aquesta pàgina"
 
 #: templates/static_pages/prop_file.html:728
 msgid "Latest on"
@@ -4024,59 +4023,52 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/prop_file.html:802
-#, fuzzy
 msgid "API function"
-msgstr "Altres funcions"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:803
-#, fuzzy
 msgid "Search parameters"
-msgstr "Operador de cerca"
+msgstr "Paràmetres de cerca"
 
 #: templates/static_pages/prop_file.html:804
-#, fuzzy
 msgid "Search term"
-msgstr "Terme/s de cerca"
+msgstr "Terme de cerca"
 
 #: templates/static_pages/prop_file.html:805
 msgid "Refinement term(s)"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:806
-#, fuzzy
 msgid "Profile"
-msgstr "Europeana Professional"
+msgstr "Perfil"
 
 #: templates/static_pages/prop_file.html:807
 msgid "Number of records to retrieve"
-msgstr ""
+msgstr "Nombre de registres a recuperar"
 
 #: templates/static_pages/prop_file.html:808
 msgid "First record to retrieve"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:809
-#, fuzzy
 msgid "Record parameters"
-msgstr "Soci destacat"
+msgstr "Paràmetres del registre"
 
 #: templates/static_pages/prop_file.html:810
 msgid "Record id"
-msgstr ""
+msgstr "Id del registre"
 
 #: templates/static_pages/prop_file.html:811
-#, fuzzy
 msgid "Request URL"
-msgstr "Petició"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:812
 msgid "JSON response"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:814
-#, fuzzy
 msgid "Search also for:"
-msgstr "Operador de cerca"
+msgstr "Cercar també per:"
 
 #: templates/static_pages/prop_file.html:816
 msgid "Who"
@@ -4087,9 +4079,8 @@ msgid "What"
 msgstr "What"
 
 #: templates/static_pages/prop_file.html:819
-#, fuzzy
 msgid "api-introduction.html"
-msgstr "Introducció"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:822
 #: templates/static_pages/prop_file.html:826
@@ -4104,19 +4095,16 @@ msgstr ""
 
 #: templates/static_pages/prop_file.html:824
 #: templates/static_pages/prop_file.html:825
-#, fuzzy
 msgid "Terms of use &amp; Policies"
 msgstr "Condicions d'ús; Polítiques"
 
 #: templates/static_pages/prop_file.html:827
-#, fuzzy
 msgid "contact.html"
-msgstr "formulari de contacte"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:831
-#, fuzzy
 msgid "sitemap.html"
-msgstr "Mapa del web"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:836
 #: templates/static_pages/usingeuropeana_myeuropeana.html:17
@@ -4124,19 +4112,16 @@ msgid "API keys"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:837
-#, fuzzy
 msgid "No API key"
-msgstr "Eliminar"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:838
-#, fuzzy
 msgid "API key"
-msgstr "Eliminar"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:839
-#, fuzzy
 msgid "Private key"
-msgstr "Privacitat"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:840
 msgid "Usage limit"
@@ -4148,71 +4133,66 @@ msgstr ""
 
 #: templates/static_pages/prop_file.html:842
 msgid "Administrator's page"
-msgstr ""
+msgstr "Pàgina de l'administrador"
 
 #: templates/static_pages/prop_file.html:843
-#, fuzzy
 msgid "Remove API key"
-msgstr "Eliminar"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:844
 msgid "Limit"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:845
-#, fuzzy
 msgid "Remove user"
-msgstr "Eliminar"
+msgstr "Eliminar l'usuari"
 
 #: templates/static_pages/prop_file.html:846
 msgid "Block user"
-msgstr ""
+msgstr "Bloquejar l'usuari"
 
 #: templates/static_pages/prop_file.html:847
 msgid "Export API keys to CSV"
-msgstr ""
+msgstr "Exportar claus API al CSV"
 
 #: templates/static_pages/prop_file.html:848
 msgid "Export users to CSV"
-msgstr ""
+msgstr "Exporta usuaris al CSV"
 
 #: templates/static_pages/prop_file.html:849
-#, fuzzy
 msgid "User name"
 msgstr "Nom d'usuari"
 
 #: templates/static_pages/prop_file.html:850
-#, fuzzy
 msgid "Registration"
-msgstr "Registrar-se una altra vegada"
+msgstr "Registre"
 
 #: templates/static_pages/prop_file.html:852
 msgid "Visit the website of"
-msgstr ""
+msgstr "Visitar el lloc web"
 
 #: templates/static_pages/prop_file.html:853
 msgid "View the latest content from our partners"
-msgstr ""
+msgstr "Veure el contingut més recent dels nostres socis"
 
 #: templates/static_pages/prop_file.html:857
 #: templates/static_pages/prop_file.html:858
 #: templates/static_pages/sitemap.html:15
 msgid "Other Europeana Sites"
-msgstr ""
+msgstr "Altres webs d'Europeana"
 
 #: templates/static_pages/prop_file.html:861
-#, fuzzy
 msgid "Europeana Exhibitions"
-msgstr "Exposició oberta"
+msgstr "Exposicions d'Europeana"
 
 #: templates/static_pages/prop_file.html:869
 #: templates/static_pages/sitemap.html:19
 msgid "Europeana 1914-1918"
-msgstr ""
+msgstr "Europeana 1914-1918"
 
 #: templates/static_pages/prop_file.html:874
 msgid "Remix"
-msgstr ""
+msgstr "Remix"
 
 #: templates/static_pages/prop_file.html:877
 #: templates/static_pages/sitemap.html:21
@@ -4220,26 +4200,24 @@ msgid "Europeana Professional"
 msgstr "Europeana Professional"
 
 #: templates/static_pages/prop_file.html:878
-#, fuzzy
 msgid "Professional"
-msgstr "Europeana Professional"
+msgstr "Professional"
 
 #: templates/static_pages/prop_file.html:938
 msgid "Change limit for an API key"
-msgstr ""
+msgstr "Canviar el límit per a una clau API"
 
 #: templates/static_pages/prop_file.html:939
 msgid "Company or Institution"
-msgstr ""
+msgstr "Empresa o institució"
 
 #: templates/static_pages/prop_file.html:940
 msgid "Telephone contact"
-msgstr ""
+msgstr "Telèfon de contacte"
 
 #: templates/static_pages/prop_file.html:941
-#, fuzzy
 msgid "Address"
-msgstr "Adreça de correu electrònic"
+msgstr "Adreça"
 
 #: templates/static_pages/prop_file.html:942
 msgid "I confirm that I have read and agree to the"
@@ -4247,152 +4225,137 @@ msgstr "Confirmo que he llegit i estic d'acord amb l'"
 
 #: templates/static_pages/prop_file.html:943
 msgid "Next in sequence"
-msgstr ""
+msgstr "Següent en la seqüència"
 
 #: templates/static_pages/prop_file.html:944
-#, fuzzy
 msgid "Date of creation"
-msgstr "Protecció de dades"
+msgstr "Data de creació"
 
 #: templates/static_pages/prop_file.html:945
-#, fuzzy
 msgid "Is part of"
 msgstr "És part de"
 
 #: templates/static_pages/prop_file.html:956
-#, fuzzy
 msgid "Titles"
-msgstr "Títol"
+msgstr "Títols"
 
 #: templates/static_pages/prop_file.html:957
-#, fuzzy
 msgid "Places"
-msgstr "                          "
+msgstr "Llocs"
 
 #: templates/static_pages/prop_file.html:958
-#, fuzzy
 msgid "Dates/Periods"
-msgstr "Data guardada"
+msgstr "Dates/Períodes"
 
 #: templates/static_pages/prop_file.html:959
-#, fuzzy
 msgid "Subjects"
-msgstr "Matèria"
+msgstr "Matèries"
 
 #: templates/static_pages/prop_file.html:960
-#, fuzzy
 msgid "Creators"
-msgstr "Creador"
+msgstr "Creadors"
 
 #: templates/static_pages/prop_file.html:961
-#, fuzzy
 msgid "All fields"
-msgstr "Qualsevol camp"
+msgstr "Tots els camps"
 
 #: templates/static_pages/prop_file.html:962
-#, fuzzy
 msgid "Featured Item"
 msgstr "Ítem destacat"
 
 #: templates/static_pages/prop_file.html:963
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "Featured Partner"
-msgstr ""
+msgstr "Soci destacat"
 
 #: templates/static_pages/prop_file.html:964
-#, fuzzy
 msgid "Click here for last page of results"
-msgstr "Cliqueu aquí per anar a la pàgina següent de resultats"
+msgstr "Feu clic aquí per anar a la darrera pàgina de resultats"
 
 #: templates/static_pages/prop_file.html:965
 #: templates/static_pages/usingeuropeana_results.html:24
 msgid "Results per page"
-msgstr ""
+msgstr "Resultats per pàgina"
 
 #: templates/static_pages/prop_file.html:966
 #: templates/static_pages/usingeuropeana_search.html:49
 msgid "Add more keywords"
-msgstr ""
+msgstr "Afegir més paraules clau"
 
 #: templates/static_pages/prop_file.html:967
 msgid "+ Add"
-msgstr ""
+msgstr "+ Afegir"
 
 #: templates/static_pages/prop_file.html:968
 msgid "Field of work"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:969
-#, fuzzy
 msgid "Please, select"
-msgstr "Consulteu, si us plau, les nostres"
+msgstr "Si us plau, seleccioneu"
 
 #: templates/static_pages/prop_file.html:971
-#, fuzzy
 msgid "Please try another search later."
-msgstr "Intenteu, si us plau, una altra cerca."
+msgstr "Si us plau, proveu una altra cerca més tard."
 
 #: templates/static_pages/prop_file.html:972
-#, fuzzy
 msgid "Unable to find the requested page"
-msgstr "No es pot trobar el contingut d'aquesta pàgina"
+msgstr "No s'ha trobat la pàgina que heu demanat"
 
 #: templates/static_pages/prop_file.html:973
 msgid "Alert:"
-msgstr ""
+msgstr "Alerta:"
 
 #: templates/static_pages/prop_file.html:974
-#, fuzzy
 msgid "Unable to find the requested Europeana Record."
-msgstr "No es pot trobar el contingut d'aquesta pàgina"
+msgstr "No s'ha trobat el registre d'Europena que heu demanat"
 
 #: templates/static_pages/prop_file.html:975
-#, fuzzy
 msgid "This item has been withdrawn by the provider."
-msgstr "Atenció: el proveïdor ha retirat aquest ítem."
+msgstr ""
 
 #: templates/static_pages/prop_file.html:976
 msgid "Requested Europeana Record is not yet indexed."
-msgstr ""
+msgstr "El registre d'Europeana que heu demanat encara no està indexat."
 
 #: templates/static_pages/prop_file.html:978
-#, fuzzy
 msgid "Please register your email again"
-msgstr "Si us plau, entreu una adreça de correu vàlida"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:979
-#, fuzzy
 msgid "to finish registration."
-msgstr "Registre finalitzat"
+msgstr "per acabar el registre."
 
 #: templates/static_pages/prop_file.html:980
 msgid "Unable to fullfill your request due to malformed query parameters."
 msgstr ""
+"No s'ha pogut realitzar la cerca perquè el format dels paràmetres és "
+"incorrecte."
 
 #: templates/static_pages/prop_file.html:981
 msgid "Unable to get a response from the Search Engine."
-msgstr ""
+msgstr "No s'ha obtingut resposta del Giny de Cerca."
 
 #: templates/static_pages/prop_file.html:982
 msgid "Unable to fulfill your request due to a malformed query syntax."
 msgstr ""
+"No s'ha pogut realitzar la cerca perquè el format de la sintaxi és incorrecte"
 
 #: templates/static_pages/prop_file.html:983
 msgid "We are unable to change the interface to the requested language."
-msgstr ""
+msgstr "No s'ha pogut canviar la interfície a la llengua seleccionada"
 
 #: templates/static_pages/prop_file.html:984
-#, fuzzy
 msgid "Please try another language from the dropdown list."
-msgstr "Intenteu, si us plau, una altra cerca."
+msgstr "Si us plau, seleccioneu una altra llengua de la llista desplegable."
 
 #: templates/static_pages/prop_file.html:985
 msgid "Number of results shown on the page"
-msgstr ""
+msgstr "Nombre de resultats que es mostren per pàgina"
 
 #: templates/static_pages/prop_file.html:992
 msgid "API-key"
-msgstr ""
+msgstr "Clau API"
 
 #: templates/static_pages/prop_file.html:993
 msgid "Number of calls"
@@ -4407,9 +4370,8 @@ msgid "Searching in Europeana"
 msgstr "Cercar a Europeana"
 
 #: templates/static_pages/sitemap.html:39
-#, fuzzy
 msgid "All Providers"
-msgstr "Proveïdors"
+msgstr "Tots els proveïdors"
 
 #: templates/static_pages/sitemap.html:41
 msgid "Press Centre (on Europeana Professional)"
@@ -4421,15 +4383,15 @@ msgstr "Ofertes de treball (a Europeana Professional)"
 
 #: templates/static_pages/sitemap.html:43
 msgid "Partners (on Europeana Professional)"
-msgstr ""
+msgstr "Socis (a Europeana Professional)"
 
 #: templates/static_pages/sitemap.html:53
 msgid "Data structure"
-msgstr ""
+msgstr "Estructura de dades"
 
 #: templates/static_pages/sitemap.html:54
 msgid "API Methods"
-msgstr ""
+msgstr "Mètodes API"
 
 #: templates/static_pages/sitemap.html:56
 msgid "OpenSearch"
@@ -4437,19 +4399,19 @@ msgstr ""
 
 #: templates/static_pages/sitemap.html:57
 msgid "Record"
-msgstr ""
+msgstr "Registre"
 
 #: templates/static_pages/sitemap.html:59
 msgid "Suggestions"
-msgstr ""
+msgstr "Suggeriments"
 
 #: templates/static_pages/sitemap.html:61
 msgid "Query Syntax"
-msgstr ""
+msgstr "Sintaxi de la cerca"
 
 #: templates/static_pages/sitemap.html:62
 msgid "Europeana Fields"
-msgstr ""
+msgstr "Camps Europeana"
 
 #: templates/static_pages/sitemap.html:63
 msgid "API1-API2 compatability"
@@ -4460,17 +4422,14 @@ msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
 msgstr "Acord d'Intercanvi de Dades d'Europeana (a Europeana Professional)"
 
 #: templates/static_pages/sitemap.html:103
-#, fuzzy
 msgid "Rights Reserved - Free access"
 msgstr "Drets reservats - Accés lliure"
 
 #: templates/static_pages/sitemap.html:104
-#, fuzzy
 msgid "Rights Reserved - Restricted access"
 msgstr "Drets reservats - Accés restringit"
 
 #: templates/static_pages/sitemap.html:105
-#, fuzzy
 msgid "Rights Reserved - Paid access"
 msgstr "Drets reservats - Accés de pagament"
 
@@ -5051,7 +5010,7 @@ msgstr ""
 
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "View more latest content from our partners"
-msgstr ""
+msgstr "Veure el contingut més recent dels nostres socis"
 
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "in the"
@@ -5059,7 +5018,7 @@ msgstr "a la pestanya"
 
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "area"
-msgstr ""
+msgstr "àrea"
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:3
 msgid "Europeana - Using My Europeana"
@@ -5075,7 +5034,7 @@ msgstr "Registreu-vos a"
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:11
 msgid "and you can"
-msgstr ""
+msgstr "i podeu"
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:14
 msgid ""
@@ -5091,6 +5050,10 @@ msgid ""
 "you. You can then see all objects you have tagged, sorted by the keywords "
 "you have chosen, in the My Europeana interface."
 msgstr ""
+"Etiqueteu els vostres ítems preferits d'Europeana amb etiquetes que tinguin "
+"sentit per a vosaltres. Després podreu veure tots els ítems que heu "
+"etiquetat, ordenats per les paraules clau que heu escollit, a la interfície "
+"La Meva Europeana,"
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:16
 msgid "Store your favourite items for later viewing."
@@ -5101,6 +5064,8 @@ msgid ""
 "If you are a developer who has registered for one or more API keys, these "
 "will be shown on the API Keys tab."
 msgstr ""
+"Si sou desenvolupadors registrats per a una o diverses claus API, els veureu "
+"a la pestanya Claus API."
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:20
 msgid "To save a search, add a tag or save an item, simply login to"
@@ -5114,11 +5079,11 @@ msgstr ""
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:21
 msgid "To view your saved items, searches and tags, use the"
-msgstr ""
+msgstr "Per veure els ítems, cerques i etiquetes que heu guardat, utilitzeu"
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:21
 msgid "shortcuts in the header."
-msgstr ""
+msgstr "les dreceres de la capçalera."
 
 #: templates/static_pages/usingeuropeana_results.html:3
 msgid "Europeana - Results in Europeana"
@@ -5129,10 +5094,12 @@ msgid ""
 "Europeana divides search results into 5 main categories: text, images, "
 "video, sound and 3D objects."
 msgstr ""
+"Europeana distribueix els resultats de la cerca en 5 categories principals: "
+"text, imatges, vídeo, so i objectes 3D."
 
 #: templates/static_pages/usingeuropeana_results.html:12
 msgid "The types of items included in each section are:"
-msgstr ""
+msgstr "Els tipus d'ítems inclosos a cada secció són:"
 
 #: templates/static_pages/usingeuropeana_results.html:15
 msgid ""
@@ -5147,6 +5114,8 @@ msgid ""
 "paintings, drawings, prints, photographs, pictures of museum objects, maps, "
 "graphic designs, plans and musical notation."
 msgstr ""
+"pintures, dibuixos, gravats, fotografies, imatges d'objectes de museu, "
+"mapes, dissenys gràfics, plànols i notació musical."
 
 #: templates/static_pages/usingeuropeana_results.html:17
 msgid "films, news broadcasts and television programmes"
@@ -5160,7 +5129,7 @@ msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:19
 msgid "virtual 3D representations of objects, architecture or places."
-msgstr ""
+msgstr "representacions virtuals en 3D d'objectes, arquitectura o llocs."
 
 #: templates/static_pages/usingeuropeana_results.html:22
 msgid ""
@@ -5168,20 +5137,27 @@ msgid ""
 "copyright, or provider using the Refine your search pane of the results "
 "screen. See"
 msgstr ""
+"També podeu ordenar els resultats per tipus, llengua, data, país, drets "
+"d'autor, o proveïdor utilitzant la subfinestra Afinar la cerca de la "
+"pantalla de resultats. Vegeu"
 
 #: templates/static_pages/usingeuropeana_results.html:22
 msgid "for more details."
-msgstr ""
+msgstr "per més informació"
 
 #: templates/static_pages/usingeuropeana_results.html:24
 msgid ""
 "Search results are presented in a grid. You can select how many results to "
 "show on a page by selecting an option from the"
 msgstr ""
+"Els resultats es presenten en una graella. Podeu seleccionar quants "
+"resultats voleu que es mostrin per pàgina seleccionant una opció de la "
 
 #: templates/static_pages/usingeuropeana_results.html:24
 msgid "drop-down list either above or below the results. You can select"
 msgstr ""
+"llista desplegable que es troba tant al damunt com sota els resultats. Podeu "
+"seleccionar"
 
 #: templates/static_pages/usingeuropeana_results.html:25
 msgid ""
@@ -5223,7 +5199,7 @@ msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:34
 msgid "Thumbnail image/preview"
-msgstr ""
+msgstr "Miniatura/previsualització"
 
 #: templates/static_pages/usingeuropeana_results.html:34
 msgid "hit the magnifying glass"
@@ -5694,14 +5670,12 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:3
-#, fuzzy
 msgid "Europeana - How to configure your search widget"
-msgstr "Quin és el giny de cerca remota d'Europeana?"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:9
-#, fuzzy
 msgid "How to configure your search widget"
-msgstr "Quin és el giny de cerca remota d'Europeana?"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:10
 msgid ""
@@ -5719,35 +5693,29 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:12
-#, fuzzy
 msgid "The Europeana Search Widget works with..."
-msgstr "Giny de Cerca d'Europeana"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:13
 #: templates/static_pages/usingeuropeana_searchwidget.html:15
-#, fuzzy
 msgid "Information to follow."
-msgstr "Quina informació recollim?"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:14
-#, fuzzy
 msgid "The Europeana Search Widget doesn't work with..."
-msgstr "Giny de Cerca d'Europeana"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:16
-#, fuzzy
 msgid "Set up your Europeana Search Widget:"
-msgstr "Giny de Cerca d'Europeana"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:18
-#, fuzzy
 msgid "Go to the search widget page."
-msgstr "són alguns dels termes de cerca"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:19
-#, fuzzy
 msgid "Introduction tab"
-msgstr "Introducció"
+msgstr "Pestanya d'introducció"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:19
 msgid ""
@@ -5759,7 +5727,7 @@ msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:20
 msgid "Filter tab"
-msgstr ""
+msgstr "Pestanya de filtres"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:20
 msgid ""
@@ -5768,14 +5736,12 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:21
-#, fuzzy
 msgid "To tailor your search widget"
-msgstr "Filtrar la cerca"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:23
-#, fuzzy
 msgid "Keyword search"
-msgstr "Filtrar la cerca"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:23
 msgid ""
@@ -5794,9 +5760,8 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:25
-#, fuzzy
 msgid "Search on types"
-msgstr "Consells de cerca"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:25
 msgid ""
@@ -5807,6 +5772,13 @@ msgid ""
 "word and 'Places' as a type. Tap 'Change' next to 'All Fields' and select "
 "the option you need."
 msgstr ""
+"Per defecte, el giny retorna resultats de tot el conjunt de dades "
+"d'Europeana que responen a les paraules clau que heu utilitzat. Podeu "
+"restringir-los per \"Títols\", \"Creadors\", \"Matèries\", \"Períodes\", o "
+"\"Llocs\". Per exemple, si voleu veure només els resultats que tenen a veure "
+"amb \"París\", podeu introduir \"París\" com a paraula clau i \"·Llocs\" com "
+"a camp. Feu clic a 'Canviar' al costat de \"Tots els camps\" i seleccioneu "
+"l'opció que us interessa."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:26
 msgid ""
@@ -5820,11 +5792,18 @@ msgid ""
 "arrow to see the institutions included in their collection. Note: you can "
 "select more than one."
 msgstr ""
+"Per defecte, el giny retorna resultats de tots els proveïdors d'Europeana. "
+"Podeu restringir-los, per mostrar només un proveïdor. Feu clic a 'Canviar' "
+"al costat de \"Tots els proveïdors\" i seleccioneu el que us interessa. Els "
+"proveïdors es presenten ordenats segons la mida de la seva contribució a "
+"Europeana. El nombre entre parèntesis indica quants ítems es troben "
+"disponibles d'un proveïdor concret. Si el proveïdor va seguit d'una fletxa, "
+"vol dir que és un agregador, feu clic damunt la fletxa per veure les "
+"institucions que hi col·laboren. Nota: podeu seleccionar més d'un proveïdor. "
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:27
-#, fuzzy
 msgid "Countries"
-msgstr "País"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:27
 msgid ""
@@ -5835,11 +5814,17 @@ msgid ""
 "how many items from that country are available. Note: you can select more "
 "than one. To clear your selection and start again, tap 'Clear'."
 msgstr ""
+"Per defecte, el giny retorna resultats de tots els països. Podeu restringir-"
+"los, per mostrar només un país. Feu clic a 'Canviar' al costat de \"Tots els "
+"països proveïdors\" i seleccioneu el que us interessa. Els països es "
+"presenten ordenats segons mida. El nombre entre parèntesis indica quants "
+"ítems es troben disponibles d'un país concret. Nota: podeu seleccionar més "
+"d'un tipus. Per netejar la selecció i començar de nou, feu clic a \"Netejar"
+"\"."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:28
-#, fuzzy
 msgid "Media types"
-msgstr "Tipus"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:28
 msgid ""
@@ -5851,11 +5836,17 @@ msgid ""
 "can select more than one.  To clear your selection and start again, tap "
 "'Clear'."
 msgstr ""
+"Per defecte, el giny retorna resultats per a qualsevol tipus: imatge, text, "
+"so, vídeo i 3D. Podeu restringir-los, per mostrar només un tipus determinat. "
+"Feu clic a 'Canviar' al costat de \"Tots els tipus\" i seleccioneu el que us "
+"interessa. Els tipus es presenten ordenats segons mida. El nombre entre "
+"parèntesis indica quants ítems  es troben disponibles per a un tipus "
+"concret. Nota: podeu seleccionar més d'un tipus. Per netejar la selecció i "
+"començar de nou, feu clic a \"Netejar\"."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:29
-#, fuzzy
 msgid "Copyright"
-msgstr "Per dret d'autor"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:29
 msgid ""
@@ -5866,36 +5857,38 @@ msgid ""
 "many items of that status are available. Note: you can select more than one. "
 "To clear your selection and start again, tap 'Clear'."
 msgstr ""
+"Per defecte, el giny retorna resultats amb qualsevol tipus de drets d'autor. "
+"Podeu restringir-los, per exemple, per mostrar només el contingut "
+"reutilitzable. Feu clic a 'Canviar' al costat de \"Tots els drets d'autor\" "
+"i seleccioneu l'estatus que us interessa. Els estatus de drets d'autor es "
+"presenten ordenats segons mida. El nombre entre parèntesis indica quants "
+"ítems  es troben disponibles en un estatus determinat. Nota: podeu "
+"seleccionar més d'un estatus. Per netejar la selecció i començar de nou, feu "
+"clic a \"Netejar\"."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:30
-#, fuzzy
 msgid "More information on the CC licenses"
-msgstr "Europeana - Drets reservats - Accés de pagament"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:31
-#, fuzzy
 msgid "More information on the Rights Reserved - Free Access label"
-msgstr "Europeana - Drets reservats - Accés Lliure"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:32
-#, fuzzy
 msgid "More information on the Rights Reserved - Restricted Access label"
-msgstr "Europeana - Drets reservats - Accés restringit"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:33
-#, fuzzy
 msgid "More information on the Rights Reserved - Paid Access label"
-msgstr "Europeana - Drets reservats - Accés de pagament"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:34
-#, fuzzy
 msgid "More information on the Unknown rights label"
-msgstr "Europeana - Drets reservats - Accés Lliure"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:35
-#, fuzzy
 msgid "Languages"
-msgstr "Llengua"
+msgstr "Llengües"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:35
 msgid ""
@@ -5906,31 +5899,41 @@ msgid ""
 "items of each language are available. Note: you can select more than one. To "
 "clear your selection and start again, tap 'Clear'."
 msgstr ""
+"Per defecte, el giny retorna resultats en totes les llengües. Podeu "
+"restringir-los a les llengües que seleccioneu.  Feu clic a \"Canviar\", prop "
+"de \"Totes les llengües\" i seleccioneu les llengües que necessiteu. Les "
+"llengües es troben ordenades segons la mida de la seva presència a "
+"Europeana.  El nombre entre parèntesi mostra quants ítems es troben "
+"disponibles en cada llengua. Nota: podeu seleccionar més d'una llengua. Per "
+"netejar la selecció i començar de nou, feu clic a \"Netejar\"."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:36
 msgid ""
 "When you have selected all your filters, tap 'Next' or the 'Style' tab "
 "heading."
 msgstr ""
+"Quan hagueu seleccionat tots els filtres, feu clic a \"Següent\" o a la "
+"pestanya \"Estil\"."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:38
 msgid "Style tab"
-msgstr ""
+msgstr "Pestanya Estil"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:38
 msgid ""
 "You can choose a black or white widget and select to include thumbnails or "
 "not. Select the style you would like to use."
 msgstr ""
+"Podeu seleccionar un giny blanc o negre i triar si incloure miniatures o no. "
+"Seleccioneu l'estil que voleu utilitzar."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:39
 msgid "Tap 'Next' or the 'Preview' tab heading."
-msgstr ""
+msgstr "Feu clic a \"Següent\" o a la pestanya \"Previsualització\""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:40
-#, fuzzy
 msgid "Preview tab"
-msgstr "Previsualització"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:40
 msgid ""
@@ -6010,11 +6013,9 @@ msgstr ""
 #~ msgid "Europeana Terms for User Contributions"
 #~ msgstr "Condicions d'Europeana per a les contribucions d'usuaris"
 
-#, fuzzy
 #~ msgid "Download the Europeana Open Culture app for iPad"
 #~ msgstr "Europeana pensa cultura"
 
-#, fuzzy
 #~ msgid "Europeana Open Culture app"
 #~ msgstr "Europeana pensa cultura"
 
