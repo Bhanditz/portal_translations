@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-17 09:26+0200\n"
-"PO-Revision-Date: 2013-01-21 21:45\n"
+"POT-Creation-Date: 2013-10-21 14:14+0200\n"
+"PO-Revision-Date: 2013-10-21 08:50\n"
 "Last-Translator: Bulgarian  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -17,15 +17,225 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Translated-Using: django-rosetta 0.5.6\n"
 
-#: templates/rights/pd-usage-guide.html:4
-msgid "Europeana - Public Domain Usage Guidelines"
+#: templates/api_leftmenu.html:3 templates/static_pages/europeana-api.html:4
+#: templates/static_pages/prop_file.html:63
+#: templates/static_pages/prop_file.html:820
+#: templates/static_pages/prop_file.html:821
+#: templates/static_pages/sitemap.html:51
+msgid "Europeana API"
+msgstr "Europeana API"
+
+#: templates/api_leftmenu.html:18 templates/static_pages/prop_file.html:988
+#: templates/static_pages/prop_file.html:989
+#: templates/static_pages/sitemap.html:64
+msgid "Get an API-Key"
+msgstr "Вземете API-ключ (API-key)"
+
+#: templates/api_leftmenu.html:19 templates/static_pages/sitemap.html:65
+msgid "API Console"
+msgstr "API конзола"
+
+#: templates/api_leftmenu.html:23 templates/static_pages/sitemap.html:67
+msgid "Europeana API Forum"
+msgstr "Europeana API Forum"
+
+#: templates/explore_leftmenu.html:3 templates/static_pages/explore.html:9
+#: templates/static_pages/prop_file.html:543
+#: templates/static_pages/prop_file.html:544
+msgid "Explore"
+msgstr "Изследвай"
+
+#: templates/explore_leftmenu.html:5 templates/static_pages/prop_file.html:547
+#: templates/static_pages/prop_file.html:548
+#: templates/static_pages/prop_file.html:873
+#: templates/static_pages/sitemap.html:20
+msgid "Europeana Remix"
+msgstr "Europeana Remix"
+
+#: templates/explore_leftmenu.html:6 templates/static_pages/prop_file.html:551
+#: templates/static_pages/prop_file.html:552
+#: templates/static_pages/prop_file.html:862
+#: templates/static_pages/sitemap.html:17
+#: templates/static_pages/usingeuropeana_explore.html:14
+msgid "Exhibitions"
+msgstr "Изложби"
+
+#: templates/explore_leftmenu.html:7 templates/leftmenu.html:8
+#: templates/static_pages/prop_file.html:60
+#: templates/static_pages/prop_file.html:555
+#: templates/static_pages/prop_file.html:556
+#: templates/static_pages/prop_file.html:911
+#: templates/static_pages/prop_file.html:912
+#: templates/static_pages/sitemap.html:38
+#: templates/static_pages/sitemap.html:75
+#: templates/static_pages/usingeuropeana_explore.html:15
+msgid "New content"
+msgstr "Ново съдържание"
+
+#: templates/explore_leftmenu.html:9 templates/static_pages/prop_file.html:78
+#: templates/static_pages/prop_file.html:559
+#: templates/static_pages/prop_file.html:560
+#: templates/static_pages/sitemap.html:76
+#: templates/static_pages/usingeuropeana_search.html:60
+msgid "By provider"
+msgstr "По доставчик"
+
+#: templates/explore_leftmenu.html:10 templates/static_pages/prop_file.html:37
+#: templates/static_pages/prop_file.html:563
+#: templates/static_pages/prop_file.html:564
+#: templates/static_pages/sitemap.html:77
+msgid "Timeline"
+msgstr "Линия на времето"
+
+#: templates/explore_leftmenu.html:11
+#: templates/static_pages/prop_file.html:567
+#: templates/static_pages/prop_file.html:568
+#: templates/static_pages/sitemap.html:78
+msgid "Map"
+msgstr "Карта"
+
+#: templates/followus_leftmenu.html:3 templates/static_pages/followus.html:9
+#: templates/static_pages/prop_file.html:615
+#: templates/static_pages/prop_file.html:616
+msgid "Follow Us"
+msgstr "Следвай ни"
+
+#: templates/followus_leftmenu.html:5
+#: templates/static_pages/prop_file.html:619
+#: templates/static_pages/prop_file.html:620
+#: templates/static_pages/prop_file.html:866
+#: templates/static_pages/sitemap.html:18
+msgid "Blog"
+msgstr "Блог"
+
+#: templates/followus_leftmenu.html:6
+#: templates/static_pages/prop_file.html:623
+#: templates/static_pages/prop_file.html:624
+msgid "Newsletter"
+msgstr "Прессъобщения"
+
+#: templates/followus_leftmenu.html:8
+#: templates/static_pages/prop_file.html:627
+#: templates/static_pages/prop_file.html:628
+msgid "Facebook"
+msgstr "Facebook"
+
+#: templates/followus_leftmenu.html:9
+#: templates/static_pages/prop_file.html:631
+#: templates/static_pages/prop_file.html:632
+msgid "Twitter"
+msgstr "Twitter"
+
+#: templates/leftmenu.html:3 templates/NOT/leftmenu1_old.html:3
+#: templates/NOT/leftmenu_old.html:3 templates/static_pages/prop_file.html:595
+#: templates/static_pages/prop_file.html:596
+msgid "About Us"
+msgstr "За нас"
+
+#: templates/leftmenu.html:6 templates/NOT/leftmenu1_old.html:6
+#: templates/NOT/leftmenu_old.html:6 templates/static_pages/prop_file.html:599
+#: templates/static_pages/prop_file.html:600
+msgid "Background"
+msgstr "История"
+
+#: templates/leftmenu.html:9 templates/static_pages/prop_file.html:916
+#: templates/static_pages/prop_file.html:917
+msgid "All providers"
+msgstr ""
+
+#: templates/leftmenu.html:10 templates/static_pages/aboutus_enews.html:11
+#: templates/static_pages/prop_file.html:921
+#: templates/static_pages/prop_file.html:922
+#: templates/static_pages/sitemap.html:40
+msgid "Previous newsletters"
+msgstr "Архив"
+
+#: templates/leftmenu.html:12 templates/NOT/leftmenu_old.html:8
+#: templates/static_pages/prop_file.html:926
+#: templates/static_pages/prop_file.html:927
+msgid "Press Centre"
+msgstr "Пресцентър"
+
+#: templates/leftmenu.html:13 templates/NOT/leftmenu_old.html:9
+#: templates/static_pages/prop_file.html:931
+#: templates/static_pages/prop_file.html:932
+msgid "Jobs"
+msgstr "Работа"
+
+#: templates/leftmenu.html:14 templates/leftmenu.html.py:17
+#: templates/NOT/leftmenu1_old.html:9 templates/NOT/leftmenu1_old.html:12
+#: templates/NOT/leftmenu_old.html:10 templates/NOT/leftmenu_old.html.py:14
+#: templates/static_pages/prop_file.html:36
+#: templates/static_pages/prop_file.html:611
+#: templates/static_pages/prop_file.html:612
+msgid "Partners"
+msgstr "Партньори"
+
+#: templates/leftmenu.html:15 templates/NOT/leftmenu1_old.html:7
+#: templates/NOT/leftmenu1_old.html:10 templates/NOT/leftmenu_old.html:12
+msgid "Press room"
+msgstr "Пресцентър"
+
+#: templates/leftmenu.html:16 templates/NOT/leftmenu1_old.html:8
+#: templates/NOT/leftmenu1_old.html:11 templates/NOT/leftmenu_old.html:13
+#: templates/static_pages/prop_file.html:607
+#: templates/static_pages/prop_file.html:608
+msgid "Job opportunities"
+msgstr "Възможности за работа"
+
+#: templates/terms_leftmenu.html:3
+msgid "Terms &amp; Policies"
+msgstr "Условия &amp; Политики "
+
+#: templates/terms_leftmenu.html:5
+msgid "Introduction"
+msgstr "Въведение"
+
+#: templates/terms_leftmenu.html:7
+msgid "Using our data"
+msgstr "Използване на данните"
+
+#: templates/terms_leftmenu.html:9 templates/rights/terms-and-policies.html:24
+#: templates/static_pages/sitemap.html:87
+msgid "Terms of Use"
+msgstr "Условия за ползване"
+
+#: templates/terms_leftmenu.html:10 templates/static_pages/sitemap.html:88
+msgid "Usage Guidelines for Metadata"
+msgstr "Насоки за използване на метаданните"
+
+#: templates/terms_leftmenu.html:11 templates/static_pages/sitemap.html:89
+msgid "Public Domain Usage Guidelines"
 msgstr "Europeana - насоки за използване на метданните"
 
-#: templates/rights/privacy.html:4
-msgid "Europeana - Privacy policy"
-msgstr "Europeana - Защита на личните данни"
+#: templates/terms_leftmenu.html:12 templates/static_pages/sitemap.html:90
+msgid "API Terms of Use"
+msgstr "API - Условия за ползване"
 
-#: templates/rights/privacy.html:15
+#: templates/terms_leftmenu.html:13
+#: templates/rights/linked-data-sources.html:16
+#: templates/static_pages/sitemap.html:91
+msgid "Europeana Data Sources"
+msgstr "Europeana източници на данни"
+
+#: templates/terms_leftmenu.html:16
+msgid "Contributing data to us"
+msgstr "Как се доставят данни"
+
+#: templates/terms_leftmenu.html:18
+msgid "Europeana Data Exchange Agreement"
+msgstr "Europeana - договор за сътрудничество"
+
+#: templates/terms_leftmenu.html:19 templates/static_pages/sitemap.html:93
+msgid "Terms for User Contributions"
+msgstr "Условия за принос на потребителите"
+
+#: templates/terms_leftmenu.html:22
+#: templates/rights/terms-and-policies.html:35
+msgid "Our policies"
+msgstr "Нашите политики"
+
+#: templates/terms_leftmenu.html:24 templates/rights/privacy.html:15
 #: templates/rights/terms-and-policies.html:37
 #: templates/static_pages/prop_file.html:68
 #: templates/static_pages/prop_file.html:527
@@ -33,6 +243,529 @@ msgstr "Europeana - Защита на личните данни"
 #: templates/static_pages/sitemap.html:94
 msgid "Privacy"
 msgstr "Защита на личните данни"
+
+#: templates/terms_leftmenu.html:25 templates/rights/languagepolicy.html:15
+#: templates/rights/terms-and-policies.html:37
+#: templates/static_pages/prop_file.html:180
+#: templates/static_pages/prop_file.html:239
+msgid "Language"
+msgstr "Език"
+
+#: templates/terms_leftmenu.html:26 templates/rights/accessibility.html:15
+#: templates/rights/terms-and-policies.html:37
+#: templates/static_pages/prop_file.html:65
+#: templates/static_pages/prop_file.html:515
+#: templates/static_pages/prop_file.html:516
+#: templates/static_pages/sitemap.html:96
+msgid "Accessibility"
+msgstr "Достъпност"
+
+#: templates/terms_leftmenu.html:27 templates/static_pages/sitemap.html:97
+msgid "Public Domain Charter"
+msgstr "Хартата за творби обществено достояние"
+
+#: templates/usingeuropeana_leftmenu.html:3
+#: templates/static_pages/prop_file.html:334
+#: templates/static_pages/prop_file.html:571
+#: templates/static_pages/prop_file.html:572
+#: templates/static_pages/prop_file.html:881
+#: templates/static_pages/prop_file.html:882
+#: templates/static_pages/sitemap.html:25
+#: templates/static_pages/usingeuropeana.html:9
+msgid "Help"
+msgstr "Помощ"
+
+#: templates/usingeuropeana_leftmenu.html:5
+#: templates/static_pages/prop_file.html:575
+#: templates/static_pages/prop_file.html:576
+#: templates/static_pages/prop_file.html:885
+#: templates/static_pages/prop_file.html:886
+#: templates/static_pages/usingeuropeana.html:14
+#: templates/static_pages/usingeuropeana_results.html:22
+#: templates/static_pages/usingeuropeana_search.html:9
+#: templates/static_pages/usingeuropeana_search.html:13
+msgid "Searching Europeana"
+msgstr "Търсене в Europeana"
+
+#: templates/usingeuropeana_leftmenu.html:6
+#: templates/static_pages/prop_file.html:288
+#: templates/static_pages/prop_file.html:579
+#: templates/static_pages/prop_file.html:580
+#: templates/static_pages/prop_file.html:889
+#: templates/static_pages/prop_file.html:890
+#: templates/static_pages/sitemap.html:28
+#: templates/static_pages/usingeuropeana.html:16
+#: templates/static_pages/usingeuropeana_explore.html:9
+#: templates/static_pages/usingeuropeana_search.html:14
+msgid "Exploring Europeana"
+msgstr "Изследване в Europeana"
+
+#: templates/usingeuropeana_leftmenu.html:8
+#: templates/static_pages/prop_file.html:583
+#: templates/static_pages/prop_file.html:584
+#: templates/static_pages/prop_file.html:893
+#: templates/static_pages/prop_file.html:894
+#: templates/static_pages/sitemap.html:29
+#: templates/static_pages/usingeuropeana.html:19
+#: templates/static_pages/usingeuropeana_results.html:9
+#: templates/static_pages/usingeuropeana_search.html:15
+msgid "Results in Europeana"
+msgstr "Резултати"
+
+#: templates/usingeuropeana_leftmenu.html:9
+#: templates/static_pages/prop_file.html:587
+#: templates/static_pages/prop_file.html:588
+#: templates/static_pages/prop_file.html:897
+#: templates/static_pages/prop_file.html:898
+#: templates/static_pages/sitemap.html:30
+#: templates/static_pages/usingeuropeana.html:21
+#: templates/static_pages/usingeuropeana_myeuropeana.html:9
+#: templates/static_pages/usingeuropeana_search.html:16
+msgid "Using My Europeana"
+msgstr "Как да използвам моята Europeana"
+
+#: templates/usingeuropeana_leftmenu.html:10
+#: templates/static_pages/prop_file.html:901
+#: templates/static_pages/prop_file.html:902
+#: templates/static_pages/sitemap.html:31
+msgid "What's new"
+msgstr "Какво ново"
+
+#: templates/NOT/leftmenu_old.html:11
+msgid "eNews"
+msgstr "еНовини"
+
+#: templates/rights/accessibility.html:4
+msgid "Europeana - Accessibility policy"
+msgstr "Europeana - политика на достъпност"
+
+#: templates/rights/accessibility.html:17
+msgid ""
+"Europeana.eu features and content have been designed to be universally\n"
+"accessible by users and user agents/devices. We strive to meet the WC3 Web\n"
+"Content Accessibility Guidelines Version 1.0."
+msgstr ""
+"Функционалността и съдържанието на Europeana.eu са предназначени да бъдат "
+"максимално достъпни за потребителите и техните устройства. Стремим се да се "
+"съобразяваме с Принципите за достъпност на уеб съдържанието WC3 версия 1.0."
+
+#: templates/rights/accessibility.html:22
+msgid ""
+"Our User Centred Design team frequently conducts usability testing of\n"
+"Europeana.eu navigation, flow, labels, and consistency. Furthermore,\n"
+"we will produce a version &ndash; post this prototype phase &ndash; for "
+"blind individuals."
+msgstr ""
+"Нашият екип за обслужване на потребителите регулярно провежда тестове на "
+"системата за навигация, потока, етикетите и съвместимостта на данните. В "
+"бъдеще ще разработим версия &ndash; след публикуването на настоящата, която "
+"да обслужва хора със зрителни увреждания."
+
+#: templates/rights/accessibility.html:27
+msgid "Some of the accessibility features of our site include"
+msgstr "Някои функционалности на нашия сайт включват"
+
+#: templates/rights/accessibility.html:30
+msgid "Meaningful page titles to help with orientation"
+msgstr "Ясно озаглавени страници, които да ви помогнат да се ориентирате"
+
+#: templates/rights/accessibility.html:31
+msgid "Almost all images have either a meaningful alt-text (text equivalent)"
+msgstr "Повечето от изображенията имат и ясно описание (текстов еквивалент)"
+
+#: templates/rights/accessibility.html:32
+msgid "Minimal use of frames"
+msgstr "Минимална употреба на фреймове"
+
+#: templates/rights/accessibility.html:33
+msgid "Use of resizable fonts"
+msgstr "Възможност за промяна размера на шрифта"
+
+#: templates/rights/accessibility.html:34
+msgid "Use Cascading Style Sheets (CSS) to separate content from presentation"
+msgstr ""
+"Употреба на CSS (Cascading Style Sheets) за отделяне на съдържанието от "
+"визията"
+
+#: templates/rights/accessibility.html:35
+msgid "Notifying a user when a link opens a new window"
+msgstr ""
+"Предупреждение към потребителя, когато връзката се отваря в нов прозорец"
+
+#: templates/rights/accessibility.html:36
+msgid "The (core) functionalities are usable without JavaScript"
+msgstr ""
+"Основните функционални възможности са достъпни без използването на JavaScript"
+
+#: templates/rights/accessibility.html:40
+msgid ""
+"Please send us any feedback or questions on the accessibility of Europeana."
+"eu with the"
+msgstr ""
+"Можете да зададете Вашите въпроси и/или направите предложения относно "
+"достъпността на Europeana.eu посредством нашата"
+
+#: templates/rights/accessibility.html:41
+msgid "feedback form"
+msgstr "форма за обратна връзка"
+
+#: templates/rights/api-terms-of-use.html:4
+msgid "Europeana - API Terms of Use"
+msgstr "Europeana - API условия за ползване"
+
+#: templates/rights/api-terms-of-use.html:15
+msgid "Europeana API Terms of Use"
+msgstr "Europeana - API условия за ползване"
+
+#: templates/rights/languagepolicy.html:4
+msgid "Europeana - Language policy"
+msgstr "Europeana - Езикова политика"
+
+#: templates/rights/languagepolicy.html:18
+msgid "Europeana.eu follows similar policy guidelines to"
+msgstr "Europeana.eu следва езиковата политика на"
+
+#: templates/rights/languagepolicy.html:18
+msgid "Europa"
+msgstr "Europa"
+
+#: templates/rights/languagepolicy.html:18
+msgid "(the portal site of The European Union)"
+msgstr "(Интернет порталът на Европейския съюз)"
+
+#: templates/rights/languagepolicy.html:22
+msgid ""
+"As far as possible, the aim is to provide the public with the information "
+"they\n"
+"are looking for in their own language. However, due to constraints on "
+"resources,\n"
+"this isn't always possible"
+msgstr ""
+"Целта ни, по възможност, е да предоставяме на потребителите информацията, "
+"която търсят на собствения си език. За съжаление това невинаги е възможно "
+"вследствие на ограничеността на ресурсите."
+
+#: templates/rights/languagepolicy.html:28
+msgid ""
+"Therefore the following guidelines apply in Europa and will\n"
+"apply in Europeana.eu"
+msgstr ""
+"При все това някои от ръководните принципи, приложени в Europa, ще се "
+"използват и в Europeana.eu."
+
+#: templates/rights/languagepolicy.html:32
+msgid "all top (*) level pages in all full partner languages"
+msgstr ""
+"всички основни страници (*) са достъпни на езиците на пълноправните членове"
+
+#: templates/rights/languagepolicy.html:33
+msgid "prioritise speed of publication over availability of translation"
+msgstr "приоритет е бързината на публикуване на документите, а не превода"
+
+#: templates/rights/languagepolicy.html:34
+msgid ""
+"Allow limited 'language mixing' (**) i.e.: where a warning sign needs to be "
+"displayed"
+msgstr ""
+"допуснато е ограничено “смесване на езици”, (**) например в случаите, при "
+"които трябва да бъде изписано предупреждение"
+
+#: templates/rights/languagepolicy.html:39
+msgid "(*) i.e.: the navigation, search, retrieval and display interfaces"
+msgstr ""
+"(*) т.е. навигация, търсене, възстановяване, интерфейс за извличане и "
+"показване на данни"
+
+#: templates/rights/languagepolicy.html:42
+msgid "(**) Language mixing = more than one language on a page"
+msgstr "(**)”Смесване на езици” – повече от един език на страница"
+
+#: templates/rights/languagepolicy.html:46
+msgid "In practical terms this means the following"
+msgstr "На практика това означава следното"
+
+#: templates/rights/languagepolicy.html:49
+msgid ""
+"Tools to manage translation will be developed and maintained by Europeana.eu"
+msgstr ""
+"Europeana.eu ще изгради и ще поддържа инструменти за управление на превода"
+
+#: templates/rights/languagepolicy.html:50
+msgid ""
+"The completion of the translations will be the responsibility of\n"
+"each designated volunteer partner institution"
+msgstr ""
+"Изпълнението на преводите ще е отговорност на всяка призната доброволно "
+"партнираща институция"
+
+#: templates/rights/languagepolicy.html:52
+msgid ""
+"These are unofficial translations and may not correspond exactly with the "
+"English version"
+msgstr ""
+"Преводите са неофициални и могат да не съвпадат напълно с английската версия"
+
+#: templates/rights/languagepolicy.html:53
+msgid ""
+"Europeana.eu will notify each designated volunteer partner\n"
+"institution should an update be required but will not chase for that\n"
+"update"
+msgstr ""
+"При нужда от актуализация на дадена информация Europeana.eu ще уведомява "
+"всяка призната доброволно партнираща институция, но няма да настоява за "
+"актуализация"
+
+#: templates/rights/languagepolicy.html:56
+msgid ""
+"Information that is urgent or has a very short life is in\n"
+"English only e.g.: Ad-hoc error messages"
+msgstr ""
+"Информация от спешен или временен характер се публикувана само на английски "
+"език, например моментни съобщения за грешки"
+
+#: templates/rights/languagepolicy.html:58
+msgid ""
+"All surveys about the site will be produced in all\n"
+"feasible languages only"
+msgstr "Проучванията по сайта ще се публикуват на всички достъпни езици"
+
+#: templates/rights/languagepolicy.html:60
+msgid ""
+"Search Engine Promotion to be executed in English, in the\n"
+"first instance"
+msgstr "Първоначалното представяне на Търсачката да бъде на английски език"
+
+#: templates/rights/languagepolicy.html:62
+msgid ""
+"The Management section and the technical information will\n"
+"be maintained solely in English, as the working language of\n"
+"Europeana.eu"
+msgstr ""
+"Разделът за управление и техническа информация ще се поддържа единствено на "
+"английски – работният език на Europeana.eu"
+
+#: templates/rights/languagepolicy.html:65
+msgid ""
+"If, however, an individual institution wishes to translate and maintain\n"
+"any of the above from within their own resources, Europeana.eu would be "
+"happy\n"
+"to enable its display"
+msgstr ""
+"Във всеки случай, ако дадена институция изяви желание да преведе и да "
+"поддържа със собствени ресурси някоя от изброените по-горе точки, от "
+"Europeana.eu ще се радваме да направим информацията достъпна."
+
+#: templates/rights/languagepolicy.html:69 templates/rights/privacy.html:93
+msgid ""
+"The translations are made on a voluntary basis by our partners and are for "
+"information only. The legally valid text is in English only."
+msgstr ""
+"Преводите са извършени на доброволен принцип от партньорите на Europeana и "
+"са само за информация. Правно валидните текстове са единствено на английски "
+"език."
+
+#: templates/rights/linked-data-sources.html:4
+msgid "Europeana - Europeana Data Sources"
+msgstr "Europeana - Europeana източници на данни"
+
+#: templates/rights/metadata-usage-guidelines.html:4
+msgid "Europeana - Usage Guidelines for Metadata"
+msgstr "Europeana - Насоки за използване на метаданни"
+
+#: templates/rights/metadata-usage-guidelines.html:15
+#: templates/rights/terms-of-use.html:26
+msgid "Europeana Usage Guidelines for Metadata"
+msgstr "Europeana - насоки за използване на метаданни"
+
+#: templates/rights/metadata-usage-guidelines.html:18
+msgid ""
+"These usage guidelines are based on goodwill, they are not a legal contract "
+"but Europeana requests that you follow these guidelines if you use metadata "
+"from Europeana."
+msgstr ""
+"Тези насоки са базирани на принципа на добрата воля. Те не са официален "
+"договор между Europeana и потребителя, но Europeana препоръчва да бъдат "
+"следвани в случаите, когато използвате метаданни от нейните колекции."
+
+#: templates/rights/metadata-usage-guidelines.html:22
+msgid ""
+"All metadata published by Europeana are available free of restriction under "
+"the"
+msgstr ""
+"Всички метаданни публикувани от Europeana са свободни за ползване, съобразно "
+"лиценза"
+
+#: templates/rights/metadata-usage-guidelines.html:22
+msgid ""
+"However, Europeana requests that you actively acknowledge and give "
+"attribution to all metadata sources, such as the data providers (being a "
+"specific cultural heritage institution) and any data aggregators, including "
+"Europeana."
+msgstr ""
+"Независимо от това Europeana изисква активно да бъдат отбелязвани и "
+"посочвани атрибутите на източниците на метаданни като Доставчик на данни "
+"(ако е специфична културна институция) и Агрегатор на данни, включително "
+"самата Europeana."
+
+#: templates/rights/metadata-usage-guidelines.html:26
+msgid "Give credit where credit is due."
+msgstr "Признаване на заслуги."
+
+#: templates/rights/metadata-usage-guidelines.html:30
+msgid ""
+"Give attribution to the data provider and all contributing data aggregators, "
+"including Europeana. Aggregators perform a crucial task in collecting, "
+"storing and harmonising data so that it is more widely accessible and "
+"interoperable."
+msgstr ""
+"Посочете атрибутите на Доставчиците на данни и на всички Агрегатори на "
+"данни, включително самата Europeana. Агрегаторите играят важна роля при "
+"събирането, съхранението и хармонизирането на данните, с цел тяхната по-"
+"широка достъпност и съвместимост."
+
+#: templates/rights/metadata-usage-guidelines.html:31
+msgid ""
+"Make sure that others are aware of the rights status of the Europeana "
+"metadata and are aware of these guidelines. One way you can do this is to "
+"keep links to the CC0 Public Domain Dedication intact."
+msgstr ""
+"Убедете се, че потребителите са запознати с правата на достъп до метаданните "
+"в Europeana и познават тези насоки. Един от начините да направите това е да "
+"запазите непроменена връзката към CC0 Public Domain. "
+
+#: templates/rights/metadata-usage-guidelines.html:32
+msgid ""
+"If, for technical or other reasons, you cannot include all the appropriate "
+"source links and rights information alongside the metadata that you have "
+"used,  you should consider including them separately, for example in a "
+"separate document that is distributed with the metadata or dataset."
+msgstr ""
+"Ако по технически или други причини, не можете да включите в метаданните "
+"връзки към всички източници и/или права за ползване, уверете се че сте ги "
+"посочили допълнително, например в отделен документ, който се разпространява "
+"заедно с набора от данни."
+
+#: templates/rights/metadata-usage-guidelines.html:33
+msgid ""
+"If, for technical or other reasons, you cannot include all the appropriate "
+"source links and rights information alongside the metadata that you have "
+"used,  you may consider linking only to the specific metadata source on "
+"Europeana, where all available sources and rights information can be found, "
+"including machine-readable formats."
+msgstr ""
+"Ако по технически или други причини, не можете да включите връзки към всички "
+"източници и/или права за ползване, може да предпочетете да посочите връзка "
+"към специфичен източник на информация поддържан от самата Europeana, където "
+"могат да бъдат открити всички налични източници включително машинно-четими "
+"формати."
+
+#: templates/rights/metadata-usage-guidelines.html:36
+msgid ""
+"Metadata is dynamic; consider using the metadata via the Europeana APIs or "
+"by linking."
+msgstr ""
+"Метаданните са динамични структури. Използвайте ги посредством Europeana API "
+"или чрез свързаност."
+
+#: templates/rights/metadata-usage-guidelines.html:39
+msgid ""
+"When working with metadata obtained via Europeana,please be aware that it is "
+"not static but subject to change. Europeana continuously updates its "
+"metadata to correct mistakes and include new and additional information. "
+"Therefore, the best way touse metadata published by Europeana is via the "
+"Europeana API or by linking to the specific data. If, for technical or other "
+"reasons, you cannot do this,then provide a link back to the source of the "
+"data on Europeana or implement an update mechanism."
+msgstr ""
+"Когато ползвате метаданни получени чрез Europeana, моля имайте предвид, че "
+"те не са статични структури. Europeana обновява периодично метаданните с цел "
+"корекция на грешки, като включва нова, допълнителна информация.  Поради тази "
+"причина най-добрия начин да се използват тези данни е посредством Europeana "
+"API или чрез свързаност с други специфични данни.  Ако поради техническа или "
+"друга причина, това не може да бъде изпълнено, моля изпратете ни линк към "
+"данните в Europeana или приложете процедурата по обновяване."
+
+#: templates/rights/metadata-usage-guidelines.html:43
+msgid ""
+"Mention your modifications of the metadata and make your modified metadata "
+"available under the same terms."
+msgstr ""
+"Отбележете вашата промяна в метаданните и ги направете достъпни при същите "
+"условия за ползване."
+
+#: templates/rights/metadata-usage-guidelines.html:47
+msgid ""
+"Please do not use the metadata in a way that suggests you have any official "
+"status or that the data provider, aggregator or Europeana endorses you or "
+"your use of the metadata, unless you have prior permission to do so."
+msgstr ""
+"Моля, не използвайте метаданните по начин, предполагащ наличие на официален "
+"статут или разрешение дадено ви от Доставчика на данни, Агрегатора или "
+"Europeana, освен ако нямате получено такова предварително."
+
+#: templates/rights/metadata-usage-guidelines.html:48
+msgid ""
+"Please do not mislead others or misrepresent the metadata or its sources."
+msgstr ""
+"Моля, не подвеждайте потребителите и/или представяйте данните по неверен "
+"начин."
+
+#: templates/rights/metadata-usage-guidelines.html:49
+msgid ""
+"Please make the metadata and any improvements thereto freely available under "
+"the same terms as Europeana, i.e., without claiming any legal right to, or "
+"imposing any legally binding conditions on access to the metadata or your "
+"improvements."
+msgstr ""
+"Моля, направете данните и всички промени в тях свободни за позлване и "
+"достъпни при същите условия като тези в Europeana, например без да "
+"претендирате за права или да налагате каквито и да било правно обвързани "
+"условия за достъп до метаданните или вашите промени."
+
+#: templates/rights/metadata-usage-guidelines.html:53
+msgid "Please note that you use the metadata at your own risk."
+msgstr ""
+"Моля, отбележете че използването на метаданните става на ваша собствена "
+"отговорност."
+
+#: templates/rights/metadata-usage-guidelines.html:57
+msgid ""
+"Europeana offers the metadata as-is and makes no representations or "
+"warranties of any kind concerning any metadata published by Europeana."
+msgstr ""
+"Europeana публикува метаданните така както са създадени и не дава гаранции "
+"от всякакво естество, касаещи последните."
+
+#: templates/rights/metadata-usage-guidelines.html:58
+msgid ""
+"Any use of the metadata must conform to all applicable laws and other "
+"regulations in your jurisdiction, notably concerning (but not limited to) "
+"data protection, defamation or copyright."
+msgstr ""
+"Всяко използване на метаданните трябва да отговаря на всички приложими "
+"закони и други нормативни актове, дейставащи във вашата юрисдикция и по-"
+"специално що се отнася до (но не само) защитата на данните или авторското "
+"право."
+
+#: templates/rights/metadata-usage-guidelines.html:59
+msgid ""
+"Be aware of any additional applicable community norms of data providers and "
+"data aggregators."
+msgstr ""
+"Уверете се, че познавате всякакви допълнителни приложими норми, отнасящи се "
+"до Доставчиците на данни и Агрегаторите."
+
+#: templates/rights/metadata-usage-guidelines.html:63
+msgid "Thank you for your cooperation"
+msgstr "Благодарим за съдействието"
+
+#: templates/rights/pd-usage-guide.html:4
+msgid "Europeana - Public Domain Usage Guidelines"
+msgstr "Europeana - насоки за използване на метданните"
+
+#: templates/rights/privacy.html:4
+msgid "Europeana - Privacy policy"
+msgstr "Europeana - Защита на личните данни"
 
 #: templates/rights/privacy.html:17
 msgid "What Information do we collect?"
@@ -282,7 +1015,6 @@ msgid "Questions, Complaints, and Dispute Resolution"
 msgstr "Въпроси, оплаквания и решаване на спорове"
 
 #: templates/rights/privacy.html:81
-#, fuzzy
 msgid ""
 "By using our website you consent to the terms of the Privacy Statement "
 "hereby described. However, you have the right to prevent the use of your "
@@ -292,14 +1024,6 @@ msgid ""
 "to have this data corrected or removed, or have any other question with "
 "regards to this statement, please contact"
 msgstr ""
-"Използвайки този сайт, потребителят се съгласява с условията за Защита на "
-"личните данни, описани в този документ. Обаче потребителят има право да "
-"предотврати използването на неговите лични данни за персонализирани услуги "
-"или маркетингови цели, а също така и да изяви желание да не бъде "
-"контактувано с него в бъдеще. Ако желаете да бъдете уведомени за това, какви "
-"лични данни за Вас са били събрани, или желаете да коригирате или изтриете "
-"тези данни, или имате някакви въпроси, свързани с тази политика за Защита на "
-"личните данни, моля свържете се с нас на"
 
 #: templates/rights/privacy.html:85
 msgid "Date of creation of the Privacy Statement"
@@ -322,18 +1046,14 @@ msgid "Feedback Form [title may differ in different languages]"
 msgstr "Форма за обратна връзка"
 
 #: templates/rights/privacy.html:90
-#, fuzzy
 msgid ""
 "If you encounter any problem using this site or wish to make general "
 "comments/suggestions, please use this"
 msgstr ""
-"При възникване на някакви проблеми при използването на този сайт или ако "
-"желаете да направите някакви общи коментари или предложения, моля използвайте"
 
 #: templates/rights/privacy.html:90
-#, fuzzy
 msgid "contact form"
-msgstr "contact.html"
+msgstr ""
 
 #: templates/rights/privacy.html:92
 msgid ""
@@ -345,15 +1065,6 @@ msgstr ""
 "информация, са създадени по начин, отговарящ на изискванията за Защита на "
 "личните данни. Този документ за Защита на личните данни предлага повече "
 "информация относно това."
-
-#: templates/rights/privacy.html:93
-msgid ""
-"The translations are made on a voluntary basis by our partners and are for "
-"information only. The legally valid text is in English only."
-msgstr ""
-"Преводите са извършени на доброволен принцип от партньорите на Europeana и "
-"са само за информация. Правно валидните текстове са единствено на английски "
-"език."
 
 #: templates/rights/terms-and-policies.html:4
 msgid "Europeana - Terms and Policies"
@@ -384,11 +1095,6 @@ msgid ""
 msgstr ""
 "ви запознава с Условията на ползване и Насоките за използване на данните "
 "публикувани в Europeana.eu."
-
-#: templates/rights/terms-and-policies.html:24
-#: templates/static_pages/sitemap.html:87
-msgid "Terms of Use"
-msgstr "Условия за ползване"
 
 #: templates/rights/terms-and-policies.html:24
 msgid ""
@@ -427,9 +1133,8 @@ msgid "data sources that Europeana uses"
 msgstr "източниците на данни, използвани от Europeana"
 
 #: templates/rights/terms-and-policies.html:24
-#, fuzzy
 msgid "to enrich the metadata provided by our data providers"
-msgstr "за обогатяване на метаданните подадени от Доставчиците на данни"
+msgstr ""
 
 #: templates/rights/terms-and-policies.html:28
 msgid "Contributing data"
@@ -465,10 +1170,6 @@ msgstr ""
 "регулират условията, при които потребителите предоставят данни на Europeana"
 
 #: templates/rights/terms-and-policies.html:35
-msgid "Our policies"
-msgstr "Нашите политики"
-
-#: templates/rights/terms-and-policies.html:35
 msgid "contains Europeana's policies"
 msgstr "съдържат политиките на Europeana"
 
@@ -485,26 +1186,12 @@ msgstr ""
 "потребителите. Политиката по"
 
 #: templates/rights/terms-and-policies.html:37
-#: templates/static_pages/prop_file.html:180
-#: templates/static_pages/prop_file.html:239
-msgid "Language"
-msgstr "Език"
-
-#: templates/rights/terms-and-policies.html:37
 msgid ""
 "policy describes Europeana's policy for providing information in a users own "
 "language and"
 msgstr ""
 "описва начина на предоставяне на информация на езика на потребителя, а "
 "политиката по"
-
-#: templates/rights/terms-and-policies.html:37
-#: templates/static_pages/prop_file.html:65
-#: templates/static_pages/prop_file.html:515
-#: templates/static_pages/prop_file.html:516
-#: templates/static_pages/sitemap.html:96
-msgid "Accessibility"
-msgstr "Достъпност"
 
 #: templates/rights/terms-and-policies.html:37
 msgid ""
@@ -580,10 +1267,6 @@ msgid ""
 msgstr ""
 "Въпреки всичко, ако използвате повторно данни публикивани от Europeana, ние "
 "ви окуражавамеда следвате препоръките публикувани в"
-
-#: templates/rights/terms-of-use.html:26
-msgid "Europeana Usage Guidelines for Metadata"
-msgstr "Europeana - насоки за използване на метаданни"
 
 #: templates/rights/terms-of-use.html:26
 msgid "and to provide attribution to the data sources whenever possible"
@@ -894,21 +1577,12 @@ msgid "See the storyline and image credits for the Europeana video (above)"
 msgstr "Вижте историята и изображенията разказани във видеото (по-горе)"
 
 #: templates/static_pages/aboutus_enews.html:4
-#, fuzzy
 msgid "Europeana newsletters"
-msgstr "Europeana - Помощ"
-
-#: templates/static_pages/aboutus_enews.html:11
-#: templates/static_pages/prop_file.html:921
-#: templates/static_pages/prop_file.html:922
-#: templates/static_pages/sitemap.html:40
-msgid "Previous newsletters"
-msgstr "Архив"
+msgstr ""
 
 #: templates/static_pages/aboutus_enews.html:15
-#, fuzzy
 msgid "Discover Europeana's hand-picked collections"
-msgstr "Новите материали в колекциите на Europeana"
+msgstr ""
 
 #: templates/static_pages/aboutus_enews.html:16
 #: templates/static_pages/aboutus_enews.html:26
@@ -921,6 +1595,8 @@ msgstr "Юни"
 msgid ""
 "Download free iPad app, explore great new content &amp; join Europeana 1989"
 msgstr ""
+"Свалете приложението за iPad, изследвайте новото съдържание и се "
+"присъединете към Europeana 1989"
 
 #: templates/static_pages/aboutus_enews.html:17
 #: templates/static_pages/aboutus_enews.html:27
@@ -931,7 +1607,7 @@ msgstr "Април"
 
 #: templates/static_pages/aboutus_enews.html:17
 msgid "New look Europeana, Lithuania's buried secrets"
-msgstr ""
+msgstr "Новият изглед на Europeana, погребаните тайни на Литва"
 
 #: templates/static_pages/aboutus_enews.html:18
 #: templates/static_pages/aboutus_enews.html:28
@@ -967,7 +1643,7 @@ msgstr "Често задавани въпроси"
 
 #: templates/static_pages/api-fields.html:23
 msgid "Return to API introduction page"
-msgstr ""
+msgstr "Въръщане към въвеждащата страница за API"
 
 #: templates/static_pages/disclaimer.html:4
 msgid "Europeana - External links disclaimer"
@@ -989,16 +1665,11 @@ msgstr ""
 "наследство."
 
 #: templates/static_pages/disclaimer.html:15
-#, fuzzy
 msgid ""
 "Europeana makes every effort to ensure that all of these external links are "
 "accurate and relevant but these websites are not under our control. We "
 "cannot take responsibility for any information found on external websites."
 msgstr ""
-"Europeana полага всички усилия, за да гарантира, че всички тези външни "
-"връзки са адекватни и уместни, но тези уебсайтове не са под наш контрол. Не "
-"можем да поемем отговорност за информацията, която бихте могли да откриете "
-"там."
 
 #: templates/static_pages/disclaimer.html:18
 msgid ""
@@ -1013,14 +1684,10 @@ msgid "do not"
 msgstr "НЕ"
 
 #: templates/static_pages/disclaimer.html:22
-#, fuzzy
 msgid ""
 "Imply on the part of Europeana any endorsement or guarantee of any of the "
 "organisations or information found on the respective websites."
 msgstr ""
-"предполагат от страна на Europeana никакво одобрение или гаранция, за която "
-"и да е от организациите или за информацията, която може да се намери в "
-"съответните сайтове;"
 
 #: templates/static_pages/disclaimer.html:23
 msgid ""
@@ -1054,14 +1721,6 @@ msgstr ""
 "информация за допълнителни връзки, за които смятате, че е уместно да бъдат "
 "добавени."
 
-#: templates/static_pages/europeana-api.html:4
-#: templates/static_pages/prop_file.html:63
-#: templates/static_pages/prop_file.html:820
-#: templates/static_pages/prop_file.html:821
-#: templates/static_pages/sitemap.html:51
-msgid "Europeana API"
-msgstr "Europeana API"
-
 #: templates/static_pages/europeana-api.html:8
 msgid "Europeana API - Coming Soon!"
 msgstr "Europeana API - Очаквайте скоро!"
@@ -1080,12 +1739,6 @@ msgstr ""
 msgid "Europeana - Using Europeana"
 msgstr "Europeana - използвай Europeana"
 
-#: templates/static_pages/explore.html:9
-#: templates/static_pages/prop_file.html:543
-#: templates/static_pages/prop_file.html:544
-msgid "Explore"
-msgstr "Изследвай"
-
 #: templates/static_pages/explore.html:11
 msgid ""
 "To make searching in Europeana easier, try alternative ways of navigating "
@@ -1098,12 +1751,6 @@ msgstr ""
 "на куратор, вижте най-новото ни съдържание, открийте отделните ни доставчици "
 "и опознайте на богатото културно-историческо наследство на Европа с помощта "
 "на линията на времето."
-
-#: templates/static_pages/followus.html:9
-#: templates/static_pages/prop_file.html:615
-#: templates/static_pages/prop_file.html:616
-msgid "Follow Us"
-msgstr "Следвай ни"
 
 #: templates/static_pages/followus.html:11
 msgid ""
@@ -1323,19 +1970,6 @@ msgstr ""
 msgid "Communities"
 msgstr "Общности"
 
-#: templates/static_pages/prop_file.html:36
-#: templates/static_pages/prop_file.html:611
-#: templates/static_pages/prop_file.html:612
-msgid "Partners"
-msgstr "Партньори"
-
-#: templates/static_pages/prop_file.html:37
-#: templates/static_pages/prop_file.html:563
-#: templates/static_pages/prop_file.html:564
-#: templates/static_pages/sitemap.html:77
-msgid "Timeline"
-msgstr "Линия на времето"
-
 #: templates/static_pages/prop_file.html:38
 msgid "ThoughtLab"
 msgstr "ThoughtLab"
@@ -1441,17 +2075,6 @@ msgstr "Навигатор в Линия на времето"
 msgid "Browse through time"
 msgstr "Търси във времето"
 
-#: templates/static_pages/prop_file.html:60
-#: templates/static_pages/prop_file.html:555
-#: templates/static_pages/prop_file.html:556
-#: templates/static_pages/prop_file.html:911
-#: templates/static_pages/prop_file.html:912
-#: templates/static_pages/sitemap.html:38
-#: templates/static_pages/sitemap.html:75
-#: templates/static_pages/usingeuropeana_explore.html:15
-msgid "New content"
-msgstr "Ново съдържание"
-
 #: templates/static_pages/prop_file.html:61
 msgid ""
 "From our partner museums, archives, libraries and audio-visual collections"
@@ -1521,14 +2144,6 @@ msgstr "По държава"
 #: templates/static_pages/prop_file.html:77
 msgid "By year"
 msgstr "По година"
-
-#: templates/static_pages/prop_file.html:78
-#: templates/static_pages/prop_file.html:559
-#: templates/static_pages/prop_file.html:560
-#: templates/static_pages/sitemap.html:76
-#: templates/static_pages/usingeuropeana_search.html:60
-msgid "By provider"
-msgstr "По доставчик"
 
 #: templates/static_pages/prop_file.html:79
 msgid "By user tag"
@@ -2252,9 +2867,8 @@ msgid "Armenia"
 msgstr "Армения"
 
 #: templates/static_pages/prop_file.html:263
-#, fuzzy
 msgid "Bosnia and Herzegovina"
-msgstr "Босна и Херцеговина"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:264
 msgid "Azerbaijan"
@@ -2351,18 +2965,6 @@ msgstr "Люксембург"
 #: templates/static_pages/prop_file.html:287
 msgid "Greece"
 msgstr "Гърция"
-
-#: templates/static_pages/prop_file.html:288
-#: templates/static_pages/prop_file.html:579
-#: templates/static_pages/prop_file.html:580
-#: templates/static_pages/prop_file.html:889
-#: templates/static_pages/prop_file.html:890
-#: templates/static_pages/sitemap.html:28
-#: templates/static_pages/usingeuropeana.html:16
-#: templates/static_pages/usingeuropeana_explore.html:9
-#: templates/static_pages/usingeuropeana_search.html:14
-msgid "Exploring Europeana"
-msgstr "Изследване в Europeana"
 
 #: templates/static_pages/prop_file.html:289
 msgid "Subject cloud"
@@ -2582,16 +3184,6 @@ msgstr ""
 #: templates/static_pages/prop_file.html:333
 msgid "Europeana Search Widget"
 msgstr "Europeana приложение за търсене"
-
-#: templates/static_pages/prop_file.html:334
-#: templates/static_pages/prop_file.html:571
-#: templates/static_pages/prop_file.html:572
-#: templates/static_pages/prop_file.html:881
-#: templates/static_pages/prop_file.html:882
-#: templates/static_pages/sitemap.html:25
-#: templates/static_pages/usingeuropeana.html:9
-msgid "Help"
-msgstr "Помощ"
 
 #: templates/static_pages/prop_file.html:336
 msgid "What is Europeana's remote search widget?"
@@ -2959,14 +3551,12 @@ msgid "Subscribe"
 msgstr "Абонирайте се"
 
 #: templates/static_pages/prop_file.html:502
-#, fuzzy
 msgid "Europana 1989 - now live!"
-msgstr "Europeana - карта на сайта"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:505
-#, fuzzy
 msgid "Europeana 1989 - now live"
-msgstr "Europeana - карта на сайта"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:506
 msgid "Journey through the fall of the Iron Curtain."
@@ -3001,107 +3591,16 @@ msgstr "За контакти"
 msgid "Home"
 msgstr "Начало"
 
-#: templates/static_pages/prop_file.html:547
-#: templates/static_pages/prop_file.html:548
-#: templates/static_pages/prop_file.html:873
-#: templates/static_pages/sitemap.html:20
-msgid "Europeana Remix"
-msgstr "Europeana Remix"
-
-#: templates/static_pages/prop_file.html:551
-#: templates/static_pages/prop_file.html:552
-#: templates/static_pages/prop_file.html:862
-#: templates/static_pages/sitemap.html:17
-#: templates/static_pages/usingeuropeana_explore.html:14
-msgid "Exhibitions"
-msgstr "Изложби"
-
-#: templates/static_pages/prop_file.html:567
-#: templates/static_pages/prop_file.html:568
-#: templates/static_pages/sitemap.html:78
-msgid "Map"
-msgstr "Карта"
-
-#: templates/static_pages/prop_file.html:575
-#: templates/static_pages/prop_file.html:576
-#: templates/static_pages/prop_file.html:885
-#: templates/static_pages/prop_file.html:886
-#: templates/static_pages/usingeuropeana.html:14
-#: templates/static_pages/usingeuropeana_results.html:22
-#: templates/static_pages/usingeuropeana_search.html:9
-#: templates/static_pages/usingeuropeana_search.html:13
-msgid "Searching Europeana"
-msgstr "Търсене в Europeana"
-
-#: templates/static_pages/prop_file.html:583
-#: templates/static_pages/prop_file.html:584
-#: templates/static_pages/prop_file.html:893
-#: templates/static_pages/prop_file.html:894
-#: templates/static_pages/sitemap.html:29
-#: templates/static_pages/usingeuropeana.html:19
-#: templates/static_pages/usingeuropeana_results.html:9
-#: templates/static_pages/usingeuropeana_search.html:15
-msgid "Results in Europeana"
-msgstr "Резултати"
-
-#: templates/static_pages/prop_file.html:587
-#: templates/static_pages/prop_file.html:588
-#: templates/static_pages/prop_file.html:897
-#: templates/static_pages/prop_file.html:898
-#: templates/static_pages/sitemap.html:30
-#: templates/static_pages/usingeuropeana.html:21
-#: templates/static_pages/usingeuropeana_myeuropeana.html:9
-#: templates/static_pages/usingeuropeana_search.html:16
-msgid "Using My Europeana"
-msgstr "Как да използвам моята Europeana"
-
 #: templates/static_pages/prop_file.html:591
 #: templates/static_pages/prop_file.html:592
 #: templates/static_pages/whatsnew.html:9
 msgid "What's New"
 msgstr "Какво ново"
 
-#: templates/static_pages/prop_file.html:595
-#: templates/static_pages/prop_file.html:596
-msgid "About Us"
-msgstr "За нас"
-
-#: templates/static_pages/prop_file.html:599
-#: templates/static_pages/prop_file.html:600
-msgid "Background"
-msgstr "История"
-
 #: templates/static_pages/prop_file.html:603
 #: templates/static_pages/prop_file.html:604
 msgid "Press Room"
 msgstr "Пресцентър"
-
-#: templates/static_pages/prop_file.html:607
-#: templates/static_pages/prop_file.html:608
-msgid "Job opportunities"
-msgstr "Възможности за работа"
-
-#: templates/static_pages/prop_file.html:619
-#: templates/static_pages/prop_file.html:620
-#: templates/static_pages/prop_file.html:866
-#: templates/static_pages/sitemap.html:18
-msgid "Blog"
-msgstr "Блог"
-
-#: templates/static_pages/prop_file.html:623
-#: templates/static_pages/prop_file.html:624
-msgid "Newsletter"
-msgstr "Прессъобщения"
-
-#: templates/static_pages/prop_file.html:627
-#: templates/static_pages/prop_file.html:628
-msgid "Facebook"
-msgstr "Facebook"
-
-#: templates/static_pages/prop_file.html:631
-#: templates/static_pages/prop_file.html:632
-msgid "Twitter"
-msgstr "Twitter"
 
 #: templates/static_pages/prop_file.html:635
 #: templates/static_pages/prop_file.html:636
@@ -3513,7 +4012,6 @@ msgstr ""
 "ръкописи."
 
 #: templates/static_pages/prop_file.html:795
-#, fuzzy
 msgid ""
 "The Museum of Architecture of the Technische Universit&auml;t Berlin was "
 "founded in 1885 as part of the Technische Hochschule Charlottenburg. It "
@@ -3521,11 +4019,6 @@ msgid ""
 "architecture, predominantely by 19th and 20th century Prussian architects. "
 "The Museum is one of the oldest institutions of its kind in Europe."
 msgstr ""
-"Музей на архитектурата към Техническия университет в Берлин е основан през "
-"1885 г. като част от Техническото училище Шарлотенбург. Той притежава "
-"колекция от рисунки, щампи и снимки, отнасящи се до архитектурата, предимно "
-"от пруски архитекти от 19-ти и 20-ти век. Музеят е една от най-старите "
-"институции по рода си в Европа."
 
 #: templates/static_pages/prop_file.html:802
 msgid "API function"
@@ -3584,9 +4077,8 @@ msgid "What"
 msgstr "Какво"
 
 #: templates/static_pages/prop_file.html:819
-#, fuzzy
 msgid "api-introduction.html"
-msgstr "Въведение"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:822
 #: templates/static_pages/prop_file.html:826
@@ -3609,9 +4101,8 @@ msgid "contact.html"
 msgstr "contact.html"
 
 #: templates/static_pages/prop_file.html:831
-#, fuzzy
 msgid "sitemap.html"
-msgstr "sitemap2.html"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:836
 #: templates/static_pages/usingeuropeana_myeuropeana.html:17
@@ -3709,28 +4200,6 @@ msgstr "Europeana Professional"
 #: templates/static_pages/prop_file.html:878
 msgid "Professional"
 msgstr "Префесионално"
-
-#: templates/static_pages/prop_file.html:901
-#: templates/static_pages/prop_file.html:902
-#: templates/static_pages/sitemap.html:31
-msgid "What's new"
-msgstr "Какво ново"
-
-#: templates/static_pages/prop_file.html:916
-#: templates/static_pages/prop_file.html:917
-#, fuzzy
-msgid "All providers"
-msgstr "По доставчик"
-
-#: templates/static_pages/prop_file.html:926
-#: templates/static_pages/prop_file.html:927
-msgid "Press Centre"
-msgstr "Пресцентър"
-
-#: templates/static_pages/prop_file.html:931
-#: templates/static_pages/prop_file.html:932
-msgid "Jobs"
-msgstr "Работа"
 
 #: templates/static_pages/prop_file.html:938
 msgid "Change limit for an API key"
@@ -3882,12 +4351,6 @@ msgstr "Моля, изберете друг език от падащото ме�
 msgid "Number of results shown on the page"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:988
-#: templates/static_pages/prop_file.html:989
-#: templates/static_pages/sitemap.html:64
-msgid "Get an API-Key"
-msgstr "Вземете API-ключ (API-key)"
-
 #: templates/static_pages/prop_file.html:992
 msgid "API-key"
 msgstr ""
@@ -3905,122 +4368,76 @@ msgid "Searching in Europeana"
 msgstr "Търсене в Europeana"
 
 #: templates/static_pages/sitemap.html:39
-#, fuzzy
 msgid "All Providers"
-msgstr "Доставчик"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:41
-#, fuzzy
 msgid "Press Centre (on Europeana Professional)"
-msgstr "Europeana Professional"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:42
-#, fuzzy
 msgid "Jobs (on Europeana Professional)"
-msgstr "Europeana Professional"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:43
-#, fuzzy
 msgid "Partners (on Europeana Professional)"
-msgstr "Europeana Professional"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:53
 msgid "Data structure"
 msgstr ""
 
 #: templates/static_pages/sitemap.html:54
-#, fuzzy
 msgid "API Methods"
-msgstr "API ключ"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:56
-#, fuzzy
 msgid "OpenSearch"
-msgstr "Търси"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:57
-#, fuzzy
 msgid "Record"
-msgstr "Идентификатор на записа"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:59
-#, fuzzy
 msgid "Suggestions"
-msgstr "Предложения за изписване"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:61
 msgid "Query Syntax"
 msgstr ""
 
 #: templates/static_pages/sitemap.html:62
-#, fuzzy
 msgid "Europeana Fields"
-msgstr "Europeana - Помощ"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:63
 msgid "API1-API2 compatability"
 msgstr ""
 
-#: templates/static_pages/sitemap.html:65
-msgid "API Console"
-msgstr "API конзола"
-
-#: templates/static_pages/sitemap.html:67
-msgid "Europeana API Forum"
-msgstr "Europeana API Forum"
-
-#: templates/static_pages/sitemap.html:88
-msgid "Usage Guidelines for Metadata"
-msgstr "Насоки за използване на метаданните"
-
-#: templates/static_pages/sitemap.html:89
-msgid "Public Domain Usage Guidelines"
-msgstr "Europeana - насоки за използване на метданните"
-
-#: templates/static_pages/sitemap.html:90
-msgid "API Terms of Use"
-msgstr "API - Условия за ползване"
-
-#: templates/static_pages/sitemap.html:91
-msgid "Europeana Data Sources"
-msgstr "Europeana източници на данни"
-
 #: templates/static_pages/sitemap.html:92
-#, fuzzy
 msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
-msgstr "Europeana - договор за сътрудничество"
-
-#: templates/static_pages/sitemap.html:93
-msgid "Terms for User Contributions"
-msgstr "Условия за принос на потребителите"
-
-#: templates/static_pages/sitemap.html:97
-msgid "Public Domain Charter"
-msgstr "Хартата за творби обществено достояние"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:103
-#, fuzzy
 msgid "Rights Reserved - Free access"
-msgstr "Права за ползване – Свободен достъп"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:104
-#, fuzzy
 msgid "Rights Reserved - Restricted access"
-msgstr "Права за ползване – Ограничен достъп"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:105
-#, fuzzy
 msgid "Rights Reserved - Paid access"
-msgstr "Права за ползване – Платен достъп"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:106
 msgid "Unknown copyright status"
 msgstr "Незивестни или неуточнени права за ползване"
 
 #: templates/static_pages/sitemap.html:107
-#, fuzzy
 msgid "Orphan work - Free access"
-msgstr "Права за ползване – Свободен достъп"
+msgstr ""
 
 #: templates/static_pages/storyline.html:4
 msgid "Europeana - Storyline and credits"
@@ -4339,26 +4756,20 @@ msgid "Maria Callas"
 msgstr "Мария Калас"
 
 #: templates/static_pages/storyline.html:32
-#, fuzzy
 msgid ""
 "was one of his great interpreters; Una voce poco fa, Rosina's famous aria "
 "from"
 msgstr ""
-"е една от най-изтъкнатите изпълнителки на неговите творби: Una voce poco fa "
-"- прочутата ариа от"
 
 #: templates/static_pages/storyline.html:32
 msgid "The Barber of Seville"
 msgstr "„Севилския бръснар“"
 
 #: templates/static_pages/storyline.html:32
-#, fuzzy
 msgid ""
 "was a fixture in her concert repertoire. Rossini's speed for musical "
 "composition was legendary, particularly of"
 msgstr ""
-"е неизменна част от нейния репертоар. Темпото в композициите на Росини е "
-"прословуто, особено в"
 
 #: templates/static_pages/storyline.html:32
 msgid "La Gazza Ladra - The Thieving Magpie"
@@ -4588,13 +4999,10 @@ msgid "link at the foot of the page."
 msgstr "разположен в долната част на страницата."
 
 #: templates/static_pages/usingeuropeana_explore.html:15
-#, fuzzy
 msgid ""
 "See the latest contributions from our partner museums, libraries, archives "
 "and audiovisual archives by choosing"
 msgstr ""
-"вижте най-новото съдържание добавено от нашите партньори - музеи, архиви, "
-"библиотеки и аудиовизуални колекции, чрез връзката"
 
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "View more latest content from our partners"
@@ -4718,10 +5126,8 @@ msgid ""
 msgstr "музика и фонографски записи, аудиозаписи, дискове и радиопредавания."
 
 #: templates/static_pages/usingeuropeana_results.html:19
-#, fuzzy
 msgid "virtual 3D representations of objects, architecture or places."
 msgstr ""
-"виртуално 3D представяне на обекти, архитектурни забележителности или места."
 
 #: templates/static_pages/usingeuropeana_results.html:22
 msgid ""
@@ -5075,15 +5481,11 @@ msgid "filter or enter"
 msgstr "или въведете ключа"
 
 #: templates/static_pages/usingeuropeana_search.html:31
-#, fuzzy
 msgid ""
 "followed by a name of, for example, an actor, author or architect. Your "
 "results will display only items for which the name you entered is listed as "
 "the creator. For example, searching for"
 msgstr ""
-"последвано от име на актьор, автор, архитект и т.н. в полето за търсене и "
-"резултатите ще бъдат ограничени само до записите, в които се среща търсения "
-"от вас автор. Например:"
 
 #: templates/static_pages/usingeuropeana_search.html:31
 msgid ""
@@ -5359,15 +5761,11 @@ msgid "You can also select to"
 msgstr "Може да изберете също така и"
 
 #: templates/static_pages/usingeuropeana_search.html:67
-#, fuzzy
 msgid ""
 "This means items that have not come from a cultural institution but from an "
 "individual user, for example, items contributed to the Europeana 1914-1918 "
 "project."
 msgstr ""
-"Тази функционална възможност, маркира съдържание, което е набавено от частни "
-"лица, а не от културна институция. Пример за това е съдържанието набавено "
-"чрез поект Europeana 1914-1918."
 
 #: templates/static_pages/usingeuropeana_search.html:69
 msgid "Share your search with friends by choosing"
@@ -5383,18 +5781,12 @@ msgstr ""
 "включени и възможностите за печат и изпращане по е-мейл. "
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:3
-#, fuzzy
 msgid "Europeana - How to configure your search widget"
 msgstr ""
-"Какво редставлява Външно приложение за търсене (Remote search widget) в "
-"Europeana?"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:9
-#, fuzzy
 msgid "How to configure your search widget"
 msgstr ""
-"Какво редставлява Външно приложение за търсене (Remote search widget) в "
-"Europeana?"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:10
 msgid ""
@@ -5412,35 +5804,29 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:12
-#, fuzzy
 msgid "The Europeana Search Widget works with..."
-msgstr "Europeana приложение за търсене"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:13
 #: templates/static_pages/usingeuropeana_searchwidget.html:15
-#, fuzzy
 msgid "Information to follow."
-msgstr "Каква информация събираме?"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:14
-#, fuzzy
 msgid "The Europeana Search Widget doesn't work with..."
-msgstr "Europeana приложение за търсене"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:16
-#, fuzzy
 msgid "Set up your Europeana Search Widget:"
-msgstr "Europeana приложение за търсене"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:18
-#, fuzzy
 msgid "Go to the search widget page."
-msgstr "някои от термините за търсене"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:19
-#, fuzzy
 msgid "Introduction tab"
-msgstr "Въведение"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:19
 msgid ""
@@ -5461,16 +5847,12 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:21
-#, fuzzy
 msgid "To tailor your search widget"
 msgstr ""
-"Какво редставлява Външно приложение за търсене (Remote search widget) в "
-"Europeana?"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:23
-#, fuzzy
 msgid "Keyword search"
-msgstr "Ограничи търсенето"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:23
 msgid ""
@@ -5489,9 +5871,8 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:25
-#, fuzzy
 msgid "Search on types"
-msgstr "Съвети при търсене"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:25
 msgid ""
@@ -5517,9 +5898,8 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:27
-#, fuzzy
 msgid "Countries"
-msgstr "Държава"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:27
 msgid ""
@@ -5532,9 +5912,8 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:28
-#, fuzzy
 msgid "Media types"
-msgstr "Вид на материала"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:28
 msgid ""
@@ -5548,9 +5927,8 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:29
-#, fuzzy
 msgid "Copyright"
-msgstr "По копирайт права"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:29
 msgid ""
@@ -5563,34 +5941,28 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:30
-#, fuzzy
 msgid "More information on the CC licenses"
-msgstr "Европеана - Права за ползване – Платен достъп"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:31
-#, fuzzy
 msgid "More information on the Rights Reserved - Free Access label"
-msgstr "Европеана: Права за ползване – Свободен достъп"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:32
-#, fuzzy
 msgid "More information on the Rights Reserved - Restricted Access label"
-msgstr "Европеана - Права за ползване – Ограничен достъп"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:33
-#, fuzzy
 msgid "More information on the Rights Reserved - Paid Access label"
-msgstr "Европеана - Права за ползване – Платен достъп"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:34
-#, fuzzy
 msgid "More information on the Unknown rights label"
-msgstr "Европеана: Права за ползване – Свободен достъп"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:35
-#, fuzzy
 msgid "Languages"
-msgstr "Език"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:35
 msgid ""
@@ -5623,9 +5995,8 @@ msgid "Tap 'Next' or the 'Preview' tab heading."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:40
-#, fuzzy
 msgid "Preview tab"
-msgstr "Преглед"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:40
 msgid ""
@@ -5715,392 +6086,45 @@ msgid "We hope you enjoy using the new-look Europeana."
 msgstr ""
 "Надяваме се да се забавлявате докато използвате Europenana в новия и дизайн."
 
-#~ msgid "Press room"
-#~ msgstr "Пресцентър"
-
-#~ msgid "Terms &amp; Policies"
-#~ msgstr "Условия &amp; Политики "
-
-#~ msgid "Introduction"
-#~ msgstr "Въведение"
-
-#~ msgid "Using our data"
-#~ msgstr "Използване на данните"
-
-#~ msgid "Contributing data to us"
-#~ msgstr "Как се доставят данни"
-
-#~ msgid "Europeana Data Exchange Agreement"
-#~ msgstr "Europeana - договор за сътрудничество"
-
-#~ msgid "eNews"
-#~ msgstr "еНовини"
-
-#~ msgid "Europeana - Accessibility policy"
-#~ msgstr "Europeana - политика на достъпност"
-
 #~ msgid ""
 #~ "Europeana.eu features and content have been designed to be universally\n"
-#~ "accessible by users and user agents/devices. We strive to meet the WC3 "
-#~ "Web\n"
-#~ "Content Accessibility Guidelines Version 1.0."
-#~ msgstr ""
-#~ "Функционалността и съдържанието на Europeana.eu са предназначени да бъдат "
-#~ "максимално достъпни за потребителите и техните устройства. Стремим се да "
-#~ "се съобразяваме с Принципите за достъпност на уеб съдържанието WC3 версия "
-#~ "1.0."
-
-#~ msgid ""
-#~ "Our User Centred Design team frequently conducts usability testing of\n"
-#~ "Europeana.eu navigation, flow, labels, and consistency. Furthermore,\n"
-#~ "we will produce a version &ndash; post this prototype phase &ndash; for "
-#~ "blind individuals."
-#~ msgstr ""
-#~ "Нашият екип за обслужване на потребителите регулярно провежда тестове на "
-#~ "системата за навигация, потока, етикетите и съвместимостта на данните. В "
-#~ "бъдеще ще разработим версия &ndash; след публикуването на настоящата, "
-#~ "която да обслужва хора със зрителни увреждания."
-
-#~ msgid "Some of the accessibility features of our site include"
-#~ msgstr "Някои функционалности на нашия сайт включват"
-
-#~ msgid "Meaningful page titles to help with orientation"
-#~ msgstr "Ясно озаглавени страници, които да ви помогнат да се ориентирате"
-
-#~ msgid ""
-#~ "Almost all images have either a meaningful alt-text (text equivalent)"
-#~ msgstr "Повечето от изображенията имат и ясно описание (текстов еквивалент)"
-
-#~ msgid "Minimal use of frames"
-#~ msgstr "Минимална употреба на фреймове"
-
-#~ msgid "Use of resizable fonts"
-#~ msgstr "Възможност за промяна размера на шрифта"
-
-#~ msgid ""
-#~ "Use Cascading Style Sheets (CSS) to separate content from presentation"
-#~ msgstr ""
-#~ "Употреба на CSS (Cascading Style Sheets) за отделяне на съдържанието от "
-#~ "визията"
-
-#~ msgid "Notifying a user when a link opens a new window"
-#~ msgstr ""
-#~ "Предупреждение към потребителя, когато връзката се отваря в нов прозорец"
-
-#~ msgid "The (core) functionalities are usable without JavaScript"
-#~ msgstr ""
-#~ "Основните функционални възможности са достъпни без използването на "
-#~ "JavaScript"
-
-#~ msgid ""
-#~ "Please send us any feedback or questions on the accessibility of "
-#~ "Europeana.eu with the"
-#~ msgstr ""
-#~ "Можете да зададете Вашите въпроси и/или направите предложения относно "
-#~ "достъпността на Europeana.eu посредством нашата"
-
-#~ msgid "feedback form"
-#~ msgstr "форма за обратна връзка"
-
-#~ msgid "Europeana - API Terms of Use"
-#~ msgstr "Europeana - API условия за ползване"
-
-#~ msgid "Europeana API Terms of Use"
-#~ msgstr "Europeana - API условия за ползване"
-
-#~ msgid "Europeana - Language policy"
-#~ msgstr "Europeana - Езикова политика"
-
-#~ msgid "Europeana.eu follows similar policy guidelines to"
-#~ msgstr "Europeana.eu следва езиковата политика на"
-
-#~ msgid "Europa"
-#~ msgstr "Europa"
-
-#~ msgid "(the portal site of The European Union)"
-#~ msgstr "(Интернет порталът на Европейския съюз)"
-
-#~ msgid ""
-#~ "As far as possible, the aim is to provide the public with the information "
-#~ "they\n"
-#~ "are looking for in their own language. However, due to constraints on "
-#~ "resources,\n"
-#~ "this isn't always possible"
-#~ msgstr ""
-#~ "Целта ни, по възможност, е да предоставяме на потребителите информацията, "
-#~ "която търсят на собствения си език. За съжаление това невинаги е възможно "
-#~ "вследствие на ограничеността на ресурсите."
-
-#~ msgid ""
-#~ "Therefore the following guidelines apply in Europa and will\n"
-#~ "apply in Europeana.eu"
-#~ msgstr ""
-#~ "При все това някои от ръководните принципи, приложени в Europa, ще се "
-#~ "използват и в Europeana.eu."
-
-#~ msgid "all top (*) level pages in all full partner languages"
-#~ msgstr ""
-#~ "всички основни страници (*) са достъпни на езиците на пълноправните "
-#~ "членове"
-
-#~ msgid "prioritise speed of publication over availability of translation"
-#~ msgstr "приоритет е бързината на публикуване на документите, а не превода"
-
-#~ msgid ""
-#~ "Allow limited 'language mixing' (**) i.e.: where a warning sign needs to "
-#~ "be displayed"
-#~ msgstr ""
-#~ "допуснато е ограничено “смесване на езици”, (**) например в случаите, при "
-#~ "които трябва да бъде изписано предупреждение"
-
-#~ msgid "(*) i.e.: the navigation, search, retrieval and display interfaces"
-#~ msgstr ""
-#~ "(*) т.е. навигация, търсене, възстановяване, интерфейс за извличане и "
-#~ "показване на данни"
-
-#~ msgid "(**) Language mixing = more than one language on a page"
-#~ msgstr "(**)”Смесване на езици” – повече от един език на страница"
-
-#~ msgid "In practical terms this means the following"
-#~ msgstr "На практика това означава следното"
-
-#~ msgid ""
-#~ "Tools to manage translation will be developed and maintained by Europeana."
-#~ "eu"
-#~ msgstr ""
-#~ "Europeana.eu ще изгради и ще поддържа инструменти за управление на превода"
-
-#~ msgid ""
-#~ "The completion of the translations will be the responsibility of\n"
-#~ "each designated volunteer partner institution"
-#~ msgstr ""
-#~ "Изпълнението на преводите ще е отговорност на всяка призната доброволно "
-#~ "партнираща институция"
-
-#~ msgid ""
-#~ "These are unofficial translations and may not correspond exactly with the "
-#~ "English version"
-#~ msgstr ""
-#~ "Преводите са неофициални и могат да не съвпадат напълно с английската "
-#~ "версия"
-
-#~ msgid ""
-#~ "Europeana.eu will notify each designated volunteer partner\n"
-#~ "institution should an update be required but will not chase for that\n"
-#~ "update"
-#~ msgstr ""
-#~ "При нужда от актуализация на дадена информация Europeana.eu ще уведомява "
-#~ "всяка призната доброволно партнираща институция, но няма да настоява за "
-#~ "актуализация"
-
-#~ msgid ""
-#~ "Information that is urgent or has a very short life is in\n"
-#~ "English only e.g.: Ad-hoc error messages"
-#~ msgstr ""
-#~ "Информация от спешен или временен характер се публикувана само на "
-#~ "английски език, например моментни съобщения за грешки"
-
-#~ msgid ""
-#~ "All surveys about the site will be produced in all\n"
-#~ "feasible languages only"
-#~ msgstr "Проучванията по сайта ще се публикуват на всички достъпни езици"
-
-#~ msgid ""
-#~ "Search Engine Promotion to be executed in English, in the\n"
-#~ "first instance"
-#~ msgstr "Първоначалното представяне на Търсачката да бъде на английски език"
-
-#~ msgid ""
-#~ "The Management section and the technical information will\n"
-#~ "be maintained solely in English, as the working language of\n"
-#~ "Europeana.eu"
-#~ msgstr ""
-#~ "Разделът за управление и техническа информация ще се поддържа единствено "
-#~ "на английски – работният език на Europeana.eu"
-
-#~ msgid ""
-#~ "If, however, an individual institution wishes to translate and maintain\n"
-#~ "any of the above from within their own resources, Europeana.eu would be "
-#~ "happy\n"
-#~ "to enable its display"
-#~ msgstr ""
-#~ "Във всеки случай, ако дадена институция изяви желание да преведе и да "
-#~ "поддържа със собствени ресурси някоя от изброените по-горе точки, от "
-#~ "Europeana.eu ще се радваме да направим информацията достъпна."
-
-#~ msgid "Europeana - Europeana Data Sources"
-#~ msgstr "Europeana - Europeana източници на данни"
-
-#~ msgid "Europeana - Usage Guidelines for Metadata"
-#~ msgstr "Europeana - Насоки за използване на метаданни"
-
-#~ msgid ""
-#~ "These usage guidelines are based on goodwill, they are not a legal "
-#~ "contract but Europeana requests that you follow these guidelines if you "
-#~ "use metadata from Europeana."
-#~ msgstr ""
-#~ "Тези насоки са базирани на принципа на добрата воля. Те не са официален "
-#~ "договор между Europeana и потребителя, но Europeana препоръчва да бъдат "
-#~ "следвани в случаите, когато използвате метаданни от нейните колекции."
-
-#~ msgid ""
-#~ "All metadata published by Europeana are available free of restriction "
-#~ "under the"
-#~ msgstr ""
-#~ "Всички метаданни публикувани от Europeana са свободни за ползване, "
-#~ "съобразно лиценза"
-
-#~ msgid ""
-#~ "However, Europeana requests that you actively acknowledge and give "
-#~ "attribution to all metadata sources, such as the data providers (being a "
-#~ "specific cultural heritage institution) and any data aggregators, "
-#~ "including Europeana."
-#~ msgstr ""
-#~ "Независимо от това Europeana изисква активно да бъдат отбелязвани и "
-#~ "посочвани атрибутите на източниците на метаданни като Доставчик на данни "
-#~ "(ако е специфична културна институция) и Агрегатор на данни, включително "
-#~ "самата Europeana."
-
-#~ msgid "Give credit where credit is due."
-#~ msgstr "Признаване на заслуги."
-
-#~ msgid ""
-#~ "Give attribution to the data provider and all contributing data "
-#~ "aggregators, including Europeana. Aggregators perform a crucial task in "
-#~ "collecting, storing and harmonising data so that it is more widely "
-#~ "accessible and interoperable."
-#~ msgstr ""
-#~ "Посочете атрибутите на Доставчиците на данни и на всички Агрегатори на "
-#~ "данни, включително самата Europeana. Агрегаторите играят важна роля при "
-#~ "събирането, съхранението и хармонизирането на данните, с цел тяхната по-"
-#~ "широка достъпност и съвместимост."
-
-#~ msgid ""
-#~ "Make sure that others are aware of the rights status of the Europeana "
-#~ "metadata and are aware of these guidelines. One way you can do this is to "
-#~ "keep links to the CC0 Public Domain Dedication intact."
-#~ msgstr ""
-#~ "Убедете се, че потребителите са запознати с правата на достъп до "
-#~ "метаданните в Europeana и познават тези насоки. Един от начините да "
-#~ "направите това е да запазите непроменена връзката към CC0 Public Domain. "
-
-#~ msgid ""
-#~ "If, for technical or other reasons, you cannot include all the "
-#~ "appropriate source links and rights information alongside the metadata "
-#~ "that you have used,  you should consider including them separately, for "
-#~ "example in a separate document that is distributed with the metadata or "
-#~ "dataset."
-#~ msgstr ""
-#~ "Ако по технически или други причини, не можете да включите в метаданните "
-#~ "връзки към всички източници и/или права за ползване, уверете се че сте ги "
-#~ "посочили допълнително, например в отделен документ, който се "
-#~ "разпространява заедно с набора от данни."
-
-#~ msgid ""
-#~ "If, for technical or other reasons, you cannot include all the "
-#~ "appropriate source links and rights information alongside the metadata "
-#~ "that you have used,  you may consider linking only to the specific "
-#~ "metadata source on Europeana, where all available sources and rights "
-#~ "information can be found, including machine-readable formats."
-#~ msgstr ""
-#~ "Ако по технически или други причини, не можете да включите връзки към "
-#~ "всички източници и/или права за ползване, може да предпочетете да "
-#~ "посочите връзка към специфичен източник на информация поддържан от самата "
-#~ "Europeana, където могат да бъдат открити всички налични източници "
-#~ "включително машинно-четими формати."
-
-#~ msgid ""
-#~ "Metadata is dynamic; consider using the metadata via the Europeana APIs "
-#~ "or by linking."
-#~ msgstr ""
-#~ "Метаданните са динамични структури. Използвайте ги посредством Europeana "
-#~ "API или чрез свързаност."
-
-#~ msgid ""
-#~ "When working with metadata obtained via Europeana,please be aware that it "
-#~ "is not static but subject to change. Europeana continuously updates its "
-#~ "metadata to correct mistakes and include new and additional information. "
-#~ "Therefore, the best way touse metadata published by Europeana is via the "
-#~ "Europeana API or by linking to the specific data. If, for technical or "
-#~ "other reasons, you cannot do this,then provide a link back to the source "
-#~ "of the data on Europeana or implement an update mechanism."
-#~ msgstr ""
-#~ "Когато ползвате метаданни получени чрез Europeana, моля имайте предвид, "
-#~ "че те не са статични структури. Europeana обновява периодично метаданните "
-#~ "с цел корекция на грешки, като включва нова, допълнителна информация.  "
-#~ "Поради тази причина най-добрия начин да се използват тези данни е "
-#~ "посредством Europeana API или чрез свързаност с други специфични данни.  "
-#~ "Ако поради техническа или друга причина, това не може да бъде изпълнено, "
-#~ "моля изпратете ни линк към данните в Europeana или приложете процедурата "
-#~ "по обновяване."
-
-#~ msgid ""
-#~ "Mention your modifications of the metadata and make your modified "
-#~ "metadata available under the same terms."
-#~ msgstr ""
-#~ "Отбележете вашата промяна в метаданните и ги направете достъпни при "
-#~ "същите условия за ползване."
-
-#~ msgid ""
-#~ "Please do not use the metadata in a way that suggests you have any "
-#~ "official status or that the data provider, aggregator or Europeana "
-#~ "endorses you or your use of the metadata, unless you have prior "
-#~ "permission to do so."
-#~ msgstr ""
-#~ "Моля, не използвайте метаданните по начин, предполагащ наличие на "
-#~ "официален статут или разрешение дадено ви от Доставчика на данни, "
-#~ "Агрегатора или Europeana, освен ако нямате получено такова предварително."
-
-#~ msgid ""
-#~ "Please do not mislead others or misrepresent the metadata or its sources."
-#~ msgstr ""
-#~ "Моля, не подвеждайте потребителите и/или представяйте данните по неверен "
-#~ "начин."
-
-#~ msgid ""
-#~ "Please make the metadata and any improvements thereto freely available "
-#~ "under the same terms as Europeana, i.e., without claiming any legal right "
-#~ "to, or imposing any legally binding conditions on access to the metadata "
-#~ "or your improvements."
+#~ "accessithout claiming any legal right to, or imposing any legally binding "
+#~ "conditions on access to the metadata or your improvements."
 #~ msgstr ""
 #~ "Моля, направете данните и всички промени в тях свободни за позлване и "
 #~ "достъпни при същите условия като тези в Europeana, например без да "
 #~ "претендирате за права или да налагате каквито и да било правно обвързани "
 #~ "условия за достъп до метаданните или вашите промени."
 
-#~ msgid "Please note that you use the metadata at your own risk."
+#~ msgid ""
+#~ "Europeana.eu collects or logs cookies and information about its users and "
+#~ "processes this information to produce usage statistics. By processing "
+#~ "such information we are trying to identify user profiles and usage habits "
+#~ "to improve the content and services we offer according to users needs. "
+#~ "Log files analysis are also used to inform Europeana.eu partner libraries "
+#~ "about digitisation priorities based on user preferences. These aggregated "
+#~ "data do not contain information al so you can be sure of its authenticity."
 #~ msgstr ""
-#~ "Моля, отбележете че използването на метаданните става на ваша собствена "
-#~ "отговорност."
+#~ "Europeana.eu събира и записва файлове тип cookie (\"бисквитка\") и "
+#~ "информация за потребителите. Тя обработва тази информация, за да изготвя "
+#~ "статистика за потреблението. Посредством обработката на тези данни "
+#~ "Europeana се опитва да идентифицира потребителски профили и навици, за да "
+#~ "подобри съдържанието и услугите, които предлага съобразно потребителските "
+#~ "нужди. Анализът на лог файловете се използва също и за информиране на "
+#~ "партниращите на Europeana.eu библиотеки за приоритетите по дигитализация, "
+#~ "базирани на потребителските предпочитания. Така събраните данни не "
+#~ "съдържат информация, от която да могат да се идентифицират отделни "
+#~ "потребители. Те се използват само за следните нужди"
 
 #~ msgid ""
-#~ "Europeana offers the metadata as-is and makes no representations or "
-#~ "warranties of any kind concerning any metadata published by Europeana."
+#~ "Make sure that others are aware of the rights status of the Europeana "
+#~ "metadata and are aware of these guidelines. One way you can do this is to "
+#~ "keep links to the CC0 Public Domain Dedication in - Europeana Data Sources"
 #~ msgstr ""
-#~ "Europeana публикува метаданните така както са създадени и не дава "
-#~ "гаранции от всякакво естество, касаещи последните."
+#~ "Убедете се, че потребителите са запознати с правата на достъп до "
+#~ "метаданните в Europeana и познават тези насоки. Един от начините да "
+#~ "направите това е да запазите непроменена връзката към CC0 Public Domain. "
 
-#~ msgid ""
-#~ "Any use of the metadata must conform to all applicable laws and other "
-#~ "regulations in your jurisdiction, notably concerning (but not limited to) "
-#~ "data protection, defamation or copyright."
-#~ msgstr ""
-#~ "Всяко използване на метаданните трябва да отговаря на всички приложими "
-#~ "закони и други нормативни актове, дейставащи във вашата юрисдикция и по-"
-#~ "специално що се отнася до (но не само) защитата на данните или авторското "
-#~ "право."
-
-#~ msgid ""
-#~ "Be aware of any additional applicable community norms of data providers "
-#~ "and data aggregators."
-#~ msgstr ""
-#~ "Уверете се, че познавате всякакви допълнителни приложими норми, отнасящи "
-#~ "се до Доставчиците на данни и Агрегаторите."
-
-#~ msgid "Thank you for your cooperation"
-#~ msgstr "Благодарим за съдействието"
-
-#, fuzzy
 #~ msgid ""
 #~ "Floral composition range of Pinks, yellows and grpartner museums, "
 #~ "libraries, archives and audiovisual archives by choosing"
@@ -6108,7 +6132,6 @@ msgstr ""
 #~ "Вижте най-новото съдържание постъпило от нашите парньори: музеи, "
 #~ "библиотеки, архиви и аудиовизуални архиви като изберете линка"
 
-#, fuzzy
 #~ msgid ""
 #~ "Please read our Privacy Policy Statement to find out what information we "
 #~ "log and how we use it. We collect the following: Log Files, cookies and "
@@ -6130,18 +6153,6 @@ msgstr ""
 #~ msgid "Europeana Terms for User Contributions"
 #~ msgstr "Europeana условия за принос на потребителите"
 
-#, fuzzy
-#~ msgid ""
-#~ "Europeana.eu features and content have been designed to be universally\n"
-#~ "accessithout claiming any legal right to, or imposing any legally binding "
-#~ "conditions on access to the metadata or your improvements."
-#~ msgstr ""
-#~ "Моля, направете данните и всички промени в тях свободни за позлване и "
-#~ "достъпни при същите условия като тези в Europeana, например без да "
-#~ "претендирате за права или да налагате каквито и да било правно обвързани "
-#~ "условия за достъп до метаданните или вашите промени."
-
-#, fuzzy
 #~ msgid ""
 #~ "Follow ults will display only items for which the name you entered is "
 #~ "listed as the creator. For example, searching for"
@@ -6150,15 +6161,12 @@ msgstr ""
 #~ "ще включват само обекти, за които търсената от вас личност е посочена "
 #~ "като създател. Например търсите"
 
-#, fuzzy
 #~ msgid "Follow U"
 #~ msgstr "Следвай ни"
 
-#, fuzzy
 #~ msgid "Download the Europeana Open Culture app for iPad"
 #~ msgstr "Мисъл за културата"
 
-#, fuzzy
 #~ msgid "Europeana Open Culture app"
 #~ msgstr "Мисъл за културата"
 
@@ -6977,7 +6985,6 @@ msgstr ""
 #~ "скъпоценни камъни в Рим. Смятата се, че геммата е изработена от майстора "
 #~ "Диоскурид или един от неговите ученици."
 
-#, fuzzy
 #~ msgid ""
 #~ "Martin Luther was a German monk, priest, professor of theology and "
 #~ "important figure in the Protestant Reformation. This painting from 1532, "
@@ -7005,7 +7012,6 @@ msgstr ""
 #~ msgid "Open Exhibition"
 #~ msgstr "Открита изложба"
 
-#, fuzzy
 #~ msgid "Explore collection"
 #~ msgstr "Аудио-визуална колекция"
 
@@ -7020,7 +7026,6 @@ msgstr ""
 #~ "Europeana вие можете проучите над 250 000 изображения, текстове и аудио "
 #~ "записи от колекциите на Австрийската национална библиотека."
 
-#, fuzzy
 #~ msgid ""
 #~ "The Rijksmuseum is the national museum of the Netherlands, dedicated to "
 #~ "arts, crafts and history. Through Europeana explore over 100,000 public "
@@ -7229,7 +7234,6 @@ msgstr ""
 #~ msgid "Preview the new Europeana portal before it's launched"
 #~ msgstr "За началната страница на Europeana, кликни тук"
 
-#, fuzzy
 #~ msgid ""
 #~ "We're sorry that you can't save anything new to 'My Europeana' right now "
 #~ "- we're currently upgrading the site"
@@ -7267,7 +7271,6 @@ msgstr ""
 #~ msgid "#"
 #~ msgstr "#"
 
-#, fuzzy
 #~ msgid "Common Fields"
 #~ msgstr "Общности"
 
@@ -7283,7 +7286,6 @@ msgstr ""
 #~ msgid "Europeana: Unknown copyright status"
 #~ msgstr "Europeana - Права за ползване – Неизвестни"
 
-#, fuzzy
 #~ msgid "Europeana Providers"
 #~ msgstr "Europeana - партньори"
 
@@ -7720,7 +7722,6 @@ msgstr ""
 #~ "последвано от вид или предмет на записа и като резултат ще получите само "
 #~ "записи от търсения вид или предмет. Например:"
 
-#, fuzzy
 #~ msgid "Art Nouveau"
 #~ msgstr "Ар Нуво"
 
@@ -7933,7 +7934,6 @@ msgstr ""
 #~ msgid "Our Terms of Use"
 #~ msgstr "Условия за ползване"
 
-#, fuzzy
 #~ msgid ""
 #~ "Before the wedding, well-to-do Bukharan families would invite a goldsmith "
 #~ "to their house, where he would make the jewelry for the bride, living "
@@ -7947,11 +7947,9 @@ msgstr ""
 #~ "полускъпоценни камъни и перли, някои местни а други внесени главно от "
 #~ "Русия."
 
-#, fuzzy
 #~ msgid "aboutus.html"
 #~ msgstr "aboutus2.html"
 
-#, fuzzy
 #~ msgid ""
 #~ "The remote search widget is a tailored plugin to search on and display "
 #~ "items from Europeana's collections and those of their contr"
@@ -7962,7 +7960,6 @@ msgstr ""
 #~ msgid "Technical Documentation"
 #~ msgstr "Техническа документация"
 
-#, fuzzy
 #~ msgid ""
 #~ "The church of Virgin Mary's Assumption is located at the district of "
 #~ "Panagia (Virgin Mary), in the old city of Kavala, between the lighthouse "
@@ -7979,7 +7976,6 @@ msgstr ""
 #~ "византийска църква от 15 век. Пост-византийската църква е трикорабна "
 #~ "базилика с малък купол и висока камбанария, която е оцеляла и до днес."
 
-#, fuzzy
 #~ msgid ""
 #~ "I understand that My Europeana gives me the opportunity to create tags "
 #~ "for any item I wish. I agree that I will not create any tags that could "
@@ -8006,7 +8002,6 @@ msgstr ""
 #~ "материали. Чрез Europeana можете да проучите над 600 образователни "
 #~ "видеоклипове от гърцката образователна телевизия."
 
-#, fuzzy
 #~ msgid ""
 #~ "These terms of use do not pertain to the metadata, previews anser "
 #~ "pathways and share your discoveries."
@@ -8015,7 +8010,6 @@ msgstr ""
 #~ "друго съдържание достъпни във виртуалните изложби, предлагани от "
 #~ "Europeana на"
 
-#, fuzzy
 #~ msgid ""
 #~ "List viia articles. The code you need is formatted for direct inclusion "
 #~ "in Wikipedia's article authoring mode. Select"
@@ -8023,7 +8017,6 @@ msgstr ""
 #~ "за да генерирате код, форматиран по начин за директно вграждане в статия "
 #~ "за Уикипедия."
 
-#, fuzzy
 #~ msgid ""
 #~ "Europeana.eu respects your privacy and seeks to protect your personal "
 #~ "data. We do not sell, trade or rent the information we get from you on "
@@ -8164,7 +8157,6 @@ msgstr ""
 #~ msgid "when: 1984"
 #~ msgstr "when: 1984"
 
-#, fuzzy
 #~ msgid "Azerb"
 #~ msgstr "Азербейджан"
 

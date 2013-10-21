@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-17 09:26+0200\n"
-"PO-Revision-Date: 2013-10-17 00:23\n"
+"POT-Creation-Date: 2013-10-21 14:14+0200\n"
+"PO-Revision-Date: 2013-10-18 23:53\n"
 "Last-Translator: Catalan  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -1592,7 +1592,7 @@ msgstr "Butlletins d'informació d'Europeana"
 
 #: templates/static_pages/aboutus_enews.html:15
 msgid "Discover Europeana's hand-picked collections"
-msgstr ""
+msgstr "Descobreix col·leccions d'Europeana especialment seleccionades"
 
 #: templates/static_pages/aboutus_enews.html:16
 #: templates/static_pages/aboutus_enews.html:26
@@ -1605,6 +1605,8 @@ msgstr "Juny"
 msgid ""
 "Download free iPad app, explore great new content &amp; join Europeana 1989"
 msgstr ""
+"Descarregueu l'app d'iPad de forma gratuïta, exploreu el no contingut; "
+"participeu a Europeana 1989"
 
 #: templates/static_pages/aboutus_enews.html:17
 #: templates/static_pages/aboutus_enews.html:27
@@ -1743,8 +1745,8 @@ msgid ""
 "more about our current API and our Linked Open Data visit their pages on"
 msgstr ""
 "Llançarem una nova API molt aviat, així que si us plau, estigueu atents. Per "
-"saber més sobre la nostra API actual i les nostres Dades Obertes "
-"Enllaçades,  visiteu les seves pàgines a"
+"saber més sobre la nostra API actual i les nostres Dades Obertes Enllaçades, "
+"visiteu les seves pàgines a"
 
 #: templates/static_pages/explore.html:3
 #: templates/static_pages/followus.html:3
@@ -3506,6 +3508,10 @@ msgid ""
 "that symbolize the Arts and Sciences. In the background are two men in a "
 "workshop."
 msgstr ""
+"La personificació femenina d'Europea s'asseu damunt d'un cavall en una "
+"biblioteca. A les seves mans un ceptre i una cornucòpia. L'acompanyen "
+"angelets amb atributs que simbolitzen les Arts i les Ciències. Al fons, dos "
+"homes en un taller."
 
 #: templates/static_pages/prop_file.html:445
 msgid ""
@@ -3532,6 +3538,10 @@ msgid ""
 "playback their newest hit. Broadcast on 18 February 1974 by Dutch public "
 "broadcaster AVRO"
 msgstr ""
+"Toppop és el primer programa setmanal sobre música pop a la televisió "
+"holandesa. Artistes destacats vénen a l'estudi - sovint amb estranys "
+"accessoris i equips - per reproduir els seus èxits més recents. Emissió del "
+"18 de febrer de 1974 de la cadena pública holandesa AVRO"
 
 #: templates/static_pages/prop_file.html:475
 msgid ""
@@ -3539,6 +3549,9 @@ msgid ""
 "location is not clear. From left to right: J.H. v.d. Berg, m. Dale and j. "
 "Vasquez."
 msgstr ""
+"Tres membres del personal de la fàbrica de cervesa Phoenix en un camió de "
+"l'empresa. La ubicació no està clara. D'esquerra a dreta: J.H.V.D. Berg, M. "
+"Dale i J. Vasquez."
 
 #: templates/static_pages/prop_file.html:486
 msgid ""
@@ -4415,7 +4428,7 @@ msgstr "Camps Europeana"
 
 #: templates/static_pages/sitemap.html:63
 msgid "API1-API2 compatability"
-msgstr ""
+msgstr "Compatibilitat API1-API2"
 
 #: templates/static_pages/sitemap.html:92
 msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
@@ -4439,7 +4452,7 @@ msgstr "Drets d'autor desconeguts"
 
 #: templates/static_pages/sitemap.html:107
 msgid "Orphan work - Free access"
-msgstr ""
+msgstr "Obra orfe - Accés lliure"
 
 #: templates/static_pages/storyline.html:4
 msgid "Europeana - Storyline and credits"
@@ -4892,7 +4905,7 @@ msgid ""
 "while you are here. Learn more about"
 msgstr ""
 "Benvinguts a Europeana. Aquesta pàgina descriu algunes de les accions que hi "
-"podeu fer. Aprengueu més sobre"
+"podeu fer i proporciona més informació sobre"
 
 #: templates/static_pages/usingeuropeana.html:14
 msgid "Search tips"
@@ -4911,7 +4924,7 @@ msgstr "Cerca per frase"
 #: templates/static_pages/usingeuropeana.html:14
 #: templates/static_pages/usingeuropeana_search.html:43
 msgid "Exclude words"
-msgstr "Excloure paraules"
+msgstr "Excloure paraules. "
 
 #: templates/static_pages/usingeuropeana.html:14
 msgid "Auto-completion"
@@ -4967,15 +4980,15 @@ msgstr "i Citar"
 
 #: templates/static_pages/usingeuropeana.html:21
 msgid "Saving searches"
-msgstr "Guardant cerques"
+msgstr "Guardar cerques"
 
 #: templates/static_pages/usingeuropeana.html:21
 msgid "Saving items"
-msgstr "Guardant ítems"
+msgstr "Guardar ítems"
 
 #: templates/static_pages/usingeuropeana.html:21
 msgid "and Adding tags"
-msgstr "i Afegint-hi etiquetes"
+msgstr "i Afegir etiquetes"
 
 #: templates/static_pages/usingeuropeana_explore.html:3
 msgid "Europeana - Exploring Europeana"
@@ -4987,6 +5000,9 @@ msgid ""
 "ways to explore and navigate through our millions of objects. You can "
 "discover Europe's rich heritage by browsing"
 msgstr ""
+"A més de la cerca i les opcions de filtre, Europeana ofereix formes "
+"alternatives per explorar i navegar pels milions d'objectes. Podeu descobrir "
+"el ric patrimoni d'Europa fullejant"
 
 #: templates/static_pages/usingeuropeana_explore.html:14
 msgid ""
@@ -4995,18 +5011,22 @@ msgid ""
 "information that guides you through the themes, the virtual exhibitions can "
 "be found by choosing the"
 msgstr ""
+"Les nostres exposicions virtuals us ajuden a descobrir i saber més sobre "
+"temes específics, per exemple,  Art Noveau o instruments musicals. Amb una "
+"àmplia informació seleccionada amb cura que us guia pels temes, podeu trobar "
+"les exposicions virtuals seleccionant l'enllaç"
 
 #: templates/static_pages/usingeuropeana_explore.html:14
 msgid "link at the foot of the page."
-msgstr ""
+msgstr "al peu de la pàgina"
 
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid ""
 "See the latest contributions from our partner museums, libraries, archives "
 "and audiovisual archives by choosing"
 msgstr ""
-"Escolliu per veure les darreres contribucions dels nostres socis,  museus, "
-"arxius, biblioteques i col·leccions audiovisuals."
+"Per veure les darreres contribucions dels nostres socis:  museus, arxius, "
+"biblioteques i col·leccions audiovisuals, escolliu"
 
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "View more latest content from our partners"
@@ -5018,7 +5038,7 @@ msgstr "a la pestanya"
 
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "area"
-msgstr "àrea"
+msgstr "     "
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:3
 msgid "Europeana - Using My Europeana"
@@ -5075,7 +5095,7 @@ msgstr ""
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:20
 msgid "and click on the relevant action from the menu."
-msgstr ""
+msgstr "i fent clic a l'acció del menú que desitgeu."
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:21
 msgid "To view your saved items, searches and tags, use the"
@@ -5218,6 +5238,11 @@ msgid ""
 "main thumbnail. You can select items in the carousel or the left and right "
 "arrows on the main thumbnail to browse the images."
 msgstr ""
+"Si hi ha múltiples imatges d'un mateix objecte, ex. les pàgines d'un llibre "
+"o diferents visualitzacions, es mostrarà un carrusel d'imatges sota la "
+"miniatura principal. Podeu seleccionar ítems del carrusel o u utilitzar les "
+"fletxes situades a l'esquerra i la dreta de la miniatura principal per a "
+"fullejar les imatges."
 
 #: templates/static_pages/usingeuropeana_results.html:37
 msgid "Rights and licensing"
@@ -5335,16 +5360,20 @@ msgid ""
 "Welcome to Europeana. This page describes some of the things that you can do "
 "while you are here. Learn more about:"
 msgstr ""
+"Benvinguts a Europeana. Aquesta pàgina descriu algunes de les accions que hi "
+"podeu fer i proporciona més informació sobre"
 
 #: templates/static_pages/usingeuropeana_search.html:13
 msgid ""
 "Search tips, refined search, phrase search, exclude words, auto-completion, "
 "filter results, share your search."
 msgstr ""
+"Consells de cerca, cerca afinada, cerca per frase, excloure paraules, "
+"autocompleció, filtrar resultats, compartir la vostra cerca."
 
 #: templates/static_pages/usingeuropeana_search.html:14
 msgid "exhibitions, new content."
-msgstr ""
+msgstr "Exposicions, nou contingut."
 
 #: templates/static_pages/usingeuropeana_search.html:15
 msgid ""
@@ -5352,10 +5381,13 @@ msgid ""
 "searching on external services, related searches on Europeana, viewing item "
 "on provider's site, embedding, and citing."
 msgstr ""
+"Veure més detalls, drets, llicències, traducció, cerca a serveis externs, "
+"relacionar cerques a Europeana, veure els ítems a la web del proveïdor, "
+"incrustar i citar. "
 
 #: templates/static_pages/usingeuropeana_search.html:16
 msgid "Saving searches, saving items, and adding tags."
-msgstr ""
+msgstr "Guardar les cerques, guardar els ítems, i afegir-ne etiquetes."
 
 #: templates/static_pages/usingeuropeana_search.html:19
 msgid "General Search"
@@ -5366,6 +5398,8 @@ msgid ""
 "Searching the millions of items in Europeana is simple. Just enter your "
 "search term and hit"
 msgstr ""
+"Cercar entre els milions d'ítems d'Europeana és senzill. Només cal que "
+"entreu un terme i premeu"
 
 #: templates/static_pages/usingeuropeana_search.html:23
 msgid "Specific search"
@@ -5373,7 +5407,7 @@ msgstr "Cerca específica"
 
 #: templates/static_pages/usingeuropeana_search.html:25
 msgid "You can narrow your search with the arrow to the right of"
-msgstr ""
+msgstr "Podeu restringir la vostra cerca amb la fletxa a la dreta de"
 
 #: templates/static_pages/usingeuropeana_search.html:25
 msgid "Search All fields"
@@ -5414,7 +5448,7 @@ msgstr "Utilitzeu l'enllaç a la"
 #: templates/static_pages/usingeuropeana_search.html:33
 #: templates/static_pages/usingeuropeana_search.html:34
 msgid "filter or enter"
-msgstr ""
+msgstr "filtrar o introduir"
 
 #: templates/static_pages/usingeuropeana_search.html:31
 msgid ""
@@ -5428,7 +5462,7 @@ msgid ""
 "will narrow your results to van Gogh's works, excluding photographs of the "
 "artist or documentaries about him and his work."
 msgstr ""
-"afinarà els vostres resultats a les obres de van Gogh, i s'excluoran "
+"restringirà els vostres resultats a les obres de van Gogh, i s'exclouran "
 "fotografies de l'artista o documentals sobre ell i la seva obra."
 
 #: templates/static_pages/usingeuropeana_search.html:32
@@ -5441,12 +5475,12 @@ msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:32
 msgid "will narrow your results to maps, or"
-msgstr "afinarà els vostres resultats a mapes, o"
+msgstr "restringirà els vostres resultats a mapes, o"
 
 #: templates/static_pages/usingeuropeana_search.html:32
 msgid ""
 "will display artworks, buildings and monuments done in the Art Nouveau style."
-msgstr "mostrarà obres d'art, edificis i monuments modernistes."
+msgstr "es mostraran obres d'art, edificis i monuments modernistes."
 
 #: templates/static_pages/usingeuropeana_search.html:33
 msgid "Place"
@@ -5497,7 +5531,7 @@ msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:41
 msgid "is also possible. Just put"
-msgstr "també és possible. Poseu"
+msgstr ". Poseu"
 
 #: templates/static_pages/usingeuropeana_search.html:41
 msgid "quotation marks"
@@ -5517,11 +5551,11 @@ msgstr "entre les paraules clau (ex."
 
 #: templates/static_pages/usingeuropeana_search.html:43
 msgid "by typing"
-msgstr "escrivint "
+msgstr "Escriviu"
 
 #: templates/static_pages/usingeuropeana_search.html:43
 msgid "in capital letters, followed by the word you want to omit (e.g."
-msgstr "en majúscules, seguit de la paraula que es vol ometre (ex. "
+msgstr "en majúscules, seguit de la paraula que voleu ometre (ex. "
 
 #: templates/static_pages/usingeuropeana_search.html:45
 msgid "Another helpful search feature is"
@@ -5546,8 +5580,8 @@ msgstr "Afinar la cerca"
 msgid ""
 "Once you have done an initial search, results can be narrowed down with the"
 msgstr ""
-"Una vegada hagueu fet una cerca inicial, podeu reduir els resultats amb la "
-"funció"
+"Una vegada hagueu fet una cerca inicial, podeu restringir els resultats amb "
+"la funció"
 
 #: templates/static_pages/usingeuropeana_search.html:49
 msgid ""
@@ -5555,10 +5589,12 @@ msgid ""
 "add more keywords to your search, thereby narrowing the search results. Just "
 "type your keyword into the"
 msgstr ""
+"del requadre gris de la pantalla de resultats, afegint-hi més paraules clau. "
+"Teclegeu les paraules clau dins "
 
 #: templates/static_pages/usingeuropeana_search.html:49
 msgid "field and hit"
-msgstr ""
+msgstr "i premeu"
 
 #: templates/static_pages/usingeuropeana_search.html:49
 msgid "The keyword is displayed at the top of the pane, under"
@@ -5582,7 +5618,7 @@ msgstr "Podeu també"
 
 #: templates/static_pages/usingeuropeana_search.html:53
 msgid "filter your search results:"
-msgstr ""
+msgstr "filtrar els resultats:"
 
 #: templates/static_pages/usingeuropeana_search.html:55
 msgid ""
@@ -5627,7 +5663,7 @@ msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:60
 msgid "will display only objects from selected institutions"
-msgstr "mostrarà només els objectes de les institucions seleccionades"
+msgstr "es mostraran només els objectes de les institucions seleccionades"
 
 #: templates/static_pages/usingeuropeana_search.html:63
 msgid ""
@@ -5635,6 +5671,10 @@ msgid ""
 "check boxes for the categories you wish the search results to include. The "
 "results will refresh automatically. The filter will be added to the"
 msgstr ""
+"Seleccioneu el nom del filtre, ex. \"Per llengua\" per desplegar-lo. "
+"Després, utilitzeu les caselles de verificació per seleccionar les "
+"categories que voleu que incloguin els resultats. Aquests s'actualitzaran "
+"automàticament.  "
 
 #: templates/static_pages/usingeuropeana_search.html:63
 msgid "list at the top of the pane."
@@ -5991,6 +6031,9 @@ msgid ""
 "bigger image slideshow, a featured partner section and a great carousel "
 "highlighting our latest pins on Pinterest."
 msgstr ""
+"La nova pàgina d'inici posa l'èmfasi en el contingut que seleccionem, amb "
+"una presentació d'imatges més gran, una secció de socis destacats i un gran "
+"carrusel per a ressaltar els nostres darrers pins a Pinterest."
 
 #: templates/static_pages/whatsnew.html:19
 msgid ""
@@ -5998,14 +6041,17 @@ msgid ""
 "(Application Programming Interface) v2.0 with an improved console and new "
 "features. Register for API keys"
 msgstr ""
+"Per als que sou desenvolupadors, també hem llançat l'API d'Europeana "
+"(Application Programming Interface) v2.0 amb una consola millorada i noves "
+"característiques. Registreu-vos per obtenir les claus API"
 
 #: templates/static_pages/whatsnew.html:19
 msgid "here"
-msgstr ""
+msgstr "aquí"
 
 #: templates/static_pages/whatsnew.html:21
 msgid "We hope you enjoy using the new-look Europeana."
-msgstr ""
+msgstr "Esperem que us agradi el nou disseny d'Europeana."
 
 #~ msgid "Europeana - Terms for User Contributions"
 #~ msgstr "Europeana - Condicions per a les contribucions d'usuaris"
