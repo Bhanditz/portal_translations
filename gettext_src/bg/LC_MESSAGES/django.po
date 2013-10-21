@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-21 14:14+0200\n"
+"POT-Creation-Date: 2013-10-21 16:48+0200\n"
 "PO-Revision-Date: 2013-10-21 08:50\n"
 "Last-Translator: Bulgarian  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -140,8 +140,9 @@ msgstr "История"
 
 #: templates/leftmenu.html:9 templates/static_pages/prop_file.html:916
 #: templates/static_pages/prop_file.html:917
+#, fuzzy
 msgid "All providers"
-msgstr ""
+msgstr "По доставчик"
 
 #: templates/leftmenu.html:10 templates/static_pages/aboutus_enews.html:11
 #: templates/static_pages/prop_file.html:921
@@ -1046,14 +1047,18 @@ msgid "Feedback Form [title may differ in different languages]"
 msgstr "Форма за обратна връзка"
 
 #: templates/rights/privacy.html:90
+#, fuzzy
 msgid ""
 "If you encounter any problem using this site or wish to make general "
 "comments/suggestions, please use this"
 msgstr ""
+"При възникване на някакви проблеми при използването на този сайт или ако "
+"желаете да направите някакви общи коментари или предложения, моля използвайте"
 
 #: templates/rights/privacy.html:90
+#, fuzzy
 msgid "contact form"
-msgstr ""
+msgstr "contact.html"
 
 #: templates/rights/privacy.html:92
 msgid ""
@@ -1577,12 +1582,14 @@ msgid "See the storyline and image credits for the Europeana video (above)"
 msgstr "Вижте историята и изображенията разказани във видеото (по-горе)"
 
 #: templates/static_pages/aboutus_enews.html:4
+#, fuzzy
 msgid "Europeana newsletters"
-msgstr ""
+msgstr "Europeana - Помощ"
 
 #: templates/static_pages/aboutus_enews.html:15
+#, fuzzy
 msgid "Discover Europeana's hand-picked collections"
-msgstr ""
+msgstr "Изследвайте Европейските колекции от културни материали"
 
 #: templates/static_pages/aboutus_enews.html:16
 #: templates/static_pages/aboutus_enews.html:26
@@ -3551,12 +3558,14 @@ msgid "Subscribe"
 msgstr "Абонирайте се"
 
 #: templates/static_pages/prop_file.html:502
+#, fuzzy
 msgid "Europana 1989 - now live!"
-msgstr ""
+msgstr "Europeana - карта на сайта"
 
 #: templates/static_pages/prop_file.html:505
+#, fuzzy
 msgid "Europeana 1989 - now live"
-msgstr ""
+msgstr "Europeana - карта на сайта"
 
 #: templates/static_pages/prop_file.html:506
 msgid "Journey through the fall of the Iron Curtain."
@@ -4077,8 +4086,9 @@ msgid "What"
 msgstr "Какво"
 
 #: templates/static_pages/prop_file.html:819
+#, fuzzy
 msgid "api-introduction.html"
-msgstr ""
+msgstr "Въведение"
 
 #: templates/static_pages/prop_file.html:822
 #: templates/static_pages/prop_file.html:826
@@ -4101,8 +4111,9 @@ msgid "contact.html"
 msgstr "contact.html"
 
 #: templates/static_pages/prop_file.html:831
+#, fuzzy
 msgid "sitemap.html"
-msgstr ""
+msgstr "Карта на сайта"
 
 #: templates/static_pages/prop_file.html:836
 #: templates/static_pages/usingeuropeana_myeuropeana.html:17
@@ -4368,76 +4379,90 @@ msgid "Searching in Europeana"
 msgstr "Търсене в Europeana"
 
 #: templates/static_pages/sitemap.html:39
+#, fuzzy
 msgid "All Providers"
-msgstr ""
+msgstr "Доставчик"
 
 #: templates/static_pages/sitemap.html:41
+#, fuzzy
 msgid "Press Centre (on Europeana Professional)"
-msgstr ""
+msgstr "Europeana Professional"
 
 #: templates/static_pages/sitemap.html:42
+#, fuzzy
 msgid "Jobs (on Europeana Professional)"
-msgstr ""
+msgstr "Europeana Professional"
 
 #: templates/static_pages/sitemap.html:43
+#, fuzzy
 msgid "Partners (on Europeana Professional)"
-msgstr ""
+msgstr "Europeana Professional"
 
 #: templates/static_pages/sitemap.html:53
 msgid "Data structure"
 msgstr ""
 
 #: templates/static_pages/sitemap.html:54
+#, fuzzy
 msgid "API Methods"
-msgstr ""
+msgstr "API ключ"
 
 #: templates/static_pages/sitemap.html:56
+#, fuzzy
 msgid "OpenSearch"
-msgstr ""
+msgstr "Търси"
 
 #: templates/static_pages/sitemap.html:57
+#, fuzzy
 msgid "Record"
-msgstr ""
+msgstr "Идентификатор на записа"
 
 #: templates/static_pages/sitemap.html:59
+#, fuzzy
 msgid "Suggestions"
-msgstr ""
+msgstr "Предложения за изписване"
 
 #: templates/static_pages/sitemap.html:61
 msgid "Query Syntax"
 msgstr ""
 
 #: templates/static_pages/sitemap.html:62
+#, fuzzy
 msgid "Europeana Fields"
-msgstr ""
+msgstr "Europeana - Помощ"
 
 #: templates/static_pages/sitemap.html:63
 msgid "API1-API2 compatability"
 msgstr ""
 
 #: templates/static_pages/sitemap.html:92
+#, fuzzy
 msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
-msgstr ""
+msgstr "Europeana - договор за сътрудничество"
 
 #: templates/static_pages/sitemap.html:103
+#, fuzzy
 msgid "Rights Reserved - Free access"
-msgstr ""
+msgstr "Europeana: Права за ползване – Свободен достъп"
 
 #: templates/static_pages/sitemap.html:104
+#, fuzzy
 msgid "Rights Reserved - Restricted access"
-msgstr ""
+msgstr "Europeana - Права за ползване – Ограничен достъп"
 
 #: templates/static_pages/sitemap.html:105
+#, fuzzy
 msgid "Rights Reserved - Paid access"
-msgstr ""
+msgstr "Europeana - Права за ползване – Платен достъп"
 
 #: templates/static_pages/sitemap.html:106
 msgid "Unknown copyright status"
 msgstr "Незивестни или неуточнени права за ползване"
 
 #: templates/static_pages/sitemap.html:107
+#, fuzzy
 msgid "Orphan work - Free access"
-msgstr ""
+msgstr "Europeana: Права за ползване – Свободен достъп"
 
 #: templates/static_pages/storyline.html:4
 msgid "Europeana - Storyline and credits"
@@ -4999,10 +5024,13 @@ msgid "link at the foot of the page."
 msgstr "разположен в долната част на страницата."
 
 #: templates/static_pages/usingeuropeana_explore.html:15
+#, fuzzy
 msgid ""
 "See the latest contributions from our partner museums, libraries, archives "
 "and audiovisual archives by choosing"
 msgstr ""
+"Вижте най-новото съдържание постъпило от нашите парньори: музеи, библиотеки, "
+"архиви и аудиовизуални архиви като изберете линка"
 
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "View more latest content from our partners"
@@ -5481,11 +5509,15 @@ msgid "filter or enter"
 msgstr "или въведете ключа"
 
 #: templates/static_pages/usingeuropeana_search.html:31
+#, fuzzy
 msgid ""
 "followed by a name of, for example, an actor, author or architect. Your "
 "results will display only items for which the name you entered is listed as "
 "the creator. For example, searching for"
 msgstr ""
+"последван от името, например на автор, актьор или архитект. Резултатите ще "
+"включват само обекти, за които търсената от вас личност е посочена като "
+"създател. Например търсите"
 
 #: templates/static_pages/usingeuropeana_search.html:31
 msgid ""
@@ -5781,8 +5813,11 @@ msgstr ""
 "включени и възможностите за печат и изпращане по е-мейл. "
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:3
+#, fuzzy
 msgid "Europeana - How to configure your search widget"
 msgstr ""
+"Какво редставлява Външно приложение за търсене (Remote search widget) в "
+"Europeana?"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:9
 msgid "How to configure your search widget"
@@ -5804,29 +5839,35 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:12
+#, fuzzy
 msgid "The Europeana Search Widget works with..."
-msgstr ""
+msgstr "Europeana приложение за търсене"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:13
 #: templates/static_pages/usingeuropeana_searchwidget.html:15
+#, fuzzy
 msgid "Information to follow."
-msgstr ""
+msgstr "Каква информация събираме?"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:14
+#, fuzzy
 msgid "The Europeana Search Widget doesn't work with..."
-msgstr ""
+msgstr "Europeana приложение за търсене"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:16
+#, fuzzy
 msgid "Set up your Europeana Search Widget:"
-msgstr ""
+msgstr "Europeana приложение за търсене"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:18
+#, fuzzy
 msgid "Go to the search widget page."
-msgstr ""
+msgstr "Външно приложение за търсене"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:19
+#, fuzzy
 msgid "Introduction tab"
-msgstr ""
+msgstr "Въведение"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:19
 msgid ""
@@ -5847,12 +5888,14 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:21
+#, fuzzy
 msgid "To tailor your search widget"
-msgstr ""
+msgstr "филтрирате резултатите от търсенето:"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:23
+#, fuzzy
 msgid "Keyword search"
-msgstr ""
+msgstr "Ограничи търсенето"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:23
 msgid ""
@@ -5871,8 +5914,9 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:25
+#, fuzzy
 msgid "Search on types"
-msgstr ""
+msgstr "Съвети при търсене"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:25
 msgid ""
@@ -5898,8 +5942,9 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:27
+#, fuzzy
 msgid "Countries"
-msgstr ""
+msgstr "Държава"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:27
 msgid ""
@@ -5912,8 +5957,9 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:28
+#, fuzzy
 msgid "Media types"
-msgstr ""
+msgstr "Вид на материала"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:28
 msgid ""
@@ -5927,8 +5973,9 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:29
+#, fuzzy
 msgid "Copyright"
-msgstr ""
+msgstr "По копирайт права"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:29
 msgid ""
@@ -5945,24 +5992,28 @@ msgid "More information on the CC licenses"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:31
+#, fuzzy
 msgid "More information on the Rights Reserved - Free Access label"
-msgstr ""
+msgstr "Europeana: Права за ползване – Свободен достъп"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:32
+#, fuzzy
 msgid "More information on the Rights Reserved - Restricted Access label"
-msgstr ""
+msgstr "Europeana - Права за ползване – Ограничен достъп"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:33
+#, fuzzy
 msgid "More information on the Rights Reserved - Paid Access label"
-msgstr ""
+msgstr "Europeana - Права за ползване – Платен достъп"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:34
 msgid "More information on the Unknown rights label"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:35
+#, fuzzy
 msgid "Languages"
-msgstr ""
+msgstr "Език"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:35
 msgid ""
@@ -5995,8 +6046,9 @@ msgid "Tap 'Next' or the 'Preview' tab heading."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:40
+#, fuzzy
 msgid "Preview tab"
-msgstr ""
+msgstr "Преглед"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:40
 msgid ""
@@ -6126,13 +6178,6 @@ msgstr ""
 #~ "направите това е да запазите непроменена връзката към CC0 Public Domain. "
 
 #~ msgid ""
-#~ "Floral composition range of Pinks, yellows and grpartner museums, "
-#~ "libraries, archives and audiovisual archives by choosing"
-#~ msgstr ""
-#~ "Вижте най-новото съдържание постъпило от нашите парньори: музеи, "
-#~ "библиотеки, архиви и аудиовизуални архиви като изберете линка"
-
-#~ msgid ""
 #~ "Please read our Privacy Policy Statement to find out what information we "
 #~ "log and how we use it. We collect the following: Log Files, cookies and "
 #~ "information that we explicitly ask you to provide about yourself upon "
@@ -6152,14 +6197,6 @@ msgstr ""
 
 #~ msgid "Europeana Terms for User Contributions"
 #~ msgstr "Europeana условия за принос на потребителите"
-
-#~ msgid ""
-#~ "Follow ults will display only items for which the name you entered is "
-#~ "listed as the creator. For example, searching for"
-#~ msgstr ""
-#~ "последван от името, например на автор, актьор или архитект. Резултатите "
-#~ "ще включват само обекти, за които търсената от вас личност е посочена "
-#~ "като създател. Например търсите"
 
 #~ msgid "Follow U"
 #~ msgstr "Следвай ни"
@@ -6295,9 +6332,6 @@ msgstr ""
 
 #~ msgid "Previous Newsletters"
 #~ msgstr "Архив"
-
-#~ msgid "Europeana - eNews"
-#~ msgstr "Europeana - Помощ"
 
 #~ msgid ""
 #~ "Europeana produces a newsletter in English and releases important "
@@ -7274,15 +7308,6 @@ msgstr ""
 #~ msgid "Common Fields"
 #~ msgstr "Общности"
 
-#~ msgid "Europeana: Rights Reserved - Free Access"
-#~ msgstr "Europeana: Права за ползване – Свободен достъп"
-
-#~ msgid "Europeana: Rights Reserved - Restricted Access"
-#~ msgstr "Europeana - Права за ползване – Ограничен достъп"
-
-#~ msgid "Europeana: Rights Reserved - Paid Access"
-#~ msgstr "Europeana - Права за ползване – Платен достъп"
-
 #~ msgid "Europeana: Unknown copyright status"
 #~ msgstr "Europeana - Права за ползване – Неизвестни"
 
@@ -7901,14 +7926,6 @@ msgstr ""
 
 #~ msgid "Privacy policy"
 #~ msgstr "Защита на личните данни"
-
-#~ msgid ""
-#~ "If you encounter any problem using this site or wish to make general "
-#~ "comments/suggestions, please use"
-#~ msgstr ""
-#~ "При възникване на някакви проблеми при използването на този сайт или ако "
-#~ "желаете да направите някакви общи коментари или предложения, моля "
-#~ "използвайте"
 
 #~ msgid "this form"
 #~ msgstr "тази форма"
