@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-03-21 21:37+0100\n"
-"PO-Revision-Date: 2013-10-20 12:02\n"
+"PO-Revision-Date: 2013-10-27 14:57\n"
 "Last-Translator: Ukrainian  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -833,6 +833,13 @@ msgid ""
 "By using our website you consent to the terms of the Privacy Statement hereby described. However, you have the right to prevent the use of your personal data for personalised services and marketing as well as to request not to be further contacted by us.\n"
 "If you wish to be informed about the personal data collected about you, or to have this data corrected or removed, or have any other question with regards to this statement, please contact"
 msgstr ""
+"Використовуючи наш вебсайт \n"
+"ви погоджуєтесь із умовами приватності, що описані тут.\n"
+"Доречі, ви маєте право захистити використання ваших приватних даних для персоналізованих послуг та маркетингу, \n"
+"так само як ви можете надіслати запит, \n"
+"щоб запобігти контактуванню із нами в майбутньому.\n"
+"Якщо ви бажаєте бути проінформованими щодо персональних даних, \n"
+"що зібрані вами або якщо вам необхідно відкоригувати чи видалити їх, або якщо ви маєте будь яке інше питання, щодо цього положення, будьте ласкаві звертайтесь."
 
 #: templates/rights/privacy.html:85 templates/tou/privacy.html:80
 msgid "Date of creation of the Privacy Statement"
@@ -1003,7 +1010,7 @@ msgstr "містить політики Європіана"
 
 #: templates/rights/terms-and-policies.html:37
 msgid "The"
-msgstr ""
+msgstr " "
 
 #: templates/rights/terms-and-policies.html:37
 msgid "policy details how we treat personal information that we have collected from our users.  The"
@@ -1015,15 +1022,15 @@ msgstr "політика описує політику Європіана щод
 
 #: templates/rights/terms-and-policies.html:37
 msgid "describes Europeana's aim to provide functionality and content that is universally accessible. In this section you will also find the"
-msgstr ""
+msgstr "описує можливості Europeana, щодо надання функціональності та контенту, що є універсалтно доступним. У цьому розділі ви також знайдете "
 
 #: templates/rights/terms-and-policies.html:37
 msgid "Europeana Public Domain Charter"
-msgstr "Хартія суспільного надбання Європіана "
+msgstr "Хартія Суспільного Надбання Європіана "
 
 #: templates/rights/terms-and-policies.html:37
 msgid "that explains Europeana's contribution to strengthening the digital Public Domain"
-msgstr "що визначає внескі Європіана для підсилення суспільного надбання"
+msgstr "що визначає внескі Європіана задля підсилення статусу Суспільного Надбання"
 
 #: templates/rights/terms-for-user-contributions.html:4
 msgid "Europeana - Terms for User Contributions"
@@ -1044,6 +1051,9 @@ msgstr "Європіана Умови використання"
 #: templates/rights/terms-of-use.html:18
 msgid "The Europeana.eu website is run by the Europeana Foundation and gives access to a wide range of digitised cultural heritage from across Europe and beyond. This material is provided to Europeana by a large number of contributing institutions and organisations. Europeana strives to make all resources on this website available for re-use. As part of this, all metadata (textual information on digitised cultural heritage) on the site are published without any restrictions on re-use. Most other material, such as the previews to digitised cultural heritage, is clearly labelled with rights statements that indicate if and under which conditions it can be re-used."
 msgstr ""
+"Вебсайт Europeana.eu створений Європіана Фондейшн та надає доступ до великоі кількості оцифрованої культурної спадщини із Європи та із інших країн.\n"
+"Цей матеріал, надається Європіана великою кількістю інституцій та організацій. Європіана прагне зробити всі ресурси цього сайту доступними для повторного використання. Таким чином, усі метадані ( текстова інформація про оцифровану культурну спадщину ) на цьому сайті публікуються без жодних обмежень щодо повторного використання. \n"
+"Більшість іншіх матеріалів, як превью оцифрованої культурної спадщини, чітко позначені положеннями прав, що вказують чи є можливість та за яких обставин вони можуть бути повторно використані."
 
 #: templates/rights/terms-of-use.html:21
 msgid "Metadata"
@@ -1068,6 +1078,8 @@ msgstr "Репродукції"
 #: templates/rights/terms-of-use.html:34
 msgid "The previews that are shown on Europeana.eu can only be used in accordance with the rights information displayed alongside them (the badges underneath the previews). If there is no rights information displayed alongside a preview, these previews may only be used in accordance with the applicable copyright laws. However, in the latter event, please refer to the website of the data provider to find out whether other types of use are also allowed."
 msgstr ""
+"Репродукції, що доступні на Europeana.eu можуть використовуватись лише згідно правовоі інформації, що відображається поряд із ними ( значки під репродукціями ). Якщо правова інформація не відображається біля репродукції, ця репродукція можуе бути використана лише згідно відповідного авторського права. Доречі, \n"
+"в майбутньому, будьте ласкаві, звертайтесь до вебсайту постачальника даних, щоб дізнатись чи дозволене використання в інший спосіб."
 
 #: templates/rights/terms-of-use.html:37
 msgid "Notice and Takedown"
@@ -1156,7 +1168,7 @@ msgstr "Знайшли щось, що вам подобається? Заван�
 
 #: templates/static_pages/aboutus.html:23
 msgid "Europeana is the trusted source of cultural heritage brought to you by the Europeana Foundation and a large number of European cultural institutions, projects and partners. It’s a real piece of team work."
-msgstr "Європіана це надійне джерело культурної спадщини, що донесено до вас Фондами Європіана та великою кількістю Євпропейських культурних інституцій, проектів та партнерів. Це реальна частка командної праці."
+msgstr "Європіана це надійне джерело культурної спадщини, що донесено до вас Європіана Фондейшн та великою кількістю Євпропейських культурних інституцій, проектів та партнерів. Це реальна частка командної праці."
 
 #: templates/static_pages/aboutus.html:25
 #: templates/static_pages/aboutus1.html:26
@@ -1486,7 +1498,7 @@ msgstr "Яка організаційна структура Європіана?
 
 #: templates/static_pages/aboutus_faqs1.html:76
 msgid "The Europeana Foundation is the governing body of the Europeana service. A legal entity under Dutch law, Stichting Europeana comprises the heads of international associations responsible for cultural heritage. The Foundation comprises an Executive Committee, a Board of Participants, and the Council of Content Providers and Aggregators."
-msgstr "Організація Європіана це керуючий орган сервісу  Європіана. Сервіс зареєстрований згідно із законами королевства Нідерланди, Керівництво Європіана включає голів міжнародних організацій відповідальних за культурну спадщину. Організація складається із Виконавчого Комітету, Ради Учасників, а також Ради контент провайдерів та Агрегаторів."
+msgstr "Європіана Фондейшн це керуючий орган сервісу  Європіана. Сервіс зареєстрований згідно із законами королевства Нідерланди, Керівництво Європіана включає голів міжнародних організацій відповідальних за культурну спадщину. Організація складається із Виконавчого Комітету, Ради Учасників, а також Ради контент провайдерів та Агрегаторів."
 
 #: templates/static_pages/aboutus_faqs1.html:78
 msgid "Content on Europeana"
@@ -4819,7 +4831,7 @@ msgstr "Інші сайти Європіана"
 
 #: templates/static_pages/prop_file.html:860
 msgid "Europeana Exhibitions"
-msgstr ""
+msgstr "Виставки Європіана"
 
 #: templates/static_pages/prop_file.html:868
 #: templates/static_pages/sitemap.html:19
@@ -4828,17 +4840,17 @@ msgstr "Європіана 1914-1918"
 
 #: templates/static_pages/prop_file.html:873
 msgid "Remix"
-msgstr ""
+msgstr "Ремікс"
 
 #: templates/static_pages/prop_file.html:876
 #: templates/static_pages/sitemap.html:21
 #: templates/static_pages/sitemap1.html:40
 msgid "Europeana Professional"
-msgstr "Європіана Професійно"
+msgstr "Європіана Професійна"
 
 #: templates/static_pages/prop_file.html:877
 msgid "Professional"
-msgstr ""
+msgstr "Професійна"
 
 #: templates/static_pages/prop_file.html:920
 #: templates/static_pages/prop_file.html:921
@@ -4932,24 +4944,24 @@ msgstr "+ Додати"
 #: templates/static_pages/prop_file.html:958
 #: templates/static_pages/prop_file1.html:882
 msgid "Field of work"
-msgstr ""
+msgstr "Напрямок праці"
 
 #: templates/static_pages/prop_file.html:959
 #: templates/static_pages/prop_file1.html:883
 msgid "Please, select"
-msgstr ""
+msgstr "Будьте ласкаві, оберіть"
 
 #: templates/static_pages/prop_file.html:961
 msgid "Please try another search later."
-msgstr ""
+msgstr "Будьте ласкаві, спробуйте новий пошук пізніше."
 
 #: templates/static_pages/prop_file.html:962
 msgid "Unable to find the requested page"
-msgstr ""
+msgstr "Неможливо знайти вказану сторінку "
 
 #: templates/static_pages/prop_file.html:963
 msgid "Alert:"
-msgstr ""
+msgstr "Повідомлення: "
 
 #: templates/static_pages/prop_file.html:964
 msgid "Unable to find the requested Europeana Record."

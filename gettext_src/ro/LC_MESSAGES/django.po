@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-03-21 21:40+0100\n"
-"PO-Revision-Date: 2013-10-14 15:53\n"
+"PO-Revision-Date: 2013-10-25 11:16\n"
 "Last-Translator: Romanian  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -341,7 +341,7 @@ msgstr "Public Domain Charter [Carta Domeniului Public]"
 #: templates/static_pages/usingeuropeana.html:9
 #: templates/static_pages/usingeuropeana1.html:9
 msgid "Help"
-msgstr ""
+msgstr "Asistență"
 
 #: templates/usingeuropeana_leftmenu.html:5
 #: templates/usingeuropeana_leftmenu1.html:5
@@ -358,7 +358,7 @@ msgstr ""
 #: templates/static_pages/usingeuropeana_search.html:13
 #: templates/static_pages/usingeuropeana_search1.html:9
 msgid "Searching Europeana"
-msgstr ""
+msgstr "Europeana: interogarea"
 
 #: templates/usingeuropeana_leftmenu.html:6
 #: templates/usingeuropeana_leftmenu1.html:6
@@ -378,7 +378,7 @@ msgstr ""
 #: templates/static_pages/usingeuropeana_explore1.html:9
 #: templates/static_pages/usingeuropeana_search.html:14
 msgid "Exploring Europeana"
-msgstr ""
+msgstr "Europeana: explorarea"
 
 #: templates/usingeuropeana_leftmenu.html:8
 #: templates/usingeuropeana_leftmenu1.html:8
@@ -396,7 +396,7 @@ msgstr ""
 #: templates/static_pages/usingeuropeana_results1.html:9
 #: templates/static_pages/usingeuropeana_search.html:15
 msgid "Results in Europeana"
-msgstr "Rezultate în Europeana"
+msgstr "Europeana: rezultatele"
 
 #: templates/usingeuropeana_leftmenu.html:9
 #: templates/usingeuropeana_leftmenu1.html:9
@@ -414,14 +414,14 @@ msgstr "Rezultate în Europeana"
 #: templates/static_pages/usingeuropeana_myeuropeana1.html:9
 #: templates/static_pages/usingeuropeana_search.html:16
 msgid "Using My Europeana"
-msgstr ""
+msgstr "My Europeana: utilizarea"
 
 #: templates/usingeuropeana_leftmenu.html:10
 #: templates/static_pages/prop_file.html:900
 #: templates/static_pages/prop_file.html:901
 #: templates/static_pages/sitemap.html:31
 msgid "What's new"
-msgstr ""
+msgstr "Noutăți"
 
 #: templates/usingeuropeana_leftmenu1.html:10
 #: templates/static_pages/aboutus_faqs.html:9
@@ -434,21 +434,21 @@ msgstr "Întrebări frecvente"
 
 #: templates/rights/accessibility.html:4 templates/tou/accessibility.html:4
 msgid "Europeana - Accessibility policy"
-msgstr ""
+msgstr "Europeana: politica de accesibilitate"
 
 #: templates/rights/accessibility.html:17 templates/tou/accessibility.html:12
 msgid ""
 "Europeana.eu features and content have been designed to be universally\n"
 "accessible by users and user agents/devices. We strive to meet the WC3 Web\n"
 "Content Accessibility Guidelines Version 1.0."
-msgstr "Caracteristicile şi conţinutul Europeana.eu au fost proiectate pentru a fi universal accesibile utilizatorilor şi agenţilor/dispozitivelor utilizatorilor. Ne străduim să satisfacem cerințele Ghidului „Web Content Accessibility” a  W3C, Versiunea 1.0."
+msgstr "Caracteristicile și conținutul Europeana.eu au fost proiectate pentru a fi universal accesibile utilizatorilor şi agenților/dispozitivelor utilizatorilor. Ne străduim să satisfacem cerințele Ghidului „Web Content Accessibility” a  W3C, Versiunea 1.0."
 
 #: templates/rights/accessibility.html:22 templates/tou/accessibility.html:17
 msgid ""
 "Our User Centred Design team frequently conducts usability testing of\n"
 "Europeana.eu navigation, flow, labels, and consistency. Furthermore,\n"
 "we will produce a version &ndash; post this prototype phase &ndash; for blind individuals."
-msgstr ""
+msgstr "Echipa noastră \"User Centered Design\" [Proiectarea Centrată pe utilizator] efectuează teste de utilizabilitate a navigării, a fluxului, a etichetării și a coerenței. Mai mult, vom produce o versiune &ndash; după acest prototip &ndash; pentru nevăzători."
 
 #: templates/rights/accessibility.html:27 templates/tou/accessibility.html:22
 msgid "Some of the accessibility features of our site include"
@@ -472,11 +472,11 @@ msgstr "Utilizarea de fonturi redimensionabile"
 
 #: templates/rights/accessibility.html:34 templates/tou/accessibility.html:29
 msgid "Use Cascading Style Sheets (CSS) to separate content from presentation"
-msgstr "Utilizarea de Cascading Style Sheets (CSS) pentru a separa conţinutul de prezentare"
+msgstr "Utilizarea de Cascading Style Sheets (CSS) pentru a separa conținutul de prezentare"
 
 #: templates/rights/accessibility.html:35 templates/tou/accessibility.html:30
 msgid "Notifying a user when a link opens a new window"
-msgstr "Notificare a unui utilizator atunci când un link se deschide într-o fereastră nouă"
+msgstr "Notifică un utilizator atunci când un link se deschide într-o fereastră nouă"
 
 #: templates/rights/accessibility.html:36 templates/tou/accessibility.html:31
 msgid "The (core) functionalities are usable without JavaScript"
@@ -484,7 +484,7 @@ msgstr "Funcţionalităţile (de bază)  sunt utilizabile fără JavaScript"
 
 #: templates/rights/accessibility.html:40 templates/tou/accessibility.html:35
 msgid "Please send us any feedback or questions on the accessibility of Europeana.eu with the"
-msgstr "Vă rugăm să ne trimiteti orice feedback sau întrebare cu privire la accesibilitatea portalului Europeana.eu cu"
+msgstr "Vă rugăm să ne trimiteți orice feedback sau întrebare cu privire la accesibilitatea portalului Europeana.eu cu"
 
 #: templates/rights/accessibility.html:41 templates/tou/accessibility.html:36
 msgid "feedback form"
@@ -492,11 +492,11 @@ msgstr "formularul de feedback"
 
 #: templates/rights/api-terms-of-use.html:4
 msgid "Europeana - API Terms of Use"
-msgstr ""
+msgstr "Europeana - API: condițiile de utilizare"
 
 #: templates/rights/api-terms-of-use.html:15
 msgid "Europeana API Terms of Use"
-msgstr ""
+msgstr "API-urile Europeana: condițiile de utilizare"
 
 #: templates/rights/languagepolicy.html:4 templates/tou/languagepolicy.html:4
 msgid "Europeana - Language policy"
@@ -505,7 +505,7 @@ msgstr "Europeana - Politica lingvistică"
 #: templates/rights/languagepolicy.html:18
 #: templates/tou/languagepolicy.html:13
 msgid "Europeana.eu follows similar policy guidelines to"
-msgstr "Europeana.eu urmează linii similare politicii lingvistice ale"
+msgstr "Europeana.eu urmează linii similare politicii lingvistice a"
 
 #: templates/rights/languagepolicy.html:18
 #: templates/tou/languagepolicy.html:13
@@ -523,14 +523,14 @@ msgid ""
 "As far as possible, the aim is to provide the public with the information they\n"
 "are looking for in their own language. However, due to constraints on resources,\n"
 "this isn't always possible"
-msgstr "Pe cât posibil, scopul este de a oferi fiecăruia informaţiile pe care le caută, în propria limbă. Cu toate acestea, din cauza constrângerilor asupra resurselor, acest lucru nu este întotdeauna posibil"
+msgstr "Pe cât posibil, scopul este de a oferi fiecăruia informațiile pe care le caută, în propria limbă. Cu toate acestea, din cauza constrângerilor asupra resurselor, acest lucru nu este întotdeauna posibil"
 
 #: templates/rights/languagepolicy.html:28
 #: templates/tou/languagepolicy.html:23
 msgid ""
 "Therefore the following guidelines apply in Europa and will\n"
 "apply in Europeana.eu"
-msgstr "Prin urmare, se aplică următoarele linii directoare pe Europa.eu şi se vor aplica și  pe Europeana.eu"
+msgstr "Prin urmare, următoarele linii directoare se aplică în Europa.eu şi se vor aplica și  în Europeana.eu"
 
 #: templates/rights/languagepolicy.html:32
 #: templates/tou/languagepolicy.html:27
@@ -545,12 +545,12 @@ msgstr "Viteza de publicare este  prioritară față de disponibilitatea traduce
 #: templates/rights/languagepolicy.html:34
 #: templates/tou/languagepolicy.html:29
 msgid "Allow limited 'language mixing' (**) i.e.: where a warning sign needs to be displayed"
-msgstr "Permite limitat „mixtură de limbi” (**), i.e. în cazul în care un semn de avertizare trebuie să fie afişat"
+msgstr "Permite limitat „mixtură de limbi” (**), i.e. în cazul în care un semn de avertizare trebuie să fie afișat"
 
 #: templates/rights/languagepolicy.html:39
 #: templates/tou/languagepolicy.html:34
 msgid "(*) i.e.: the navigation, search, retrieval and display interfaces"
-msgstr "(*) i.e. interfeţele de navigare, interogare, regăsire şi afişare"
+msgstr "(*) i.e. interfețele de navigare, interogare, regăsire și afișare"
 
 #: templates/rights/languagepolicy.html:42
 #: templates/tou/languagepolicy.html:37
@@ -565,14 +565,14 @@ msgstr "În termeni practici, aceasta înseamnă următoarele"
 #: templates/rights/languagepolicy.html:49
 #: templates/tou/languagepolicy.html:44
 msgid "Tools to manage translation will be developed and maintained by Europeana.eu"
-msgstr "Europeana.eu va dezvolta şi întreține instrumente pentru a gestiona traducerile"
+msgstr "Europeana.eu va dezvolta și întreține instrumente pentru a gestiona traducerile"
 
 #: templates/rights/languagepolicy.html:50
 #: templates/tou/languagepolicy.html:45
 msgid ""
 "The completion of the translations will be the responsibility of\n"
 "each designated volunteer partner institution"
-msgstr "Finalizarea traducerilor va fi responsabilitatea instituţiilor partenere voluntare, dar acreditate"
+msgstr "Finalizarea traducerilor va fi responsabilitatea instituțiilor partenere voluntare, dar acreditate"
 
 #: templates/rights/languagepolicy.html:52
 #: templates/tou/languagepolicy.html:47
@@ -585,14 +585,14 @@ msgid ""
 "Europeana.eu will notify each designated volunteer partner\n"
 "institution should an update be required but will not chase for that\n"
 "update"
-msgstr "Europeana.eu va notifica fiecare instituţie parteneră acreditată când o actualizare ar fi necesară, dar nu va presa pentru acea actualizare"
+msgstr "Europeana.eu va notifica fiecare instituție parteneră acreditată când o actualizare ar fi necesară, dar nu va presa pentru acea actualizare"
 
 #: templates/rights/languagepolicy.html:56
 #: templates/tou/languagepolicy.html:51
 msgid ""
 "Information that is urgent or has a very short life is in\n"
 "English only e.g.: Ad-hoc error messages"
-msgstr "Informaţii urgente sau care au o viață foarte scurtă, vor fi doar în limba engleză, e.g. mesaje de eroare ad-hoc"
+msgstr "Informațiile urgente sau care au o viață foarte scurtă, vor fi doar în limba engleză, e.g. mesaje de eroare ad-hoc"
 
 #: templates/rights/languagepolicy.html:58
 #: templates/tou/languagepolicy.html:53

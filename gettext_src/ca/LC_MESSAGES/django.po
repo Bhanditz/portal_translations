@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-21 16:48+0200\n"
-"PO-Revision-Date: 2013-10-18 23:53\n"
+"POT-Creation-Date: 2013-10-28 09:59+0100\n"
+"PO-Revision-Date: 2013-10-26 11:30\n"
 "Last-Translator: Catalan  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -25,17 +25,22 @@ msgstr ""
 msgid "Europeana API"
 msgstr "API d'Europeana"
 
-#: templates/api_leftmenu.html:18 templates/static_pages/prop_file.html:988
+#: templates/api_leftmenu.html:6 templates/static_pages/prop_file.html:988
 #: templates/static_pages/prop_file.html:989
-#: templates/static_pages/sitemap.html:64
+#: templates/static_pages/sitemap.html:53
 msgid "Get an API-Key"
 msgstr "Aconsegueix una Clau API"
 
-#: templates/api_leftmenu.html:19 templates/static_pages/sitemap.html:65
+#: templates/api_leftmenu.html:7 templates/static_pages/sitemap.html:55
 msgid "API Console"
 msgstr "Cònsola API"
 
-#: templates/api_leftmenu.html:23 templates/static_pages/sitemap.html:67
+#: templates/api_leftmenu.html:11 templates/static_pages/sitemap.html:59
+#, fuzzy
+msgid "Search Widget Wizard"
+msgstr "Giny de cerca remota"
+
+#: templates/api_leftmenu.html:12 templates/static_pages/sitemap.html:60
 msgid "Europeana API Forum"
 msgstr "Fòrum de l'API d'Europeana"
 
@@ -67,7 +72,7 @@ msgstr "Exposicions"
 #: templates/static_pages/prop_file.html:911
 #: templates/static_pages/prop_file.html:912
 #: templates/static_pages/sitemap.html:38
-#: templates/static_pages/sitemap.html:75
+#: templates/static_pages/sitemap.html:87
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "New content"
 msgstr "Nou contingut"
@@ -75,7 +80,7 @@ msgstr "Nou contingut"
 #: templates/explore_leftmenu.html:9 templates/static_pages/prop_file.html:78
 #: templates/static_pages/prop_file.html:559
 #: templates/static_pages/prop_file.html:560
-#: templates/static_pages/sitemap.html:76
+#: templates/static_pages/sitemap.html:88
 #: templates/static_pages/usingeuropeana_search.html:60
 msgid "By provider"
 msgstr "Per proveïdor"
@@ -83,14 +88,14 @@ msgstr "Per proveïdor"
 #: templates/explore_leftmenu.html:10 templates/static_pages/prop_file.html:37
 #: templates/static_pages/prop_file.html:563
 #: templates/static_pages/prop_file.html:564
-#: templates/static_pages/sitemap.html:77
+#: templates/static_pages/sitemap.html:89
 msgid "Timeline"
 msgstr "Línia del temps"
 
 #: templates/explore_leftmenu.html:11
 #: templates/static_pages/prop_file.html:567
 #: templates/static_pages/prop_file.html:568
-#: templates/static_pages/sitemap.html:78
+#: templates/static_pages/sitemap.html:90
 msgid "Map"
 msgstr "Mapa"
 
@@ -106,7 +111,7 @@ msgstr "Seguiu-nos"
 #: templates/static_pages/prop_file.html:866
 #: templates/static_pages/sitemap.html:18
 msgid "Blog"
-msgstr "Bloc"
+msgstr "Blog"
 
 #: templates/followus_leftmenu.html:6
 #: templates/static_pages/prop_file.html:623
@@ -193,28 +198,28 @@ msgstr "Introducció"
 
 #: templates/terms_leftmenu.html:7
 msgid "Using our data"
-msgstr "Ús de les nostres dades"
+msgstr "Ús de les dades"
 
 #: templates/terms_leftmenu.html:9 templates/rights/terms-and-policies.html:24
-#: templates/static_pages/sitemap.html:87
+#: templates/static_pages/sitemap.html:99
 msgid "Terms of Use"
 msgstr "Condicions d'ús"
 
-#: templates/terms_leftmenu.html:10 templates/static_pages/sitemap.html:88
+#: templates/terms_leftmenu.html:10 templates/static_pages/sitemap.html:100
 msgid "Usage Guidelines for Metadata"
 msgstr "Directrius d'ús de les metadades"
 
-#: templates/terms_leftmenu.html:11 templates/static_pages/sitemap.html:89
+#: templates/terms_leftmenu.html:11 templates/static_pages/sitemap.html:101
 msgid "Public Domain Usage Guidelines"
 msgstr "Directrius d'ús del domini públic"
 
-#: templates/terms_leftmenu.html:12 templates/static_pages/sitemap.html:90
+#: templates/terms_leftmenu.html:12 templates/static_pages/sitemap.html:102
 msgid "API Terms of Use"
 msgstr "Condicions d'ús de l'API"
 
 #: templates/terms_leftmenu.html:13
 #: templates/rights/linked-data-sources.html:16
-#: templates/static_pages/sitemap.html:91
+#: templates/static_pages/sitemap.html:103
 msgid "Europeana Data Sources"
 msgstr "Fonts de dades d'Europeana"
 
@@ -226,7 +231,7 @@ msgstr "Contribució de dades"
 msgid "Europeana Data Exchange Agreement"
 msgstr "Acord d'Intercanvi de Dades d'Europeana"
 
-#: templates/terms_leftmenu.html:19 templates/static_pages/sitemap.html:93
+#: templates/terms_leftmenu.html:19 templates/static_pages/sitemap.html:105
 msgid "Terms for User Contributions"
 msgstr "Condicions per a les contribucions d'usuaris"
 
@@ -240,7 +245,7 @@ msgstr "Les nostres polítiques"
 #: templates/static_pages/prop_file.html:68
 #: templates/static_pages/prop_file.html:527
 #: templates/static_pages/prop_file.html:528
-#: templates/static_pages/sitemap.html:94
+#: templates/static_pages/sitemap.html:106
 msgid "Privacy"
 msgstr "Privacitat"
 
@@ -256,11 +261,11 @@ msgstr "Llengua"
 #: templates/static_pages/prop_file.html:65
 #: templates/static_pages/prop_file.html:515
 #: templates/static_pages/prop_file.html:516
-#: templates/static_pages/sitemap.html:96
+#: templates/static_pages/sitemap.html:108
 msgid "Accessibility"
 msgstr "Accessibilitat"
 
-#: templates/terms_leftmenu.html:27 templates/static_pages/sitemap.html:97
+#: templates/terms_leftmenu.html:27 templates/static_pages/sitemap.html:109
 msgid "Public Domain Charter"
 msgstr "Carta de Domini Públic"
 
@@ -327,7 +332,6 @@ msgstr "Utilitzar la Meva Europeana"
 #: templates/usingeuropeana_leftmenu.html:10
 #: templates/static_pages/prop_file.html:901
 #: templates/static_pages/prop_file.html:902
-#: templates/static_pages/sitemap.html:31
 msgid "What's new"
 msgstr "Novetats"
 
@@ -347,8 +351,8 @@ msgid ""
 msgstr ""
 "Les característiques i contingut d'Europeana.eu han estat dissenyades per "
 "ser universalment accessibles pels usuaris i pels agents/dispositius dels "
-"usuaris. Ens esforcem a complir les Directrius per a l'accessibilitat al "
-"contingut web, versió 1.0 del WC3."
+"usuaris. Procurem complir les Directrius per a l'accessibilitat al contingut "
+"web, versió 1.0 del WC3."
 
 #: templates/rights/accessibility.html:22
 msgid ""
@@ -695,7 +699,7 @@ msgid ""
 "Mention your modifications of the metadata and make your modified metadata "
 "available under the same terms."
 msgstr ""
-"Indiqueu les vostres modificacions de les metadades i feu les vostres "
+"Indiqueu les modificacions que realitzeu de les metadades i feu les vostres "
 "metadades accessibles sota les mateixes condicions."
 
 #: templates/rights/metadata-usage-guidelines.html:47
@@ -949,7 +953,7 @@ msgstr ""
 "organismes públics com les universitats que realitzen investigacions en el "
 "nostre nom sobre patrons d’ús i comportament que ens ajudaran a millorar el "
 "contingut i els serveis que oferim. En aquests casos no els revelem "
-"informació personal (per exemple, noms o adreces). "
+"informació personal (p. ex. noms o adreces). "
 
 #: templates/rights/privacy.html:59
 msgid ""
@@ -1112,8 +1116,8 @@ msgid ""
 "governs what you can or cannot do with the metadata and previews that are "
 "published on Europeana.eu, with seperate"
 msgstr ""
-"regula el que es pot o no es pot fer amb les metadades i miniatures que es "
-"publiquen a Europeana.eu, a banda de les"
+"regula el que es pot o no es pot fer amb les metadades i previsualitzacions "
+"que es publiquen a Europeana.eu, a banda de les"
 
 #: templates/rights/terms-and-policies.html:24
 msgid "Terms of Use for the Europeana API"
@@ -1194,7 +1198,7 @@ msgid ""
 "policy details how we treat personal information that we have collected from "
 "our users.  The"
 msgstr ""
-"detalla com tractem la informació personal que recollin dels nostres usuaris."
+"detalla com tractem la informació personal que recollim dels nostres usuaris."
 
 #: templates/rights/terms-and-policies.html:37
 msgid ""
@@ -1221,7 +1225,7 @@ msgid ""
 "that explains Europeana's contribution to strengthening the digital Public "
 "Domain"
 msgstr ""
-"explica la contribució d'Europeana per reforçar el domini públic digital"
+"que explica la contribució d'Europeana per reforçar el domini públic digital"
 
 #: templates/rights/terms-for-user-contributions.html:4
 msgid "Europeana - Our Terms for User Contributions"
@@ -1255,9 +1259,9 @@ msgstr ""
 "web estiguin disponibles per a la seva reutilització. En aquest sentit, "
 "totes les metadades (informació textual sobre el patrimoni cultural "
 "digitalitzat) es publiquen sense restriccions de reutilització. La majoria "
-"de la resta de material, com ara a les miniatures del patrimoni cultural "
-"digitalitzat, porten clarament identificada la declaració de drets, és a "
-"dir, que i en quines condicions poden ser reutilitzades."
+"de la resta de material, com ara a les previsualitzacions del patrimoni "
+"cultural digitalitzat, porten clarament identificada la declaració de drets, "
+"és a dir, que i en quines condicions poden ser reutilitzades."
 
 #: templates/rights/terms-of-use.html:21
 msgid "Metadata"
@@ -1287,7 +1291,7 @@ msgstr ""
 
 #: templates/rights/terms-of-use.html:31
 msgid "Previews"
-msgstr "Miniatures"
+msgstr "Previsualitzacions"
 
 #: templates/rights/terms-of-use.html:34
 msgid ""
@@ -1298,8 +1302,8 @@ msgid ""
 "copyright laws. However, in the latter event, please refer to the website of "
 "the data provider to find out whether other types of use are also allowed."
 msgstr ""
-"Les miniatures que es mostren a Europeana.eu només es poden utilitzar "
-"d'acord amb la informació de drets que apareix a sota. Si no hi ha "
+"Les  previsualitzacions que es mostren a Europeana.eu només es poden "
+"utilitzar d'acord amb la informació de drets que apareix a sota. Si no hi ha "
 "informació de drets, només es podran utilitzar d'acord amb les lleis de "
 "drets d'autor. No obstant això, en aquest últim cas, si us plau, consulteu "
 "el lloc web del proveïdor de dades per esbrinar si també  permet algun altre "
@@ -1322,14 +1326,14 @@ msgid ""
 "infringes your rights, you may report this to Europeana by emailing"
 msgstr ""
 "Europeana no és la propietària dels drets d'autor de les metadades, les "
-"miniatures o del patrimoni cultural digitalitzat al que aquestes metadades o "
-"miniatures fan referència. Aquesta informació procedeix d'un gran nombre "
-"d'institucions i organitzacions que en són contribuïdors. Aquests proveïdors "
-"de dades han assegurat a Europeana que els propietaris dels drets han "
-"acordat la publicació de les seves obres en les condicions a què es refereix "
-"el paràgraf anterior. No obstant això, la Fundació Europeana no pot garantir "
-"que això sempre sigui correcte. Si penseu que alguna dada publicada a "
-"Europeana.eu infringeix els vostres drets, podeu informar-ne a Europeana "
+"previsualitzacions o del patrimoni cultural digitalitzat al que les "
+"metadades o  previsualitzacions fan referència. La informació procedeix d'un "
+"gran nombre d'institucions i organitzacions que en són contribuïdors. Els "
+"proveïdors de dades han assegurat a Europeana que els propietaris dels drets "
+"han acordat la publicació de les seves obres en les condicions a què es "
+"refereix el paràgraf anterior. No obstant això, la Fundació Europeana no pot "
+"garantir que això sempre sigui correcte. Si penseu que alguna dada publicada "
+"a Europeana.eu infringeix els vostres drets, podeu informar-ne a Europeana "
 "enviant un correu electrònic a"
 
 #: templates/rights/terms-of-use.html:43
@@ -1368,9 +1372,9 @@ msgid ""
 "right holder;"
 msgstr ""
 "Qualsevol violació de la privacitat, publicitat o altres drets, inclosa la "
-"infracció de drets d'autor de les metadades, miniatures o altre contingut "
-"disponible a  Europeana.eu sota condicions que no hagi aprovat el titular "
-"dels drets;"
+"infracció de drets d'autor de les metadades,  previsualitzacionso altre "
+"contingut disponible a  Europeana.eu sota condicions que no hagi aprovat el "
+"titular dels drets;"
 
 #: templates/rights/terms-of-use.html:54
 msgid ""
@@ -1389,8 +1393,9 @@ msgid ""
 "These terms of use do not pertain to the metadata, previews and other "
 "content of virtual exhibitions offered by Europeana on"
 msgstr ""
-"Aquestes condicions d'ús no es refereixen a les metadades, miniatures i "
-"contingut de les exposicions virtuals ofertes per Europeana a"
+"Aquestes condicions d'ús no es refereixen a les metadades,  "
+"previsualitzacions i contingut de les exposicions virtuals ofertes per "
+"Europeana a"
 
 #: templates/rights/terms-of-use.html:62
 msgid ""
@@ -1418,7 +1423,7 @@ msgstr "pensa cultura"
 msgid ""
 "Take a virtual trip through the kind of things you can find on Europeana"
 msgstr ""
-"Feu un recorregut virtual a través dels tipus de continguts que trobareu a "
+"Feu un recorregut virtual pels diferents tipus de contingut que trobareu a "
 "Europeana."
 
 #: templates/static_pages/aboutus.html:19
@@ -1429,11 +1434,11 @@ msgid ""
 "sheet music and recordings, they’re all here. No need to travel the "
 "continent, either physically or virtually!"
 msgstr ""
-"Explora milions d'ítems a partir d'una àmplia gamma de les principals "
-"galeries, biblioteques, arxius i museus d'Europa. Llibres i manuscrits, "
-"fotografies i pintures, la televisió i el cinema, l'escultura i l'artesania, "
-"diaris i mapes, partitures i enregistraments, estan tots aquí. No hi ha "
-"necessitat de viatjar pel continent, ja sigui física o virtualment!"
+"Exploreu milions d'ítems procedents de les principals galeries, "
+"biblioteques, arxius i museus d'Europa. Llibres i manuscrits, fotografies i "
+"pintures, televisió i cinema, escultura i artesania, diaris i mapes, "
+"partitures i enregistraments, estan tots aquí. No hi ha necessitat de "
+"viatjar pel continent, ja sigui física o virtualment!"
 
 #: templates/static_pages/aboutus.html:21
 msgid ""
@@ -1592,7 +1597,7 @@ msgstr "Butlletins d'informació d'Europeana"
 
 #: templates/static_pages/aboutus_enews.html:15
 msgid "Discover Europeana's hand-picked collections"
-msgstr "Descobreix col·leccions d'Europeana especialment seleccionades"
+msgstr "Descobriu les col·leccions d'Europeana que hem escollit"
 
 #: templates/static_pages/aboutus_enews.html:16
 #: templates/static_pages/aboutus_enews.html:26
@@ -1605,7 +1610,7 @@ msgstr "Juny"
 msgid ""
 "Download free iPad app, explore great new content &amp; join Europeana 1989"
 msgstr ""
-"Descarregueu l'app d'iPad de forma gratuïta, exploreu el no contingut; "
+"Descarregueu l'app d'iPad de forma gratuïta, exploreu el nou contingut; "
 "participeu a Europeana 1989"
 
 #: templates/static_pages/aboutus_enews.html:17
@@ -1617,7 +1622,7 @@ msgstr "Abril"
 
 #: templates/static_pages/aboutus_enews.html:17
 msgid "New look Europeana, Lithuania's buried secrets"
-msgstr ""
+msgstr "Nou disseny d'Europeana, Secrets enterrats de Lituània"
 
 #: templates/static_pages/aboutus_enews.html:18
 #: templates/static_pages/aboutus_enews.html:28
@@ -1670,8 +1675,8 @@ msgid ""
 "diversity of Europe's cultural and scientific heritage."
 msgstr ""
 "A Europeana sovint trobareu enllaços externs a llocs web rellevants per a la "
-"missió d'Europeana: ajudar als nostres usuaris a descobrir i compartir en la "
-"inspiradora diversitat del patrimoni cultural i científic d'Europa."
+"missió d'Europeana: ajudar als usuaris a descobrir i compartir la diversitat "
+"del patrimoni cultural i científic d'Europa."
 
 #: templates/static_pages/disclaimer.html:15
 msgid ""
@@ -1760,9 +1765,9 @@ msgid ""
 "curatorial help, see our most recent content, discover content from "
 "individual providers, and explore Europe's rich heritage on a timeline."
 msgstr ""
-"Per fer la cerca més fàcil a Europeana, proveu formes alternatives de "
-"navegació a través dels nostres milions d'objectes. Apreneu més sobre els "
-"diferents temes amb l'ajuda d'experts, consulteu el nostre contingut més "
+"Per fer més fàcil la cerca a Europeana, proveu formes alternatives de "
+"navegació entre els nostres milions d'objectes. Trobeu més informació sobre "
+"els diferents temes amb l'ajuda d'experts, consulteu el nostre contingut més "
 "recent, descobriu el contingut dels proveïdors individuals, i exploreu el "
 "ric patrimoni d'Europa en una línia de temps."
 
@@ -1773,8 +1778,8 @@ msgid ""
 "newsletter, blog, Twitter and Facebook pages."
 msgstr ""
 "Descobriu alguns dels continguts més interessants d'Europeana, manteniu-vos "
-"al dia amb les últimes novetats, informeu-vos sobre el que som i molt més "
-"amb el nostre butlletí d'informació, blocs, Twitter i pàgines de Facebook."
+"al dia amb les últimes novetats, informeu-vos sobre el que som, i molt més, "
+"amb el nostre butlletí d'informació, blog, Twitter i  Facebook."
 
 #: templates/static_pages/newcontent.html:3
 msgid "Europeana - New Content"
@@ -1853,7 +1858,7 @@ msgstr ""
 "el més gran, proveeix contingut d'unes 480 organitzacions de France, "
 "inclosos el Louvre i el Musée d'Orsay. El nombre d'organitzacions que "
 "contribueixen a través d'un agregador s'indica entre claudators després del "
-"nom de l'agregador, per ex., Videoactive (10)"
+"nom de l'agregador, p. ex.  Videoactive (10)"
 
 #: templates/static_pages/prop_file.html:15
 msgid ""
@@ -1980,15 +1985,15 @@ msgstr "Comunitats"
 
 #: templates/static_pages/prop_file.html:38
 msgid "ThoughtLab"
-msgstr "ThoughtLab"
+msgstr "Laboratori d'idees"
 
 #: templates/static_pages/prop_file.html:39
 msgid "Choose a language"
-msgstr "Escollir una llengua"
+msgstr "Escolliu una llengua"
 
 #: templates/static_pages/prop_file.html:40
 msgid "Select language"
-msgstr "Escollir llengua"
+msgstr "Escolliiu una llengua"
 
 #: templates/static_pages/prop_file.html:41
 msgid "This is Europeana"
@@ -2000,7 +2005,7 @@ msgid ""
 "of Europe, connect to other user pathways and share your discoveries."
 msgstr ""
 "un lloc per a la inspiració i les idees. Cerqueu entre col·leccions "
-"culturals d'Europa, connecteu-vos als recorreguts  d'altres usuaris i "
+"culturals d'Europa, connecteu-vos als recorreguts d'altres usuaris i "
 "compartiu els vostres descobriments."
 
 #: templates/static_pages/prop_file.html:43
@@ -2008,7 +2013,7 @@ msgid "Find out more"
 msgstr "Més informació"
 
 #: templates/static_pages/prop_file.html:44
-#: templates/static_pages/sitemap.html:58
+#: templates/static_pages/sitemap.html:65
 #: templates/static_pages/usingeuropeana_search.html:21
 #: templates/static_pages/usingeuropeana_search.html:25
 #: templates/static_pages/usingeuropeana_search.html:27
@@ -2024,7 +2029,7 @@ msgstr "Reinicialitzar"
 #: templates/static_pages/prop_file.html:46
 #: templates/static_pages/usingeuropeana_results.html:49
 msgid "Previous"
-msgstr "Previ"
+msgstr "Anterior"
 
 #: templates/static_pages/prop_file.html:47
 #: templates/static_pages/usingeuropeana_results.html:49
@@ -2062,7 +2067,7 @@ msgstr "Qualsevol camp"
 
 #: templates/static_pages/prop_file.html:54
 msgid "Share your ideas"
-msgstr "Compartiu les vostres idees"
+msgstr "Compartiu idees"
 
 #: templates/static_pages/prop_file.html:55
 msgid "Tagging"
@@ -2070,7 +2075,7 @@ msgstr "Etiquetatge"
 
 #: templates/static_pages/prop_file.html:56
 msgid "Send us feedback"
-msgstr "envieu-nos els vostres comentaris"
+msgstr "envieu-nos comentaris"
 
 #: templates/static_pages/prop_file.html:57
 msgid "People are currently thinking about"
@@ -2116,7 +2121,7 @@ msgid "Terms and conditions"
 msgstr "Termes i condicions"
 
 #: templates/static_pages/prop_file.html:69
-#: templates/static_pages/sitemap.html:95
+#: templates/static_pages/sitemap.html:107
 msgid "Language policy"
 msgstr "Política sobre llengües"
 
@@ -2174,7 +2179,7 @@ msgstr "Accions"
 #: templates/static_pages/prop_file.html:83
 #: templates/static_pages/usingeuropeana_myeuropeana.html:14
 msgid "Save this search"
-msgstr "Guardar aquesta cerca"
+msgstr "Guardar una cerca"
 
 #: templates/static_pages/prop_file.html:84
 msgid "Search saved"
@@ -2193,7 +2198,7 @@ msgstr "Heu cercat per"
 #: templates/static_pages/usingeuropeana_search.html:63
 #: templates/static_pages/usingeuropeana_search.html:65
 msgid "Matches for"
-msgstr "Coincidències"
+msgstr "Coïncidències"
 
 #: templates/static_pages/prop_file.html:88
 msgid "You are viewing related items"
@@ -2247,7 +2252,7 @@ msgstr "Feu clic aquí per anar a la pàgina següent de resultats"
 
 #: templates/static_pages/prop_file.html:104
 msgid "Print this page"
-msgstr "Imprimir aquesta pàgina"
+msgstr "Imprimir una pàgina"
 
 #: templates/static_pages/prop_file.html:105
 msgid "Click for more information"
@@ -2790,7 +2795,7 @@ msgid "Relation"
 msgstr "Relació"
 
 #: templates/static_pages/prop_file.html:241
-#: templates/static_pages/sitemap.html:101
+#: templates/static_pages/sitemap.html:113
 msgid "Rights"
 msgstr "Drets"
 
@@ -3049,7 +3054,7 @@ msgstr ""
 
 #: templates/static_pages/prop_file.html:302
 msgid "Preview it customized"
-msgstr "Previsualitzar-ne la personalització"
+msgstr "Previsualitzar la personalització"
 
 #: templates/static_pages/prop_file.html:303
 msgid "Create notification for this item"
@@ -3181,8 +3186,9 @@ msgstr "Feu clic per cercar aquest terme a serveis externs."
 
 #: templates/static_pages/prop_file.html:330
 #: templates/static_pages/prop_file.html:332
+#, fuzzy
 msgid "Remote Search Widget"
-msgstr "Giny de Cerca Remota"
+msgstr "Giny de cerca d'Europeana"
 
 #: templates/static_pages/prop_file.html:331
 msgid ""
@@ -3191,16 +3197,16 @@ msgid ""
 "Europeana portal."
 msgstr ""
 "Podeu utilitzar l'enllaç següent per crear un connector personalitzat per "
-"incloure'l al vostre propi lloc web que us permetrà cercar a les "
-"col·leccions del portal Europeana."
+"incloure'l al vostre lloc web que us permetrà cercar a les col·leccions del "
+"portal Europeana."
 
 #: templates/static_pages/prop_file.html:333
 msgid "Europeana Search Widget"
-msgstr "Giny de Cerca d'Europeana"
+msgstr "Giny de cerca d'Europeana"
 
 #: templates/static_pages/prop_file.html:336
 msgid "What is Europeana's remote search widget?"
-msgstr "Quin és el giny de cerca remota d'Europeana?"
+msgstr "Què és el giny de cerca remota d'Europeana?"
 
 #: templates/static_pages/prop_file.html:337
 msgid ""
@@ -3208,9 +3214,9 @@ msgid ""
 "from Europeana's collections and those of their contributors within your own "
 "website."
 msgstr ""
-"El giny de cerca remota és un connector fet a mida per cercar i per "
-"visualitzar ítems de les col·leccions d'Europeana i dels contribuidors al "
-"seu propi lloc web."
+"El giny de cerca remota és un connector fet a mida per cercar i visualitzar "
+"ítems de les col·leccions d'Europeana i dels contribuidors al seu propi lloc "
+"web."
 
 #: templates/static_pages/prop_file.html:338
 msgid "What is a plugin?"
@@ -3222,7 +3228,7 @@ msgid ""
 "into one of the webpages on your own site."
 msgstr ""
 "El connector és un tros de codi que es pot copiar i enganxar a una de les "
-"pàgines del vostre propi lloc web."
+"pàgines del vostre lloc web."
 
 #: templates/static_pages/prop_file.html:340
 msgid "What will the plugin look like?"
@@ -3249,7 +3255,7 @@ msgstr "Seleccioneu opcions del menu següent"
 msgid ""
 "Click on 'Preview' to see the changes in the right hand side of the screen"
 msgstr ""
-"Feu clic a 'Previsualització' per veure els canvis a la part dreta de la "
+"Feu clic a Previsualització per veure els canvis a la part dreta de la "
 "pantalla."
 
 #: templates/static_pages/prop_file.html:345
@@ -3268,7 +3274,7 @@ msgstr "Copieu el codi de \"Codi del connector\""
 
 #: templates/static_pages/prop_file.html:348
 msgid "Open a webpage on your own site in a text editor"
-msgstr "Obriu una pàgina del vostre propi lloc web amb un editor de text"
+msgstr "Obriu una pàgina del vostre lloc web amb un editor de text"
 
 #: templates/static_pages/prop_file.html:349
 msgid "Paste the code into the page and save the changes"
@@ -3482,6 +3488,9 @@ msgid ""
 "centenaries.; Margje Blitterswijk and Irwin Koopmans and had a weaving "
 "Studio, called art in the craft."
 msgstr ""
+"Dues dones a un filadora a Kapelhuis (Krankeledenstraat 11). Ambdues amb "
+"indumentàries històriques per a celebrar els centenaris; Margje Blitterswijk "
+"i Irwin Koopmans tenien un estudi de teixit, anomenat art en l'art."
 
 #: templates/static_pages/prop_file.html:414
 msgid ""
@@ -3520,6 +3529,10 @@ msgid ""
 "cold, the flowers in warm colors-background in cool colors. The entire color "
 "Iriz&#259;ri; flowers."
 msgstr ""
+"Composició floral amb un rang de roses, grocs, grisos i vermells. Per "
+"destacar el grup floral, fons blau. Equilibri cromàtic entre càlid i fred, "
+"les flors en colors càlids - el fons en colors freds. Les flors, la "
+"iridescència completa del color."
 
 #: templates/static_pages/prop_file.html:455
 msgid ""
@@ -3530,6 +3543,12 @@ msgid ""
 "Turandot. However, any man who wishes to wed Turandot must first answer her "
 "three riddles; if he fails, he will be beheaded."
 msgstr ""
+"Nessun dorma (Català: Que ningú no dormi) és una ària de l'acte final de "
+"l'òpera Turandot de Giacomo Puccini, i és una de les àries per a tenor més "
+"conegudes. La  canta Calaf, il principe ignoto (el príncep desconegut), que "
+"s'enamora a primera vista de la bella però freda princesa Turandot. No "
+"obstant això, qualsevol home que desitgi casar-se amb Turandot primer haurà "
+"de respondre a les seves tres endevinalles; si fracassa, serà decapitat."
 
 #: templates/static_pages/prop_file.html:464
 msgid ""
@@ -3560,17 +3579,23 @@ msgid ""
 "advertising agency (D&uuml;bendorf) for the Central Association of Swiss "
 "Milk Producers"
 msgstr ""
+"Llet. L'estímul natural. Aquest imatge es va utilitzar el 1994 a una "
+"campanya a Suïssa per promocionar que es begués  llet. Va ser creada per "
+"l'agència de publicitat Advico Young and Rubicam (Dübendorf) per a "
+"l'Associació Central de Productors de Llet de Suïssa"
 
 #: templates/static_pages/prop_file.html:493
 #: templates/static_pages/prop_file.html:496
 msgid "Get the latest news first!"
-msgstr ""
+msgstr "Rebeu les últimes notícies!"
 
 #: templates/static_pages/prop_file.html:497
 msgid ""
 "Europeana eNews showcases fantastic collections and keeps you up-to-date "
 "with news, events and competitions - in English and French."
 msgstr ""
+"L'eNews d'Europeana exhibeix col·leccions fantàstiques i us manté al dia amb "
+"notícies, esdeveniments i competicions - en anglès i francès."
 
 #: templates/static_pages/prop_file.html:498
 msgid "Subscribe"
@@ -3590,11 +3615,11 @@ msgstr "Un viatge a través del Teló d'acer."
 
 #: templates/static_pages/prop_file.html:507
 msgid "Visit"
-msgstr ""
+msgstr "Visiteu"
 
 #: templates/static_pages/prop_file.html:523
 #: templates/static_pages/prop_file.html:524
-#: templates/static_pages/sitemap.html:85
+#: templates/static_pages/sitemap.html:97
 msgid "Terms of Use &amp; Policies"
 msgstr "Condicions d'ús; Polítiques"
 
@@ -3605,7 +3630,7 @@ msgstr "Política sobre llengües"
 
 #: templates/static_pages/prop_file.html:535
 #: templates/static_pages/prop_file.html:536
-#: templates/static_pages/sitemap.html:112
+#: templates/static_pages/sitemap.html:124
 msgid "Contact"
 msgstr "Contacte"
 
@@ -3618,10 +3643,15 @@ msgid "Home"
 msgstr "Inici"
 
 #: templates/static_pages/prop_file.html:591
+#: templates/static_pages/sitemap.html:31
+#: templates/static_pages/usingeuropeana_searchwidget.html:9
+msgid "How to configure your search widget"
+msgstr "Com configurar el giny de cerca d'Europeana"
+
 #: templates/static_pages/prop_file.html:592
-#: templates/static_pages/whatsnew.html:9
-msgid "What's New"
-msgstr "Novetats"
+#, fuzzy
+msgid "How to configure your search widhet"
+msgstr "Com configurar el giny de cerca d'Europeana"
 
 #: templates/static_pages/prop_file.html:603
 #: templates/static_pages/prop_file.html:604
@@ -3646,7 +3676,7 @@ msgstr "Accedir al coneixement professional"
 
 #: templates/static_pages/prop_file.html:650
 msgid "Social media activities"
-msgstr "Activitats a les xarxes socials"
+msgstr "Activitats als mitjans de comunicació social"
 
 #: templates/static_pages/prop_file.html:651
 msgid "From the blog"
@@ -3832,7 +3862,7 @@ msgstr "Google Physical"
 
 #: templates/static_pages/prop_file.html:694
 msgid "Tiles courtesy of"
-msgstr ""
+msgstr "Les rajoles són cortesia de"
 
 #: templates/static_pages/prop_file.html:695
 msgid ""
@@ -3857,7 +3887,7 @@ msgstr "Contingut creat per l'usuari"
 
 #: templates/static_pages/prop_file.html:699
 msgid "Play"
-msgstr ""
+msgstr "Reproduïu"
 
 #: templates/static_pages/prop_file.html:700
 msgid "Read"
@@ -3874,7 +3904,7 @@ msgstr "Veure la imatge més gran"
 
 #: templates/static_pages/prop_file.html:703
 msgid "Your search result contains no items that have map co-ordinates."
-msgstr "Els vostres resultats no contenen ítems amb mapa de coordenades. "
+msgstr "Els resultats no contenen ítems amb mapa de coordenades. "
 
 #: templates/static_pages/prop_file.html:704
 msgid "Please try another search."
@@ -3938,6 +3968,7 @@ msgid "Unable to find content for this page."
 msgstr "No s'ha trobat contingut per a aquesta pàgina"
 
 #: templates/static_pages/prop_file.html:728
+#, fuzzy
 msgid "Latest on"
 msgstr "El més recent sobre"
 
@@ -3957,7 +3988,7 @@ msgstr "Seguiu-nos!"
 
 #: templates/static_pages/prop_file.html:732
 msgid "Newsletter sign-up"
-msgstr "Subscriure's al butlletí de notícies"
+msgstr "Subscriure's al butlletí d'informació"
 
 #: templates/static_pages/prop_file.html:733
 #: templates/static_pages/prop_file.html:734
@@ -3977,7 +4008,7 @@ msgstr "Adreça de correu electrònic"
 msgid ""
 "Sign-up to receive our bi-monthly newsletter, and occasional announcements."
 msgstr ""
-"Subscriviu-vos per rebre el butlletí de notícies bimensual, i anuncis "
+"Subscriviu-vos per rebre el butlletí d'informació bimensual, i anuncis "
 "ocasionals."
 
 #: templates/static_pages/prop_file.html:748
@@ -3995,6 +4026,10 @@ msgid ""
 "significant of these is the Antell Collection, a testamentary donation by "
 "the collector H. F. Antell."
 msgstr ""
+"L'Ateneum Art Museum és la llar de les col·leccions d'art  més grans i "
+"importants de Finlàndia. El museu abasta més de 20.000 obres d'art. La més "
+"important és la col·lecció Antell, una donació testamentàriadel "
+"col·leccionista H. F. Antell."
 
 #: templates/static_pages/prop_file.html:763
 msgid ""
@@ -4007,6 +4042,14 @@ msgid ""
 "painting and is also notable for its Italian Baroque and Dutch masters "
 "painting."
 msgstr ""
+"La National Gallery d'Irlanda acull la col·lecció nacional d'Irlanda d'art "
+"europeu i irlandès. Està ubicada al centre de Dublín amb una entrada per la "
+"plaça Merrion, al costat de Leicester House, i una altra pel carrer Clare. A "
+"causa de les reformes en curs, l'entrada pel carrer Clare és la única oberta "
+"actualment. Va ser fundada el 1854 i va obrir les seves portes deu anys "
+"després. Compta amb una extensa i representativa col·lecció de pintura "
+"irlandesa i destaca també per les seves pintures del Barroc italià i dels "
+"mestres holandesos. "
 
 #: templates/static_pages/prop_file.html:774
 msgid ""
@@ -4014,6 +4057,9 @@ msgid ""
 "founded in 1910. Now the museum houses more than 120 thousand exhibits: from "
 "saurian bones to paintings of famous artists."
 msgstr ""
+"Un dels més antics i millors museus de la regió de l'Alt Volga, va ser "
+"fundat el 1910. Ara, el museu acull més de cent vint mil exposicions: des "
+"d'ossos de sauris a pintures d'artistes famosos."
 
 #: templates/static_pages/prop_file.html:784
 msgid ""
@@ -4025,6 +4071,12 @@ msgid ""
 "the Swiss Literary Archives you can find photographs, etchings, posters, "
 "postcards and manuscripts."
 msgstr ""
+"A la Swiss National Library podeu trobar-ho tot sobre Suïssa; tot el que "
+"s'ha publicat al país o el que han escrit autors suïssos. Cada publicació, "
+"des dels diaris fins a les novel·les suïsses, des de documentals i anuaris, "
+"a publicacions i mapes geogràfics. A les dues col·leccions més importants: "
+"la del Departament d'impresos i dibuixos, i els Arxius literaris suïssos, "
+"podeu trobar fotografies, gravats, pòsters, postals i manuscrits."
 
 #: templates/static_pages/prop_file.html:795
 msgid ""
@@ -4034,10 +4086,15 @@ msgid ""
 "architecture, predominantely by 19th and 20th century Prussian architects. "
 "The Museum is one of the oldest institutions of its kind in Europe."
 msgstr ""
+"El Architekturmuseum de la Technische Universität Berlin va ser fundat al "
+"1885 com a part del Technische Hochschule Charlottenburg. Conté una "
+"col·lecció de dibuixos, impresos i fotografies relacionades amb "
+"l'arquitectura, principalment d'arquitectes prussians dels segles XIX i XX. "
+"El Museu és una de les institucions d'aquest tipus més antiga d'Europa."
 
 #: templates/static_pages/prop_file.html:802
 msgid "API function"
-msgstr ""
+msgstr "funció API"
 
 #: templates/static_pages/prop_file.html:803
 msgid "Search parameters"
@@ -4049,7 +4106,7 @@ msgstr "Terme de cerca"
 
 #: templates/static_pages/prop_file.html:805
 msgid "Refinement term(s)"
-msgstr ""
+msgstr "Terme(s) d'afinament"
 
 #: templates/static_pages/prop_file.html:806
 msgid "Profile"
@@ -4061,7 +4118,7 @@ msgstr "Nombre de registres a recuperar"
 
 #: templates/static_pages/prop_file.html:808
 msgid "First record to retrieve"
-msgstr ""
+msgstr "Primer registre a recuperar"
 
 #: templates/static_pages/prop_file.html:809
 msgid "Record parameters"
@@ -4073,11 +4130,11 @@ msgstr "Id del registre"
 
 #: templates/static_pages/prop_file.html:811
 msgid "Request URL"
-msgstr ""
+msgstr "Demanar URL"
 
 #: templates/static_pages/prop_file.html:812
 msgid "JSON response"
-msgstr ""
+msgstr "resposta JSON"
 
 #: templates/static_pages/prop_file.html:814
 msgid "Search also for:"
@@ -4093,18 +4150,18 @@ msgstr "What"
 
 #: templates/static_pages/prop_file.html:819
 msgid "api-introduction.html"
-msgstr ""
+msgstr "api-introduction.html"
 
 #: templates/static_pages/prop_file.html:822
 #: templates/static_pages/prop_file.html:826
 #: templates/static_pages/prop_file.html:830
 #: templates/static_pages/prop_file.html:834
 msgid "_self"
-msgstr ""
+msgstr "_self"
 
 #: templates/static_pages/prop_file.html:823
 msgid "rights/terms-and-policies.html"
-msgstr ""
+msgstr "rights/terms-and-policies.html"
 
 #: templates/static_pages/prop_file.html:824
 #: templates/static_pages/prop_file.html:825
@@ -4113,36 +4170,36 @@ msgstr "Condicions d'ús; Polítiques"
 
 #: templates/static_pages/prop_file.html:827
 msgid "contact.html"
-msgstr ""
+msgstr "contact.html"
 
 #: templates/static_pages/prop_file.html:831
 msgid "sitemap.html"
-msgstr ""
+msgstr "sitemap.html"
 
 #: templates/static_pages/prop_file.html:836
 #: templates/static_pages/usingeuropeana_myeuropeana.html:17
 msgid "API keys"
-msgstr ""
+msgstr "Claus API"
 
 #: templates/static_pages/prop_file.html:837
 msgid "No API key"
-msgstr ""
+msgstr "No hi ha clau API"
 
 #: templates/static_pages/prop_file.html:838
 msgid "API key"
-msgstr ""
+msgstr "Clau API"
 
 #: templates/static_pages/prop_file.html:839
 msgid "Private key"
-msgstr ""
+msgstr "Clau privada"
 
 #: templates/static_pages/prop_file.html:840
 msgid "Usage limit"
-msgstr ""
+msgstr "Límit d'ús"
 
 #: templates/static_pages/prop_file.html:841
 msgid "Role"
-msgstr ""
+msgstr "Funció"
 
 #: templates/static_pages/prop_file.html:842
 msgid "Administrator's page"
@@ -4150,11 +4207,11 @@ msgstr "Pàgina de l'administrador"
 
 #: templates/static_pages/prop_file.html:843
 msgid "Remove API key"
-msgstr ""
+msgstr "Eliminar la clau API"
 
 #: templates/static_pages/prop_file.html:844
 msgid "Limit"
-msgstr ""
+msgstr "Limit"
 
 #: templates/static_pages/prop_file.html:845
 msgid "Remove user"
@@ -4166,7 +4223,7 @@ msgstr "Bloquejar l'usuari"
 
 #: templates/static_pages/prop_file.html:847
 msgid "Export API keys to CSV"
-msgstr "Exportar claus API al CSV"
+msgstr "Exporteu les claus API al CSV"
 
 #: templates/static_pages/prop_file.html:848
 msgid "Export users to CSV"
@@ -4218,7 +4275,7 @@ msgstr "Professional"
 
 #: templates/static_pages/prop_file.html:938
 msgid "Change limit for an API key"
-msgstr "Canviar el límit per a una clau API"
+msgstr "Canvieu el límit per a una clau API"
 
 #: templates/static_pages/prop_file.html:939
 msgid "Company or Institution"
@@ -4301,7 +4358,7 @@ msgstr "+ Afegir"
 
 #: templates/static_pages/prop_file.html:968
 msgid "Field of work"
-msgstr ""
+msgstr "Camp de treball"
 
 #: templates/static_pages/prop_file.html:969
 msgid "Please, select"
@@ -4325,7 +4382,7 @@ msgstr "No s'ha trobat el registre d'Europena que heu demanat"
 
 #: templates/static_pages/prop_file.html:975
 msgid "This item has been withdrawn by the provider."
-msgstr ""
+msgstr "El proveïdor ha retirat aquest ítem."
 
 #: templates/static_pages/prop_file.html:976
 msgid "Requested Europeana Record is not yet indexed."
@@ -4333,7 +4390,7 @@ msgstr "El registre d'Europeana que heu demanat encara no està indexat."
 
 #: templates/static_pages/prop_file.html:978
 msgid "Please register your email again"
-msgstr ""
+msgstr "Si us plau, registreu el vostre correu electrònic un altre cop."
 
 #: templates/static_pages/prop_file.html:979
 msgid "to finish registration."
@@ -4372,7 +4429,7 @@ msgstr "Clau API"
 
 #: templates/static_pages/prop_file.html:993
 msgid "Number of calls"
-msgstr ""
+msgstr "Nombre de trucades"
 
 #: templates/static_pages/sitemap.html:4
 msgid "Europeana - Sitemap"
@@ -4388,7 +4445,7 @@ msgstr "Tots els proveïdors"
 
 #: templates/static_pages/sitemap.html:41
 msgid "Press Centre (on Europeana Professional)"
-msgstr ""
+msgstr "Sala de premsa (a Europeana professional)"
 
 #: templates/static_pages/sitemap.html:42
 msgid "Jobs (on Europeana Professional)"
@@ -4398,59 +4455,73 @@ msgstr "Ofertes de treball (a Europeana Professional)"
 msgid "Partners (on Europeana Professional)"
 msgstr "Socis (a Europeana Professional)"
 
-#: templates/static_pages/sitemap.html:53
-msgid "Data structure"
-msgstr "Estructura de dades"
+#: templates/static_pages/sitemap.html:56
+#, fuzzy
+msgid "Working with the API"
+msgstr "Treballar a Europeana"
 
-#: templates/static_pages/sitemap.html:54
+#: templates/static_pages/sitemap.html:57
+#, fuzzy
+msgid "Latest changes"
+msgstr "El més recent sobre"
+
+#: templates/static_pages/sitemap.html:58
+msgid "Sample Code and Libraries"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:61
 msgid "API Methods"
 msgstr "Mètodes API"
 
-#: templates/static_pages/sitemap.html:56
-msgid "OpenSearch"
-msgstr ""
-
-#: templates/static_pages/sitemap.html:57
+#: templates/static_pages/sitemap.html:64
 msgid "Record"
 msgstr "Registre"
 
-#: templates/static_pages/sitemap.html:59
+#: templates/static_pages/sitemap.html:66
 msgid "Suggestions"
 msgstr "Suggeriments"
 
-#: templates/static_pages/sitemap.html:61
+#: templates/static_pages/sitemap.html:67
+msgid "OpenSearch"
+msgstr "Cerca oberta"
+
+#: templates/static_pages/sitemap.html:69
 msgid "Query Syntax"
 msgstr "Sintaxi de la cerca"
 
-#: templates/static_pages/sitemap.html:62
+#: templates/static_pages/sitemap.html:70
+msgid "Data structure"
+msgstr "Estructura de dades"
+
+#: templates/static_pages/sitemap.html:72
 msgid "Europeana Fields"
 msgstr "Camps Europeana"
 
-#: templates/static_pages/sitemap.html:63
+#: templates/static_pages/sitemap.html:74
 msgid "API1-API2 compatability"
 msgstr "Compatibilitat API1-API2"
 
-#: templates/static_pages/sitemap.html:92
+#: templates/static_pages/sitemap.html:104
 msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
 msgstr "Acord d'Intercanvi de Dades d'Europeana (a Europeana Professional)"
 
-#: templates/static_pages/sitemap.html:103
+#: templates/static_pages/sitemap.html:115
 msgid "Rights Reserved - Free access"
 msgstr "Drets reservats - Accés lliure"
 
-#: templates/static_pages/sitemap.html:104
+#: templates/static_pages/sitemap.html:116
 msgid "Rights Reserved - Restricted access"
 msgstr "Drets reservats - Accés restringit"
 
-#: templates/static_pages/sitemap.html:105
+#: templates/static_pages/sitemap.html:117
 msgid "Rights Reserved - Paid access"
 msgstr "Drets reservats - Accés de pagament"
 
-#: templates/static_pages/sitemap.html:106
+#: templates/static_pages/sitemap.html:118
 msgid "Unknown copyright status"
 msgstr "Drets d'autor desconeguts"
 
-#: templates/static_pages/sitemap.html:107
+#: templates/static_pages/sitemap.html:119
 msgid "Orphan work - Free access"
 msgstr "Obra orfe - Accés lliure"
 
@@ -4940,7 +5011,7 @@ msgstr "A través del temps"
 
 #: templates/static_pages/usingeuropeana.html:16
 msgid "On a map"
-msgstr "a un mapa"
+msgstr "Sobre un mapa"
 
 #: templates/static_pages/usingeuropeana.html:16
 msgid "With curatorial expertise"
@@ -4956,19 +5027,19 @@ msgstr "Informació sobre drets i llicències"
 
 #: templates/static_pages/usingeuropeana.html:19
 msgid "Translating details"
-msgstr "Podeu veure més detalls"
+msgstr "Traducció"
 
 #: templates/static_pages/usingeuropeana.html:19
 msgid "Searching on external services"
-msgstr "Cercar a serveis externs."
+msgstr "Cercar a serveis externs"
 
 #: templates/static_pages/usingeuropeana.html:19
 msgid "New related searches on Europeana"
-msgstr "Quin ús puc fer dels ítems d'Europeana?"
+msgstr "Noves cerques relacionades"
 
 #: templates/static_pages/usingeuropeana.html:19
 msgid "Viewing item on provider's site"
-msgstr "Veure l'ítem en el web del proveïdor"
+msgstr "Veure l'ítem al web del proveïdor"
 
 #: templates/static_pages/usingeuropeana.html:19
 msgid "Embedding"
@@ -5011,10 +5082,10 @@ msgid ""
 "information that guides you through the themes, the virtual exhibitions can "
 "be found by choosing the"
 msgstr ""
-"Les nostres exposicions virtuals us ajuden a descobrir i saber més sobre "
-"temes específics, per exemple,  Art Noveau o instruments musicals. Amb una "
-"àmplia informació seleccionada amb cura que us guia pels temes, podeu trobar "
-"les exposicions virtuals seleccionant l'enllaç"
+"Les nostres exposicions virtuals us ajuden a descobrir i aprendre sobre "
+"temes específics, p. ex.  l'Art Noveau o els instruments musicals. Contenen "
+"una àmplia informació que ha estat escollida amb cura. Podeu trobar les "
+"exposicions virtuals seleccionant l'enllaç"
 
 #: templates/static_pages/usingeuropeana_explore.html:14
 msgid "link at the foot of the page."
@@ -5054,7 +5125,7 @@ msgstr "Registreu-vos a"
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:11
 msgid "and you can"
-msgstr "i podeu"
+msgstr "i podreu"
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:14
 msgid ""
@@ -5077,14 +5148,14 @@ msgstr ""
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:16
 msgid "Store your favourite items for later viewing."
-msgstr "Emmagatzemeu els vostres ítems favorits per veure'ls més tard."
+msgstr "Emmagatzemeu els vostres ítems preferits per veure'ls més tard."
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:17
 msgid ""
 "If you are a developer who has registered for one or more API keys, these "
 "will be shown on the API Keys tab."
 msgstr ""
-"Si sou desenvolupadors registrats per a una o diverses claus API, els veureu "
+"Si sou desenvolupadors registrats per a una o diverses claus API, les veureu "
 "a la pestanya Claus API."
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:20
@@ -5095,15 +5166,15 @@ msgstr ""
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:20
 msgid "and click on the relevant action from the menu."
-msgstr "i fent clic a l'acció del menú que desitgeu."
+msgstr "i feu clic a l'acció del menú que desitgeu."
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:21
 msgid "To view your saved items, searches and tags, use the"
-msgstr "Per veure els ítems, cerques i etiquetes que heu guardat, utilitzeu"
+msgstr "Per veure els ítems, cerques i etiquetes que heu guardat, utilitzeu a"
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:21
 msgid "shortcuts in the header."
-msgstr "les dreceres de la capçalera."
+msgstr ", les dreceres de la capçalera."
 
 #: templates/static_pages/usingeuropeana_results.html:3
 msgid "Europeana - Results in Europeana"
@@ -5139,7 +5210,7 @@ msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:17
 msgid "films, news broadcasts and television programmes"
-msgstr ""
+msgstr "pel·lícules, noticiaris i programes de televisió"
 
 #: templates/static_pages/usingeuropeana_results.html:18
 msgid ""
@@ -5158,8 +5229,8 @@ msgid ""
 "screen. See"
 msgstr ""
 "També podeu ordenar els resultats per tipus, llengua, data, país, drets "
-"d'autor, o proveïdor utilitzant la subfinestra Afinar la cerca de la "
-"pantalla de resultats. Vegeu"
+"d'autor, o proveïdor utilitzant el panell Afinar la cerca de la pantalla de "
+"resultats. Vegeu"
 
 #: templates/static_pages/usingeuropeana_results.html:22
 msgid "for more details."
@@ -5172,50 +5243,57 @@ msgid ""
 msgstr ""
 "Els resultats es presenten en una graella. Podeu seleccionar quants "
 "resultats voleu que es mostrin per pàgina seleccionant una opció de la "
+"llista desplegable de"
 
 #: templates/static_pages/usingeuropeana_results.html:24
 msgid "drop-down list either above or below the results. You can select"
-msgstr ""
-"llista desplegable que es troba tant al damunt com sota els resultats. Podeu "
-"seleccionar"
+msgstr "que es troba tant al damunt com sota els resultats. Podeu seleccionar"
 
 #: templates/static_pages/usingeuropeana_results.html:25
 msgid ""
 "To navigate through the results pages, select the single arrows that are "
 "shown both above and below the results grid. Hit"
 msgstr ""
+"Per navegar per les pàgines de resultats, seleccioneu les fletxes simples "
+"que es mostren tant al damunt com sota la graella de resultats. Feu clic"
 
 #: templates/static_pages/usingeuropeana_results.html:25
 msgid "to move one page in either direction, or hit the double arrows"
 msgstr ""
+"per desplaçar-vos una pàgina en qualsevol direcció, o feu clic a les fletxes "
+"dobles"
 
 #: templates/static_pages/usingeuropeana_results.html:25
 msgid ""
 "to move to the last/first pages. Alternatively, type in the page number of "
 "the page you'd like to view."
 msgstr ""
+"per desplaçar-vos a la primera/darrera pàgina. Alternativament, podeu "
+"introduir el número de pàgina que voleu veure."
 
 #: templates/static_pages/usingeuropeana_results.html:26
 msgid "Further details"
-msgstr "Més detalls"
+msgstr "Podeu obtenir més informació"
 
 #: templates/static_pages/usingeuropeana_results.html:26
 msgid "of an object can be found by selecting an item in the results list."
-msgstr ""
+msgstr "d'un objecte en seleccionar un ítem de la llista de resultats"
 
 #: templates/static_pages/usingeuropeana_results.html:28
 msgid "Individual items"
-msgstr "ítems individuals"
+msgstr "Ítems"
 
 #: templates/static_pages/usingeuropeana_results.html:30
 msgid ""
 "After performing your search, select the item you want to view to find out "
 "more about it."
 msgstr ""
+"Després d'executar la cerca, seleccioneu l'ítem que us interessa per veure "
+"els detalls."
 
 #: templates/static_pages/usingeuropeana_results.html:31
 msgid "The item page shows you the following:"
-msgstr ""
+msgstr "La pàgina d'ítem us mostra:"
 
 #: templates/static_pages/usingeuropeana_results.html:34
 msgid "Thumbnail image/preview"
@@ -5223,13 +5301,16 @@ msgstr "Miniatura/previsualització"
 
 #: templates/static_pages/usingeuropeana_results.html:34
 msgid "hit the magnifying glass"
-msgstr ""
+msgstr "premeu la lupa"
 
 #: templates/static_pages/usingeuropeana_results.html:34
 msgid ""
 "link at the bottom of the thumbnail to see a bigger image and additional "
 "information in a new window. To close that window, hit X at the top right."
 msgstr ""
+"a l'enllaç a la part inferior de la miniatura per veure una imatge més gran "
+"i informació addicional en una nova finestra. Per tancar la finestra, feu "
+"clic a la X de la part superior dreta."
 
 #: templates/static_pages/usingeuropeana_results.html:35
 msgid ""
@@ -5238,15 +5319,15 @@ msgid ""
 "main thumbnail. You can select items in the carousel or the left and right "
 "arrows on the main thumbnail to browse the images."
 msgstr ""
-"Si hi ha múltiples imatges d'un mateix objecte, ex. les pàgines d'un llibre "
-"o diferents visualitzacions, es mostrarà un carrusel d'imatges sota la "
-"miniatura principal. Podeu seleccionar ítems del carrusel o u utilitzar les "
-"fletxes situades a l'esquerra i la dreta de la miniatura principal per a "
+"Si hi ha múltiples imatges d'un mateix objecte, p. ex. les pàgines d'un "
+"llibre o diferents visualitzacions, es mostrarà un carrusel d'imatges sota "
+"la miniatura principal. Podeu seleccionar ítems del carrusel o u utilitzar "
+"les fletxes situades a l'esquerra i la dreta de la miniatura principal per a "
 "fullejar les imatges."
 
 #: templates/static_pages/usingeuropeana_results.html:37
 msgid "Rights and licensing"
-msgstr ""
+msgstr "Drets i llicències"
 
 #: templates/static_pages/usingeuropeana_results.html:37
 msgid ""
@@ -5257,6 +5338,13 @@ msgid ""
 "window with a full description of the terms or, in the case of a Creative "
 "Commons licence, a link to the licence itself."
 msgstr ""
+"sota cada  previsualització trobareu la declaració de drets que estableix "
+"les condicions en què es pot tornar a utilitzar l'objecte digital, inclosa "
+"la previsualització. Hi ha 12 declaracions de drets que descriuen les "
+"diferents condicions en què estarà permesa la reutilització. En fer clic a "
+"la declaració de drets, s'obrirà una nova finestra amb una descripció "
+"completa dels termes o, en el cas d'una llicència de Creative Commons, un "
+"enllaç a la pròpia llicència."
 
 #: templates/static_pages/usingeuropeana_results.html:39
 msgid "View item at"
@@ -5268,16 +5356,21 @@ msgid ""
 "example, to find additional information and larger images, or to view an "
 "item in its fullest form, e.g. a whole book or video."
 msgstr ""
+"veure l'ítem al lloc web del proveïdor. Això és útil, per exemple, per "
+"trobar informació addicional i imatges més grans, o per veure un ítem en la "
+"seva forma completa, p. ex. un llibre o vídeo sencer"
 
 #: templates/static_pages/usingeuropeana_results.html:40
 msgid "Share item"
-msgstr ""
+msgstr "Compartir ítem"
 
 #: templates/static_pages/usingeuropeana_results.html:40
 msgid ""
 "share the item via a range of social media, or to print or email it. Just "
 "select the option you want."
 msgstr ""
+"compartir l'ítem via un conjunt de mitjans de comunicació social, o imprimir-"
+"lo o enviar-lo per correu. Seleccioneu una opció."
 
 #: templates/static_pages/usingeuropeana_results.html:41
 msgid ""
@@ -5285,18 +5378,26 @@ msgid ""
 "Wikipedia articles. The code you need is formatted for direct inclusion in "
 "Wikipedia's article authoring mode. Select"
 msgstr ""
+"aquesta funció us ajudarà a enllaçar als ítems d'Europeana i citar-los als "
+"articles de la Viquipèdia. El codi que necessiteu està formatat perquè es "
+"pugui incloure directament a l'article de la Viquipèdia en mode autoritzat. "
+"Seleccioneu"
 
 #: templates/static_pages/usingeuropeana_results.html:41
 msgid ""
 "and copy and paste the text provided. To close the citation window, hit the "
 "X in the top right corner."
 msgstr ""
+"i copieu i enganxeu el text que us proporciona. Per tancar la finestra amb "
+"la citació, feu clic a la X de la cantonada superior dreta."
 
 #: templates/static_pages/usingeuropeana_results.html:42
 msgid ""
 "select an option from the drop-down list of languages. Please note this is a "
 "machine translation."
 msgstr ""
+"seleccioneu una opció de la llista desplegable de llengües. Tingueu en "
+"compte que es tracta d'una traducció automàtica."
 
 #: templates/static_pages/usingeuropeana_results.html:45
 msgid ""
@@ -5305,6 +5406,10 @@ msgid ""
 "and description along with other information including places, dates, "
 "formats, and providers."
 msgstr ""
+"L'àrea principal de la pàgina d'ítem us dóna més detalls sobre l'objecte. La "
+"quantitat i tipus d'informació variarà, però pot incloure el nom i "
+"descripció de l'ítem juntament amb altra informació com llocs, dates, "
+"formats, i proveïdors.  "
 
 #: templates/static_pages/usingeuropeana_results.html:47
 msgid ""
@@ -5312,36 +5417,42 @@ msgid ""
 "the item in an external service, e.g. the data provider's own website, or to "
 "search Europeana for the highlighted term."
 msgstr ""
+"Aquesta informació pot contenir enllaços a més detalls. Seleccioneu-la per "
+"trobar un ítem a un servei extern, p. ex. al lloc web del proveïdor."
 
 #: templates/static_pages/usingeuropeana_results.html:49
 msgid "To move to the previous or next item in your search results, hit the"
-msgstr ""
+msgstr "Per anar a l'ítem anterior o següent dels resultats, premeu"
 
 #: templates/static_pages/usingeuropeana_results.html:49
 msgid "options"
-msgstr ""
+msgstr "   "
 
 #: templates/static_pages/usingeuropeana_results.html:51
 msgid "A carousel showing"
-msgstr ""
+msgstr "Un carrusel mostra"
 
 #: templates/static_pages/usingeuropeana_results.html:51
 msgid "Similar content"
-msgstr "Contingut similar"
+msgstr "Continguts similars,"
 
 #: templates/static_pages/usingeuropeana_results.html:51
 msgid ""
 "of up to 10 items related to the one you are viewing. Select an image to "
 "view more details."
 msgstr ""
+"fins a 10 ítems relacionats amb el que esteu visualitzant. Seleccioneu una "
+"imatge per veure els detalls."
 
 #: templates/static_pages/usingeuropeana_results.html:53
 msgid "Another way of finding similar content is to use the links in the"
 msgstr ""
+"Una altra forma de trobar continguts similars és utilitzar els enllaços del "
+"panell"
 
 #: templates/static_pages/usingeuropeana_results.html:53
 msgid "Search also for"
-msgstr ""
+msgstr "Cercar també per "
 
 #: templates/static_pages/usingeuropeana_results.html:53
 msgid ""
@@ -5350,6 +5461,10 @@ msgid ""
 "brackets, e.g. (33) shows the number of results each of these searches "
 "returns. Simply hit the link to perform the search."
 msgstr ""
+"Aquesta opció us proporciona enllaços a cerques amb, p. ex. el mateix títol, "
+"autor, format, o del mateix proveïdor. El número entre parèntesi, p. ex. "
+"(33) indica el nombre de resultats per a cadascuna d'aquestes cerques. Només "
+"cal que premeu l'enllaç per executar la cerca."
 
 #: templates/static_pages/usingeuropeana_search.html:3
 msgid "Europeana - Searching Europeana"
@@ -5382,8 +5497,8 @@ msgid ""
 "on provider's site, embedding, and citing."
 msgstr ""
 "Veure més detalls, drets, llicències, traducció, cerca a serveis externs, "
-"relacionar cerques a Europeana, veure els ítems a la web del proveïdor, "
-"incrustar i citar. "
+"cerques relacionades, veure els ítems a la web del proveïdor, incrustar i "
+"citar. "
 
 #: templates/static_pages/usingeuropeana_search.html:16
 msgid "Saving searches, saving items, and adding tags."
@@ -5399,7 +5514,7 @@ msgid ""
 "search term and hit"
 msgstr ""
 "Cercar entre els milions d'ítems d'Europeana és senzill. Només cal que "
-"entreu un terme i premeu"
+"introduïu un terme i premeu"
 
 #: templates/static_pages/usingeuropeana_search.html:23
 msgid "Specific search"
@@ -5407,23 +5522,23 @@ msgstr "Cerca específica"
 
 #: templates/static_pages/usingeuropeana_search.html:25
 msgid "You can narrow your search with the arrow to the right of"
-msgstr "Podeu restringir la vostra cerca amb la fletxa a la dreta de"
+msgstr "Podeu restringir la cerca amb la fletxa a la dreta de"
 
 #: templates/static_pages/usingeuropeana_search.html:25
 msgid "Search All fields"
-msgstr ""
+msgstr "Cercar a tots els camps"
 
 #: templates/static_pages/usingeuropeana_search.html:25
 msgid "and selecting a category"
-msgstr ""
+msgstr "i seleccionar una categoria"
 
 #: templates/static_pages/usingeuropeana_search.html:25
 msgid "Titles, Creators, Subjects, Dates/Periods, Places"
-msgstr ""
+msgstr "Títols, Creadors, Matèries, Dates/Períodes, Llocs"
 
 #: templates/static_pages/usingeuropeana_search.html:25
 msgid "Then enter your search term and hit"
-msgstr ""
+msgstr "Després introduïu un terme de cerca i premeu"
 
 #: templates/static_pages/usingeuropeana_search.html:27
 msgid ""
@@ -5431,24 +5546,27 @@ msgid ""
 "in and type these words into Europeana's search box followed by a colon (:). "
 "Then enter your search term and hit"
 msgstr ""
+"Alternativament, pregunteu-vos qui, que, on o quan en relació a la cerca que "
+"us interessa, i teclegeu respectivament who, what, when o where seguit de "
+"dos punts (:) i del terme que voleu cercar, després premeu"
 
 #: templates/static_pages/usingeuropeana_search.html:29
 msgid "For specific searches, you could:"
-msgstr ""
+msgstr "Per a cerques específiques podeu:"
 
 #: templates/static_pages/usingeuropeana_search.html:31
 #: templates/static_pages/usingeuropeana_search.html:32
 #: templates/static_pages/usingeuropeana_search.html:33
 #: templates/static_pages/usingeuropeana_search.html:34
 msgid "Use the"
-msgstr "Utilitzeu l'enllaç a la"
+msgstr "Utilitzar el filtre"
 
 #: templates/static_pages/usingeuropeana_search.html:31
 #: templates/static_pages/usingeuropeana_search.html:32
 #: templates/static_pages/usingeuropeana_search.html:33
 #: templates/static_pages/usingeuropeana_search.html:34
 msgid "filter or enter"
-msgstr "filtrar o introduir"
+msgstr "o introduir"
 
 #: templates/static_pages/usingeuropeana_search.html:31
 msgid ""
@@ -5456,14 +5574,17 @@ msgid ""
 "results will display only items for which the name you entered is listed as "
 "the creator. For example, searching for"
 msgstr ""
+"seguit d'un nom, p. ex. d'un actor, autor o arquitecte. Els resultats "
+"mostraran només ítems en els que consta com a creador el nom que heu "
+"introduït. Per exemple, si cerqueu "
 
 #: templates/static_pages/usingeuropeana_search.html:31
 msgid ""
 "will narrow your results to van Gogh's works, excluding photographs of the "
 "artist or documentaries about him and his work."
 msgstr ""
-"restringirà els vostres resultats a les obres de van Gogh, i s'exclouran "
-"fotografies de l'artista o documentals sobre ell i la seva obra."
+"restringirà els resultats a les obres de van Gogh, i s'exclouran fotografies "
+"de l'artista o documentals sobre ell i la seva obra."
 
 #: templates/static_pages/usingeuropeana_search.html:32
 msgid ""
@@ -5472,10 +5593,14 @@ msgid ""
 "only items of the requested type or subject or items whose title includes "
 "your search term. For example, searching for"
 msgstr ""
+"seguit d'un tipus d'ítem, una matèria o paraules del títol que esteu "
+"buscant. Els resultats mostraran només ítems del tipus o matèria seleccionat "
+"o que incloguin al títol les paraules que heu introduït. Per exemple, si "
+"cerqueu "
 
 #: templates/static_pages/usingeuropeana_search.html:32
 msgid "will narrow your results to maps, or"
-msgstr "restringirà els vostres resultats a mapes, o"
+msgstr "restringirà els resultats a mapes, o"
 
 #: templates/static_pages/usingeuropeana_search.html:32
 msgid ""
@@ -5484,7 +5609,7 @@ msgstr "es mostraran obres d'art, edificis i monuments modernistes."
 
 #: templates/static_pages/usingeuropeana_search.html:33
 msgid "Place"
-msgstr ""
+msgstr "Lloc"
 
 #: templates/static_pages/usingeuropeana_search.html:33
 msgid ""
@@ -5493,6 +5618,9 @@ msgid ""
 "published in or depict the place you are searching for. For example, "
 "searching for"
 msgstr ""
+"seguit del nom d'un poble, ciutat o país d'Europa o d'arreu del món. Els "
+"resultats mostraran només ítems que han estat creats, publicats o que "
+"representen el lloc que heu  introduït. Per exemple, si cerqueu "
 
 #: templates/static_pages/usingeuropeana_search.html:33
 msgid ""
@@ -5500,6 +5628,8 @@ msgid ""
 "objects created or held in Milan, excluding items on writer Milan Kundera "
 "from your search results."
 msgstr ""
+"us ajudarà a diferenciar en la cerca els objectes creats o que es conserven "
+"a Milan dels ítems sobre l'escriptor Milan Kundera."
 
 #: templates/static_pages/usingeuropeana_search.html:34
 msgid ""
@@ -5507,6 +5637,9 @@ msgid ""
 "search results will display only items for which the date is listed in the "
 "item's date field. For example, searching for"
 msgstr ""
+"seguit d'una data (p. ex. 1945) o un període (p. ex. Romà o Medieval). Els "
+"resultats mostraran només ítems en els que la informació que heu introduït "
+"consta al camp Data. Per exemple, si cerqueu "
 
 #: templates/static_pages/usingeuropeana_search.html:34
 msgid ""
@@ -5514,20 +5647,25 @@ msgid ""
 "dated 1984, excluding items that have 1984 in their title or description, "
 "like George Orwell's novel."
 msgstr ""
+"us ajudarà a diferenciar en la cerca els objectes datats el 1984 dels ítems "
+"que contenen 1984 al seu títol o descripció, com la novel·la de Georges "
+"Orwell."
 
 #: templates/static_pages/usingeuropeana_search.html:37
 msgid ""
 "These search functions also have support for different spellings and "
 "languages. For example, when you search for"
 msgstr ""
+"Aquestes funcions de cerca estan disponibles per a diferents ortografies i "
+"llengües. Per exemple, si cerqueu"
 
 #: templates/static_pages/usingeuropeana_search.html:37
 msgid ""
 "the results will also include items with Milano, Mailand or Milanas listed "
 "as their geographic coverage."
 msgstr ""
-"els resultats també inclouran ítems amb Milano, Mailand or Milanas donat que "
-"figuren com a abast geogràfic."
+"els resultats també inclouran ítems amb Milano, Mailand o Milanas donat que "
+"hi consten com a abast geogràfic."
 
 #: templates/static_pages/usingeuropeana_search.html:41
 msgid "is also possible. Just put"
@@ -5539,7 +5677,7 @@ msgstr "cometes"
 
 #: templates/static_pages/usingeuropeana_search.html:41
 msgid "e.g."
-msgstr ""
+msgstr "p. ex."
 
 #: templates/static_pages/usingeuropeana_search.html:41
 msgid "around the phrase you want to find, or type"
@@ -5547,19 +5685,19 @@ msgstr "al voltant de la frase que voleu cercar, o escriviu"
 
 #: templates/static_pages/usingeuropeana_search.html:41
 msgid "between the keywords (e.g."
-msgstr "entre les paraules clau (ex."
+msgstr "entre les paraules clau (p. ex."
 
 #: templates/static_pages/usingeuropeana_search.html:43
 msgid "by typing"
-msgstr "Escriviu"
+msgstr "Introduïu"
 
 #: templates/static_pages/usingeuropeana_search.html:43
 msgid "in capital letters, followed by the word you want to omit (e.g."
-msgstr "en majúscules, seguit de la paraula que voleu ometre (ex. "
+msgstr "en majúscules, seguit de la paraula que voleu ometre (p. ex. "
 
 #: templates/static_pages/usingeuropeana_search.html:45
 msgid "Another helpful search feature is"
-msgstr ""
+msgstr "Una altra característica útil de la cerca és l'"
 
 #: templates/static_pages/usingeuropeana_search.html:45
 msgid "Auto completion"
@@ -5570,6 +5708,9 @@ msgid ""
 "Start typing a search term. Europeana will suggest words that may match what "
 "you are thinking of. Just select the term you want and hit"
 msgstr ""
+"Comenceu a teclejar un terme, Europeana us suggerirà paraules que poden "
+"coincidir amb el que esteu pensant. Només cal que seleccioneu el terme que "
+"coleu i premeu"
 
 #: templates/static_pages/usingeuropeana_search.html:47
 #: templates/static_pages/usingeuropeana_search.html:49
@@ -5589,7 +5730,7 @@ msgid ""
 "add more keywords to your search, thereby narrowing the search results. Just "
 "type your keyword into the"
 msgstr ""
-"del requadre gris de la pantalla de resultats, afegint-hi més paraules clau. "
+"al panell gris de la pantalla de resultats, afegint-hi més paraules clau. "
 "Teclegeu les paraules clau dins "
 
 #: templates/static_pages/usingeuropeana_search.html:49
@@ -5598,23 +5739,25 @@ msgstr "i premeu"
 
 #: templates/static_pages/usingeuropeana_search.html:49
 msgid "The keyword is displayed at the top of the pane, under"
-msgstr ""
+msgstr "La paraula clau es mostra a la part superior del panell, sota"
 
 #: templates/static_pages/usingeuropeana_search.html:49
 msgid "Matches for."
-msgstr ""
+msgstr "Coïncidències."
 
 #: templates/static_pages/usingeuropeana_search.html:51
 msgid "To remove a keyword, hit the X icon next to the relevant keyword in the"
 msgstr ""
+"Per eliminar una paraula clau, feu clic a la X al costat de la paraula clau "
+"de la llista de"
 
 #: templates/static_pages/usingeuropeana_search.html:51
 msgid "list."
-msgstr ""
+msgstr ".   "
 
 #: templates/static_pages/usingeuropeana_search.html:53
 msgid "You can also"
-msgstr "Podeu també"
+msgstr "També podeu"
 
 #: templates/static_pages/usingeuropeana_search.html:53
 msgid "filter your search results:"
@@ -5625,6 +5768,8 @@ msgid ""
 "will display only objects of a selected media type (images, text, video, "
 "sound or 3D). "
 msgstr ""
+"només es mostraran objectes del tipus seleccionat (imatge, text, vídeo, so o "
+"3D)"
 
 #: templates/static_pages/usingeuropeana_search.html:56
 msgid "By language"
@@ -5635,6 +5780,8 @@ msgid ""
 "will display only objects with descriptions in selected languages, i.e. the "
 "language of the institution that provided the object to Europeana."
 msgstr ""
+"només es mostraran objectes amb la descripció en les llengües seleccionades, "
+"és a dir, la llengua de la institució que proveeix l'objecte a Europeana."
 
 #: templates/static_pages/usingeuropeana_search.html:57
 msgid "By date"
@@ -5642,7 +5789,7 @@ msgstr "Per data"
 
 #: templates/static_pages/usingeuropeana_search.html:57
 msgid "will display only objects with selected dates."
-msgstr ""
+msgstr "només es mostraran objectes de les dates seleccionades."
 
 #: templates/static_pages/usingeuropeana_search.html:58
 msgid "By country"
@@ -5653,6 +5800,8 @@ msgid ""
 "will display only objects from selected countries, i.e. the country of the "
 "institution that provided the object to Europeana."
 msgstr ""
+"només es mostraran objectes dels països seleccionats, és a dir, del país de "
+"la institució que proveeix l'objecte a Europeana."
 
 #: templates/static_pages/usingeuropeana_search.html:59
 msgid ""
@@ -5660,6 +5809,9 @@ msgid ""
 "copyright label indicates how you may reuse the digital object, including "
 "the preview."
 msgstr ""
+"mostrarà objectes etiquetats amb la declaració de drets que heu seleccionat. "
+"Aquesta etiqueta de drets indica en quines condicions podeu reutilitzar "
+"l'objecte digital, inclosa la previsualització."
 
 #: templates/static_pages/usingeuropeana_search.html:60
 msgid "will display only objects from selected institutions"
@@ -5671,26 +5823,29 @@ msgid ""
 "check boxes for the categories you wish the search results to include. The "
 "results will refresh automatically. The filter will be added to the"
 msgstr ""
-"Seleccioneu el nom del filtre, ex. \"Per llengua\" per desplegar-lo. "
+"Seleccioneu el nom del filtre, p. ex. \"Per llengua\" per desplegar-lo. "
 "Després, utilitzeu les caselles de verificació per seleccionar les "
 "categories que voleu que incloguin els resultats. Aquests s'actualitzaran "
-"automàticament.  "
+"automàticament a la llista de  "
 
 #: templates/static_pages/usingeuropeana_search.html:63
 msgid "list at the top of the pane."
-msgstr ""
+msgstr "a la part superior del panell."
 
 #: templates/static_pages/usingeuropeana_search.html:65
 msgid "To remove a filter, hit the X icon next to the item in the"
 msgstr ""
+"Per eliminar un filtre, feu clic a la X al costat de l'ítem a la llista de"
 
 #: templates/static_pages/usingeuropeana_search.html:65
 msgid "list, or de-select the check box next to the filter category."
 msgstr ""
+"o desseleccioneu la casella de verificació al costat de la categoria de "
+"filtre."
 
 #: templates/static_pages/usingeuropeana_search.html:67
 msgid "You can also select to"
-msgstr ""
+msgstr "També podeu seleccionar"
 
 #: templates/static_pages/usingeuropeana_search.html:67
 msgid ""
@@ -5698,31 +5853,44 @@ msgid ""
 "individual user, for example, items contributed to the Europeana 1914-1918 "
 "project."
 msgstr ""
+"Fa referència a ítems que no procedeixen d'institucions culturals, sinó "
+"d'usuaris individuals, per exemple, els ítems del projecte Europeana "
+"1914-1918."
 
 #: templates/static_pages/usingeuropeana_search.html:69
 msgid "Share your search with friends by choosing"
-msgstr ""
+msgstr "Per compartir la vostra cerca amb amics, seleccioneu"
 
 #: templates/static_pages/usingeuropeana_search.html:69
 msgid ""
 "A full list of social media sharing options is presented. Just select one "
 "you want. This also includes print and email options."
 msgstr ""
+"Es mostrarà una llista completa d'opcions per compartir als mitjans de "
+"comunicació social. Seleccioneu el que us interessi. També inclou les "
+"opcions d'impressió i enviar per correu electrònic. "
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:3
 msgid "Europeana - How to configure your search widget"
-msgstr ""
+msgstr "Europeana - Com configurar el giny de cerca"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:9
-msgid "How to configure your search widget"
+#: templates/static_pages/usingeuropeana_searchwidget.html:10
+msgid "You can add a Europeana search facility to your blog or website."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:10
-msgid ""
-"You can add a Europeana search facility to your blog or website. Our simple "
-"wizard takes you through the process step-by-step and gives you a snippet of "
-"code to embed."
+msgid "Our simple wizard"
 msgstr ""
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:10
+#, fuzzy
+msgid ""
+"takes you through the process step-by-step and gives you a snippet of code "
+"to embed."
+msgstr ""
+"Podeu afegir una funció de cerca Europeana al vostre  blog o lloc web. "
+"L'assistent us guiarà a través del procés pas a pas i us donarà un fragment "
+"de codi per incrustar."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:11
 msgid ""
@@ -5731,31 +5899,35 @@ msgid ""
 "to do with the First World War, or only images by Italian painters from the "
 "Rijksmuseum."
 msgstr ""
+"Configureu el giny per buscar a totes les col·leccions i els proveïdors de "
+"dades d'Europeana o afineu-lo per adaptar-lo al vostre lloc web, p. ex., per "
+"buscar només els vídeos que tenen relació amb la Primera Guerra Mundial, o "
+"només les imatges dels pintors italians del Rijksmuseum."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:12
 msgid "The Europeana Search Widget works with..."
-msgstr ""
+msgstr "El giny de cerca d'Europeana funciona amb ..."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:13
 #: templates/static_pages/usingeuropeana_searchwidget.html:15
 msgid "Information to follow."
-msgstr ""
+msgstr "Informació de seguiment."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:14
 msgid "The Europeana Search Widget doesn't work with..."
-msgstr ""
+msgstr "El giny de cerca d'Europeana no funciona amb ..."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:16
 msgid "Set up your Europeana Search Widget:"
-msgstr ""
+msgstr "Configureu el giny de cerca d'Europeana:"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:18
 msgid "Go to the search widget page."
-msgstr ""
+msgstr "Aneu a la pàgina del giny de cerca."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:19
 msgid "Introduction tab"
-msgstr "Pestanya d'introducció"
+msgstr "Pestanya Introducció"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:19
 msgid ""
@@ -5764,24 +5936,29 @@ msgid ""
 "by step. To start configuring your widget, tap 'Next' or the 'Filter' tab "
 "heading."
 msgstr ""
+"Us presentem el giny de cerca d'Europeana. Una barra de progrés us mostrarà "
+"com avanceu  i un vídeo us guiarà pas a pas. Per començar a configurar el "
+"giny premeu Següent o la pestanya Filtre."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:20
 msgid "Filter tab"
-msgstr "Pestanya de filtres"
+msgstr "Pestanya Filtre"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:20
 msgid ""
 "If you want your widget to include the entire Europeana dataset, you can go "
 "straight to the 'Style' tab. Tap 'Next' or the 'Style' tab heading."
 msgstr ""
+"si voleu que el giny inclogui tot el conjunt de dades d'Europeana, podeu "
+"anar directament a la pestanya Estil. Premeu Següent o la pestanya Estil."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:21
 msgid "To tailor your search widget"
-msgstr ""
+msgstr "Personalitzar el giny de cerca"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:23
 msgid "Keyword search"
-msgstr ""
+msgstr "Cerca per paraula clau"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:23
 msgid ""
@@ -5790,6 +5967,11 @@ msgid ""
 "(s) in the 'Search for' field. For example, if you are adding a widget to "
 "your First World War blog about military uniform, you might type 'uniform'."
 msgstr ""
+"Per defecte, el giny cerca a tot el conjunt de dades Europeana. Podeu "
+"restringir la cerca a una paraula clau o frase. Per a fer-ho, escriviu la "
+"paraula(es) clau al camp Cercar per. Per exemple, si esteu afegint-hi un "
+"giny al vostre blog de ​​la Primera Guerra Mundial sobre l'uniforme militar, "
+"podeu escriure \"uniforme\"."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:24
 msgid ""
@@ -5798,10 +5980,15 @@ msgid ""
 "searches on two words or 'NOT' to hide results for a particular word, e.g. "
 "'uniform AND war' or 'uniform NOT school'."
 msgstr ""
+"En aquest camp es poden utilitzar les funcions habituals de cerca, per "
+"exemple, utilitzar les cometes dobles per a cercar una frase, p. ex. "
+"\"uniforme militar\"; AND per incloure  dues paraules o NOT per excloure "
+"dels resultats una paraula en particular, per exemple, \"uniforme AND guerra"
+"\" o \"uniforme NOT escolar."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:25
 msgid "Search on types"
-msgstr ""
+msgstr "Cerca per tipus"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:25
 msgid ""
@@ -5814,11 +6001,10 @@ msgid ""
 msgstr ""
 "Per defecte, el giny retorna resultats de tot el conjunt de dades "
 "d'Europeana que responen a les paraules clau que heu utilitzat. Podeu "
-"restringir-los per \"Títols\", \"Creadors\", \"Matèries\", \"Períodes\", o "
-"\"Llocs\". Per exemple, si voleu veure només els resultats que tenen a veure "
-"amb \"París\", podeu introduir \"París\" com a paraula clau i \"·Llocs\" com "
-"a camp. Feu clic a 'Canviar' al costat de \"Tots els camps\" i seleccioneu "
-"l'opció que us interessa."
+"restringir-los per Títols, Creadors, Matèries, Dates/Períodes, o Llocs. Per "
+"exemple, si voleu veure només els resultats que tenen a veure amb \"París\", "
+"podeu introduir \"París\" com a paraula clau i Llocs com a camp. Feu clic a "
+"Canviar al costat de Tots els camps i seleccioneu l'opció que us interessa."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:26
 msgid ""
@@ -5833,8 +6019,8 @@ msgid ""
 "select more than one."
 msgstr ""
 "Per defecte, el giny retorna resultats de tots els proveïdors d'Europeana. "
-"Podeu restringir-los, per mostrar només un proveïdor. Feu clic a 'Canviar' "
-"al costat de \"Tots els proveïdors\" i seleccioneu el que us interessa. Els "
+"Podeu restringir-los, per mostrar només un proveïdor. Feu clic a Canviar al "
+"costat de Tots els proveïdors i seleccioneu el que us interessa. Els "
 "proveïdors es presenten ordenats segons la mida de la seva contribució a "
 "Europeana. El nombre entre parèntesis indica quants ítems es troben "
 "disponibles d'un proveïdor concret. Si el proveïdor va seguit d'una fletxa, "
@@ -5843,7 +6029,7 @@ msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:27
 msgid "Countries"
-msgstr ""
+msgstr "Països"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:27
 msgid ""
@@ -5855,16 +6041,15 @@ msgid ""
 "than one. To clear your selection and start again, tap 'Clear'."
 msgstr ""
 "Per defecte, el giny retorna resultats de tots els països. Podeu restringir-"
-"los, per mostrar només un país. Feu clic a 'Canviar' al costat de \"Tots els "
-"països proveïdors\" i seleccioneu el que us interessa. Els països es "
-"presenten ordenats segons mida. El nombre entre parèntesis indica quants "
-"ítems es troben disponibles d'un país concret. Nota: podeu seleccionar més "
-"d'un tipus. Per netejar la selecció i començar de nou, feu clic a \"Netejar"
-"\"."
+"los, per mostrar només un país. Feu clic a Canviar al costat de Tots els "
+"països proveïdors i seleccioneu el que us interessa. Els països es presenten "
+"ordenats segons mida. El nombre entre parèntesis indica quants ítems es "
+"troben disponibles d'un país concret. Nota: podeu seleccionar més d'un "
+"tipus. Per netejar la selecció i començar de nou, feu clic a Netejar."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:28
 msgid "Media types"
-msgstr ""
+msgstr "Tipus"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:28
 msgid ""
@@ -5878,15 +6063,15 @@ msgid ""
 msgstr ""
 "Per defecte, el giny retorna resultats per a qualsevol tipus: imatge, text, "
 "so, vídeo i 3D. Podeu restringir-los, per mostrar només un tipus determinat. "
-"Feu clic a 'Canviar' al costat de \"Tots els tipus\" i seleccioneu el que us "
+"Feu clic a Canviar al costat de Tots els tipus i seleccioneu el que us "
 "interessa. Els tipus es presenten ordenats segons mida. El nombre entre "
 "parèntesis indica quants ítems  es troben disponibles per a un tipus "
 "concret. Nota: podeu seleccionar més d'un tipus. Per netejar la selecció i "
-"començar de nou, feu clic a \"Netejar\"."
+"començar de nou, feu clic a Netejar. "
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:29
 msgid "Copyright"
-msgstr ""
+msgstr "Drets d'autor"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:29
 msgid ""
@@ -5898,33 +6083,33 @@ msgid ""
 "To clear your selection and start again, tap 'Clear'."
 msgstr ""
 "Per defecte, el giny retorna resultats amb qualsevol tipus de drets d'autor. "
-"Podeu restringir-los, per exemple, per mostrar només el contingut "
-"reutilitzable. Feu clic a 'Canviar' al costat de \"Tots els drets d'autor\" "
-"i seleccioneu l'estatus que us interessa. Els estatus de drets d'autor es "
+"Podeu restringir-los, per exemple, per mostrar només el contingut re-"
+"utilitzable. Feu clic a Canviar al costat de Tots els drets d'autor i "
+"seleccioneu l'estatus que us interessa. Els estatus de drets d'autor es "
 "presenten ordenats segons mida. El nombre entre parèntesis indica quants "
 "ítems  es troben disponibles en un estatus determinat. Nota: podeu "
 "seleccionar més d'un estatus. Per netejar la selecció i començar de nou, feu "
-"clic a \"Netejar\"."
+"clic a Netejar."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:30
 msgid "More information on the CC licenses"
-msgstr ""
+msgstr "Més informació sobre les llicències CC"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:31
 msgid "More information on the Rights Reserved - Free Access label"
-msgstr ""
+msgstr "Més informació sobre l'etiqueta Drets Reservats - Accés lliure"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:32
 msgid "More information on the Rights Reserved - Restricted Access label"
-msgstr ""
+msgstr "Més informació sobre l'etiqueta Drets Reservats - Accés restringit"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:33
 msgid "More information on the Rights Reserved - Paid Access label"
-msgstr ""
+msgstr "Més informació sobre l'etiqueta Drets Reservats - Accés de pagament"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:34
 msgid "More information on the Unknown rights label"
-msgstr ""
+msgstr "Més informació sobre l'etiqueta Drets Desconeguts"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:35
 msgid "Languages"
@@ -5940,20 +6125,20 @@ msgid ""
 "clear your selection and start again, tap 'Clear'."
 msgstr ""
 "Per defecte, el giny retorna resultats en totes les llengües. Podeu "
-"restringir-los a les llengües que seleccioneu.  Feu clic a \"Canviar\", prop "
-"de \"Totes les llengües\" i seleccioneu les llengües que necessiteu. Les "
-"llengües es troben ordenades segons la mida de la seva presència a "
-"Europeana.  El nombre entre parèntesi mostra quants ítems es troben "
-"disponibles en cada llengua. Nota: podeu seleccionar més d'una llengua. Per "
-"netejar la selecció i començar de nou, feu clic a \"Netejar\"."
+"restringir-los a les llengües que seleccioneu.  Feu clic a Canviar, prop de "
+"Totes les llengües i seleccioneu les llengües que necessiteu. Les llengües "
+"es troben ordenades segons la mida de la seva presència a Europeana.  El "
+"nombre entre parèntesi mostra quants ítems es troben disponibles en cada "
+"llengua. Nota: podeu seleccionar més d'una llengua. Per netejar la selecció "
+"i començar de nou, feu clic a Netejar."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:36
 msgid ""
 "When you have selected all your filters, tap 'Next' or the 'Style' tab "
 "heading."
 msgstr ""
-"Quan hagueu seleccionat tots els filtres, feu clic a \"Següent\" o a la "
-"pestanya \"Estil\"."
+"Quan hageu seleccionat tots els filtres, feu clic a Següent o a la pestanya "
+"Estil."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:38
 msgid "Style tab"
@@ -5969,11 +6154,11 @@ msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:39
 msgid "Tap 'Next' or the 'Preview' tab heading."
-msgstr "Feu clic a \"Següent\" o a la pestanya \"Previsualització\""
+msgstr "Feu clic a Següent o a la pestanya Previsualització."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:40
 msgid "Preview tab"
-msgstr ""
+msgstr "Pestanya Previsualització"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:40
 msgid ""
@@ -5981,34 +6166,50 @@ msgid ""
 "so expands to fit the width of its container. For this reason, it may be a "
 "different size on the preview than it will be on your own web page."
 msgstr ""
+"Es mostrarà el giny. Tingueu en compte que el giny és sensible i s'expandeix "
+"per ajustar-se a l'amplada del contenidor. Per aquesta raó, la  "
+"previsualització pot tenir una mida diferent a la que tindrà a la vostre "
+"pàgina web."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:42
 msgid ""
 "If you wish to amend the widget's properties, just go back to the 'Search', "
 "'Filter' or 'Style' tab and make your changes."
 msgstr ""
+"Si voleu modificar les propietats del giny, només cal que aneu de nou a les "
+"pestanyes Cerca, Filtre o Estil i feu els canvis que volgueu."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:43
 msgid ""
 "If you are happy with your widget, simply copy the 'Embed' code displayed "
 "and paste this into your web page."
 msgstr ""
+"Quan estigueu satisfets amb el vostre giny, simplement, copieu el codi "
+"Incrustat que es visualitzarà i enganxeu-lo a la vostre pàgina web."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:44
 msgid ""
 "We would love to know how you are using this search widget, please tell us "
 "by dropping us an email at"
 msgstr ""
+"Ens agradaria saber com utilitzeu el giny de cerca, si us plau, digueu-nos-"
+"ho enviant-nos un correu electrònic a"
 
 #: templates/static_pages/whatsnew.html:3
 msgid "Europeana - What's New"
-msgstr ""
+msgstr "Europeana - Novetats"
+
+#: templates/static_pages/whatsnew.html:9
+msgid "What's New"
+msgstr "Novetats"
 
 #: templates/static_pages/whatsnew.html:11
 msgid ""
 "We've made some changes so that as well as having a fresh new look and feel, "
 "it's now easier for you to discover and explore Europeana's treasures."
 msgstr ""
+"Hem fet alguns canvis de manera que, a més de tenir una nou aspecte-i-"
+"sensació, ara és més fàcil descobrir i explorar els tresors d'Europeana."
 
 #: templates/static_pages/whatsnew.html:13
 msgid ""
@@ -6017,6 +6218,11 @@ msgid ""
 "whether you're using a touchscreen smartphone or a large desktop, the portal "
 "will tailor its presentation so the layout always suits the screen."
 msgstr ""
+"Un dels canvis més importants és que el lloc web ara és adaptatiu, és a dir, "
+"s'ajusta automàticament a diferents dispositius i mides de pantalla. Així, "
+"tant si esteu utilitzant un telèfon intel·ligent amb pantalla tàctil com un "
+"gran escriptori, el portal adaptarà la seva presentació de manera que el "
+"disseny encaixi sempre en la pantalla."
 
 #: templates/static_pages/whatsnew.html:15
 msgid ""
@@ -6024,6 +6230,9 @@ msgid ""
 "type. We'll predict what you're looking for and make recommendations based "
 "on that, before you’ve even finished typing."
 msgstr ""
+"La cerca és encara més fàcil amb els nous suggeriments automàtics que "
+"apareixen a mesura que escriviu. Preveiem  el que esteu cercant i us fem "
+"recomanacions basades en aquesta previsió abans que hagueu acabat d'escriure."
 
 #: templates/static_pages/whatsnew.html:17
 msgid ""
@@ -6042,7 +6251,7 @@ msgid ""
 "features. Register for API keys"
 msgstr ""
 "Per als que sou desenvolupadors, també hem llançat l'API d'Europeana "
-"(Application Programming Interface) v2.0 amb una consola millorada i noves "
+"(Application Programming Interface) v2.0 amb una cònsola millorada i noves "
 "característiques. Registreu-vos per obtenir les claus API"
 
 #: templates/static_pages/whatsnew.html:19
@@ -6714,9 +6923,6 @@ msgstr "Esperem que us agradi el nou disseny d'Europeana."
 
 #~ msgid "Our technical team will look into it."
 #~ msgstr "El nostre equip tècnic s'ho mirarà."
-
-#~ msgid "Working With Europeana"
-#~ msgstr "Treballar a Europeana"
 
 #~ msgid "Do you have any job openings or internships?"
 #~ msgstr "Teniu ofertes de treball o pràctiques?"
