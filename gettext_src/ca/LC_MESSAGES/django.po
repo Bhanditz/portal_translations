@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-28 09:59+0100\n"
+"POT-Creation-Date: 2013-10-28 10:38+0100\n"
 "PO-Revision-Date: 2013-10-26 11:30\n"
 "Last-Translator: Catalan  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -330,8 +330,6 @@ msgid "Using My Europeana"
 msgstr "Utilitzar la Meva Europeana"
 
 #: templates/usingeuropeana_leftmenu.html:10
-#: templates/static_pages/prop_file.html:901
-#: templates/static_pages/prop_file.html:902
 msgid "What's new"
 msgstr "Novetats"
 
@@ -4272,6 +4270,12 @@ msgstr "Europeana Professional"
 #: templates/static_pages/prop_file.html:878
 msgid "Professional"
 msgstr "Professional"
+
+#: templates/static_pages/prop_file.html:901
+#: templates/static_pages/prop_file.html:902
+#, fuzzy
+msgid "Configure your search widget"
+msgstr "Com configurar el giny de cerca d'Europeana"
 
 #: templates/static_pages/prop_file.html:938
 msgid "Change limit for an API key"
