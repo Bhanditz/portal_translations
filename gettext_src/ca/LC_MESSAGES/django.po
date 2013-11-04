@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-29 12:27+0100\n"
+"POT-Creation-Date: 2013-11-04 15:42+0100\n"
 "PO-Revision-Date: 2013-10-26 11:30\n"
 "Last-Translator: Catalan  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3325,7 +3325,7 @@ msgid "Media Types"
 msgstr "Tipus"
 
 #: templates/static_pages/prop_file.html:359
-#: templates/static_pages/usingeuropeana_searchwidget.html:26
+#: templates/static_pages/usingeuropeana_searchwidget.html:30
 msgid "Providers"
 msgstr "Proveïdors"
 
@@ -5897,11 +5897,12 @@ msgstr ""
 "de codi per incrustar."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:11
+#, fuzzy
 msgid ""
 "Configure the widget to search all collections and data providers within "
-"Europeana, or refine it to suit your website, e.g. to search only for videos "
-"to do with the First World War, or only images by Italian painters from the "
-"Rijksmuseum."
+"Europeana, or refine it to suit your website, e.g. to search only within "
+"Public Domain or Creative Commons, or only licensed images from a specific "
+"country."
 msgstr ""
 "Configureu el giny per buscar a totes les col·leccions i els proveïdors de "
 "dades d'Europeana o afineu-lo per adaptar-lo al vostre lloc web, p. ex., per "
@@ -5913,27 +5914,30 @@ msgid "The Europeana Search Widget works with..."
 msgstr "El giny de cerca d'Europeana funciona amb ..."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:13
-#: templates/static_pages/usingeuropeana_searchwidget.html:15
-msgid "Information to follow."
-msgstr "Informació de seguiment."
+msgid "Sites that you host yourself."
+msgstr ""
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:14
+#: templates/static_pages/usingeuropeana_searchwidget.html:18
 msgid "The Europeana Search Widget doesn't work with..."
 msgstr "El giny de cerca d'Europeana no funciona amb ..."
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:16
+#: templates/static_pages/usingeuropeana_searchwidget.html:19
+msgid "Blogs hosted on Wordpress.com"
+msgstr ""
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:20
 msgid "Set up your Europeana Search Widget:"
 msgstr "Configureu el giny de cerca d'Europeana:"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:18
+#: templates/static_pages/usingeuropeana_searchwidget.html:22
 msgid "Go to the search widget page."
 msgstr "Aneu a la pàgina del giny de cerca."
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:19
+#: templates/static_pages/usingeuropeana_searchwidget.html:23
 msgid "Introduction tab"
 msgstr "Pestanya Introducció"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:19
+#: templates/static_pages/usingeuropeana_searchwidget.html:23
 msgid ""
 "The Europeana Search widget is presented. A progress bar shows you how far "
 "you are through the process and a video takes you through the process step "
@@ -5944,11 +5948,11 @@ msgstr ""
 "com avanceu  i un vídeo us guiarà pas a pas. Per començar a configurar el "
 "giny premeu Següent o la pestanya Filtre."
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:20
+#: templates/static_pages/usingeuropeana_searchwidget.html:24
 msgid "Filter tab"
 msgstr "Pestanya Filtre"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:20
+#: templates/static_pages/usingeuropeana_searchwidget.html:24
 msgid ""
 "If you want your widget to include the entire Europeana dataset, you can go "
 "straight to the 'Style' tab. Tap 'Next' or the 'Style' tab heading."
@@ -5956,15 +5960,15 @@ msgstr ""
 "si voleu que el giny inclogui tot el conjunt de dades d'Europeana, podeu "
 "anar directament a la pestanya Estil. Premeu Següent o la pestanya Estil."
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:21
+#: templates/static_pages/usingeuropeana_searchwidget.html:25
 msgid "To tailor your search widget"
 msgstr "Personalitzar el giny de cerca"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:23
+#: templates/static_pages/usingeuropeana_searchwidget.html:27
 msgid "Keyword search"
 msgstr "Cerca per paraula clau"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:23
+#: templates/static_pages/usingeuropeana_searchwidget.html:27
 msgid ""
 "By default, the widget searches the entire Europeana dataset. You can "
 "restrict the search to a key word or phrase. To do this, enter the key word"
@@ -5977,7 +5981,7 @@ msgstr ""
 "giny al vostre blog de ​​la Primera Guerra Mundial sobre l'uniforme militar, "
 "podeu escriure \"uniforme\"."
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:24
+#: templates/static_pages/usingeuropeana_searchwidget.html:28
 msgid ""
 "All the normal search functions work in this field, for example, use double "
 "quotes for a phrase, e.g. &quot;military uniform&quot;, use 'AND' to include "
@@ -5990,11 +5994,11 @@ msgstr ""
 "dels resultats una paraula en particular, per exemple, \"uniforme AND guerra"
 "\" o \"uniforme NOT escolar."
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:25
+#: templates/static_pages/usingeuropeana_searchwidget.html:29
 msgid "Search on types"
 msgstr "Cerca per tipus"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:25
+#: templates/static_pages/usingeuropeana_searchwidget.html:29
 msgid ""
 "By default, the widget will search the entire Europeana dataset for your key "
 "words. You can restrict the search to 'Titles', 'Creators', 'Subjects', "
@@ -6010,7 +6014,7 @@ msgstr ""
 "podeu introduir \"París\" com a paraula clau i Llocs com a camp. Feu clic a "
 "Canviar al costat de Tots els camps i seleccioneu l'opció que us interessa."
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:26
+#: templates/static_pages/usingeuropeana_searchwidget.html:30
 msgid ""
 "By default, the widget returns results from all of Europeana's providers. "
 "You can restrict it to your chosen providers.  Tap 'Change' next to 'All  "
@@ -6031,11 +6035,11 @@ msgstr ""
 "vol dir que és un agregador, feu clic damunt la fletxa per veure les "
 "institucions que hi col·laboren. Nota: podeu seleccionar més d'un proveïdor. "
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:27
+#: templates/static_pages/usingeuropeana_searchwidget.html:31
 msgid "Countries"
 msgstr "Països"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:27
+#: templates/static_pages/usingeuropeana_searchwidget.html:31
 msgid ""
 "By default, the widget returns results from all countries. You can restrict "
 "it to your chosen countries. Tap 'Change' next to 'All Providing Countries' "
@@ -6051,11 +6055,11 @@ msgstr ""
 "troben disponibles d'un país concret. Nota: podeu seleccionar més d'un "
 "tipus. Per netejar la selecció i començar de nou, feu clic a Netejar."
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:28
+#: templates/static_pages/usingeuropeana_searchwidget.html:32
 msgid "Media types"
 msgstr "Tipus"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:28
+#: templates/static_pages/usingeuropeana_searchwidget.html:32
 msgid ""
 "By default, the widget returns results of all media types - image, text, "
 "sound, video and 3D. You can restrict it to only the media types you're "
@@ -6073,11 +6077,11 @@ msgstr ""
 "concret. Nota: podeu seleccionar més d'un tipus. Per netejar la selecció i "
 "començar de nou, feu clic a Netejar. "
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:29
+#: templates/static_pages/usingeuropeana_searchwidget.html:33
 msgid "Copyright"
 msgstr "Drets d'autor"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:29
+#: templates/static_pages/usingeuropeana_searchwidget.html:33
 msgid ""
 "By default, the widget returns results with any copyright status. You can "
 "restrict this, for example, to only show re-usable content. Tap 'Change' "
@@ -6095,31 +6099,31 @@ msgstr ""
 "seleccionar més d'un estatus. Per netejar la selecció i començar de nou, feu "
 "clic a Netejar."
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:30
+#: templates/static_pages/usingeuropeana_searchwidget.html:34
 msgid "More information on the CC licenses"
 msgstr "Més informació sobre les llicències CC"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:31
+#: templates/static_pages/usingeuropeana_searchwidget.html:35
 msgid "More information on the Rights Reserved - Free Access label"
 msgstr "Més informació sobre l'etiqueta Drets Reservats - Accés lliure"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:32
+#: templates/static_pages/usingeuropeana_searchwidget.html:36
 msgid "More information on the Rights Reserved - Restricted Access label"
 msgstr "Més informació sobre l'etiqueta Drets Reservats - Accés restringit"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:33
+#: templates/static_pages/usingeuropeana_searchwidget.html:37
 msgid "More information on the Rights Reserved - Paid Access label"
 msgstr "Més informació sobre l'etiqueta Drets Reservats - Accés de pagament"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:34
+#: templates/static_pages/usingeuropeana_searchwidget.html:38
 msgid "More information on the Unknown rights label"
 msgstr "Més informació sobre l'etiqueta Drets Desconeguts"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:35
+#: templates/static_pages/usingeuropeana_searchwidget.html:39
 msgid "Languages"
 msgstr "Llengües"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:35
+#: templates/static_pages/usingeuropeana_searchwidget.html:39
 msgid ""
 "By default, the widget returns results in all languages. You can restrict it "
 "to your chosen languages. Tap 'Change' next to 'All Languages' and select "
@@ -6136,7 +6140,7 @@ msgstr ""
 "llengua. Nota: podeu seleccionar més d'una llengua. Per netejar la selecció "
 "i començar de nou, feu clic a Netejar."
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:36
+#: templates/static_pages/usingeuropeana_searchwidget.html:40
 msgid ""
 "When you have selected all your filters, tap 'Next' or the 'Style' tab "
 "heading."
@@ -6144,11 +6148,11 @@ msgstr ""
 "Quan hageu seleccionat tots els filtres, feu clic a Següent o a la pestanya "
 "Estil."
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:38
+#: templates/static_pages/usingeuropeana_searchwidget.html:42
 msgid "Style tab"
 msgstr "Pestanya Estil"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:38
+#: templates/static_pages/usingeuropeana_searchwidget.html:42
 msgid ""
 "You can choose a black or white widget and select to include thumbnails or "
 "not. Select the style you would like to use."
@@ -6156,15 +6160,15 @@ msgstr ""
 "Podeu seleccionar un giny blanc o negre i triar si incloure miniatures o no. "
 "Seleccioneu l'estil que voleu utilitzar."
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:39
+#: templates/static_pages/usingeuropeana_searchwidget.html:43
 msgid "Tap 'Next' or the 'Preview' tab heading."
 msgstr "Feu clic a Següent o a la pestanya Previsualització."
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:40
+#: templates/static_pages/usingeuropeana_searchwidget.html:44
 msgid "Preview tab"
 msgstr "Pestanya Previsualització"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:40
+#: templates/static_pages/usingeuropeana_searchwidget.html:44
 msgid ""
 "Your widget will be displayed. Please note that the widget is responsive and "
 "so expands to fit the width of its container. For this reason, it may be a "
@@ -6175,7 +6179,7 @@ msgstr ""
 "previsualització pot tenir una mida diferent a la que tindrà a la vostre "
 "pàgina web."
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:42
+#: templates/static_pages/usingeuropeana_searchwidget.html:46
 msgid ""
 "If you wish to amend the widget's properties, just go back to the 'Search', "
 "'Filter' or 'Style' tab and make your changes."
@@ -6183,7 +6187,7 @@ msgstr ""
 "Si voleu modificar les propietats del giny, només cal que aneu de nou a les "
 "pestanyes Cerca, Filtre o Estil i feu els canvis que volgueu."
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:43
+#: templates/static_pages/usingeuropeana_searchwidget.html:47
 msgid ""
 "If you are happy with your widget, simply copy the 'Embed' code displayed "
 "and paste this into your web page."
@@ -6191,7 +6195,7 @@ msgstr ""
 "Quan estigueu satisfets amb el vostre giny, simplement, copieu el codi "
 "Incrustat que es visualitzarà i enganxeu-lo a la vostre pàgina web."
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:44
+#: templates/static_pages/usingeuropeana_searchwidget.html:48
 msgid ""
 "We would love to know how you are using this search widget, please tell us "
 "by dropping us an email at"
@@ -6265,6 +6269,9 @@ msgstr "aquí"
 #: templates/static_pages/whatsnew.html:21
 msgid "We hope you enjoy using the new-look Europeana."
 msgstr "Esperem que us agradi el nou disseny d'Europeana."
+
+#~ msgid "Information to follow."
+#~ msgstr "Informació de seguiment."
 
 #~ msgid "Europeana - Terms for User Contributions"
 #~ msgstr "Europeana - Condicions per a les contribucions d'usuaris"

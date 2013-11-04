@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-03-21 21:44+0100\n"
-"PO-Revision-Date: 2013-10-18 19:13\n"
+"PO-Revision-Date: 2013-11-01 11:56\n"
 "Last-Translator: Icelandic  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -130,7 +130,7 @@ msgstr "Kort"
 #: templates/static_pages/prop_file1.html:708
 #: templates/static_pages/prop_file1.html:709
 msgid "Follow Us"
-msgstr "Fylgstu með okkur"
+msgstr "Fylgstu með"
 
 #: templates/followus_leftmenu.html:5
 #: templates/static_pages/prop_file.html:618
@@ -430,7 +430,7 @@ msgstr "Nýtt"
 #: templates/static_pages/prop_file1.html:685
 #: templates/static_pages/sitemap1.html:28
 msgid "FAQs"
-msgstr "Spurt og svarað"
+msgstr "Algengar spurningar"
 
 #: templates/rights/accessibility.html:4 templates/tou/accessibility.html:4
 msgid "Europeana - Accessibility policy"
@@ -441,14 +441,14 @@ msgid ""
 "Europeana.eu features and content have been designed to be universally\n"
 "accessible by users and user agents/devices. We strive to meet the WC3 Web\n"
 "Content Accessibility Guidelines Version 1.0."
-msgstr "Virkni og innihald Europeana.eu er hannað til að allir notendur geti með hugbúnaði sínum notið aðgangs að því. Við keppumst við að mæta þeim kröfum sem settar eru fram í útgáfu 1.0 af viðmiðunarreglum WC3 um vefaðgengi."
+msgstr "Virkni og innihald Europeana.eu er sett upp til að allir notendur geti notið aðgangs að því með sínum hugbúnaði. Við keppumst við að uppfylla þær kröfur sem settar eru fram í útgáfu 1.0 af viðmiðunarreglum W3C um vefaðgengi."
 
 #: templates/rights/accessibility.html:22 templates/tou/accessibility.html:17
 msgid ""
 "Our User Centred Design team frequently conducts usability testing of\n"
 "Europeana.eu navigation, flow, labels, and consistency. Furthermore,\n"
 "we will produce a version &ndash; post this prototype phase &ndash; for blind individuals."
-msgstr "Hönnunarteymið okkar framkvæmir oft notendaprófanir á Europeana.eu til að kanna leiðarkerfi, flæði, merkingar og samræmi. Auk þess munum við gera útgáfu &ndash; eftir þetta frumgerðarstig &ndash; fyrir blinda."
+msgstr "Hönnunarteymið okkar framkvæmir oft notendaprófanir á Europeana.eu til að kanna leiðarkerfi, flæði, merkingar og samræmi. Auk þess munum við &ndash; eftir þetta frumgerðarstig &ndash; gera útgáfu fyrir blinda."
 
 #: templates/rights/accessibility.html:27 templates/tou/accessibility.html:22
 msgid "Some of the accessibility features of our site include"
@@ -456,7 +456,7 @@ msgstr "Aðgengi að vefsetrinu felur meðal annars í sér"
 
 #: templates/rights/accessibility.html:30 templates/tou/accessibility.html:25
 msgid "Meaningful page titles to help with orientation"
-msgstr "Lýsandi síðuheiti aðstoða við staðsetningu í leiðarkerfi vefsins"
+msgstr "Lýsandi síðuheiti aðstoða við staðsetningu í leiðarkerfinu"
 
 #: templates/rights/accessibility.html:31 templates/tou/accessibility.html:26
 msgid "Almost all images have either a meaningful alt-text (text equivalent)"
@@ -468,7 +468,7 @@ msgstr "Notkun ramma er í lágmarki"
 
 #: templates/rights/accessibility.html:33 templates/tou/accessibility.html:28
 msgid "Use of resizable fonts"
-msgstr "Notendur geta breytt stærð leturs"
+msgstr "Leturstærðir eru breytanlegar"
 
 #: templates/rights/accessibility.html:34 templates/tou/accessibility.html:29
 msgid "Use Cascading Style Sheets (CSS) to separate content from presentation"
@@ -476,11 +476,11 @@ msgstr "Stílsnið (CSS) eru notuð til að greina innihald frá útliti"
 
 #: templates/rights/accessibility.html:35 templates/tou/accessibility.html:30
 msgid "Notifying a user when a link opens a new window"
-msgstr "Notanda er tilkynnt hvenær tengill opnar nýjan glugga"
+msgstr "Notanda er tilkynnt um hvenær tengill opnar nýjan glugga"
 
 #: templates/rights/accessibility.html:36 templates/tou/accessibility.html:31
 msgid "The (core) functionalities are usable without JavaScript"
-msgstr "Vefurinn virkar án notkunar JavaScript"
+msgstr "Vefurinn virkar í meginatriðum án JavaScript"
 
 #: templates/rights/accessibility.html:40 templates/tou/accessibility.html:35
 msgid "Please send us any feedback or questions on the accessibility of Europeana.eu with the"
@@ -545,7 +545,7 @@ msgstr "skjót birting upplýsinga nýtur forgangs fram yfir þýðingar"
 #: templates/rights/languagepolicy.html:34
 #: templates/tou/languagepolicy.html:29
 msgid "Allow limited 'language mixing' (**) i.e.: where a warning sign needs to be displayed"
-msgstr "Leyfa á takmarkaðan hátt „blöndun tungumála“ (**), þ.e. þar sem aðvaranir þurfa að birtast"
+msgstr "Leyfa takmarkaða „blöndun tungumála“ (**), þ.e. þar sem aðvaranir þurfa að birtast"
 
 #: templates/rights/languagepolicy.html:39
 #: templates/tou/languagepolicy.html:34
@@ -572,7 +572,7 @@ msgstr "Europeana.eu mun þróa og viðhalda þýðingartólum"
 msgid ""
 "The completion of the translations will be the responsibility of\n"
 "each designated volunteer partner institution"
-msgstr "Gerð þýðinga er á eigin ábyrgð hverrar samstarfsstofnunar "
+msgstr "Gerð þýðinga er á ábyrgð hverrar samstarfsstofnunar fyrir sig"
 
 #: templates/rights/languagepolicy.html:52
 #: templates/tou/languagepolicy.html:47
@@ -585,7 +585,7 @@ msgid ""
 "Europeana.eu will notify each designated volunteer partner\n"
 "institution should an update be required but will not chase for that\n"
 "update"
-msgstr "Europeana.eu mun láta samstarfsstofnanir sínar vita að þörf sé á uppfærslu en mun ekki eltast við framkvæmd uppfærslunnar"
+msgstr "Europeana.eu mun láta samstarfsstofnanir sínar vita að þörf sé á uppfærslu en mun ekki eltast við framkvæmd hennar"
 
 #: templates/rights/languagepolicy.html:56
 #: templates/tou/languagepolicy.html:51
@@ -599,7 +599,7 @@ msgstr "Áríðandi eða skammlífar tilkynningar verða einungis á ensku, t.d.
 msgid ""
 "All surveys about the site will be produced in all\n"
 "feasible languages only"
-msgstr "Allar kannanir um vefinn verða aðeins framkvæmdar á þeim tungumálum sem eru nothæf til"
+msgstr "Allar kannanir um vefinn verða aðeins framkvæmdar á þeim tungumálum sem eru nothæf"
 
 #: templates/rights/languagepolicy.html:60
 #: templates/tou/languagepolicy.html:55
@@ -622,7 +622,7 @@ msgid ""
 "If, however, an individual institution wishes to translate and maintain\n"
 "any of the above from within their own resources, Europeana.eu would be happy\n"
 "to enable its display"
-msgstr "Ef einstakar stofnanir óska eftir að þýða og viðhalda einhverju ofantalinna innan sinna eigin vébanda, mun Europeana.eu heimila birtingu þess með ánægju"
+msgstr "Ef einstakar stofnanir óska eftir að þýða og viðhalda einhverju ofantalinna innan sinna eigin vébanda, mun Europeana.eu með ánægju leyfa birtingu þess"
 
 #: templates/rights/languagepolicy.html:69 templates/rights/privacy.html:93
 #: templates/tou/languagepolicy.html:64 templates/tou/privacy.html:88
@@ -660,7 +660,7 @@ msgstr "Þakkið þeim sem eiga það skilið."
 
 #: templates/rights/metadata-usage-guidelines.html:30
 msgid "Give attribution to the data provider and all contributing data aggregators, including Europeana. Aggregators perform a crucial task in collecting, storing and harmonising data so that it is more widely accessible and interoperable."
-msgstr "Vísið til efnisveitu og allra viðkomandi gagnalauga, þar á meðal Europana. Gagnalaugar vinna mikilvægt verk við að safna, geyma og samræma gögn til að tryggja dreifingu þeirra og samhæfni. "
+msgstr "Vísið til efnisveitu og allra viðkomandi gagnasafna, þar á meðal Europana. Gagnasöfn vinna mikilvægt verk við að safna, geyma og samræma gögn til að tryggja dreifingu þeirra og samhæfni. "
 
 #: templates/rights/metadata-usage-guidelines.html:31
 msgid "Make sure that others are aware of the rights status of the Europeana metadata and are aware of these guidelines. One way you can do this is to keep links to the CC0 Public Domain Dedication intact."
@@ -688,7 +688,7 @@ msgstr "Láttu vita af breytingum sem þú gerir á lýsigögnunum og gefðu bre
 
 #: templates/rights/metadata-usage-guidelines.html:47
 msgid "Please do not use the metadata in a way that suggests you have any official status or that the data provider, aggregator or Europeana endorses you or your use of the metadata, unless you have prior permission to do so."
-msgstr "Vinsamlega notaðu ekki lýsigögnin á þann hátt að þú virðist njóta opinberrar stöðu eða að efnisveitan, gagnalaugin eða Europeana styðji þig eða notkun þína á lýsigögnunum, nema þú hafir fengið leyfi til þess."
+msgstr "Vinsamlega notaðu ekki lýsigögnin á þann hátt að þú sýnist njóta opinberrar stöðu eða að efnisveitan, gagnasafnið eða Europeana styðji þig eða notkun þína á lýsigögnunum, nema þú hafir fengið leyfi til þess."
 
 #: templates/rights/metadata-usage-guidelines.html:48
 msgid "Please do not mislead others or misrepresent the metadata or its sources."
@@ -696,7 +696,7 @@ msgstr "Ekki afvegaleiða aðra notendur eða gefa villandi hugmynd um lýsigög
 
 #: templates/rights/metadata-usage-guidelines.html:49
 msgid "Please make the metadata and any improvements thereto freely available under the same terms as Europeana, i.e., without claiming any legal right to, or imposing any legally binding conditions on access to the metadata or your improvements."
-msgstr "Vinsamlega gefðu því frjálsan aðgang að lýsigögnunum og öllum úrbótum á þeim með sömu skilyrðum og Europeana, þ.e. án þess að gera tilkall til lagalegs réttar eða með því að setja lagalega bindandi skilyrði fyrir aðgang að þeim eða þínum úrbótum á þeim."
+msgstr "Vinsamlega gefðu frjálsan aðgang að lýsigögnunum og öllum úrbótum á þeim með sömu skilyrðum og Europeana, þ.e. án þess að gera tilkall til lagalegs réttar eða með því að setja lagalega bindandi skilyrði fyrir aðgang að þeim eða þínum úrbótum á þeim."
 
 #: templates/rights/metadata-usage-guidelines.html:53
 msgid "Please note that you use the metadata at your own risk."
@@ -712,7 +712,7 @@ msgstr "Öll notkun lýsigagnanna skal vera í samræmi við gildandi lög og re
 
 #: templates/rights/metadata-usage-guidelines.html:59
 msgid "Be aware of any additional applicable community norms of data providers and data aggregators."
-msgstr "Kynntu þér viðeigandi viðbótarreglur efnisveita og gagnalauga."
+msgstr "Kynntu þér viðeigandi viðbótarreglur efnisveita og gagnasafna."
 
 #: templates/rights/metadata-usage-guidelines.html:63
 msgid "Thank you for your cooperation"
@@ -756,7 +756,7 @@ msgstr "Europeana.eu skráir eða safnar smákökum og upplýsingum um notendur 
 
 #: templates/rights/privacy.html:38 templates/tou/privacy.html:33
 msgid "To monitor and to better administer traffic to the website."
-msgstr "Til að fylgjast með og stjórna umferð um vefsetrið"
+msgstr "Til að fylgjast með og stjórna betur umferð um vefsetrið"
 
 #: templates/rights/privacy.html:39 templates/tou/privacy.html:34
 msgid "To assess and improve usability, services and content."
@@ -796,7 +796,7 @@ msgstr "Europeana.eu virðir einkalíf þitt og leitast við að vernda persónu
 
 #: templates/rights/privacy.html:59 templates/tou/privacy.html:54
 msgid "Europeana.eu takes all necessary measures to protect the data from un-authorised access and use in a way other than that stated in the Privacy Policy. Europeana.eu is hosted by SARA in The Netherlands and therefore uses the systems and security in place for this public institution."
-msgstr "Europeana.eu gerir allar nauðsynlegar ráðstafanir til að varna því að óskráðir notendur fái aðgang að og nýti sér gögn á annan hátt en kveðið er á um í notkunarskilmálanum. Europeana.eu er hýst hjá SARA í Hollandi og notar þar af leiðandi þau kerfi og öryggisbúnað sem eru til staðar hjá þeirri stofnun."
+msgstr "Europeana.eu gerir allar nauðsynlegar ráðstafanir til að varna því að óskráðir notendur fái aðgang að og nýti sér gögn á annan hátt en kveðið er á um í notkunarskilmálanum. Europeana.eu er hýst hjá SARA í Hollandi og notar þar af leiðandi þau kerfi og öryggisbúnað sem eru til staðar hjá þeirri opinberu stofnun."
 
 #: templates/rights/privacy.html:62 templates/tou/privacy.html:57
 msgid "The data are stored for as long as they are useful for administrative reasons. Non-personal data may be stored indefinitely as research material."
@@ -812,7 +812,7 @@ msgstr "Varðandi þessa stefnu um friðhelgi einkalífs"
 
 #: templates/rights/privacy.html:70 templates/tou/privacy.html:65
 msgid "This Site may contain links to other web sites that are beyond our control. This privacy policy applies solely to the information you provide while visiting this Site. Other web sites to which you link may contain privacy policies that are different from this privacy policy."
-msgstr "Þessi vefur kann að innhalda tengla yfir á vefi sem eru ekki í okkar umsjá. Stefna okkar um friðhelgi einkalífs á því aðeins við um þær upplýsingar sem notendur gefa upp við heimsókn hingað. Aðrir vefir sem notendur heimsækja kunna að hafa stefnu um friðhelgi einkalífs sem er frábrugðin þessari."
+msgstr "Þessi vefur kann að innhalda tengla í vefi sem eru ekki í okkar umsjá. Stefna okkar um friðhelgi einkalífs á því aðeins við um þær upplýsingar sem notendur gefa upp við heimsókn hingað. Aðrir vefir sem notendur heimsækja kunna að hafa stefnu um friðhelgi einkalífs sem er frábrugðin þessari."
 
 #: templates/rights/privacy.html:73 templates/tou/privacy.html:68
 msgid "The current privacy policy statement is in accordance with the Dutch Personal Data Protection Act (Wet Bescherming Persoonsgegevens)."
@@ -935,7 +935,7 @@ msgstr "inniheldur notkunarskilmála og leiðbeiningar um notkun þeirra gagna s
 
 #: templates/rights/terms-and-policies.html:24
 msgid "governs what you can or cannot do with the metadata and previews that are published on Europeana.eu, with seperate"
-msgstr "ræður því hvað þú mátt og mátt ekki gera með lýsigögn og forsýningar sem er að finna á Europeana.eu með sérstökum"
+msgstr "ræður því hvað þú mátt og mátt ekki gera með lýsigögn og forskoðanir sem er að finna á Europeana.eu með sérstökum"
 
 #: templates/rights/terms-and-policies.html:24
 msgid "Terms of Use for the Europeana API"
@@ -983,7 +983,7 @@ msgstr "Gagnaskiptisamningur Europeana"
 
 #: templates/rights/terms-and-policies.html:31
 msgid "governs the relationship between Europeana and the institutional data providers. The"
-msgstr "gildir um tengsl Europeana og stofnana sem leggja til efni."
+msgstr "gildir um tengsl Europeana og þeirra stofnana sem leggja til efni."
 
 #: templates/rights/terms-and-policies.html:31
 msgid "terms for user contributions"
@@ -999,7 +999,7 @@ msgstr "inniheldur stefnu Europeana"
 
 #: templates/rights/terms-and-policies.html:37
 msgid "The"
-msgstr ""
+msgstr " "
 
 #: templates/rights/terms-and-policies.html:37
 msgid "policy details how we treat personal information that we have collected from our users.  The"
@@ -1039,7 +1039,7 @@ msgstr "Notkunarskilmálar Europeana"
 
 #: templates/rights/terms-of-use.html:18
 msgid "The Europeana.eu website is run by the Europeana Foundation and gives access to a wide range of digitised cultural heritage from across Europe and beyond. This material is provided to Europeana by a large number of contributing institutions and organisations. Europeana strives to make all resources on this website available for re-use. As part of this, all metadata (textual information on digitised cultural heritage) on the site are published without any restrictions on re-use. Most other material, such as the previews to digitised cultural heritage, is clearly labelled with rights statements that indicate if and under which conditions it can be re-used."
-msgstr "Vefurinn Europeana.eu er rekinn af Europeana Foundation og veitir aðgang að breiðu úrvali af stafrænum menningararfi frá Evrópu og víðar. "
+msgstr "Vefurinn Europeana.eu er rekinn af Europeana Foundation og veitir aðgang að breiðu úrvali af stafrænum menningararfi frá Evrópu og víðar. Þetta efni kemur frá stórum hópi aðildarstofnana. Europeana reynir að gera allt efni á þessum vef aðgengilegt til endurnýtingar. Sem liður í þessu eru öll lýsigögn (upplýsingar á textaformi um stafrænan menningararf) á vefnum gefin út án skilyrða fyrir endurnýtingu. Flest annað efni, eins og forskoðanir fyrir stafrænan menningararf, er skýrt merkt með réttindaupplýsingumi sem gefa til kynna hvernig og með hvaða skilyrðum hægt er að endurnýta það."
 
 #: templates/rights/terms-of-use.html:21
 msgid "Metadata"
@@ -1067,7 +1067,7 @@ msgstr "Forskoðun gagna á Europeana.eu má aðeins nota í samræmi við afnot
 
 #: templates/rights/terms-of-use.html:37
 msgid "Notice and Takedown"
-msgstr "Aðvörun og ósk um niðurtöku"
+msgstr "Aðvörun og niðurtökubeiðni"
 
 #: templates/rights/terms-of-use.html:40
 msgid "Europeana is not the owner of the copyrights to the metadata, the previews or the digitised cultural heritage to which these metadata or previews refer. This information has been provided to Europeana by a large number of contributing institutions and organisations. These data providers have ensured Europeana that the owners of these rights have agreed to the publication of their works under the applicable conditions as referred to above. However, the Europeana Foundation cannot guarantee that this is always correct. If you think that anything published on Europeana.eu infringes your rights, you may report this to Europeana by emailing"
@@ -1083,7 +1083,7 @@ msgstr "Europeana ábyrgist ekki áreiðanleika eða heilleika vefsins og inniha
 
 #: templates/rights/terms-of-use.html:48
 msgid "Except to the extent required by applicable law, in no event will Europeana be liable on any legal theory for any special, incidental, consequential, punitive or exemplary damages arising out of the use of the website or its content. In particular, it will not be liable for the following:"
-msgstr "Fyrir utan að því marki sem viðeigandi lög krefjast, er Europeana ekki undir neinum kringumstæðum bótaskylt samkvæmt neinni lagakenningu fyrir nokkurn sérstakan, tilfallandi, fylgjandi, refsiverðan eða dæmigerðan skaða sem stafar af notkun vefsins eða innihalds hans. Sérstaklega er bótaskyldu hafnað vegna eftirfarandi:"
+msgstr "Utan að því marki sem viðeigandi lög krefjast, er Europeana ekki undir neinum kringumstæðum bótaskylt samkvæmt neinni lagakenningu fyrir nokkurn sérstakan, tilfallandi, meðfylgjandi, refsiverðan eða dæmigerðan skaða sem stafar af notkun vefsins eða innihalds hans. Sérstaklega er bótaskyldu hafnað vegna eftirfarandi:"
 
 #: templates/rights/terms-of-use.html:52
 msgid "Accuracy, completeness, etc. of the website or its content;"
@@ -1091,7 +1091,7 @@ msgstr "Nákvæmni, heilleika o.s.frv. vefsins eða innihalds hans;"
 
 #: templates/rights/terms-of-use.html:53
 msgid "Any infringement of privacy, publicity or other rights, including infringement of copyrights to metadata, previews or other content made available on Europeana.eu under conditions that were not approved by the right holder;"
-msgstr "Brota gegn friðhelgi einkalífs, ærumeiðinga eða öðrum réttindum, þar á meðal brota á höfundarétti lýsigagna, forskoðunar eða annars efnis sem aðgengilegt er á Europeana.eu samkvæmt skilyrðum sem rétthafi samþykkti ekki;"
+msgstr "Brota gegn friðhelgi einkalífs, æru eða öðrum réttindum, þar á meðal brota á höfundarétti lýsigagna, forskoðunar eða annars efnis sem aðgengilegt er á Europeana.eu samkvæmt skilyrðum sem rétthafi samþykkti ekki;"
 
 #: templates/rights/terms-of-use.html:54
 msgid "Any use by third parties that goes beyond the rights expressed in these terms of use."
@@ -1107,7 +1107,7 @@ msgstr "Þessir notkunarskilmálar eiga ekki við um lýsigögn, forskoðun og a
 
 #: templates/rights/terms-of-use.html:62
 msgid "By exercising any rights to the website or its content on grounds of these terms of use, you accept and agree to be bound to these terms of use. Europeana reserves the right to amend these terms of use."
-msgstr "Með því að neyta réttinda sem varða vefinn eða innihald hans á grundvelli þessara notkunarskilmála samþykkir þú og viðurkennir að vera bundin(n) af þessum skilmálum. Europeana áskilur sér rétt til að breyta þessum notkunarskilmálum."
+msgstr "Með því að nýta þér réttindi sem varða vefinn eða innihald hans á grundvelli þessara notkunarskilmála samþykkir þú og viðurkennir að vera bundin(n) af þessum skilmálum. Europeana áskilur sér rétt til að breyta þessum notkunarskilmálum."
 
 #: templates/rights/terms-of-use.html:65
 msgid "These terms of use are governed by the laws of The Netherlands."
@@ -1146,11 +1146,11 @@ msgstr "Kannaðu milljónir gagna frá leiðandi listasöfnum, bókasöfnum, skj
 
 #: templates/static_pages/aboutus.html:21
 msgid "Found something you like? Download it, print it, use it, save it, share it, play with it, love it!"
-msgstr "Fannstu eitthvað sem þér líkar? Vistaðu það, prentaðu það, notaðu það, deildu því, leiktu með það, elskaðu það!"
+msgstr "Fannstu eitthvað sem þér líkar? Vistaðu það, prentaðu það, notaðu það, deildu því, leiktu þér með það, elskaðu það!"
 
 #: templates/static_pages/aboutus.html:23
 msgid "Europeana is the trusted source of cultural heritage brought to you by the Europeana Foundation and a large number of European cultural institutions, projects and partners. It’s a real piece of team work."
-msgstr "Europeana er traust gátt fyrir menningararf sem Europeana Foundation og fjöldi evrópskra menningarstofnana, verkefna og samstarfsaðila færir þér. Hún er sannkallaður afrakstur teymisvinnu."
+msgstr "Europeana er traust gátt fyrir menningararf sem Europeana Foundation og fjöldi evrópskra menningarstofnana, verkefna og samstarfsaðila færir þér. Hún er afrakstur sannkallaðrar teymisvinnu."
 
 #: templates/static_pages/aboutus.html:25
 #: templates/static_pages/aboutus1.html:26
@@ -1424,7 +1424,7 @@ msgstr "Europeana - Hjálp"
 
 #: templates/static_pages/aboutus_faqs1.html:4
 msgid "Europeana - FAQs"
-msgstr "Europeana - Spurt og svarað"
+msgstr "Europeana - Algengar spurningar"
 
 #: templates/static_pages/aboutus_faqs1.html:51
 msgid "Here are answers to common questions about Europeana. "
@@ -1468,7 +1468,7 @@ msgstr "Hvernig tengist Europeana Evrópubókasafninu?"
 
 #: templates/static_pages/aboutus_faqs1.html:72
 msgid "Europeana and the projects contributing content to Europeana.eu have been funded by the European Commission under eContentplus, the Information and Communications Technologies Policy Support Programme (ICT PSP) and similar programmes. In order to participate in a wide range of projects, which are only funded by the Commission for 50-100% of the costs and do not include overheads, Europeana is also reliant for an element of its funding on Member States' ministries of culture and education."
-msgstr "Europeana og þau verkefni sem leggja Europeana.eu til efni hafa verið styrkt af Evrópuráðinu í gegnum eContentplus, the Information and Communications Technologies Policy Support Programme (ICT PSP) og svipaðar áætlanir. Til að taka þátt í fjölbreyttum verkefnum sem fá aðeins styrk fyrir 50-100% af kostnaði og taka ekki tillit til umsýslukostnaðar, sækir Europeana hluta fjárveitingar sinnar til menningar- og menntamálaráðuneyti aðildarríkja."
+msgstr "Europeana og þau verkefni sem leggja Europeana.eu til efni hafa verið styrkt af Evrópuráðinu í gegnum eContentplus, the Information and Communications Technologies Policy Support Programme (ICT PSP) og svipaðar áætlanir. Til að taka þátt í fjölbreyttum verkefnum sem fá aðeins styrk fyrir 50-100% af kostnaði og taka ekki tillit til umsýslukostnaðar, sækir Europeana hluta fjárveitingar sinnar til menningar- og menntamálaráðuneyta aðildarríkja."
 
 #: templates/static_pages/aboutus_faqs1.html:74
 msgid "What is the organisational structure of Europeana?"
@@ -1476,7 +1476,7 @@ msgstr "Hvert er skipurit Europeana?"
 
 #: templates/static_pages/aboutus_faqs1.html:76
 msgid "The Europeana Foundation is the governing body of the Europeana service. A legal entity under Dutch law, Stichting Europeana comprises the heads of international associations responsible for cultural heritage. The Foundation comprises an Executive Committee, a Board of Participants, and the Council of Content Providers and Aggregators."
-msgstr "Europeana Foundation er yfirstjórn Europeana-þjónustunnar. Stofnunin er lögpersóna samkvæmt hollenskum lögum. Í Stichting Europeana eru stjórnendur alþjóðlegra samtaka sem bera ábyrgð á menningararfi. Stofnunin hefur framkvæmdanefnd, stjórn þátttakenda og ráð efnisveita og gagnalauga."
+msgstr "Europeana Foundation er yfirstjórn Europeana-þjónustunnar. Stofnunin er lögpersóna samkvæmt hollenskum lögum. Í Stichting Europeana eru stjórnendur alþjóðlegra samtaka sem bera ábyrgð á menningararfi. Stofnunin hefur framkvæmdanefnd, stjórn þátttakenda og ráð efnisveita og gagnasafna."
 
 #: templates/static_pages/aboutus_faqs1.html:78
 msgid "Content on Europeana"
@@ -1492,7 +1492,7 @@ msgstr "Stofnunin sem varðveitir efnið - einstök bókasöfn, tón- og myndsö
 
 #: templates/static_pages/aboutus_faqs1.html:83
 msgid "What are the most beautiful, historic or highly regarded items that they are most keen to share with the world?"
-msgstr "Hver eru fallegustu, sögulegustu eða mikilsverðustu gögnin sem þau vilja helst deila með heiminum?"
+msgstr "Hver eru fallegustu, sögulegustu eða mikilvægustu gögnin sem þau vilja helst deila með heiminum?"
 
 #: templates/static_pages/aboutus_faqs1.html:84
 msgid "What do users most often want to consult or view?"
@@ -1504,7 +1504,7 @@ msgstr "Eru faldir fjársjóðir, lítt þekktir hlutir sem gætu höfðað ster
 
 #: templates/static_pages/aboutus_faqs1.html:86
 msgid "Are items too fragile for users to consult, or to be displayed? Digitisation can help both preserve material and make it accessible to users."
-msgstr "Eru einhverjir hlutir of viðkvæmir til að notendur geti nýtt sér þá, eða hægt sé að sýna þá? Stafræn endurgerð styður við varðveislu efnis um leið og það er gert aðgengilegt."
+msgstr "Eru einhverjir hlutir of viðkvæmir til að notendur geti nýtt sér þá, eða hægt sé að sýna þá? Stafræn endurgerð styður varðveislu efnis um leið og það er gert aðgengilegt."
 
 #: templates/static_pages/aboutus_faqs1.html:88
 msgid "Once an item is digitised, it can be submitted to Europeana."
@@ -1608,15 +1608,15 @@ msgstr "Þótt við gerum okkar besta er enn þörf á meira efni og upplýsingu
 
 #: templates/static_pages/aboutus_faqs1.html:119
 msgid "Contributing &amp; Interacting"
-msgstr ""
+msgstr "Framlög &amp; samskipti"
 
 #: templates/static_pages/aboutus_faqs1.html:121
 msgid "I work in the heritage sector.  Where can I find useful information resources on the main technical and data developments?"
-msgstr ""
+msgstr "Ég vinn í menningararfsgeiranum. Hvar finn ég gagnlegar upplýsingar um helstu nýjungar sem varða tækni og gögn?"
 
 #: templates/static_pages/aboutus_faqs1.html:122
 msgid "Please visit our Europeana Professional site - a professional knowledge-sharing platform - that will help you keep up to date with the latest developments in the digital sector and in Europeana."
-msgstr ""
+msgstr "Líttu á Europeana Professional, vef þar sem fagfólk getur deilt þekkingu sinni, og hjálpar þér að fylgjast með því nýjasta í stafrænni endurgerð og Europeana."
 
 #: templates/static_pages/aboutus_faqs1.html:124
 msgid "I am an individual. Can I contribute to Europeana?"
@@ -1624,19 +1624,19 @@ msgstr "Ég er einstaklingur. Get ég bætt við Europeana?"
 
 #: templates/static_pages/aboutus_faqs1.html:125
 msgid "Europeana welcomes user participation. Currently, we are running a project"
-msgstr ""
+msgstr "Europeana fagnar þátttöku notenda. Nú erum við með verkefni"
 
 #: templates/static_pages/aboutus_faqs1.html:125
 msgid "that is building an online archive with private memorabilia and stories from the period of the Great War ((1914-1918) from Germany. If you have family photographs, letters, diaries, short films, audio recordings, objects or stories, please share them on the project site.  Soon this initiative will extend to other countries in Europe."
-msgstr ""
+msgstr "sem snýst um að byggja upp stafrænt skjalasafn yfir minjagripi í einkaeigu og sögur frá tíma Fyrri heimsstyrjaldar (1914-1918) frá Þýskalandi. Ef þú átt fjölskyldumyndir, bréf, dagbækur, stuttmyndir, hljóðupptökur, hluti eða sögur, deildu þeim þá á síðu verkefnisins. Verkefnið mun brátt ná yfir önnur Evrópulönd."
 
 #: templates/static_pages/aboutus_faqs1.html:126
 msgid "You can also contribute to Europeana by"
-msgstr ""
+msgstr "Þú getur líka lagt Europeana lið með því að"
 
 #: templates/static_pages/aboutus_faqs1.html:127
 msgid "joining our"
-msgstr ""
+msgstr "taka þátt í "
 
 #: templates/static_pages/aboutus_faqs1.html:127
 #: templates/static_pages/aboutus_faqs1.html:174
@@ -1645,19 +1645,19 @@ msgstr "síðunni."
 
 #: templates/static_pages/aboutus_faqs1.html:128
 msgid "visiting our"
-msgstr ""
+msgstr "heimsækja "
 
 #: templates/static_pages/aboutus_faqs1.html:128
 msgid "blog"
-msgstr ""
+msgstr "blogg"
 
 #: templates/static_pages/aboutus_faqs1.html:129
 msgid "signing up for our"
-msgstr ""
+msgstr "gerast áskrifandi að"
 
 #: templates/static_pages/aboutus_faqs1.html:129
 msgid "newsletter"
-msgstr ""
+msgstr "fréttabréfinu"
 
 #: templates/static_pages/aboutus_faqs1.html:130
 msgid "sending us feedback"
@@ -1665,7 +1665,7 @@ msgstr "senda okkur athugasemdir"
 
 #: templates/static_pages/aboutus_faqs1.html:130
 msgid "on your experience with Europeana."
-msgstr ""
+msgstr "um reynslu þína af Europeana."
 
 #: templates/static_pages/aboutus_faqs1.html:135
 msgid "Can I make a financial donation to Europeana?"
@@ -1703,7 +1703,7 @@ msgstr "hópnum. Starfsfólk menningarstofnana getur líka tekið þátt í "
 
 #: templates/static_pages/aboutus_faqs1.html:139
 msgid "group."
-msgstr ""
+msgstr "hópnum."
 
 #: templates/static_pages/aboutus_faqs1.html:141
 msgid "How can I keep up to date on news from Europeana?"
@@ -1735,7 +1735,7 @@ msgstr "Hvernig get ég notað gögn frá Europeana?"
 
 #: templates/static_pages/aboutus_faqs1.html:147
 msgid "Please consult our"
-msgstr ""
+msgstr "Vinsamlega hafið samband við"
 
 #: templates/static_pages/aboutus_faqs1.html:147
 #: templates/static_pages/prop_file.html:293
@@ -1745,7 +1745,7 @@ msgstr "Notkunarskilyrði"
 
 #: templates/static_pages/aboutus_faqs1.html:147
 msgid "for detailed information on use of content on Europeana."
-msgstr ""
+msgstr "fyrir frekari upplýsingar um notkun hluta í Europeana."
 
 #: templates/static_pages/aboutus_faqs1.html:149
 msgid "Can you supply a high-resolution or original version of an item on Europeana?"
@@ -1753,7 +1753,7 @@ msgstr "Getur þú látið Europeana í té upprunalega útgáfu eða útgáfu �
 
 #: templates/static_pages/aboutus_faqs1.html:150
 msgid "Europeana.eu leads users to the cultural institutions digitising Europe's heritage, but it does not hold the original material. Members of the press can contact the Europeana team via our"
-msgstr ""
+msgstr "Europeana.eu vísar notendum á þær menningarstofnanir sem vinna að stafrænni endurgerð menningararfs Evrópu en geymir ekki upprunalegu gögnin. Fulltrúar fjölmiðla geta haft samband við Europeana-teymið á síðunni"
 
 #: templates/static_pages/aboutus_faqs1.html:150
 #: templates/static_pages/aboutus_faqs1.html:153
@@ -1766,7 +1766,7 @@ msgstr "Fyrir fjölmiðla"
 
 #: templates/static_pages/aboutus_faqs1.html:150
 msgid "for advice on rights clearance. Otherwise, please contact the original provider of the item you are interested in. Below its thumbnail image, you can see who owns the object."
-msgstr ""
+msgstr "varðandi upplýsingar um afgreiðslu réttinda. Að öðrum kosti er hægt að hafa samband við upprunalega efnisveitu hlutarins sem þú hefur áhuga á. Fyrir neðan smámyndina geturðu séð hver á hlutinn."
 
 #: templates/static_pages/aboutus_faqs1.html:152
 msgid "Can I use the Europeana logo?"
@@ -1804,11 +1804,11 @@ msgstr "Hvað er Mitt Europeana?"
 
 #: templates/static_pages/aboutus_faqs1.html:158
 msgid "This is your personal space on Europeana. With"
-msgstr ""
+msgstr "Þetta er þitt einkasvæði á Europeana. Með"
 
 #: templates/static_pages/aboutus_faqs1.html:158
 msgid "you can save your favourite items and searches, and add tags to items to help separate them into different categories."
-msgstr ""
+msgstr "getur þú vistað eftirlætishlutina þína og leitirnar þínar og merkt hluti til að flokka þá í ólíka flokka."
 
 #: templates/static_pages/aboutus_faqs1.html:160
 msgid "How can I change my email address, username or password?"
@@ -1816,7 +1816,7 @@ msgstr "Hvernig breyti ég netfangi mínu, notandanafni eða lykilorði?"
 
 #: templates/static_pages/aboutus_faqs1.html:161
 msgid "There is currently no way to change these items. We are considering adding this  functionality as part of future site upgrades."
-msgstr ""
+msgstr "Eins og er er engin leið til að breyta þessum hlutum. Við erum að íhuga að bæta þeirri virkni við framtíðarútgáfur vefsins."
 
 #: templates/static_pages/aboutus_faqs1.html:163
 msgid "Can I see other people's saved searches or tags?"
@@ -1824,7 +1824,7 @@ msgstr "Get ég skoðað vistaðar leitir eða merki hjá öðrum?"
 
 #: templates/static_pages/aboutus_faqs1.html:164
 msgid "This data is private to each user. It is a way for you to keep track of items you find interesting. If you want to share things with other people, you can use the 'Share Button' to email a page to a friend or post a link on various social media portals."
-msgstr "Þessi gögn eru einkamál hvers notanda ætluð til þess að þú getir haldið utanum þá hluti sem þér þykja áhugaverðir. Ef þú vilt deila hlutum með öðrum geturðu notað 'Deila'-hnappinn til að senda einhverjum síðu eða setja tengil inn á ýmsa samskiptavefi."
+msgstr "Þessi gögn eru einkamál hvers notanda ætluð til þess að þú getir haldið utan um þá hluti sem þér þykja áhugaverðir. Ef þú vilt deila hlutum með öðrum geturðu notað „Deila“-hnappinn til að senda einhverjum síðu eða setja tengil inn á ýmsa samskiptavefi."
 
 #: templates/static_pages/aboutus_faqs1.html:166
 msgid "Technical Questions"
@@ -1864,7 +1864,7 @@ msgstr "Hvernig get ég keypt auglýsingu á Europeana?"
 
 #: templates/static_pages/aboutus_faqs1.html:177
 msgid "Currently we are not accepting advertising and have no plans to do so in the foreseeable future."
-msgstr ""
+msgstr "Við erum ekki með auglýsingar og höfum það ekki á dagskránni í fyrirsjáanlegri framtíð."
 
 #: templates/static_pages/aboutus_faqs1.html:179
 msgid "How can I or my company share technological expertise with Europeana?"
@@ -1876,7 +1876,7 @@ msgstr "Vinsamlega hafðu samband í gegnum "
 
 #: templates/static_pages/aboutus_faqs1.html:180
 msgid "with your proposition and we will pass your message on to the correct contact person. "
-msgstr ""
+msgstr "með þína tillögu og við komum skilaboðunum áfram til rétts aðila."
 
 #: templates/static_pages/disclaimer.html:4
 msgid "Europeana - External links disclaimer"
@@ -1888,7 +1888,7 @@ msgstr "Fyrirvari um ytri tengla"
 
 #: templates/static_pages/disclaimer.html:11
 msgid "On Europeana, you will often find links to external websites relevant to Europeana's mission: to help our users discover and share in the inspiring diversity of Europe's cultural and scientific heritage."
-msgstr "Á Europeana finnur þú oft tengla á ytri síður sem tengjast markmiðum Europeana: að hjálpa notendum okkar að uppgötva og deila innblæstri úr fjölbreyttum menningar- og vísindaarfi Evrópu."
+msgstr "Á Europeana finnur þú oft tengla á ytri síður sem tengjast markmiðum Europeana: að hjálpa notendum okkar að uppgötva og deila fjölbreyttum menningar- og vísindaarfi Evrópu."
 
 #: templates/static_pages/disclaimer.html:15
 msgid "Europeana makes every effort to ensure that all of these external links are accurate and relevant but these websites are not under our control. We cannot take responsibility for any information found on external websites."
@@ -1920,24 +1920,24 @@ msgstr "Láttu okkur vita ef þú finnur tengla sem ekki virka rétt eða sem þ
 
 #: templates/static_pages/europeana-api.html:8
 msgid "Europeana API - Coming Soon!"
-msgstr ""
+msgstr "Europeana API - Væntanlegt!"
 
 #: templates/static_pages/europeana-api.html:9
 msgid "We will be launching a new API very soon so please stay tuned. To find out more about our current API and our Linked Open Data visit their pages on"
-msgstr ""
+msgstr "Við munum brátt gefa út nýtt forritunarviðmót svo fylgist með. Til að sjá meiri upplýsingar um núverandi viðmót og Linked Open Data skoðið síðurnar þeirra "
 
 #: templates/static_pages/explore.html:3
 #: templates/static_pages/followus.html:3
 msgid "Europeana - Using Europeana"
-msgstr "Hvernig er Europeana notað"
+msgstr "Europeana - Að nota Europeana"
 
 #: templates/static_pages/explore.html:11
 msgid "To make searching in Europeana easier, try alternative ways of navigating through our millions of objects. Learn more about different topics with curatorial help, see our most recent content, discover content from individual providers, and explore Europe's rich heritage on a timeline."
-msgstr ""
+msgstr "Til að gera leit í Europeana auðveldari, prófaðu aðrar leiðir til að fletta gegnum þær milljónir hluta sem hér er að finna. Lestu meira um ólík viðfangsefni með aðstoð fagfólks, skoðaðu nýjasta efnið, uppgötvaðu efni frá einstaklingum og kannaðu ríkulegan menningararf Evrópu með tímaás."
 
 #: templates/static_pages/followus.html:11
 msgid "Discover some of the most interesting content on Europeana, keep up-to-date with our latest developments, find out about who we are and more with our newsletter, blog, Twitter and Facebook pages."
-msgstr ""
+msgstr "Uppgötvaðu sumt af áhugaverðasta efninu á Europeana og fylgstu með nýjustu þróun, lestu um það hver við erum og meira í fréttabréfinu okkar, blogginu okkar og Twitter- og Facebook-síðunum okkar."
 
 #: templates/static_pages/newcontent.html:3
 #: templates/static_pages/newcontent1.html:3
@@ -1955,23 +1955,23 @@ msgstr "Kannaðu nýjasta efnið á Europeana. Á þessari síðu finnurðu teng
 
 #: templates/static_pages/newcontent1.html:27
 msgid "Subscribe"
-msgstr ""
+msgstr "Áskrift"
 
 #: templates/static_pages/newcontent1.html:27
 msgid "to the RSS feed to be updated when new content is added to Europeana."
-msgstr ""
+msgstr "að RSS-straumnum til að fá tilkynningu þegar nýju efni er bætt við Europeana."
 
 #: templates/static_pages/newcontent1.html:28
 msgid "Last update"
-msgstr ""
+msgstr "Síðasta uppfærsla"
 
 #: templates/static_pages/newcontent1.html:31
 msgid "Provider / Data Provider"
-msgstr ""
+msgstr "Efnisveita / Gagnaveita"
 
 #: templates/static_pages/newcontent1.html:31
 msgid "New/update"
-msgstr ""
+msgstr "Nýtt/uppfært"
 
 #: templates/static_pages/newcontent1.html:34
 #: templates/static_pages/newcontent1.html:35
@@ -2150,7 +2150,7 @@ msgstr "Nýtt"
 #: templates/static_pages/newcontent1.html:205
 #: templates/static_pages/newcontent1.html:206
 msgid "Update"
-msgstr "Uppfæra"
+msgstr "Uppfært"
 
 #: templates/static_pages/newcontent1.html:207
 #: templates/static_pages/newcontent1.html:208
@@ -2162,7 +2162,7 @@ msgstr "Óvirkt"
 #: templates/static_pages/prop_file.html:5
 #: templates/static_pages/prop_file1.html:5
 msgid "I understand that My Europeana gives me the opportunity to create tags for any item I wish. I agree that I will not create any tags that could be considered libelous, harmful, threatening, unlawful, defamatory,infringing, abusive, inflammatory, harassing, pornographic, obscene, fraudulent, invasive of privacy orpublicity rights, hateful, or racially, ethnically or otherwise objectionable. By clicking this box I agreeto abide by this agreement, and understand that if I don't my membership of My Europeana will be terminated."
-msgstr ""
+msgstr "Ég skil að Mitt Europeana gerir mér kleift að búa til merki fyrir hvaða hlut sem er. Ég samþykki að búa ekki til merki sem gætu verið ærumeiðandi, skaðleg, ólögleg, ófrægjandi, brotleg, dónaleg, æsingarvaldandi, þjakandi, klámfengin, klúr, brotleg gegn einkalífi fólks, hatursfull eða hneykslanleg gagnvart kynþætti, þjóðerni eða öðru. Með því að smella hér samþykki ég að fylgja þessum skilyrðum og skil að ef ég geri það ekki mun aðild mín að Europeana verða afturkölluð."
 
 #: templates/static_pages/prop_file.html:6
 #: templates/static_pages/prop_file1.html:6
@@ -2194,7 +2194,7 @@ msgstr "Land"
 #: templates/static_pages/prop_file.html:11
 #: templates/static_pages/prop_file1.html:11
 msgid "Sector"
-msgstr "Deild"
+msgstr "Geiri"
 
 #: templates/static_pages/prop_file.html:12
 #: templates/static_pages/prop_file1.html:12
@@ -2209,12 +2209,12 @@ msgstr "Þetta er net samstarfsaðila sem  unnu að því byggja upp Europeana  
 #: templates/static_pages/prop_file.html:14
 #: templates/static_pages/prop_file1.html:14
 msgid "These are the organisations that are contributing content - digitised paintings, books, broadcasts etc. Some of these contributors are  aggregators*, Culture.fr is the largest aggregator, providing content from about 480 organisations in France, including the Louvre and the Musée d’Orsay. The number of organisations contributing to an aggregator is shown in brackets after the aggregator’s name, e.g. Videoactive (10)"
-msgstr "Eftirfarandi samtök leggja til efni svo sem stafrænar endurgerðir málverka, bóka, útvarpssendinga,  o.fl. Sum þeirra safna saman efni  og er Culture.fr mikilvirkast  þeirra með efni frá um 480  samtökum í Frakklandi, þar á meðal Louvre og Musée d'Orsay söfnunum.  Fjöldi þeirra samtaka sem liggja  að baki hvers safnara sést í  sviganum eftir nafn safnarans,  t.d. Videoactive (10)"
+msgstr "Eftirfarandi samtök leggja til efni svo sem stafrænar endurgerðir málverka, bóka, útvarpssendinga,  o.fl. Sum þeirra safna saman efni  og er Culture.fr mikilvirkast  þeirra með efni frá um 480  samtökum í Frakklandi, þar á meðal söfnunum Louvre og Musée d'Orsay.  Fjöldi þeirra samtaka sem liggja  að baki hvers gagnasafns sést í  sviganum fyrir aftan nafn þess,  t.d. Videoactive (10)"
 
 #: templates/static_pages/prop_file.html:15
 #: templates/static_pages/prop_file1.html:15
 msgid "*An aggregator collects material from a range of other contributors, displays it on their own website and also channels it into Europeana."
-msgstr "Safnvefur safnar efni frá öðrum  efnisveitum, birtir það á eigin vef og miðlar því líka inn í  Europeana."
+msgstr "*Gagnasafn safnar efni frá öðrum  efnisveitum, birtir það á eigin vef og miðlar því líka inn í  Europeana."
 
 #: templates/static_pages/prop_file.html:16
 #: templates/static_pages/prop_file1.html:16
@@ -2279,7 +2279,7 @@ msgstr "Framkoma notanda"
 #: templates/static_pages/prop_file.html:29
 #: templates/static_pages/prop_file1.html:29
 msgid "I understand that My Europeana gives me the opportunity to create tags for any item I wish. I agree that I will not create any tags that could be considered libelous, harmful, threatening, unlawful, defamatory, infringing, abusive, inflammatory, harassing, pornographic, obscene, fraudulent, invasive of privacy or publicity rights, hateful, or racially, ethnically or otherwise objectionable. By clicking this box I agree to abide by this agreement, and understand that if I don't my membership of My Europeana will be terminated. CLICK TO AGREE"
-msgstr "Ég geri mér grein fyrir að Mitt  Europeana gefur mér kost á að búa  til tilvísanir fyrir hvaða eintak  sem er. Ég samþykki að búa ekki  til tilvísanir sem líta má á sem  róg, skaðlegar, hótandi,  ólöglegar, ærumeiðandi, yfirgangssamar, móðgandi, æsandi,  ögrandi, klámfengin, ruddaleg,  sviksamleg, í bága við friðhelgi  einkalífs eða útgáfurétt,  hatursfull eða sýni uppruna eða  kynþætti óvirðingu. Með því að  smella á þennan reit samþykki ég  að fylgja þessu samkomulagi og  geri mér grein fyrir að geri ég  það ekki mun aðild minni að Mínu  Europeana verða sagt upp. Smelltu  hér til að samþykkja."
+msgstr "Ég geri mér grein fyrir að Mitt  Europeana gefur mér kost á að merkja hvaða hlut sem er. Ég samþykki að búa ekki  til merki sem líta má á sem róg, skaðlegar, hótandi,  ólöglegar, ærumeiðandi, yfirgangssamar, móðgandi, æsandi, ögrandi, klámfengin, ruddaleg, sviksamleg, í bága við friðhelgi einkalífs eða útgáfurétt, hatursfull eða sýni uppruna eða kynþætti óvirðingu. Með því að smella á þennan reit samþykki ég að fylgja þessu samkomulagi og geri mér grein fyrir að geri ég  það ekki mun aðild minni að Mínu Europeana verða sagt upp. Smelltu  hér til að samþykkja."
 
 #: templates/static_pages/prop_file.html:30
 #: templates/static_pages/prop_file1.html:30
@@ -2306,7 +2306,7 @@ msgstr "Söguþráður og framlög"
 #: templates/static_pages/prop_file.html:34
 #: templates/static_pages/prop_file1.html:34
 msgid "Check the FAQs - they may cover your feedback"
-msgstr "Athugaðu spurt og svarað (FAQ) – þær gætu átt við þínar athugasemdir"
+msgstr "Athugaðu Algengar spurningar – þær gætu átt við þínar athugasemdir"
 
 #: templates/static_pages/prop_file.html:35
 #: templates/static_pages/prop_file1.html:35
@@ -2358,7 +2358,7 @@ msgstr "Leita"
 #: templates/static_pages/prop_file1.html:45
 #: templates/static_pages/prop_file1.html:334
 msgid "Reset"
-msgstr "Núllstilla"
+msgstr "Hreinsa"
 
 #: templates/static_pages/prop_file.html:46
 #: templates/static_pages/prop_file1.html:46
@@ -2370,7 +2370,7 @@ msgstr "Fyrra"
 #: templates/static_pages/prop_file1.html:47
 #: templates/static_pages/usingeuropeana_results.html:49
 msgid "Next"
-msgstr "Næst"
+msgstr "Næsta"
 
 #: templates/static_pages/prop_file.html:48
 #: templates/static_pages/prop_file1.html:48
@@ -2498,7 +2498,7 @@ msgstr "að hluta kostað af Efnahagsbandalaginu"
 #: templates/static_pages/prop_file.html:71
 #: templates/static_pages/prop_file1.html:71
 msgid "Europeana think culture"
-msgstr ""
+msgstr "Europeana menning í fyrirrúmi"
 
 #: templates/static_pages/prop_file.html:72
 #: templates/static_pages/prop_file1.html:72
@@ -2507,7 +2507,7 @@ msgstr "Smelltu hér til að fara aftur á upphafssíðu Europeana"
 
 #: templates/static_pages/prop_file.html:73
 msgid "Refine your results"
-msgstr ""
+msgstr "Þrengdu niðurstöðurnar"
 
 #: templates/static_pages/prop_file.html:74
 msgid "By language of description"
@@ -2524,7 +2524,7 @@ msgstr "Eftir ári"
 #: templates/static_pages/prop_file.html:78
 #: templates/static_pages/prop_file1.html:78
 msgid "By user tag"
-msgstr "Eftir tilvísun notanda"
+msgstr "Eftir merki notanda"
 
 #: templates/static_pages/prop_file.html:79
 #: templates/static_pages/prop_file1.html:79
@@ -2548,7 +2548,7 @@ msgstr "Aðgerðir"
 #: templates/static_pages/usingeuropeana_myeuropeana.html:14
 #: templates/static_pages/usingeuropeana_myeuropeana1.html:14
 msgid "Save this search"
-msgstr "Vistað þessa leit"
+msgstr "Vista þessa leit"
 
 #: templates/static_pages/prop_file.html:83
 #: templates/static_pages/prop_file1.html:83
@@ -2558,7 +2558,7 @@ msgstr "Leit vistuð"
 #: templates/static_pages/prop_file.html:84
 #: templates/static_pages/prop_file1.html:84
 msgid "Saving search failed"
-msgstr "Vistun á leit mistókst"
+msgstr "Vistun leitar mistókst"
 
 #: templates/static_pages/prop_file.html:85
 #: templates/static_pages/prop_file1.html:85
@@ -2576,7 +2576,7 @@ msgstr "Niðurstöður fyrir"
 #: templates/static_pages/prop_file.html:87
 #: templates/static_pages/prop_file1.html:87
 msgid "You are viewing related items"
-msgstr "Þú ert að horfa á tengd eintök"
+msgstr "Þú ert að skoða tengd eintök"
 
 #: templates/static_pages/prop_file.html:88
 #: templates/static_pages/prop_file1.html:88
@@ -2598,7 +2598,7 @@ msgstr "Mynd"
 #: templates/static_pages/usingeuropeana_results.html:17
 #: templates/static_pages/usingeuropeana_results1.html:17
 msgid "Video"
-msgstr "Myndbönd"
+msgstr "Kvikmynd"
 
 #: templates/static_pages/prop_file.html:96
 #: templates/static_pages/prop_file1.html:96
@@ -2630,12 +2630,12 @@ msgstr "af"
 #: templates/static_pages/prop_file.html:101
 #: templates/static_pages/prop_file1.html:101
 msgid "Click here for previous page of results"
-msgstr ""
+msgstr "Smelltu hér til að skoða fyrri niðurstöður"
 
 #: templates/static_pages/prop_file.html:102
 #: templates/static_pages/prop_file1.html:102
 msgid "Click here for next page of results"
-msgstr "Smelltu hér til að sjá næstu síðu í niðurstöðum"
+msgstr "Smelltu hér til að sjá næstu niðurstöður"
 
 #: templates/static_pages/prop_file.html:103
 #: templates/static_pages/prop_file1.html:103
@@ -2650,12 +2650,12 @@ msgstr "Smelltu til að fá meiri upplýsingar"
 #: templates/static_pages/prop_file.html:105
 #: templates/static_pages/prop_file1.html:105
 msgid "No items found"
-msgstr "Engin skjöl fundust"
+msgstr "Engin gögn fundust"
 
 #: templates/static_pages/prop_file.html:106
 #: templates/static_pages/prop_file1.html:106
 msgid "Related content"
-msgstr "lagt fram efni"
+msgstr "Tengt efni"
 
 #: templates/static_pages/prop_file.html:107
 #: templates/static_pages/prop_file1.html:107
@@ -2665,14 +2665,14 @@ msgstr "Sjá allt tengt efni"
 #: templates/static_pages/prop_file.html:108
 #: templates/static_pages/prop_file1.html:108
 msgid "User tags"
-msgstr "Tilvísanir notenda"
+msgstr "Merki notenda"
 
 #: templates/static_pages/prop_file.html:109
 #: templates/static_pages/prop_file1.html:109
 #: templates/static_pages/usingeuropeana_myeuropeana.html:15
 #: templates/static_pages/usingeuropeana_myeuropeana1.html:15
 msgid "Add a tag"
-msgstr "Bætt við merki"
+msgstr "Bæta við merki"
 
 #: templates/static_pages/prop_file.html:110
 #: templates/static_pages/prop_file1.html:110
@@ -2683,17 +2683,17 @@ msgstr "Bæta við"
 #: templates/static_pages/prop_file.html:111
 #: templates/static_pages/prop_file1.html:111
 msgid "Tag added"
-msgstr "Tilvísun hefur verið bætt við"
+msgstr "Merki hefur verið bætt við"
 
 #: templates/static_pages/prop_file.html:112
 #: templates/static_pages/prop_file1.html:112
 msgid "Tag addition failed"
-msgstr "Það mistókst að bæta tilvísun við"
+msgstr "Það mistókst að bæta merki við"
 
 #: templates/static_pages/prop_file.html:113
 #: templates/static_pages/prop_file1.html:113
 msgid "Share with a friend"
-msgstr "Deildu með vini"
+msgstr "Deila með vini"
 
 #: templates/static_pages/prop_file.html:114
 #: templates/static_pages/prop_file1.html:114
@@ -2720,7 +2720,7 @@ msgstr "Senda"
 #: templates/static_pages/usingeuropeana_myeuropeana.html:16
 #: templates/static_pages/usingeuropeana_myeuropeana1.html:16
 msgid "Save to My Europeana"
-msgstr "Vistað í Mitt Europeana"
+msgstr "Vista í Mitt Europeana"
 
 #: templates/static_pages/prop_file.html:119
 #: templates/static_pages/prop_file1.html:119
@@ -2730,7 +2730,7 @@ msgstr "Efni hefur verið vistað"
 #: templates/static_pages/prop_file.html:120
 #: templates/static_pages/prop_file1.html:120
 msgid "Save item failed"
-msgstr "Vistun á eintaki mistókst"
+msgstr "Vistun gagna mistókst"
 
 #: templates/static_pages/prop_file.html:121
 #: templates/static_pages/prop_file1.html:121
@@ -2765,7 +2765,7 @@ msgstr "Hlutir"
 #: templates/static_pages/prop_file.html:127
 #: templates/static_pages/prop_file1.html:127
 msgid "Item details"
-msgstr ""
+msgstr "Nánari upplýsingar"
 
 #: templates/static_pages/prop_file.html:128
 #: templates/static_pages/prop_file1.html:128
@@ -2775,12 +2775,12 @@ msgstr "Skoða XML"
 #: templates/static_pages/prop_file.html:129
 #: templates/static_pages/prop_file1.html:129
 msgid "View with labels"
-msgstr "Birta tilvísanir"
+msgstr "Birta merki"
 
 #: templates/static_pages/prop_file.html:130
 #: templates/static_pages/prop_file1.html:130
 msgid "View without labels"
-msgstr "Fela tilvísanir"
+msgstr "Fela merki"
 
 #: templates/static_pages/prop_file.html:131
 #: templates/static_pages/prop_file1.html:131
@@ -2822,7 +2822,7 @@ msgstr "Lýsing"
 #: templates/static_pages/storyline1.html:56
 #: templates/static_pages/usingeuropeana_search.html:31
 msgid "Creator"
-msgstr "listamaður"
+msgstr "Höfundur"
 
 #: templates/static_pages/prop_file.html:137
 #: templates/static_pages/prop_file.html:231
@@ -2853,7 +2853,7 @@ msgstr "Eyða"
 #: templates/static_pages/prop_file.html:141
 #: templates/static_pages/prop_file1.html:141
 msgid "No saved items"
-msgstr "Engin skjöl vistuð"
+msgstr "Engin gögn vistuð"
 
 #: templates/static_pages/prop_file.html:142
 #: templates/static_pages/prop_file1.html:142
@@ -2863,17 +2863,17 @@ msgstr "Engar vistaðar leitir"
 #: templates/static_pages/prop_file.html:143
 #: templates/static_pages/prop_file1.html:143
 msgid "No saved tags"
-msgstr "Engin vistuð tög"
+msgstr "Engin vistuð merki"
 
 #: templates/static_pages/prop_file.html:144
 #: templates/static_pages/prop_file1.html:144
 msgid "No saved notifications"
-msgstr "Vistaðar tilkynningar"
+msgstr "Engar vistaðar tilkynningar"
 
 #: templates/static_pages/prop_file.html:145
 #: templates/static_pages/prop_file1.html:145
 msgid "Date saved"
-msgstr "Dagsetning hefur verið vistuð"
+msgstr "Dagsetning vistuð"
 
 #: templates/static_pages/prop_file.html:146
 #: templates/static_pages/prop_file1.html:146
@@ -2893,7 +2893,7 @@ msgstr "Smelltu á eftirfarandi slóð til að staðfesta innskráningu"
 #: templates/static_pages/prop_file.html:149
 #: templates/static_pages/prop_file1.html:149
 msgid "The Europeana Team"
-msgstr "Europeana-hópurinn"
+msgstr "Europeana-teymið"
 
 #: templates/static_pages/prop_file.html:150
 #: templates/static_pages/prop_file1.html:150
@@ -2918,7 +2918,7 @@ msgstr "Lykilorð"
 #: templates/static_pages/prop_file.html:154
 #: templates/static_pages/prop_file1.html:154
 msgid "Remember me on this computer"
-msgstr "Vistaðu lykilorðið á þessari tölvu"
+msgstr "Vista lykilorð á þessari tölvu"
 
 #: templates/static_pages/prop_file.html:155
 #: templates/static_pages/prop_file1.html:155
@@ -2943,7 +2943,7 @@ msgstr "Skráðu þig aftur"
 #: templates/static_pages/prop_file.html:159
 #: templates/static_pages/prop_file1.html:159
 msgid "An error occurred while trying to process your registration. Please try again"
-msgstr "Við úrvinnslu á skráningarupplýsingum fannst villa. Vinsamlegast reynið aftur"
+msgstr "Villa kom upp við úrvinnslu skráningarupplýsinga. Vinsamlega reynið aftur"
 
 #: templates/static_pages/prop_file.html:160
 #: templates/static_pages/prop_file1.html:160
@@ -2996,12 +2996,12 @@ msgstr "Notendanafnið þitt birtist þegar þú hefur lokið innskráningu"
 #: templates/static_pages/prop_file.html:169
 #: templates/static_pages/prop_file1.html:169
 msgid "Username"
-msgstr "Notandanafn"
+msgstr "Notendanafnið"
 
 #: templates/static_pages/prop_file.html:170
 #: templates/static_pages/prop_file1.html:170
 msgid "is in use. Please choose another username"
-msgstr "er þegar í notkun. Vinsamlegast veljið annað notandanafn"
+msgstr "er þegar í notkun. Vinsamlegast veljið annað notendanafn"
 
 #: templates/static_pages/prop_file.html:171
 #: templates/static_pages/prop_file1.html:171
@@ -3196,7 +3196,7 @@ msgstr "Jiddíska (yid)"
 #: templates/static_pages/prop_file.html:211
 #: templates/static_pages/prop_file1.html:211
 msgid "Other"
-msgstr "Aðrir"
+msgstr "Önnur"
 
 #: templates/static_pages/prop_file.html:212
 #: templates/static_pages/prop_file1.html:212
@@ -3217,7 +3217,7 @@ msgstr "Er hluti af"
 #: templates/static_pages/prop_file.html:936
 #: templates/static_pages/prop_file1.html:215
 msgid "Has part"
-msgstr "Inniheldur hlutann"
+msgstr "Inniheldur"
 
 #: templates/static_pages/prop_file.html:216
 #: templates/static_pages/prop_file1.html:216
@@ -3232,7 +3232,7 @@ msgstr "Víkur fyrir"
 #: templates/static_pages/prop_file.html:218
 #: templates/static_pages/prop_file1.html:218
 msgid "Is referenced by"
-msgstr "Er tilvísað af"
+msgstr "Er vísað í af"
 
 #: templates/static_pages/prop_file.html:219
 #: templates/static_pages/prop_file1.html:219
@@ -3307,7 +3307,7 @@ msgstr "Uppruni"
 #: templates/static_pages/prop_file.html:239
 #: templates/static_pages/prop_file1.html:239
 msgid "Relation"
-msgstr ""
+msgstr "Tengsl"
 
 #: templates/static_pages/prop_file.html:240
 #: templates/static_pages/prop_file1.html:240
@@ -3554,7 +3554,7 @@ msgstr "Efnisorðaský"
 #: templates/static_pages/prop_file.html:289
 #: templates/static_pages/prop_file1.html:289
 msgid "Did you mean"
-msgstr "Áttir þú við?"
+msgstr "Áttir þú við"
 
 #: templates/static_pages/prop_file.html:290
 #: templates/static_pages/prop_file1.html:290
@@ -3574,7 +3574,7 @@ msgstr "Réttindi Europeana"
 #: templates/static_pages/prop_file.html:294
 #: templates/static_pages/prop_file1.html:294
 msgid "The timeline only shows up to 1000 items relevant to your query."
-msgstr "Tímaásinn sýnir aðeins allt að 1000 gögn sem tengjast leitinni."
+msgstr "Tímaásinn sýnir að hámarki 1000 gögn sem tengjast leitinni."
 
 #: templates/static_pages/prop_file.html:295
 #: templates/static_pages/prop_file1.html:295
@@ -3586,7 +3586,7 @@ msgstr "Skoða tímaás"
 #: templates/static_pages/usingeuropeana_results1.html:50
 #: templates/static_pages/usingeuropeana_results1.html:51
 msgid "Embed"
-msgstr ""
+msgstr "Fella inn"
 
 #: templates/static_pages/prop_file.html:297
 #: templates/static_pages/prop_file1.html:297
@@ -3596,88 +3596,88 @@ msgstr "Valkostir"
 #: templates/static_pages/prop_file.html:298
 #: templates/static_pages/prop_file1.html:298
 msgid "Embed this object into your own blog or website"
-msgstr ""
+msgstr "Fella þennan hlut inn í bloggið þitt eða vefsíðuna þína"
 
 #: templates/static_pages/prop_file.html:299
 #: templates/static_pages/prop_file1.html:299
 msgid "Paste the HTML source code below to your page. This page itself is an example of a page that embeds a Europeana object."
-msgstr ""
+msgstr "Límdu þennan HTML-kóða inn á síðuna þína. Þessi síða er líka sjálf dæmi um síðu þar sem hlutur af Europeana er felldur inn."
 
 #: templates/static_pages/prop_file.html:300
 #: templates/static_pages/prop_file1.html:300
 msgid "Now this Europeana object becomes a part of your page. Our content providers tend to improve their objects from time to time. Create an alert on this object to be notified if this specific object would change."
-msgstr ""
+msgstr "Nú verður þessi hlutur af Europeana hluti af síðunni þinni. Efnisveiturnar okkar bæta stundum hlutina sem þær veita aðgang að. Stilltu á árvekni fyrir þennan hlut til að fá tilkynningu þegar hann breytist."
 
 #: templates/static_pages/prop_file.html:301
 #: templates/static_pages/prop_file1.html:301
 msgid "Preview it customized"
-msgstr ""
+msgstr "Forskoða breytingar"
 
 #: templates/static_pages/prop_file.html:302
 #: templates/static_pages/prop_file1.html:302
 msgid "Create notification for this item"
-msgstr ""
+msgstr "Fá tilkynningar fyrir þennan hlut"
 
 #: templates/static_pages/prop_file.html:303
 #: templates/static_pages/prop_file1.html:303
 msgid "Log in to My Europeana and set an alert to be notified of updates, such as the publication of more metadata for this object."
-msgstr ""
+msgstr "Skráðu þig inn í Mitt Europeana og stilltu tilkynningu til að vera látin(n) vita af uppfærslum, eins og útgáfu meiri lýsigagna um þennan hlut."
 
 #: templates/static_pages/prop_file.html:304
 #: templates/static_pages/prop_file1.html:304
 msgid "By using the embed function you accept and agree to the Europeana Terms of Use"
-msgstr ""
+msgstr "Með því að nota innfellingarkóðann samþykkir þú Notkunarskilmála Europeana"
 
 #: templates/static_pages/prop_file.html:305
 #: templates/static_pages/prop_file1.html:305
 msgid "Maximal number of text lines:"
-msgstr ""
+msgstr "Hámarksfjöldi textalína:"
 
 #: templates/static_pages/prop_file.html:306
 #: templates/static_pages/prop_file1.html:306
 msgid "orientation:"
-msgstr ""
+msgstr "afstaða:"
 
 #: templates/static_pages/prop_file.html:307
 #: templates/static_pages/prop_file1.html:307
 msgid "portrait"
-msgstr ""
+msgstr "andlitsmynd"
 
 #: templates/static_pages/prop_file.html:308
 #: templates/static_pages/prop_file1.html:308
 msgid "landscape"
-msgstr ""
+msgstr "landslagsmynd"
 
 #: templates/static_pages/prop_file.html:309
 #: templates/static_pages/prop_file1.html:309
 msgid "Refine Search"
-msgstr ""
+msgstr "Þrengja leit"
 
 #: templates/static_pages/prop_file.html:310
 #: templates/static_pages/prop_file1.html:310
 msgid "By Rights"
-msgstr ""
+msgstr "Eftir réttindum"
 
 #: templates/static_pages/prop_file.html:311
 #: templates/static_pages/prop_file1.html:311
 #: templates/static_pages/usingeuropeana_search.html:59
 msgid "By copyright"
-msgstr ""
+msgstr "Eftir höfundarétti"
 
 #: templates/static_pages/prop_file.html:312
 #: templates/static_pages/prop_file1.html:312
 msgid "Free Access"
-msgstr ""
+msgstr "Frjáls aðgangur"
 
 #: templates/static_pages/prop_file.html:313
 #: templates/static_pages/prop_file1.html:313
 msgid "Restricted Access"
-msgstr ""
+msgstr "Takmarkaður aðgangur"
 
 #: templates/static_pages/prop_file.html:314
 #: templates/static_pages/prop_file1.html:314
 msgid "Paid Access"
-msgstr ""
+msgstr "Aðgangur gegn greiðslu"
 
 #: templates/static_pages/prop_file.html:315
 #: templates/static_pages/prop_file1.html:315
@@ -3692,7 +3692,7 @@ msgstr "Óþekkt"
 #: templates/static_pages/prop_file.html:317
 #: templates/static_pages/prop_file1.html:317
 msgid "Not all objects show rights information"
-msgstr ""
+msgstr "Réttindaupplýsingar vantar fyrir suma hluti"
 
 #: templates/static_pages/prop_file.html:318
 #: templates/static_pages/prop_file1.html:318
@@ -3702,27 +3702,27 @@ msgstr "Þýða með:"
 #: templates/static_pages/prop_file.html:319
 #: templates/static_pages/prop_file1.html:319
 msgid "Search line value with:"
-msgstr ""
+msgstr "Leita í línu að:"
 
 #: templates/static_pages/prop_file.html:320
 #: templates/static_pages/prop_file1.html:320
 msgid "Access External Search Services or Translate a fields content where you see the marker by double clicking the fields value."
-msgstr ""
+msgstr "Notaðu leitarvélar annarra aðila eða þýddu færslu þar sem þú sérð merkið með því að tvísmella á gildið í færslunni."
 
 #: templates/static_pages/prop_file.html:321
 #: templates/static_pages/prop_file1.html:321
 msgid "ESS allows you to translate an individual fields contents or search for an individual line on an external search service to access additional relevant information."
-msgstr ""
+msgstr "ESS gerir þér kleift að þýða gildi einstakra sviða eða leita að stakri línu með leitarvél annars aðila til að fá aðgang að viðbótarupplýsingum."
 
 #: templates/static_pages/prop_file.html:322
 #: templates/static_pages/prop_file1.html:322
 msgid "indicates ESS services are available"
-msgstr ""
+msgstr "sýnir að ESS-þjónusta er tiltæk"
 
 #: templates/static_pages/prop_file.html:323
 #: templates/static_pages/prop_file1.html:323
 msgid "indicates ESS services are not available"
-msgstr ""
+msgstr "sýnir að ESS-þjónusta er ekki tiltæk"
 
 #: templates/static_pages/prop_file.html:324
 #: templates/static_pages/prop_file1.html:324
@@ -3747,149 +3747,149 @@ msgstr "Efst á síðu"
 #: templates/static_pages/prop_file.html:328
 #: templates/static_pages/prop_file1.html:328
 msgid "Click to search for this term in external services"
-msgstr ""
+msgstr "Smelltu til að leita að þessu orði hjá öðrum aðilum"
 
 #: templates/static_pages/prop_file.html:329
 #: templates/static_pages/prop_file.html:331
 #: templates/static_pages/prop_file1.html:329
 #: templates/static_pages/prop_file1.html:331
 msgid "Remote Search Widget"
-msgstr ""
+msgstr "Viðfang fyrir ytri leit"
 
 #: templates/static_pages/prop_file.html:330
 #: templates/static_pages/prop_file1.html:330
 msgid "You can use the link below to create a customized plugin for inclusion in your own website with the ability to search through the collections on the Europeana portal."
-msgstr ""
+msgstr "Þú getur notað tengilinn hér fyrir neðan til að búa til sérsniðna viðbót til að bæta leit í söfnum Europeana-gáttarinnar við þinn vef."
 
 #: templates/static_pages/prop_file.html:332
 #: templates/static_pages/prop_file1.html:332
 msgid "Europeana Search Widget"
-msgstr ""
+msgstr "Leitarviðfang Europeana"
 
 #: templates/static_pages/prop_file.html:335
 #: templates/static_pages/prop_file1.html:335
 msgid "What is Europeana's remote search widget?"
-msgstr ""
+msgstr "Hvað er viðfang Europeana fyrir ytri leit?"
 
 #: templates/static_pages/prop_file.html:336
 #: templates/static_pages/prop_file1.html:336
 msgid "The remote search widget is a tailored plugin to search on and display items from Europeana's collections and those of their contributors within your own website."
-msgstr ""
+msgstr "Viðfang fyrir ytri leit er sérsniðin viðbót til að leita og sýna hluti úr söfnum Europeana og samstarfsaðilum á þínum eigin vef."
 
 #: templates/static_pages/prop_file.html:337
 #: templates/static_pages/prop_file1.html:337
 msgid "What is a plugin?"
-msgstr ""
+msgstr "Hvað er viðbót?"
 
 #: templates/static_pages/prop_file.html:338
 #: templates/static_pages/prop_file1.html:338
 msgid "The plugin is simply a piece of generated code that can be copied and pasted into one of the webpages on your own site."
-msgstr ""
+msgstr "Viðbótin er einfaldlega tilbúinn kóði sem hægt er að afrita og líma inn í vefsíðu á þínum vef."
 
 #: templates/static_pages/prop_file.html:339
 #: templates/static_pages/prop_file1.html:339
 msgid "What will the plugin look like?"
-msgstr ""
+msgstr "Hvernig mun viðbótin líta út?"
 
 #: templates/static_pages/prop_file.html:340
 #: templates/static_pages/prop_file1.html:340
 msgid "The working plugin is shown on the right hand side of the screen. Making changes and selecting preview will let you see those changes in action."
-msgstr ""
+msgstr "Viðbótin sést hægra megin á skjánum. Þú getur breytt stillingum og valið forskoðun til að sjá hvernig breytingarnar líta út."
 
 #: templates/static_pages/prop_file.html:341
 #: templates/static_pages/prop_file1.html:341
 msgid "How do I add the plugin into my own site?"
-msgstr ""
+msgstr "Hvernig bæti ég viðbótinni við minn vef?"
 
 #: templates/static_pages/prop_file.html:342
 #: templates/static_pages/prop_file1.html:342
 msgid "Select options from the menu below"
-msgstr ""
+msgstr "Veldu valkosti úr valmyndinni hér fyrir neðan"
 
 #: templates/static_pages/prop_file.html:343
 #: templates/static_pages/prop_file1.html:343
 msgid "Click on 'Preview' to see the changes in the right hand side of the screen"
-msgstr ""
+msgstr "Smelltu á 'Forskoða' til að sjá breytingarnar hægra megin á skjánum"
 
 #: templates/static_pages/prop_file.html:344
 #: templates/static_pages/prop_file1.html:344
 msgid "Check the box to say you have read and agree with the terms and conditions"
-msgstr ""
+msgstr "Hakaðu í reitinn til að staðfesta að þú hafir lesið og samþykkt skilyrðin"
 
 #: templates/static_pages/prop_file.html:345
 #: templates/static_pages/prop_file1.html:345
 msgid "Click 'Generate Code'"
-msgstr ""
+msgstr "Smelltu á „Búa til kóða“"
 
 #: templates/static_pages/prop_file.html:346
 #: templates/static_pages/prop_file1.html:346
 msgid "Copy the code from under 'Code for plugin:'"
-msgstr ""
+msgstr "Afritaðu kóðann úr reitnum „Viðbótarkóði“"
 
 #: templates/static_pages/prop_file.html:347
 #: templates/static_pages/prop_file1.html:347
 msgid "Open a webpage on your own site in a text editor"
-msgstr ""
+msgstr "Opnaðu vefsíðu á þínum vef í textaritli"
 
 #: templates/static_pages/prop_file.html:348
 #: templates/static_pages/prop_file1.html:348
 msgid "Paste the code into the page and save the changes"
-msgstr ""
+msgstr "Límdu kóðann inn í síðuna og vistaðu breytingar"
 
 #: templates/static_pages/prop_file.html:349
 #: templates/static_pages/prop_file1.html:349
 msgid "Open your web page in a browser to see the plugin working"
-msgstr ""
+msgstr "Opnaðu vefsíðuna í vafra til að sjá viðbótina virka"
 
 #: templates/static_pages/prop_file.html:350
 #: templates/static_pages/prop_file1.html:350
 msgid "How can I change the position of the plugin?"
-msgstr ""
+msgstr "Hvernig breyti ég staðsetningu viðbótarinnar?"
 
 #: templates/static_pages/prop_file.html:351
 #: templates/static_pages/prop_file1.html:351
 msgid "The plugin can be nested within an HTML table but the easiest way is to use cascading stylesheets css. The plugin is surrounded in a div with the id swEuropeanaRemoteWidget and its position can be changed by changing the css properties for this div."
-msgstr ""
+msgstr "Hægt er að fella viðbótina inn í HTML-töflu, en einfaldasta leiðin er að nota stílsnið (css). Viðbótin er hjúpuð div-tagi með id-eigindið swEuropeanaRemoteWidget og hægt er að breyta staðsetningu hennar með því að breyta stílsniðinu fyrir þetta div."
 
 #: templates/static_pages/prop_file.html:352
 #: templates/static_pages/prop_file1.html:352
 msgid "Background colour"
-msgstr ""
+msgstr "Bakgrunnslitur"
 
 #: templates/static_pages/prop_file.html:353
 #: templates/static_pages/prop_file1.html:353
 msgid "Media type tab colour"
-msgstr ""
+msgstr "Litur miðilsmerkingar"
 
 #: templates/static_pages/prop_file.html:354
 #: templates/static_pages/prop_file1.html:354
 msgid "Text colour"
-msgstr ""
+msgstr "Textalitur"
 
 #: templates/static_pages/prop_file.html:355
 #: templates/static_pages/prop_file1.html:355
 msgid "Default language"
-msgstr ""
+msgstr "Sjálfgefið tungumál"
 
 #: templates/static_pages/prop_file.html:356
 #: templates/static_pages/prop_file1.html:356
 msgid "Default search term"
-msgstr ""
+msgstr "Sjálfgefið leitarorð"
 
 #: templates/static_pages/prop_file.html:357
 #: templates/static_pages/prop_file1.html:357
 msgid "Media Types"
-msgstr ""
+msgstr "Tegundir miðla"
 
 #: templates/static_pages/prop_file.html:358
 #: templates/static_pages/prop_file1.html:358
 msgid "Providers"
-msgstr ""
+msgstr "Efnisveitur"
 
 #: templates/static_pages/prop_file.html:359
 #: templates/static_pages/prop_file1.html:359
 msgid "Europeana attribution"
-msgstr ""
+msgstr "Vísun í Europeana"
 
 #: templates/static_pages/prop_file.html:360
 #: templates/static_pages/prop_file1.html:360
@@ -3904,7 +3904,7 @@ msgstr "Búa til kóða"
 #: templates/static_pages/prop_file.html:363
 #: templates/static_pages/prop_file1.html:363
 msgid "Powered By Europeana"
-msgstr ""
+msgstr "Frá Europeana"
 
 #: templates/static_pages/prop_file.html:364
 #: templates/static_pages/prop_file.html:864
@@ -3922,7 +3922,7 @@ msgstr "Vefsýningar"
 #: templates/static_pages/usingeuropeana_results.html:41
 #: templates/static_pages/usingeuropeana_results1.html:51
 msgid "Cite on Wikipedia"
-msgstr "Tilvísun fyrir Wikipediu"
+msgstr "Tilvísun á Wikipediu"
 
 #: templates/static_pages/prop_file.html:367
 #: templates/static_pages/prop_file1.html:367
@@ -3937,22 +3937,22 @@ msgstr "Nota"
 #: templates/static_pages/prop_file.html:369
 #: templates/static_pages/prop_file1.html:369
 msgid "Harvard Bibliographic Style"
-msgstr ""
+msgstr "Harvard Bibliographic Style"
 
 #: templates/static_pages/prop_file.html:370
 #: templates/static_pages/prop_file1.html:370
 msgid "This record can be cited in the"
-msgstr ""
+msgstr "Hægt er að vísa í þessa færslu með"
 
 #: templates/static_pages/prop_file.html:371
 #: templates/static_pages/prop_file1.html:371
 msgid "style using the text below:"
-msgstr ""
+msgstr "tilvísunarstílnum með textanum:"
 
 #: templates/static_pages/prop_file.html:372
 #: templates/static_pages/prop_file1.html:372
 msgid "Harvard Bibliographic"
-msgstr ""
+msgstr "Harvard Bibliographic"
 
 #: templates/static_pages/prop_file.html:373
 #: templates/static_pages/prop_file1.html:373
@@ -3962,52 +3962,52 @@ msgstr "Loka"
 #: templates/static_pages/prop_file.html:374
 #: templates/static_pages/prop_file1.html:374
 msgid "Show Auto-tags"
-msgstr ""
+msgstr "Sýna sjálfvirk efnisorð"
 
 #: templates/static_pages/prop_file.html:375
 #: templates/static_pages/prop_file1.html:375
 msgid "Hide Auto-tags"
-msgstr ""
+msgstr "Fela sjálfvirk efnisorð"
 
 #: templates/static_pages/prop_file.html:376
 #: templates/static_pages/prop_file1.html:376
 msgid "Automatically added semantic tags"
-msgstr ""
+msgstr "Sjálfvirk merkingartög"
 
 #: templates/static_pages/prop_file.html:377
 #: templates/static_pages/prop_file1.html:377
 msgid "Place Term"
-msgstr ""
+msgstr "Staðarheiti"
 
 #: templates/static_pages/prop_file.html:378
 #: templates/static_pages/prop_file1.html:378
 msgid "Place Label"
-msgstr ""
+msgstr "Merki staðar"
 
 #: templates/static_pages/prop_file.html:379
 #: templates/static_pages/prop_file1.html:379
 msgid "Geo Space"
-msgstr ""
+msgstr "Geo Space"
 
 #: templates/static_pages/prop_file.html:380
 #: templates/static_pages/prop_file1.html:380
 msgid "Place Broader Term"
-msgstr ""
+msgstr "Víðara staðarheiti"
 
 #: templates/static_pages/prop_file.html:381
 #: templates/static_pages/prop_file1.html:381
 msgid "Place Broader Label"
-msgstr ""
+msgstr "Víðara staðarmerki"
 
 #: templates/static_pages/prop_file.html:382
 #: templates/static_pages/prop_file1.html:382
 msgid "Period Term"
-msgstr ""
+msgstr "Tímabilsheiti"
 
 #: templates/static_pages/prop_file.html:383
 #: templates/static_pages/prop_file1.html:383
 msgid "Period Label"
-msgstr "Merking tímabils"
+msgstr "Merki tímabils"
 
 #: templates/static_pages/prop_file.html:384
 #: templates/static_pages/prop_file1.html:384
@@ -4017,47 +4017,47 @@ msgstr "Upphaf tímabils"
 #: templates/static_pages/prop_file.html:385
 #: templates/static_pages/prop_file1.html:385
 msgid "Period End"
-msgstr "Endir tímabils"
+msgstr "Lok tímabils"
 
 #: templates/static_pages/prop_file.html:386
 #: templates/static_pages/prop_file1.html:386
 msgid "Period Broader Term"
-msgstr ""
+msgstr "Víðara tímabilsheiti"
 
 #: templates/static_pages/prop_file.html:387
 #: templates/static_pages/prop_file1.html:387
 msgid "Period Broader Label"
-msgstr ""
+msgstr "Víðara tímabilsmerki"
 
 #: templates/static_pages/prop_file.html:388
 #: templates/static_pages/prop_file1.html:388
 msgid "Concept Term"
-msgstr ""
+msgstr "Hugtaksheiti"
 
 #: templates/static_pages/prop_file.html:389
 #: templates/static_pages/prop_file1.html:389
 msgid "Concept Label"
-msgstr ""
+msgstr "Merki hugtaks"
 
 #: templates/static_pages/prop_file.html:390
 #: templates/static_pages/prop_file1.html:390
 msgid "Concept Broader Term"
-msgstr ""
+msgstr "Víðara hugtaksheiti"
 
 #: templates/static_pages/prop_file.html:391
 #: templates/static_pages/prop_file1.html:391
 msgid "Concept Broader Label"
-msgstr ""
+msgstr "Víðara hugtaksmerki"
 
 #: templates/static_pages/prop_file.html:392
 #: templates/static_pages/prop_file1.html:392
 msgid "Agent Term"
-msgstr ""
+msgstr "Aðilaheiti"
 
 #: templates/static_pages/prop_file.html:393
 #: templates/static_pages/prop_file1.html:393
 msgid "Agent Label"
-msgstr ""
+msgstr "Merki aðila"
 
 #: templates/static_pages/prop_file.html:398
 #: templates/static_pages/prop_file.html:409
@@ -4086,72 +4086,72 @@ msgstr ""
 #: templates/static_pages/prop_file1.html:544
 #: templates/static_pages/prop_file1.html:554
 msgid "Featured item"
-msgstr ""
+msgstr "Valinn hlutur"
 
 #: templates/static_pages/prop_file.html:402
 msgid "Systema Naturae (sometimes written Systema Natur&aelig; with the ligature &aelig;) was one of the major works of the Swedish botanist, zoologist and physician Carolus Linnaeus and introduced the Linnaean taxonomy. The tenth edition of this book is considered the starting point of zoological nomenclature. In 1766-1768 Linnaeus published the much enhanced 12th edition, the last under his authorship. Another again enhanced work in the same style and entitled &ldquo;Systema Naturae&rdquo; was published by Johann Friedrich Gmelin between 1788 and 1793."
-msgstr ""
+msgstr "Systema Naturae (stundum ritað Systema Natur&aelig; með samstöfuninni &aelig;) var eitt af helstu verkum sænska grasafræðingsins, dýrafræðingsins og náttúrufræðingsins Karls Linné sem setti þar fram flokkunarkerfi Linnés. Tíunda útgáfa bókarinnar er talin marka upphafið að vísindalegri flokkun dýra. Á árunum 1766-1768 gaf Linné út mjög aukna 12. útgáfu, sem var sú síðasta sem hann fékkst við sjálfur. Önnur aukin útgáfa í sama stíl með titlinum &ldquo;Systema Naturae&rdquo; var gefin út af Johann Friedrich Gmelin milli 1788 og 1793."
 
 #: templates/static_pages/prop_file.html:413
 msgid "Wallpaper with green background colour, flowers in white and strong red, and large red flowers with yellow and blue centres. The work of interior architect Josef Frank represented something completely new on the Swedish wallpaper market. Eldblomma (eng. &ldquo;Flower of Fire&rdquo;) was printed by the Norrk&ouml;ping Wallpaper Factory beginning in 1947."
-msgstr ""
+msgstr "Veggfóður með grænum bakgrunni, hvítum og sterkrauðum blómum, og stórum rauðum blómum með gulum og bláum miðjum. Verk innanhússarkitektsins Josef Frank voru algjör nýjung á sænska veggfóðursmarkaðnum. Eldblomma (ísl. &ldquo;Eldblóm&rdquo;) var prentað af Norrk&ouml;ping veggfóðurverksmiðjunni frá 1947."
 
 #: templates/static_pages/prop_file.html:424
 msgid "Axe with polished surfaces, pointed heel, plano-convexa cross section, asymmetric beveled edges and wide straight edge. It presents three incisions cross, shallow and irregular stroke, in the center of one of the faces."
-msgstr ""
+msgstr "Öxi með fægðum flötum, oddmjóum hæl, linsulaga þversniði, ósamhverfum hvesstum jöðrum og breiðu beinu blaði. Hún er með þremur skurðum, kross, grunnri og óreglulegri stroku, í miðjunni annars blaðsins."
 
 #: templates/static_pages/prop_file.html:434
 msgid "Celestial globes are used to show the apparent positions of the stars in the sky, watch this video from the Museo Galileo - Institute and Museum of the History of Science."
-msgstr ""
+msgstr "Himinlíkön eru notuð til að sýna sýndarstöðu stjarnanna á himninum. Skoðaðu þetta myndband frá vísindasögustofnuninni og safninu Museo Galileo."
 
 #: templates/static_pages/prop_file.html:444
 msgid "Inspired by a homonymous short story by Edgar Allan Poe, the illustration depicts the heartless heroine Ligeia drawn in pen and ink. On the back an inscription handwritten by the author: &ldquo;In the excitement of my opium dreams (for I was habitually fettered in the shackles of the drugs. I would call aloud upon her name, during the silence of the night, or among the sheltered recesses of the glens by day.&rdquo;"
-msgstr ""
+msgstr "Myndskreytingin dregur innblástur úr samnefndri smásögu Edgar Allan Poe og er pennateikning af kvenhetjunni Ligeiu. Aftan á myndinni er handskrifuð athugasemd listamannsins: &ldquo;Í órólegum ópíumdraumum mínum (því ég var oft hlekkjaður af lyfjum), kallaði ég nafn hennar, í þögn næturinnar, eða í skjólsælum lautum milli hæðanna að degi til.&rdquo;"
 
 #: templates/static_pages/prop_file.html:454
 msgid "The church of Virgin Mary's Assumption is located at the district of Panagia (Virgin Mary), in the old city of Kavala, between the lighthouse and the square of Mohamed (Mehmet/Muhammad) Ali Pasha. It was built after 1965, over the ruins of an earlier post-Byzantine church of the 15th century. The post-Byzantine church was a three-aisled basilica with a small dome and a tall belfry, which survives until today."
-msgstr ""
+msgstr "Boðunarkirkja Maríu er í héraðinu Panagia (María mey) í hinni fornu borg Kavala, milli vitans og torgs Mohamed (Mehmet/Muhammad) Ali Pasha. Hún var reist eftir 1965 á rústum eldri kirkju frá 15. öld. Sú kirkja var þriggja arma langkirkja með lítilli hvelfingu og háum klukkuturni, sem enn er til."
 
 #: templates/static_pages/prop_file.html:464
 msgid "Hinged inr&#333; with an exterior in golden, black and red lacquer depicting a rooster and a hen. The interior is in silver lacquer and contains four eggs in white, black and golden lacquer with painted insects and vegatal motifs. The netsuke is also in white lacquer with a golden chicken. An inr&#333; is a traditional Japanese case for holding small objects, suspended from the sash of the kimono."
-msgstr ""
+msgstr "Inr&#333; með hjörum og ytra byrði úr gylltu, svörtu og rauðu lakki með mynd af hana og hænu. Hið innra er silfrað lakk með fjórum eggjum úr hvítu, svörtu og gylltu lakki með máluðum skordýrum og jurtaskreytingum. Netsuke-hnúturinn er líka hvítlakkaður með gylltum hænuunga. Inr&#333; er hefðbundin japönsk taska undir smáhluti sem hangir úr borða kímonós."
 
 #: templates/static_pages/prop_file.html:475
 msgid "The Gemma Augustea (Gem of Augustus) is a cameo engraved gem cut from double-layered Arabian onyx stone, and is a masterpiece of the Imperial gem workshop in Rome. It is commonly believed that the gem cutter who created Gemma Augustea was either Dioscurides or one of his disciples."
-msgstr ""
+msgstr "Gemma Augustea (gimsteinn Ágústusar) er skrautsteinn grafinn úr tveggja laga arabískum ónyx. Hann er meistaraverk frá gimsteinaverkstæði keisarans í Róm. Almennt er talið að skurðarmeistarinn sem bjó Gemma Augustea til hafi verið Dioscurides eða einn af lærisveinum hans."
 
 #: templates/static_pages/prop_file.html:484
 msgid "Martin Luther was a German monk, priest, professor of theology and important figure in the Protestant Reformation. This painting from 1532, was by his close friend, Lucas Cranach the Elder, a German Renaissance painter reknowned for his portraits. "
-msgstr ""
+msgstr "Marteinn Lúther var þýskur munkur, prestur, guðfræðiprófessor og mikilvæg persóna í sögu siðbreytingarinnar. Þetta málverk frá 1532 er eftir náinn vin hans, Lucas Cranach eldri, þýskan endurreisnarmálara sem er þekktur fyrir andlitsmyndir sínar."
 
 #: templates/static_pages/prop_file.html:491
 msgid "Visit 'Leaving Europe: A new life in America'"
-msgstr ""
+msgstr "Skoðaðu „Burt frá Evrópu: Nýtt líf í Ameríku“"
 
 #: templates/static_pages/prop_file.html:496
 msgid "New exhibition : Leaving Europe"
-msgstr ""
+msgstr "Ný sýning : Burt frá Evrópu"
 
 #: templates/static_pages/prop_file.html:497
 msgid "Why did 30 million Europeans emigrate to America in the 19th/20th centuries? This exhibition of rarely seen pictures tells their story."
-msgstr ""
+msgstr "Hvers vegna fluttu 30 milljón Evrópubúar til Ameríku á 19. og 20. öld? Þessi sýning með sjaldgæfum myndum segir sögu þeirra."
 
 #: templates/static_pages/prop_file.html:498
 msgid "Open Exhibition"
-msgstr ""
+msgstr "Opin sýning"
 
 #: templates/static_pages/prop_file.html:503
 #: templates/static_pages/prop_file.html:506
 msgid "For Our Shoe Lovers"
-msgstr ""
+msgstr "Fyrir fólk sem elskar skó"
 
 #: templates/static_pages/prop_file.html:507
 msgid "We've teamed up with Europeana Fashion and Northampton Museums to bring you a selection of weird and wonderful shoes from the world's biggest collection."
-msgstr ""
+msgstr "Við fórum í samstarf við Europeana Fashion og Northampton Museums til að færa þér safn af furðulegum og undursamlegum skóm úr stærsta safni heims."
 
 #: templates/static_pages/prop_file.html:508
 msgid "Explore collection"
-msgstr ""
+msgstr "Kanna safnið"
 
 #: templates/static_pages/prop_file.html:522
 #: templates/static_pages/prop_file.html:523
@@ -4160,7 +4160,7 @@ msgstr ""
 #: templates/static_pages/sitemap.html:78
 #: templates/static_pages/sitemap1.html:51
 msgid "Terms of Use &amp; Policies"
-msgstr ""
+msgstr "Notkunarskilmálar &amp; stefna"
 
 #: templates/static_pages/prop_file.html:530
 #: templates/static_pages/prop_file.html:531
@@ -4176,7 +4176,7 @@ msgstr "Tungumálastefna"
 #: templates/static_pages/sitemap.html:105
 #: templates/static_pages/sitemap1.html:75
 msgid "Contact"
-msgstr ""
+msgstr "Hafa samband"
 
 #: templates/static_pages/prop_file.html:538
 #: templates/static_pages/prop_file.html:539
@@ -4187,20 +4187,20 @@ msgstr ""
 #: templates/static_pages/sitemap.html:11
 #: templates/static_pages/sitemap1.html:11
 msgid "Home"
-msgstr ""
+msgstr "Forsíða"
 
 #: templates/static_pages/prop_file.html:590
 #: templates/static_pages/prop_file.html:591
 #: templates/static_pages/whatsnew.html:9
 msgid "What's New"
-msgstr ""
+msgstr "Fréttir"
 
 #: templates/static_pages/prop_file.html:634
 #: templates/static_pages/prop_file.html:635
 #: templates/static_pages/prop_file1.html:728
 #: templates/static_pages/prop_file1.html:729
 msgid "Pinterest"
-msgstr ""
+msgstr "Pinterest"
 
 #: templates/static_pages/prop_file.html:642
 #: templates/static_pages/prop_file.html:643
@@ -4209,129 +4209,129 @@ msgstr ""
 #: templates/static_pages/prop_file1.html:737
 #: templates/static_pages/prop_file1.html:742
 msgid "Explore Europe's cultural collections"
-msgstr ""
+msgstr "Kanna menningarsöfn Europeana"
 
 #: templates/static_pages/prop_file.html:646
 #: templates/static_pages/prop_file.html:647
 #: templates/static_pages/prop_file1.html:740
 #: templates/static_pages/prop_file1.html:741
 msgid "Access professional knowledge"
-msgstr ""
+msgstr "Aðgangur að fagþekkingu"
 
 #: templates/static_pages/prop_file.html:649
 #: templates/static_pages/prop_file1.html:743
 msgid "Social media activities"
-msgstr ""
+msgstr "Á samfélagsmiðlum"
 
 #: templates/static_pages/prop_file.html:650
 #: templates/static_pages/prop_file1.html:744
 msgid "From the blog"
-msgstr ""
+msgstr "Af blogginu"
 
 #: templates/static_pages/prop_file.html:651
 #: templates/static_pages/prop_file1.html:745
 msgid "Filter your search"
-msgstr ""
+msgstr "Þrengja leitina"
 
 #: templates/static_pages/prop_file.html:652
 #: templates/static_pages/prop_file1.html:746
 msgid "Grid view"
-msgstr ""
+msgstr "Rúðusýn"
 
 #: templates/static_pages/prop_file.html:653
 #: templates/static_pages/prop_file1.html:747
 msgid "We apologize; there was a problem retrieving the search results from the server. Please try again later"
-msgstr ""
+msgstr "Við biðjumst afsökunar; það kom upp villa við að sækja leitarniðurstöður af þjóninum. Reyndu aftur síðar"
 
 #: templates/static_pages/prop_file.html:654
 msgid "Similar items"
-msgstr ""
+msgstr "Svipaðir hlutir"
 
 #: templates/static_pages/prop_file.html:655
 #: templates/static_pages/prop_file1.html:749
 msgid "Loading ..."
-msgstr ""
+msgstr "Hleð ..."
 
 #: templates/static_pages/prop_file.html:656
 #: templates/static_pages/prop_file1.html:750
 #: templates/static_pages/usingeuropeana_results.html:42
 #: templates/static_pages/usingeuropeana_results1.html:35
 msgid "Translate details"
-msgstr ""
+msgstr "Þýða upplýsingar"
 
 #: templates/static_pages/prop_file.html:657
 #: templates/static_pages/prop_file1.html:751
 msgid "Return to search results"
-msgstr ""
+msgstr "Aftur í leitarniðurstöður"
 
 #: templates/static_pages/prop_file.html:658
 #: templates/static_pages/prop_file1.html:752
 msgid "Next search result"
-msgstr ""
+msgstr "Næstu niðurstöður"
 
 #: templates/static_pages/prop_file.html:659
 #: templates/static_pages/prop_file1.html:753
 msgid "Something went wrong!"
-msgstr ""
+msgstr "Eitthvað fór úrskeiðis!"
 
 #: templates/static_pages/prop_file.html:660
 #: templates/static_pages/prop_file1.html:754
 msgid "An email has been sent to inform our technical staff"
-msgstr ""
+msgstr "Tölvupóstur var sendur tækniteyminu okkar"
 
 #: templates/static_pages/prop_file.html:661
 #: templates/static_pages/prop_file1.html:755
 msgid "Please try another search"
-msgstr ""
+msgstr "Reyndu aðra leit"
 
 #: templates/static_pages/prop_file.html:662
 #: templates/static_pages/prop_file1.html:756
 msgid "Saved search removed successfully"
-msgstr ""
+msgstr "Það tókst að fjarlægja vistaða leit"
 
 #: templates/static_pages/prop_file.html:663
 #: templates/static_pages/prop_file.html:676
 #: templates/static_pages/prop_file1.html:757
 #: templates/static_pages/prop_file1.html:770
 msgid "Saved item removed successfully"
-msgstr ""
+msgstr "Það tókst að fjarlægja vistaðan hlut"
 
 #: templates/static_pages/prop_file.html:664
 #: templates/static_pages/prop_file1.html:758
 msgid "Saved tag removed successfully"
-msgstr ""
+msgstr "Það tókst að fjarlægja vistað merki"
 
 #: templates/static_pages/prop_file.html:665
 #: templates/static_pages/prop_file1.html:759
 msgid "An error occurred"
-msgstr ""
+msgstr "Villa kom upp"
 
 #: templates/static_pages/prop_file.html:666
 #: templates/static_pages/prop_file1.html:760
 msgid "The item could not be removed"
-msgstr ""
+msgstr "Ekki tókst að fjarlægja hlutinn"
 
 #: templates/static_pages/prop_file.html:667
 #: templates/static_pages/prop_file1.html:761
 msgid "Auto-generated tags"
-msgstr ""
+msgstr "Sjálfvirk merki"
 
 #: templates/static_pages/prop_file.html:668
 #: templates/static_pages/prop_file1.html:762
 msgid "Request"
-msgstr ""
+msgstr "Fyrirspurn"
 
 #: templates/static_pages/prop_file.html:669
 #: templates/static_pages/prop_file.html:672
 #: templates/static_pages/prop_file1.html:763
 #: templates/static_pages/prop_file1.html:766
 msgid "Legend"
-msgstr ""
+msgstr "Skýringar"
 
 #: templates/static_pages/prop_file.html:670
 #: templates/static_pages/prop_file1.html:764
 msgid "See less"
-msgstr ""
+msgstr "Sjá minna"
 
 #: templates/static_pages/prop_file.html:671
 #: templates/static_pages/prop_file1.html:765
@@ -4351,17 +4351,17 @@ msgstr "Aftur í upphaflegt tungumál"
 #: templates/static_pages/prop_file.html:675
 #: templates/static_pages/prop_file1.html:769
 msgid "Attention: this item has been withdrawn by the provider."
-msgstr ""
+msgstr "Athugið: þessi hlutur var fjarlægður af efnisveitunni."
 
 #: templates/static_pages/prop_file.html:677
 #: templates/static_pages/prop_file1.html:771
 msgid "We apologise; there was a problem retrieving the data from the server. Please try again later."
-msgstr ""
+msgstr "Við biðjumst afsökunar; það kom upp vandamál við að sækja gögnin á þjóninn. Vinsamlega reynið aftur síðar."
 
 #: templates/static_pages/prop_file.html:678
 #: templates/static_pages/prop_file1.html:772
 msgid "Preview"
-msgstr "Forskoða"
+msgstr "Forskoðun"
 
 #: templates/static_pages/prop_file.html:679
 #: templates/static_pages/prop_file1.html:773
@@ -4376,7 +4376,7 @@ msgstr "Þetta netfang finnst ekki í gagnagrunni okkar"
 #: templates/static_pages/prop_file.html:681
 #: templates/static_pages/prop_file1.html:775
 msgid "Your password change has been successfully completed"
-msgstr ""
+msgstr "Lykilorðinu hefur verið breytt"
 
 #: templates/static_pages/prop_file.html:682
 #: templates/static_pages/prop_file1.html:776
@@ -4401,12 +4401,12 @@ msgstr "Veldu úr mismunandi kortategundum"
 #: templates/static_pages/prop_file.html:686
 #: templates/static_pages/prop_file1.html:780
 msgid "Navigate map: click and hold left mouse-button, then move mouse to change the view"
-msgstr ""
+msgstr "Skoða kort: smelltu og haltu inni vinstri músartakkanum og hreyfðu svo músina til að breyta sýn"
 
 #: templates/static_pages/prop_file.html:687
 #: templates/static_pages/prop_file1.html:781
 msgid "Select via freeform: add anchor points with left mouse-click, double click to finish the shape"
-msgstr ""
+msgstr "Velja form: settu inn hornin með því að smella með músinni og tvísmelltu til að loka forminu"
 
 #: templates/static_pages/prop_file.html:688
 #: templates/static_pages/prop_file1.html:782
@@ -4416,27 +4416,27 @@ msgstr "Google-gervitunglamyndir"
 #: templates/static_pages/prop_file.html:689
 #: templates/static_pages/prop_file1.html:783
 msgid "Google Hybrid"
-msgstr ""
+msgstr "Google Hybrid"
 
 #: templates/static_pages/prop_file.html:690
 #: templates/static_pages/prop_file1.html:784
 msgid "Google Street"
-msgstr ""
+msgstr "Google Street"
 
 #: templates/static_pages/prop_file.html:691
 #: templates/static_pages/prop_file1.html:785
 msgid "Google Physical"
-msgstr ""
+msgstr "Google Physical"
 
 #: templates/static_pages/prop_file.html:693
 #: templates/static_pages/prop_file1.html:787
 msgid "Tiles courtesy of"
-msgstr ""
+msgstr "Kortafletir frá"
 
 #: templates/static_pages/prop_file.html:694
 #: templates/static_pages/prop_file1.html:788
 msgid "This is your personal space on Europeana. With My Europeana, you can save your favourite items and searches, and add tags."
-msgstr ""
+msgstr "Þetta er þitt einkasvæði á Europeana. Með Mínu Europeana getur þú vistað eftirlætishlutina þína, leitir og bætt við merkjum."
 
 #: templates/static_pages/prop_file.html:695
 #: templates/static_pages/prop_file1.html:789
@@ -4453,7 +4453,7 @@ msgstr "Sækja"
 #: templates/static_pages/prop_file.html:697
 #: templates/static_pages/prop_file1.html:791
 msgid "Content created by user"
-msgstr ""
+msgstr "Efni frá notendum"
 
 #: templates/static_pages/prop_file.html:698
 #: templates/static_pages/prop_file1.html:792
@@ -4479,7 +4479,7 @@ msgstr "Skoða stærri mynd"
 #: templates/static_pages/prop_file.html:702
 #: templates/static_pages/prop_file1.html:796
 msgid "Your search result contains no items that have map co-ordinates."
-msgstr ""
+msgstr "Leitarniðurstöðurnar innihalda enga hluti með kortapunktum"
 
 #: templates/static_pages/prop_file.html:703
 #: templates/static_pages/prop_file1.html:797
@@ -4489,44 +4489,44 @@ msgstr "Reyndu aðra leit"
 #: templates/static_pages/prop_file.html:704
 #: templates/static_pages/prop_file1.html:798
 msgid "The Europeana map search is still in development and currently doesn't work in Internet Explorer. We aim to support Internet Explorer in the future. Currently we recommend you to use Chrome or Firefox."
-msgstr ""
+msgstr "Kortið á Europeana er enn í þróun og virkar ekki enn í Internet Explorer. Við stefnum að því að styðja Internet Explorer í framtíðinni. Eins og er mælum við með því að þú notir Chrome eða Firefox."
 
 #: templates/static_pages/prop_file.html:708
 #: templates/static_pages/prop_file1.html:799
 msgid "Wikipedia Citation"
-msgstr "Tilvísun í Wikipediu"
+msgstr "Tilvísun fyrir Wikipediu"
 
 #: templates/static_pages/prop_file.html:709
 #: templates/static_pages/prop_file1.html:800
 msgid "Copy and paste the wiki-markup below:"
-msgstr ""
+msgstr "Afritaðu og límdu wiki-kóðann hér fyrir neðan:"
 
 #: templates/static_pages/prop_file.html:716
 #: templates/static_pages/prop_file1.html:802
 #: templates/static_pages/usingeuropeana_search.html:67
 #: templates/static_pages/usingeuropeana_search1.html:20
 msgid "Include content contributed by users"
-msgstr ""
+msgstr "Taka með efni frá notendum"
 
 #: templates/static_pages/prop_file.html:717
 #: templates/static_pages/prop_file1.html:803
 msgid "The map only shows up to 1000 items relevant to your query."
-msgstr ""
+msgstr "Kortið sýnir að hámarki 1000 hluti sem tengjast leitinni."
 
 #: templates/static_pages/prop_file.html:718
 #: templates/static_pages/prop_file1.html:804
 msgid "No place name available"
-msgstr ""
+msgstr "Ekkert staðarheiti til"
 
 #: templates/static_pages/prop_file.html:719
 #: templates/static_pages/prop_file1.html:805
 msgid "The map only shows up to {0} items relevant to your query."
-msgstr ""
+msgstr "Kortið sýnir að hámarki {0} hluti sem tengjast leitinni."
 
 #: templates/static_pages/prop_file.html:720
 #: templates/static_pages/prop_file1.html:806
 msgid "Search within current map view"
-msgstr ""
+msgstr "Leita í núverandi kortasýn"
 
 #: templates/static_pages/prop_file.html:721
 #: templates/static_pages/prop_file1.html:807
@@ -4553,7 +4553,7 @@ msgstr "Finn ekki innihald fyrir þessa síðu."
 #: templates/static_pages/prop_file.html:727
 #: templates/static_pages/prop_file1.html:813
 msgid "Latest on"
-msgstr ""
+msgstr "Nýjast frá"
 
 #: templates/static_pages/prop_file.html:728
 #: templates/static_pages/prop_file.html:960
@@ -4605,77 +4605,77 @@ msgstr "Skráðu þig til að fá fréttabréfið okkar sem sent er út á tvegg
 #: templates/static_pages/prop_file1.html:851
 #: templates/static_pages/prop_file1.html:861
 msgid "Featured partner"
-msgstr ""
+msgstr "Valinn samstarfsaðili"
 
 #: templates/static_pages/prop_file.html:751
 msgid "The Austrian National Library is largest library in Austria with 7.4 million items in its various collections. Through Europeana explore over 250,000 images, texts and audio items from the collection of the Austrian National Library."
-msgstr ""
+msgstr "Þjóðbókasafn Austurríkis er stærsta bókasafnið í Austurríki með 7,4 milljón gögn í ýmsum söfnum. Með Europeana getur þú skoðað yfir 250.000 myndir, texta og hljóðefni úr söfnum Þjóðbókasafns Austurríkis."
 
 #: templates/static_pages/prop_file.html:762
 msgid "The Rijksmuseum is the national museum of the Netherlands, dedicated to arts, crafts and history. Through Europeana explore over 100,000 public domain images of the collection of the Rijksmuseum."
-msgstr ""
+msgstr "Rijksmuseum er þjóðminjasafn Hollands sem varðveitir listir, handverk og sögu. Með Europeana getur þú skoðað yfir 100.000 myndir í almenningi úr safni Rijksmuseum."
 
 #: templates/static_pages/prop_file.html:773
 msgid "Crawford Art Gallery, a National Cultural Institution and regional art museum for Munster, is dedicated to the visual arts, both historic and contemporary. Located in the heart of Cork city, beside the Opera House, the Gallery is a critical part of Ireland's cultural and tourism infrastructure, welcoming over 200,000 visitors a year."
-msgstr ""
+msgstr "Crawford Art Gallery, þjóðmenningarstofnun og héraðslistasafn Munster, geymir sjónlistir, bæði sögulegar og úr okkar samtíma. Það er staðsett í miðborg Cork, við hlið óperuhússins og er mikilvægur hluti af menningarlífi og ferðaþjónustu á Írlandi, með yfir 200.000 þúsund gesti á ári."
 
 #: templates/static_pages/prop_file.html:783
 msgid "In the Swiss National Library you will find everything about Switzerland; everything which is published in the country or written by Swiss authors. Every publication, from Swiss daily newspapers to novels, from documentaries and yearbooks to official publications and geographical maps. In our two most important special collections, the Prints and Drawings Department and the Swiss Literary Archives you can find photographs, etchings, posters, postcards and manuscripts."
-msgstr ""
+msgstr "Í Þjóðbókasafni Sviss finnur þú allt um Sviss; allt sem hefur verið gefið út í landinu eða ritað af svissneskum höfundum, allar útgáfur, frá svissneskum dagblöðum til skáldsagna, frá heimildaritum og árbókum að opinberum útgáfum og landakortum. Í tveimur mikilvægustu sérsöfnunum okkar, prent- og teikningadeildinni og bókmenntasafninu, getur þú fundið ljósmyndir, koparstungur, veggmyndir, póstkort og handrit."
 
 #: templates/static_pages/prop_file.html:794
 msgid "The Museum of Architecture of the Technische Universit&auml;t Berlin was founded in 1885 as part of the Technische Hochschule Charlottenburg. It holds a collection of drawings, prints and photographs related to architecture, predominantely by 19th and 20th century Prussian architects. The Museum is one of the oldest institutions of its kind in Europe."
-msgstr ""
+msgstr "Byggingarlistasafn Technische Universit&auml;t í Berlín var stofnað árið 1885 sem hluti af Technische Hochschule Charlottenburg. Það varðveitir safn teikninga, prentgripa og ljósmynda sem tengjast byggingarlist, aðallega frá prússneskum arkitektum 19. og 20. aldar. Safnið er ein af elstu stofnunum sinnar gerðar í Evrópu."
 
 #: templates/static_pages/prop_file.html:801
 #: templates/static_pages/prop_file1.html:871
 msgid "API function"
-msgstr ""
+msgstr "API-aðgerð"
 
 #: templates/static_pages/prop_file.html:802
 #: templates/static_pages/prop_file1.html:872
 msgid "Search parameters"
-msgstr ""
+msgstr "Leitarskilyrði"
 
 #: templates/static_pages/prop_file.html:803
 #: templates/static_pages/prop_file1.html:873
 msgid "Search term"
-msgstr ""
+msgstr "Leitarorð"
 
 #: templates/static_pages/prop_file.html:804
 #: templates/static_pages/prop_file1.html:874
 msgid "Refinement term(s)"
-msgstr ""
+msgstr "Þrengri leitarorð"
 
 #: templates/static_pages/prop_file.html:805
 #: templates/static_pages/prop_file1.html:875
 msgid "Profile"
-msgstr ""
+msgstr "Um mig"
 
 #: templates/static_pages/prop_file.html:806
 #: templates/static_pages/prop_file1.html:876
 msgid "Number of records to retrieve"
-msgstr ""
+msgstr "Fjöldi færslna"
 
 #: templates/static_pages/prop_file.html:807
 #: templates/static_pages/prop_file1.html:877
 msgid "First record to retrieve"
-msgstr ""
+msgstr "Fyrsta færsla"
 
 #: templates/static_pages/prop_file.html:808
 #: templates/static_pages/prop_file1.html:878
 msgid "Record parameters"
-msgstr ""
+msgstr "Færsluskilyrði"
 
 #: templates/static_pages/prop_file.html:809
 #: templates/static_pages/prop_file1.html:879
 msgid "Record id"
-msgstr ""
+msgstr "Færslukenni"
 
 #: templates/static_pages/prop_file.html:810
 #: templates/static_pages/prop_file1.html:880
 msgid "Request URL"
-msgstr ""
+msgstr "Slóð fyrirspurnar"
 
 #: templates/static_pages/prop_file.html:811
 #: templates/static_pages/prop_file1.html:881
@@ -4707,12 +4707,12 @@ msgstr "_self"
 
 #: templates/static_pages/prop_file.html:822
 msgid "rights/terms-and-policies.html"
-msgstr ""
+msgstr "rights/terms-and-policies.html"
 
 #: templates/static_pages/prop_file.html:823
 #: templates/static_pages/prop_file.html:824
 msgid "Terms of use &amp; Policies"
-msgstr ""
+msgstr "Notkunarskilyrði &amp; stefna"
 
 #: templates/static_pages/prop_file.html:826
 msgid "contact.html"
@@ -4733,19 +4733,19 @@ msgstr "Enginn API-lykill"
 
 #: templates/static_pages/prop_file.html:837
 msgid "API key"
-msgstr ""
+msgstr "API-lykill"
 
 #: templates/static_pages/prop_file.html:838
 msgid "Private key"
-msgstr ""
+msgstr "Einkalykill"
 
 #: templates/static_pages/prop_file.html:839
 msgid "Usage limit"
-msgstr ""
+msgstr "Notkunartakmörk"
 
 #: templates/static_pages/prop_file.html:840
 msgid "Role"
-msgstr ""
+msgstr "Hlutverk"
 
 #: templates/static_pages/prop_file.html:841
 msgid "Administrator's page"
@@ -4753,11 +4753,11 @@ msgstr "Stjórnendasíða"
 
 #: templates/static_pages/prop_file.html:842
 msgid "Remove API key"
-msgstr ""
+msgstr "Fjarlægja API-lykil"
 
 #: templates/static_pages/prop_file.html:843
 msgid "Limit"
-msgstr ""
+msgstr "Hámark"
 
 #: templates/static_pages/prop_file.html:844
 msgid "Remove user"
@@ -4765,15 +4765,15 @@ msgstr "Fjarlægja notanda"
 
 #: templates/static_pages/prop_file.html:845
 msgid "Block user"
-msgstr ""
+msgstr "Loka á notanda"
 
 #: templates/static_pages/prop_file.html:846
 msgid "Export API keys to CSV"
-msgstr ""
+msgstr "Flytja API-lykla út í CSV"
 
 #: templates/static_pages/prop_file.html:847
 msgid "Export users to CSV"
-msgstr ""
+msgstr "Flytja notendur út í CSV"
 
 #: templates/static_pages/prop_file.html:848
 msgid "User name"
@@ -4789,7 +4789,7 @@ msgstr "Heimsækja vef"
 
 #: templates/static_pages/prop_file.html:852
 msgid "View the latest content from our partners"
-msgstr ""
+msgstr "Skoða nýjustu gögnin frá samstarfsaðilum okkar"
 
 #: templates/static_pages/prop_file.html:856
 #: templates/static_pages/prop_file.html:857
@@ -4808,31 +4808,31 @@ msgstr "Europeana 1914-1918"
 
 #: templates/static_pages/prop_file.html:873
 msgid "Remix"
-msgstr ""
+msgstr "Endurblanda"
 
 #: templates/static_pages/prop_file.html:876
 #: templates/static_pages/sitemap.html:21
 #: templates/static_pages/sitemap1.html:40
 msgid "Europeana Professional"
-msgstr ""
+msgstr "Europeana Professional"
 
 #: templates/static_pages/prop_file.html:877
 msgid "Professional"
-msgstr ""
+msgstr "Professional"
 
 #: templates/static_pages/prop_file.html:920
 #: templates/static_pages/prop_file.html:921
 #: templates/static_pages/sitemap.html:39
 msgid "API Methods"
-msgstr ""
+msgstr "API-aðgerðir"
 
 #: templates/static_pages/prop_file.html:928
 msgid "Change limit for an API key"
-msgstr ""
+msgstr "Breyta mörkum fyrir API-lykil"
 
 #: templates/static_pages/prop_file.html:929
 msgid "Company or Institution"
-msgstr ""
+msgstr "Fyrirtæki eða stofnun"
 
 #: templates/static_pages/prop_file.html:930
 msgid "Telephone contact"
@@ -4852,7 +4852,7 @@ msgstr "Næst í röðinni"
 
 #: templates/static_pages/prop_file.html:934
 msgid "Date of creation"
-msgstr ""
+msgstr "Dagsetning"
 
 #: templates/static_pages/prop_file.html:935
 msgid "Is part of"
@@ -4876,48 +4876,48 @@ msgstr "Efni"
 
 #: templates/static_pages/prop_file.html:950
 msgid "Creators"
-msgstr ""
+msgstr "Höfundar"
 
 #: templates/static_pages/prop_file.html:951
 msgid "All fields"
-msgstr ""
+msgstr "Allir dálkar"
 
 #: templates/static_pages/prop_file.html:952
 msgid "Featured Item"
-msgstr ""
+msgstr "Valinn hlutur"
 
 #: templates/static_pages/prop_file.html:953
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "Featured Partner"
-msgstr ""
+msgstr "Valinn samstarfsaðili"
 
 #: templates/static_pages/prop_file.html:954
 msgid "Click here for last page of results"
-msgstr ""
+msgstr "Smella hér fyrir öftustu niðurstöður"
 
 #: templates/static_pages/prop_file.html:955
 #: templates/static_pages/usingeuropeana_results.html:24
 msgid "Results per page"
-msgstr ""
+msgstr "Niðurstöður á síðu"
 
 #: templates/static_pages/prop_file.html:956
 #: templates/static_pages/usingeuropeana_search.html:49
 msgid "Add more keywords"
-msgstr ""
+msgstr "Bæta við efnisorðum"
 
 #: templates/static_pages/prop_file.html:957
 msgid "+ Add"
-msgstr ""
+msgstr "+ Bæta við"
 
 #: templates/static_pages/prop_file.html:958
 #: templates/static_pages/prop_file1.html:882
 msgid "Field of work"
-msgstr ""
+msgstr "Starfssvið"
 
 #: templates/static_pages/prop_file.html:959
 #: templates/static_pages/prop_file1.html:883
 msgid "Please, select"
-msgstr ""
+msgstr "Vinsamlega veldu"
 
 #: templates/static_pages/prop_file.html:961
 msgid "Please try another search later."
@@ -4929,7 +4929,7 @@ msgstr "Finn ekki síðuna sem óskað var eftir"
 
 #: templates/static_pages/prop_file.html:963
 msgid "Alert:"
-msgstr ""
+msgstr "Tilkynning:"
 
 #: templates/static_pages/prop_file.html:964
 msgid "Unable to find the requested Europeana Record."
@@ -4937,11 +4937,11 @@ msgstr "Finn ekki Europeana-færsluna sem óskað var eftir."
 
 #: templates/static_pages/prop_file.html:965
 msgid "This item has been withdrawn by the provider."
-msgstr ""
+msgstr "Þessi hlutur hefur verið fjarlægður af efnisveitunni."
 
 #: templates/static_pages/prop_file.html:966
 msgid "Requested Europeana Record is not yet indexed."
-msgstr ""
+msgstr "Viðkomandi færsla hefur ekki enn verið skráð."
 
 #: templates/static_pages/prop_file.html:968
 msgid "Please register your email again"
@@ -4973,7 +4973,7 @@ msgstr "Vinsamlega veldu annað tungumál úr fellilistanum."
 
 #: templates/static_pages/prop_file.html:975
 msgid "Number of results shown on the page"
-msgstr ""
+msgstr "Fjöldi niðurstaðna á síðu"
 
 #: templates/static_pages/prop_file1.html:69
 msgid "Contacts"
@@ -4984,7 +4984,7 @@ msgstr "Tengiliðir"
 #: templates/static_pages/usingeuropeana_search.html:49
 #: templates/static_pages/usingeuropeana_search1.html:46
 msgid "Refine your search"
-msgstr ""
+msgstr "Þrengja leit"
 
 #: templates/static_pages/prop_file1.html:74
 #: templates/static_pages/usingeuropeana_search.html:56
@@ -5002,107 +5002,107 @@ msgstr "Eftir landi"
 #: templates/static_pages/usingeuropeana_search.html:57
 #: templates/static_pages/usingeuropeana_search1.html:52
 msgid "By date"
-msgstr ""
+msgstr "Eftir tíma"
 
 #: templates/static_pages/prop_file1.html:400
 msgid "This painting of Dragalevski monastery is by Joseph Oberbauer (1853-1926), the monastery is situated at the foot of the Vitosha mountain, close to Sofia."
-msgstr ""
+msgstr "Þetta málverk af Dragalevski-klaustrinu er eftir Joseph Oberbauer (1853-1926). Klaustrið er við rætur Vitosha-fjalls, nálægt Sófíu."
 
 #: templates/static_pages/prop_file1.html:410
 msgid "By the Atelier Madame d'Ora. Anna Pawlowa is widely regarded as one of the finest classical ballet dancers in history."
-msgstr ""
+msgstr "Eftir vinnustofu Madame d'Ora. Anna Pawlowa er af mörgum talin ein af bestu klassísku ballettdönsurum sögunnar."
 
 #: templates/static_pages/prop_file1.html:420
 msgid "A Port Jackson shark and a detail of its gill. Etching by P. Mazell, dated 1789."
-msgstr ""
+msgstr "Hákarl frá Port Jackson og nærmynd af tálkni. Koparstunga eftir P. Mazell með ártalið 1789."
 
 #: templates/static_pages/prop_file1.html:430
 msgid "Howard Carter, was an English archaeloogist and Egyptologist famed for co-discovering Tutankhamun's tomb. Opening the sealed doorway to the burial chamber on the 16th February 1923. "
-msgstr ""
+msgstr "Howard Carter var enskur fornleifafræðingur og egyptalandsfræðingur sem er frægur fyrir að hafa fundið gröf Tútankamons, ásamt fleirum. Hann opnað innsiglaðar dyrnar að gröfinni 16. febrúar 1923."
 
 #: templates/static_pages/prop_file1.html:440
 msgid "Vladimir Dimitrov (1882-1960) was a Bulgarian painter, considered to be one of the countries greatest artists. Dimitrov was born in Frolesh in 1882, and in 1903 he enrolled in Sofia's 'School of Drawing', where he was first called 'The Master'. Dimitrov was known for using bright colours in his paintings."
-msgstr ""
+msgstr "Vladimir Dimitrov (1882-1960) var búlgarskur listmálari, talinn einn af mestu listamönnum landsins. Dimitrov fæddist í Frolesh árið 1882 og hóf nám við teikniskólann í Sófíu þar sem hann var fyrst kallaður „meistarinn“. Dimitrov var þekktur fyrir notkun bjartra lita í málverkum sínum."
 
 #: templates/static_pages/prop_file1.html:450
 msgid "Two warriors in armour holding sharks' teeth swords. The man on the left wears a plaited coir (coconut fibre) armour consisting of a te tuta (short shirt or jersey) with diamond-shaped motifs probably worked in black human hair, trousers, and a te otana (cuirass)"
-msgstr ""
+msgstr "Tveir stríðsmenn í herklæðum halda á sverðum úr hákarlatönnum. Maðurinn til vinstri er í fléttuðum herklæðum úr kókoshnetutrefjum: te tuta (stuttri skyrtu) með demantslaga mynstri líklega gerðu úr mannshári, buxum og te otana (brynju)."
 
 #: templates/static_pages/prop_file1.html:460
 msgid "Picture book in the form of a theatre, where the left and right of the back cover two ridges are created, and where the pages open from the Center. Paramount is a scene depicted with curtains and an orchestra."
-msgstr ""
+msgstr "Myndabók sem líkist leikhúsi, þar sem tvö brot eru hægra og vinstra megin á aftasta spjaldi og síðurnar opnast frá miðju. Fremst er svið með tjöldum og hljómsveit."
 
 #: templates/static_pages/prop_file1.html:470
 msgid "Franceta Pre&#x161;erna (1800-1849) was a Slovene Romantic poet, considered as the Slovene national poet, his legacy in Slovenian culture is enormous, and in 1905 his monument was placed at the central squaer in Ljubjana."
-msgstr ""
+msgstr "Franceta Pre&#x161;erna (1800-1849) var slóvenskt skáld sem litið er á sem þjóðskáld Slóvena. Áhrif hans á menningu Slóveníu eru gríðarleg og árið 1905 var minnismerki um hann reist á aðaltorgi Ljúbljana."
 
 #: templates/static_pages/prop_file1.html:480
 msgid "Portrait of Jacob Maris, aged 20, the brother of the artist Matthijs Maris (1839-1917). Maris was noted for his movement away from the Realism of the Hague school, towards more symbollic expressionism."
-msgstr ""
+msgstr "Mynd af Jacob Maris, tvítugum, bróður listamannsins Matthijs Maris (1839-1917). Maris var þekktur fyrir að hverfa frá raunsæi Hagskólans í átt að symbólskum expressjónisma."
 
 #: templates/static_pages/prop_file1.html:490
 msgid "Photomicrograph of thin section of agate/quartz crystal. Agate is a type of quartz found in a variety of rock but characteristically associated with volcanic rock. Due to the way in which they were formed, agate rock often displays either an regimented banding pattern"
-msgstr ""
+msgstr "Örmynd af þversniði agats/kvarskristals. Agat er tegund af kvarsi sem finnst í ýmsum bergtegundum en oftast í gosbergi. Vegna þess hvernig það myndast er agat oftast með bandamynstri."
 
 #: templates/static_pages/prop_file1.html:500
 msgid "Before the wedding, well-to-do Bukharan families would invite a goldsmith to their house, where he would make the jewelry for the bride, living there until the dowry preparations were completed. The jewelry was made of gold, colorful semiprecious stones, and pearls, some local and others imported, mainly from Russia."
-msgstr ""
+msgstr "Fyrir brúðkaupið buðu vel stæðar búkarskar fjölskyldur gullsmið heim til sín þar sem hann smíðaði skartgripi fyrir brúðina og bjó þar þar til undirbúningnum lauk. Skartgripirnir voru úr gulli, eðalsteinum og perlum, sumum innlendum en öðrum innfluttum, aðallega frá Rússlandi."
 
 #: templates/static_pages/prop_file1.html:510
 msgid "Pindar (gr. Pindaros) was one of the great Classical Greek poets and his famous for his poems dedicated to the Olympic champions."
-msgstr ""
+msgstr "Pindaros var einn af stóru skáldunum í Grikklandi og er þekktur fyrir kvæði helguð íþróttahetjum Ólympíuleikanna."
 
 #: templates/static_pages/prop_file1.html:520
 msgid "Milton's poetry and prose reflect deep personal convictions, a passion for freedom and self determination, and the urgent issues and political turbulence of his day."
-msgstr ""
+msgstr "Ljóð og lausamál Miltons endurspegla djúpa persónulega trúarafstöðu, þrá eftir frelsi og sjálfsákvörðunarrétti, og brennandi viðfangsefni stjórnmála hans tíma."
 
 #: templates/static_pages/prop_file1.html:530
 msgid "Tsanko Lavrenov was one of the most prominent, influential and distinctive Bulgarian artists of the 20th century. A modernist influenced by the Symbolism and the Secession, best known for his cityscapes of his old town of Plovdiv."
-msgstr ""
+msgstr "Tsanko Lavrenov var einn af mest áberandi, áhrifamestu og sérstæðustu listamönnum Búlgaríu á 20. öld. Hann var módernisti undir áhrifum frá symbólismanum og sesessjónismanum og er þekktastur fyrir götumyndir af gamla bænum sínum, Plovdiv."
 
 #: templates/static_pages/prop_file1.html:540
 msgid "The beautiful Parnassius epaphus is a high altitude butterfly (9,000 to 13,000 ft) which is found in India. It is a member of the Snow Apollo genus Parnassius of the Papilionidae family."
-msgstr ""
+msgstr "Hið fallega Parnassius epaphus er háloftafiðrildi (3000 til 4000 metrar) frá Indlandi. Það er í ættkvíslinni Parnassius af ætt eðalfiðrilda (Papilionidae)."
 
 #: templates/static_pages/prop_file1.html:550
 msgid "Coloured map of the Netherlands and parts of neighboring countries. On the map is a line marking where the enemy troops had advanced in 1672-73."
-msgstr ""
+msgstr "Litað kort af Hollandi og hluta nágrannalanda. Á kortinu er lína sem sýnir hvert óvinaherinn hafði náð 1672-73."
 
 #: templates/static_pages/prop_file1.html:560
 msgid "This oil painting from 1879, by Finnish painter Arvid Emanuel Liljelund depicts a scene where the Master EN F&auml;rling, and Dr. HA Reinholm are buying a collection of national dresses. The model posing as the peasant was Muukka Elias, who had gone on to study in D&uuml;sseldorf in 1877. "
-msgstr ""
+msgstr "Þetta olíumálverk frá 1879 eftir finnska málarann Arvid Emanuel Liljelund sýnir atriði þar sem meistari EN F&auml;rling, and Dr. HA Reinholm kaupa safn af þjóðbúningum. Fyrirsætan í hlutverki bóndans var Muukka Elias sem hóf nám í D&uuml;sseldorf 1877. "
 
 #: templates/static_pages/prop_file1.html:567
 msgid "Click here to visit our exhibition, 'Untold stories of the First World War'"
-msgstr ""
+msgstr "Smelltu hér til að skoða sýninguna okkar, „Ósagðar sögur Fyrri heimsstyrjaldarinnar“"
 
 #: templates/static_pages/prop_file1.html:570
 msgid "Exhibition: Untold stories of the First World War"
-msgstr ""
+msgstr "Sýning: Ósagðar sögur Fyrri heimsstyrjaldarinnar"
 
 #: templates/static_pages/prop_file1.html:574
 msgid "Click here to visit our exhibition, 'Royal Book Collections'"
-msgstr ""
+msgstr "Smelltu hér til að skoða sýninguna okkar, „Konunglegu bókasöfnin“"
 
 #: templates/static_pages/prop_file1.html:577
 msgid "Exhibition: Royal Book Collections"
-msgstr ""
+msgstr "Sýning: Konunglegu bókasöfnin"
 
 #: templates/static_pages/prop_file1.html:581
 msgid "Europeana Fashion: Weird and wonderful shoes from the world's biggest collection"
-msgstr ""
+msgstr "Europeana Fashion: Furðulegir og undursamlegir skór úr stærsta safni heims"
 
 #: templates/static_pages/prop_file1.html:584
 msgid "Europeana Fashion: Weird &amp; wonderful shoes from the world's biggest collection"
-msgstr ""
+msgstr "Europeana Fashion: Furðulegir &amp; undursamlegir skór úr stærsta safni heims"
 
 #: templates/static_pages/prop_file1.html:588
 msgid "Click here to view a Europeana search of items from the Museum of Architecture, Berlin"
-msgstr ""
+msgstr "Smelltu hér til að skoða leit í Europeana að hlutum úr Byggingarlistasafninu í Berlín"
 
 #: templates/static_pages/prop_file1.html:591
 msgid "Featured Search: The Museum of Architecture, Berlin"
-msgstr ""
+msgstr "Valin leit: Byggingarlistasafnið í Berlín"
 
 #: templates/static_pages/prop_file1.html:595
 msgid "Click here to visit our exhibition, 'European Sport Heritage'"
@@ -5114,11 +5114,11 @@ msgstr "Sýning: Íþróttaarfur Evrópu"
 
 #: templates/static_pages/prop_file1.html:602
 msgid "Click here to preview the new Europeana portal before it's launched"
-msgstr ""
+msgstr "Smelltu hér til að skoða nýju Europeana-gáttina áður en hún kemur út"
 
 #: templates/static_pages/prop_file1.html:605
 msgid "Preview the new Europeana portal before it's launched"
-msgstr ""
+msgstr "Skoðaðu nýju Europeana-gáttina áður en hún kemur út"
 
 #: templates/static_pages/prop_file1.html:748
 #: templates/static_pages/usingeuropeana_results.html:51
@@ -5145,11 +5145,11 @@ msgstr "Rijksmuseum er hollenskt þjóðminjasafn í Amsterdam. Meðal málverka
 
 #: templates/static_pages/prop_file1.html:845
 msgid "The Austrian National Library is the largest library in Austria. One of the major tasks is to collect and archive all publications which appear in Austria."
-msgstr ""
+msgstr "Þjóðbókasafn Austurríkis er stærsta bókasafnið í Austurríki. Eitt af helstu verkefnum þess er að safna og varðveita allt efni útgefið í Austurríki."
 
 #: templates/static_pages/prop_file1.html:855
 msgid "The 'Archivo de la Imagen de Castilla La Mancha' is a project to preserve and disseminate thousands of photographs of Castilla La Mancha."
-msgstr ""
+msgstr "'Archivo de la Imagen de Castilla La Mancha' er verkefni sem gengur út á að varðveita og dreifa þeim þúsundum ljósmynda sem til eru af Castilla La Mancha."
 
 #: templates/static_pages/prop_file1.html:865
 msgid "#"
@@ -5167,15 +5167,15 @@ msgstr "til Europeana"
 
 #: templates/static_pages/sitemap.html:37
 msgid "Data structure"
-msgstr ""
+msgstr "Gagnabygging"
 
 #: templates/static_pages/sitemap.html:38
 msgid "Common Fields"
-msgstr ""
+msgstr "Almennir dálkar"
 
 #: templates/static_pages/sitemap.html:41
 msgid "OpenSearch"
-msgstr ""
+msgstr "OpenSearch"
 
 #: templates/static_pages/sitemap.html:42
 msgid "Record"
@@ -5187,15 +5187,15 @@ msgstr "Tillögur"
 
 #: templates/static_pages/sitemap.html:46
 msgid "Query Syntax"
-msgstr ""
+msgstr "Leitarstrengur"
 
 #: templates/static_pages/sitemap.html:47
 msgid "Europeana Fields"
-msgstr ""
+msgstr "Dálkar Europeana"
 
 #: templates/static_pages/sitemap.html:48
 msgid "API1-API2 compatability"
-msgstr ""
+msgstr "Samhæfni 1. og 2. útgáfu forritunarviðmótsins"
 
 #: templates/static_pages/sitemap.html:71
 msgid "Press Centre (on Europeana Professional)"
@@ -5235,7 +5235,7 @@ msgstr "Europeana: Óþekkt höfundaréttarstaða"
 
 #: templates/static_pages/sitemap.html:104
 msgid "Europeana Providers"
-msgstr ""
+msgstr "Efnisveitur Europeana"
 
 #: templates/static_pages/sitemap1.html:43
 msgid "Follow us"
@@ -5563,7 +5563,7 @@ msgstr "Tónlistin er aðallega úr verki Irmin Schmidt"
 #: templates/static_pages/storyline.html:43
 #: templates/static_pages/storyline1.html:45
 msgid "Those Fuzzy Things (out there)"
-msgstr ""
+msgstr "Þessir loðnu hlutir (þarna úti)"
 
 #: templates/static_pages/storyline.html:43
 #: templates/static_pages/storyline1.html:45
@@ -5592,7 +5592,7 @@ msgstr "Velkomin á Europeana. Þessi síða lýsir nokkrum hlutum sem þú getu
 #: templates/static_pages/usingeuropeana.html:14
 #: templates/static_pages/usingeuropeana1.html:16
 msgid "Search tips"
-msgstr ""
+msgstr "Leitarráð"
 
 #: templates/static_pages/usingeuropeana.html:14
 #: templates/static_pages/usingeuropeana1.html:16
@@ -5637,13 +5637,13 @@ msgstr "Í tímans rás"
 #: templates/static_pages/usingeuropeana1.html:18
 #: templates/static_pages/usingeuropeana_explore1.html:18
 msgid "On a map"
-msgstr ""
+msgstr "Á korti"
 
 #: templates/static_pages/usingeuropeana.html:16
 #: templates/static_pages/usingeuropeana1.html:18
 #: templates/static_pages/usingeuropeana_explore1.html:14
 msgid "With curatorial expertise"
-msgstr ""
+msgstr "Með faglegri leiðsögn"
 
 #: templates/static_pages/usingeuropeana.html:19
 #: templates/static_pages/usingeuropeana1.html:21
@@ -5654,37 +5654,37 @@ msgstr "Að sjá frekari upplýsingar"
 #: templates/static_pages/usingeuropeana1.html:21
 #: templates/static_pages/usingeuropeana_results1.html:29
 msgid "Rights and license information"
-msgstr ""
+msgstr "Réttindi og notkunarleyfi"
 
 #: templates/static_pages/usingeuropeana.html:19
 #: templates/static_pages/usingeuropeana1.html:21
 msgid "Translating details"
-msgstr ""
+msgstr "Að þýða upplýsingar"
 
 #: templates/static_pages/usingeuropeana.html:19
 #: templates/static_pages/usingeuropeana1.html:21
 msgid "Searching on external services"
-msgstr ""
+msgstr "Leit í öðrum leitarvélum"
 
 #: templates/static_pages/usingeuropeana.html:19
 #: templates/static_pages/usingeuropeana1.html:21
 msgid "New related searches on Europeana"
-msgstr ""
+msgstr "Nýjar tengdar leitir á Europeana"
 
 #: templates/static_pages/usingeuropeana.html:19
 #: templates/static_pages/usingeuropeana1.html:21
 msgid "Viewing item on provider's site"
-msgstr ""
+msgstr "Skoða hlut á vef efnisveitu"
 
 #: templates/static_pages/usingeuropeana.html:19
 #: templates/static_pages/usingeuropeana1.html:21
 msgid "Embedding"
-msgstr ""
+msgstr "Fella inn"
 
 #: templates/static_pages/usingeuropeana.html:19
 #: templates/static_pages/usingeuropeana1.html:21
 msgid "and Citing"
-msgstr ""
+msgstr "og vísa til"
 
 #: templates/static_pages/usingeuropeana.html:21
 #: templates/static_pages/usingeuropeana1.html:23
@@ -5708,66 +5708,66 @@ msgstr "Europeana - Að kanna Europeana"
 
 #: templates/static_pages/usingeuropeana_explore.html:11
 msgid "In addition to the search and filter options, Europeana offers alternative ways to explore and navigate through our millions of objects. You can discover Europe's rich heritage by browsing"
-msgstr ""
+msgstr "Auk aðgerða til að leita og sía, býður Europeana upp á annars konar aðferðir til að kanna og fletta gegnum þær milljónir hluta sem eru á vefnum. Þú getur uppgötvað ríkulegan menningararf Evrópu með því að fletta"
 
 #: templates/static_pages/usingeuropeana_explore.html:14
 msgid "Our virtual exhibitions help you discover and learn more about specific themes, e.g. Art Nouveau or musical instruments. With extensive curatorial information that guides you through the themes, the virtual exhibitions can be found by choosing the"
-msgstr ""
+msgstr "Vefsýningarnar okkar hjálpa þér að uppgötva og kynnast ákveðnu efni, t.d. Art Nouveau eða hljóðfærum. Sýningarnar eru með ítarlegum upplýsingum sem leiðbeina þér um efnið. Hægt er að finna þær með því að velja"
 
 #: templates/static_pages/usingeuropeana_explore.html:14
 msgid "link at the foot of the page."
-msgstr ""
+msgstr "tengilinn neðst á síðunni."
 
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "See the latest contributions from our partner museums, libraries, archives and audiovisual archives by choosing"
-msgstr ""
+msgstr "Skoðaðu það nýjasta frá minjasöfnum, bókasöfnum, skjalasöfnum og tón- og myndsöfnum með því að velja"
 
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "View more latest content from our partners"
-msgstr ""
+msgstr "Skoða það nýjasta frá samstarfsaðilum okkar"
 
 #: templates/static_pages/usingeuropeana_explore.html:15
 #: templates/static_pages/usingeuropeana_explore1.html:15
 #: templates/static_pages/usingeuropeana_explore1.html:16
 msgid "in the"
-msgstr ""
+msgstr "á"
 
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "area"
-msgstr ""
+msgstr "svæðinu"
 
 #: templates/static_pages/usingeuropeana_explore1.html:11
 msgid "In addition to standard search options, Europeana offers alternative ways to explore and navigate through our millions of objects. You can discover Europe's rich heritage by searching"
-msgstr ""
+msgstr "Auk hefðbundinna leitarmöguleika býður Europeana upp á annars konar aðferðir til að kanna og fletta gegnum þær milljónir gagna sem eru á vefnum. Þú getur uppgötvað ríkulegan menningararf Evrópu með því að leita að"
 
 #: templates/static_pages/usingeuropeana_explore1.html:14
 msgid "Our virtual exhibitions help you discover and learn more about specific themes, e.g. Art Nouveau or musical instruments. With extensive curatorial information that guides you through the themes, the virtual exhibitions are displayed on the image carousel of Europeana's landing page, and can be also found in the"
-msgstr ""
+msgstr "Vefsýningarnar okkar hjálpa þér að uppgötva og kynnast ákveðnu efni, t.d. Art Nouveau eða hljóðfærum. Sýningarnar eru með ítarlegum upplýsingum sem leiðbeina þér um efnið. Vefsýningarnar er að finna á myndahringekjunni á forsíðu Europeana, og líka undir"
 
 #: templates/static_pages/usingeuropeana_explore1.html:14
 #: templates/static_pages/usingeuropeana_explore1.html:15
 msgid "tab at the top of the page."
-msgstr ""
+msgstr "flipanum efst á síðunni."
 
 #: templates/static_pages/usingeuropeana_explore1.html:15
 msgid "Through newest content"
-msgstr ""
+msgstr "Eftir nýjasta efninu"
 
 #: templates/static_pages/usingeuropeana_explore1.html:15
 msgid "See the latest contributions from our partner museums, libraries, archives and audio-visual archives by clicking"
-msgstr ""
+msgstr "Sjáðu nýjustu viðbætur samstarfsaðila okkar, safna, bókasafna, skjalasafna og tón- og myndsafna með því að smella á"
 
 #: templates/static_pages/usingeuropeana_explore1.html:16
 msgid "Click"
-msgstr ""
+msgstr "Smelltu á"
 
 #: templates/static_pages/usingeuropeana_explore1.html:16
 msgid "By Provider"
-msgstr ""
+msgstr "Eftir efnisveitu"
 
 #: templates/static_pages/usingeuropeana_explore1.html:16
 msgid "tab at the top of the page to browse through the collections from a specific institution and open doors to any museum, library, archive and audio-visual archive that provides content to Europeana."
-msgstr ""
+msgstr "flipann efst á síðunni til að fletta gegnum gögn frá tiltekinni stofnun og opna dyrnar að hverju því bókasafni, skjalasafni og tón- og myndsafni sem leggur Europeana til efni."
 
 #: templates/static_pages/usingeuropeana_explore1.html:17
 msgid "The interactive"
@@ -5779,51 +5779,51 @@ msgstr "gerir þér kleyft að flokka hluti eftir dagsetningu. Þetta skiptist �
 
 #: templates/static_pages/usingeuropeana_explore1.html:18
 msgid "Click on the globe icon"
-msgstr ""
+msgstr "Smelltu á hnöttinn"
 
 #: templates/static_pages/usingeuropeana_explore1.html:18
 msgid "on the search results page, to view your results on a map.  The Europeana hits are shown as purple circles, with the size of the circle indicating the amount of objects on Europeana for the given search in a specific location. As you zoom in, click on a circle to find out the exact number of objects for that location. When you click on the value, you will get a list of items that you can preview and see on Europeana's full-object display page."
-msgstr ""
+msgstr "á síðum með leitarniðurstöðum til að skoða niðurstöður þínar á korti. Niðurstöður frá Europeana eru sýndar með fjólubláum hringum þar sem stærð hringsins sýnir fjölda hluta á Europeana fyrir tiltekna leit á tilteknum stað. Smelltu á hring, þegar þú stækkar myndina, til að fá nákvæman fjölda gagna fyrir þann stað. Þegar þú smellir á töluna færðu lista yfir gögn sem þú getur forskoðað og skoðað á síðunni sem sýnir hlutinn sjálfan."
 
 #: templates/static_pages/usingeuropeana_explore1.html:19
 msgid "Please note that at this stage, we are only exploring the geolocation possibilities. Hence, the results for only"
-msgstr ""
+msgstr "Athugaðu að á þessu stigi málsins erum við að prófa okkur áfram með möguleika á staðsetningu á korti. Þess vegna birtast aðeins niðurstöður fyrir"
 
 #: templates/static_pages/usingeuropeana_explore1.html:19
 msgid "some of the search terms"
-msgstr ""
+msgstr "sum leitarorðanna"
 
 #: templates/static_pages/usingeuropeana_explore1.html:19
 msgid "on Europeana can be now displayed on a map."
-msgstr ""
+msgstr "á Europeana er nú hægt að sjá á korti."
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:3
 #: templates/static_pages/usingeuropeana_myeuropeana1.html:3
 msgid "Europeana - Using My Europeana"
-msgstr ""
+msgstr "Europeana - Að nota Mitt Europeana"
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:10
 #: templates/static_pages/usingeuropeana_myeuropeana1.html:10
 msgid "is your personal space on Europeana."
-msgstr ""
+msgstr "er þitt svæði á Europeana."
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:11
 #: templates/static_pages/usingeuropeana_myeuropeana1.html:11
 msgid "Register for"
-msgstr ""
+msgstr "Skráðu þig í"
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:11
 msgid "and you can"
-msgstr ""
+msgstr "og þú getur"
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:14
 #: templates/static_pages/usingeuropeana_myeuropeana1.html:14
 msgid "Keep up to date on a particular topic in Europeana by saving a search, so you can easily perform it again in future."
-msgstr "Fáðu nýjustu upplýsingar um tiltekin efni í Europeana með því að vista leit, svo þú getir auðveldlega endurtekið hana seinna."
+msgstr "Fengið nýjustu upplýsingar um tiltekin efni í Europeana með því að vista leit, svo þú getir auðveldlega endurtekið hana seinna."
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:15
 msgid "Label your favourite items in Europeana with tags that mean something to you. You can then see all objects you have tagged, sorted by the keywords you have chosen, in the My Europeana interface."
-msgstr ""
+msgstr "Merkt eftirlætishlutina þína í Europeana með tögum sem hafa einhverja merkingu fyrir þig. Þú getur síðan skoðað alla hlutina sem þú hefur merkt eftir þeim lykilorðum sem þú valdir í viðmóti Míns Europeana."
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:16
 #: templates/static_pages/usingeuropeana_myeuropeana1.html:16
@@ -5832,28 +5832,28 @@ msgstr "Geymt eftirlætishlutina þína til að skoða síðar."
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:17
 msgid "If you are a developer who has registered for one or more API keys, these will be shown on the API Keys tab."
-msgstr ""
+msgstr "Ef þú ert forritari sem hefur skráð þig fyrir einum eða fleiri API-lyklum getur þú fundið þá undir API-lyklaflipanum."
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:20
 #: templates/static_pages/usingeuropeana_myeuropeana1.html:19
 msgid "To save a search, add a tag or save an item, simply login to"
-msgstr ""
+msgstr "Til að vista leit, bæta við merki eða vista hlut, skráðu þig inn á"
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:20
 msgid "and click on the relevant action from the menu."
-msgstr ""
+msgstr "og smelltu á viðeigandi aðgerð í valmyndinni."
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:21
 msgid "To view your saved items, searches and tags, use the"
-msgstr ""
+msgstr "Til að skoða vistaða hluti, leitir og merki, notaðu"
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:21
 msgid "shortcuts in the header."
-msgstr ""
+msgstr "flýtileiðirnar í hausnum."
 
 #: templates/static_pages/usingeuropeana_myeuropeana1.html:11
 msgid "and you can:"
-msgstr ""
+msgstr "og þú getur:"
 
 #: templates/static_pages/usingeuropeana_myeuropeana1.html:15
 msgid "Label you favourite items in Europeana with tags that mean something to you. You can then see all objects you have tagged, sorted by the keywords you have chosen, in the My Europeana interface."
@@ -5861,28 +5861,28 @@ msgstr "Merkt eftirlætishlutina þína með miða sem merkir eitthvað fyrir þ
 
 #: templates/static_pages/usingeuropeana_myeuropeana1.html:19
 msgid "and click on the relevant action from the menu on the left of the screen."
-msgstr ""
+msgstr "og smellt á viðeigandi aðgerð í valmyndinni vinstra megin á skjánum."
 
 #: templates/static_pages/usingeuropeana_myeuropeana1.html:20
 msgid "To view your saved items, searches and tags, click"
-msgstr ""
+msgstr "Til að skoða vistaða hluti, leitir og tög, smelltu á"
 
 #: templates/static_pages/usingeuropeana_myeuropeana1.html:20
 msgid "from the menu at the top of the screen and select either the 'saved items', 'saved searches' or 'saved tags' tab."
-msgstr ""
+msgstr "í valmyndinni efst á skjánum og veldu annað hvort „vistaðir hlutir“-, „vistaðar leitir“- eða „vistuð merki“-flipann."
 
 #: templates/static_pages/usingeuropeana_results.html:3
 #: templates/static_pages/usingeuropeana_results1.html:3
 msgid "Europeana - Results in Europeana"
-msgstr ""
+msgstr "Europeana - Niðurstöður úr Europeana"
 
 #: templates/static_pages/usingeuropeana_results.html:11
 msgid "Europeana divides search results into 5 main categories: text, images, video, sound and 3D objects."
-msgstr ""
+msgstr "Europeana skiptir leitarniðurstöðum í fimm aðalflokka: texta, myndir, kvikmyndir, hljóð og þrívíða hluti."
 
 #: templates/static_pages/usingeuropeana_results.html:12
 msgid "The types of items included in each section are:"
-msgstr ""
+msgstr "Tegundir hluta í hverjum flokki eru:"
 
 #: templates/static_pages/usingeuropeana_results.html:15
 #: templates/static_pages/usingeuropeana_results1.html:15
@@ -5891,11 +5891,11 @@ msgstr "bækur, bréf, skjöl, lokaverkefni, ljóð, blaðagreinar, ljósprent, 
 
 #: templates/static_pages/usingeuropeana_results.html:16
 msgid "paintings, drawings, prints, photographs, pictures of museum objects, maps, graphic designs, plans and musical notation."
-msgstr ""
+msgstr "málverk, teikningar, prentmyndir, ljósmyndir, myndir af safngripum, kort, grafíkmyndir, uppdrættir og nótnablöð"
 
 #: templates/static_pages/usingeuropeana_results.html:17
 msgid "films, news broadcasts and television programmes"
-msgstr ""
+msgstr "kvikmyndir, fréttamyndir og sjónvarpsþættir"
 
 #: templates/static_pages/usingeuropeana_results.html:18
 #: templates/static_pages/usingeuropeana_results1.html:18
@@ -5904,35 +5904,35 @@ msgstr "tónlist og talað mál af sívalningum, hljóðsnældum, geisladiskum o
 
 #: templates/static_pages/usingeuropeana_results.html:19
 msgid "virtual 3D representations of objects, architecture or places."
-msgstr ""
+msgstr "þrívíðar myndir af hlutum, byggingum eða stöðum."
 
 #: templates/static_pages/usingeuropeana_results.html:22
 msgid "You can also sort search results by media type, language, date, country, copyright, or provider using the Refine your search pane of the results screen. See"
-msgstr ""
+msgstr "Þú getur líka raðað leitarniðurstöðum eftir miðli, tungumáli, tíma, landi, höfundarétti, eða efnisveitu með því að nota flötinn Þrengja leit á niðurstöðusíðunni. Sjá"
 
 #: templates/static_pages/usingeuropeana_results.html:22
 msgid "for more details."
-msgstr ""
+msgstr "fyrir frekari upplýsingar."
 
 #: templates/static_pages/usingeuropeana_results.html:24
 msgid "Search results are presented in a grid. You can select how many results to show on a page by selecting an option from the"
-msgstr ""
+msgstr "Leitarniðurstöður birtast í rúðum. Þú getur valið hversu margar niðurstöður birtast á síðu með því að velja úr"
 
 #: templates/static_pages/usingeuropeana_results.html:24
 msgid "drop-down list either above or below the results. You can select"
-msgstr ""
+msgstr "fellilistanum fyrir ofan og neðan niðurstöðurnar. Þú getur valið"
 
 #: templates/static_pages/usingeuropeana_results.html:25
 msgid "To navigate through the results pages, select the single arrows that are shown both above and below the results grid. Hit"
-msgstr ""
+msgstr "Til að fletta í gegnum niðurstöðulistann, smelltu á einföldu örvarnar fyrir ofan og neðan niðurstöðurúðurnar. Smelltu á"
 
 #: templates/static_pages/usingeuropeana_results.html:25
 msgid "to move one page in either direction, or hit the double arrows"
-msgstr ""
+msgstr "til að fletta eina síðu í hvora átt, eða á tvöföldu örvarnar"
 
 #: templates/static_pages/usingeuropeana_results.html:25
 msgid "to move to the last/first pages. Alternatively, type in the page number of the page you'd like to view."
-msgstr ""
+msgstr "til að fara á fremstu og öftustu niðurstöður. Þú getur líka slegið inn númer þeirrar síðu sem þú vilt skoða."
 
 #: templates/static_pages/usingeuropeana_results.html:26
 #: templates/static_pages/usingeuropeana_results1.html:24
@@ -5941,7 +5941,7 @@ msgstr "Frekari upplýsingar"
 
 #: templates/static_pages/usingeuropeana_results.html:26
 msgid "of an object can be found by selecting an item in the results list."
-msgstr ""
+msgstr "um hlut er hægt að finna með því að velja hlutinn í niðurstöðunum."
 
 #: templates/static_pages/usingeuropeana_results.html:28
 #: templates/static_pages/usingeuropeana_results1.html:26
@@ -5954,73 +5954,73 @@ msgstr "Eftir leit getur þú valið þann hlut sem þú vilt skoða til að fá
 
 #: templates/static_pages/usingeuropeana_results.html:31
 msgid "The item page shows you the following:"
-msgstr ""
+msgstr "Hlutasíðan sýnir eftirfarandi:"
 
 #: templates/static_pages/usingeuropeana_results.html:34
 msgid "Thumbnail image/preview"
-msgstr ""
+msgstr "Smámynd/forskoðun"
 
 #: templates/static_pages/usingeuropeana_results.html:34
 msgid "hit the magnifying glass"
-msgstr ""
+msgstr "smelltu á stækkunarglerið"
 
 #: templates/static_pages/usingeuropeana_results.html:34
 msgid "link at the bottom of the thumbnail to see a bigger image and additional information in a new window. To close that window, hit X at the top right."
-msgstr ""
+msgstr "fyrir neðan smámyndina til að skoða stærri mynd og viðbótarupplýsingar í nýjum glugga. Smelltu á X-ið efst til hægri til að loka þeim glugga."
 
 #: templates/static_pages/usingeuropeana_results.html:35
 msgid "If there are multiple images of the same object, e.g. pages of a book or different views of an object, a carousel of images is displayed under the main thumbnail. You can select items in the carousel or the left and right arrows on the main thumbnail to browse the images."
-msgstr ""
+msgstr "Ef til eru margar myndir af sama hlut, t.d. síður bókar eða ólík sjónarhorn á hlut, birtist myndahringekja fyrir neðan smámyndina. Þú getur valið myndir í hringekjunni eða smellt á örvarnar á aðalmyndinni til að fletta gegnum myndirnar."
 
 #: templates/static_pages/usingeuropeana_results.html:37
 msgid "Rights and licensing"
-msgstr ""
+msgstr "Réttindi og notkunarleyfi"
 
 #: templates/static_pages/usingeuropeana_results.html:37
 msgid "below each preview image you will find the rights statement indicating the terms on which you may re-use the digital object, including the preview. There are currently 12 rights statements describing the different terms on which re-use is permitted. Clicking on the rights statement will open a new window with a full description of the terms or, in the case of a Creative Commons licence, a link to the licence itself."
-msgstr ""
+msgstr "fyrir neðan hverja smámynd finnur þú réttindayfirlýsingu sem gefur til kynna þau skilyrði sem fylgja endurnýtingu þessa stafræna hlutar. Nú eru 12 ólíkar réttindayfirlýsingar sem lýsa ólíkum skilyrðum endurnýtingar. Þegar þú smellir á réttindayfirlýsinguna opnast nýr gluggi með fullri lýsingu á skilyrðunum, eða, þar sem um Creative Commons-leyfi er að ræða, tengil í notkunarleyfið sjálft."
 
 #: templates/static_pages/usingeuropeana_results.html:39
 #: templates/static_pages/usingeuropeana_results1.html:24
 #: templates/static_pages/usingeuropeana_results1.html:41
 msgid "View item at"
-msgstr ""
+msgstr "Skoða hlut hjá"
 
 #: templates/static_pages/usingeuropeana_results.html:39
 msgid "view the item on the item provider's own website. This is useful, for example, to find additional information and larger images, or to view an item in its fullest form, e.g. a whole book or video."
-msgstr ""
+msgstr "skoða hlutinn á vef efnisveitunnar sjálfrar. Þetta er til dæmis gagnlegt til að finna viðbótarupplýsingar og stærri myndir, eða til að sjá hlutinn í sem fyllstri mynd, t.d. heila bók eða myndskeið."
 
 #: templates/static_pages/usingeuropeana_results.html:40
 msgid "share the item via a range of social media, or to print or email it. Just select the option you want."
-msgstr ""
+msgstr "deila hlutnum á mörgum samfélagsmiðlum, prenta hann út eða senda með tölvupósti. Veldu það sem þú vilt."
 
 #: templates/static_pages/usingeuropeana_results.html:41
 msgid "this function will help you link to Europeana items and cite them in Wikipedia articles. The code you need is formatted for direct inclusion in Wikipedia's article authoring mode. Select"
-msgstr ""
+msgstr "þessi aðgerð hjálpar þér að tengja við hluti í Europeana og vísa í þá frá Wikipediu-greinum. Kóðinn sem þú þarft er sniðinn til að hægt sé að fella hann beint inn í greinarskrifatól Wikipediu. Veldu"
 
 #: templates/static_pages/usingeuropeana_results.html:41
 msgid "and copy and paste the text provided. To close the citation window, hit the X in the top right corner."
-msgstr ""
+msgstr "og afritaðu og límdu textann sem birtist. Til að loka tilvísunarglugganum, smelltu á X í hægra horninu efst."
 
 #: templates/static_pages/usingeuropeana_results.html:42
 msgid "select an option from the drop-down list of languages. Please note this is a machine translation."
-msgstr ""
+msgstr "veldu úr fellilistanum yfir tungumál. Athugaðu að þetta er vélþýðing."
 
 #: templates/static_pages/usingeuropeana_results.html:45
 msgid "The main area of the item page gives you more information about the item. The amount and type of information will vary but may contain the item's name and description along with other information including places, dates, formats, and providers."
-msgstr ""
+msgstr "Aðalramminn á hlutasíðunni gefur þér meiri upplýsingar um hlutinn. Magn og tegund upplýsinga er breytilegt en getur innihaldið nafn hlutarins og lýsingu, auk annarra upplýsinga eins og staði, tíma, snið og efnisveitur."
 
 #: templates/static_pages/usingeuropeana_results.html:47
 msgid "This information may contain links to further details. Select these to find the item in an external service, e.g. the data provider's own website, or to search Europeana for the highlighted term."
-msgstr ""
+msgstr "Þessar upplýsingar gætu innihaldið tengla í frekari upplýsingar. Smelltu á þá til að finna hlutinn í annarri leitarvél, t.d. vef efnisveitunnar sjálfrar, eða til að leita að upplýsta hugtakinu í Europeana."
 
 #: templates/static_pages/usingeuropeana_results.html:49
 msgid "To move to the previous or next item in your search results, hit the"
-msgstr ""
+msgstr "Til að fara á næsta eða fyrri hlut í þínum leitarniðurstöðum, smelltu á"
 
 #: templates/static_pages/usingeuropeana_results.html:49
 msgid "options"
-msgstr ""
+msgstr "valkostina"
 
 #: templates/static_pages/usingeuropeana_results.html:51
 msgid "A carousel showing"
@@ -6032,15 +6032,15 @@ msgstr "af allt að 10 gögnum sem tengjast því sem þú ert að skoða. Veldu
 
 #: templates/static_pages/usingeuropeana_results.html:53
 msgid "Another way of finding similar content is to use the links in the"
-msgstr ""
+msgstr "Önnur leið til að finna svipað efni er að nota tenglana"
 
 #: templates/static_pages/usingeuropeana_results.html:53
 msgid "Search also for"
-msgstr ""
+msgstr "Leita líka að"
 
 #: templates/static_pages/usingeuropeana_results.html:53
 msgid "pane. This provides links to other searches for items with, for example, the same title, author, format or are from the same provider. A number in brackets, e.g. (33) shows the number of results each of these searches returns. Simply hit the link to perform the search."
-msgstr ""
+msgstr "fletinum. Þar eru tenglar í aðrar leitir að hlutum með, til dæmis, sama titil, höfund, snið eða eru frá sömu efnisveitu. Tala innan sviga, t.d. (33), sýnir fjölda niðurstaðna fyrir þessar leitir. Smelltu á tengilinn til að framkvæma leitina."
 
 #: templates/static_pages/usingeuropeana_results1.html:11
 msgid "Europeana divides search results into 4 main categories: text, images, video and sound."
@@ -6052,7 +6052,7 @@ msgstr "Tegundir efnis í hverjum hluta eru"
 
 #: templates/static_pages/usingeuropeana_results1.html:16
 msgid "paintings, drawings, prints, photographs, pictures of museum objects, maps, graphic designs, plans and musical notation"
-msgstr "Myndir - málverk, teikningar, kort, ljósmyndir og myndir af safngripum"
+msgstr "málverk, teikningar, prentmyndir, ljósmyndir, myndir af safngripum, kort, grafískar myndir, uppdrættir og nótnablöð"
 
 #: templates/static_pages/usingeuropeana_results1.html:17
 msgid "films, news broadcasts and television programmes."
@@ -6076,35 +6076,35 @@ msgstr "Þú getur líka raðað leitarniðurstöðum eftir miðli, tungumáli, 
 
 #: templates/static_pages/usingeuropeana_results1.html:24
 msgid "of an object can be found by clicking on the item in the results list. To see the item in its fullest available form (i.e. you would like to read the book, view the full size image or watch a video), click on the link under"
-msgstr ""
+msgstr "hlutar er hægt að finna með því að smella á hlutinn í niðurstöðum. Til að sjá fyllstu mögulegu mynd hlutar (ef þú vilt t.d. lesa bókina, sjá myndina í fullri stærð eða horfa á myndskeiðið), smelltu þá á tengilinn undir"
 
 #: templates/static_pages/usingeuropeana_results1.html:24
 msgid "which you can find below the thumbnail image. This link takes you to the website of the organisation which has provided the item to Europeana."
-msgstr ""
+msgstr "sem þú finnur undir smámyndinni. Þessi tengill fer með þig á vef þeirrar stofnunar sem veitir aðgang að hlutnum í gegnum Europeana."
 
 #: templates/static_pages/usingeuropeana_results1.html:27
 msgid "After performing your search, click on the item you want to view. This will take you to the page, where you can find further details on this item."
-msgstr ""
+msgstr "Eftir leitina, smelltu á hlutinn sem þú vilt skoða. Þetta fer með þig á síðu þar sem er að finna frekari upplýsingar um hlutinn."
 
 #: templates/static_pages/usingeuropeana_results1.html:30
 msgid "Below the item's thumbnail image, you can find"
-msgstr ""
+msgstr "Fyrir neðan smámyndina geturðu fundið"
 
 #: templates/static_pages/usingeuropeana_results1.html:30
 msgid "rights and license information"
-msgstr ""
+msgstr "upplýsingar um höfundarétt og notkunarleyfi"
 
 #: templates/static_pages/usingeuropeana_results1.html:30
 msgid "for that particular item."
-msgstr ""
+msgstr "fyrir þann hlut."
 
 #: templates/static_pages/usingeuropeana_results1.html:31
 msgid "Note: only about 3 million Europeana items currently have clear rights statements. This number is expected to grow as we continue to improve our metadata quality and standards."
-msgstr ""
+msgstr "Athugið: aðeins um 3 milljónir hluta á Europeana eru með skýrar réttindayfirlýsingar. Viðbúið er að þetta muni aukast þar sem við erum stöðugt að bæta gæði lýsigagnanna okkar."
 
 #: templates/static_pages/usingeuropeana_results1.html:33
 msgid "At the bottom of the object display page, below"
-msgstr ""
+msgstr "Neðst á síðu hlutarins, fyrir neðan"
 
 #: templates/static_pages/usingeuropeana_results1.html:33
 msgid "Explore further!"
@@ -6112,51 +6112,51 @@ msgstr "Kanna nánar!"
 
 #: templates/static_pages/usingeuropeana_results1.html:33
 msgid "you can see"
-msgstr ""
+msgstr "er hægt að sjá"
 
 #: templates/static_pages/usingeuropeana_results1.html:33
 msgid "similar content"
-msgstr ""
+msgstr "efni sem er svipað"
 
 #: templates/static_pages/usingeuropeana_results1.html:33
 msgid "to the item you are viewing. Up to 10 similar items are displayed in an image carousel."
-msgstr ""
+msgstr "þeim hlut sem þú ert að skoða. Allt að 10 svipaðir hlutir eru sýndir í myndahringekju."
 
 #: templates/static_pages/usingeuropeana_results1.html:34
 msgid "Translate item's details"
-msgstr ""
+msgstr "Þýða upplýsingar um hlut"
 
 #: templates/static_pages/usingeuropeana_results1.html:35
 msgid "If you want to translate item's details into your language, click"
-msgstr ""
+msgstr "Ef þú vilt þýða upplýsingar um hlut á þitt tungumál, smelltu á"
 
 #: templates/static_pages/usingeuropeana_results1.html:35
 msgid "at the top right.  A window appears where you first choose a service for the translation and then the language you want the details translated to. The services will identify the original language automatically so you don't need to specify that."
-msgstr ""
+msgstr "efst til hægri. Þá kemur upp gluggi sem býður þér fyrst að velja þýðingaforrit og síðan tungumálið sem þú vilt fá upplýsingarnar í. Þýðingaforritið mun sjálfkrafa finna upprunatungumálið svo þú þarft ekki að skilgreina það."
 
 #: templates/static_pages/usingeuropeana_results1.html:36
 msgid "Search external services"
-msgstr ""
+msgstr "Leita hjá öðrum"
 
 #: templates/static_pages/usingeuropeana_results1.html:37
 msgid "Many values (e.g."
-msgstr ""
+msgstr "Mörg gildi (t.d."
 
 #: templates/static_pages/usingeuropeana_results1.html:37
 msgid "creator, date, type"
-msgstr ""
+msgstr "höfundur, tími, tegund"
 
 #: templates/static_pages/usingeuropeana_results1.html:37
 msgid "in the item's metadata - item's description - are clickable, linking to related search results. If the value is followed by a little triangle, this means that you can also search this value externally. When you click on the triangle, a window appears where you choose the external service you want to use, e.g. Wikipedia, IMDB, Google.  This will take you to the search results generated by this service."
-msgstr ""
+msgstr "í lýsigögnum hlutarins - lýsingunni á honum - eru tenglar sem vísa til tengdra leitarniðurstaðna. Ef lítill þríhyrningur er fyrir aftan gildið merkir það að þú getur líka leitað að þessu gildi utan Europeana. Þegar þú smellir á þríhyrninginn opnast gluggi þar sem þú getur valið þá vefþjónustu sem þú vilt nota, t.d. Wikipediu, IMDB eða Google. Þaðan ferðu svo í leitarniðurstöður frá þeim vef sem þú velur."
 
 #: templates/static_pages/usingeuropeana_results1.html:38
 msgid "Link to new search results on Europeana"
-msgstr ""
+msgstr "Tengja í nýjar leitarniðurstöður frá Europeana"
 
 #: templates/static_pages/usingeuropeana_results1.html:39
 msgid "Links in the item's metadata - item's description - that are not followed by a triangle, take you to the search results on Europeana on these particular values. This is a quick way to find content by specific creator, a certain subject or from a specific museum, archive or library."
-msgstr ""
+msgstr "Tenglar í lýsigögnum hlutarins - lýsingunni á honum - sem ekki eru með þríhyrning fyrir aftan, tengja þig við leitarniðurstöður á Europeana fyrir þessi tilteknu gildi. Þetta er auðveld leið til að finna efni frá tiltekinni efnisveitu, um ákveðið efni eða frá tilteknu minjasafni, skjalasafni eða bókasafni."
 
 #: templates/static_pages/usingeuropeana_results1.html:40
 msgid "View item on the provider's site"
@@ -6164,43 +6164,43 @@ msgstr "Skoða hlut á vef gagnaveitu"
 
 #: templates/static_pages/usingeuropeana_results1.html:41
 msgid "You can also see the item in its fullest available form (i.e. you would like to read the book, view the full size image or watch a video) by clicking on the link under"
-msgstr ""
+msgstr "Þú getur séð fyllstu útgáfu hlutarins (ef þú vilt t.d. lesa bókina, skoða myndina í fullri stærð eða horfa á kvikmyndina) með því að smella á tengilinn fyrir neðan"
 
 #: templates/static_pages/usingeuropeana_results1.html:41
 msgid "which you can find below the thumbnail image. This link takes you to the website of the organisation which has provided the item to Europeana. You can also see the item in its fullest available form by clicking on the item's thumbnail."
-msgstr ""
+msgstr "sem þú finnur undir smámyndinni. Þessi tengill vísar í vef þeirrar stofnunar sem veitir aðgang að hlutnum í gegnum Europeana. Þú getur líka séð fyllstu útgáfu hlutarins með því að smella á smámyndina."
 
 #: templates/static_pages/usingeuropeana_results1.html:45
 msgid "In cases where content providers have supplied a large image, you can also click on a magnifying glass icon"
-msgstr ""
+msgstr "Þar sem efnisveiturnar hafa veitt aðgang að stórri mynd, geturðu smellt á stækkunarglerið"
 
 #: templates/static_pages/usingeuropeana_results1.html:45
 msgid "below the thumbnail image to view the item in its fullest available form along with its rights information and functions for sharing and embedding the object."
-msgstr ""
+msgstr "fyrir neðan smámyndina til að skoða hlutinn í stærstu gerð sem til er ásamt upplýsingum um höfundarétt og aðgerðum til að deila og fella hlutinn inn."
 
 #: templates/static_pages/usingeuropeana_results1.html:47
 msgid "Other functions"
-msgstr ""
+msgstr "Aðrar aðgerðir"
 
 #: templates/static_pages/usingeuropeana_results1.html:49
 msgid "you can share your favourite item per email, on Facebook, Twitter or Google+ by clicking on any of the social media icons located on the top right. You can see more options by clicking on a plus icon."
-msgstr ""
+msgstr "getur þú deilt eftirlætishlutnum þínum með tölvupósti, á Facebook, Twitter eða Google+ með því að smella á samfélagsmiðlatáknin efst til hægri. Þú getur fengið fleiri valmöguleika með því að smella á plúsmerkið."
 
 #: templates/static_pages/usingeuropeana_results1.html:50
 msgid "located on the top right, this function will help you generate the HTML source code to embed the item on your site or blog."
-msgstr ""
+msgstr "þessi aðgerð, efst til hægri, hjálpar þér að búa til HTML-kóða til að fella hlutinn inn í þína síðu eða blogg."
 
 #: templates/static_pages/usingeuropeana_results1.html:51
 msgid "located on the right-hand side, below the"
-msgstr ""
+msgstr "hægra megin, fyrir neðan"
 
 #: templates/static_pages/usingeuropeana_results1.html:51
 msgid "action, this function will help you link to Europeana items and cite them in Wikipedia articles. Click"
-msgstr ""
+msgstr "aðgerðina. Þessi aðgerð hjálpar þér að tengja við hluti á Europeana og vísa til þeirra í Wikipediu-greinum. Smelltu á"
 
 #: templates/static_pages/usingeuropeana_results1.html:51
 msgid "to generate a code formatted for direct inclusion in Wikipedia's article authoring mode."
-msgstr ""
+msgstr "til að búa til kóða sem er sniðinn fyrir notkun í greinaritli Wikipediu."
 
 #: templates/static_pages/usingeuropeana_results1.html:52
 msgid "Login | Register"
@@ -6208,32 +6208,32 @@ msgstr "Innskráning | Nýskráning"
 
 #: templates/static_pages/usingeuropeana_results1.html:52
 msgid "again located on the top right, this function will take you to My Europeana - your personal space on Europeana."
-msgstr ""
+msgstr "aftur efst hægra megin, tengir við Mitt Europeana - þitt einkasvæði á Europeana."
 
 #: templates/static_pages/usingeuropeana_search.html:3
 #: templates/static_pages/usingeuropeana_search1.html:3
 msgid "Europeana - Searching Europeana"
-msgstr ""
+msgstr "Europeana - Að leita í Europeana"
 
 #: templates/static_pages/usingeuropeana_search.html:11
 msgid "Welcome to Europeana. This page describes some of the things that you can do while you are here. Learn more about:"
-msgstr ""
+msgstr "Velkomin(n) á Europeana. Þessi síða lýsir sumu af því sem þú getur gert á þessum vef: Fáðu meiri upplýsingar um:"
 
 #: templates/static_pages/usingeuropeana_search.html:13
 msgid "Search tips, refined search, phrase search, exclude words, auto-completion, filter results, share your search."
-msgstr ""
+msgstr "Leitarráð, þrengri leitir, leit að setningum, útilokun leitarorða, framvirk leitarorð, leitarsíur og að deila leit."
 
 #: templates/static_pages/usingeuropeana_search.html:14
 msgid "exhibitions, new content."
-msgstr ""
+msgstr "sýningar, nýtt efni."
 
 #: templates/static_pages/usingeuropeana_search.html:15
 msgid "Seeing further details, rights and licence information, translating details, searching on external services, related searches on Europeana, viewing item on provider's site, embedding, and citing."
-msgstr ""
+msgstr "Skoða upplýsingar um hlut, höfundarétt og notkunarleyfi, þýðingar, leita hjá öðrum aðilum, tengdar leitir á Europeana, skoða hluti á vef efnisveitu og tilvísanir."
 
 #: templates/static_pages/usingeuropeana_search.html:16
 msgid "Saving searches, saving items, and adding tags."
-msgstr ""
+msgstr "Að vista leitir, vista hluti og bæta við tögum."
 
 #: templates/static_pages/usingeuropeana_search.html:19
 #: templates/static_pages/usingeuropeana_search1.html:11
@@ -6271,115 +6271,115 @@ msgstr "Sláðu síðan inn leitarorðið og smelltu á"
 
 #: templates/static_pages/usingeuropeana_search.html:27
 msgid "Alternatively, just ask yourself who, what, where or when you are interested in and type these words into Europeana's search box followed by a colon (:). Then enter your search term and hit"
-msgstr ""
+msgstr "Þú getur líka spurt sjálfa(n) þig hver, hvað, hvar eða hvenær, slegið þessi orð inn í leitarreit Europeana með tvípunkti (:) á eftir, slegið svo inn leitarorð og smellt á"
 
 #: templates/static_pages/usingeuropeana_search.html:29
 msgid "For specific searches, you could:"
-msgstr ""
+msgstr "Fyrir tilteknar leitir gætir þú:"
 
 #: templates/static_pages/usingeuropeana_search.html:31
 #: templates/static_pages/usingeuropeana_search.html:32
 #: templates/static_pages/usingeuropeana_search.html:33
 #: templates/static_pages/usingeuropeana_search.html:34
 msgid "Use the"
-msgstr ""
+msgstr "Notaðu"
 
 #: templates/static_pages/usingeuropeana_search.html:31
 #: templates/static_pages/usingeuropeana_search.html:32
 #: templates/static_pages/usingeuropeana_search.html:33
 #: templates/static_pages/usingeuropeana_search.html:34
 msgid "filter or enter"
-msgstr ""
+msgstr "síuna eða sláðu inn"
 
 #: templates/static_pages/usingeuropeana_search.html:31
 msgid "followed by a name of, for example, an actor, author or architect. Your results will display only items for which the name you entered is listed as the creator. For example, searching for"
-msgstr ""
+msgstr "á undan nafni, til dæmis lekara, höfundar eða arkitekts. Niðurstöður þínar munu einungis innihalda hluti þar sem nafnið sem þú slóst inn kemur fyrir sem höfundur. Þegar þú til dæmis leitar að"
 
 #: templates/static_pages/usingeuropeana_search.html:31
 #: templates/static_pages/usingeuropeana_search1.html:27
 msgid "will narrow your results to van Gogh's works, excluding photographs of the artist or documentaries about him and his work."
-msgstr ""
+msgstr "mun takmarka leitina við verk van Gogh, en útiloka ljósmyndir af listamanninum eða heimildarmyndir um hann og verk hans."
 
 #: templates/static_pages/usingeuropeana_search.html:32
 msgid "followed by a type of item, a subject you are interested in or words from the title of the item you are looking for. Your search results will display only items of the requested type or subject or items whose title includes your search term. For example, searching for"
-msgstr ""
+msgstr "á undan gerð hlutar sem þú hefur áhuga á eða orð úr titli hlutarins sem þú ert að leita að. Niðurstöðurnar munu aðeins innihalda hluti af valinni gerð eða efni eða hluti þar sem titill inniheldur leitarorðið. Ef þú leitar til dæmis að"
 
 #: templates/static_pages/usingeuropeana_search.html:32
 #: templates/static_pages/usingeuropeana_search1.html:28
 msgid "will narrow your results to maps, or"
-msgstr ""
+msgstr "mun þrengja leitina við kort, eða"
 
 #: templates/static_pages/usingeuropeana_search.html:32
 #: templates/static_pages/usingeuropeana_search1.html:28
 msgid "will display artworks, buildings and monuments done in the Art Nouveau style."
-msgstr ""
+msgstr "mun sýna listaverk, byggingar og minnismerki í stíl Art Nouveau."
 
 #: templates/static_pages/usingeuropeana_search.html:33
 msgid "Place"
-msgstr ""
+msgstr "Staður"
 
 #: templates/static_pages/usingeuropeana_search.html:33
 msgid "followed by a name of a town, city or country within Europe or around the world. Your search results will display only items which were created in, published in or depict the place you are searching for. For example, searching for"
-msgstr ""
+msgstr "á undan nafni bæjar, borgar eða lands í Evrópu eða um allan heim. Niðurstöður þínar munu einungis innihalda hluti sem voru búnir til í, gefnir út í eða sýna staðinn sem þú ert að leita að. Ef þú leitar til dæmis að"
 
 #: templates/static_pages/usingeuropeana_search.html:33
 msgid "will help you differentiate your search when you are looking only for objects created or held in Milan, excluding items on writer Milan Kundera from your search results."
-msgstr ""
+msgstr "hjálpar þér að greina leitina þegar þú ert aðeins að leita að hlutum sem voru búnir til í Mílanó (Milan) og útiloka hluti um rithöfundinn Milan Kundera úr niðurstöðum."
 
 #: templates/static_pages/usingeuropeana_search.html:34
 msgid "followed by a date (e.g. 1945) or a period (e.g. Roman or Medieval). Your search results will display only items for which the date is listed in the item's date field. For example, searching for"
-msgstr ""
+msgstr "með ártali fyrir aftan (t.d. 1945) eða tímabili (t.d. rómverski tíminn eða miðaldir). Leitarniðurstöður munu aðeins innihalda hluti þar sem dagsetningin kemur fyrir í dagsetningarsviðinu. Ef þú til dæmis leitar að"
 
 #: templates/static_pages/usingeuropeana_search.html:34
 msgid "will help you differentiate your search when you are looking only for items dated 1984, excluding items that have 1984 in their title or description, like George Orwell's novel."
-msgstr ""
+msgstr "hjálpar þér að greina leitina þegar þú ert aðeins að leita að hlutum frá 1984 og vilt útiloka hluti með 1984 í titli eða lýsingu, eins og skáldsögu George Orwell."
 
 #: templates/static_pages/usingeuropeana_search.html:37
 msgid "These search functions also have support for different spellings and languages. For example, when you search for"
-msgstr ""
+msgstr "Þessar leitaraðgerðir styðja líka við ólíka stafsetningu og tungumál. Þegar þú leitar til dæmis að"
 
 #: templates/static_pages/usingeuropeana_search.html:37
 #: templates/static_pages/usingeuropeana_search1.html:32
 msgid "the results will also include items with Milano, Mailand or Milanas listed as their geographic coverage."
-msgstr ""
+msgstr "munu niðurstöður líka innihalda hluti þar sem Milano, Mailand eða Milanas koma fyrir í staðarfærslu."
 
 #: templates/static_pages/usingeuropeana_search.html:41
 #: templates/static_pages/usingeuropeana_search1.html:35
 msgid "is also possible. Just put"
-msgstr ""
+msgstr "er líka mögulegt. Settu"
 
 #: templates/static_pages/usingeuropeana_search.html:41
 #: templates/static_pages/usingeuropeana_search1.html:35
 msgid "quotation marks"
-msgstr ""
+msgstr "gæsalappir"
 
 #: templates/static_pages/usingeuropeana_search.html:41
 msgid "e.g."
-msgstr ""
+msgstr "t.d."
 
 #: templates/static_pages/usingeuropeana_search.html:41
 #: templates/static_pages/usingeuropeana_search1.html:35
 msgid "around the phrase you want to find, or type"
-msgstr ""
+msgstr "í kringum setninguna sem þú vilt finna, eða skrifaðu"
 
 #: templates/static_pages/usingeuropeana_search.html:41
 #: templates/static_pages/usingeuropeana_search1.html:35
 msgid "between the keywords (e.g."
-msgstr ""
+msgstr "milli leitarorðanna (t.d."
 
 #: templates/static_pages/usingeuropeana_search.html:43
 #: templates/static_pages/usingeuropeana_search1.html:37
 msgid "by typing"
-msgstr ""
+msgstr "með því að slá inn"
 
 #: templates/static_pages/usingeuropeana_search.html:43
 #: templates/static_pages/usingeuropeana_search1.html:37
 msgid "in capital letters, followed by the word you want to omit (e.g."
-msgstr ""
+msgstr "með stórum stöfum, á undan orðinu sem þú vilt útiloka (t.d."
 
 #: templates/static_pages/usingeuropeana_search.html:45
 msgid "Another helpful search feature is"
-msgstr ""
+msgstr "Annar gagnlegur leitarmöguleiki er"
 
 #: templates/static_pages/usingeuropeana_search.html:45
 #: templates/static_pages/usingeuropeana_search1.html:42
@@ -6388,7 +6388,7 @@ msgstr "tón- og myndsöfnum"
 
 #: templates/static_pages/usingeuropeana_search.html:45
 msgid "Start typing a search term. Europeana will suggest words that may match what you are thinking of. Just select the term you want and hit"
-msgstr ""
+msgstr "Byrjaðu á að slá inn leitarorð. Europeana mun stinga upp á orðum sem gætu passað við það sem þú vilt. Veldu leitarorðið og smelltu á"
 
 #: templates/static_pages/usingeuropeana_search.html:49
 #: templates/static_pages/usingeuropeana_search1.html:46
@@ -6397,94 +6397,94 @@ msgstr "Eftir fyrstu leit er hægt að takmarka niðurstöður með"
 
 #: templates/static_pages/usingeuropeana_search.html:49
 msgid "functions. These are in the grey pane on the search results screen. You can add more keywords to your search, thereby narrowing the search results. Just type your keyword into the"
-msgstr ""
+msgstr "aðgerðir. Þær eru í gráa rammanum á síðunni þar sem niðurstöður birtast. Þú getur bætt við fleiri leitarorðum og þrengt þannig leitina. Sláðu leitarorðin inn í"
 
 #: templates/static_pages/usingeuropeana_search.html:49
 msgid "field and hit"
-msgstr ""
+msgstr "dálkinn og smelltu á"
 
 #: templates/static_pages/usingeuropeana_search.html:49
 msgid "The keyword is displayed at the top of the pane, under"
-msgstr ""
+msgstr "Leitarorðið kemur fyrir efst í rammanum, fyrir neðan"
 
 #: templates/static_pages/usingeuropeana_search.html:49
 msgid "Matches for."
-msgstr ""
+msgstr "Niðurstöður fyrir."
 
 #: templates/static_pages/usingeuropeana_search.html:51
 msgid "To remove a keyword, hit the X icon next to the relevant keyword in the"
-msgstr ""
+msgstr "Til að fjarlægja efnisorð, smelltu á x-táknið við það efnisorð í"
 
 #: templates/static_pages/usingeuropeana_search.html:51
 msgid "list."
-msgstr ""
+msgstr "listanum"
 
 #: templates/static_pages/usingeuropeana_search.html:53
 #: templates/static_pages/usingeuropeana_search1.html:24
 #: templates/static_pages/usingeuropeana_search1.html:48
 msgid "You can also"
-msgstr ""
+msgstr "Þú getur líka"
 
 #: templates/static_pages/usingeuropeana_search.html:53
 msgid "filter your search results:"
-msgstr ""
+msgstr "síað leitarniðurstöðurnar:"
 
 #: templates/static_pages/usingeuropeana_search.html:55
 msgid "will display only objects of a selected media type (images, text, video, sound or 3D). "
-msgstr ""
+msgstr "sýnir aðeins hluti af tiltekinni gerð miðils (myndir, texta, kvikmyndir, hljóð eða þrívídd)."
 
 #: templates/static_pages/usingeuropeana_search.html:56
 msgid "will display only objects with descriptions in selected languages, i.e. the language of the institution that provided the object to Europeana."
-msgstr ""
+msgstr "sýnir aðeins hluti með lýsingar á völdum tungumálum, þ.e. tungumáli þeirrar stofnunar sem veitir aðgang að hlutnum í gegnum Europeana."
 
 #: templates/static_pages/usingeuropeana_search.html:57
 msgid "will display only objects with selected dates."
-msgstr ""
+msgstr "sýnir aðeins hluti frá völdum tíma."
 
 #: templates/static_pages/usingeuropeana_search.html:58
 msgid "will display only objects from selected countries, i.e. the country of the institution that provided the object to Europeana."
-msgstr ""
+msgstr "sýnir aðeins hluti frá völdum löndum, þ.e. landi þeirrar stofnunar sem veitir aðgang að hlutnum í gegnum Europeana."
 
 #: templates/static_pages/usingeuropeana_search.html:59
 msgid "will display objects labelled with the selected copyright label(s). This copyright label indicates how you may reuse the digital object, including the preview."
-msgstr ""
+msgstr "sýnir hluti með valin höfundaréttarmerki. Þetta merki sýnir þér hvernig þú mátt endurnýta stafræna hlutinn, þar á meðal smámyndina."
 
 #: templates/static_pages/usingeuropeana_search.html:60
 #: templates/static_pages/usingeuropeana_search1.html:54
 msgid "will display only objects from selected institutions"
-msgstr ""
+msgstr "sýnir aðeins hluti frá völdum stofnunum"
 
 #: templates/static_pages/usingeuropeana_search.html:63
 msgid "Select the filter name, e.g. 'By language' to expand it. Then just use the check boxes for the categories you wish the search results to include. The results will refresh automatically. The filter will be added to the"
-msgstr ""
+msgstr "Veldu nafn síu, t.d. 'Eftir tungumáli' til að stækka hana. Smelltu svo í reitina fyrir þá flokka sem þú vilt hafa með í niðurstöðum. Niðurstöðurnar uppfærast sjálfkrafa. Síunni verður bætt við"
 
 #: templates/static_pages/usingeuropeana_search.html:63
 msgid "list at the top of the pane."
-msgstr ""
+msgstr "listann efst í fletinum."
 
 #: templates/static_pages/usingeuropeana_search.html:65
 msgid "To remove a filter, hit the X icon next to the item in the"
-msgstr ""
+msgstr "Til að fjarlægja síu, smelltu þá á X-táknið við hlutinn í"
 
 #: templates/static_pages/usingeuropeana_search.html:65
 msgid "list, or de-select the check box next to the filter category."
-msgstr ""
+msgstr "listanum, eða taktu hakið úr reitnum við síuflokkinn."
 
 #: templates/static_pages/usingeuropeana_search.html:67
 msgid "You can also select to"
-msgstr ""
+msgstr "Þú getur líka valið að"
 
 #: templates/static_pages/usingeuropeana_search.html:67
 msgid "This means items that have not come from a cultural institution but from an individual user, for example, items contributed to the Europeana 1914-1918 project."
-msgstr ""
+msgstr "Þetta eru gögn sem ekki koma frá menningarstofnun heldur einstaklingi, til dæmis gögn úr verkefninu Europeana 1914-1918."
 
 #: templates/static_pages/usingeuropeana_search.html:69
 msgid "Share your search with friends by choosing"
-msgstr ""
+msgstr "Deildu leit með vinum þínum með því að velja"
 
 #: templates/static_pages/usingeuropeana_search.html:69
 msgid "A full list of social media sharing options is presented. Just select one you want. This also includes print and email options."
-msgstr ""
+msgstr "Heildarlisti yfir möguleika til að deila á samfélagsmiðlum kemur upp. Veldu þann sem þú vilt. Listinn inniheldur líka möguleika til að prenta og senda með tölvupósti."
 
 #: templates/static_pages/usingeuropeana_search1.html:12
 msgid "Searching the millions of items in Europeana is simple. Just ask yourself who, what, where or when you are interested in and type these words into Europeana's search box. You can try"
@@ -6508,34 +6508,34 @@ msgstr "Dagsetningar (t.d. 1945) eins og árið þegar þú fæddist eða frægt
 
 #: templates/static_pages/usingeuropeana_search1.html:20
 msgid "By default, Europeana search results include content generated by users. To exclude this content from your search results, uncheck the box"
-msgstr ""
+msgstr "Niðurstöður leitar í Europeana innihalda líka efni sem notendur hafa búið til. Til að útiloka það frá leitarniðurstöðum geturðu tekið hakið úr reitnum"
 
 #: templates/static_pages/usingeuropeana_search1.html:20
 msgid "located on the bottom left of the page."
-msgstr ""
+msgstr "neðst til vinstri á síðunni."
 
 #: templates/static_pages/usingeuropeana_search1.html:24
 msgid "narrow your search"
-msgstr ""
+msgstr "þrengja leitina"
 
 #: templates/static_pages/usingeuropeana_search1.html:24
 msgid "by using the same key questions:"
-msgstr ""
+msgstr "með því að sömu lykilspurningar:"
 
 #: templates/static_pages/usingeuropeana_search1.html:27
 #: templates/static_pages/usingeuropeana_search1.html:28
 #: templates/static_pages/usingeuropeana_search1.html:29
 #: templates/static_pages/usingeuropeana_search1.html:30
 msgid "Enter"
-msgstr ""
+msgstr "Sláðu inn"
 
 #: templates/static_pages/usingeuropeana_search1.html:27
 msgid "followed by a name of an actor, author, architect, etc., in the search box and your results will display only items, where the name you are looking for is listed as creator. For example, searching for"
-msgstr ""
+msgstr "á undan nafni leikara, höfundar, arkitekts o.s.frv., í leitarreitinn og niðurstöður þínar munu einungis innihalda hluti þar sem nafnið sem þú leitar að kemur fram sem höfundur. Þegar þú leitar til dæmis að"
 
 #: templates/static_pages/usingeuropeana_search1.html:28
 msgid "followed by a type or a subject of the items you are interested in and your search results will display only items of the requested type or on the requested subject. For example, searching for"
-msgstr ""
+msgstr "á undan gerð eða efni hlutanna sem þú hefur áhuga á og niðurstöður þínar munu einungis innihalda hluti af valinni gerð eða um valið efni. Þegar þú leitar til dæmis að"
 
 #: templates/static_pages/usingeuropeana_search1.html:28
 msgid "maps"
@@ -6659,27 +6659,27 @@ msgstr "Europeana - Nýjungar"
 
 #: templates/static_pages/whatsnew.html:11
 msgid "We've made some changes so that as well as having a fresh new look and feel, it's now easier for you to discover and explore Europeana's treasures."
-msgstr ""
+msgstr "Auk þess að bæta útlit og virkni síðunnar höfum við gert nokkrar breytingar svo nú er enn auðveldara að finna og skoða fjársjóði Europeana."
 
 #: templates/static_pages/whatsnew.html:13
 msgid "One of the biggest changes is that the site is now responsive. That means it automatically adapts to a range of different devices and screen sizes. So whether you're using a touchscreen smartphone or a large desktop, the portal will tailor its presentation so the layout always suits the screen."
-msgstr ""
+msgstr "Ein af stærstu breytingunum er að nú er Europeana-vefurinn skalanlegur. Það þýðir að hann lagar sig sjálfkrafa að ólíkum tækjum og skjástærðum. Hvort sem þú ert að nota snertiskjársíma eða borðtölvu með stórum skjá mun gáttin laga framsetningu sína að því þannig að uppsetningin passar alltaf við skjáinn."
 
 #: templates/static_pages/whatsnew.html:15
 msgid "Searching is even easier with new automatic suggestions that pop up as you type. We'll predict what you're looking for and make recommendations based on that, before you’ve even finished typing."
-msgstr ""
+msgstr "Nú er enn auðveldara en áður að leita með sjálfvirkum tillögum sem koma upp um leið og þú skrifar. Við reynum að sjá fyrir hvað þú ert að leita að og setja fram tillögur á þeim grunni, áður en þú ert búin(n) að skrifa."
 
 #: templates/static_pages/whatsnew.html:17
 msgid "The new homepage includes a stronger focus on our curated content, with a bigger image slideshow, a featured partner section and a great carousel highlighting our latest pins on Pinterest."
-msgstr ""
+msgstr "Með nýja vefnum er enn meiri áhersla lögð á efni sem við stillum upp, með stærri myndasýningu, hluta um valinn samstarfsaðila og stóra hringekju sem sýnir það nýjasta sem við höfum fest upp á Pinterest."
 
 #: templates/static_pages/whatsnew.html:19
 msgid "For the developers amongst you, we have also released the Europeana API (Application Programming Interface) v2.0 with an improved console and new features. Register for API keys"
-msgstr ""
+msgstr "Við höfum líka gefið út API-viðmót (forritunarviðmót) v2.0 fyrir forritara með bættu stjórborði og nýrri virkni. Skráðu API-lykil"
 
 #: templates/static_pages/whatsnew.html:19
 msgid "here"
-msgstr ""
+msgstr "hérna"
 
 #: templates/static_pages/whatsnew.html:21
 msgid "We hope you enjoy using the new-look Europeana."

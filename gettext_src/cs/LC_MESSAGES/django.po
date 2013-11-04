@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-29 12:27+0100\n"
+"POT-Creation-Date: 2013-11-04 15:42+0100\n"
 "PO-Revision-Date: 2012-02-21 15:09\n"
 "Last-Translator: <jacob.lundqvist@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3259,7 +3259,7 @@ msgid "Media Types"
 msgstr "Výsledky vyhledávání uloženy"
 
 #: templates/static_pages/prop_file.html:359
-#: templates/static_pages/usingeuropeana_searchwidget.html:26
+#: templates/static_pages/usingeuropeana_searchwidget.html:30
 #, fuzzy
 msgid "Providers"
 msgstr "Jak poskytovat obsah"
@@ -5744,9 +5744,9 @@ msgstr ""
 #: templates/static_pages/usingeuropeana_searchwidget.html:11
 msgid ""
 "Configure the widget to search all collections and data providers within "
-"Europeana, or refine it to suit your website, e.g. to search only for videos "
-"to do with the First World War, or only images by Italian painters from the "
-"Rijksmuseum."
+"Europeana, or refine it to suit your website, e.g. to search only within "
+"Public Domain or Creative Commons, or only licensed images from a specific "
+"country."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:12
@@ -5755,32 +5755,34 @@ msgid "The Europeana Search Widget works with..."
 msgstr "Europeana - Vyhraj Kindle!"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:13
-#: templates/static_pages/usingeuropeana_searchwidget.html:15
-#, fuzzy
-msgid "Information to follow."
-msgstr "Jaké informace shromažďujeme?"
+msgid "Sites that you host yourself."
+msgstr ""
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:14
+#: templates/static_pages/usingeuropeana_searchwidget.html:18
 #, fuzzy
 msgid "The Europeana Search Widget doesn't work with..."
 msgstr "Europeana - Vyhraj Kindle!"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:16
+#: templates/static_pages/usingeuropeana_searchwidget.html:19
+msgid "Blogs hosted on Wordpress.com"
+msgstr ""
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:20
 #, fuzzy
 msgid "Set up your Europeana Search Widget:"
 msgstr "Europeana - Vyhraj Kindle!"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:18
+#: templates/static_pages/usingeuropeana_searchwidget.html:22
 #, fuzzy
 msgid "Go to the search widget page."
 msgstr "Europeana - Vyhraj Kindle!"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:19
+#: templates/static_pages/usingeuropeana_searchwidget.html:23
 #, fuzzy
 msgid "Introduction tab"
 msgstr "Nutnost citovat zdroj"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:19
+#: templates/static_pages/usingeuropeana_searchwidget.html:23
 msgid ""
 "The Europeana Search widget is presented. A progress bar shows you how far "
 "you are through the process and a video takes you through the process step "
@@ -5788,27 +5790,27 @@ msgid ""
 "heading."
 msgstr ""
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:20
+#: templates/static_pages/usingeuropeana_searchwidget.html:24
 msgid "Filter tab"
 msgstr ""
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:20
+#: templates/static_pages/usingeuropeana_searchwidget.html:24
 msgid ""
 "If you want your widget to include the entire Europeana dataset, you can go "
 "straight to the 'Style' tab. Tap 'Next' or the 'Style' tab heading."
 msgstr ""
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:21
+#: templates/static_pages/usingeuropeana_searchwidget.html:25
 #, fuzzy
 msgid "To tailor your search widget"
 msgstr "Vlož svou e-mailovou adresu"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:23
+#: templates/static_pages/usingeuropeana_searchwidget.html:27
 #, fuzzy
 msgid "Keyword search"
 msgstr "Vlož svou e-mailovou adresu"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:23
+#: templates/static_pages/usingeuropeana_searchwidget.html:27
 msgid ""
 "By default, the widget searches the entire Europeana dataset. You can "
 "restrict the search to a key word or phrase. To do this, enter the key word"
@@ -5816,7 +5818,7 @@ msgid ""
 "your First World War blog about military uniform, you might type 'uniform'."
 msgstr ""
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:24
+#: templates/static_pages/usingeuropeana_searchwidget.html:28
 msgid ""
 "All the normal search functions work in this field, for example, use double "
 "quotes for a phrase, e.g. &quot;military uniform&quot;, use 'AND' to include "
@@ -5824,12 +5826,12 @@ msgid ""
 "'uniform AND war' or 'uniform NOT school'."
 msgstr ""
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:25
+#: templates/static_pages/usingeuropeana_searchwidget.html:29
 #, fuzzy
 msgid "Search on types"
 msgstr "Výsledky vyhledávání uloženy"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:25
+#: templates/static_pages/usingeuropeana_searchwidget.html:29
 msgid ""
 "By default, the widget will search the entire Europeana dataset for your key "
 "words. You can restrict the search to 'Titles', 'Creators', 'Subjects', "
@@ -5839,7 +5841,7 @@ msgid ""
 "the option you need."
 msgstr ""
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:26
+#: templates/static_pages/usingeuropeana_searchwidget.html:30
 msgid ""
 "By default, the widget returns results from all of Europeana's providers. "
 "You can restrict it to your chosen providers.  Tap 'Change' next to 'All  "
@@ -5852,12 +5854,12 @@ msgid ""
 "select more than one."
 msgstr ""
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:27
+#: templates/static_pages/usingeuropeana_searchwidget.html:31
 #, fuzzy
 msgid "Countries"
 msgstr "Země"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:27
+#: templates/static_pages/usingeuropeana_searchwidget.html:31
 msgid ""
 "By default, the widget returns results from all countries. You can restrict "
 "it to your chosen countries. Tap 'Change' next to 'All Providing Countries' "
@@ -5867,12 +5869,12 @@ msgid ""
 "than one. To clear your selection and start again, tap 'Clear'."
 msgstr ""
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:28
+#: templates/static_pages/usingeuropeana_searchwidget.html:32
 #, fuzzy
 msgid "Media types"
 msgstr "Výsledky vyhledávání uloženy"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:28
+#: templates/static_pages/usingeuropeana_searchwidget.html:32
 msgid ""
 "By default, the widget returns results of all media types - image, text, "
 "sound, video and 3D. You can restrict it to only the media types you're "
@@ -5883,12 +5885,12 @@ msgid ""
 "'Clear'."
 msgstr ""
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:29
+#: templates/static_pages/usingeuropeana_searchwidget.html:33
 #, fuzzy
 msgid "Copyright"
 msgstr "Jiná práva"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:29
+#: templates/static_pages/usingeuropeana_searchwidget.html:33
 msgid ""
 "By default, the widget returns results with any copyright status. You can "
 "restrict this, for example, to only show re-usable content. Tap 'Change' "
@@ -5898,37 +5900,37 @@ msgid ""
 "To clear your selection and start again, tap 'Clear'."
 msgstr ""
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:30
+#: templates/static_pages/usingeuropeana_searchwidget.html:34
 #, fuzzy
 msgid "More information on the CC licenses"
 msgstr "Europeana - vyhražená práva - placený přístup"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:31
+#: templates/static_pages/usingeuropeana_searchwidget.html:35
 #, fuzzy
 msgid "More information on the Rights Reserved - Free Access label"
 msgstr "Europeana - vyhražená práva - volný přístup"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:32
+#: templates/static_pages/usingeuropeana_searchwidget.html:36
 #, fuzzy
 msgid "More information on the Rights Reserved - Restricted Access label"
 msgstr "Europeana - vyhražená práva - Omezený přístup"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:33
+#: templates/static_pages/usingeuropeana_searchwidget.html:37
 #, fuzzy
 msgid "More information on the Rights Reserved - Paid Access label"
 msgstr "Europeana - vyhražená práva - placený přístup"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:34
+#: templates/static_pages/usingeuropeana_searchwidget.html:38
 #, fuzzy
 msgid "More information on the Unknown rights label"
 msgstr "Europeana - vyhražená práva - volný přístup"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:35
+#: templates/static_pages/usingeuropeana_searchwidget.html:39
 #, fuzzy
 msgid "Languages"
 msgstr "Jazyková politika"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:35
+#: templates/static_pages/usingeuropeana_searchwidget.html:39
 msgid ""
 "By default, the widget returns results in all languages. You can restrict it "
 "to your chosen languages. Tap 'Change' next to 'All Languages' and select "
@@ -5938,51 +5940,51 @@ msgid ""
 "clear your selection and start again, tap 'Clear'."
 msgstr ""
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:36
+#: templates/static_pages/usingeuropeana_searchwidget.html:40
 msgid ""
 "When you have selected all your filters, tap 'Next' or the 'Style' tab "
 "heading."
 msgstr ""
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:38
+#: templates/static_pages/usingeuropeana_searchwidget.html:42
 msgid "Style tab"
 msgstr ""
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:38
+#: templates/static_pages/usingeuropeana_searchwidget.html:42
 msgid ""
 "You can choose a black or white widget and select to include thumbnails or "
 "not. Select the style you would like to use."
 msgstr ""
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:39
+#: templates/static_pages/usingeuropeana_searchwidget.html:43
 msgid "Tap 'Next' or the 'Preview' tab heading."
 msgstr ""
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:40
+#: templates/static_pages/usingeuropeana_searchwidget.html:44
 #, fuzzy
 msgid "Preview tab"
 msgstr "Jak poskytovat obsah"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:40
+#: templates/static_pages/usingeuropeana_searchwidget.html:44
 msgid ""
 "Your widget will be displayed. Please note that the widget is responsive and "
 "so expands to fit the width of its container. For this reason, it may be a "
 "different size on the preview than it will be on your own web page."
 msgstr ""
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:42
+#: templates/static_pages/usingeuropeana_searchwidget.html:46
 msgid ""
 "If you wish to amend the widget's properties, just go back to the 'Search', "
 "'Filter' or 'Style' tab and make your changes."
 msgstr ""
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:43
+#: templates/static_pages/usingeuropeana_searchwidget.html:47
 msgid ""
 "If you are happy with your widget, simply copy the 'Embed' code displayed "
 "and paste this into your web page."
 msgstr ""
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:44
+#: templates/static_pages/usingeuropeana_searchwidget.html:48
 msgid ""
 "We would love to know how you are using this search widget, please tell us "
 "by dropping us an email at"
@@ -6042,6 +6044,10 @@ msgstr "Kde"
 #, fuzzy
 msgid "We hope you enjoy using the new-look Europeana."
 msgstr "Ulož si v Mých Europeanách"
+
+#, fuzzy
+#~ msgid "Information to follow."
+#~ msgstr "Jaké informace shromažďujeme?"
 
 #, fuzzy
 #~ msgid "Europeana - Terms for User Contributions"
