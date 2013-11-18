@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-03-21 21:37+0100\n"
-"PO-Revision-Date: 2013-11-02 01:41\n"
+"PO-Revision-Date: 2013-11-08 22:02\n"
 "Last-Translator: Ukrainian  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -3841,12 +3841,12 @@ msgstr "Виберіть опції із меню, що нижче"
 #: templates/static_pages/prop_file.html:343
 #: templates/static_pages/prop_file1.html:343
 msgid "Click on 'Preview' to see the changes in the right hand side of the screen"
-msgstr ""
+msgstr "Натисніть 'Переглянути', щоб побачити зміни на екрані праворуч "
 
 #: templates/static_pages/prop_file.html:344
 #: templates/static_pages/prop_file1.html:344
 msgid "Check the box to say you have read and agree with the terms and conditions"
-msgstr ""
+msgstr "Натисніть щоб підтвердити, що ви прочитали та погоджуєтесь із умовами та положеннями"
 
 #: templates/static_pages/prop_file.html:345
 #: templates/static_pages/prop_file1.html:345
@@ -4009,12 +4009,12 @@ msgstr "Автоматично додані семантичні тагі"
 #: templates/static_pages/prop_file.html:377
 #: templates/static_pages/prop_file1.html:377
 msgid "Place Term"
-msgstr ""
+msgstr "Терм місця "
 
 #: templates/static_pages/prop_file.html:378
 #: templates/static_pages/prop_file1.html:378
 msgid "Place Label"
-msgstr "Розмістити назву"
+msgstr "Назва місця "
 
 #: templates/static_pages/prop_file.html:379
 #: templates/static_pages/prop_file1.html:379
@@ -4024,17 +4024,17 @@ msgstr "Гео Простір"
 #: templates/static_pages/prop_file.html:380
 #: templates/static_pages/prop_file1.html:380
 msgid "Place Broader Term"
-msgstr ""
+msgstr "Терм ширшого місця"
 
 #: templates/static_pages/prop_file.html:381
 #: templates/static_pages/prop_file1.html:381
 msgid "Place Broader Label"
-msgstr ""
+msgstr "Назва ширшого місця"
 
 #: templates/static_pages/prop_file.html:382
 #: templates/static_pages/prop_file1.html:382
 msgid "Period Term"
-msgstr ""
+msgstr "Терм періоду"
 
 #: templates/static_pages/prop_file.html:383
 #: templates/static_pages/prop_file1.html:383
@@ -4054,42 +4054,42 @@ msgstr "Закінчення періоду"
 #: templates/static_pages/prop_file.html:386
 #: templates/static_pages/prop_file1.html:386
 msgid "Period Broader Term"
-msgstr ""
+msgstr "Назва ширшого періоду "
 
 #: templates/static_pages/prop_file.html:387
 #: templates/static_pages/prop_file1.html:387
 msgid "Period Broader Label"
-msgstr ""
+msgstr "Назва ширшого періоду "
 
 #: templates/static_pages/prop_file.html:388
 #: templates/static_pages/prop_file1.html:388
 msgid "Concept Term"
-msgstr ""
+msgstr "Терм концепту"
 
 #: templates/static_pages/prop_file.html:389
 #: templates/static_pages/prop_file1.html:389
 msgid "Concept Label"
-msgstr ""
+msgstr "Назва концепту"
 
 #: templates/static_pages/prop_file.html:390
 #: templates/static_pages/prop_file1.html:390
 msgid "Concept Broader Term"
-msgstr ""
+msgstr "Терм ширшого концепту "
 
 #: templates/static_pages/prop_file.html:391
 #: templates/static_pages/prop_file1.html:391
 msgid "Concept Broader Label"
-msgstr ""
+msgstr "Назва ширшого концепту"
 
 #: templates/static_pages/prop_file.html:392
 #: templates/static_pages/prop_file1.html:392
 msgid "Agent Term"
-msgstr "Агентські Умови"
+msgstr "Терм агента"
 
 #: templates/static_pages/prop_file.html:393
 #: templates/static_pages/prop_file1.html:393
 msgid "Agent Label"
-msgstr "Агентська Назва"
+msgstr "Назва агента"
 
 #: templates/static_pages/prop_file.html:398
 #: templates/static_pages/prop_file.html:409
@@ -4141,6 +4141,11 @@ msgstr "Небесні глобуси використовуються для т
 #: templates/static_pages/prop_file.html:444
 msgid "Inspired by a homonymous short story by Edgar Allan Poe, the illustration depicts the heartless heroine Ligeia drawn in pen and ink. On the back an inscription handwritten by the author: &ldquo;In the excitement of my opium dreams (for I was habitually fettered in the shackles of the drugs. I would call aloud upon her name, during the silence of the night, or among the sheltered recesses of the glens by day.&rdquo;"
 msgstr ""
+"Натхнений одноіменою короткою  історією Едгара Алана По, \n"
+"на ілюстрації зображено безсердечну героіню Лігею, що нафарбована пером та чорнилом. \n"
+"Із написом рукою автора з іншого боку: \n"
+"&ldquo; У хвилюваннях моїх опіумних снів \n"
+" ( я був звично закутий в кайдани наркотиків). Я буду голосно звати її ім'я, впродовж тиші ночі, або із захищених тайних ярів впродовж дня. &rdquo; "
 
 #: templates/static_pages/prop_file.html:454
 msgid "The church of Virgin Mary's Assumption is located at the district of Panagia (Virgin Mary), in the old city of Kavala, between the lighthouse and the square of Mohamed (Mehmet/Muhammad) Ali Pasha. It was built after 1965, over the ruins of an earlier post-Byzantine church of the 15th century. The post-Byzantine church was a three-aisled basilica with a small dome and a tall belfry, which survives until today."
@@ -4148,7 +4153,7 @@ msgstr ""
 
 #: templates/static_pages/prop_file.html:464
 msgid "Hinged inr&#333; with an exterior in golden, black and red lacquer depicting a rooster and a hen. The interior is in silver lacquer and contains four eggs in white, black and golden lacquer with painted insects and vegatal motifs. The netsuke is also in white lacquer with a golden chicken. An inr&#333; is a traditional Japanese case for holding small objects, suspended from the sash of the kimono."
-msgstr ""
+msgstr " Відкідний інро, зовні оздоблений золотим, чорним та червоним лаком зображують півня та курку. Із внутрішнього боку оздоблений срібним лаком та зберігає чотири білих яйця в білому, чорному та золотому лаку із розбарвленими комахами та рослиними мотивами. Нецке також у білому лаку із золотим курчам. Інро є також традиційною японською шкатулкою для зберігання малих об'єктів, що подвішується до поясу кімоно. "
 
 #: templates/static_pages/prop_file.html:475
 msgid "The Gemma Augustea (Gem of Augustus) is a cameo engraved gem cut from double-layered Arabian onyx stone, and is a masterpiece of the Imperial gem workshop in Rome. It is commonly believed that the gem cutter who created Gemma Augustea was either Dioscurides or one of his disciples."
