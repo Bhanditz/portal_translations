@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-25 12:43+0100\n"
+"POT-Creation-Date: 2013-11-25 13:00+0100\n"
 "PO-Revision-Date: 2013-11-21 16:07\n"
 "Last-Translator: Laura  Huff <laura.huff@kb.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1957,8 +1957,9 @@ msgid "Click here to return to the Europeana homepage"
 msgstr "Vrať se na domovskou stránku"
 
 #: templates/static_pages/prop_file.html:74
+#, fuzzy
 msgid "Refine your results"
-msgstr ""
+msgstr "Pokročilé vyhledávání"
 
 #: templates/static_pages/prop_file.html:75
 msgid "By language of description"
@@ -2042,8 +2043,9 @@ msgid "Sound"
 msgstr "Zvukové materiály"
 
 #: templates/static_pages/prop_file.html:98
+#, fuzzy
 msgid "List view"
-msgstr ""
+msgstr "Předchozí záložka"
 
 #: templates/static_pages/prop_file.html:99
 #, fuzzy
@@ -2155,8 +2157,9 @@ msgid "Error details"
 msgstr "Údaje o chybě"
 
 #: templates/static_pages/prop_file.html:124
+#, fuzzy
 msgid "Return to results"
-msgstr ""
+msgstr "Pokročilé vyhledávání"
 
 #: templates/static_pages/prop_file.html:125
 msgid "More"
@@ -2548,8 +2551,9 @@ msgid "Provenance"
 msgstr "Francie"
 
 #: templates/static_pages/prop_file.html:215
+#, fuzzy
 msgid "Is Part of"
-msgstr ""
+msgstr "Přeměnit"
 
 #: templates/static_pages/prop_file.html:216
 #: templates/static_pages/prop_file.html:946
@@ -3699,8 +3703,9 @@ msgid "Your search result contains no items that have map co-ordinates."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:704
+#, fuzzy
 msgid "Please try another search."
-msgstr ""
+msgstr "Vlož svou e-mailovou adresu"
 
 #: templates/static_pages/prop_file.html:705
 msgid ""
@@ -3906,8 +3911,9 @@ msgid "JSON response"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:814
+#, fuzzy
 msgid "Search also for:"
-msgstr ""
+msgstr "Výsledky vyhledávání uloženy"
 
 #: templates/static_pages/prop_file.html:816
 msgid "Who"
@@ -3954,12 +3960,14 @@ msgid "API keys"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:837
+#, fuzzy
 msgid "No API key"
-msgstr ""
+msgstr "Podmínky používání"
 
 #: templates/static_pages/prop_file.html:838
+#, fuzzy
 msgid "API key"
-msgstr ""
+msgstr "Podmínky používání"
 
 #: templates/static_pages/prop_file.html:839
 #, fuzzy
@@ -4082,8 +4090,9 @@ msgid "Date of creation"
 msgstr "Ochrana dat"
 
 #: templates/static_pages/prop_file.html:945
+#, fuzzy
 msgid "Is part of"
-msgstr ""
+msgstr "Přeměnit"
 
 #: templates/static_pages/prop_file.html:956
 #, fuzzy
@@ -4115,8 +4124,9 @@ msgid "All fields"
 msgstr "Všichni poskytovatelé"
 
 #: templates/static_pages/prop_file.html:962
+#, fuzzy
 msgid "Featured Item"
-msgstr ""
+msgstr "Žádné uložené položky"
 
 #: templates/static_pages/prop_file.html:963
 #: templates/static_pages/usingeuropeana_explore.html:15
@@ -4151,8 +4161,9 @@ msgid "Please, select"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:971
+#, fuzzy
 msgid "Please try another search later."
-msgstr ""
+msgstr "Vlož svou e-mailovou adresu"
 
 #: templates/static_pages/prop_file.html:972
 msgid "Unable to find the requested page"
