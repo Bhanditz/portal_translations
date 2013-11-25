@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-21 16:03+0100\n"
+"POT-Creation-Date: 2013-11-25 12:43+0100\n"
 "PO-Revision-Date: 2013-11-21 15:32\n"
 "Last-Translator: Laura  Huff <laura.huff@kb.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3185,8 +3185,9 @@ msgstr "Feu clic per cercar aquest terme a serveis externs."
 
 #: templates/static_pages/prop_file.html:330
 #: templates/static_pages/prop_file.html:332
+#, fuzzy
 msgid "Remote Search Widget"
-msgstr ""
+msgstr "Giny de cerca d'Europeana"
 
 #: templates/static_pages/prop_file.html:331
 msgid ""
@@ -3637,8 +3638,9 @@ msgid "How to configure your search widget"
 msgstr "Com configurar el giny de cerca d'Europeana"
 
 #: templates/static_pages/prop_file.html:592
+#, fuzzy
 msgid "How to configure your search widhet"
-msgstr ""
+msgstr "Com configurar el giny de cerca d'Europeana"
 
 #: templates/static_pages/prop_file.html:603
 #: templates/static_pages/prop_file.html:604
@@ -4405,6 +4407,21 @@ msgstr "Clau API"
 #: templates/static_pages/prop_file.html:993
 msgid "Number of calls"
 msgstr "Nombre de trucades"
+
+#: templates/static_pages/prop_file.html:995
+#: templates/static_pages/prop_file.html:996
+msgid "Can I use it?"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:997
+#, fuzzy
+msgid "Yes, with attribution"
+msgstr "Atribució a Europeana"
+
+#: templates/static_pages/prop_file.html:998
+#, fuzzy
+msgid "Yes, with restrictions"
+msgstr "Atribució a Europeana"
 
 #: templates/static_pages/sitemap.html:4
 msgid "Europeana - Sitemap"
