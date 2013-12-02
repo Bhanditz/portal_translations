@@ -7,9 +7,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-18 16:42+0100\n"
-"PO-Revision-Date: 2013-11-18 11:30\n"
-"Last-Translator: Czech  <>\n"
+"POT-Creation-Date: 2013-11-25 13:00+0100\n"
+"PO-Revision-Date: 2013-11-21 16:07\n"
+"Last-Translator: Laura  Huff <laura.huff@kb.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
@@ -1457,7 +1457,7 @@ msgstr ""
 #: templates/static_pages/aboutus_enews.html:36
 #: templates/static_pages/aboutus_enews.html:45
 msgid "April"
-msgstr "duben"
+msgstr "Duben"
 
 #: templates/static_pages/aboutus_enews.html:17
 msgid "New look Europeana, Lithuania's buried secrets"
@@ -1468,19 +1468,19 @@ msgstr ""
 #: templates/static_pages/aboutus_enews.html:37
 #: templates/static_pages/aboutus_enews.html:46
 msgid "February"
-msgstr "únor"
+msgstr "Únor"
 
 #: templates/static_pages/aboutus_enews.html:23
 #: templates/static_pages/aboutus_enews.html:32
 #: templates/static_pages/aboutus_enews.html:41
 #: templates/static_pages/aboutus_enews.html:51
 msgid "December"
-msgstr "prosinec"
+msgstr "Prosinec"
 
 #: templates/static_pages/aboutus_enews.html:24
 #: templates/static_pages/aboutus_enews.html:42
 msgid "November"
-msgstr "listopad"
+msgstr "Listopad"
 
 #: templates/static_pages/aboutus_enews.html:33
 msgid "October"
@@ -1699,16 +1699,18 @@ msgid "Logged in as"
 msgstr "Přihlášený jako"
 
 #: templates/static_pages/prop_file.html:19
+#, fuzzy
 msgid "Saved items"
-msgstr ""
+msgstr "Žádné uložené položky"
 
 #: templates/static_pages/prop_file.html:20
 msgid "Saved searches"
 msgstr "Pokročilé vyhledávání"
 
 #: templates/static_pages/prop_file.html:21
+#, fuzzy
 msgid "Saved tags"
-msgstr ""
+msgstr "Pokročilé vyhledávání"
 
 #: templates/static_pages/prop_file.html:22
 msgid "Saved notifications"
@@ -1766,8 +1768,9 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/prop_file.html:30
+#, fuzzy
 msgid "First name"
-msgstr ""
+msgstr "Poslední změna"
 
 #: templates/static_pages/prop_file.html:31
 msgid "Last name"
@@ -1871,8 +1874,9 @@ msgid "not"
 msgstr "neznamenají "
 
 #: templates/static_pages/prop_file.html:53
+#, fuzzy
 msgid "Any field"
-msgstr ""
+msgstr "Všichni poskytovatelé"
 
 #: templates/static_pages/prop_file.html:54
 msgid "Share your ideas"
@@ -1944,24 +1948,27 @@ msgid "co-funded by the European Union"
 msgstr "spolufinancováno Evropskou unií"
 
 #: templates/static_pages/prop_file.html:72
+#, fuzzy
 msgid "Europeana think culture"
-msgstr ""
+msgstr "žij kulturou"
 
 #: templates/static_pages/prop_file.html:73
 msgid "Click here to return to the Europeana homepage"
 msgstr "Vrať se na domovskou stránku"
 
 #: templates/static_pages/prop_file.html:74
+#, fuzzy
 msgid "Refine your results"
-msgstr ""
+msgstr "Pokročilé vyhledávání"
 
 #: templates/static_pages/prop_file.html:75
 msgid "By language of description"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:76
+#, fuzzy
 msgid "By providing country"
-msgstr ""
+msgstr "Země"
 
 #: templates/static_pages/prop_file.html:77
 msgid "By year"
@@ -1981,8 +1988,9 @@ msgid "By media type"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:82
+#, fuzzy
 msgid "Actions"
-msgstr ""
+msgstr "Zrušení otroctví"
 
 #: templates/static_pages/prop_file.html:83
 #: templates/static_pages/usingeuropeana_myeuropeana.html:14
@@ -2006,7 +2014,7 @@ msgstr "Hledal/a jsi"
 #: templates/static_pages/usingeuropeana_search.html:63
 #: templates/static_pages/usingeuropeana_search.html:65
 msgid "Matches for"
-msgstr "tento formulář"
+msgstr "Tento formulář"
 
 #: templates/static_pages/prop_file.html:88
 msgid "You are viewing related items"
@@ -2035,12 +2043,14 @@ msgid "Sound"
 msgstr "Zvukové materiály"
 
 #: templates/static_pages/prop_file.html:98
+#, fuzzy
 msgid "List view"
-msgstr ""
+msgstr "Předchozí záložka"
 
 #: templates/static_pages/prop_file.html:99
+#, fuzzy
 msgid "#Table view"
-msgstr ""
+msgstr "Časová osa"
 
 #: templates/static_pages/prop_file.html:100
 msgid "Page"
@@ -2051,8 +2061,9 @@ msgid "of"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:102
+#, fuzzy
 msgid "Click here for previous page of results"
-msgstr ""
+msgstr "Následující stránka výsledků"
 
 #: templates/static_pages/prop_file.html:103
 msgid "Click here for next page of results"
@@ -2079,8 +2090,9 @@ msgid "See all related items"
 msgstr "Veškerý příbuzný obsah"
 
 #: templates/static_pages/prop_file.html:109
+#, fuzzy
 msgid "User tags"
-msgstr ""
+msgstr "Podle uživatele"
 
 #: templates/static_pages/prop_file.html:110
 #: templates/static_pages/usingeuropeana_myeuropeana.html:15
@@ -2093,8 +2105,9 @@ msgid "Add"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:112
+#, fuzzy
 msgid "Tag added"
-msgstr ""
+msgstr "Chyba při přidávání tagu"
 
 #: templates/static_pages/prop_file.html:113
 msgid "Tag addition failed"
@@ -2109,8 +2122,9 @@ msgid "Email address"
 msgstr "E-mail"
 
 #: templates/static_pages/prop_file.html:116
+#, fuzzy
 msgid "Email sent"
-msgstr ""
+msgstr "E-mail"
 
 #: templates/static_pages/prop_file.html:117
 msgid "Email could not be sent"
@@ -2126,8 +2140,9 @@ msgid "Save to My Europeana"
 msgstr "Ulož si v Mých Europeanách"
 
 #: templates/static_pages/prop_file.html:120
+#, fuzzy
 msgid "Item saved"
-msgstr ""
+msgstr "Výsledky vyhledávání uloženy"
 
 #: templates/static_pages/prop_file.html:121
 msgid "Save item failed"
@@ -2142,24 +2157,27 @@ msgid "Error details"
 msgstr "Údaje o chybě"
 
 #: templates/static_pages/prop_file.html:124
+#, fuzzy
 msgid "Return to results"
-msgstr ""
+msgstr "Pokročilé vyhledávání"
 
 #: templates/static_pages/prop_file.html:125
 msgid "More"
-msgstr "nebo"
+msgstr "Nebo"
 
 #: templates/static_pages/prop_file.html:126
 msgid "Less"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:127
+#, fuzzy
 msgid "Items"
-msgstr ""
+msgstr "Výsledky vyhledávání uloženy"
 
 #: templates/static_pages/prop_file.html:128
+#, fuzzy
 msgid "Item details"
-msgstr ""
+msgstr "Další podrobnosti"
 
 #: templates/static_pages/prop_file.html:129
 msgid "View as XML"
@@ -2196,8 +2214,9 @@ msgstr "Název"
 
 #: templates/static_pages/prop_file.html:136
 #: templates/static_pages/prop_file.html:235
+#, fuzzy
 msgid "Description"
-msgstr ""
+msgstr "Descartes"
 
 #: templates/static_pages/prop_file.html:137
 #: templates/static_pages/storyline.html:50
@@ -2234,32 +2253,37 @@ msgid "No saved searches"
 msgstr "Pokročilé vyhledávání"
 
 #: templates/static_pages/prop_file.html:144
+#, fuzzy
 msgid "No saved tags"
-msgstr ""
+msgstr "Žádné uložené položky"
 
 #: templates/static_pages/prop_file.html:145
 msgid "No saved notifications"
 msgstr "Uložená pole"
 
 #: templates/static_pages/prop_file.html:146
+#, fuzzy
 msgid "Date saved"
-msgstr ""
+msgstr "Výsledky vyhledávání uloženy"
 
 #: templates/static_pages/prop_file.html:147
+#, fuzzy
 msgid "Remove"
-msgstr ""
+msgstr "Podmínky používání"
 
 #: templates/static_pages/prop_file.html:148
+#, fuzzy
 msgid "Welcome to MyEuropeana"
-msgstr ""
+msgstr "Ulož si v Mých Europeanách"
 
 #: templates/static_pages/prop_file.html:149
 msgid "Please click on the following link to confirm your registration"
 msgstr "Kliknutím na následující link potvrďte svou registraci"
 
 #: templates/static_pages/prop_file.html:150
+#, fuzzy
 msgid "The Europeana Team"
-msgstr ""
+msgstr "Europeana Remix"
 
 #: templates/static_pages/prop_file.html:151
 msgid "Results"
@@ -2274,8 +2298,9 @@ msgid "This feature is currently disabled."
 msgstr "Operace není nyní možná"
 
 #: templates/static_pages/prop_file.html:154
+#, fuzzy
 msgid "Password"
-msgstr ""
+msgstr "Zadej heslo znovu"
 
 #: templates/static_pages/prop_file.html:155
 msgid "Remember me on this computer"
@@ -2290,8 +2315,9 @@ msgid "Sign in"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:158
+#, fuzzy
 msgid "Register"
-msgstr ""
+msgstr "Znovu se zaregistrovat"
 
 #: templates/static_pages/prop_file.html:159
 msgid "Register again"
@@ -2348,8 +2374,9 @@ msgid "Your username will be displayed when you have logged in"
 msgstr "Tvoje uživatelské jméno bude zobrazeno po přihlášení"
 
 #: templates/static_pages/prop_file.html:170
+#, fuzzy
 msgid "Username"
-msgstr ""
+msgstr "Poslední změna"
 
 #: templates/static_pages/prop_file.html:171
 msgid "is in use. Please choose another username"
@@ -2360,8 +2387,9 @@ msgid "Choose a username"
 msgstr "Zvol si uživatelské jméno"
 
 #: templates/static_pages/prop_file.html:174
+#, fuzzy
 msgid "User information"
-msgstr ""
+msgstr "Další informace"
 
 #: templates/static_pages/prop_file.html:175
 msgid "Choose a password"
@@ -2445,15 +2473,15 @@ msgstr "Litva"
 
 #: templates/static_pages/prop_file.html:196
 msgid "Luxemburgish (ltz)"
-msgstr "lucemburština (ltz)"
+msgstr "Lucemburština (ltz)"
 
 #: templates/static_pages/prop_file.html:197
 msgid "Maltese (mlt)"
-msgstr "maltština (mlt)"
+msgstr "Maltština (mlt)"
 
 #: templates/static_pages/prop_file.html:198
 msgid "Norwegian (nor)"
-msgstr "norština (nor)"
+msgstr "Norština (nor)"
 
 #: templates/static_pages/prop_file.html:199
 msgid "Polish (pol)"
@@ -2500,12 +2528,14 @@ msgid "Turkish (tur)"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:210
+#, fuzzy
 msgid "Ukrainian (ukr)"
-msgstr ""
+msgstr "Rumunština (rum)"
 
 #: templates/static_pages/prop_file.html:211
+#, fuzzy
 msgid "Yiddish (yid)"
-msgstr ""
+msgstr "Finština (fin)"
 
 #: templates/static_pages/prop_file.html:212
 msgid "Other"
@@ -2516,17 +2546,20 @@ msgid "Alternative Title"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:214
+#, fuzzy
 msgid "Provenance"
-msgstr ""
+msgstr "Francie"
 
 #: templates/static_pages/prop_file.html:215
+#, fuzzy
 msgid "Is Part of"
-msgstr ""
+msgstr "Přeměnit"
 
 #: templates/static_pages/prop_file.html:216
 #: templates/static_pages/prop_file.html:946
+#, fuzzy
 msgid "Has part"
-msgstr ""
+msgstr "Přeměnit"
 
 #: templates/static_pages/prop_file.html:217
 msgid "Replaces"
@@ -2553,12 +2586,14 @@ msgid "Requires"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:223
+#, fuzzy
 msgid "Has format"
-msgstr ""
+msgstr "Přeměnit"
 
 #: templates/static_pages/prop_file.html:224
+#, fuzzy
 msgid "Is format of"
-msgstr ""
+msgstr "Přeměnit"
 
 #: templates/static_pages/prop_file.html:225
 msgid "Geographic coverage"
@@ -2581,8 +2616,9 @@ msgid "Coverage"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:233
+#, fuzzy
 msgid "Format"
-msgstr ""
+msgstr "Přeměnit"
 
 #: templates/static_pages/prop_file.html:236
 msgid "Publisher"
@@ -2597,8 +2633,9 @@ msgid "Source"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:240
+#, fuzzy
 msgid "Relation"
-msgstr ""
+msgstr "Související obsah"
 
 #: templates/static_pages/prop_file.html:241
 #: templates/static_pages/sitemap.html:113
@@ -2614,8 +2651,9 @@ msgid "Austria"
 msgstr "Rakousko"
 
 #: templates/static_pages/prop_file.html:244
+#, fuzzy
 msgid "Croatia"
-msgstr ""
+msgstr "Chorvatština (hrv)"
 
 #: templates/static_pages/prop_file.html:245
 msgid "Denmark"
@@ -2790,8 +2828,9 @@ msgid "Greece"
 msgstr "Řecko"
 
 #: templates/static_pages/prop_file.html:289
+#, fuzzy
 msgid "Subject cloud"
-msgstr ""
+msgstr "Předmět"
 
 #: templates/static_pages/prop_file.html:290
 msgid "Did you mean"
@@ -2804,12 +2843,14 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/prop_file.html:292
+#, fuzzy
 msgid "Data provider"
-msgstr ""
+msgstr "Podle poskytovatele"
 
 #: templates/static_pages/prop_file.html:293
+#, fuzzy
 msgid "Europeana rights"
-msgstr ""
+msgstr "Europeana Remix"
 
 #: templates/static_pages/prop_file.html:294
 msgid "Terms of use"
@@ -2820,16 +2861,18 @@ msgid "The timeline only shows up to 1000 items relevant to your query."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:296
+#, fuzzy
 msgid "Timeline view"
-msgstr ""
+msgstr "Časová osa"
 
 #: templates/static_pages/prop_file.html:297
 msgid "Embed"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:298
+#, fuzzy
 msgid "Options"
-msgstr ""
+msgstr "Zrušení otroctví"
 
 #: templates/static_pages/prop_file.html:299
 msgid "Embed this object into your own blog or website"
@@ -2853,8 +2896,9 @@ msgid "Preview it customized"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:303
+#, fuzzy
 msgid "Create notification for this item"
-msgstr ""
+msgstr "Uložená pole"
 
 #: templates/static_pages/prop_file.html:304
 msgid ""
@@ -2863,18 +2907,22 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/prop_file.html:305
+#, fuzzy
 msgid ""
 "By using the embed function you accept and agree to the Europeana Terms of "
 "Use"
 msgstr ""
+"Výkonem jakýchkoli práv k Webovým stránkám na základě těchto Podmínek "
+"užívání bereš na vědomí jejich závaznost a souhlasíš s nimi"
 
 #: templates/static_pages/prop_file.html:306
 msgid "Maximal number of text lines:"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:307
+#, fuzzy
 msgid "orientation:"
-msgstr ""
+msgstr "Související obsah"
 
 #: templates/static_pages/prop_file.html:308
 msgid "portrait"
@@ -2885,8 +2933,9 @@ msgid "landscape"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:310
+#, fuzzy
 msgid "Refine Search"
-msgstr ""
+msgstr "Vyhledávání ve výsledcích"
 
 #: templates/static_pages/prop_file.html:311
 msgid "By Rights"
@@ -2951,16 +3000,19 @@ msgid "indicates ESS services are not available"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:325
+#, fuzzy
 msgid "Search term(s)"
-msgstr ""
+msgstr "Výsledky vyhledávání uloženy"
 
 #: templates/static_pages/prop_file.html:326
+#, fuzzy
 msgid "Search facet"
-msgstr ""
+msgstr "Výsledky vyhledávání uloženy"
 
 #: templates/static_pages/prop_file.html:327
+#, fuzzy
 msgid "Search operator"
-msgstr ""
+msgstr "Výsledky vyhledávání uloženy"
 
 #: templates/static_pages/prop_file.html:328
 msgid "Back to top"
@@ -2972,8 +3024,9 @@ msgstr ""
 
 #: templates/static_pages/prop_file.html:330
 #: templates/static_pages/prop_file.html:332
+#, fuzzy
 msgid "Remote Search Widget"
-msgstr ""
+msgstr "Europeana Remix"
 
 #: templates/static_pages/prop_file.html:331
 msgid ""
@@ -2983,12 +3036,14 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/prop_file.html:333
+#, fuzzy
 msgid "Europeana Search Widget"
-msgstr ""
+msgstr "Europeana Remix"
 
 #: templates/static_pages/prop_file.html:336
+#, fuzzy
 msgid "What is Europeana's remote search widget?"
-msgstr ""
+msgstr "Europeana Remix"
 
 #: templates/static_pages/prop_file.html:337
 msgid ""
@@ -3036,8 +3091,9 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/prop_file.html:346
+#, fuzzy
 msgid "Click 'Generate Code'"
-msgstr ""
+msgstr "Obsah vytvářený uživateli"
 
 #: templates/static_pages/prop_file.html:347
 msgid "Copy the code from under 'Code for plugin:'"
@@ -3068,8 +3124,9 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/prop_file.html:353
+#, fuzzy
 msgid "Background colour"
-msgstr ""
+msgstr "Historie"
 
 #: templates/static_pages/prop_file.html:354
 msgid "Media type tab colour"
@@ -3080,12 +3137,14 @@ msgid "Text colour"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:356
+#, fuzzy
 msgid "Default language"
-msgstr ""
+msgstr "Zvol jazyk"
 
 #: templates/static_pages/prop_file.html:357
+#, fuzzy
 msgid "Default search term"
-msgstr ""
+msgstr "Výsledky vyhledávání uloženy"
 
 #: templates/static_pages/prop_file.html:358
 msgid "Media Types"
@@ -3097,29 +3156,34 @@ msgid "Providers"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:360
+#, fuzzy
 msgid "Europeana attribution"
-msgstr ""
+msgstr "Europeana - Evropské čtení"
 
 #: templates/static_pages/prop_file.html:361
 msgid "Widget Code: (To be copied and pasted into your website)"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:363
+#, fuzzy
 msgid "Generate Code"
-msgstr ""
+msgstr "Obsah vytvářený uživateli"
 
 #: templates/static_pages/prop_file.html:364
+#, fuzzy
 msgid "Powered By Europeana"
-msgstr ""
+msgstr "Moje Europeana"
 
 #: templates/static_pages/prop_file.html:365
 #: templates/static_pages/prop_file.html:865
+#, fuzzy
 msgid "Europeana Blog"
-msgstr ""
+msgstr "Europeana API"
 
 #: templates/static_pages/prop_file.html:366
+#, fuzzy
 msgid "Virtual Exhibitions"
-msgstr ""
+msgstr "Sbírky"
 
 #: templates/static_pages/prop_file.html:367
 #: templates/static_pages/usingeuropeana_results.html:41
@@ -3243,8 +3307,9 @@ msgstr ""
 #: templates/static_pages/prop_file.html:460
 #: templates/static_pages/prop_file.html:471
 #: templates/static_pages/prop_file.html:482
+#, fuzzy
 msgid "Featured item"
-msgstr ""
+msgstr "Žádné uložené položky"
 
 #: templates/static_pages/prop_file.html:403
 msgid ""
@@ -3287,12 +3352,8 @@ msgstr ""
 
 #: templates/static_pages/prop_file.html:455
 msgid ""
-"Nessun dorma (English: None shall sleep) is an aria from the final act of "
-"Giacomo Puccini's opera Turandot, and is one of the best-known tenor arias "
-"in all opera. It is sung by Calaf, il principe ignoto (the Unknown Prince), "
-"who falls in love at first sight with the beautiful but cold Princess "
-"Turandot. However, any man who wishes to wed Turandot must first answer her "
-"three riddles; if he fails, he will be beheaded."
+"Items of interest in learning depicted with their names. Etching. The card "
+"shows different objects from a Decanter &amp; Tea Chest to a Ladies Toilet."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:464
@@ -3334,12 +3395,14 @@ msgid "Subscribe"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:502
+#, fuzzy
 msgid "Europana 1989 - now live!"
-msgstr ""
+msgstr "Europeana - Mapa stránek"
 
 #: templates/static_pages/prop_file.html:505
+#, fuzzy
 msgid "Europeana 1989 - now live"
-msgstr ""
+msgstr "Europeana - Mapa stránek"
 
 #: templates/static_pages/prop_file.html:506
 msgid "Journey through the fall of the Iron Curtain."
@@ -3362,7 +3425,7 @@ msgstr "Jazyková politika"
 
 #: templates/static_pages/prop_file.html:535
 #: templates/static_pages/prop_file.html:536
-#: templates/static_pages/sitemap.html:124
+#: templates/static_pages/sitemap.html:126
 msgid "Contact"
 msgstr ""
 
@@ -3386,8 +3449,9 @@ msgstr ""
 
 #: templates/static_pages/prop_file.html:603
 #: templates/static_pages/prop_file.html:604
+#, fuzzy
 msgid "Press Room"
-msgstr ""
+msgstr "Tiskové zprávy"
 
 #: templates/static_pages/prop_file.html:635
 #: templates/static_pages/prop_file.html:636
@@ -3397,8 +3461,9 @@ msgstr ""
 #: templates/static_pages/prop_file.html:643
 #: templates/static_pages/prop_file.html:644
 #: templates/static_pages/prop_file.html:649
+#, fuzzy
 msgid "Explore Europe's cultural collections"
-msgstr ""
+msgstr "Vrať se na domovskou stránku"
 
 #: templates/static_pages/prop_file.html:647
 #: templates/static_pages/prop_file.html:648
@@ -3414,12 +3479,14 @@ msgid "From the blog"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:652
+#, fuzzy
 msgid "Filter your search"
-msgstr ""
+msgstr "Vlož svou e-mailovou adresu"
 
 #: templates/static_pages/prop_file.html:653
+#, fuzzy
 msgid "Grid view"
-msgstr ""
+msgstr "Předchozí záložka"
 
 #: templates/static_pages/prop_file.html:654
 msgid ""
@@ -3428,8 +3495,9 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/prop_file.html:655
+#, fuzzy
 msgid "Similar items"
-msgstr ""
+msgstr "Žádné uložené položky"
 
 #: templates/static_pages/prop_file.html:656
 msgid "Loading ..."
@@ -3441,24 +3509,28 @@ msgid "Translate details"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:658
+#, fuzzy
 msgid "Return to search results"
-msgstr ""
+msgstr "Pokročilé vyhledávání"
 
 #: templates/static_pages/prop_file.html:659
+#, fuzzy
 msgid "Next search result"
-msgstr ""
+msgstr "Pokročilé vyhledávání"
 
 #: templates/static_pages/prop_file.html:660
 msgid "Something went wrong!"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:661
+#, fuzzy
 msgid "An email has been sent to inform our technical staff"
-msgstr ""
+msgstr "E-mail byl zaslán na následující adresu"
 
 #: templates/static_pages/prop_file.html:662
+#, fuzzy
 msgid "Please try another search"
-msgstr ""
+msgstr "Vlož svou e-mailovou adresu"
 
 #: templates/static_pages/prop_file.html:663
 msgid "Saved search removed successfully"
@@ -3478,8 +3550,9 @@ msgid "An error occurred"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:667
+#, fuzzy
 msgid "The item could not be removed"
-msgstr ""
+msgstr "E-mail nemohl být odeslán"
 
 #: templates/static_pages/prop_file.html:668
 msgid "Auto-generated tags"
@@ -3503,8 +3576,9 @@ msgid "See more"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:674
+#, fuzzy
 msgid "Explore further"
-msgstr ""
+msgstr "Prozkoumat"
 
 #: templates/static_pages/prop_file.html:675
 msgid "Return to original language"
@@ -3521,8 +3595,9 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/prop_file.html:679
+#, fuzzy
 msgid "Preview"
-msgstr ""
+msgstr "Předchozí záložka"
 
 #: templates/static_pages/prop_file.html:680
 msgid "Return to timeline"
@@ -3537,16 +3612,19 @@ msgid "Your password change has been successfully completed"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:683
+#, fuzzy
 msgid "Zoom"
-msgstr ""
+msgstr "neznamenají "
 
 #: templates/static_pages/prop_file.html:684
+#, fuzzy
 msgid "Zoom in"
-msgstr ""
+msgstr "neznamenají "
 
 #: templates/static_pages/prop_file.html:685
+#, fuzzy
 msgid "Zoom out"
-msgstr ""
+msgstr "neznamenají "
 
 #: templates/static_pages/prop_file.html:686
 msgid "Choose from different map types"
@@ -3625,8 +3703,9 @@ msgid "Your search result contains no items that have map co-ordinates."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:704
+#, fuzzy
 msgid "Please try another search."
-msgstr ""
+msgstr "Vlož svou e-mailovou adresu"
 
 #: templates/static_pages/prop_file.html:705
 msgid ""
@@ -3675,8 +3754,9 @@ msgid "Footnote"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:724
+#, fuzzy
 msgid "Follow us on"
-msgstr ""
+msgstr "Následujte nás"
 
 #: templates/static_pages/prop_file.html:725
 msgid "Unable to find content for this page."
@@ -3697,12 +3777,14 @@ msgid "Share item on Facebook, Twitter, etc."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:731
+#, fuzzy
 msgid "Follow us!"
-msgstr ""
+msgstr "Následujte nás"
 
 #: templates/static_pages/prop_file.html:732
+#, fuzzy
 msgid "Newsletter sign-up"
-msgstr ""
+msgstr "Newsletter"
 
 #: templates/static_pages/prop_file.html:733
 #: templates/static_pages/prop_file.html:734
@@ -3715,8 +3797,9 @@ msgid "Name"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:736
+#, fuzzy
 msgid "Email Address"
-msgstr ""
+msgstr "E-mail"
 
 #: templates/static_pages/prop_file.html:737
 msgid ""
@@ -3728,8 +3811,9 @@ msgstr ""
 #: templates/static_pages/prop_file.html:770
 #: templates/static_pages/prop_file.html:780
 #: templates/static_pages/prop_file.html:791
+#, fuzzy
 msgid "Featured partner"
-msgstr ""
+msgstr "Výsledky vyhledávání uloženy"
 
 #: templates/static_pages/prop_file.html:752
 msgid ""
@@ -3760,35 +3844,38 @@ msgstr ""
 
 #: templates/static_pages/prop_file.html:784
 msgid ""
-"In the Swiss National Library you will find everything about Switzerland; "
-"everything which is published in the country or written by Swiss authors. "
-"Every publication, from Swiss daily newspapers to novels, from documentaries "
-"and yearbooks to official publications and geographical maps. In our two "
-"most important special collections, the Prints and Drawings Department and "
-"the Swiss Literary Archives you can find photographs, etchings, posters, "
-"postcards and manuscripts."
+"Since its founding in 1952 the Hungarian Theatre Museum and Institute has "
+"been collecting the most valuable relics and data of the Hungarian theatre, "
+"bridging the distant beginnings centuries ago with-last night's "
+"performances. A dozen and a half of separate collections enclose the "
+"invaluable traces of the artform most susceptible to evanescence: paintings, "
+"photographs, stage and costume designs, posters, props, video recordings—and "
+"many more..."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:795
 msgid ""
-"The Museum of Architecture of the Technische Universit&auml;t Berlin was "
-"founded in 1885 as part of the Technische Hochschule Charlottenburg. It "
-"holds a collection of drawings, prints and photographs related to "
-"architecture, predominantely by 19th and 20th century Prussian architects. "
-"The Museum is one of the oldest institutions of its kind in Europe."
+"Archive Eemland is the historical information centre of Amersfoort and the "
+"Eemland region. The archive manages approximately 3.5 kilometers of "
+"archives, an image collection of 40,000 photographs, a significant "
+"collection of maps, a growing audiovisual collection and a rich historical "
+"library."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:802
+#, fuzzy
 msgid "API function"
-msgstr ""
+msgstr "Zrušení otroctví"
 
 #: templates/static_pages/prop_file.html:803
+#, fuzzy
 msgid "Search parameters"
-msgstr ""
+msgstr "Výsledky vyhledávání uloženy"
 
 #: templates/static_pages/prop_file.html:804
+#, fuzzy
 msgid "Search term"
-msgstr ""
+msgstr "Výsledky vyhledávání uloženy"
 
 #: templates/static_pages/prop_file.html:805
 msgid "Refinement term(s)"
@@ -3807,8 +3894,9 @@ msgid "First record to retrieve"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:809
+#, fuzzy
 msgid "Record parameters"
-msgstr ""
+msgstr "Výsledky vyhledávání uloženy"
 
 #: templates/static_pages/prop_file.html:810
 msgid "Record id"
@@ -3823,8 +3911,9 @@ msgid "JSON response"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:814
+#, fuzzy
 msgid "Search also for:"
-msgstr ""
+msgstr "Výsledky vyhledávání uloženy"
 
 #: templates/static_pages/prop_file.html:816
 msgid "Who"
@@ -3835,8 +3924,9 @@ msgid "What"
 msgstr "Co"
 
 #: templates/static_pages/prop_file.html:819
+#, fuzzy
 msgid "api-introduction.html"
-msgstr ""
+msgstr "Úvod"
 
 #: templates/static_pages/prop_file.html:822
 #: templates/static_pages/prop_file.html:826
@@ -3851,16 +3941,18 @@ msgstr ""
 
 #: templates/static_pages/prop_file.html:824
 #: templates/static_pages/prop_file.html:825
+#, fuzzy
 msgid "Terms of use &amp; Policies"
-msgstr ""
+msgstr "Podmínky &amp; Zásady"
 
 #: templates/static_pages/prop_file.html:827
 msgid "contact.html"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:831
+#, fuzzy
 msgid "sitemap.html"
-msgstr ""
+msgstr "Mapa stránek"
 
 #: templates/static_pages/prop_file.html:836
 #: templates/static_pages/usingeuropeana_myeuropeana.html:17
@@ -3868,16 +3960,19 @@ msgid "API keys"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:837
+#, fuzzy
 msgid "No API key"
-msgstr ""
+msgstr "Podmínky používání"
 
 #: templates/static_pages/prop_file.html:838
+#, fuzzy
 msgid "API key"
-msgstr ""
+msgstr "Podmínky používání"
 
 #: templates/static_pages/prop_file.html:839
+#, fuzzy
 msgid "Private key"
-msgstr ""
+msgstr "Ochrana soukromí"
 
 #: templates/static_pages/prop_file.html:840
 msgid "Usage limit"
@@ -3892,16 +3987,18 @@ msgid "Administrator's page"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:843
+#, fuzzy
 msgid "Remove API key"
-msgstr ""
+msgstr "Podmínky používání"
 
 #: templates/static_pages/prop_file.html:844
 msgid "Limit"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:845
+#, fuzzy
 msgid "Remove user"
-msgstr ""
+msgstr "Podmínky používání"
 
 #: templates/static_pages/prop_file.html:846
 msgid "Block user"
@@ -3916,12 +4013,14 @@ msgid "Export users to CSV"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:849
+#, fuzzy
 msgid "User name"
-msgstr ""
+msgstr "Poslední změna"
 
 #: templates/static_pages/prop_file.html:850
+#, fuzzy
 msgid "Registration"
-msgstr ""
+msgstr "Znovu se zaregistrovat"
 
 #: templates/static_pages/prop_file.html:852
 msgid "Visit the website of"
@@ -3938,8 +4037,9 @@ msgid "Other Europeana Sites"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:861
+#, fuzzy
 msgid "Europeana Exhibitions"
-msgstr ""
+msgstr "Sbírky"
 
 #: templates/static_pages/prop_file.html:869
 #: templates/static_pages/sitemap.html:19
@@ -3972,8 +4072,9 @@ msgid "Telephone contact"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:941
+#, fuzzy
 msgid "Address"
-msgstr ""
+msgstr "E-mail"
 
 #: templates/static_pages/prop_file.html:942
 msgid "I confirm that I have read and agree to the"
@@ -3984,40 +4085,48 @@ msgid "Next in sequence"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:944
+#, fuzzy
 msgid "Date of creation"
-msgstr ""
+msgstr "Ochrana dat"
 
 #: templates/static_pages/prop_file.html:945
+#, fuzzy
 msgid "Is part of"
-msgstr ""
+msgstr "Přeměnit"
 
 #: templates/static_pages/prop_file.html:956
+#, fuzzy
 msgid "Titles"
-msgstr ""
+msgstr "Název"
 
 #: templates/static_pages/prop_file.html:957
 msgid "Places"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:958
+#, fuzzy
 msgid "Dates/Periods"
-msgstr ""
+msgstr "Výsledky vyhledávání uloženy"
 
 #: templates/static_pages/prop_file.html:959
+#, fuzzy
 msgid "Subjects"
-msgstr ""
+msgstr "Předmět"
 
 #: templates/static_pages/prop_file.html:960
+#, fuzzy
 msgid "Creators"
-msgstr ""
+msgstr "Autor"
 
 #: templates/static_pages/prop_file.html:961
+#, fuzzy
 msgid "All fields"
-msgstr ""
+msgstr "Všichni poskytovatelé"
 
 #: templates/static_pages/prop_file.html:962
+#, fuzzy
 msgid "Featured Item"
-msgstr ""
+msgstr "Žádné uložené položky"
 
 #: templates/static_pages/prop_file.html:963
 #: templates/static_pages/usingeuropeana_explore.html:15
@@ -4025,8 +4134,9 @@ msgid "Featured Partner"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:964
+#, fuzzy
 msgid "Click here for last page of results"
-msgstr ""
+msgstr "Následující stránka výsledků"
 
 #: templates/static_pages/prop_file.html:965
 #: templates/static_pages/usingeuropeana_results.html:24
@@ -4051,8 +4161,9 @@ msgid "Please, select"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:971
+#, fuzzy
 msgid "Please try another search later."
-msgstr ""
+msgstr "Vlož svou e-mailovou adresu"
 
 #: templates/static_pages/prop_file.html:972
 msgid "Unable to find the requested page"
@@ -4075,12 +4186,14 @@ msgid "Requested Europeana Record is not yet indexed."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:978
+#, fuzzy
 msgid "Please register your email again"
-msgstr ""
+msgstr "Vložte platnou e-mailovou adresu, prosím"
 
 #: templates/static_pages/prop_file.html:979
+#, fuzzy
 msgid "to finish registration."
-msgstr ""
+msgstr "Dokonči registraci"
 
 #: templates/static_pages/prop_file.html:980
 msgid "Unable to fullfill your request due to malformed query parameters."
@@ -4113,6 +4226,21 @@ msgstr ""
 #: templates/static_pages/prop_file.html:993
 msgid "Number of calls"
 msgstr ""
+
+#: templates/static_pages/prop_file.html:995
+#: templates/static_pages/prop_file.html:996
+msgid "Can I use it?"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:997
+#, fuzzy
+msgid "Yes, with attribution"
+msgstr "Nutnost citovat zdroj"
+
+#: templates/static_pages/prop_file.html:998
+#, fuzzy
+msgid "Yes, with restrictions"
+msgstr "Nutnost citovat zdroj"
 
 #: templates/static_pages/sitemap.html:4
 msgid "Europeana - Sitemap"
@@ -4204,6 +4332,14 @@ msgstr "Neznámý status autorského práva"
 
 #: templates/static_pages/sitemap.html:119
 msgid "Orphan work - Free access"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:120
+msgid "Orphan work"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:121
+msgid "Out of copyright - non commercial reuse"
 msgstr ""
 
 #: templates/static_pages/storyline.html:4
@@ -4410,7 +4546,7 @@ msgstr "byl v Polsku narozený syn západoindického sluhy knížecí "
 
 #: templates/static_pages/storyline.html:26
 msgid "Prince Esterh&aacute;zy"
-msgstr "rodiny Esterházyů"
+msgstr "Rodiny Esterházyů"
 
 #: templates/static_pages/storyline.html:26
 msgid ""
@@ -4420,7 +4556,7 @@ msgid ""
 "philosophers who wish to deprive people of his nation and his colour of the "
 "opportunity to distinguish themselves in the arts."
 msgstr ""
-"uherských mecenášů Josefa Haydna. Byl hudebním zázrakem, jehož talent rychle "
+"Uherských mecenášů Josefa Haydna. Byl hudebním zázrakem, jehož talent rychle "
 "rozpoznali, a debutoval v Paříži ve věku devíti let. Jeden kritik označil "
 "jeho talent za jednu z nejlepších odpovědí filozofům, kteří by chtěli zbavit "
 "zástupce jeho národa a barvy pleti možnosti projevovat se v umění."
@@ -4637,18 +4773,14 @@ msgid "Link"
 msgstr "Odkaz"
 
 #: templates/static_pages/usingeuropeana.html:11
-#, fuzzy
 msgid ""
 "Welcome to Europeana. This page describes some of the things that you can do "
 "while you are here. Learn more about"
 msgstr ""
-"Vítejte na stránkách Europeany. Tato stránka popisuje některé z věcí, které "
-"tu můžete dělat. Dozvězte se více o"
 
 #: templates/static_pages/usingeuropeana.html:14
-#, fuzzy
 msgid "Search tips"
-msgstr "Frázové vyhledávání"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana.html:14
 msgid "Refined search"
@@ -4702,9 +4834,8 @@ msgid "Searching on external services"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana.html:19
-#, fuzzy
 msgid "New related searches on Europeana"
-msgstr "Výsledky v Europeaně"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana.html:19
 msgid "Viewing item on provider's site"
@@ -4719,23 +4850,20 @@ msgid "and Citing"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana.html:21
-#, fuzzy
 msgid "Saving searches"
-msgstr "Pokročilé vyhledávání"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana.html:21
-#, fuzzy
 msgid "Saving items"
-msgstr "Sdílet"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana.html:21
 msgid "and Adding tags"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_explore.html:3
-#, fuzzy
 msgid "Europeana - Exploring Europeana"
-msgstr "Europeana - Využití Europeany"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_explore.html:11
 msgid ""
@@ -4757,47 +4885,38 @@ msgid "link at the foot of the page."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_explore.html:15
-#, fuzzy
 msgid ""
 "See the latest contributions from our partner museums, libraries, archives "
 "and audiovisual archives by choosing"
 msgstr ""
-"Objev nejnovější obsah na Europeanách. Odkazy na těchto stránkách Tě propojí "
-"s nejnovějšími příspěvky z našich partnerských muzeí, archivů, knihoven a "
-"audiovizuálních sbírek."
 
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "View more latest content from our partners"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_explore.html:15
-#, fuzzy
 msgid "in the"
-msgstr "v Londýně,"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "area"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:3
-#, fuzzy
 msgid "Europeana - Using My Europeana"
-msgstr "Europeana - Využití Europeany"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:10
-#, fuzzy
 msgid "is your personal space on Europeana."
-msgstr "Jak si mohu na Europeaně zajistit prostor pro inzerci?"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:11
-#, fuzzy
 msgid "Register for"
-msgstr "Znovu se zaregistrovat"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:11
-#, fuzzy
 msgid "and you can"
-msgstr "Najdi více"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:14
 msgid ""
@@ -4808,15 +4927,11 @@ msgstr ""
 "uloženého vyhledávání, které můžete snadno opakovat."
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:15
-#, fuzzy
 msgid ""
 "Label your favourite items in Europeana with tags that mean something to "
 "you. You can then see all objects you have tagged, sorted by the keywords "
 "you have chosen, in the My Europeana interface."
 msgstr ""
-"Označte si své oblíbené položky v Europeaně. Všechny objekty, které jste si "
-"takto označili, můžete vidět seřazené podle vámi vybraných klíčových slov v "
-"Mojí Europeaně."
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:16
 msgid "Store your favourite items for later viewing."
@@ -4845,23 +4960,18 @@ msgid "shortcuts in the header."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:3
-#, fuzzy
 msgid "Europeana - Results in Europeana"
-msgstr "Europeana - Využití Europeany"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:11
-#, fuzzy
 msgid ""
 "Europeana divides search results into 5 main categories: text, images, "
 "video, sound and 3D objects."
 msgstr ""
-"Europeana rozděluje výsledky vyhledávání do čtyř hlavních kategorií: text, "
-"obrázky, videa a zvuk."
 
 #: templates/static_pages/usingeuropeana_results.html:12
-#, fuzzy
 msgid "The types of items included in each section are:"
-msgstr "Typy položek obsažené v každé sekci jsou"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:15
 msgid ""
@@ -4872,16 +4982,14 @@ msgstr ""
 "faksimile, rukopisy a hudebniny."
 
 #: templates/static_pages/usingeuropeana_results.html:16
-#, fuzzy
 msgid ""
 "paintings, drawings, prints, photographs, pictures of museum objects, maps, "
 "graphic designs, plans and musical notation."
-msgstr "malby, kresby, mapy, fotografie a obrázky muzejních předmětů"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:17
-#, fuzzy
 msgid "films, news broadcasts and television programmes"
-msgstr "filmy, nové zpravodajské šoty a televizní programy."
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:18
 msgid ""
@@ -4901,9 +5009,8 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:22
-#, fuzzy
 msgid "for more details."
-msgstr "Údaje o chybě"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:24
 msgid ""
@@ -4990,9 +5097,8 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:39
-#, fuzzy
 msgid "View item at"
-msgstr "Zobraz s popisky"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:39
 msgid ""
@@ -5002,9 +5108,8 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:40
-#, fuzzy
 msgid "Share item"
-msgstr "Sdílet"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:40
 msgid ""
@@ -5051,18 +5156,16 @@ msgid "To move to the previous or next item in your search results, hit the"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:49
-#, fuzzy
 msgid "options"
-msgstr "Zrušení otroctví"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:51
 msgid "A carousel showing"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:51
-#, fuzzy
 msgid "Similar content"
-msgstr "Související obsah"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:51
 msgid ""
@@ -5075,9 +5178,8 @@ msgid "Another way of finding similar content is to use the links in the"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:53
-#, fuzzy
 msgid "Search also for"
-msgstr "tento formulář"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:53
 msgid ""
@@ -5088,18 +5190,14 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:3
-#, fuzzy
 msgid "Europeana - Searching Europeana"
-msgstr "Europeana - Využití Europeany"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:11
-#, fuzzy
 msgid ""
 "Welcome to Europeana. This page describes some of the things that you can do "
 "while you are here. Learn more about:"
 msgstr ""
-"Vítejte na stránkách Europeany. Tato stránka popisuje některé z věcí, které "
-"tu můžete dělat. Dozvězte se více o"
 
 #: templates/static_pages/usingeuropeana_search.html:13
 msgid ""
@@ -5123,33 +5221,26 @@ msgid "Saving searches, saving items, and adding tags."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:19
-#, fuzzy
 msgid "General Search"
-msgstr "Vyhledávání ve výsledcích"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:21
-#, fuzzy
 msgid ""
 "Searching the millions of items in Europeana is simple. Just enter your "
 "search term and hit"
 msgstr ""
-"Hledání milionů položek na Europeanách je snadné. Zeptejte se sami sebe, co "
-"vás zajímá -  kdo, co, kde a kdy -  a zadej tato slova do vyhledávacího pole "
-"Europeany. Můžete zkusit"
 
 #: templates/static_pages/usingeuropeana_search.html:23
-#, fuzzy
 msgid "Specific search"
-msgstr "Vyhledávání ve výsledcích"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:25
 msgid "You can narrow your search with the arrow to the right of"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:25
-#, fuzzy
 msgid "Search All fields"
-msgstr "tento formulář"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:25
 msgid "and selecting a category"
@@ -5164,15 +5255,11 @@ msgid "Then enter your search term and hit"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:27
-#, fuzzy
 msgid ""
 "Alternatively, just ask yourself who, what, where or when you are interested "
 "in and type these words into Europeana's search box followed by a colon (:). "
 "Then enter your search term and hit"
 msgstr ""
-"Hledání milionů položek na Europeanách je snadné. Zeptejte se sami sebe, co "
-"vás zajímá -  kdo, co, kde a kdy -  a zadej tato slova do vyhledávacího pole "
-"Europeany. Můžete zkusit"
 
 #: templates/static_pages/usingeuropeana_search.html:29
 msgid "For specific searches, you could:"
@@ -5182,17 +5269,15 @@ msgstr ""
 #: templates/static_pages/usingeuropeana_search.html:32
 #: templates/static_pages/usingeuropeana_search.html:33
 #: templates/static_pages/usingeuropeana_search.html:34
-#, fuzzy
 msgid "Use the"
-msgstr "v Londýně,"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:31
 #: templates/static_pages/usingeuropeana_search.html:32
 #: templates/static_pages/usingeuropeana_search.html:33
 #: templates/static_pages/usingeuropeana_search.html:34
-#, fuzzy
 msgid "filter or enter"
-msgstr "Vlož svou e-mailovou adresu"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:31
 msgid ""
@@ -5298,29 +5383,23 @@ msgid "in capital letters, followed by the word you want to omit (e.g."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:45
-#, fuzzy
 msgid "Another helpful search feature is"
-msgstr "Výsledky vyhledávání uloženy"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:45
 msgid "Auto completion"
 msgstr "Automatické dokončování"
 
 #: templates/static_pages/usingeuropeana_search.html:45
-#, fuzzy
 msgid ""
 "Start typing a search term. Europeana will suggest words that may match what "
 "you are thinking of. Just select the term you want and hit"
 msgstr ""
-"Začněte psát hledaný výraz a Europeana vám nabídne slova, která jsou blízká "
-"vámi hledanému výrazu. Stisknutím šipky dolů vyberte požadovaný výraz a "
-"stisknutím klávesy 'Enter' jej vyhledejte."
 
 #: templates/static_pages/usingeuropeana_search.html:47
 #: templates/static_pages/usingeuropeana_search.html:49
-#, fuzzy
 msgid "Refine your search"
-msgstr "Vlož svou e-mailovou adresu"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:49
 msgid ""
@@ -5343,9 +5422,8 @@ msgid "The keyword is displayed at the top of the pane, under"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:49
-#, fuzzy
 msgid "Matches for."
-msgstr "tento formulář"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:51
 msgid "To remove a keyword, hit the X icon next to the relevant keyword in the"
@@ -5360,9 +5438,8 @@ msgid "You can also"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:53
-#, fuzzy
 msgid "filter your search results:"
-msgstr "Vlož svou e-mailovou adresu"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:55
 msgid ""
@@ -5371,9 +5448,8 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:56
-#, fuzzy
 msgid "By language"
-msgstr "Jazyk"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:56
 msgid ""
@@ -5382,9 +5458,8 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:57
-#, fuzzy
 msgid "By date"
-msgstr "."
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:57
 msgid "will display only objects with selected dates."
@@ -5494,18 +5569,16 @@ msgid "Blogs hosted on Wordpress.com"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:20
-#, fuzzy
 msgid "Set up your Europeana Search Widget:"
-msgstr "Zaregistrujte se k našemu seznamu emailů pro zástupce tisku"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:22
 msgid "Go to the search widget page."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:23
-#, fuzzy
 msgid "Introduction tab"
-msgstr "Úvod"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:23
 msgid ""
@@ -5526,14 +5599,12 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:25
-#, fuzzy
 msgid "To tailor your search widget"
-msgstr "Vlož svou e-mailovou adresu"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:27
-#, fuzzy
 msgid "Keyword search"
-msgstr "Vlož svou e-mailovou adresu"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:27
 msgid ""
@@ -5552,9 +5623,8 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:29
-#, fuzzy
 msgid "Search on types"
-msgstr "Frázové vyhledávání"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:29
 msgid ""
@@ -5580,9 +5650,8 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:31
-#, fuzzy
 msgid "Countries"
-msgstr "Země"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:31
 msgid ""
@@ -5628,19 +5697,16 @@ msgid "More information on the CC licenses"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:35
-#, fuzzy
 msgid "More information on the Rights Reserved - Free Access label"
-msgstr "Europeana - vyhražená práva - volný přístup"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:36
-#, fuzzy
 msgid "More information on the Rights Reserved - Restricted Access label"
-msgstr "Europeana - vyhražená práva - Omezený přístup"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:37
-#, fuzzy
 msgid "More information on the Rights Reserved - Paid Access label"
-msgstr "Europeana - vyhražená práva - placený přístup"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:38
 msgid "More information on the Unknown rights label"
@@ -5769,13 +5835,7 @@ msgstr ""
 #~ msgid "Europeana - Terms for User Contributions"
 #~ msgstr "Europeana - Evropské čtení"
 
-#~ msgid "Europeana Terms for User Contributions"
-#~ msgstr "Europeana - Evropské čtení"
-
 #~ msgid "Download the Europeana Open Culture app for iPad"
-#~ msgstr "žij kulturou"
-
-#~ msgid "Europeana Open Culture app"
 #~ msgstr "žij kulturou"
 
 #~ msgid ""
@@ -6063,9 +6123,6 @@ msgstr ""
 #~ "rozlišení verze našeho loga, s taglines v několika jazycích, jsou k "
 #~ "dispozici v našem"
 
-#~ msgid "What is My Europeana?"
-#~ msgstr "Co jsou Moje Europeana?"
-
 #~ msgid "How can I change my email address, username or password?"
 #~ msgstr ""
 #~ "Jak mohu změnit svou emailovou adresu, uživatelské jméno nebo heslo?"
@@ -6133,9 +6190,6 @@ msgstr ""
 #~ msgid "New exhibition : Leaving Europe"
 #~ msgstr "Europeana - Evropské čtení"
 
-#~ msgid "Open Exhibition"
-#~ msgstr "je virtuální exibice představující"
-
 #~ msgid "Explore collection"
 #~ msgstr "Audio-vizuální sbírky"
 
@@ -6179,9 +6233,6 @@ msgstr ""
 #~ msgid "Europeana: Unknown copyright status"
 #~ msgstr "Europeana - Neznámý status autorského práva"
 
-#~ msgid "Europeana Providers"
-#~ msgstr "Europeana - partneři"
-
 #~ msgid "The interactive"
 #~ msgstr "Interaktivní"
 
@@ -6202,9 +6253,6 @@ msgstr ""
 #~ "možné zadat téma do vyhledávacího pole a prohlédnout si předměty "
 #~ "vztahující se k hledanému výrazu.  Ćasová osa zobrazuje pro každé "
 #~ "vyhledávání prvních 1.000 výsledků."
-
-#~ msgid "on the timeline"
-#~ msgstr "Časová osa"
 
 #~ msgid ""
 #~ "Names of actors, authors, architects, artists, choreographers, composers, "
@@ -6231,14 +6279,8 @@ msgstr ""
 #~ "Data (např. 1945) jako rok kdy ste se narodili, nebo slavný den v "
 #~ "historii, nebo celé období (např. římské nebo středověké)."
 
-#~ msgid "narrow your search"
-#~ msgstr "Vlož svou e-mailovou adresu"
-
 #~ msgid "Art Nouveau"
 #~ msgstr "Europeana - Evropské čtení"
-
-#~ msgid "in Europeana include"
-#~ msgstr "žij kulturou"
 
 #~ msgid ""
 #~ "Europeana will suggest an alternative spelling, if it seems a mistake has "
@@ -6256,9 +6298,6 @@ msgstr ""
 #~ msgstr ""
 #~ "pod vyhledávacím polem a přidejte druhý termín, kterým chcete filtrovat "
 #~ "výsledky svého hledání."
-
-#~ msgid "results"
-#~ msgstr "Znovu se zaregistrovat"
 
 #~ msgid "Accessibility policy"
 #~ msgstr "Dostupnost"
@@ -6291,9 +6330,6 @@ msgstr ""
 #~ "Pokud narazíš na nějaký problém při používání tohoto webu nebo budeš mít "
 #~ "obecné připomínky/návrhy, použij prosím"
 
-#~ msgid "this form"
-#~ msgstr "tento formulář"
-
 #~ msgid "Europeana - Public Domain Charter"
 #~ msgstr "Vrať se na domovskou stránku"
 
@@ -6312,9 +6348,6 @@ msgstr ""
 #~ msgid "Technical Documentation"
 #~ msgstr "Technické otázky"
 
-#~ msgid "API console"
-#~ msgstr "Zrušení otroctví"
-
 #~ msgid "Europeana API 2"
 #~ msgstr "Europeana - často kladené dotazy"
 
@@ -6323,9 +6356,6 @@ msgstr ""
 
 #~ msgid "API Forum"
 #~ msgstr "Europeana - Podmínky používání"
-
-#~ msgid "mailing list"
-#~ msgstr "přihlásit do našeho adresáře,"
 
 #~ msgid "Explore Europeana 1914-1918"
 #~ msgstr "Europeana - často kladené dotazy"
@@ -6350,20 +6380,11 @@ msgstr ""
 #~ msgid "1914-1918"
 #~ msgstr "Europeana - často kladené dotazy"
 
-#~ msgid "Table view"
-#~ msgstr "Časová osa"
-
-#~ msgid "Europe's culture - collected for you"
-#~ msgstr "Vrať se na domovskou stránku"
-
 #~ msgid "Explore our wide range of virtual exhibitions"
 #~ msgstr "je virtuální exibice představující"
 
 #~ msgid "Explore More - Virtual Exhibitions"
 #~ msgstr "je virtuální exibice představující"
-
-#~ msgid "Explore the Europeana 1914-1918 collections"
-#~ msgstr "nových položkách v Europeaně"
 
 #~ msgid "Visit Europeana 1914-1918"
 #~ msgstr "Europeana - často kladené dotazy"
@@ -6375,9 +6396,6 @@ msgstr ""
 #~ msgstr "Co jsou Moje Europeana?"
 
 #~ msgid "Updated content"
-#~ msgstr "Související obsah"
-
-#~ msgid "Removed content"
 #~ msgstr "Související obsah"
 
 #~ msgid ""
@@ -6424,9 +6442,6 @@ msgstr ""
 
 #~ msgid "Sep"
 #~ msgstr "Mapa stránek"
-
-#~ msgid "Terms of use & Policies"
-#~ msgstr "Podmínky užití"
 
 #~ msgid "Click here to visit our exhibition, 'Wiki Loves Art Nouveau'"
 #~ msgstr "Europeana - Evropské čtení"
@@ -6484,9 +6499,6 @@ msgstr ""
 
 #~ msgid "Europe"
 #~ msgstr "Evropa"
-
-#~ msgid "Italy"
-#~ msgstr "Itálie"
 
 #~ msgid "Click here to visit our exhibition on Art Nouveau"
 #~ msgstr "Europeana - Evropské čtení"
@@ -6566,9 +6578,6 @@ msgstr ""
 #~ "stránek ve všech podobách, formátech a prostřednictvím všech médií na "
 #~ "celém světě."
 
-#~ msgid "Transform"
-#~ msgstr "Přeměnit"
-
 #~ msgid ""
 #~ "to alter, transform, translate, create adaptations, summaries or extracts "
 #~ "of the content of this Website or to make other derivative works based on "
@@ -6580,9 +6589,6 @@ msgstr ""
 
 #~ msgid "Under the following conditions"
 #~ msgstr "Za těchto podmínek"
-
-#~ msgid "Attribution"
-#~ msgstr "Nutnost citovat zdroj"
 
 #~ msgid ""
 #~ "You must give attribution to Europeana and the institution(s) whose name "
@@ -6639,9 +6645,6 @@ msgstr ""
 
 #~ msgid "the Terms of use"
 #~ msgstr "Podmínky používání"
-
-#~ msgid "Other Rights"
-#~ msgstr "Jiná práva"
 
 #~ msgid "In no way do these Terms of Use affect any of the following rights"
 #~ msgstr ""
@@ -6717,13 +6720,6 @@ msgstr ""
 #~ msgstr "Plnění Podmínek užívání"
 
 #~ msgid ""
-#~ "By exercising any rights to the Website on grounds of these Terms of Use, "
-#~ "you accept and agree to be bound by these Terms of Use"
-#~ msgstr ""
-#~ "Výkonem jakýchkoli práv k Webovým stránkám na základě těchto Podmínek "
-#~ "užívání bereš na vědomí jejich závaznost a souhlasíš s nimi"
-
-#~ msgid ""
 #~ "The Europeana Foundation reserves the right to amend the Terms of Use. "
 #~ "Use of any rights to the Website will be subject to the amended Terms of "
 #~ "Use once you have become aware of the amendments and have reasonably been "
@@ -6780,9 +6776,6 @@ msgstr ""
 #~ msgid "Service infrastructure"
 #~ msgstr "Infrastruktura pro externí služby"
 
-#~ msgid "User-Generated content"
-#~ msgstr "Obsah vytvářený uživateli"
-
 #~ msgid "Policies Made Easy"
 #~ msgstr "Podmínky užití"
 
@@ -6807,9 +6800,6 @@ msgstr ""
 #~ msgid "Click here for the Terms and Policies page"
 #~ msgstr "Vrať se na domovskou stránku"
 
-#~ msgid "Click here for the Europeana Terms of Use"
-#~ msgstr "Vrať se na domovskou stránku"
-
 #~ msgid "Click here for the Europeana Metadata Usage Guidelines"
 #~ msgstr "Vrať se na domovskou stránku"
 
@@ -6820,9 +6810,6 @@ msgstr ""
 #~ msgstr "Vrať se na domovskou stránku"
 
 #~ msgid "Accessing our Linked Open Data"
-#~ msgstr "Provázaná otevřená data"
-
-#~ msgid "Click here for the Linked Data Sources"
 #~ msgstr "Provázaná otevřená data"
 
 #~ msgid "Contributing data to Europeana"
@@ -6879,12 +6866,6 @@ msgstr ""
 #~ msgid "Click here to play"
 #~ msgstr "Obsah vytvářený uživateli"
 
-#~ msgid "Click here to read"
-#~ msgstr "Obsah vytvářený uživateli"
-
-#~ msgid "Click here to view"
-#~ msgstr "Obsah vytvářený uživateli"
-
 #~ msgid "March"
 #~ msgstr "Frázové vyhledávání"
 
@@ -6913,9 +6894,6 @@ msgstr ""
 
 #~ msgid "Exhibition: Reading Europe (opens in a new window)"
 #~ msgstr "Europeana - Evropské čtení"
-
-#~ msgid "Europeana - Background"
-#~ msgstr "Europeana - Východiska"
 
 #~ msgid ""
 #~ "Europeana was launched in 2008, with the goal of making Europe's cultural "
@@ -7050,9 +7028,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Můžeš se k Europeanám připojit prostřednictvím našich skupin na "
 #~ "sociálních mediích a zpravodajských kanálů RSS."
-
-#~ msgid "Contact Details"
-#~ msgstr "Kontaktní informace"
 
 #~ msgid "For interviews with key Europeana experts, please contact"
 #~ msgstr "Pro rozhovory s klíčovými odborníky European prosím kontaktujte"
