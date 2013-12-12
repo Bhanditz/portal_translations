@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-21 10:18+0100\n"
+"POT-Creation-Date: 2013-12-03 13:27+0100\n"
 "PO-Revision-Date: 2013-10-30 18:59\n"
 "Last-Translator: Bulgarian  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1345,6 +1345,7 @@ msgstr ""
 "съдържание."
 
 #: templates/rights/terms-of-use.html:48
+#, fuzzy
 msgid ""
 "Except to the extent required by applicable law, in no event will Europeana "
 "be liable on any legal theory for any special, incidental, consequential, "
@@ -3517,6 +3518,7 @@ msgstr ""
 "with a little xegelasmenos and thy will forget the truth."
 
 #: templates/static_pages/prop_file.html:435
+#, fuzzy
 msgid ""
 "The female personification of Europa sits on a horse in a library. In her "
 "hands a sceptre and a cornucopia. She is joined by putti with attributes "
@@ -4414,6 +4416,21 @@ msgstr "API-ключ"
 #: templates/static_pages/prop_file.html:993
 msgid "Number of calls"
 msgstr "Брой извиквания"
+
+#: templates/static_pages/prop_file.html:995
+#: templates/static_pages/prop_file.html:996
+msgid "Can I use it?"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:997
+#, fuzzy
+msgid "Yes, with attribution"
+msgstr "Europeana атрибути"
+
+#: templates/static_pages/prop_file.html:998
+#, fuzzy
+msgid "Yes, with restrictions"
+msgstr "Europeana атрибути"
 
 #: templates/static_pages/sitemap.html:4
 msgid "Europeana - Sitemap"
@@ -6276,6 +6293,20 @@ msgid "We hope you enjoy using the new-look Europeana."
 msgstr ""
 "Надяваме се да се забавлявате докато използвате Europenana в новия и дизайн."
 
+#, fuzzy
+#~ msgid ""
+#~ "Please read our Privacy Policy Statement to find out what information we "
+#~ "log and how we use ifr is the largest aggregator, providing content from "
+#~ "about 480 organisations in France, including the Louvre and the Musée "
+#~ "d’Orsay. The number of organisations contributing to an aggregator is "
+#~ "shown in brackets after the aggregator’s name, e.g. Videoactive (10)"
+#~ msgstr ""
+#~ "Моля прочетете нашата политика за Защита на личните данни, за да откриете "
+#~ "каква информация записваме и как я използваме. Europeana събира "
+#~ "следното:  лог файлове, файлове тип cookie (\"бисквитка\") и информация, "
+#~ "която изрично изискваме потребителят да ни предостави при регистрацията "
+#~ "или при използване на електронната форма за комуникация с Europeana."
+
 #~ msgid ""
 #~ "Nessun dorma (English: None shall sleep) is an aria from the final act of "
 #~ "Giacomo Puccini's opera Turandot, and is one of the best-known tenor "
@@ -6370,21 +6401,6 @@ msgstr ""
 #~ "Убедете се, че потребителите са запознати с правата на достъп до "
 #~ "метаданните в Europeana и познават тези насоки. Един от начините да "
 #~ "направите това е да запазите непроменена връзката към CC0 Public Domain. "
-
-#~ msgid ""
-#~ "Please read our Privacy Policy Statement to find out what information we "
-#~ "log and how we use it. We collect the following: Log Files, cookies and "
-#~ "information that we explicitly ask you to provide about yourself upon "
-#~ "registration or upon using any electronic forms of cuding the Louvre and "
-#~ "the Musée d’Orsay. The number of organisations contributing to an "
-#~ "aggregator is shown in brackets after the aggregator’s name, e.g. "
-#~ "Videoactive (10)"
-#~ msgstr ""
-#~ "Моля прочетете нашата политика за Защита на личните данни, за да откриете "
-#~ "каква информация записваме и как я използваме. Europeana събира "
-#~ "следното:  лог файлове, файлове тип cookie (\"бисквитка\") и информация, "
-#~ "която изрично изискваме потребителят да ни предостави при регистрацията "
-#~ "или при използване на електронната форма за комуникация с Europeana."
 
 #~ msgid "Europeana - Terms for User Contributions"
 #~ msgstr "Europeana - Условия за принос на потребителите"
