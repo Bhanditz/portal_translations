@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-03-21 21:40+0100\n"
-"PO-Revision-Date: 2013-12-03 13:19\n"
+"PO-Revision-Date: 2013-12-05 17:00\n"
 "Last-Translator: Portuguese  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -100,7 +100,7 @@ msgstr "Novos conteúdos"
 #: templates/static_pages/usingeuropeana_search.html:60
 #: templates/static_pages/usingeuropeana_search1.html:54
 msgid "By provider"
-msgstr "Por fornecedor de conteúdos"
+msgstr "Por agregador"
 
 #: templates/explore_leftmenu.html:10 templates/static_pages/prop_file.html:37
 #: templates/static_pages/prop_file.html:562
@@ -656,7 +656,7 @@ msgstr "A Europeana pede-lhe, no entanto, que faça referência e identifique de
 
 #: templates/rights/metadata-usage-guidelines.html:26
 msgid "Give credit where credit is due."
-msgstr ""
+msgstr "Dar crédito onde o crédito é devido."
 
 #: templates/rights/metadata-usage-guidelines.html:30
 msgid "Give attribution to the data provider and all contributing data aggregators, including Europeana. Aggregators perform a crucial task in collecting, storing and harmonising data so that it is more widely accessible and interoperable."
@@ -1967,7 +1967,7 @@ msgstr "Última atualização"
 
 #: templates/static_pages/newcontent1.html:31
 msgid "Provider / Data Provider"
-msgstr "Fornecedor de conteúdos"
+msgstr "Agregador / Fornecedor de conteúdos"
 
 #: templates/static_pages/newcontent1.html:31
 msgid "New/update"
@@ -2162,7 +2162,7 @@ msgstr "Desativado"
 #: templates/static_pages/prop_file.html:5
 #: templates/static_pages/prop_file1.html:5
 msgid "I understand that My Europeana gives me the opportunity to create tags for any item I wish. I agree that I will not create any tags that could be considered libelous, harmful, threatening, unlawful, defamatory,infringing, abusive, inflammatory, harassing, pornographic, obscene, fraudulent, invasive of privacy orpublicity rights, hateful, or racially, ethnically or otherwise objectionable. By clicking this box I agreeto abide by this agreement, and understand that if I don't my membership of My Europeana will be terminated."
-msgstr ""
+msgstr "Compreendo que a Minha Europeana me dá a oportunidade de criar etiquetas para qualquer item que pretenda. Comprometo-me a não criar etiquetas que possam ser consideradas injuriosas, nocivas, ameaçadoras, ilegais, difamatórias, infratoras, abusivas, inflamatórias, persecutórias, pornográficas, obscenas, fraudulentas, invasivas da privacidade ou publicitárias, racistas ou de outra forma questionáveis. Ao clicar nesta caixa aceito as condições deste acordo e compreendo que, se não o cumprir, a minha adesão à Minha Europeana será concelada."
 
 #: templates/static_pages/prop_file.html:6
 #: templates/static_pages/prop_file1.html:6
@@ -2796,7 +2796,7 @@ msgstr "Ver no contexto original"
 #: templates/static_pages/prop_file.html:817
 #: templates/static_pages/prop_file1.html:133
 msgid "Provider"
-msgstr "Fornecedor de conteúdos"
+msgstr "Agregador"
 
 #: templates/static_pages/prop_file.html:134
 #: templates/static_pages/prop_file.html:227
@@ -2853,7 +2853,7 @@ msgstr "Remover"
 #: templates/static_pages/prop_file.html:141
 #: templates/static_pages/prop_file1.html:141
 msgid "No saved items"
-msgstr "Sem items guardados"
+msgstr "Sem itens guardados"
 
 #: templates/static_pages/prop_file.html:142
 #: templates/static_pages/prop_file1.html:142
@@ -3141,7 +3141,7 @@ msgstr "Português (por)"
 #: templates/static_pages/prop_file.html:200
 #: templates/static_pages/prop_file1.html:200
 msgid "Romanian (rom)"
-msgstr ""
+msgstr "Romeno"
 
 #: templates/static_pages/prop_file.html:201
 #: templates/static_pages/prop_file1.html:201
@@ -3754,7 +3754,7 @@ msgstr "Clique para pesquisar este termo em serviços externos"
 #: templates/static_pages/prop_file1.html:329
 #: templates/static_pages/prop_file1.html:331
 msgid "Remote Search Widget"
-msgstr "Remote Search Widget"
+msgstr "Search Widget remoto"
 
 #: templates/static_pages/prop_file.html:330
 #: templates/static_pages/prop_file1.html:330
@@ -3764,12 +3764,12 @@ msgstr "Pode usar o link abaixo para criar um plug-in personalizado para inclus�
 #: templates/static_pages/prop_file.html:332
 #: templates/static_pages/prop_file1.html:332
 msgid "Europeana Search Widget"
-msgstr "Logos Europeana"
+msgstr "Search Widget da Europeana"
 
 #: templates/static_pages/prop_file.html:335
 #: templates/static_pages/prop_file1.html:335
 msgid "What is Europeana's remote search widget?"
-msgstr "Logos Europeana"
+msgstr "O que é o remote search widget da Europeana?"
 
 #: templates/static_pages/prop_file.html:336
 #: templates/static_pages/prop_file1.html:336
@@ -3779,7 +3779,7 @@ msgstr "O Widget de pesquisa remota é um plugin adaptado para pesquisar e exibi
 #: templates/static_pages/prop_file.html:337
 #: templates/static_pages/prop_file1.html:337
 msgid "What is a plugin?"
-msgstr "O que é a Minha Europeana?"
+msgstr "O que é um plugin?"
 
 #: templates/static_pages/prop_file.html:338
 #: templates/static_pages/prop_file1.html:338
@@ -3789,7 +3789,7 @@ msgstr "O plugin é simplesmente um pedaço de código que pode ser copiado e co
 #: templates/static_pages/prop_file.html:339
 #: templates/static_pages/prop_file1.html:339
 msgid "What will the plugin look like?"
-msgstr "O que é a Minha Europeana?"
+msgstr "Qual será o aspeto do plugin?"
 
 #: templates/static_pages/prop_file.html:340
 #: templates/static_pages/prop_file1.html:340
@@ -3884,7 +3884,7 @@ msgstr "Tipos de meio"
 #: templates/static_pages/prop_file.html:358
 #: templates/static_pages/prop_file1.html:358
 msgid "Providers"
-msgstr "Fornecedores de conteúdos"
+msgstr "Agregadores"
 
 #: templates/static_pages/prop_file.html:359
 #: templates/static_pages/prop_file1.html:359
@@ -4090,39 +4090,39 @@ msgstr "Em destaque"
 
 #: templates/static_pages/prop_file.html:402
 msgid "Systema Naturae (sometimes written Systema Natur&aelig; with the ligature &aelig;) was one of the major works of the Swedish botanist, zoologist and physician Carolus Linnaeus and introduced the Linnaean taxonomy. The tenth edition of this book is considered the starting point of zoological nomenclature. In 1766-1768 Linnaeus published the much enhanced 12th edition, the last under his authorship. Another again enhanced work in the same style and entitled &ldquo;Systema Naturae&rdquo; was published by Johann Friedrich Gmelin between 1788 and 1793."
-msgstr ""
+msgstr "Systema Naturae (por vezes usa-se a ligatura æ - Systema Naturæ) foi uma das principais obras do botânico, zoologista e físico sueco Carolus Linnaeus, e introduziu a taxonomia de Lineu. A décima edição deste livro é considerada o ponto de partida da nomenclatura zoológica. Em 1766-1768 Linnaeus publicou a 12ª edição, muito aumentada, a última da sua autoria. Outra obra, novamente aumentada, no mesmo estilo e intitulada Systema Naturae, foi publicada por Johann Friedrich Gmelin entre 1788 e 1793."
 
 #: templates/static_pages/prop_file.html:413
 msgid "Wallpaper with green background colour, flowers in white and strong red, and large red flowers with yellow and blue centres. The work of interior architect Josef Frank represented something completely new on the Swedish wallpaper market. Eldblomma (eng. &ldquo;Flower of Fire&rdquo;) was printed by the Norrk&ouml;ping Wallpaper Factory beginning in 1947."
-msgstr ""
+msgstr "Papel de parede com fundo verde, flores em tons de branco e verde forte, e grandes flores vermelhas com centro em amarelo e azul. A obra, do arquiteto de interiores Josef Frank, representou algo de completamente novo no mercado sueco do papel de parede. Eldblomma (em português, \"Flor de Fogo\") foi impresso pela  Norrkoping Wallpaper Factory a partir de 1947."
 
 #: templates/static_pages/prop_file.html:424
 msgid "Axe with polished surfaces, pointed heel, plano-convexa cross section, asymmetric beveled edges and wide straight edge. It presents three incisions cross, shallow and irregular stroke, in the center of one of the faces."
-msgstr ""
+msgstr "Machado de superfícies polidas, base afiada, secção cruzada plano-convexa, com bordas biseladas assimétricas e bordo largo e direito. Apresenta três incisões em cruz, golpe irregular e pouco profundo, no centro de uma das faces."
 
 #: templates/static_pages/prop_file.html:434
 msgid "Celestial globes are used to show the apparent positions of the stars in the sky, watch this video from the Museo Galileo - Institute and Museum of the History of Science."
-msgstr ""
+msgstr "Os globos celestes são utilizados para mostrar a posição das estrelas no céu. Veja este vídeo do Museo Galileo - Instituto e Museu da Hisória da Ciência."
 
 #: templates/static_pages/prop_file.html:444
 msgid "Inspired by a homonymous short story by Edgar Allan Poe, the illustration depicts the heartless heroine Ligeia drawn in pen and ink. On the back an inscription handwritten by the author: &ldquo;In the excitement of my opium dreams (for I was habitually fettered in the shackles of the drugs. I would call aloud upon her name, during the silence of the night, or among the sheltered recesses of the glens by day.&rdquo;"
-msgstr ""
+msgstr "A ilustração. inspiradas num conto homónimo de Edgar Allan Poe, representa a heroína Ligeia desenhada a caneta e tinta. No verso, uma inscrição manuscrita do autor: \"In the excitement of my opium dreams (for I was habitually fettered in the shackles of the drugs. I would call aloud upon her name, during the silence of the night, or among the sheltered recesses of the glens by day.\""
 
 #: templates/static_pages/prop_file.html:454
 msgid "The church of Virgin Mary's Assumption is located at the district of Panagia (Virgin Mary), in the old city of Kavala, between the lighthouse and the square of Mohamed (Mehmet/Muhammad) Ali Pasha. It was built after 1965, over the ruins of an earlier post-Byzantine church of the 15th century. The post-Byzantine church was a three-aisled basilica with a small dome and a tall belfry, which survives until today."
-msgstr ""
+msgstr "A igreja da Assunção de Nossa Senhora está situada no distrito de Panagia (Virgem Maria), na cidade velha de Kavala, entre o farol e a praça de Mohamed (Mehmet/Muhammad) Ali Pasha. Foi construída depois de 1965, sobre as ruínas de uma igreja pós-bizantina do século 15. A igreja pós-bizantina era uma basílica de três naves com uma pequena cúpula e um campanário alto, que existe ainda hoje."
 
 #: templates/static_pages/prop_file.html:464
 msgid "Hinged inr&#333; with an exterior in golden, black and red lacquer depicting a rooster and a hen. The interior is in silver lacquer and contains four eggs in white, black and golden lacquer with painted insects and vegatal motifs. The netsuke is also in white lacquer with a golden chicken. An inr&#333; is a traditional Japanese case for holding small objects, suspended from the sash of the kimono."
-msgstr ""
+msgstr "Inrō articulado com o exterior lacado em dourado, preto e vermelho, ornamentado com um galo e uma galinha. O interior é lacado em prateado e contém quatro ovos em verniz branco, preto e dourado, com insectos e motivos vegetais. A netsuke é também de laca branca com uma galinha dourada. Um inrō é uma caixa tradicional japonesa para guardar pequenos objetos, e é usada suspensa da faixa do quimono."
 
 #: templates/static_pages/prop_file.html:475
 msgid "The Gemma Augustea (Gem of Augustus) is a cameo engraved gem cut from double-layered Arabian onyx stone, and is a masterpiece of the Imperial gem workshop in Rome. It is commonly believed that the gem cutter who created Gemma Augustea was either Dioscurides or one of his disciples."
-msgstr ""
+msgstr "A Gemma Augustea (Gem of Augustus) é um camafeu gravado em pedra preciosa, cortado de uma pedra onix árabe de duas camadas, e é uma obra prima da glíptica imperial romana. Acredita-se que o artífice que criou a Gemma Augustea poderá ter sido Dioscurides ou um dos seus discípulos."
 
 #: templates/static_pages/prop_file.html:484
 msgid "Martin Luther was a German monk, priest, professor of theology and important figure in the Protestant Reformation. This painting from 1532, was by his close friend, Lucas Cranach the Elder, a German Renaissance painter reknowned for his portraits. "
-msgstr ""
+msgstr "Martinho Lutero foi um sacerdote católico, professor de teologia e uma figura central da Reforma Protestente. Este quadro, datado de 1532, foi pintado pelo seu amigo Lucas Cranach o Velho, um pintor renacentista germânico, famoso pelos seus retratos."
 
 #: templates/static_pages/prop_file.html:491
 msgid "Visit 'Leaving Europe: A new life in America'"
@@ -4134,7 +4134,7 @@ msgstr "Nova exposição : Leaving Europe"
 
 #: templates/static_pages/prop_file.html:497
 msgid "Why did 30 million Europeans emigrate to America in the 19th/20th centuries? This exhibition of rarely seen pictures tells their story."
-msgstr ""
+msgstr "O que levou 30 milhões de europeaus a emigrar para a América nos séculos 19/20? Esta exposição de imagens raramente vistas conta a sua história."
 
 #: templates/static_pages/prop_file.html:498
 msgid "Open Exhibition"
@@ -4143,15 +4143,15 @@ msgstr "Exposição aberta"
 #: templates/static_pages/prop_file.html:503
 #: templates/static_pages/prop_file.html:506
 msgid "For Our Shoe Lovers"
-msgstr ""
+msgstr "Para os nossos Apaixonados por Sapatos "
 
 #: templates/static_pages/prop_file.html:507
 msgid "We've teamed up with Europeana Fashion and Northampton Museums to bring you a selection of weird and wonderful shoes from the world's biggest collection."
-msgstr ""
+msgstr "Juntámo-nos à Europeana Fashion e aos Museus de Northampton para lhe trazer uma seleção de maravilhos e originais sapatos, da maior coleção do mundo."
 
 #: templates/static_pages/prop_file.html:508
 msgid "Explore collection"
-msgstr ""
+msgstr "Explore a coleção"
 
 #: templates/static_pages/prop_file.html:522
 #: templates/static_pages/prop_file.html:523
@@ -4221,7 +4221,7 @@ msgstr "Aceder a conteúdos profissional"
 #: templates/static_pages/prop_file.html:649
 #: templates/static_pages/prop_file1.html:743
 msgid "Social media activities"
-msgstr ""
+msgstr "Atividades nas redes sociais"
 
 #: templates/static_pages/prop_file.html:650
 #: templates/static_pages/prop_file1.html:744
@@ -4386,12 +4386,12 @@ msgstr "Zoom"
 #: templates/static_pages/prop_file.html:683
 #: templates/static_pages/prop_file1.html:777
 msgid "Zoom in"
-msgstr ""
+msgstr "Mais zoom"
 
 #: templates/static_pages/prop_file.html:684
 #: templates/static_pages/prop_file1.html:778
 msgid "Zoom out"
-msgstr ""
+msgstr "Menos zoom"
 
 #: templates/static_pages/prop_file.html:685
 #: templates/static_pages/prop_file1.html:779
@@ -4401,12 +4401,12 @@ msgstr "Escolha entre diferentes tipos de mapas"
 #: templates/static_pages/prop_file.html:686
 #: templates/static_pages/prop_file1.html:780
 msgid "Navigate map: click and hold left mouse-button, then move mouse to change the view"
-msgstr ""
+msgstr "Navegar no mapa: carregue no botão esquerdo do rato, de seguida mova o rato para mudar a vista "
 
 #: templates/static_pages/prop_file.html:687
 #: templates/static_pages/prop_file1.html:781
 msgid "Select via freeform: add anchor points with left mouse-click, double click to finish the shape"
-msgstr ""
+msgstr "Selecionar através do freeform: adicione pontos-âncora com o botão esquerdo do rato, faça duplo clique para terminar a forma"
 
 #: templates/static_pages/prop_file.html:688
 #: templates/static_pages/prop_file1.html:782
@@ -4458,12 +4458,12 @@ msgstr "Conteúdo criado pelo utilizador"
 #: templates/static_pages/prop_file.html:698
 #: templates/static_pages/prop_file1.html:792
 msgid "Play"
-msgstr ""
+msgstr "Reproduzir"
 
 #: templates/static_pages/prop_file.html:699
 #: templates/static_pages/prop_file1.html:793
 msgid "Read"
-msgstr ""
+msgstr "Ler"
 
 #: templates/static_pages/prop_file.html:700
 #: templates/static_pages/prop_file1.html:794
@@ -4613,19 +4613,19 @@ msgstr "A Biblioteca Nacional da Áustria é a maior biblioteca da Áústria, co
 
 #: templates/static_pages/prop_file.html:762
 msgid "The Rijksmuseum is the national museum of the Netherlands, dedicated to arts, crafts and history. Through Europeana explore over 100,000 public domain images of the collection of the Rijksmuseum."
-msgstr ""
+msgstr "O Rijksmuseum é um museu nacional dos Países Baixos, dedicado à artes e história.  Através da Europeana, explore mais de 100.000 imagens no domínio público, da coleção do Rijksmuseum."
 
 #: templates/static_pages/prop_file.html:773
 msgid "Crawford Art Gallery, a National Cultural Institution and regional art museum for Munster, is dedicated to the visual arts, both historic and contemporary. Located in the heart of Cork city, beside the Opera House, the Gallery is a critical part of Ireland's cultural and tourism infrastructure, welcoming over 200,000 visitors a year."
-msgstr ""
+msgstr "A Crawford Art Gallery, uma instituição cultural e museu de arte regional de Munster, é dedicado às artes visuais, históricas e também contemporâneas. Localizada no centro da cidade de Cork, perto da Opera House, a Galeria é um elemento essencial da infraestrutura cultural e turística da Irlanda, recebendo mais de 200.000 visitantes por ano."
 
 #: templates/static_pages/prop_file.html:783
 msgid "In the Swiss National Library you will find everything about Switzerland; everything which is published in the country or written by Swiss authors. Every publication, from Swiss daily newspapers to novels, from documentaries and yearbooks to official publications and geographical maps. In our two most important special collections, the Prints and Drawings Department and the Swiss Literary Archives you can find photographs, etchings, posters, postcards and manuscripts."
-msgstr ""
+msgstr "Na Biblioteca Nacional da Suíça é possível encontrar tudo sobre o país; tudo o que é publicado no país ou escrito por autores suíços. Todas as publicações, de jornais diários suíços a romances, de documentários e anuários a publicações oficiais e mapas geográficos. Nas nossas duas coleções especiais mais importantes, o Departiamento de Impresso e Desenhos e os Aquivos Literários Suíços, podem encontrar-se fotografias, gravuras, cartazes, postais e manuscritos."
 
 #: templates/static_pages/prop_file.html:794
 msgid "The Museum of Architecture of the Technische Universit&auml;t Berlin was founded in 1885 as part of the Technische Hochschule Charlottenburg. It holds a collection of drawings, prints and photographs related to architecture, predominantely by 19th and 20th century Prussian architects. The Museum is one of the oldest institutions of its kind in Europe."
-msgstr ""
+msgstr "O Museu de Arquitetura da Universidade Técnica de Berlim foi fundado em 1885 como parte da Technische Hochschule Charlottenburg. Alberga uma coleção de desenhos, gravuras e fotografias relacionadas com arquitetura, predominantemente de arquitetos prussianos dos séculos 19 e 20. O Museu é uma das instituições mais antigas da Europa no seu género."
 
 #: templates/static_pages/prop_file.html:801
 #: templates/static_pages/prop_file1.html:871
@@ -4670,17 +4670,17 @@ msgstr "Registar parâmetros"
 #: templates/static_pages/prop_file.html:809
 #: templates/static_pages/prop_file1.html:879
 msgid "Record id"
-msgstr ""
+msgstr "ID do registo"
 
 #: templates/static_pages/prop_file.html:810
 #: templates/static_pages/prop_file1.html:880
 msgid "Request URL"
-msgstr ""
+msgstr "Request URL"
 
 #: templates/static_pages/prop_file.html:811
 #: templates/static_pages/prop_file1.html:881
 msgid "JSON response"
-msgstr ""
+msgstr "Resposta JSON"
 
 #: templates/static_pages/prop_file.html:813
 msgid "Search also for:"
@@ -4696,18 +4696,18 @@ msgstr "O quê"
 
 #: templates/static_pages/prop_file.html:818
 msgid "aboutus.html"
-msgstr ""
+msgstr "aboutus.html"
 
 #: templates/static_pages/prop_file.html:821
 #: templates/static_pages/prop_file.html:825
 #: templates/static_pages/prop_file.html:829
 #: templates/static_pages/prop_file.html:833
 msgid "_self"
-msgstr ""
+msgstr "_self"
 
 #: templates/static_pages/prop_file.html:822
 msgid "rights/terms-and-policies.html"
-msgstr ""
+msgstr "rights/terms-and-policies.html"
 
 #: templates/static_pages/prop_file.html:823
 #: templates/static_pages/prop_file.html:824
@@ -4716,11 +4716,11 @@ msgstr "Termos de utilização e Políticas"
 
 #: templates/static_pages/prop_file.html:826
 msgid "contact.html"
-msgstr ""
+msgstr "contact.html"
 
 #: templates/static_pages/prop_file.html:830
 msgid "sitemap.html"
-msgstr ""
+msgstr "sitemap.html"
 
 #: templates/static_pages/prop_file.html:835
 #: templates/static_pages/usingeuropeana_myeuropeana.html:17
@@ -4745,7 +4745,7 @@ msgstr "Limite de utilização"
 
 #: templates/static_pages/prop_file.html:840
 msgid "Role"
-msgstr ""
+msgstr "Função"
 
 #: templates/static_pages/prop_file.html:841
 msgid "Administrator's page"
@@ -4757,15 +4757,15 @@ msgstr "Remover chave API"
 
 #: templates/static_pages/prop_file.html:843
 msgid "Limit"
-msgstr ""
+msgstr "Limitar"
 
 #: templates/static_pages/prop_file.html:844
 msgid "Remove user"
-msgstr ""
+msgstr "Remover utilizador"
 
 #: templates/static_pages/prop_file.html:845
 msgid "Block user"
-msgstr ""
+msgstr "Bloquear utilizador"
 
 #: templates/static_pages/prop_file.html:846
 msgid "Export API keys to CSV"
@@ -4773,11 +4773,11 @@ msgstr "Exportar chaves API para CSV"
 
 #: templates/static_pages/prop_file.html:847
 msgid "Export users to CSV"
-msgstr ""
+msgstr "Exportar utilizadores para CSV"
 
 #: templates/static_pages/prop_file.html:848
 msgid "User name"
-msgstr ""
+msgstr "Nome de utilizador"
 
 #: templates/static_pages/prop_file.html:849
 msgid "Registration"
@@ -4785,7 +4785,7 @@ msgstr "Registo"
 
 #: templates/static_pages/prop_file.html:851
 msgid "Visit the website of"
-msgstr ""
+msgstr "Visite o sítio web"
 
 #: templates/static_pages/prop_file.html:852
 msgid "View the latest content from our partners"
@@ -4799,7 +4799,7 @@ msgstr "Outros sites da Europeana"
 
 #: templates/static_pages/prop_file.html:860
 msgid "Europeana Exhibitions"
-msgstr ""
+msgstr "Exposições da Europeana"
 
 #: templates/static_pages/prop_file.html:868
 #: templates/static_pages/sitemap.html:19
@@ -4808,7 +4808,7 @@ msgstr "Europeana 1914-1918"
 
 #: templates/static_pages/prop_file.html:873
 msgid "Remix"
-msgstr ""
+msgstr "Remix"
 
 #: templates/static_pages/prop_file.html:876
 #: templates/static_pages/sitemap.html:21
@@ -4824,7 +4824,7 @@ msgstr "Profissional"
 #: templates/static_pages/prop_file.html:921
 #: templates/static_pages/sitemap.html:39
 msgid "API Methods"
-msgstr ""
+msgstr "Métodos API"
 
 #: templates/static_pages/prop_file.html:928
 msgid "Change limit for an API key"
@@ -4832,15 +4832,15 @@ msgstr "Alterar limite chave API"
 
 #: templates/static_pages/prop_file.html:929
 msgid "Company or Institution"
-msgstr ""
+msgstr "Instituição ou empresa"
 
 #: templates/static_pages/prop_file.html:930
 msgid "Telephone contact"
-msgstr ""
+msgstr "Contacto telefónico"
 
 #: templates/static_pages/prop_file.html:931
 msgid "Address"
-msgstr ""
+msgstr "Morada"
 
 #: templates/static_pages/prop_file.html:932
 msgid "I confirm that I have read and agree to the"
@@ -4848,15 +4848,15 @@ msgstr "Confirmo que li e concordo com o"
 
 #: templates/static_pages/prop_file.html:933
 msgid "Next in sequence"
-msgstr ""
+msgstr "Próximo na sequência"
 
 #: templates/static_pages/prop_file.html:934
 msgid "Date of creation"
-msgstr ""
+msgstr "Data de criação"
 
 #: templates/static_pages/prop_file.html:935
 msgid "Is part of"
-msgstr ""
+msgstr "É parte de"
 
 #: templates/static_pages/prop_file.html:946
 msgid "Titles"
@@ -4907,17 +4907,17 @@ msgstr "Adicionar mais palavras-chave"
 
 #: templates/static_pages/prop_file.html:957
 msgid "+ Add"
-msgstr ""
+msgstr "+ Adicionar"
 
 #: templates/static_pages/prop_file.html:958
 #: templates/static_pages/prop_file1.html:882
 msgid "Field of work"
-msgstr ""
+msgstr "Área de interesse"
 
 #: templates/static_pages/prop_file.html:959
 #: templates/static_pages/prop_file1.html:883
 msgid "Please, select"
-msgstr ""
+msgstr "Por favor, selecione"
 
 #: templates/static_pages/prop_file.html:961
 msgid "Please try another search later."
@@ -4953,7 +4953,7 @@ msgstr "para concluir o registo."
 
 #: templates/static_pages/prop_file.html:970
 msgid "Unable to fullfill your request due to malformed query parameters."
-msgstr ""
+msgstr "Não foi possível responder ao seu pedido, os parâmetros da pesquisa não estão corretos"
 
 #: templates/static_pages/prop_file.html:971
 msgid "Unable to get a response from the Search Engine."
@@ -4961,7 +4961,7 @@ msgstr "Não foi possível obter uma resposta do motor de pesquisa"
 
 #: templates/static_pages/prop_file.html:972
 msgid "Unable to fulfill your request due to a malformed query syntax."
-msgstr ""
+msgstr "Não foi possível responder ao seu pedido, a sintaxe da pesquisa não está correta"
 
 #: templates/static_pages/prop_file.html:973
 msgid "We are unable to change the interface to the requested language."
@@ -4969,11 +4969,11 @@ msgstr "Não foi possível alterar o interface para a língua pretendida."
 
 #: templates/static_pages/prop_file.html:974
 msgid "Please try another language from the dropdown list."
-msgstr ""
+msgstr "Por favor tente outra língua a partir da lista."
 
 #: templates/static_pages/prop_file.html:975
 msgid "Number of results shown on the page"
-msgstr ""
+msgstr "Número de resultados apresentados na página"
 
 #: templates/static_pages/prop_file1.html:69
 msgid "Contacts"
@@ -5006,71 +5006,71 @@ msgstr "Por data"
 
 #: templates/static_pages/prop_file1.html:400
 msgid "This painting of Dragalevski monastery is by Joseph Oberbauer (1853-1926), the monastery is situated at the foot of the Vitosha mountain, close to Sofia."
-msgstr ""
+msgstr "Este quadro do mosteiro Dragalevski (situado no sopé do maciço Vitosha, perto de Sófia) foi pintado por Joseph Oberbauer (1853-1926)."
 
 #: templates/static_pages/prop_file1.html:410
 msgid "By the Atelier Madame d'Ora. Anna Pawlowa is widely regarded as one of the finest classical ballet dancers in history."
-msgstr ""
+msgstr "Pelo Atelier Madama d'Ora. Anna Pawlowa é considerada uma das melhores bailarinas da história do ballet clássico."
 
 #: templates/static_pages/prop_file1.html:420
 msgid "A Port Jackson shark and a detail of its gill. Etching by P. Mazell, dated 1789."
-msgstr ""
+msgstr "Um tubarão-de-port-jackon e detalhe das guelras. Gravura de P. Mazell datada de 1789."
 
 #: templates/static_pages/prop_file1.html:430
 msgid "Howard Carter, was an English archaeloogist and Egyptologist famed for co-discovering Tutankhamun's tomb. Opening the sealed doorway to the burial chamber on the 16th February 1923. "
-msgstr ""
+msgstr "Howard Carter, arqueólogo e egiptólogo britânico, ficou conhecido pela co-descoberta do túmulo do faraó Tutankhamon. A abrir a passagem selada para a câmara fúnebre, a 16 de fevereiro de 1923."
 
 #: templates/static_pages/prop_file1.html:440
 msgid "Vladimir Dimitrov (1882-1960) was a Bulgarian painter, considered to be one of the countries greatest artists. Dimitrov was born in Frolesh in 1882, and in 1903 he enrolled in Sofia's 'School of Drawing', where he was first called 'The Master'. Dimitrov was known for using bright colours in his paintings."
-msgstr ""
+msgstr "Vladimir Dimitrov (1882-1960) foi um pintor búlgaro, considerado um dos mais importantes artistas do país. Dimitrov nasceu em Frolesh in 1882, e em 1903 inscreveu-se na Escola de desenho de Sófia, onde começaram a chamar-lhe O Mestre. Dimitrov era conhecido por usar, nos seus quadros, tonalidades vivas e brilhantes."
 
 #: templates/static_pages/prop_file1.html:450
 msgid "Two warriors in armour holding sharks' teeth swords. The man on the left wears a plaited coir (coconut fibre) armour consisting of a te tuta (short shirt or jersey) with diamond-shaped motifs probably worked in black human hair, trousers, and a te otana (cuirass)"
-msgstr ""
+msgstr "Dois guerreiros de armadura segurando espadas de dente de tubarão. O homem à esquerda usa uma proteção de fibra de coco entrançada denominada te tuta com motivos em forma de diamente (provavelmente trabalhados em cabelo humano negro) e uma te otana (couraça)"
 
 #: templates/static_pages/prop_file1.html:460
 msgid "Picture book in the form of a theatre, where the left and right of the back cover two ridges are created, and where the pages open from the Center. Paramount is a scene depicted with curtains and an orchestra."
-msgstr ""
+msgstr "Livro ilustrado com a forma de um teatro, em que a contracapa forma a cobertura e as página abrem a partir do centro. A parte superior é um cenário representado com cortinas e uma orquestra."
 
 #: templates/static_pages/prop_file1.html:470
 msgid "Franceta Pre&#x161;erna (1800-1849) was a Slovene Romantic poet, considered as the Slovene national poet, his legacy in Slovenian culture is enormous, and in 1905 his monument was placed at the central squaer in Ljubjana."
-msgstr ""
+msgstr "France Prešeren (1800-1849) foi um poeta romântico esloveno, e é considerado o poeta nacional do país. O seu legado na cultura eslovena é enorme, e em 1905 foi erigido um monumento em sua honra no centro da praça central de Ljubjana."
 
 #: templates/static_pages/prop_file1.html:480
 msgid "Portrait of Jacob Maris, aged 20, the brother of the artist Matthijs Maris (1839-1917). Maris was noted for his movement away from the Realism of the Hague school, towards more symbollic expressionism."
-msgstr ""
+msgstr "Retrato de Jacob Maris, irmão do artista Matthijs Maris (1839-1917), com a idade de 20 anos. Maris notabilizou-se pelo movimento de afastamento do realismo da escola de Haia e pela aproximação a um expressionismo mais simbólico."
 
 #: templates/static_pages/prop_file1.html:490
 msgid "Photomicrograph of thin section of agate/quartz crystal. Agate is a type of quartz found in a variety of rock but characteristically associated with volcanic rock. Due to the way in which they were formed, agate rock often displays either an regimented banding pattern"
-msgstr ""
+msgstr "Microfotografia de uma fina secção de um cristal ágata/quartzo. Ágata é um tipo de quartzo que pode ser encontrado numa grande variedade de rocha, mas associado normalmente a rocha vulcânica. "
 
 #: templates/static_pages/prop_file1.html:500
 msgid "Before the wedding, well-to-do Bukharan families would invite a goldsmith to their house, where he would make the jewelry for the bride, living there until the dowry preparations were completed. The jewelry was made of gold, colorful semiprecious stones, and pearls, some local and others imported, mainly from Russia."
-msgstr ""
+msgstr "Antes do casamento, famílias prósperas de Bukharan convidavam para sua casa um ourives, que aí preparava as jóias da noiva, e ficava a viver até ficarem concluídos os preparativos do dote. As jóias eram feitas de ouro, pedras semi-preciosas coloridas e pérolas, algumas de origem local, outras importadas maioritariamente da Rússia."
 
 #: templates/static_pages/prop_file1.html:510
 msgid "Pindar (gr. Pindaros) was one of the great Classical Greek poets and his famous for his poems dedicated to the Olympic champions."
-msgstr ""
+msgstr "Pindar (gr. Pindaros) foi um dos grandes poetas clássicos gregos, e ficou conhecido pelos seus poemas dedicados aos campeões olímpicos."
 
 #: templates/static_pages/prop_file1.html:520
 msgid "Milton's poetry and prose reflect deep personal convictions, a passion for freedom and self determination, and the urgent issues and political turbulence of his day."
-msgstr ""
+msgstr "A prosa e poesia de Milton refletem profundas convicções pessoais, uma paixão pela liberdade e autodeterminação, e a turbulência política que marcou a época em que viveu."
 
 #: templates/static_pages/prop_file1.html:530
 msgid "Tsanko Lavrenov was one of the most prominent, influential and distinctive Bulgarian artists of the 20th century. A modernist influenced by the Symbolism and the Secession, best known for his cityscapes of his old town of Plovdiv."
-msgstr ""
+msgstr "Tsanko Lavrenov foi um dos mais proeminentes e distintivos artistas búlgaros do século 20. Um modernista influenciado pelo Simbolismo e pela Secessão, e mais conhecido pelas paisagens da sua cidade de Plovdiv."
 
 #: templates/static_pages/prop_file1.html:540
 msgid "The beautiful Parnassius epaphus is a high altitude butterfly (9,000 to 13,000 ft) which is found in India. It is a member of the Snow Apollo genus Parnassius of the Papilionidae family."
-msgstr ""
+msgstr "A belíssima borboleta Parnassius epaphus habita em altitudes elevadas (9,000 a 13,000 pés) e pode ser encontrada na Índia. Pertence a Snow Apollo genus Parnassius da família Papilionidae."
 
 #: templates/static_pages/prop_file1.html:550
 msgid "Coloured map of the Netherlands and parts of neighboring countries. On the map is a line marking where the enemy troops had advanced in 1672-73."
-msgstr ""
+msgstr "Mapa colorido dos países Baixos e parte dos países circundantes. No mapa consta uma linha que marca o avanço das tropas inimigas em 1672-73."
 
 #: templates/static_pages/prop_file1.html:560
 msgid "This oil painting from 1879, by Finnish painter Arvid Emanuel Liljelund depicts a scene where the Master EN F&auml;rling, and Dr. HA Reinholm are buying a collection of national dresses. The model posing as the peasant was Muukka Elias, who had gone on to study in D&uuml;sseldorf in 1877. "
-msgstr ""
+msgstr "Neste quadro a óleo de 1879, do pintor finlandês Arvid Emanuel Liljelund, é representada uma cena em que o Mestre  F. I. Färling e H.A. Reinholm compram uma coleção de vestidos nacionais. O modelo que posa de aldeão é Muukka Elias, que tinha ido estudar para Dusseldorf em 1877.  "
 
 #: templates/static_pages/prop_file1.html:567
 msgid "Click here to visit our exhibition, 'Untold stories of the First World War'"
@@ -5090,19 +5090,19 @@ msgstr "Exposição: Royal Books Collections"
 
 #: templates/static_pages/prop_file1.html:581
 msgid "Europeana Fashion: Weird and wonderful shoes from the world's biggest collection"
-msgstr ""
+msgstr "Europeana Fashion: sapatos originais e maravilhosos, da maior coleção do mundo"
 
 #: templates/static_pages/prop_file1.html:584
 msgid "Europeana Fashion: Weird &amp; wonderful shoes from the world's biggest collection"
-msgstr ""
+msgstr "Europeana Fashion: sapatos originais e maravilhosos, da maior coleção do mundo"
 
 #: templates/static_pages/prop_file1.html:588
 msgid "Click here to view a Europeana search of items from the Museum of Architecture, Berlin"
-msgstr ""
+msgstr "Clique aqui para ver resultados de uma pesquisa Europeana de itens do Museu de Arquitetura, Berlim "
 
 #: templates/static_pages/prop_file1.html:591
 msgid "Featured Search: The Museum of Architecture, Berlin"
-msgstr ""
+msgstr "Pesquisa em destaque: O Museu de Arquitetura, Berlim"
 
 #: templates/static_pages/prop_file1.html:595
 msgid "Click here to visit our exhibition, 'European Sport Heritage'"
@@ -5128,7 +5128,7 @@ msgstr "Conteúdos semelhantes"
 
 #: templates/static_pages/prop_file1.html:801
 msgid "We're sorry that you can't save anything new to 'My Europeana' right now - we're currently upgrading the site"
-msgstr ""
+msgstr "Lamentamos, de momento não é possível gravar nada novo na \"Minha Europeana\" - estamos a atualizar o site"
 
 #: templates/static_pages/prop_file1.html:814
 #: templates/static_pages/usingeuropeana_results.html:40
@@ -5141,19 +5141,19 @@ msgstr "Subscrever a newsletter!"
 
 #: templates/static_pages/prop_file1.html:835
 msgid "The Rijksmuseum is a Dutch national museum in Amsterdam, the paintings in the collection include works by Vermeer, Rembrandt, Hals, and Steen."
-msgstr ""
+msgstr "O Rijksmuseum é um museu nacional holandês em Amesterdão. Nas suas coleções de pintura incluem-se obras de Vermeer, Rembrandt, Hals e Steen."
 
 #: templates/static_pages/prop_file1.html:845
 msgid "The Austrian National Library is the largest library in Austria. One of the major tasks is to collect and archive all publications which appear in Austria."
-msgstr ""
+msgstr "A Biblioteca Nacional da Aústria é a maior biblioteca  do país. Uma das suas missões é a de recolher e arquivar todas as publicações que são editadas na Áustria."
 
 #: templates/static_pages/prop_file1.html:855
 msgid "The 'Archivo de la Imagen de Castilla La Mancha' is a project to preserve and disseminate thousands of photographs of Castilla La Mancha."
-msgstr ""
+msgstr "O 'Archivo de la Imagen de Castilla La Mancha'  é um projeto que se destina a preservar e difundir milhares de fotografias da região de Castela La Mancha."
 
 #: templates/static_pages/prop_file1.html:865
 msgid "#"
-msgstr ""
+msgstr "#"
 
 #: templates/static_pages/sitemap.html:4
 #: templates/static_pages/sitemap1.html:4
@@ -5167,35 +5167,35 @@ msgstr "Pesquisar na Europeana"
 
 #: templates/static_pages/sitemap.html:37
 msgid "Data structure"
-msgstr ""
+msgstr "Estrutura de dados"
 
 #: templates/static_pages/sitemap.html:38
 msgid "Common Fields"
-msgstr ""
+msgstr "Campos usuais"
 
 #: templates/static_pages/sitemap.html:41
 msgid "OpenSearch"
-msgstr ""
+msgstr "Pesquisa aberta"
 
 #: templates/static_pages/sitemap.html:42
 msgid "Record"
-msgstr ""
+msgstr "Registo"
 
 #: templates/static_pages/sitemap.html:44
 msgid "Suggestions"
-msgstr ""
+msgstr "Sugestões"
 
 #: templates/static_pages/sitemap.html:46
 msgid "Query Syntax"
-msgstr ""
+msgstr "Sintaxe da query"
 
 #: templates/static_pages/sitemap.html:47
 msgid "Europeana Fields"
-msgstr ""
+msgstr "Campos da Europeana"
 
 #: templates/static_pages/sitemap.html:48
 msgid "API1-API2 compatability"
-msgstr ""
+msgstr "Compatibilidade API1-API2"
 
 #: templates/static_pages/sitemap.html:71
 msgid "Press Centre (on Europeana Professional)"
@@ -5235,7 +5235,7 @@ msgstr "Europeana: estado de copyright desconhecido"
 
 #: templates/static_pages/sitemap.html:104
 msgid "Europeana Providers"
-msgstr ""
+msgstr "Agregadores da Europeana"
 
 #: templates/static_pages/sitemap1.html:43
 msgid "Follow us"
@@ -5761,7 +5761,7 @@ msgstr "Clique"
 
 #: templates/static_pages/usingeuropeana_explore1.html:16
 msgid "By Provider"
-msgstr "Por Fornecedor de conteúdos"
+msgstr "Por Agregador"
 
 #: templates/static_pages/usingeuropeana_explore1.html:16
 msgid "tab at the top of the page to browse through the collections from a specific institution and open doors to any museum, library, archive and audio-visual archive that provides content to Europeana."
@@ -5906,7 +5906,7 @@ msgstr "representações virtuais em 3D de objetos, arquitetura ou lugares."
 
 #: templates/static_pages/usingeuropeana_results.html:22
 msgid "You can also sort search results by media type, language, date, country, copyright, or provider using the Refine your search pane of the results screen. See"
-msgstr "Pode também organizar os resultados por tipo de media, idioma, data, país,  estatuto de direitos ou fornecedor de conteúdos, usando o menu 'Restringir a sua pesquisa' à esquerda do ecrã de resultados. Veja"
+msgstr "Pode também organizar os resultados por tipo de media, idioma, data, país,  estatuto de direitos ou fornecedor, usando o menu 'Restringir a sua pesquisa' à esquerda do ecrã de resultados. Veja"
 
 #: templates/static_pages/usingeuropeana_results.html:22
 msgid "for more details."
@@ -6006,7 +6006,7 @@ msgstr "selecione uma opção da lista de idiomas disponíveis. Tenha no entanto
 
 #: templates/static_pages/usingeuropeana_results.html:45
 msgid "The main area of the item page gives you more information about the item. The amount and type of information will vary but may contain the item's name and description along with other information including places, dates, formats, and providers."
-msgstr "A área principal da página do item dá-lhe mais informação sobre o item. A quantidade e a natureza da informação variam, mas pode conter o nome do item e a descrição, bem como outra informação, como lugares, datas, formatos, e fornecedores de conteúdos."
+msgstr "A área principal da página do item dá-lhe mais informação sobre o item. A quantidade e a natureza da informação variam, mas pode conter o nome do item e a descrição, bem como outra informação, como lugares, datas, formatos, e fornecedores."
 
 #: templates/static_pages/usingeuropeana_results.html:47
 msgid "This information may contain links to further details. Select these to find the item in an external service, e.g. the data provider's own website, or to search Europeana for the highlighted term."
@@ -6038,7 +6038,7 @@ msgstr "Procurar também por"
 
 #: templates/static_pages/usingeuropeana_results.html:53
 msgid "pane. This provides links to other searches for items with, for example, the same title, author, format or are from the same provider. A number in brackets, e.g. (33) shows the number of results each of these searches returns. Simply hit the link to perform the search."
-msgstr ". Através desta funcionalidade pode ligar a outras pesquisas para itens, por ex., com o mesmo título, do mesmo autor, com o mesmo formato, ou do mesmo fonecedor de conteúdos. Um número entre parênteses, por ex., (33), indica  número de resultados de cada uma destas pesquisas. Basta clicar no link para efectuar a pesquisa."
+msgstr ". Através desta funcionalidade pode ligar a outras pesquisas para itens, por ex., com o mesmo título, do mesmo autor, com o mesmo formato, ou do mesmo fornecedor. Um número entre parênteses, por ex., (33), indica  número de resultados de cada uma destas pesquisas. Basta clicar no link para efectuar a pesquisa."
 
 #: templates/static_pages/usingeuropeana_results1.html:11
 msgid "Europeana divides search results into 4 main categories: text, images, video and sound."
@@ -6070,7 +6070,7 @@ msgstr "ou num mapa"
 
 #: templates/static_pages/usingeuropeana_results1.html:22
 msgid "You can also sort search results by media type, language, date, country, provider or rights, using the menu on the left of the results screen."
-msgstr "Pode também organizar os resultados por tipo de media, idioma, data, país, fornecedor ou estatuto de direitos, usando o menu à esquerda do ecrã de resultados."
+msgstr "Pode também organizar os resultados por tipo de media, idioma, data, país, fornacedor ou estatuto de direitos, usando o menu à esquerda do ecrã de resultados."
 
 #: templates/static_pages/usingeuropeana_results1.html:24
 msgid "of an object can be found by clicking on the item in the results list. To see the item in its fullest available form (i.e. you would like to read the book, view the full size image or watch a video), click on the link under"
@@ -6537,11 +6537,11 @@ msgstr "seguido por um tipo ou assunto dos itens em que está interessado e os r
 
 #: templates/static_pages/usingeuropeana_search1.html:28
 msgid "maps"
-msgstr ""
+msgstr "maps"
 
 #: templates/static_pages/usingeuropeana_search1.html:28
 msgid "Art Nouveau"
-msgstr ""
+msgstr "Art Noveuau"
 
 #: templates/static_pages/usingeuropeana_search1.html:29
 msgid "followed by a name of a town, city or country within Europe or around the world, and your search results will display only items which were created, published or depict the place you are searching for.  For example, searching for"
@@ -6549,7 +6549,7 @@ msgstr "seguido pelo nome de uma cidade ou país da Europa ou do  resto do mundo
 
 #: templates/static_pages/usingeuropeana_search1.html:29
 msgid "Milan"
-msgstr ""
+msgstr "Milan"
 
 #: templates/static_pages/usingeuropeana_search1.html:29
 msgid "will help you differentiate your search, when you are looking only for objects created or held in Milan, excluding items on writer Milan Kundera from your search results."
@@ -6697,11 +6697,11 @@ msgstr "Termos de utilização da nossa API"
 
 #: templates/tou/linked-data-sources.html:4
 msgid "Europeana - Linked Data Sources"
-msgstr ""
+msgstr "Europeana - Fontes de Dados Ligados"
 
 #: templates/tou/linked-data-sources.html:10
 msgid "Linked Data Sources"
-msgstr ""
+msgstr "Fontes de Dados Ligados"
 
 #: templates/tou/metadata-usage-guidelines.html:4
 msgid "Europeana - Our Metadata Usage Guidelines"
