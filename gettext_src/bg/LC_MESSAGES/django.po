@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-16 14:52+0100\n"
+"POT-Creation-Date: 2013-12-18 10:58+0100\n"
 "PO-Revision-Date: 2013-10-30 18:59\n"
 "Last-Translator: Bulgarian  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3875,8 +3875,9 @@ msgid "Download"
 msgstr "Изтегли"
 
 #: templates/static_pages/prop_file.html:698
-msgid "Content created by user"
-msgstr "Съдържание допринесено от потребителите"
+#, fuzzy
+msgid "User contributed content"
+msgstr "Подобно съдържание"
 
 #: templates/static_pages/prop_file.html:699
 msgid "Play"
@@ -4431,6 +4432,10 @@ msgstr "Europeana атрибути"
 #, fuzzy
 msgid "Yes, with restrictions"
 msgstr "Europeana атрибути"
+
+#: templates/static_pages/prop_file.html:999
+msgid "Only with permission"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:4
 msgid "Europeana - Sitemap"
@@ -6292,6 +6297,9 @@ msgstr "тук."
 msgid "We hope you enjoy using the new-look Europeana."
 msgstr ""
 "Надяваме се да се забавлявате докато използвате Europenana в новия и дизайн."
+
+#~ msgid "Content created by user"
+#~ msgstr "Съдържание допринесено от потребителите"
 
 #, fuzzy
 #~ msgid ""

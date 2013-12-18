@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-16 14:52+0100\n"
+"POT-Creation-Date: 2013-12-18 10:58+0100\n"
 "PO-Revision-Date: 2013-11-21 15:32\n"
 "Last-Translator: Laura  Huff <laura.huff@kb.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3871,8 +3871,9 @@ msgid "Download"
 msgstr "Descarregar"
 
 #: templates/static_pages/prop_file.html:698
-msgid "Content created by user"
-msgstr "Contingut creat per l'usuari"
+#, fuzzy
+msgid "User contributed content"
+msgstr "Contingut generat pels usuaris"
 
 #: templates/static_pages/prop_file.html:699
 msgid "Play"
@@ -4422,6 +4423,10 @@ msgstr "Atribució a Europeana"
 #, fuzzy
 msgid "Yes, with restrictions"
 msgstr "Atribució a Europeana"
+
+#: templates/static_pages/prop_file.html:999
+msgid "Only with permission"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:4
 msgid "Europeana - Sitemap"
@@ -6254,6 +6259,9 @@ msgstr "aquí"
 #: templates/static_pages/whatsnew.html:21
 msgid "We hope you enjoy using the new-look Europeana."
 msgstr "Esperem que us agradi el nou disseny d'Europeana."
+
+#~ msgid "Content created by user"
+#~ msgstr "Contingut creat per l'usuari"
 
 #~ msgid ""
 #~ "Nessun dorma (English: None shall sleep) is an aria from the final act of "
@@ -8218,9 +8226,6 @@ msgstr "Esperem que us agradi el nou disseny d'Europeana."
 
 #~ msgid "Service infrastructure"
 #~ msgstr "Infraestructura de servei"
-
-#~ msgid "User-Generated content"
-#~ msgstr "Contingut generat pels usuaris"
 
 #~ msgid "Policies Made Easy"
 #~ msgstr "Termes i condicions"
