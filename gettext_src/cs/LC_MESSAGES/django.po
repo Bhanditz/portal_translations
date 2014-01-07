@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 10:58+0100\n"
+"POT-Creation-Date: 2014-01-07 11:53+0100\n"
 "PO-Revision-Date: 2013-11-21 16:07\n"
 "Last-Translator: Laura  Huff <laura.huff@kb.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -968,10 +968,10 @@ msgid "Date of creation of the Privacy Statement"
 msgstr "Datum vytvoření společného Prohlášení o ochraně osobních údajů"
 
 #: templates/rights/privacy.html:85 templates/rights/privacy.html.py:86
-#: templates/static_pages/aboutus_enews.html:15
-#: templates/static_pages/aboutus_enews.html:25
-#: templates/static_pages/aboutus_enews.html:34
-#: templates/static_pages/aboutus_enews.html:43
+#: templates/static_pages/aboutus_enews.html:18
+#: templates/static_pages/aboutus_enews.html:28
+#: templates/static_pages/aboutus_enews.html:37
+#: templates/static_pages/aboutus_enews.html:46
 msgid "September"
 msgstr "září"
 
@@ -1433,56 +1433,69 @@ msgid "See the storyline and image credits for the Europeana video (above)"
 msgstr ""
 
 #: templates/static_pages/aboutus_enews.html:4
+#, fuzzy
 msgid "Europeana newsletters"
-msgstr ""
-
-#: templates/static_pages/aboutus_enews.html:15
-msgid "Discover Europeana's hand-picked collections"
-msgstr ""
+msgstr "Europeana - e-novinky"
 
 #: templates/static_pages/aboutus_enews.html:16
 #: templates/static_pages/aboutus_enews.html:26
 #: templates/static_pages/aboutus_enews.html:35
 #: templates/static_pages/aboutus_enews.html:44
-msgid "June"
-msgstr "červen"
+#: templates/static_pages/aboutus_enews.html:54
+msgid "December"
+msgstr "Prosinec"
 
 #: templates/static_pages/aboutus_enews.html:16
-msgid ""
-"Download free iPad app, explore great new content &amp; join Europeana 1989"
+msgid "Discover a virtual museum and a year of culture"
 msgstr ""
 
 #: templates/static_pages/aboutus_enews.html:17
 #: templates/static_pages/aboutus_enews.html:27
-#: templates/static_pages/aboutus_enews.html:36
 #: templates/static_pages/aboutus_enews.html:45
-msgid "April"
-msgstr "Duben"
-
-#: templates/static_pages/aboutus_enews.html:17
-msgid "New look Europeana, Lithuania's buried secrets"
-msgstr ""
-
-#: templates/static_pages/aboutus_enews.html:18
-#: templates/static_pages/aboutus_enews.html:28
-#: templates/static_pages/aboutus_enews.html:37
-#: templates/static_pages/aboutus_enews.html:46
-msgid "February"
-msgstr "Únor"
-
-#: templates/static_pages/aboutus_enews.html:23
-#: templates/static_pages/aboutus_enews.html:32
-#: templates/static_pages/aboutus_enews.html:41
-#: templates/static_pages/aboutus_enews.html:51
-msgid "December"
-msgstr "Prosinec"
-
-#: templates/static_pages/aboutus_enews.html:24
-#: templates/static_pages/aboutus_enews.html:42
 msgid "November"
 msgstr "Listopad"
 
-#: templates/static_pages/aboutus_enews.html:33
+#: templates/static_pages/aboutus_enews.html:17
+#, fuzzy
+msgid "Europe's culture - collected for you"
+msgstr "Vrať se na domovskou stránku"
+
+#: templates/static_pages/aboutus_enews.html:18
+#, fuzzy
+msgid "Discover Europeana's hand-picked collections"
+msgstr "Vrať se na domovskou stránku"
+
+#: templates/static_pages/aboutus_enews.html:19
+#: templates/static_pages/aboutus_enews.html:29
+#: templates/static_pages/aboutus_enews.html:38
+#: templates/static_pages/aboutus_enews.html:47
+msgid "June"
+msgstr "červen"
+
+#: templates/static_pages/aboutus_enews.html:19
+msgid ""
+"Download free iPad app, explore great new content &amp; join Europeana 1989"
+msgstr ""
+
+#: templates/static_pages/aboutus_enews.html:20
+#: templates/static_pages/aboutus_enews.html:30
+#: templates/static_pages/aboutus_enews.html:39
+#: templates/static_pages/aboutus_enews.html:48
+msgid "April"
+msgstr "Duben"
+
+#: templates/static_pages/aboutus_enews.html:20
+msgid "New look Europeana, Lithuania's buried secrets"
+msgstr ""
+
+#: templates/static_pages/aboutus_enews.html:21
+#: templates/static_pages/aboutus_enews.html:31
+#: templates/static_pages/aboutus_enews.html:40
+#: templates/static_pages/aboutus_enews.html:49
+msgid "February"
+msgstr "Únor"
+
+#: templates/static_pages/aboutus_enews.html:36
 msgid "October"
 msgstr ""
 
@@ -3381,18 +3394,20 @@ msgstr ""
 
 #: templates/static_pages/prop_file.html:493
 #: templates/static_pages/prop_file.html:496
-msgid "Get the latest news first!"
-msgstr ""
+#, fuzzy
+msgid "Europe's culture - collected for you."
+msgstr "Vrať se na domovskou stránku"
 
 #: templates/static_pages/prop_file.html:497
 msgid ""
-"Europeana eNews showcases fantastic collections and keeps you up-to-date "
-"with news, events and competitions - in English and French."
+"Explore more than 30 million items from a range of Europe's leading "
+"galleries, libraries, archives and museums."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:498
-msgid "Subscribe"
-msgstr ""
+#, fuzzy
+msgid "Read more"
+msgstr "Europeana - Evropské čtení"
 
 #: templates/static_pages/prop_file.html:502
 #, fuzzy
@@ -5939,9 +5954,6 @@ msgstr ""
 #~ msgid "Previous Newsletters"
 #~ msgstr "Předchozí Zpravodaje"
 
-#~ msgid "Europeana - eNews"
-#~ msgstr "Europeana - e-novinky"
-
 #~ msgid ""
 #~ "Europeana produces a newsletter in English and releases important "
 #~ "information on Europeana's development from time to time."
@@ -6882,9 +6894,6 @@ msgstr ""
 
 #~ msgid "Cite"
 #~ msgstr "Název"
-
-#~ msgid "Reading Europe"
-#~ msgstr "Europeana - Evropské čtení"
 
 #~ msgid "Demos and Videos"
 #~ msgstr "Podmínky užití"
