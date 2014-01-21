@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-17 08:39+0100\n"
+"POT-Creation-Date: 2014-01-21 13:22+0100\n"
 "PO-Revision-Date: 2012-10-04 20:08\n"
 "Last-Translator: Galician  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2006,25 +2006,30 @@ msgid "Tagging"
 msgstr "Etiquetar"
 
 #: templates/static_pages/prop_file.html:56
+#, fuzzy
 msgid "Send us feedback"
-msgstr ""
+msgstr "enviar-nos comentarios"
 
 #: templates/static_pages/prop_file.html:57
 msgid "People are currently thinking about"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:58
+#, fuzzy
 msgid "Timeline navigator"
-msgstr ""
+msgstr "Vista da Cronoloxía"
 
 #: templates/static_pages/prop_file.html:59
 msgid "Browse through time"
 msgstr "Navegar pola cronoloxía"
 
 #: templates/static_pages/prop_file.html:61
+#, fuzzy
 msgid ""
 "From our partner museums, archives, libraries and audio-visual collections"
 msgstr ""
+"Ver as últimas contribucións dos nosos socios (museos, arquivos, bibliotecas "
+"e coleccións audiovisuais) facendo clic en"
 
 #: templates/static_pages/prop_file.html:62
 #: templates/static_pages/prop_file.html:913
@@ -2072,8 +2077,9 @@ msgid "Europeana think culture"
 msgstr "Europeana pensar a cultura"
 
 #: templates/static_pages/prop_file.html:73
+#, fuzzy
 msgid "Click here to return to the Europeana homepage"
-msgstr ""
+msgstr "Prema aquí para a Política Lingüística de Europeana"
 
 #: templates/static_pages/prop_file.html:74
 #, fuzzy
@@ -2094,12 +2100,14 @@ msgid "By year"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:79
+#, fuzzy
 msgid "By user tag"
-msgstr ""
+msgstr "Etiquetas de usuario"
 
 #: templates/static_pages/prop_file.html:80
+#, fuzzy
 msgid "By type"
-msgstr ""
+msgstr "Polo tipo de medio"
 
 #: templates/static_pages/prop_file.html:81
 #: templates/static_pages/usingeuropeana_search.html:55
@@ -2107,8 +2115,9 @@ msgid "By media type"
 msgstr "Polo tipo de medio"
 
 #: templates/static_pages/prop_file.html:82
+#, fuzzy
 msgid "Actions"
-msgstr ""
+msgstr "Opcións"
 
 #: templates/static_pages/prop_file.html:83
 #: templates/static_pages/usingeuropeana_myeuropeana.html:14
@@ -2120,12 +2129,14 @@ msgid "Search saved"
 msgstr "Busca gardada"
 
 #: templates/static_pages/prop_file.html:85
+#, fuzzy
 msgid "Saving search failed"
-msgstr ""
+msgstr "Salvar as buscas"
 
 #: templates/static_pages/prop_file.html:86
+#, fuzzy
 msgid "You have searched for"
-msgstr ""
+msgstr "Buscas gardadas"
 
 #: templates/static_pages/prop_file.html:87
 #: templates/static_pages/usingeuropeana_search.html:51
@@ -2165,8 +2176,9 @@ msgid "List view"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:99
+#, fuzzy
 msgid "#Table view"
-msgstr ""
+msgstr "Vista da Cronoloxía"
 
 #: templates/static_pages/prop_file.html:100
 msgid "Page"
@@ -2177,12 +2189,14 @@ msgid "of"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:102
+#, fuzzy
 msgid "Click here for previous page of results"
-msgstr ""
+msgstr "Prema aquí para as condicións de uso da Europeana"
 
 #: templates/static_pages/prop_file.html:103
+#, fuzzy
 msgid "Click here for next page of results"
-msgstr ""
+msgstr "Prema aquí para as condicións de uso da Europeana"
 
 #: templates/static_pages/prop_file.html:104
 msgid "Print this page"
@@ -2197,12 +2211,14 @@ msgid "No items found"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:107
+#, fuzzy
 msgid "Related content"
-msgstr ""
+msgstr "Novos contidos"
 
 #: templates/static_pages/prop_file.html:108
+#, fuzzy
 msgid "See all related items"
-msgstr ""
+msgstr "Elementos gardados"
 
 #: templates/static_pages/prop_file.html:109
 msgid "User tags"
@@ -2227,8 +2243,9 @@ msgid "Tag addition failed"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:114
+#, fuzzy
 msgid "Share with a friend"
-msgstr ""
+msgstr "Compartir obxeto"
 
 #: templates/static_pages/prop_file.html:115
 msgid "Email address"
@@ -2239,8 +2256,9 @@ msgid "Email sent"
 msgstr "Correo electrónico enviado"
 
 #: templates/static_pages/prop_file.html:117
+#, fuzzy
 msgid "Email could not be sent"
-msgstr ""
+msgstr "Correo electrónico enviado"
 
 #: templates/static_pages/prop_file.html:118
 msgid "Send"
@@ -2256,8 +2274,9 @@ msgid "Item saved"
 msgstr "Elemento gardado"
 
 #: templates/static_pages/prop_file.html:121
+#, fuzzy
 msgid "Save item failed"
-msgstr ""
+msgstr "Elementos gardados"
 
 #: templates/static_pages/prop_file.html:122
 msgid "Error"
@@ -2292,8 +2311,9 @@ msgid "View as XML"
 msgstr "Vista en XML"
 
 #: templates/static_pages/prop_file.html:130
+#, fuzzy
 msgid "View with labels"
-msgstr ""
+msgstr "Ver o elemento en "
 
 #: templates/static_pages/prop_file.html:131
 msgid "View without labels"
@@ -2356,16 +2376,19 @@ msgid "No saved items"
 msgstr "Non hai elementos gardados"
 
 #: templates/static_pages/prop_file.html:143
+#, fuzzy
 msgid "No saved searches"
-msgstr ""
+msgstr "Buscas gardadas"
 
 #: templates/static_pages/prop_file.html:144
+#, fuzzy
 msgid "No saved tags"
-msgstr ""
+msgstr "Non hai elementos gardados"
 
 #: templates/static_pages/prop_file.html:145
+#, fuzzy
 msgid "No saved notifications"
-msgstr ""
+msgstr "Notificacións gardadas"
 
 #: templates/static_pages/prop_file.html:146
 msgid "Date saved"
@@ -3081,29 +3104,34 @@ msgid "indicates ESS services are not available"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:325
+#, fuzzy
 msgid "Search term(s)"
-msgstr ""
+msgstr "Consellos de busca"
 
 #: templates/static_pages/prop_file.html:326
+#, fuzzy
 msgid "Search facet"
-msgstr ""
+msgstr "Busca gardada"
 
 #: templates/static_pages/prop_file.html:327
+#, fuzzy
 msgid "Search operator"
-msgstr ""
+msgstr "Consellos de busca"
 
 #: templates/static_pages/prop_file.html:328
 msgid "Back to top"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:329
+#, fuzzy
 msgid "Click to search for this term in external services"
-msgstr ""
+msgstr "Buscar a servizos externos"
 
 #: templates/static_pages/prop_file.html:330
 #: templates/static_pages/prop_file.html:332
+#, fuzzy
 msgid "Remote Search Widget"
-msgstr ""
+msgstr "algúns dos termos de busca "
 
 #: templates/static_pages/prop_file.html:331
 msgid ""
@@ -3113,12 +3141,14 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/prop_file.html:333
+#, fuzzy
 msgid "Europeana Search Widget"
-msgstr ""
+msgstr "Subscríbase ás eNews de Europeana "
 
 #: templates/static_pages/prop_file.html:336
+#, fuzzy
 msgid "What is Europeana's remote search widget?"
-msgstr ""
+msgstr "Subscríbase ás eNews de Europeana "
 
 #: templates/static_pages/prop_file.html:337
 msgid ""
@@ -3141,8 +3171,9 @@ msgstr ""
 "sitio web."
 
 #: templates/static_pages/prop_file.html:340
+#, fuzzy
 msgid "What will the plugin look like?"
-msgstr ""
+msgstr "¿Que é un plugin?"
 
 #: templates/static_pages/prop_file.html:341
 msgid ""
@@ -3206,24 +3237,28 @@ msgid "Background colour"
 msgstr "Cor de fondo"
 
 #: templates/static_pages/prop_file.html:354
+#, fuzzy
 msgid "Media type tab colour"
-msgstr ""
+msgstr "Polo tipo de medio"
 
 #: templates/static_pages/prop_file.html:355
 msgid "Text colour"
 msgstr "Cor do texto"
 
 #: templates/static_pages/prop_file.html:356
+#, fuzzy
 msgid "Default language"
-msgstr ""
+msgstr "Selecione o idioma"
 
 #: templates/static_pages/prop_file.html:357
+#, fuzzy
 msgid "Default search term"
-msgstr ""
+msgstr "Consellos de busca"
 
 #: templates/static_pages/prop_file.html:358
+#, fuzzy
 msgid "Media Types"
-msgstr ""
+msgstr "Polo tipo de medio"
 
 #: templates/static_pages/prop_file.html:359
 #: templates/static_pages/usingeuropeana_searchwidget.html:30
@@ -3231,8 +3266,9 @@ msgid "Providers"
 msgstr "Provedores"
 
 #: templates/static_pages/prop_file.html:360
+#, fuzzy
 msgid "Europeana attribution"
-msgstr ""
+msgstr "Dereitos de Europeana"
 
 #: templates/static_pages/prop_file.html:361
 msgid "Widget Code: (To be copied and pasted into your website)"
@@ -3248,8 +3284,9 @@ msgstr "Desenvolvido por Europeana"
 
 #: templates/static_pages/prop_file.html:365
 #: templates/static_pages/prop_file.html:872
+#, fuzzy
 msgid "Europeana Blog"
-msgstr ""
+msgstr "Europena - Preguntas frecuentes"
 
 #: templates/static_pages/prop_file.html:366
 msgid "Virtual Exhibitions"
@@ -3261,12 +3298,14 @@ msgid "Cite on Wikipedia"
 msgstr "Cita na Wikipedia"
 
 #: templates/static_pages/prop_file.html:368
+#, fuzzy
 msgid "Click to cite this object"
-msgstr ""
+msgstr "Faga clic na icona do globo"
 
 #: templates/static_pages/prop_file.html:369
+#, fuzzy
 msgid "Use"
-msgstr ""
+msgstr "na pestana"
 
 #: templates/static_pages/prop_file.html:370
 msgid "Harvard Bibliographic Style"
@@ -3301,12 +3340,14 @@ msgid "Automatically added semantic tags"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:378
+#, fuzzy
 msgid "Place Term"
-msgstr ""
+msgstr "Substitúe"
 
 #: templates/static_pages/prop_file.html:379
+#, fuzzy
 msgid "Place Label"
-msgstr ""
+msgstr "Substitúe"
 
 #: templates/static_pages/prop_file.html:380
 msgid "Geo Space"
@@ -3377,8 +3418,9 @@ msgstr ""
 #: templates/static_pages/prop_file.html:460
 #: templates/static_pages/prop_file.html:471
 #: templates/static_pages/prop_file.html:482
+#, fuzzy
 msgid "Featured item"
-msgstr ""
+msgstr "Europeana - Socios"
 
 #: templates/static_pages/prop_file.html:403
 msgid ""
@@ -3448,39 +3490,36 @@ msgid ""
 "Milk Producers"
 msgstr ""
 
+#: templates/static_pages/prop_file.html:492
+#: templates/static_pages/prop_file.html:495
+msgid "New Open Culture app"
+msgstr ""
+
 #: templates/static_pages/prop_file.html:496
-#: templates/static_pages/prop_file.html:505
+msgid ""
+"Europeana's Open Culture app is now bigger and better! Available for all "
+"Apple and Android tablets."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:497
+#, fuzzy
+msgid "Read more"
+msgstr "Ler"
+
+#: templates/static_pages/prop_file.html:502
+#: templates/static_pages/prop_file.html:511
 msgid "Survey - Win an Android Tablet"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:506
+#: templates/static_pages/prop_file.html:512
 msgid ""
 "Speak up and let us know what you think of this website. Take our 5 minute "
 "survey and you'll be entered into a prize draw to win a Google Nexus 10 "
 "Android tablet."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:507
+#: templates/static_pages/prop_file.html:513
 msgid "Take survey"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:511
-#: templates/static_pages/prop_file.html:514
-#, fuzzy
-msgid "Europe's culture - collected for you."
-msgstr "Explora as coleccións culturais de Europa"
-
-#: templates/static_pages/prop_file.html:515
-#, fuzzy
-msgid ""
-"Explore more than 30 million items from a range of Europe's leading "
-"galleries, libraries, archives and museums."
-msgstr ""
-"Pinturas, música, películas e libros de galerías de Europa, bibliotecas, "
-"arquivos e museos."
-
-#: templates/static_pages/prop_file.html:516
-msgid "Learn more"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:530
@@ -3515,8 +3554,9 @@ msgid "How to configure your search widget"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:599
+#, fuzzy
 msgid "How to configure your search widhet"
-msgstr ""
+msgstr "filtrar a súa busca"
 
 #: templates/static_pages/prop_file.html:610
 #: templates/static_pages/prop_file.html:611
@@ -3552,8 +3592,9 @@ msgid "Filter your search"
 msgstr "Filtrar a súa busca"
 
 #: templates/static_pages/prop_file.html:660
+#, fuzzy
 msgid "Grid view"
-msgstr ""
+msgstr "Previa"
 
 #: templates/static_pages/prop_file.html:661
 msgid ""
@@ -3576,12 +3617,14 @@ msgid "Translate details"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:665
+#, fuzzy
 msgid "Return to search results"
-msgstr ""
+msgstr "Voltar os resultados"
 
 #: templates/static_pages/prop_file.html:666
+#, fuzzy
 msgid "Next search result"
-msgstr ""
+msgstr "filtrar a súa busca"
 
 #: templates/static_pages/prop_file.html:667
 msgid "Something went wrong!"
@@ -3592,8 +3635,9 @@ msgid "An email has been sent to inform our technical staff"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:669
+#, fuzzy
 msgid "Please try another search"
-msgstr ""
+msgstr "algúns dos termos de busca "
 
 #: templates/static_pages/prop_file.html:670
 msgid "Saved search removed successfully"
@@ -3660,8 +3704,11 @@ msgid "Preview"
 msgstr "Previa"
 
 #: templates/static_pages/prop_file.html:687
+#, fuzzy
 msgid "Return to timeline"
 msgstr ""
+"nunha liña do tempo\n"
+" "
 
 #: templates/static_pages/prop_file.html:688
 msgid "This email address does not yet exist in our database"
@@ -3676,12 +3723,14 @@ msgid "Zoom"
 msgstr "Zoom"
 
 #: templates/static_pages/prop_file.html:691
+#, fuzzy
 msgid "Zoom in"
-msgstr ""
+msgstr "Zoom"
 
 #: templates/static_pages/prop_file.html:692
+#, fuzzy
 msgid "Zoom out"
-msgstr ""
+msgstr "Saír"
 
 #: templates/static_pages/prop_file.html:693
 msgid "Choose from different map types"
@@ -3763,8 +3812,9 @@ msgid "Your search result contains no items that have map co-ordinates."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:711
+#, fuzzy
 msgid "Please try another search."
-msgstr ""
+msgstr "algúns dos termos de busca "
 
 #: templates/static_pages/prop_file.html:712
 msgid ""
@@ -3787,16 +3837,20 @@ msgid "Include content contributed by users"
 msgstr "Incluír contido aportado polo usuario"
 
 #: templates/static_pages/prop_file.html:725
+#, fuzzy
 msgid "The map only shows up to 1000 items relevant to your query."
 msgstr ""
+"A cronoloxía mostra só ata 1000 elementos relevantes para a súa consulta."
 
 #: templates/static_pages/prop_file.html:726
 msgid "No place name available"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:727
+#, fuzzy
 msgid "The map only shows up to {0} items relevant to your query."
 msgstr ""
+"A cronoloxía mostra só ata 1000 elementos relevantes para a súa consulta."
 
 #: templates/static_pages/prop_file.html:728
 msgid "Search within current map view"
@@ -3813,8 +3867,9 @@ msgid "Footnote"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:731
+#, fuzzy
 msgid "Follow us on"
-msgstr ""
+msgstr "Siga connosco"
 
 #: templates/static_pages/prop_file.html:732
 msgid "Unable to find content for this page."
@@ -3867,8 +3922,9 @@ msgstr ""
 #: templates/static_pages/prop_file.html:777
 #: templates/static_pages/prop_file.html:787
 #: templates/static_pages/prop_file.html:798
+#, fuzzy
 msgid "Featured partner"
-msgstr ""
+msgstr "Europeana - Socios"
 
 #: templates/static_pages/prop_file.html:759
 msgid ""
@@ -3937,8 +3993,9 @@ msgid "Refinement term(s)"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:813
+#, fuzzy
 msgid "Profile"
-msgstr ""
+msgstr "Europeana Profesional"
 
 #: templates/static_pages/prop_file.html:814
 msgid "Number of records to retrieve"
@@ -3949,8 +4006,9 @@ msgid "First record to retrieve"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:816
+#, fuzzy
 msgid "Record parameters"
-msgstr ""
+msgstr "Consellos de busca"
 
 #: templates/static_pages/prop_file.html:817
 msgid "Record id"
@@ -4303,8 +4361,9 @@ msgid "Yes, with attribution"
 msgstr "Atribución"
 
 #: templates/static_pages/prop_file.html:1005
+#, fuzzy
 msgid "Yes, with restrictions"
-msgstr ""
+msgstr "Atribución"
 
 #: templates/static_pages/prop_file.html:1006
 msgid "Only with permission"
@@ -5993,6 +6052,18 @@ msgid ""
 "by dropping us an email at"
 msgstr ""
 
+#, fuzzy
+#~ msgid "Europe's culture - collected for you."
+#~ msgstr "Explora as coleccións culturais de Europa"
+
+#, fuzzy
+#~ msgid ""
+#~ "Explore more than 30 million items from a range of Europe's leading "
+#~ "galleries, libraries, archives and museums."
+#~ msgstr ""
+#~ "Pinturas, música, películas e libros de galerías de Europa, bibliotecas, "
+#~ "arquivos e museos."
+
 #~ msgid ""
 #~ "This item is protected by copyright and/or related rights. This item is "
 #~ "accessible without charge, but its use is subject to the licensing "
@@ -6399,9 +6470,6 @@ msgstr ""
 #~ msgid "newsletter"
 #~ msgstr "boletín informativo"
 
-#~ msgid "sending us feedback"
-#~ msgstr "enviar-nos comentarios"
-
 #~ msgid "on your experience with Europeana."
 #~ msgstr "sobre a súa experiencia coa Europeana."
 
@@ -6679,9 +6747,6 @@ msgstr ""
 #~ msgid "Europeana Providers"
 #~ msgstr "Dereitos de Europeana"
 
-#~ msgid "Follow us"
-#~ msgstr "Siga connosco"
-
 #~ msgid ""
 #~ "In addition to standard search options, Europeana offers alternative ways "
 #~ "to explore and navigate through our millions of objects. You can discover "
@@ -6709,13 +6774,6 @@ msgstr ""
 
 #~ msgid "Through newest content"
 #~ msgstr "A través dos contidos máis recentes"
-
-#~ msgid ""
-#~ "See the latest contributions from our partner museums, libraries, "
-#~ "archives and audio-visual archives by clicking"
-#~ msgstr ""
-#~ "Ver as últimas contribucións dos nosos socios (museos, arquivos, "
-#~ "bibliotecas e coleccións audiovisuais) facendo clic en"
 
 #~ msgid "Click"
 #~ msgstr "Faga clic"
@@ -6752,9 +6810,6 @@ msgstr ""
 #~ "inferior da páxina. Tamén pode introducir un tema no cadro de busca e ver "
 #~ "os obxectos relacionados co termo de busca. Para calquera busca "
 #~ "determinada, a Cronoloxía mostra os primeiros 1.000 obxectos."
-
-#~ msgid "Click on the globe icon"
-#~ msgstr "Faga clic na icona do globo"
 
 #~ msgid ""
 #~ "on the search results page, to view your results on a map.  The Europeana "
@@ -6832,11 +6887,6 @@ msgstr ""
 
 #~ msgid "Results can be displayed as a grid"
 #~ msgstr "Os resultados pódense mostrar como unha cuadrícula"
-
-#~ msgid "on the timeline"
-#~ msgstr ""
-#~ "nunha liña do tempo\n"
-#~ " "
 
 #~ msgid "or on a map"
 #~ msgstr "ou nun mapa"
@@ -7781,9 +7831,6 @@ msgstr ""
 
 #~ msgid "Click here for the Europeana Privacy Policy"
 #~ msgstr "Prema aquí para a Política de Privacidade Europeana"
-
-#~ msgid "Click here for the Europeana Language Policy"
-#~ msgstr "Prema aquí para a Política Lingüística de Europeana"
 
 #~ msgid "Click here for the Europeana Accessibility Policy"
 #~ msgstr "Prema aquí para a Política de Accesibilidade de Europeana"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-17 08:39+0100\n"
+"POT-Creation-Date: 2014-01-21 13:22+0100\n"
 "PO-Revision-Date: 2013-09-02 11:39\n"
 "Last-Translator: Croatian  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1575,12 +1575,14 @@ msgid "Logged in as"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:19
+#, fuzzy
 msgid "Saved items"
-msgstr ""
+msgstr "Podijeli predmet"
 
 #: templates/static_pages/prop_file.html:20
+#, fuzzy
 msgid "Saved searches"
-msgstr ""
+msgstr "Napredno pretraživanje"
 
 #: templates/static_pages/prop_file.html:21
 msgid "Saved tags"
@@ -1719,8 +1721,9 @@ msgid "Advanced search"
 msgstr "Napredno pretraživanje"
 
 #: templates/static_pages/prop_file.html:49
+#, fuzzy
 msgid "Hide advanced search"
-msgstr ""
+msgstr "Napredno pretraživanje"
 
 #: templates/static_pages/prop_file.html:50
 msgid "and"
@@ -1768,9 +1771,12 @@ msgid "Browse through time"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:61
+#, fuzzy
 msgid ""
 "From our partner museums, archives, libraries and audio-visual collections"
 msgstr ""
+"Pogledajte najnovije priloge iz naših partnerskih muzeja, knjižnica, arhiva "
+"i audio-vizualnih arhiva klikom"
 
 #: templates/static_pages/prop_file.html:62
 #: templates/static_pages/prop_file.html:913
@@ -1805,32 +1811,38 @@ msgstr "Jezična politika"
 #: templates/static_pages/prop_file.html:70
 #: templates/static_pages/prop_file.html:835
 #: templates/static_pages/prop_file.html:836
+#, fuzzy
 msgid "Contact us"
-msgstr ""
+msgstr "Kontakti"
 
 #: templates/static_pages/prop_file.html:71
+#, fuzzy
 msgid "co-funded by the European Union"
-msgstr ""
+msgstr "(portal Europske unije)"
 
 #: templates/static_pages/prop_file.html:72
+#, fuzzy
 msgid "Europeana think culture"
-msgstr ""
+msgstr "razmislite o kulturi"
 
 #: templates/static_pages/prop_file.html:73
+#, fuzzy
 msgid "Click here to return to the Europeana homepage"
-msgstr ""
+msgstr "Kliknite ovdje da posjetite našu izložbu, 'Europska baština sporta'"
 
 #: templates/static_pages/prop_file.html:74
+#, fuzzy
 msgid "Refine your results"
-msgstr ""
+msgstr "Povratak na rezultate pretraživanja"
 
 #: templates/static_pages/prop_file.html:75
 msgid "By language of description"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:76
+#, fuzzy
 msgid "By providing country"
-msgstr ""
+msgstr "Država"
 
 #: templates/static_pages/prop_file.html:77
 msgid "By year"
@@ -1850,8 +1862,9 @@ msgid "By media type"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:82
+#, fuzzy
 msgid "Actions"
-msgstr ""
+msgstr "Opcije"
 
 #: templates/static_pages/prop_file.html:83
 #: templates/static_pages/usingeuropeana_myeuropeana.html:14
@@ -1859,8 +1872,9 @@ msgid "Save this search"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:84
+#, fuzzy
 msgid "Search saved"
-msgstr ""
+msgstr "Pretraživanje"
 
 #: templates/static_pages/prop_file.html:85
 msgid "Saving search failed"
@@ -1908,8 +1922,9 @@ msgid "List view"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:99
+#, fuzzy
 msgid "#Table view"
-msgstr ""
+msgstr "Pogled na vremensku crtu"
 
 #: templates/static_pages/prop_file.html:100
 msgid "Page"
@@ -1940,8 +1955,9 @@ msgid "No items found"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:107
+#, fuzzy
 msgid "Related content"
-msgstr ""
+msgstr "Novi sadržaj"
 
 #: templates/static_pages/prop_file.html:108
 msgid "See all related items"
@@ -1974,12 +1990,14 @@ msgid "Share with a friend"
 msgstr "Podijeli s prijateljem"
 
 #: templates/static_pages/prop_file.html:115
+#, fuzzy
 msgid "Email address"
-msgstr ""
+msgstr "E-mail adresa"
 
 #: templates/static_pages/prop_file.html:116
+#, fuzzy
 msgid "Email sent"
-msgstr ""
+msgstr "Pošaljite e-mail"
 
 #: templates/static_pages/prop_file.html:117
 msgid "Email could not be sent"
@@ -1999,20 +2017,23 @@ msgid "Item saved"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:121
+#, fuzzy
 msgid "Save item failed"
-msgstr ""
+msgstr "Podijeli predmet"
 
 #: templates/static_pages/prop_file.html:122
 msgid "Error"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:123
+#, fuzzy
 msgid "Error details"
-msgstr ""
+msgstr "Prijevod detalja"
 
 #: templates/static_pages/prop_file.html:124
+#, fuzzy
 msgid "Return to results"
-msgstr ""
+msgstr "Povratak na rezultate pretraživanja"
 
 #: templates/static_pages/prop_file.html:125
 msgid "More"
@@ -2027,16 +2048,18 @@ msgid "Items"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:128
+#, fuzzy
 msgid "Item details"
-msgstr ""
+msgstr "Prijevod detalja"
 
 #: templates/static_pages/prop_file.html:129
 msgid "View as XML"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:130
+#, fuzzy
 msgid "View with labels"
-msgstr ""
+msgstr "Pogledajte stavku na"
 
 #: templates/static_pages/prop_file.html:131
 msgid "View without labels"
@@ -2052,8 +2075,9 @@ msgstr ""
 
 #: templates/static_pages/prop_file.html:134
 #: templates/static_pages/prop_file.html:825
+#, fuzzy
 msgid "Provider"
-msgstr ""
+msgstr "Ustanove"
 
 #: templates/static_pages/prop_file.html:135
 #: templates/static_pages/prop_file.html:228
@@ -2099,8 +2123,9 @@ msgid "No saved items"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:143
+#, fuzzy
 msgid "No saved searches"
-msgstr ""
+msgstr "Sljedeći rezultati pretraživanja"
 
 #: templates/static_pages/prop_file.html:144
 msgid "No saved tags"
@@ -2127,8 +2152,9 @@ msgid "Please click on the following link to confirm your registration"
 msgstr "Molimo kliknite na sljedeći link za potvrdu svoje registracije"
 
 #: templates/static_pages/prop_file.html:150
+#, fuzzy
 msgid "The Europeana Team"
-msgstr ""
+msgstr "Europeana Remix"
 
 #: templates/static_pages/prop_file.html:151
 msgid "Results"
@@ -2159,12 +2185,14 @@ msgid "Sign in"
 msgstr "Prijava"
 
 #: templates/static_pages/prop_file.html:158
+#, fuzzy
 msgid "Register"
-msgstr ""
+msgstr "Prijavite se za"
 
 #: templates/static_pages/prop_file.html:159
+#, fuzzy
 msgid "Register again"
-msgstr ""
+msgstr "Prijavite se za"
 
 #: templates/static_pages/prop_file.html:160
 msgid ""
@@ -2249,8 +2277,9 @@ msgid "You have successfully registered"
 msgstr "Uspješno ste registrirani"
 
 #: templates/static_pages/prop_file.html:181
+#, fuzzy
 msgid "English (eng)"
-msgstr ""
+msgstr "Finski (fin)"
 
 #: templates/static_pages/prop_file.html:182
 msgid "Croatian (hrv)"
@@ -2265,12 +2294,14 @@ msgid "Greek (ell/gre)"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:185
+#, fuzzy
 msgid "Estonian (est)"
-msgstr ""
+msgstr "Estonija"
 
 #: templates/static_pages/prop_file.html:186
+#, fuzzy
 msgid "Danish (dan)"
-msgstr ""
+msgstr "Finski (fin)"
 
 #: templates/static_pages/prop_file.html:187
 msgid "Dutch (dut)"
@@ -2309,8 +2340,9 @@ msgid "Lithuanian (lit)"
 msgstr "Litvanski (lit)"
 
 #: templates/static_pages/prop_file.html:196
+#, fuzzy
 msgid "Luxemburgish (ltz)"
-msgstr ""
+msgstr "Luksemburg"
 
 #: templates/static_pages/prop_file.html:197
 msgid "Maltese (mlt)"
@@ -2329,20 +2361,23 @@ msgid "Portuguese (por)"
 msgstr "Portugalski (por)"
 
 #: templates/static_pages/prop_file.html:201
+#, fuzzy
 msgid "Romanian (rom)"
-msgstr ""
+msgstr "Rumunija"
 
 #: templates/static_pages/prop_file.html:202
 msgid "Russian (rus)"
 msgstr "Ruski (rus)"
 
 #: templates/static_pages/prop_file.html:203
+#, fuzzy
 msgid "Serbian (scc)"
-msgstr ""
+msgstr "Slovenski (slv)"
 
 #: templates/static_pages/prop_file.html:204
+#, fuzzy
 msgid "Slovak (slo)"
-msgstr ""
+msgstr "Slovenski (slv)"
 
 #: templates/static_pages/prop_file.html:205
 msgid "Slovenian (slv)"
@@ -2353,8 +2388,9 @@ msgid "Spanish (esp)"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:207
+#, fuzzy
 msgid "Icelandic (ice)"
-msgstr ""
+msgstr "Island"
 
 #: templates/static_pages/prop_file.html:208
 msgid "Swedish (sve/swe)"
@@ -2365,12 +2401,14 @@ msgid "Turkish (tur)"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:210
+#, fuzzy
 msgid "Ukrainian (ukr)"
-msgstr ""
+msgstr "Hrvatski (hrv)"
 
 #: templates/static_pages/prop_file.html:211
+#, fuzzy
 msgid "Yiddish (yid)"
-msgstr ""
+msgstr "Finski (fin)"
 
 #: templates/static_pages/prop_file.html:212
 msgid "Other"
@@ -2381,8 +2419,9 @@ msgid "Alternative Title"
 msgstr "Alternativni Naslov"
 
 #: templates/static_pages/prop_file.html:214
+#, fuzzy
 msgid "Provenance"
-msgstr ""
+msgstr "Francuska"
 
 #: templates/static_pages/prop_file.html:215
 msgid "Is Part of"
@@ -2414,12 +2453,14 @@ msgid "Conforms to"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:222
+#, fuzzy
 msgid "Requires"
-msgstr ""
+msgstr "Zahtjev"
 
 #: templates/static_pages/prop_file.html:223
+#, fuzzy
 msgid "Has format"
-msgstr ""
+msgstr "ovaj obrazac"
 
 #: templates/static_pages/prop_file.html:224
 msgid "Is format of"
@@ -2655,12 +2696,14 @@ msgid "Greece"
 msgstr "Grčka"
 
 #: templates/static_pages/prop_file.html:289
+#, fuzzy
 msgid "Subject cloud"
-msgstr ""
+msgstr "Predmet"
 
 #: templates/static_pages/prop_file.html:290
+#, fuzzy
 msgid "Did you mean"
-msgstr ""
+msgstr "i možete:"
 
 #: templates/static_pages/prop_file.html:291
 msgid ""
@@ -2671,8 +2714,9 @@ msgstr ""
 "muzeja."
 
 #: templates/static_pages/prop_file.html:292
+#, fuzzy
 msgid "Data provider"
-msgstr ""
+msgstr "Ustanove"
 
 #: templates/static_pages/prop_file.html:293
 msgid "Europeana rights"
@@ -2752,12 +2796,14 @@ msgid "landscape"
 msgstr "pejzaž"
 
 #: templates/static_pages/prop_file.html:310
+#, fuzzy
 msgid "Refine Search"
-msgstr ""
+msgstr "Općenito pretraživanje"
 
 #: templates/static_pages/prop_file.html:311
+#, fuzzy
 msgid "By Rights"
-msgstr ""
+msgstr "Ostala prava"
 
 #: templates/static_pages/prop_file.html:312
 #: templates/static_pages/usingeuropeana_search.html:59
@@ -2789,8 +2835,9 @@ msgid "Not all objects show rights information"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:319
+#, fuzzy
 msgid "Translate with:"
-msgstr ""
+msgstr "Prijevod detalja"
 
 #: templates/static_pages/prop_file.html:320
 msgid "Search line value with:"
@@ -2818,16 +2865,19 @@ msgid "indicates ESS services are not available"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:325
+#, fuzzy
 msgid "Search term(s)"
-msgstr ""
+msgstr "Pretraživanje"
 
 #: templates/static_pages/prop_file.html:326
+#, fuzzy
 msgid "Search facet"
-msgstr ""
+msgstr "Pretraživanje"
 
 #: templates/static_pages/prop_file.html:327
+#, fuzzy
 msgid "Search operator"
-msgstr ""
+msgstr "Pretraživanje Europeane"
 
 #: templates/static_pages/prop_file.html:328
 msgid "Back to top"
@@ -2839,8 +2889,9 @@ msgstr "Kliknite za pretraživanje za ovaj pojam u vanjskim uslugama"
 
 #: templates/static_pages/prop_file.html:330
 #: templates/static_pages/prop_file.html:332
+#, fuzzy
 msgid "Remote Search Widget"
-msgstr ""
+msgstr "Možete prijaviti se za Europeana e-vijesti "
 
 #: templates/static_pages/prop_file.html:331
 msgid ""
@@ -2850,12 +2901,14 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/prop_file.html:333
+#, fuzzy
 msgid "Europeana Search Widget"
-msgstr ""
+msgstr "Možete prijaviti se za Europeana e-vijesti "
 
 #: templates/static_pages/prop_file.html:336
+#, fuzzy
 msgid "What is Europeana's remote search widget?"
-msgstr ""
+msgstr "Možete prijaviti se za Europeana e-vijesti "
 
 #: templates/static_pages/prop_file.html:337
 msgid ""
@@ -2875,8 +2928,9 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/prop_file.html:340
+#, fuzzy
 msgid "What will the plugin look like?"
-msgstr ""
+msgstr "Što je priključak?"
 
 #: templates/static_pages/prop_file.html:341
 msgid ""
@@ -2935,8 +2989,9 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/prop_file.html:353
+#, fuzzy
 msgid "Background colour"
-msgstr ""
+msgstr "Povijest"
 
 #: templates/static_pages/prop_file.html:354
 msgid "Media type tab colour"
@@ -2964,8 +3019,9 @@ msgid "Providers"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:360
+#, fuzzy
 msgid "Europeana attribution"
-msgstr ""
+msgstr "Europeana prava"
 
 #: templates/static_pages/prop_file.html:361
 msgid "Widget Code: (To be copied and pasted into your website)"
@@ -2976,8 +3032,9 @@ msgid "Generate Code"
 msgstr "Generiraj Kod"
 
 #: templates/static_pages/prop_file.html:364
+#, fuzzy
 msgid "Powered By Europeana"
-msgstr ""
+msgstr "Moja Europeana"
 
 #: templates/static_pages/prop_file.html:365
 #: templates/static_pages/prop_file.html:872
@@ -3110,8 +3167,9 @@ msgstr ""
 #: templates/static_pages/prop_file.html:460
 #: templates/static_pages/prop_file.html:471
 #: templates/static_pages/prop_file.html:482
+#, fuzzy
 msgid "Featured item"
-msgstr ""
+msgstr "Podijeli predmet"
 
 #: templates/static_pages/prop_file.html:403
 msgid ""
@@ -3181,40 +3239,37 @@ msgid ""
 "Milk Producers"
 msgstr ""
 
+#: templates/static_pages/prop_file.html:492
+#: templates/static_pages/prop_file.html:495
+msgid "New Open Culture app"
+msgstr ""
+
 #: templates/static_pages/prop_file.html:496
-#: templates/static_pages/prop_file.html:505
+msgid ""
+"Europeana's Open Culture app is now bigger and better! Available for all "
+"Apple and Android tablets."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:497
+#, fuzzy
+msgid "Read more"
+msgstr "Vidi više"
+
+#: templates/static_pages/prop_file.html:502
+#: templates/static_pages/prop_file.html:511
 msgid "Survey - Win an Android Tablet"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:506
+#: templates/static_pages/prop_file.html:512
 msgid ""
 "Speak up and let us know what you think of this website. Take our 5 minute "
 "survey and you'll be entered into a prize draw to win a Google Nexus 10 "
 "Android tablet."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:507
+#: templates/static_pages/prop_file.html:513
 msgid "Take survey"
 msgstr ""
-
-#: templates/static_pages/prop_file.html:511
-#: templates/static_pages/prop_file.html:514
-msgid "Europe's culture - collected for you."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:515
-#, fuzzy
-msgid ""
-"Explore more than 30 million items from a range of Europe's leading "
-"galleries, libraries, archives and museums."
-msgstr ""
-"Slike, glazba, filmovi i knjige iz europskih galerija, knjižnica, arhiva i "
-"muzeja."
-
-#: templates/static_pages/prop_file.html:516
-#, fuzzy
-msgid "Learn more"
-msgstr "Vidi više"
 
 #: templates/static_pages/prop_file.html:530
 #: templates/static_pages/prop_file.html:531
@@ -3248,8 +3303,9 @@ msgid "How to configure your search widget"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:599
+#, fuzzy
 msgid "How to configure your search widhet"
-msgstr ""
+msgstr "Filtriraj pretraživanje"
 
 #: templates/static_pages/prop_file.html:610
 #: templates/static_pages/prop_file.html:611
@@ -3264,8 +3320,9 @@ msgstr "Pinterest"
 #: templates/static_pages/prop_file.html:650
 #: templates/static_pages/prop_file.html:651
 #: templates/static_pages/prop_file.html:656
+#, fuzzy
 msgid "Explore Europe's cultural collections"
-msgstr ""
+msgstr "novim stavkama u Europeana kolekciji"
 
 #: templates/static_pages/prop_file.html:654
 #: templates/static_pages/prop_file.html:655
@@ -3285,8 +3342,9 @@ msgid "Filter your search"
 msgstr "Filtriraj pretraživanje"
 
 #: templates/static_pages/prop_file.html:660
+#, fuzzy
 msgid "Grid view"
-msgstr ""
+msgstr "Pregled"
 
 #: templates/static_pages/prop_file.html:661
 msgid ""
@@ -3295,8 +3353,9 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/prop_file.html:662
+#, fuzzy
 msgid "Similar items"
-msgstr ""
+msgstr "Sličan sadržaj"
 
 #: templates/static_pages/prop_file.html:663
 msgid "Loading ..."
@@ -3370,8 +3429,9 @@ msgid "See more"
 msgstr "Vidi više"
 
 #: templates/static_pages/prop_file.html:681
+#, fuzzy
 msgid "Explore further"
-msgstr ""
+msgstr "Pretražite"
 
 #: templates/static_pages/prop_file.html:682
 msgid "Return to original language"
@@ -3404,16 +3464,18 @@ msgid "Your password change has been successfully completed"
 msgstr "Vaša zamjena lozinke je uspješno završena "
 
 #: templates/static_pages/prop_file.html:690
+#, fuzzy
 msgid "Zoom"
-msgstr ""
+msgstr "Povećaj"
 
 #: templates/static_pages/prop_file.html:691
 msgid "Zoom in"
 msgstr "Povećaj"
 
 #: templates/static_pages/prop_file.html:692
+#, fuzzy
 msgid "Zoom out"
-msgstr ""
+msgstr "Povećaj"
 
 #: templates/static_pages/prop_file.html:693
 msgid "Choose from different map types"
@@ -3570,8 +3632,9 @@ msgid "Follow us!"
 msgstr "Pratite nas!"
 
 #: templates/static_pages/prop_file.html:739
+#, fuzzy
 msgid "Newsletter sign-up"
-msgstr ""
+msgstr "Newsletter: prijavite se!"
 
 #: templates/static_pages/prop_file.html:740
 #: templates/static_pages/prop_file.html:741
@@ -3648,16 +3711,18 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/prop_file.html:809
+#, fuzzy
 msgid "API function"
-msgstr ""
+msgstr "Ostale funkcije"
 
 #: templates/static_pages/prop_file.html:810
 msgid "Search parameters"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:811
+#, fuzzy
 msgid "Search term"
-msgstr ""
+msgstr "Pretraživanje"
 
 #: templates/static_pages/prop_file.html:812
 msgid "Refinement term(s)"
@@ -3684,8 +3749,9 @@ msgid "Record id"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:818
+#, fuzzy
 msgid "Request URL"
-msgstr ""
+msgstr "Zahtjev"
 
 #: templates/static_pages/prop_file.html:819
 msgid "JSON response"
@@ -3721,12 +3787,14 @@ msgstr ""
 
 #: templates/static_pages/prop_file.html:831
 #: templates/static_pages/prop_file.html:832
+#, fuzzy
 msgid "Terms of use &amp; Policies"
-msgstr ""
+msgstr "Uvjeti & pravila"
 
 #: templates/static_pages/prop_file.html:834
+#, fuzzy
 msgid "contact.html"
-msgstr ""
+msgstr "Kontakt"
 
 #: templates/static_pages/prop_file.html:838
 msgid "sitemap.html"
@@ -3746,8 +3814,9 @@ msgid "API key"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:846
+#, fuzzy
 msgid "Private key"
-msgstr ""
+msgstr "Privatnost"
 
 #: templates/static_pages/prop_file.html:847
 msgid "Usage limit"
@@ -3770,8 +3839,9 @@ msgid "Limit"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:852
+#, fuzzy
 msgid "Remove user"
-msgstr ""
+msgstr "Uvjeti korištenja"
 
 #: templates/static_pages/prop_file.html:853
 msgid "Block user"
@@ -3786,12 +3856,14 @@ msgid "Export users to CSV"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:856
+#, fuzzy
 msgid "User name"
-msgstr ""
+msgstr "Korisničko ime"
 
 #: templates/static_pages/prop_file.html:857
+#, fuzzy
 msgid "Registration"
-msgstr ""
+msgstr "Završite registraciju"
 
 #: templates/static_pages/prop_file.html:859
 msgid "Visit the website of"
@@ -3808,8 +3880,9 @@ msgid "Other Europeana Sites"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:868
+#, fuzzy
 msgid "Europeana Exhibitions"
-msgstr ""
+msgstr "Europeana prava"
 
 #: templates/static_pages/prop_file.html:876
 #: templates/static_pages/sitemap.html:19
@@ -3826,8 +3899,9 @@ msgid "Europeana Professional"
 msgstr "Stručna Europeana"
 
 #: templates/static_pages/prop_file.html:885
+#, fuzzy
 msgid "Professional"
-msgstr ""
+msgstr "Stručna Europeana"
 
 #: templates/static_pages/prop_file.html:945
 msgid "Change limit for an API key"
@@ -3842,8 +3916,9 @@ msgid "Telephone contact"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:948
+#, fuzzy
 msgid "Address"
-msgstr ""
+msgstr "E-mail adresa"
 
 #: templates/static_pages/prop_file.html:949
 msgid "I confirm that I have read and agree to the"
@@ -3854,16 +3929,18 @@ msgid "Next in sequence"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:951
+#, fuzzy
 msgid "Date of creation"
-msgstr ""
+msgstr "Zaštita podataka"
 
 #: templates/static_pages/prop_file.html:952
 msgid "Is part of"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:963
+#, fuzzy
 msgid "Titles"
-msgstr ""
+msgstr "Naslov"
 
 #: templates/static_pages/prop_file.html:964
 msgid "Places"
@@ -3874,16 +3951,19 @@ msgid "Dates/Periods"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:966
+#, fuzzy
 msgid "Subjects"
-msgstr ""
+msgstr "Predmet"
 
 #: templates/static_pages/prop_file.html:967
+#, fuzzy
 msgid "Creators"
-msgstr ""
+msgstr "Suradnici"
 
 #: templates/static_pages/prop_file.html:968
+#, fuzzy
 msgid "All fields"
-msgstr ""
+msgstr "Ustanove"
 
 #: templates/static_pages/prop_file.html:969
 msgid "Featured Item"
@@ -3921,20 +4001,23 @@ msgid "Please, select"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:978
+#, fuzzy
 msgid "Please try another search later."
-msgstr ""
+msgstr "Pokušajte s drugim pretraživanjem."
 
 #: templates/static_pages/prop_file.html:979
+#, fuzzy
 msgid "Unable to find the requested page"
-msgstr ""
+msgstr "Nije moguće pronaći sadržaj ove stranice."
 
 #: templates/static_pages/prop_file.html:980
 msgid "Alert:"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:981
+#, fuzzy
 msgid "Unable to find the requested Europeana Record."
-msgstr ""
+msgstr "Nije moguće pronaći sadržaj ove stranice."
 
 #: templates/static_pages/prop_file.html:982
 msgid "This item has been withdrawn by the provider."
@@ -3945,12 +4028,14 @@ msgid "Requested Europeana Record is not yet indexed."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:985
+#, fuzzy
 msgid "Please register your email again"
-msgstr ""
+msgstr "Molimo unesite valjanu e-mail adresu"
 
 #: templates/static_pages/prop_file.html:986
+#, fuzzy
 msgid "to finish registration."
-msgstr ""
+msgstr "Završite registraciju"
 
 #: templates/static_pages/prop_file.html:987
 msgid "Unable to fullfill your request due to malformed query parameters."
@@ -5475,6 +5560,14 @@ msgid ""
 "by dropping us an email at"
 msgstr ""
 
+#, fuzzy
+#~ msgid ""
+#~ "Explore more than 30 million items from a range of Europe's leading "
+#~ "galleries, libraries, archives and museums."
+#~ msgstr ""
+#~ "Slike, glazba, filmovi i knjige iz europskih galerija, knjižnica, arhiva "
+#~ "i muzeja."
+
 #~ msgid "What's new"
 #~ msgstr "Što je novo"
 
@@ -5557,9 +5650,6 @@ msgstr ""
 #~ msgid "What do users most often want to consult or view?"
 #~ msgstr "Što korisnici najčešće žele konzultirati ili pogledati?"
 
-#~ msgid "Email us"
-#~ msgstr "Pošaljite e-mail"
-
 #~ msgid "Why can't I find the material I'm looking for?"
 #~ msgstr "Zašto ne mogu pronaći građu koju tražim?"
 
@@ -5624,17 +5714,8 @@ msgstr ""
 #~ msgid "Content created by user"
 #~ msgstr "Sadržaj stvorio korisnik"
 
-#~ msgid "Contacts"
-#~ msgstr "Kontakti"
-
-#~ msgid "Click here to visit our exhibition, 'European Sport Heritage'"
-#~ msgstr "Kliknite ovdje da posjetite našu izložbu, 'Europska baština sporta'"
-
 #~ msgid "Exhibition: European Sport Heritage"
 #~ msgstr "Izložba: Europska baština sporta"
-
-#~ msgid "Newsletter sign-up!"
-#~ msgstr "Newsletter: prijavite se!"
 
 #~ msgid "Europeana: Rights Reserved - Free Access"
 #~ msgstr "Europeana: Prava zadržana - Slobodan pristup"
@@ -5648,21 +5729,11 @@ msgstr ""
 #~ msgid "Follow us"
 #~ msgstr "Pratite nas"
 
-#~ msgid ""
-#~ "See the latest contributions from our partner museums, libraries, "
-#~ "archives and audio-visual archives by clicking"
-#~ msgstr ""
-#~ "Pogledajte najnovije priloge iz naših partnerskih muzeja, knjižnica, "
-#~ "arhiva i audio-vizualnih arhiva klikom"
-
 #~ msgid "Click"
 #~ msgstr "Klik"
 
 #~ msgid "Click on the globe icon"
 #~ msgstr "Kliknite na ikonu globusa"
-
-#~ msgid "and you can:"
-#~ msgstr "i možete:"
 
 #~ msgid ""
 #~ "Europeana divides search results into 4 main categories: text, images, "
@@ -5718,9 +5789,6 @@ msgstr ""
 
 #~ msgid "creator, date, type"
 #~ msgstr "stvoritelj, datum, vrsta"
-
-#~ msgid "Other functions"
-#~ msgstr "Ostale funkcije"
 
 #~ msgid "Login | Register"
 #~ msgstr "Prijava | Registracija"
@@ -5801,12 +5869,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Ako se pojavi bilo kakav problem koristeći ovu stranicu ili želite "
 #~ "napraviti opće komentare / prijedloge, upotrijebite"
-
-#~ msgid "this form"
-#~ msgstr "ovaj obrazac"
-
-#~ msgid "Terms & Policies"
-#~ msgstr "Uvjeti & pravila"
 
 #~ msgid "Our Terms for User Contributions"
 #~ msgstr "Naši uvjeti za korisnički doprinosi"
@@ -5922,9 +5984,6 @@ msgstr ""
 
 #~ msgid "the Terms of use"
 #~ msgstr "uvjeti korištenja"
-
-#~ msgid "Other Rights"
-#~ msgstr "Ostala prava"
 
 #~ msgid "Terms"
 #~ msgstr "Uvjeti"

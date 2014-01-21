@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-17 08:39+0100\n"
-"PO-Revision-Date: 2013-11-30 00:50\n"
+"POT-Creation-Date: 2014-01-21 13:23+0100\n"
+"PO-Revision-Date: 2014-01-21 12:41\n"
 "Last-Translator: Ukrainian  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -36,9 +36,8 @@ msgid "API Console"
 msgstr "API Консоль"
 
 #: templates/api_leftmenu.html:11 templates/static_pages/sitemap.html:59
-#, fuzzy
 msgid "Search Widget Wizard"
-msgstr "Віхи Європіана"
+msgstr ""
 
 #: templates/api_leftmenu.html:12 templates/static_pages/sitemap.html:60
 msgid "Europeana API Forum"
@@ -145,9 +144,8 @@ msgstr "Підгрунтя"
 
 #: templates/leftmenu.html:9 templates/static_pages/prop_file.html:923
 #: templates/static_pages/prop_file.html:924
-#, fuzzy
 msgid "All providers"
-msgstr "За постачальником"
+msgstr "Усі провайдери"
 
 #: templates/leftmenu.html:10 templates/static_pages/aboutus_enews.html:11
 #: templates/static_pages/prop_file.html:928
@@ -328,14 +326,13 @@ msgstr "Результати в Європіана"
 #: templates/static_pages/usingeuropeana_myeuropeana.html:9
 #: templates/static_pages/usingeuropeana_search.html:16
 msgid "Using My Europeana"
-msgstr "Використовуючи Мою Європіана"
+msgstr "Використовуючи Моя Європіана"
 
 #: templates/usingeuropeana_leftmenu.html:10
 #: templates/static_pages/prop_file.html:908
 #: templates/static_pages/prop_file.html:909
-#, fuzzy
 msgid "Configure your search widget"
-msgstr "фільтруйте ваші результати пошуку:"
+msgstr "Налаштуйте ваш майстер пошуку"
 
 #: templates/NOT/leftmenu_old.html:11
 msgid "eNews"
@@ -362,6 +359,10 @@ msgid ""
 "we will produce a version &ndash; post this prototype phase &ndash; for "
 "blind individuals."
 msgstr ""
+"Наша команда Централізованого Дизайну Користувачів регулярно проводить "
+"юзабіліті тестування Europeana.eu навігації, потоку, заголовків та "
+"логічності. Окрім того, ми створимо версію &ndash; розповсюдити цю фазу "
+"прототипу &ndash; для яскравих людей."
 
 #: templates/rights/accessibility.html:27
 msgid "Some of the accessibility features of our site include"
@@ -531,7 +532,7 @@ msgstr "Усі опитування про сайт будуть надані л
 msgid ""
 "Search Engine Promotion to be executed in English, in the\n"
 "first instance"
-msgstr ""
+msgstr "Search Engine Promotion перш за все має працювати англійською"
 
 #: templates/rights/languagepolicy.html:62
 msgid ""
@@ -1547,9 +1548,8 @@ msgid "Europe's culture - collected for you"
 msgstr "Дослідіть Європейські культурні колекції"
 
 #: templates/static_pages/aboutus_enews.html:18
-#, fuzzy
 msgid "Discover Europeana's hand-picked collections"
-msgstr "Нові об'єкти в колекції Європіани"
+msgstr ""
 
 #: templates/static_pages/aboutus_enews.html:19
 #: templates/static_pages/aboutus_enews.html:29
@@ -3460,41 +3460,37 @@ msgid ""
 "Milk Producers"
 msgstr ""
 
+#: templates/static_pages/prop_file.html:492
+#: templates/static_pages/prop_file.html:495
+msgid "New Open Culture app"
+msgstr ""
+
 #: templates/static_pages/prop_file.html:496
-#: templates/static_pages/prop_file.html:505
+msgid ""
+"Europeana's Open Culture app is now bigger and better! Available for all "
+"Apple and Android tablets."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:497
+#, fuzzy
+msgid "Read more"
+msgstr "Показати"
+
+#: templates/static_pages/prop_file.html:502
+#: templates/static_pages/prop_file.html:511
 msgid "Survey - Win an Android Tablet"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:506
+#: templates/static_pages/prop_file.html:512
 msgid ""
 "Speak up and let us know what you think of this website. Take our 5 minute "
 "survey and you'll be entered into a prize draw to win a Google Nexus 10 "
 "Android tablet."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:507
+#: templates/static_pages/prop_file.html:513
 msgid "Take survey"
 msgstr ""
-
-#: templates/static_pages/prop_file.html:511
-#: templates/static_pages/prop_file.html:514
-#, fuzzy
-msgid "Europe's culture - collected for you."
-msgstr "Дослідіть Європейські культурні колекції"
-
-#: templates/static_pages/prop_file.html:515
-#, fuzzy
-msgid ""
-"Explore more than 30 million items from a range of Europe's leading "
-"galleries, libraries, archives and museums."
-msgstr ""
-"Малюнки, музика, фільми та книжки із Європейських галерей, бібліотек, "
-"архівів та музеїв."
-
-#: templates/static_pages/prop_file.html:516
-#, fuzzy
-msgid "Learn more"
-msgstr "Показати"
 
 #: templates/static_pages/prop_file.html:530
 #: templates/static_pages/prop_file.html:531
@@ -3759,9 +3755,8 @@ msgid "Download"
 msgstr "Завантажити"
 
 #: templates/static_pages/prop_file.html:705
-#, fuzzy
 msgid "User contributed content"
-msgstr "Інформація користувачів"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:706
 msgid "Play"
@@ -3999,9 +3994,8 @@ msgid "What"
 msgstr "Що"
 
 #: templates/static_pages/prop_file.html:826
-#, fuzzy
 msgid "api-introduction.html"
-msgstr "Знайомство"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:829
 #: templates/static_pages/prop_file.html:833
@@ -4285,9 +4279,8 @@ msgid "Can I use it?"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:1004
-#, fuzzy
 msgid "Yes, with attribution"
-msgstr "Компетенція"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:1005
 msgid "Yes, with restrictions"
@@ -4306,9 +4299,8 @@ msgid "Searching in Europeana"
 msgstr "Шукати в Європіана"
 
 #: templates/static_pages/sitemap.html:39
-#, fuzzy
 msgid "All Providers"
-msgstr "За провайдером"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:41
 msgid "Press Centre (on Europeana Professional)"
@@ -4323,14 +4315,12 @@ msgid "Partners (on Europeana Professional)"
 msgstr "Партнери (в Європіана Професійна)"
 
 #: templates/static_pages/sitemap.html:56
-#, fuzzy
 msgid "Working with the API"
-msgstr "Працювати із Європіана"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:57
-#, fuzzy
 msgid "Latest changes"
-msgstr "Останнє на"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:58
 msgid "Sample Code and Libraries"
@@ -4373,19 +4363,16 @@ msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
 msgstr "Угода про Обмін Даними Європіана (в Європіана Професійна)"
 
 #: templates/static_pages/sitemap.html:115
-#, fuzzy
 msgid "Rights Reserved - Free access"
-msgstr "Права захищено - Вільний доступ"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:116
-#, fuzzy
 msgid "Rights Reserved - Restricted access"
-msgstr "Права захищено - Обмежений доступ"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:117
-#, fuzzy
 msgid "Rights Reserved - Paid access"
-msgstr "Права захищено - Платний доступ"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:118
 msgid "Unknown copyright status"
@@ -5710,9 +5697,8 @@ msgstr ""
 "необхідно. Це також включає налаштування друку та електроного пересилання."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:3
-#, fuzzy
 msgid "Europeana - How to configure your search widget"
-msgstr "Віхи Європіана"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:10
 msgid "You can add a Europeana search facility to your blog or website."
@@ -5737,37 +5723,32 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:12
-#, fuzzy
 msgid "The Europeana Search Widget works with..."
-msgstr "Віхи Європіана"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:13
 msgid "Sites that you host yourself."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:18
-#, fuzzy
 msgid "The Europeana Search Widget doesn't work with..."
-msgstr "Віхи Європіана"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:19
 msgid "Blogs hosted on Wordpress.com"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:20
-#, fuzzy
 msgid "Set up your Europeana Search Widget:"
-msgstr "Віхи Європіана"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:22
-#, fuzzy
 msgid "Go to the search widget page."
-msgstr "деякі із ключових фраз"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:23
-#, fuzzy
 msgid "Introduction tab"
-msgstr "Знайомство"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:23
 msgid ""
@@ -5788,14 +5769,12 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:25
-#, fuzzy
 msgid "To tailor your search widget"
-msgstr "фільтруйте ваші результати пошуку:"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:27
-#, fuzzy
 msgid "Keyword search"
-msgstr "Фільтруйте свій пошук"
+msgstr "Пошук за ключовим словом"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:27
 msgid ""
@@ -5804,6 +5783,11 @@ msgid ""
 "(s) in the 'Search for' field. For example, if you are adding a widget to "
 "your First World War blog about military uniform, you might type 'uniform'."
 msgstr ""
+"За замовчуванням, віджет шукає за всіма даними Європіана. \n"
+"Ви можете обмежити пошук ключовим словом або фразою. Щоб зробити це, введіть "
+"ключове слово в поле 'Шукати'. Наприклад, якщо ви додаєте віджет до свого "
+"блогу про Першу Світову Війну, що присвячений уніформі, ви можете вказати "
+"'uniform' або 'уніформа'."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:28
 msgid ""
@@ -5814,9 +5798,8 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:29
-#, fuzzy
 msgid "Search on types"
-msgstr "Пошукові підказки"
+msgstr "Пошук за типами"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:29
 msgid ""
@@ -5842,9 +5825,8 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:31
-#, fuzzy
 msgid "Countries"
-msgstr "Країна"
+msgstr "Країни"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:31
 msgid ""
@@ -5857,7 +5839,6 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:32
-#, fuzzy
 msgid "Media types"
 msgstr "Типи медіа"
 
@@ -5871,11 +5852,17 @@ msgid ""
 "can select more than one.  To clear your selection and start again, tap "
 "'Clear'."
 msgstr ""
+"За замовчуванням, віджет вертає результати усіх типів медіа - зображення, "
+"текст, звук, відео та 3D. Ви можете обмежите їх лише медіа типами, що вам "
+"необхідні. Натисніть 'Змінити', що йде за 'Усі типи медіа' та оберіть типи, "
+"що потрібні. Типи медіа вказані в порядку їх розміру. Число в дужках, вказує "
+"скільки елементів вказаного медіа типу є в наявності. Зверніть увагу: ви "
+"можете обрати більше одного. Щоб очистити ваш вибір та почати знову, "
+"натисніть 'Очистити'."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:33
-#, fuzzy
 msgid "Copyright"
-msgstr "За правами"
+msgstr "Авторські права "
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:33
 msgid ""
@@ -5889,31 +5876,27 @@ msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:34
 msgid "More information on the CC licenses"
-msgstr ""
+msgstr "Більше інформації про СС ліцензії "
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:35
-#, fuzzy
 msgid "More information on the Rights Reserved - Free Access label"
-msgstr "Європіана - Права захищено - Вільний доступ"
+msgstr "Більше інформації на заголовку Права захищені - Вільний доступ "
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:36
-#, fuzzy
 msgid "More information on the Rights Reserved - Restricted Access label"
-msgstr "Європіана - Права захищено - Обмежений доступ"
+msgstr "Більше інформації на заголовку Права захищені - Обмежений доступ"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:37
-#, fuzzy
 msgid "More information on the Rights Reserved - Paid Access label"
-msgstr "Європіана - Права захищені - Платний Доступ"
+msgstr "Більше інформації на заголовку Права захищені - Платний доступ"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:38
 msgid "More information on the Unknown rights label"
-msgstr ""
+msgstr "Більше інформації на заголовку Невідомі права "
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:39
-#, fuzzy
 msgid "Languages"
-msgstr "Мова"
+msgstr "Мови"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:39
 msgid ""
@@ -5924,31 +5907,40 @@ msgid ""
 "items of each language are available. Note: you can select more than one. To "
 "clear your selection and start again, tap 'Clear'."
 msgstr ""
+"За замовчуванням, віджет вертає результати всіма мовами. Ви можете обмежити "
+"його лише обраною мовою. Натисніть 'Змінити', що йде за 'Усі мови' та "
+"оберіть мови, що вам необхідні. Мови презентовані у порядку, їх кількісної "
+"присутності в Європіана. Кількість у дужках вказує наскільки багато "
+"елементів доступно кожною мовою. Прийміть до уваги, що ви можете обрати "
+"більше однієї мови. Щоб очистити ваш вибір та почати знову, натисніть "
+"'Очистити'."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:40
 msgid ""
 "When you have selected all your filters, tap 'Next' or the 'Style' tab "
 "heading."
 msgstr ""
+"Коли ви обрали усі свої фільтри, натисніть 'Далі' або заголовок 'Стиль'"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:42
 msgid "Style tab"
-msgstr ""
+msgstr "Таб Стиль"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:42
 msgid ""
 "You can choose a black or white widget and select to include thumbnails or "
 "not. Select the style you would like to use."
 msgstr ""
+"Ви можете обрати чорний або білий віджет та обрати чи додавати репродукції "
+"чи ні. Оберіть стиль, що ви бажаєте використовувати."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:43
 msgid "Tap 'Next' or the 'Preview' tab heading."
-msgstr ""
+msgstr "Торкніться заголовків табів 'Далі' або 'Репродукції'. "
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:44
-#, fuzzy
 msgid "Preview tab"
-msgstr "Предперегляд"
+msgstr "Таб Репродукція"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:44
 msgid ""
@@ -5956,24 +5948,33 @@ msgid ""
 "so expands to fit the width of its container. For this reason, it may be a "
 "different size on the preview than it will be on your own web page."
 msgstr ""
+"Ваш віджет буде відображений. Будьте ласкаві зверніть увагу, що віджет "
+"відповідальний та збільшить ширину його контейнеру. \n"
+"Тому, він може бути різного розміру на превію та на вашій власній сторінці."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:46
 msgid ""
 "If you wish to amend the widget's properties, just go back to the 'Search', "
 "'Filter' or 'Style' tab and make your changes."
 msgstr ""
+"Якщо ви бажаєте покращити налаштування візарду, лише поверніться до табів "
+"'Шукати', 'Фільтрувати' або 'Стиль' та зробіть свої зміни."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:47
 msgid ""
 "If you are happy with your widget, simply copy the 'Embed' code displayed "
 "and paste this into your web page."
 msgstr ""
+"Якщо наш віджет вам подобається, просто скопуйте код 'Вставка' та розмістить "
+"його на своїй веб сторінці."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:48
 msgid ""
 "We would love to know how you are using this search widget, please tell us "
 "by dropping us an email at"
 msgstr ""
+"Ми із радістю дізнаємось, ваш досвід використання цього пошукового віджету, "
+"будьте ласкаві надішліть нам повідомлення про це електронною поштою до "
 
 #~ msgid "What's new"
 #~ msgstr "Що нового"

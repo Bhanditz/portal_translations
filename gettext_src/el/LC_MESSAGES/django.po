@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-17 08:39+0100\n"
+"POT-Creation-Date: 2014-01-21 13:22+0100\n"
 "PO-Revision-Date: 2013-03-29 20:03\n"
 "Last-Translator: Greek  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3626,41 +3626,37 @@ msgid ""
 "Milk Producers"
 msgstr ""
 
+#: templates/static_pages/prop_file.html:492
+#: templates/static_pages/prop_file.html:495
+msgid "New Open Culture app"
+msgstr ""
+
 #: templates/static_pages/prop_file.html:496
-#: templates/static_pages/prop_file.html:505
+msgid ""
+"Europeana's Open Culture app is now bigger and better! Available for all "
+"Apple and Android tablets."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:497
+#, fuzzy
+msgid "Read more"
+msgstr "Δείτε περισσότερα"
+
+#: templates/static_pages/prop_file.html:502
+#: templates/static_pages/prop_file.html:511
 msgid "Survey - Win an Android Tablet"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:506
+#: templates/static_pages/prop_file.html:512
 msgid ""
 "Speak up and let us know what you think of this website. Take our 5 minute "
 "survey and you'll be entered into a prize draw to win a Google Nexus 10 "
 "Android tablet."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:507
+#: templates/static_pages/prop_file.html:513
 msgid "Take survey"
 msgstr ""
-
-#: templates/static_pages/prop_file.html:511
-#: templates/static_pages/prop_file.html:514
-#, fuzzy
-msgid "Europe's culture - collected for you."
-msgstr "Ο πολιτισμός της Ευρώπης - συλλεγμένος για σένα"
-
-#: templates/static_pages/prop_file.html:515
-#, fuzzy
-msgid ""
-"Explore more than 30 million items from a range of Europe's leading "
-"galleries, libraries, archives and museums."
-msgstr ""
-"Πίνακες ζωγραφικής, μουσική, ταινίες και βιβλία από πινακοθήκες, "
-"βιβλιοθήκες, αρχεία και μουσεία της Ευρώπης."
-
-#: templates/static_pages/prop_file.html:516
-#, fuzzy
-msgid "Learn more"
-msgstr "Δείτε περισσότερα"
 
 #: templates/static_pages/prop_file.html:530
 #: templates/static_pages/prop_file.html:531
@@ -3694,8 +3690,9 @@ msgid "How to configure your search widget"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:599
+#, fuzzy
 msgid "How to configure your search widhet"
-msgstr ""
+msgstr "Τι είναι η απομακρυσμένη αναζήτηση στοιχείου διεπαφής στη Europeana;"
 
 #: templates/static_pages/prop_file.html:610
 #: templates/static_pages/prop_file.html:611
@@ -4466,8 +4463,9 @@ msgid "Yes, with attribution"
 msgstr "Απόδοση"
 
 #: templates/static_pages/prop_file.html:1005
+#, fuzzy
 msgid "Yes, with restrictions"
-msgstr ""
+msgstr "Απόδοση"
 
 #: templates/static_pages/prop_file.html:1006
 msgid "Only with permission"
@@ -6222,6 +6220,18 @@ msgid ""
 "We would love to know how you are using this search widget, please tell us "
 "by dropping us an email at"
 msgstr ""
+
+#, fuzzy
+#~ msgid "Europe's culture - collected for you."
+#~ msgstr "Ο πολιτισμός της Ευρώπης - συλλεγμένος για σένα"
+
+#, fuzzy
+#~ msgid ""
+#~ "Explore more than 30 million items from a range of Europe's leading "
+#~ "galleries, libraries, archives and museums."
+#~ msgstr ""
+#~ "Πίνακες ζωγραφικής, μουσική, ταινίες και βιβλία από πινακοθήκες, "
+#~ "βιβλιοθήκες, αρχεία και μουσεία της Ευρώπης."
 
 #~ msgid "What's new"
 #~ msgstr "Τί νέο υπάρχει"

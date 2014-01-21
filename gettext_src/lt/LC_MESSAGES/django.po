@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-17 08:39+0100\n"
+"POT-Creation-Date: 2014-01-21 13:22+0100\n"
 "PO-Revision-Date: 2012-02-21 15:19\n"
 "Last-Translator: <jacob.lundqvist@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3059,8 +3059,9 @@ msgid "Free Access"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:314
+#, fuzzy
 msgid "Restricted Access"
-msgstr ""
+msgstr "Europeana - teisės saugomos - ribota prieiga"
 
 #: templates/static_pages/prop_file.html:315
 msgid "Paid Access"
@@ -3507,39 +3508,36 @@ msgid ""
 "Milk Producers"
 msgstr ""
 
+#: templates/static_pages/prop_file.html:492
+#: templates/static_pages/prop_file.html:495
+msgid "New Open Culture app"
+msgstr ""
+
 #: templates/static_pages/prop_file.html:496
-#: templates/static_pages/prop_file.html:505
+msgid ""
+"Europeana's Open Culture app is now bigger and better! Available for all "
+"Apple and Android tablets."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:497
+#, fuzzy
+msgid "Read more"
+msgstr "Europeana - Skaitant Europą"
+
+#: templates/static_pages/prop_file.html:502
+#: templates/static_pages/prop_file.html:511
 msgid "Survey - Win an Android Tablet"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:506
+#: templates/static_pages/prop_file.html:512
 msgid ""
 "Speak up and let us know what you think of this website. Take our 5 minute "
 "survey and you'll be entered into a prize draw to win a Google Nexus 10 "
 "Android tablet."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:507
+#: templates/static_pages/prop_file.html:513
 msgid "Take survey"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:511
-#: templates/static_pages/prop_file.html:514
-#, fuzzy
-msgid "Europe's culture - collected for you."
-msgstr "Europeanos kolekcijos naujienas,"
-
-#: templates/static_pages/prop_file.html:515
-#, fuzzy
-msgid ""
-"Explore more than 30 million items from a range of Europe's leading "
-"galleries, libraries, archives and museums."
-msgstr ""
-"Paveikslai, muzikos kūriniai, filmai ir knygos iš Europos galerijų, "
-"bibliotekų, archyvų ir muziejų."
-
-#: templates/static_pages/prop_file.html:516
-msgid "Learn more"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:530
@@ -3575,13 +3573,15 @@ msgid "How to configure your search widget"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:599
+#, fuzzy
 msgid "How to configure your search widhet"
-msgstr ""
+msgstr "Europeanos logotipų"
 
 #: templates/static_pages/prop_file.html:610
 #: templates/static_pages/prop_file.html:611
+#, fuzzy
 msgid "Press Room"
-msgstr ""
+msgstr "Spaudos kambarys"
 
 #: templates/static_pages/prop_file.html:642
 #: templates/static_pages/prop_file.html:643
@@ -4382,8 +4382,9 @@ msgid "Yes, with attribution"
 msgstr "Atribucija"
 
 #: templates/static_pages/prop_file.html:1005
+#, fuzzy
 msgid "Yes, with restrictions"
-msgstr ""
+msgstr "Atribucija"
 
 #: templates/static_pages/prop_file.html:1006
 msgid "Only with permission"
@@ -5998,6 +5999,18 @@ msgid ""
 msgstr ""
 
 #, fuzzy
+#~ msgid "Europe's culture - collected for you."
+#~ msgstr "Europeanos kolekcijos naujienas,"
+
+#, fuzzy
+#~ msgid ""
+#~ "Explore more than 30 million items from a range of Europe's leading "
+#~ "galleries, libraries, archives and museums."
+#~ msgstr ""
+#~ "Paveikslai, muzikos kūriniai, filmai ir knygos iš Europos galerijų, "
+#~ "bibliotekų, archyvų ir muziejų."
+
+#, fuzzy
 #~ msgid "What's new"
 #~ msgstr "Kas yra Mano Europeana?"
 
@@ -7296,10 +7309,6 @@ msgstr ""
 
 #~ msgid "Cite"
 #~ msgstr "Pavadinimas"
-
-#, fuzzy
-#~ msgid "Reading Europe"
-#~ msgstr "Europeana - Skaitant Europą"
 
 #, fuzzy
 #~ msgid "Map Search"
