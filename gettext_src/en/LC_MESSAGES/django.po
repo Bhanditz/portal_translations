@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-21 13:30+0100\n"
+"POT-Creation-Date: 2014-01-21 13:33+0100\n"
 "PO-Revision-Date: 2011-12-08 15:57\n"
 "Last-Translator: <dean.birkett@kb.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,11 +19,16 @@ msgstr ""
 "X-Translated-Using: django-rosetta 0.5.6\n"
 
 #: templates/api_leftmenu.html:3 templates/static_pages/europeana-api.html:4
+#: templates/static_pages/prop_file.html:63
+#: templates/static_pages/prop_file.html:827
+#: templates/static_pages/prop_file.html:828
 #: templates/static_pages/sitemap.html:51
 msgid "Europeana API"
 msgstr ""
 
-#: templates/api_leftmenu.html:6 templates/static_pages/sitemap.html:53
+#: templates/api_leftmenu.html:6 templates/static_pages/prop_file.html:995
+#: templates/static_pages/prop_file.html:996
+#: templates/static_pages/sitemap.html:53
 msgid "Get an API-Key"
 msgstr ""
 
@@ -40,88 +45,134 @@ msgid "Europeana API Forum"
 msgstr ""
 
 #: templates/explore_leftmenu.html:3 templates/static_pages/explore.html:9
+#: templates/static_pages/prop_file.html:550
+#: templates/static_pages/prop_file.html:551
 msgid "Explore"
 msgstr ""
 
-#: templates/explore_leftmenu.html:5 templates/static_pages/sitemap.html:20
+#: templates/explore_leftmenu.html:5 templates/static_pages/prop_file.html:554
+#: templates/static_pages/prop_file.html:555
+#: templates/static_pages/prop_file.html:880
+#: templates/static_pages/sitemap.html:20
 msgid "Europeana Remix"
 msgstr ""
 
-#: templates/explore_leftmenu.html:6 templates/static_pages/sitemap.html:17
+#: templates/explore_leftmenu.html:6 templates/static_pages/prop_file.html:558
+#: templates/static_pages/prop_file.html:559
+#: templates/static_pages/prop_file.html:869
+#: templates/static_pages/sitemap.html:17
 #: templates/static_pages/usingeuropeana_explore.html:14
 msgid "Exhibitions"
 msgstr ""
 
 #: templates/explore_leftmenu.html:7 templates/leftmenu.html:8
+#: templates/static_pages/prop_file.html:60
+#: templates/static_pages/prop_file.html:562
+#: templates/static_pages/prop_file.html:563
+#: templates/static_pages/prop_file.html:918
+#: templates/static_pages/prop_file.html:919
 #: templates/static_pages/sitemap.html:38
 #: templates/static_pages/sitemap.html:87
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "New content"
 msgstr ""
 
-#: templates/explore_leftmenu.html:9 templates/static_pages/sitemap.html:88
+#: templates/explore_leftmenu.html:9 templates/static_pages/prop_file.html:78
+#: templates/static_pages/prop_file.html:566
+#: templates/static_pages/prop_file.html:567
+#: templates/static_pages/sitemap.html:88
 #: templates/static_pages/usingeuropeana_search.html:60
 msgid "By provider"
 msgstr ""
 
-#: templates/explore_leftmenu.html:10 templates/static_pages/sitemap.html:89
+#: templates/explore_leftmenu.html:10 templates/static_pages/prop_file.html:37
+#: templates/static_pages/prop_file.html:570
+#: templates/static_pages/prop_file.html:571
+#: templates/static_pages/sitemap.html:89
 msgid "Timeline"
 msgstr ""
 
-#: templates/explore_leftmenu.html:11 templates/static_pages/sitemap.html:90
+#: templates/explore_leftmenu.html:11
+#: templates/static_pages/prop_file.html:574
+#: templates/static_pages/prop_file.html:575
+#: templates/static_pages/sitemap.html:90
 msgid "Map"
 msgstr ""
 
 #: templates/followus_leftmenu.html:3 templates/static_pages/followus.html:9
+#: templates/static_pages/prop_file.html:622
+#: templates/static_pages/prop_file.html:623
 msgid "Follow Us"
 msgstr ""
 
-#: templates/followus_leftmenu.html:5 templates/static_pages/sitemap.html:18
+#: templates/followus_leftmenu.html:5
+#: templates/static_pages/prop_file.html:626
+#: templates/static_pages/prop_file.html:627
+#: templates/static_pages/prop_file.html:873
+#: templates/static_pages/sitemap.html:18
 msgid "Blog"
 msgstr ""
 
 #: templates/followus_leftmenu.html:6
+#: templates/static_pages/prop_file.html:630
+#: templates/static_pages/prop_file.html:631
 msgid "Newsletter"
 msgstr ""
 
 #: templates/followus_leftmenu.html:8
+#: templates/static_pages/prop_file.html:634
+#: templates/static_pages/prop_file.html:635
 msgid "Facebook"
 msgstr ""
 
 #: templates/followus_leftmenu.html:9
+#: templates/static_pages/prop_file.html:638
+#: templates/static_pages/prop_file.html:639
 msgid "Twitter"
 msgstr ""
 
 #: templates/leftmenu.html:3 templates/NOT/leftmenu1_old.html:3
-#: templates/NOT/leftmenu_old.html:3
+#: templates/NOT/leftmenu_old.html:3 templates/static_pages/prop_file.html:602
+#: templates/static_pages/prop_file.html:603
 msgid "About Us"
 msgstr ""
 
 #: templates/leftmenu.html:6 templates/NOT/leftmenu1_old.html:6
-#: templates/NOT/leftmenu_old.html:6
+#: templates/NOT/leftmenu_old.html:6 templates/static_pages/prop_file.html:606
+#: templates/static_pages/prop_file.html:607
 msgid "Background"
 msgstr ""
 
-#: templates/leftmenu.html:9
+#: templates/leftmenu.html:9 templates/static_pages/prop_file.html:923
+#: templates/static_pages/prop_file.html:924
 msgid "All providers"
 msgstr ""
 
 #: templates/leftmenu.html:10 templates/static_pages/aboutus_enews.html:11
+#: templates/static_pages/prop_file.html:928
+#: templates/static_pages/prop_file.html:929
 #: templates/static_pages/sitemap.html:40
 msgid "Previous newsletters"
 msgstr ""
 
 #: templates/leftmenu.html:12 templates/NOT/leftmenu_old.html:8
+#: templates/static_pages/prop_file.html:933
+#: templates/static_pages/prop_file.html:934
 msgid "Press Centre"
 msgstr ""
 
 #: templates/leftmenu.html:13 templates/NOT/leftmenu_old.html:9
+#: templates/static_pages/prop_file.html:938
+#: templates/static_pages/prop_file.html:939
 msgid "Jobs"
 msgstr ""
 
 #: templates/leftmenu.html:14 templates/leftmenu.html.py:17
 #: templates/NOT/leftmenu1_old.html:9 templates/NOT/leftmenu1_old.html:12
 #: templates/NOT/leftmenu_old.html:10 templates/NOT/leftmenu_old.html.py:14
+#: templates/static_pages/prop_file.html:36
+#: templates/static_pages/prop_file.html:618
+#: templates/static_pages/prop_file.html:619
 msgid "Partners"
 msgstr ""
 
@@ -132,6 +183,8 @@ msgstr ""
 
 #: templates/leftmenu.html:16 templates/NOT/leftmenu1_old.html:8
 #: templates/NOT/leftmenu1_old.html:11 templates/NOT/leftmenu_old.html:13
+#: templates/static_pages/prop_file.html:614
+#: templates/static_pages/prop_file.html:615
 msgid "Job opportunities"
 msgstr ""
 
@@ -189,17 +242,25 @@ msgstr ""
 
 #: templates/terms_leftmenu.html:24 templates/rights/privacy.html:15
 #: templates/rights/terms-and-policies.html:37
+#: templates/static_pages/prop_file.html:68
+#: templates/static_pages/prop_file.html:534
+#: templates/static_pages/prop_file.html:535
 #: templates/static_pages/sitemap.html:106
 msgid "Privacy"
 msgstr ""
 
 #: templates/terms_leftmenu.html:25 templates/rights/languagepolicy.html:15
 #: templates/rights/terms-and-policies.html:37
+#: templates/static_pages/prop_file.html:180
+#: templates/static_pages/prop_file.html:239
 msgid "Language"
 msgstr ""
 
 #: templates/terms_leftmenu.html:26 templates/rights/accessibility.html:15
 #: templates/rights/terms-and-policies.html:37
+#: templates/static_pages/prop_file.html:65
+#: templates/static_pages/prop_file.html:522
+#: templates/static_pages/prop_file.html:523
 #: templates/static_pages/sitemap.html:108
 msgid "Accessibility"
 msgstr ""
@@ -209,12 +270,21 @@ msgid "Public Domain Charter"
 msgstr ""
 
 #: templates/usingeuropeana_leftmenu.html:3
+#: templates/static_pages/prop_file.html:334
+#: templates/static_pages/prop_file.html:578
+#: templates/static_pages/prop_file.html:579
+#: templates/static_pages/prop_file.html:888
+#: templates/static_pages/prop_file.html:889
 #: templates/static_pages/sitemap.html:25
 #: templates/static_pages/usingeuropeana.html:9
 msgid "Help"
 msgstr ""
 
 #: templates/usingeuropeana_leftmenu.html:5
+#: templates/static_pages/prop_file.html:582
+#: templates/static_pages/prop_file.html:583
+#: templates/static_pages/prop_file.html:892
+#: templates/static_pages/prop_file.html:893
 #: templates/static_pages/usingeuropeana.html:14
 #: templates/static_pages/usingeuropeana_results.html:22
 #: templates/static_pages/usingeuropeana_search.html:9
@@ -223,6 +293,11 @@ msgid "Searching Europeana"
 msgstr ""
 
 #: templates/usingeuropeana_leftmenu.html:6
+#: templates/static_pages/prop_file.html:288
+#: templates/static_pages/prop_file.html:586
+#: templates/static_pages/prop_file.html:587
+#: templates/static_pages/prop_file.html:896
+#: templates/static_pages/prop_file.html:897
 #: templates/static_pages/sitemap.html:28
 #: templates/static_pages/usingeuropeana.html:16
 #: templates/static_pages/usingeuropeana_explore.html:9
@@ -231,6 +306,10 @@ msgid "Exploring Europeana"
 msgstr ""
 
 #: templates/usingeuropeana_leftmenu.html:8
+#: templates/static_pages/prop_file.html:590
+#: templates/static_pages/prop_file.html:591
+#: templates/static_pages/prop_file.html:900
+#: templates/static_pages/prop_file.html:901
 #: templates/static_pages/sitemap.html:29
 #: templates/static_pages/usingeuropeana.html:19
 #: templates/static_pages/usingeuropeana_results.html:9
@@ -239,6 +318,10 @@ msgid "Results in Europeana"
 msgstr ""
 
 #: templates/usingeuropeana_leftmenu.html:9
+#: templates/static_pages/prop_file.html:594
+#: templates/static_pages/prop_file.html:595
+#: templates/static_pages/prop_file.html:904
+#: templates/static_pages/prop_file.html:905
 #: templates/static_pages/sitemap.html:30
 #: templates/static_pages/usingeuropeana.html:21
 #: templates/static_pages/usingeuropeana_myeuropeana.html:9
@@ -247,6 +330,8 @@ msgid "Using My Europeana"
 msgstr ""
 
 #: templates/usingeuropeana_leftmenu.html:10
+#: templates/static_pages/prop_file.html:908
+#: templates/static_pages/prop_file.html:909
 msgid "Configure your search widget"
 msgstr ""
 
@@ -1110,6 +1195,7 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/aboutus.html:28
+#: templates/static_pages/prop_file.html:91
 #: templates/static_pages/usingeuropeana_results.html:16
 msgid "Images"
 msgstr ""
@@ -1119,6 +1205,7 @@ msgid "paintings, drawings, maps, photos and pictures of museum objects"
 msgstr ""
 
 #: templates/static_pages/aboutus.html:29
+#: templates/static_pages/prop_file.html:90
 #: templates/static_pages/usingeuropeana_results.html:15
 msgid "Texts"
 msgstr ""
@@ -1128,6 +1215,7 @@ msgid "books, newspapers, letters, diaries and archival papers"
 msgstr ""
 
 #: templates/static_pages/aboutus.html:30
+#: templates/static_pages/prop_file.html:93
 msgid "Sounds"
 msgstr ""
 
@@ -1136,6 +1224,7 @@ msgid "music and spoken word from cylinders, tapes, discs and radio broadcasts"
 msgstr ""
 
 #: templates/static_pages/aboutus.html:31
+#: templates/static_pages/prop_file.html:92
 msgid "Videos"
 msgstr ""
 
@@ -1393,18 +1482,110 @@ msgstr ""
 msgid "Europeana - New Content"
 msgstr ""
 
-#: templates/static_pages/sitemap.html:4
-msgid "Europeana - Sitemap"
+#: templates/static_pages/prop_file.html:5
+msgid ""
+"I understand that My Europeana gives me the opportunity to create tags for "
+"any item I wish. I agree that I will not create any tags that could be "
+"considered libelous, harmful, threatening, unlawful, defamatory,infringing, "
+"abusive, inflammatory, harassing, pornographic, obscene, fraudulent, "
+"invasive of privacy orpublicity rights, hateful, or racially, ethnically or "
+"otherwise objectionable. By clicking this box I agreeto abide by this "
+"agreement, and understand that if I don't my membership of My Europeana will "
+"be terminated."
 msgstr ""
 
-#: templates/static_pages/sitemap.html:8
-msgid "Sitemap"
+#: templates/static_pages/prop_file.html:6
+msgid "You must agree to our code of conduct to register for My Europeana"
 msgstr ""
 
-#: templates/static_pages/sitemap.html:11
-msgid "Home"
+#: templates/static_pages/prop_file.html:7
+msgid "I agree"
 msgstr ""
 
+#: templates/static_pages/prop_file.html:8
+#: templates/static_pages/prop_file.html:230
+msgid "Contributor"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:9
+msgid "Contributors"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:10
+msgid "Country"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:11
+msgid "Sector"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:12
+msgid "Partner"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:13
+msgid ""
+"This is the network of partners who collaborated to make Europeana happen, "
+"and who represent Europeana in their countries and professional associations."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:14
+msgid ""
+"These are the organisations that are contributing content - digitised "
+"paintings, books, broadcasts etc. Some of these contributors are  "
+"aggregators*, Culture.fr is the largest aggregator, providing content from "
+"about 480 organisations in France, including the Louvre and the Musée "
+"d’Orsay. The number of organisations contributing to an aggregator is shown "
+"in brackets after the aggregator’s name, e.g. Videoactive (10)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:15
+msgid ""
+"*An aggregator collects material from a range of other contributors, "
+"displays it on their own website and also channels it into Europeana."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:16
+msgid "This is a required field"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:17
+msgid "Please enter a valid email address"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:18
+msgid "Logged in as"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:19
+msgid "Saved items"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:20
+msgid "Saved searches"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:21
+msgid "Saved tags"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:22
+msgid "Saved notifications"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:23
+msgid "Login"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:24
+msgid "Log out"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:25
+#: templates/static_pages/prop_file.html:646
+#: templates/static_pages/prop_file.html:647
+#: templates/static_pages/prop_file.html:961
+#: templates/static_pages/prop_file.html:962
 #: templates/static_pages/sitemap.html:12
 #: templates/static_pages/usingeuropeana_myeuropeana.html:10
 #: templates/static_pages/usingeuropeana_myeuropeana.html:11
@@ -1413,29 +1594,2393 @@ msgstr ""
 msgid "My Europeana"
 msgstr ""
 
-#: templates/static_pages/sitemap.html:15
-msgid "Other Europeana Sites"
+#: templates/static_pages/prop_file.html:26
+msgid ""
+"Thank you very much for your feedback. If your feedback requires a response "
+"a member of the Europeana team will get back to you as soon as possible. For "
+"faster response feedback should be submitted in English."
 msgstr ""
 
-#: templates/static_pages/sitemap.html:19
-msgid "Europeana 1914-1918"
+#: templates/static_pages/prop_file.html:27
+msgid "Keep me in touch with new developments to Europeana"
 msgstr ""
 
-#: templates/static_pages/sitemap.html:21
-msgid "Europeana Professional"
+#: templates/static_pages/prop_file.html:28
+msgid "User Conduct"
 msgstr ""
 
-#: templates/static_pages/sitemap.html:27
-msgid "Searching in Europeana"
+#: templates/static_pages/prop_file.html:29
+msgid ""
+"I understand that My Europeana gives me the opportunity to create tags for "
+"any item I wish. I agree that I will not create any tags that could be "
+"considered libelous, harmful, threatening, unlawful, defamatory, infringing, "
+"abusive, inflammatory, harassing, pornographic, obscene, fraudulent, "
+"invasive of privacy or publicity rights, hateful, or racially, ethnically or "
+"otherwise objectionable. By clicking this box I agree to abide by this "
+"agreement, and understand that if I don't my membership of My Europeana will "
+"be terminated. CLICK TO AGREE"
 msgstr ""
 
+#: templates/static_pages/prop_file.html:30
+msgid "First name"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:31
+msgid "Last name"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:32
+msgid ""
+"To make optimal use of this website you need to have JavaScript activated"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:33
+#: templates/static_pages/storyline.html:11
+msgid "Storyline and credits"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:34
+msgid "Check the FAQs - they may cover your feedback"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:35
+msgid "Communities"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:38
+msgid "ThoughtLab"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:39
+msgid "Choose a language"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:40
+msgid "Select language"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:41
+msgid "This is Europeana"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:42
+msgid ""
+"a place for inspiration and ideas. Search through the cultural collections "
+"of Europe, connect to other user pathways and share your discoveries."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:43
+msgid "Find out more"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:44
+#: templates/static_pages/sitemap.html:65
+#: templates/static_pages/usingeuropeana_search.html:21
+#: templates/static_pages/usingeuropeana_search.html:25
+#: templates/static_pages/usingeuropeana_search.html:27
+#: templates/static_pages/usingeuropeana_search.html:45
+msgid "Search"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:45
+#: templates/static_pages/prop_file.html:335
+msgid "Reset"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:46
+#: templates/static_pages/usingeuropeana_results.html:49
+msgid "Previous"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:47
+#: templates/static_pages/usingeuropeana_results.html:49
+msgid "Next"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:48
+msgid "Advanced search"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:49
+msgid "Hide advanced search"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:50
+msgid "and"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:51
+#: templates/static_pages/usingeuropeana_results.html:24
+#: templates/static_pages/usingeuropeana_results.html:25
+#: templates/static_pages/usingeuropeana_results.html:41
+#: templates/static_pages/usingeuropeana_results.html:49
+#: templates/static_pages/usingeuropeana_search.html:32
+msgid "or"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:52
+msgid "not"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:53
+msgid "Any field"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:54
+msgid "Share your ideas"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:55
+msgid "Tagging"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:56
+msgid "Send us feedback"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:57
+msgid "People are currently thinking about"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:58
+msgid "Timeline navigator"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:59
+msgid "Browse through time"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:61
+msgid ""
+"From our partner museums, archives, libraries and audio-visual collections"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:62
+#: templates/static_pages/prop_file.html:913
+#: templates/static_pages/prop_file.html:914
+#: templates/static_pages/sitemap.html:36
+msgid "About us"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:64
+msgid "Using Europeana"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:66
+#: templates/static_pages/prop_file.html:526
+#: templates/static_pages/prop_file.html:527
+#: templates/static_pages/prop_file.html:839
+#: templates/static_pages/prop_file.html:840
+#: templates/static_pages/sitemap.html:8
+msgid "Sitemap"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:67
+#: templates/static_pages/prop_file.html:362
+msgid "Terms and conditions"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:69
+#: templates/static_pages/sitemap.html:107
+msgid "Language policy"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:70
+#: templates/static_pages/prop_file.html:835
+#: templates/static_pages/prop_file.html:836
+msgid "Contact us"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:71
+msgid "co-funded by the European Union"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:72
+msgid "Europeana think culture"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:73
+msgid "Click here to return to the Europeana homepage"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:74
+msgid "Refine your results"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:75
+msgid "By language of description"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:76
+msgid "By providing country"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:77
+msgid "By year"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:79
+msgid "By user tag"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:80
+msgid "By type"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:81
+#: templates/static_pages/usingeuropeana_search.html:55
+msgid "By media type"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:82
+msgid "Actions"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:83
+#: templates/static_pages/usingeuropeana_myeuropeana.html:14
+msgid "Save this search"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:84
+msgid "Search saved"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:85
+msgid "Saving search failed"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:86
+msgid "You have searched for"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:87
+#: templates/static_pages/usingeuropeana_search.html:51
+#: templates/static_pages/usingeuropeana_search.html:63
+#: templates/static_pages/usingeuropeana_search.html:65
+msgid "Matches for"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:88
+msgid "You are viewing related items"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:89
+msgid "All"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:94
+msgid "Text"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:95
+msgid "Image"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:96
+#: templates/static_pages/usingeuropeana_results.html:17
+msgid "Video"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:97
+#: templates/static_pages/usingeuropeana_results.html:18
+msgid "Sound"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:98
+msgid "List view"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:99
+msgid "#Table view"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:100
+msgid "Page"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:101
+msgid "of"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:102
+msgid "Click here for previous page of results"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:103
+msgid "Click here for next page of results"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:104
+msgid "Print this page"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:105
+msgid "Click for more information"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:106
+msgid "No items found"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:107
+msgid "Related content"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:108
+msgid "See all related items"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:109
+msgid "User tags"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:110
+#: templates/static_pages/usingeuropeana_myeuropeana.html:15
+msgid "Add a tag"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:111
+#: templates/static_pages/usingeuropeana_search.html:49
+msgid "Add"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:112
+msgid "Tag added"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:113
+msgid "Tag addition failed"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:114
+msgid "Share with a friend"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:115
+msgid "Email address"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:116
+msgid "Email sent"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:117
+msgid "Email could not be sent"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:118
+msgid "Send"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:119
+#: templates/static_pages/usingeuropeana_myeuropeana.html:16
+msgid "Save to My Europeana"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:120
+msgid "Item saved"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:121
+msgid "Save item failed"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:122
+msgid "Error"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:123
+msgid "Error details"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:124
+msgid "Return to results"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:125
+msgid "More"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:126
+msgid "Less"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:127
+msgid "Items"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:128
+msgid "Item details"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:129
+msgid "View as XML"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:130
+msgid "View with labels"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:131
+msgid "View without labels"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:132
+msgid "Opens in a new window"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:133
+msgid "View in original context"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:134
+#: templates/static_pages/prop_file.html:825
+msgid "Provider"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:135
+#: templates/static_pages/prop_file.html:228
+#: templates/static_pages/prop_file.html:822
+#: templates/static_pages/storyline.html:49
+#: templates/static_pages/usingeuropeana_search.html:32
+msgid "Title"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:136
+#: templates/static_pages/prop_file.html:235
+msgid "Description"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:137
+#: templates/static_pages/storyline.html:50
+#: templates/static_pages/usingeuropeana_search.html:31
+msgid "Creator"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:138
+#: templates/static_pages/prop_file.html:232
+#: templates/static_pages/usingeuropeana_search.html:34
+msgid "Date"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:139
+#: templates/static_pages/prop_file.html:234
+#: templates/static_pages/usingeuropeana_search.html:32
+msgid "Subject"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:140
+msgid "Show all"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:141
+msgid "Delete"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:142
+msgid "No saved items"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:143
+msgid "No saved searches"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:144
+msgid "No saved tags"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:145
+msgid "No saved notifications"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:146
+msgid "Date saved"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:147
+msgid "Remove"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:148
+msgid "Welcome to MyEuropeana"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:149
+msgid "Please click on the following link to confirm your registration"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:150
+msgid "The Europeana Team"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:151
+msgid "Results"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:152
+msgid "Invalid query"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:153
+msgid "This feature is currently disabled."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:154
+msgid "Password"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:155
+msgid "Remember me on this computer"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:156
+msgid "I forgot my password"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:157
+msgid "Sign in"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:158
+msgid "Register"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:159
+msgid "Register again"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:160
+msgid ""
+"An error occurred while trying to process your registration. Please try again"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:161
+msgid "An email has been sent to the following address"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:162
+msgid ""
+"Please follow the link provided in the email and finish the registration "
+"process"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:163
+msgid "Please make sure your email is correctly formatted and try again"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:164
+msgid "This email is already registered"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:165
+msgid "Create an account"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:166
+#: templates/static_pages/prop_file.html:984
+msgid "The link you used to complete registration is invalid or has expired."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:167
+msgid "Enter your email"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:168
+msgid ""
+"You will use your email together with your password to log into the site"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:169
+#: templates/static_pages/prop_file.html:173
+msgid "Your username will be displayed when you have logged in"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:170
+msgid "Username"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:171
+msgid "is in use. Please choose another username"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:172
+msgid "Choose a username"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:174
+msgid "User information"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:175
+msgid "Choose a password"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:176
+msgid "Passwords must be 6-30 characters in length"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:177
+msgid "Repeat password"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:178
+msgid "Finish registration"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:179
+msgid "You have successfully registered"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:181
+msgid "English (eng)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:182
+msgid "Croatian (hrv)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:183
+msgid "Czech (cze/cse)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:184
+msgid "Greek (ell/gre)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:185
+msgid "Estonian (est)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:186
+msgid "Danish (dan)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:187
+msgid "Dutch (dut)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:188
+msgid "Finnish (fin)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:189
+msgid "French (fre)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:190
+msgid "Galician (glg)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:191
+msgid "German (deu)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:192
+msgid "Hungarian (hun)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:193
+msgid "Italian (ita)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:194
+msgid "Latvian (lav)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:195
+msgid "Lithuanian (lit)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:196
+msgid "Luxemburgish (ltz)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:197
+msgid "Maltese (mlt)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:198
+msgid "Norwegian (nor)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:199
+msgid "Polish (pol)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:200
+msgid "Portuguese (por)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:201
+msgid "Romanian (rom)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:202
+msgid "Russian (rus)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:203
+msgid "Serbian (scc)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:204
+msgid "Slovak (slo)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:205
+msgid "Slovenian (slv)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:206
+msgid "Spanish (esp)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:207
+msgid "Icelandic (ice)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:208
+msgid "Swedish (sve/swe)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:209
+msgid "Turkish (tur)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:210
+msgid "Ukrainian (ukr)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:211
+msgid "Yiddish (yid)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:212
+msgid "Other"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:213
+msgid "Alternative Title"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:214
+msgid "Provenance"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:215
+msgid "Is Part of"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:216
+#: templates/static_pages/prop_file.html:953
+msgid "Has part"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:217
+msgid "Replaces"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:218
+msgid "Is replaced by"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:219
+msgid "Is referenced by"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:220
+msgid "References"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:221
+msgid "Conforms to"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:222
+msgid "Requires"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:223
+msgid "Has format"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:224
+msgid "Is format of"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:225
+msgid "Geographic coverage"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:226
+msgid "Time period"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:227
+msgid "Publication date"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:229
+msgid "Author"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:231
+msgid "Coverage"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:233
+msgid "Format"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:236
+msgid "Publisher"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:237
+msgid "Identifier"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:238
+msgid "Source"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:240
+msgid "Relation"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:241
+#: templates/static_pages/sitemap.html:113
+msgid "Rights"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:242
+msgid "Type"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:243
+msgid "Austria"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:244
+msgid "Croatia"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:245
+msgid "Denmark"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:246
+msgid "Finland"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:247
+msgid "France"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:248
+msgid "Germany"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:249
+msgid "Italy-Florence"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:250
+msgid "Italy-Rome"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:251
+msgid "Ireland"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:252
+msgid "Netherlands"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:253
+msgid "Portugal"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:254
+msgid "Russia - Moscow"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:255
+msgid "Russia - Saint Petersburg"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:256
+msgid "Romania"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:257
+msgid "Former Yugoslav Republic Of Macedonia"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:258
+msgid "Ukraine"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:259
+msgid "Moldova"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:260
+msgid "Albania"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:261
+msgid "Georgia"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:262
+msgid "Armenia"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:263
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:264
+msgid "Azerbaijan"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:265
+msgid "Turkey"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:266
+msgid "Bulgaria"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:267
+msgid "Serbia"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:268
+msgid "Slovenia"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:269
+msgid "Switzerland"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:270
+msgid "United Kingdom"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:271
+msgid "Czech Republic"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:272
+msgid "Cyprus"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:273
+msgid "Estonia"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:274
+msgid "Latvia"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:275
+msgid "Lithuania"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:276
+msgid "Hungary"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:277
+msgid "Malta"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:278
+msgid "Poland"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:279
+msgid "Slovakia"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:280
+msgid "Spain"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:281
+msgid "Belgium"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:282
+msgid "Iceland"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:283
+msgid "Norway"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:284
+msgid "Sweden"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:285
+msgid "Liechtenstein"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:286
+msgid "Luxembourg"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:287
+msgid "Greece"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:289
+msgid "Subject cloud"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:290
+msgid "Did you mean"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:291
+msgid ""
+"Paintings, music, films and books from Europe's galleries, libraries, "
+"archives and museums."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:292
+msgid "Data provider"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:293
+msgid "Europeana rights"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:294
+msgid "Terms of use"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:295
+msgid "The timeline only shows up to 1000 items relevant to your query."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:296
+msgid "Timeline view"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:297
+msgid "Embed"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:298
+msgid "Options"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:299
+msgid "Embed this object into your own blog or website"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:300
+msgid ""
+"Paste the HTML source code below to your page. This page itself is an "
+"example of a page that embeds a Europeana object."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:301
+msgid ""
+"Now this Europeana object becomes a part of your page. Our content providers "
+"tend to improve their objects from time to time. Create an alert on this "
+"object to be notified if this specific object would change."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:302
+msgid "Preview it customized"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:303
+msgid "Create notification for this item"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:304
+msgid ""
+"Log in to My Europeana and set an alert to be notified of updates, such as "
+"the publication of more metadata for this object."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:305
+msgid ""
+"By using the embed function you accept and agree to the Europeana Terms of "
+"Use"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:306
+msgid "Maximal number of text lines:"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:307
+msgid "orientation:"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:308
+msgid "portrait"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:309
+msgid "landscape"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:310
+msgid "Refine Search"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:311
+msgid "By Rights"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:312
+#: templates/static_pages/usingeuropeana_search.html:59
+msgid "By copyright"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:313
+msgid "Free Access"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:314
+msgid "Restricted Access"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:315
+msgid "Paid Access"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:316
+msgid "Public Domain"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:317
+msgid "Unknown"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:318
+msgid "Not all objects show rights information"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:319
+msgid "Translate with:"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:320
+msgid "Search line value with:"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:321
+msgid ""
+"Access External Search Services or Translate a fields content where you see "
+"the marker by double clicking the fields value."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:322
+msgid ""
+"ESS allows you to translate an individual fields contents or search for an "
+"individual line on an external search service to access additional relevant "
+"information."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:323
+msgid "indicates ESS services are available"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:324
+msgid "indicates ESS services are not available"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:325
+msgid "Search term(s)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:326
+msgid "Search facet"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:327
+msgid "Search operator"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:328
+msgid "Back to top"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:329
+msgid "Click to search for this term in external services"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:330
+#: templates/static_pages/prop_file.html:332
+msgid "Remote Search Widget"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:331
+msgid ""
+"You can use the link below to create a customized plugin for inclusion in "
+"your own website with the ability to search through the collections on the "
+"Europeana portal."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:333
+msgid "Europeana Search Widget"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:336
+msgid "What is Europeana's remote search widget?"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:337
+msgid ""
+"The remote search widget is a tailored plugin to search on and display items "
+"from Europeana's collections and those of their contributors within your own "
+"website."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:338
+msgid "What is a plugin?"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:339
+msgid ""
+"The plugin is simply a piece of generated code that can be copied and pasted "
+"into one of the webpages on your own site."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:340
+msgid "What will the plugin look like?"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:341
+msgid ""
+"The working plugin is shown on the right hand side of the screen. Making "
+"changes and selecting preview will let you see those changes in action."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:342
+msgid "How do I add the plugin into my own site?"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:343
+msgid "Select options from the menu below"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:344
+msgid ""
+"Click on 'Preview' to see the changes in the right hand side of the screen"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:345
+msgid ""
+"Check the box to say you have read and agree with the terms and conditions"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:346
+msgid "Click 'Generate Code'"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:347
+msgid "Copy the code from under 'Code for plugin:'"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:348
+msgid "Open a webpage on your own site in a text editor"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:349
+msgid "Paste the code into the page and save the changes"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:350
+msgid "Open your web page in a browser to see the plugin working"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:351
+msgid "How can I change the position of the plugin?"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:352
+msgid ""
+"The plugin can be nested within an HTML table but the easiest way is to use "
+"cascading stylesheets css. The plugin is surrounded in a div with the id "
+"swEuropeanaRemoteWidget and its position can be changed by changing the css "
+"properties for this div."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:353
+msgid "Background colour"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:354
+msgid "Media type tab colour"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:355
+msgid "Text colour"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:356
+msgid "Default language"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:357
+msgid "Default search term"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:358
+msgid "Media Types"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:359
+#: templates/static_pages/usingeuropeana_searchwidget.html:30
+msgid "Providers"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:360
+msgid "Europeana attribution"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:361
+msgid "Widget Code: (To be copied and pasted into your website)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:363
+msgid "Generate Code"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:364
+msgid "Powered By Europeana"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:365
+#: templates/static_pages/prop_file.html:872
+msgid "Europeana Blog"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:366
+msgid "Virtual Exhibitions"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:367
+#: templates/static_pages/usingeuropeana_results.html:41
+msgid "Cite on Wikipedia"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:368
+msgid "Click to cite this object"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:369
+msgid "Use"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:370
+msgid "Harvard Bibliographic Style"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:371
+msgid "This record can be cited in the"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:372
+msgid "style using the text below:"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:373
+msgid "Harvard Bibliographic"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:374
+msgid "Close"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:375
+msgid "Show Auto-tags"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:376
+msgid "Hide Auto-tags"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:377
+msgid "Automatically added semantic tags"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:378
+msgid "Place Term"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:379
+msgid "Place Label"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:380
+msgid "Geo Space"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:381
+msgid "Place Broader Term"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:382
+msgid "Place Broader Label"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:383
+msgid "Period Term"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:384
+msgid "Period Label"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:385
+msgid "Period Begin"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:386
+msgid "Period End"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:387
+msgid "Period Broader Term"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:388
+msgid "Period Broader Label"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:389
+msgid "Concept Term"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:390
+msgid "Concept Label"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:391
+msgid "Concept Broader Term"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:392
+msgid "Concept Broader Label"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:393
+msgid "Agent Term"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:394
+msgid "Agent Label"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:399
+#: templates/static_pages/prop_file.html:410
+#: templates/static_pages/prop_file.html:421
+#: templates/static_pages/prop_file.html:431
+#: templates/static_pages/prop_file.html:441
+#: templates/static_pages/prop_file.html:451
+#: templates/static_pages/prop_file.html:460
+#: templates/static_pages/prop_file.html:471
+#: templates/static_pages/prop_file.html:482
+msgid "Featured item"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:403
+msgid ""
+"Two women at a spinning wheel in the Chapel House (Krankeledenstraat 11). "
+"Both of them are dressed in historical costume to celebrate the "
+"centenaries.; Margje Blitterswijk and Irwin Koopmans and had a weaving "
+"Studio, called art in the craft."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:414
+msgid ""
+"The Rolling Stones are an English rock band formed in London in 1962. Their "
+"early mission was to share their enthusiasm for rhythm and blues, but they "
+"were received as symbols and leaders of rebellious youth."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:425
+msgid ""
+"Greek Song: A little girl blonde lagnomatousa. His heart and biscuits "
+"stolen, and from his lips pseftovammena. Kragionismena had believed a lie. "
+"Told him then in the early evenings, full of caresses tales of love, but "
+"with a little xegelasmenos and thy will forget the truth."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:435
+msgid ""
+"The female personification of Europa sits on a horse in a library. In her "
+"hands a sceptre and a cornucopia. She is joined by putti with attributes "
+"that symbolize the Arts and Sciences. In the background are two men in a "
+"workshop."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:445
+msgid ""
+"Floral composition range of Pinks, yellows and greys greys of red. To "
+"highlight crop floral on blue-yellow background. Balanced color of hot and "
+"cold, the flowers in warm colors-background in cool colors. The entire color "
+"Iriz&#259;ri; flowers."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:455
+msgid ""
+"Items of interest in learning depicted with their names. Etching. The card "
+"shows different objects from a Decanter &amp; Tea Chest to a Ladies Toilet."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:464
+msgid ""
+"Toppop is the first weekly program about pop music on the Dutch television. "
+"Notable artists come to the studio - often with bizarre props and sets - to "
+"playback their newest hit. Broadcast on 18 February 1974 by Dutch public "
+"broadcaster AVRO"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:475
+msgid ""
+"Three staff members of the Phoenix brewery at a truck of the company. The "
+"location is not clear. From left to right: J.H. v.d. Berg, m. Dale and j. "
+"Vasquez."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:486
+msgid ""
+"Milk. The natural pick-me-up. This image was used in 1994, during a campaign "
+"for drinking milk in Switzerland. It was created by Advico Young and Rubicam "
+"advertising agency (D&uuml;bendorf) for the Central Association of Swiss "
+"Milk Producers"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:492
+#: templates/static_pages/prop_file.html:495
+msgid "New Open Culture app"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:496
+msgid ""
+"Europeana's Open Culture app is now bigger and better! With improved search, "
+"new content and available for all Apple and Android tablets."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:497
+msgid "Read more"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:502
+#: templates/static_pages/prop_file.html:511
+msgid "Survey - Win an Android Tablet"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:512
+msgid ""
+"Speak up and let us know what you think of this website. Take our 5 minute "
+"survey and you'll be entered into a prize draw to win a Google Nexus 10 "
+"Android tablet."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:513
+msgid "Take survey"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:530
+#: templates/static_pages/prop_file.html:531
+#: templates/static_pages/sitemap.html:97
+msgid "Terms of Use &amp; Policies"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:538
+#: templates/static_pages/prop_file.html:539
+msgid "Language Policy"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:542
+#: templates/static_pages/prop_file.html:543
+#: templates/static_pages/sitemap.html:126
+msgid "Contact"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:546
+#: templates/static_pages/prop_file.html:547
+#: templates/static_pages/prop_file.html:957
+#: templates/static_pages/prop_file.html:958
+#: templates/static_pages/sitemap.html:11
+msgid "Home"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:598
 #: templates/static_pages/sitemap.html:31
 #: templates/static_pages/usingeuropeana_searchwidget.html:9
 msgid "How to configure your search widget"
 msgstr ""
 
-#: templates/static_pages/sitemap.html:36
-msgid "About us"
+#: templates/static_pages/prop_file.html:599
+msgid "How to configure your search widhet"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:610
+#: templates/static_pages/prop_file.html:611
+msgid "Press Room"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:642
+#: templates/static_pages/prop_file.html:643
+msgid "Pinterest"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:650
+#: templates/static_pages/prop_file.html:651
+#: templates/static_pages/prop_file.html:656
+msgid "Explore Europe's cultural collections"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:654
+#: templates/static_pages/prop_file.html:655
+msgid "Access professional knowledge"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:657
+msgid "Social media activities"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:658
+msgid "From the blog"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:659
+msgid "Filter your search"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:660
+msgid "Grid view"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:661
+msgid ""
+"We apologize; there was a problem retrieving the search results from the "
+"server. Please try again later"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:662
+msgid "Similar items"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:663
+msgid "Loading ..."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:664
+#: templates/static_pages/usingeuropeana_results.html:42
+msgid "Translate details"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:665
+msgid "Return to search results"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:666
+msgid "Next search result"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:667
+msgid "Something went wrong!"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:668
+msgid "An email has been sent to inform our technical staff"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:669
+msgid "Please try another search"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:670
+msgid "Saved search removed successfully"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:671
+#: templates/static_pages/prop_file.html:684
+msgid "Saved item removed successfully"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:672
+msgid "Saved tag removed successfully"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:673
+msgid "An error occurred"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:674
+msgid "The item could not be removed"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:675
+msgid "Auto-generated tags"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:676
+msgid "Request"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:677
+#: templates/static_pages/prop_file.html:680
+msgid "Legend"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:678
+msgid "See less"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:679
+msgid "See more"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:681
+msgid "Explore further"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:682
+msgid "Return to original language"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:683
+msgid "Attention: this item has been withdrawn by the provider."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:685
+msgid ""
+"We apologise; there was a problem retrieving the data from the server. "
+"Please try again later."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:686
+msgid "Preview"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:687
+msgid "Return to timeline"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:688
+msgid "This email address does not yet exist in our database"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:689
+msgid "Your password change has been successfully completed"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:690
+msgid "Zoom"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:691
+msgid "Zoom in"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:692
+msgid "Zoom out"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:693
+msgid "Choose from different map types"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:694
+msgid ""
+"Navigate map: click and hold left mouse-button, then move mouse to change "
+"the view"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:695
+msgid ""
+"Select via freeform: add anchor points with left mouse-click, double click "
+"to finish the shape"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:696
+msgid "Google Satellite"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:697
+msgid "Google Hybrid"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:698
+msgid "Google Street"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:699
+msgid "Google Physical"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:701
+msgid "Tiles courtesy of"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:702
+msgid ""
+"This is your personal space on Europeana. With My Europeana, you can save "
+"your favourite items and searches, and add tags."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:703
+#: templates/static_pages/usingeuropeana_results.html:19
+msgid "3D"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:704
+msgid "Download"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:705
+msgid "User contributed content"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:706
+msgid "Play"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:707
+msgid "Read"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:708
+#: templates/static_pages/usingeuropeana_results.html:34
+msgid "View"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:709
+msgid "View larger image"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:710
+msgid "Your search result contains no items that have map co-ordinates."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:711
+msgid "Please try another search."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:712
+msgid ""
+"The Europeana map search is still in development and currently doesn't work "
+"in Internet Explorer. We aim to support Internet Explorer in the future. "
+"Currently we recommend you to use Chrome or Firefox."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:716
+msgid "Wikipedia Citation"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:717
+msgid "Copy and paste the wiki-markup below:"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:724
+#: templates/static_pages/usingeuropeana_search.html:67
+msgid "Include content contributed by users"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:725
+msgid "The map only shows up to 1000 items relevant to your query."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:726
+msgid "No place name available"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:727
+msgid "The map only shows up to {0} items relevant to your query."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:728
+msgid "Search within current map view"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:729
+#: templates/static_pages/usingeuropeana_results.html:41
+msgid "Citation"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:730
+#: templates/static_pages/usingeuropeana_results.html:41
+msgid "Footnote"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:731
+msgid "Follow us on"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:732
+msgid "Unable to find content for this page."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:735
+msgid "Latest on"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:736
+#: templates/static_pages/prop_file.html:977
+#: templates/static_pages/usingeuropeana_search.html:69
+msgid "Share"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:737
+msgid "Share item on Facebook, Twitter, etc."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:738
+msgid "Follow us!"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:739
+msgid "Newsletter sign-up"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:740
+#: templates/static_pages/prop_file.html:741
+msgid "Sign-up here"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:742
+#: templates/static_pages/prop_file.html:998
+msgid "Name"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:743
+msgid "Email Address"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:744
+msgid ""
+"Sign-up to receive our bi-monthly newsletter, and occasional announcements."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:755
+#: templates/static_pages/prop_file.html:766
+#: templates/static_pages/prop_file.html:777
+#: templates/static_pages/prop_file.html:787
+#: templates/static_pages/prop_file.html:798
+msgid "Featured partner"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:759
+msgid ""
+"Ateneum Art Museum is home to the largest and most important art collections "
+"in Finland. The museum governs over 20,000 works of art. The most "
+"significant of these is the Antell Collection, a testamentary donation by "
+"the collector H. F. Antell."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:770
+msgid ""
+"The National Gallery of Ireland houses the Irish national collection of "
+"Irish and European art. It is located in the centre of Dublin with one "
+"entrance on Merrion Square, beside Leinster House, and another on Clare "
+"Street. Due to ongoing renovations, the Clare Street entrance is the only "
+"one currently open. It was founded in 1854 and opened its doors ten years "
+"later. The Gallery has an extensive, representative collection of Irish "
+"painting and is also notable for its Italian Baroque and Dutch masters "
+"painting."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:781
+msgid ""
+"One of the oldest and the best museums of the Upper Volga Region, was "
+"founded in 1910. Now the museum houses more than 120 thousand exhibits: from "
+"saurian bones to paintings of famous artists."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:791
+msgid ""
+"Since its founding in 1952 the Hungarian Theatre Museum and Institute has "
+"been collecting the most valuable relics and data of the Hungarian theatre, "
+"bridging the distant beginnings centuries ago with-last night's "
+"performances. A dozen and a half of separate collections enclose the "
+"invaluable traces of the artform most susceptible to evanescence: paintings, "
+"photographs, stage and costume designs, posters, props, video recordings—and "
+"many more..."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:802
+msgid ""
+"Archive Eemland is the historical information centre of Amersfoort and the "
+"Eemland region. The archive manages approximately 3.5 kilometers of "
+"archives, an image collection of 40,000 photographs, a significant "
+"collection of maps, a growing audiovisual collection and a rich historical "
+"library."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:809
+msgid "API function"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:810
+msgid "Search parameters"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:811
+msgid "Search term"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:812
+msgid "Refinement term(s)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:813
+msgid "Profile"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:814
+msgid "Number of records to retrieve"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:815
+msgid "First record to retrieve"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:816
+msgid "Record parameters"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:817
+msgid "Record id"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:818
+msgid "Request URL"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:819
+msgid "JSON response"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:821
+msgid "Search also for:"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:823
+msgid "Who"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:824
+msgid "What"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:826
+msgid "api-introduction.html"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:829
+#: templates/static_pages/prop_file.html:833
+#: templates/static_pages/prop_file.html:837
+#: templates/static_pages/prop_file.html:841
+msgid "_self"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:830
+msgid "rights/terms-and-policies.html"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:831
+#: templates/static_pages/prop_file.html:832
+msgid "Terms of use &amp; Policies"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:834
+msgid "contact.html"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:838
+msgid "sitemap.html"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:843
+#: templates/static_pages/usingeuropeana_myeuropeana.html:17
+msgid "API keys"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:844
+msgid "No API key"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:845
+msgid "API key"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:846
+msgid "Private key"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:847
+msgid "Usage limit"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:848
+msgid "Role"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:849
+msgid "Administrator's page"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:850
+msgid "Remove API key"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:851
+msgid "Limit"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:852
+msgid "Remove user"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:853
+msgid "Block user"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:854
+msgid "Export API keys to CSV"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:855
+msgid "Export users to CSV"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:856
+msgid "User name"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:857
+msgid "Registration"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:859
+msgid "Visit the website of"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:860
+msgid "View the latest content from our partners"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:864
+#: templates/static_pages/prop_file.html:865
+#: templates/static_pages/sitemap.html:15
+msgid "Other Europeana Sites"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:868
+msgid "Europeana Exhibitions"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:876
+#: templates/static_pages/sitemap.html:19
+msgid "Europeana 1914-1918"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:881
+msgid "Remix"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:884
+#: templates/static_pages/sitemap.html:21
+msgid "Europeana Professional"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:885
+msgid "Professional"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:945
+msgid "Change limit for an API key"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:946
+msgid "Company or Institution"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:947
+msgid "Telephone contact"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:948
+msgid "Address"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:949
+msgid "I confirm that I have read and agree to the"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:950
+msgid "Next in sequence"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:951
+msgid "Date of creation"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:952
+msgid "Is part of"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:963
+msgid "Titles"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:964
+msgid "Places"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:965
+msgid "Dates/Periods"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:966
+msgid "Subjects"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:967
+msgid "Creators"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:968
+msgid "All fields"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:969
+msgid "Featured Item"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:970
+#: templates/static_pages/usingeuropeana_explore.html:15
+msgid "Featured Partner"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:971
+msgid "Click here for last page of results"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:972
+#: templates/static_pages/usingeuropeana_results.html:24
+msgid "Results per page"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:973
+#: templates/static_pages/usingeuropeana_search.html:49
+msgid "Add more keywords"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:974
+msgid "+ Add"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:975
+msgid "Field of work"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:976
+msgid "Please, select"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:978
+msgid "Please try another search later."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:979
+msgid "Unable to find the requested page"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:980
+msgid "Alert:"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:981
+msgid "Unable to find the requested Europeana Record."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:982
+msgid "This item has been withdrawn by the provider."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:983
+msgid "Requested Europeana Record is not yet indexed."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:985
+msgid "Please register your email again"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:986
+msgid "to finish registration."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:987
+msgid "Unable to fullfill your request due to malformed query parameters."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:988
+msgid "Unable to get a response from the Search Engine."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:989
+msgid "Unable to fulfill your request due to a malformed query syntax."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:990
+msgid "We are unable to change the interface to the requested language."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:991
+msgid "Please try another language from the dropdown list."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:992
+msgid "Number of results shown on the page"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:999
+msgid "API-key"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1000
+msgid "Number of calls"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1002
+#: templates/static_pages/prop_file.html:1003
+msgid "Can I use it?"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1004
+msgid "Yes, with attribution"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1005
+msgid "Yes, with restrictions"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1006
+msgid "Only with permission"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:4
+msgid "Europeana - Sitemap"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:27
+msgid "Searching in Europeana"
 msgstr ""
 
 #: templates/static_pages/sitemap.html:39
@@ -1474,14 +4019,6 @@ msgstr ""
 msgid "Record"
 msgstr ""
 
-#: templates/static_pages/sitemap.html:65
-#: templates/static_pages/usingeuropeana_search.html:21
-#: templates/static_pages/usingeuropeana_search.html:25
-#: templates/static_pages/usingeuropeana_search.html:27
-#: templates/static_pages/usingeuropeana_search.html:45
-msgid "Search"
-msgstr ""
-
 #: templates/static_pages/sitemap.html:66
 msgid "Suggestions"
 msgstr ""
@@ -1506,20 +4043,8 @@ msgstr ""
 msgid "API1-API2 compatability"
 msgstr ""
 
-#: templates/static_pages/sitemap.html:97
-msgid "Terms of Use &amp; Policies"
-msgstr ""
-
 #: templates/static_pages/sitemap.html:104
 msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
-msgstr ""
-
-#: templates/static_pages/sitemap.html:107
-msgid "Language policy"
-msgstr ""
-
-#: templates/static_pages/sitemap.html:113
-msgid "Rights"
 msgstr ""
 
 #: templates/static_pages/sitemap.html:115
@@ -1550,16 +4075,8 @@ msgstr ""
 msgid "Out of copyright - non commercial reuse"
 msgstr ""
 
-#: templates/static_pages/sitemap.html:126
-msgid "Contact"
-msgstr ""
-
 #: templates/static_pages/storyline.html:4
 msgid "Europeana - Storyline and credits"
-msgstr ""
-
-#: templates/static_pages/storyline.html:11
-msgid "Storyline and credits"
 msgstr ""
 
 #: templates/static_pages/storyline.html:13
@@ -1903,16 +4420,6 @@ msgid ""
 "    de la Musique for enabling us to use it as the basis for our soundtrack."
 msgstr ""
 
-#: templates/static_pages/storyline.html:49
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid "Title"
-msgstr ""
-
-#: templates/static_pages/storyline.html:50
-#: templates/static_pages/usingeuropeana_search.html:31
-msgid "Creator"
-msgstr ""
-
 #: templates/static_pages/storyline.html:51
 msgid "Collection"
 msgstr ""
@@ -2048,10 +4555,6 @@ msgid "in the"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_explore.html:15
-msgid "Featured Partner"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_explore.html:15
 msgid "area"
 msgstr ""
 
@@ -2072,17 +4575,9 @@ msgid "and you can"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:14
-msgid "Save this search"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:14
 msgid ""
 "Keep up to date on a particular topic in Europeana by saving a search, so "
 "you can easily perform it again in future."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:15
-msgid "Add a tag"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:15
@@ -2093,15 +4588,7 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:16
-msgid "Save to My Europeana"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:16
 msgid "Store your favourite items for later viewing."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:17
-msgid "API keys"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:17
@@ -2153,24 +4640,12 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:17
-msgid "Video"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_results.html:17
 msgid "films, news broadcasts and television programmes"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_results.html:18
-msgid "Sound"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:18
 msgid ""
 "music and spoken word from cylinders, tapes, discs and radio broadcasts."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_results.html:19
-msgid "3D"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:19
@@ -2195,19 +4670,7 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:24
-msgid "Results per page"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_results.html:24
 msgid "drop-down list either above or below the results. You can select"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_results.html:24
-#: templates/static_pages/usingeuropeana_results.html:25
-#: templates/static_pages/usingeuropeana_results.html:41
-#: templates/static_pages/usingeuropeana_results.html:49
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid "or"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:25
@@ -2254,10 +4717,6 @@ msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:34
 msgid "hit the magnifying glass"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_results.html:34
-msgid "View"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:34
@@ -2310,10 +4769,6 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:41
-msgid "Cite on Wikipedia"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_results.html:41
 msgid ""
 "this function will help you link to Europeana items and cite them in "
 "Wikipedia articles. The code you need is formatted for direct inclusion in "
@@ -2321,21 +4776,9 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:41
-msgid "Citation"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_results.html:41
-msgid "Footnote"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_results.html:41
 msgid ""
 "and copy and paste the text provided. To close the citation window, hit the "
 "X in the top right corner."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_results.html:42
-msgid "Translate details"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:42
@@ -2361,14 +4804,6 @@ msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:49
 msgid "To move to the previous or next item in your search results, hit the"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_results.html:49
-msgid "Next"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_results.html:49
-msgid "Previous"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:49
@@ -2509,10 +4944,6 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:32
-msgid "Subject"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:32
 msgid ""
 "followed by a type of item, a subject you are interested in or words from "
 "the title of the item you are looking for. Your search results will display "
@@ -2546,10 +4977,6 @@ msgid ""
 "will help you differentiate your search when you are looking only for "
 "objects created or held in Milan, excluding items on writer Milan Kundera "
 "from your search results."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:34
-msgid "Date"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:34
@@ -2638,15 +5065,7 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:49
-msgid "Add more keywords"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:49
 msgid "field and hit"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid "Add"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:49
@@ -2662,12 +5081,6 @@ msgid "To remove a keyword, hit the X icon next to the relevant keyword in the"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:51
-#: templates/static_pages/usingeuropeana_search.html:63
-#: templates/static_pages/usingeuropeana_search.html:65
-msgid "Matches for"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:51
 msgid "list."
 msgstr ""
 
@@ -2677,10 +5090,6 @@ msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:53
 msgid "filter your search results:"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:55
-msgid "By media type"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:55
@@ -2718,10 +5127,6 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:59
-msgid "By copyright"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:59
 msgid ""
 "will display objects labelled with the selected copyright label(s). This "
 "copyright label indicates how you may reuse the digital object, including "
@@ -2756,10 +5161,6 @@ msgid "You can also select to"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:67
-msgid "Include content contributed by users"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:67
 msgid ""
 "This means items that have not come from a cultural institution but from an "
 "individual user, for example, items contributed to the Europeana 1914-1918 "
@@ -2768,10 +5169,6 @@ msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:69
 msgid "Share your search with friends by choosing"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:69
-msgid "Share"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:69
@@ -2888,10 +5285,6 @@ msgid ""
 "results to do with 'Paris'. In which case, you would enter 'Paris' as a key "
 "word and 'Places' as a type. Tap 'Change' next to 'All Fields' and select "
 "the option you need."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:30
-msgid "Providers"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:30

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-21 13:30+0100\n"
+"POT-Creation-Date: 2014-01-21 13:33+0100\n"
 "PO-Revision-Date: 2013-10-30 18:59\n"
 "Last-Translator: Bulgarian  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,26 +17,157 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Translated-Using: django-rosetta 0.5.6\n"
 
+#: templates/api_leftmenu.html:3 templates/static_pages/europeana-api.html:4
+#: templates/static_pages/prop_file.html:63
+#: templates/static_pages/prop_file.html:827
+#: templates/static_pages/prop_file.html:828
+#: templates/static_pages/sitemap.html:51
+msgid "Europeana API"
+msgstr "Europeana API"
+
+#: templates/api_leftmenu.html:6 templates/static_pages/prop_file.html:995
+#: templates/static_pages/prop_file.html:996
+#: templates/static_pages/sitemap.html:53
+msgid "Get an API-Key"
+msgstr "Вземете API-ключ (API-key)"
+
+#: templates/api_leftmenu.html:7 templates/static_pages/sitemap.html:55
+msgid "API Console"
+msgstr "API конзола"
+
+#: templates/api_leftmenu.html:11 templates/static_pages/sitemap.html:59
+msgid "Search Widget Wizard"
+msgstr "Seарцх Widget Wizard"
+
+#: templates/api_leftmenu.html:12 templates/static_pages/sitemap.html:60
+msgid "Europeana API Forum"
+msgstr "Europeana API Forum"
+
+#: templates/explore_leftmenu.html:3 templates/static_pages/explore.html:9
+#: templates/static_pages/prop_file.html:550
+#: templates/static_pages/prop_file.html:551
+msgid "Explore"
+msgstr "Изследвай"
+
+#: templates/explore_leftmenu.html:5 templates/static_pages/prop_file.html:554
+#: templates/static_pages/prop_file.html:555
+#: templates/static_pages/prop_file.html:880
+#: templates/static_pages/sitemap.html:20
+msgid "Europeana Remix"
+msgstr "Europeana Remix"
+
+#: templates/explore_leftmenu.html:6 templates/static_pages/prop_file.html:558
+#: templates/static_pages/prop_file.html:559
+#: templates/static_pages/prop_file.html:869
+#: templates/static_pages/sitemap.html:17
+#: templates/static_pages/usingeuropeana_explore.html:14
+msgid "Exhibitions"
+msgstr "Изложби"
+
+#: templates/explore_leftmenu.html:7 templates/leftmenu.html:8
+#: templates/static_pages/prop_file.html:60
+#: templates/static_pages/prop_file.html:562
+#: templates/static_pages/prop_file.html:563
+#: templates/static_pages/prop_file.html:918
+#: templates/static_pages/prop_file.html:919
+#: templates/static_pages/sitemap.html:38
+#: templates/static_pages/sitemap.html:87
+#: templates/static_pages/usingeuropeana_explore.html:15
+msgid "New content"
+msgstr "Ново съдържание"
+
+#: templates/explore_leftmenu.html:9 templates/static_pages/prop_file.html:78
+#: templates/static_pages/prop_file.html:566
+#: templates/static_pages/prop_file.html:567
+#: templates/static_pages/sitemap.html:88
+#: templates/static_pages/usingeuropeana_search.html:60
+msgid "By provider"
+msgstr "По доставчик"
+
+#: templates/explore_leftmenu.html:10 templates/static_pages/prop_file.html:37
+#: templates/static_pages/prop_file.html:570
+#: templates/static_pages/prop_file.html:571
+#: templates/static_pages/sitemap.html:89
+msgid "Timeline"
+msgstr "Линия на времето"
+
+#: templates/explore_leftmenu.html:11
+#: templates/static_pages/prop_file.html:574
+#: templates/static_pages/prop_file.html:575
+#: templates/static_pages/sitemap.html:90
+msgid "Map"
+msgstr "Карта"
+
+#: templates/followus_leftmenu.html:3 templates/static_pages/followus.html:9
+#: templates/static_pages/prop_file.html:622
+#: templates/static_pages/prop_file.html:623
+msgid "Follow Us"
+msgstr "Следвай ни"
+
+#: templates/followus_leftmenu.html:5
+#: templates/static_pages/prop_file.html:626
+#: templates/static_pages/prop_file.html:627
+#: templates/static_pages/prop_file.html:873
+#: templates/static_pages/sitemap.html:18
+msgid "Blog"
+msgstr "Блог"
+
+#: templates/followus_leftmenu.html:6
+#: templates/static_pages/prop_file.html:630
+#: templates/static_pages/prop_file.html:631
+msgid "Newsletter"
+msgstr "Прессъобщения"
+
+#: templates/followus_leftmenu.html:8
+#: templates/static_pages/prop_file.html:634
+#: templates/static_pages/prop_file.html:635
+msgid "Facebook"
+msgstr "Facebook"
+
+#: templates/followus_leftmenu.html:9
+#: templates/static_pages/prop_file.html:638
+#: templates/static_pages/prop_file.html:639
+msgid "Twitter"
+msgstr "Twitter"
+
+#: templates/leftmenu.html:3 templates/NOT/leftmenu1_old.html:3
 #: templates/NOT/leftmenu_old.html:3 templates/static_pages/prop_file.html:602
 #: templates/static_pages/prop_file.html:603
 msgid "About Us"
 msgstr "За нас"
 
+#: templates/leftmenu.html:6 templates/NOT/leftmenu1_old.html:6
 #: templates/NOT/leftmenu_old.html:6 templates/static_pages/prop_file.html:606
 #: templates/static_pages/prop_file.html:607
 msgid "Background"
 msgstr "История"
 
-#: templates/NOT/leftmenu_old.html:8 templates/static_pages/prop_file.html:933
+#: templates/leftmenu.html:9 templates/static_pages/prop_file.html:923
+#: templates/static_pages/prop_file.html:924
+msgid "All providers"
+msgstr "всички доставчици"
+
+#: templates/leftmenu.html:10 templates/static_pages/aboutus_enews.html:11
+#: templates/static_pages/prop_file.html:928
+#: templates/static_pages/prop_file.html:929
+#: templates/static_pages/sitemap.html:40
+msgid "Previous newsletters"
+msgstr "Архив"
+
+#: templates/leftmenu.html:12 templates/NOT/leftmenu_old.html:8
+#: templates/static_pages/prop_file.html:933
 #: templates/static_pages/prop_file.html:934
 msgid "Press Centre"
 msgstr "Пресцентър"
 
-#: templates/NOT/leftmenu_old.html:9 templates/static_pages/prop_file.html:938
+#: templates/leftmenu.html:13 templates/NOT/leftmenu_old.html:9
+#: templates/static_pages/prop_file.html:938
 #: templates/static_pages/prop_file.html:939
 msgid "Jobs"
 msgstr "Работа"
 
+#: templates/leftmenu.html:14 templates/leftmenu.html.py:17
+#: templates/NOT/leftmenu1_old.html:9 templates/NOT/leftmenu1_old.html:12
 #: templates/NOT/leftmenu_old.html:10 templates/NOT/leftmenu_old.html.py:14
 #: templates/static_pages/prop_file.html:36
 #: templates/static_pages/prop_file.html:618
@@ -44,25 +175,87 @@ msgstr "Работа"
 msgid "Partners"
 msgstr "Партньори"
 
-#: templates/NOT/leftmenu_old.html:11
-msgid "eNews"
-msgstr "еНовини"
-
-#: templates/NOT/leftmenu_old.html:12
+#: templates/leftmenu.html:15 templates/NOT/leftmenu1_old.html:7
+#: templates/NOT/leftmenu1_old.html:10 templates/NOT/leftmenu_old.html:12
 msgid "Press room"
 msgstr "Пресцентър"
 
-#: templates/NOT/leftmenu_old.html:13
+#: templates/leftmenu.html:16 templates/NOT/leftmenu1_old.html:8
+#: templates/NOT/leftmenu1_old.html:11 templates/NOT/leftmenu_old.html:13
 #: templates/static_pages/prop_file.html:614
 #: templates/static_pages/prop_file.html:615
 msgid "Job opportunities"
 msgstr "Възможности за работа"
 
-#: templates/rights/accessibility.html:4
-msgid "Europeana - Accessibility policy"
-msgstr "Europeana - политика на достъпност"
+#: templates/terms_leftmenu.html:3
+msgid "Terms &amp; Policies"
+msgstr "Условия &amp; Политики "
 
-#: templates/rights/accessibility.html:15
+#: templates/terms_leftmenu.html:5
+msgid "Introduction"
+msgstr "Въведение"
+
+#: templates/terms_leftmenu.html:7
+msgid "Using our data"
+msgstr "Използване на данните"
+
+#: templates/terms_leftmenu.html:9 templates/rights/terms-and-policies.html:24
+#: templates/static_pages/sitemap.html:99
+msgid "Terms of Use"
+msgstr "Условия за ползване"
+
+#: templates/terms_leftmenu.html:10 templates/static_pages/sitemap.html:100
+msgid "Usage Guidelines for Metadata"
+msgstr "Насоки за използване на метаданните"
+
+#: templates/terms_leftmenu.html:11 templates/static_pages/sitemap.html:101
+msgid "Public Domain Usage Guidelines"
+msgstr "Europeana - насоки за използване на метданните"
+
+#: templates/terms_leftmenu.html:12 templates/static_pages/sitemap.html:102
+msgid "API Terms of Use"
+msgstr "API - Условия за ползване"
+
+#: templates/terms_leftmenu.html:13
+#: templates/rights/linked-data-sources.html:16
+#: templates/static_pages/sitemap.html:103
+msgid "Europeana Data Sources"
+msgstr "Europeana източници на данни"
+
+#: templates/terms_leftmenu.html:16
+msgid "Contributing data to us"
+msgstr "Как се доставят данни"
+
+#: templates/terms_leftmenu.html:18
+msgid "Europeana Data Exchange Agreement"
+msgstr "Europeana - договор за сътрудничество"
+
+#: templates/terms_leftmenu.html:19 templates/static_pages/sitemap.html:105
+msgid "Terms for User Contributions"
+msgstr "Условия за принос на потребителите"
+
+#: templates/terms_leftmenu.html:22
+#: templates/rights/terms-and-policies.html:35
+msgid "Our policies"
+msgstr "Нашите политики"
+
+#: templates/terms_leftmenu.html:24 templates/rights/privacy.html:15
+#: templates/rights/terms-and-policies.html:37
+#: templates/static_pages/prop_file.html:68
+#: templates/static_pages/prop_file.html:534
+#: templates/static_pages/prop_file.html:535
+#: templates/static_pages/sitemap.html:106
+msgid "Privacy"
+msgstr "Защита на личните данни"
+
+#: templates/terms_leftmenu.html:25 templates/rights/languagepolicy.html:15
+#: templates/rights/terms-and-policies.html:37
+#: templates/static_pages/prop_file.html:180
+#: templates/static_pages/prop_file.html:239
+msgid "Language"
+msgstr "Език"
+
+#: templates/terms_leftmenu.html:26 templates/rights/accessibility.html:15
 #: templates/rights/terms-and-policies.html:37
 #: templates/static_pages/prop_file.html:65
 #: templates/static_pages/prop_file.html:522
@@ -70,6 +263,84 @@ msgstr "Europeana - политика на достъпност"
 #: templates/static_pages/sitemap.html:108
 msgid "Accessibility"
 msgstr "Достъпност"
+
+#: templates/terms_leftmenu.html:27 templates/static_pages/sitemap.html:109
+msgid "Public Domain Charter"
+msgstr "Хартата за творби обществено достояние"
+
+#: templates/usingeuropeana_leftmenu.html:3
+#: templates/static_pages/prop_file.html:334
+#: templates/static_pages/prop_file.html:578
+#: templates/static_pages/prop_file.html:579
+#: templates/static_pages/prop_file.html:888
+#: templates/static_pages/prop_file.html:889
+#: templates/static_pages/sitemap.html:25
+#: templates/static_pages/usingeuropeana.html:9
+msgid "Help"
+msgstr "Помощ"
+
+#: templates/usingeuropeana_leftmenu.html:5
+#: templates/static_pages/prop_file.html:582
+#: templates/static_pages/prop_file.html:583
+#: templates/static_pages/prop_file.html:892
+#: templates/static_pages/prop_file.html:893
+#: templates/static_pages/usingeuropeana.html:14
+#: templates/static_pages/usingeuropeana_results.html:22
+#: templates/static_pages/usingeuropeana_search.html:9
+#: templates/static_pages/usingeuropeana_search.html:13
+msgid "Searching Europeana"
+msgstr "Търсене в Europeana"
+
+#: templates/usingeuropeana_leftmenu.html:6
+#: templates/static_pages/prop_file.html:288
+#: templates/static_pages/prop_file.html:586
+#: templates/static_pages/prop_file.html:587
+#: templates/static_pages/prop_file.html:896
+#: templates/static_pages/prop_file.html:897
+#: templates/static_pages/sitemap.html:28
+#: templates/static_pages/usingeuropeana.html:16
+#: templates/static_pages/usingeuropeana_explore.html:9
+#: templates/static_pages/usingeuropeana_search.html:14
+msgid "Exploring Europeana"
+msgstr "Изследване в Europeana"
+
+#: templates/usingeuropeana_leftmenu.html:8
+#: templates/static_pages/prop_file.html:590
+#: templates/static_pages/prop_file.html:591
+#: templates/static_pages/prop_file.html:900
+#: templates/static_pages/prop_file.html:901
+#: templates/static_pages/sitemap.html:29
+#: templates/static_pages/usingeuropeana.html:19
+#: templates/static_pages/usingeuropeana_results.html:9
+#: templates/static_pages/usingeuropeana_search.html:15
+msgid "Results in Europeana"
+msgstr "Резултати"
+
+#: templates/usingeuropeana_leftmenu.html:9
+#: templates/static_pages/prop_file.html:594
+#: templates/static_pages/prop_file.html:595
+#: templates/static_pages/prop_file.html:904
+#: templates/static_pages/prop_file.html:905
+#: templates/static_pages/sitemap.html:30
+#: templates/static_pages/usingeuropeana.html:21
+#: templates/static_pages/usingeuropeana_myeuropeana.html:9
+#: templates/static_pages/usingeuropeana_search.html:16
+msgid "Using My Europeana"
+msgstr "Как да използвам моята Europeana"
+
+#: templates/usingeuropeana_leftmenu.html:10
+#: templates/static_pages/prop_file.html:908
+#: templates/static_pages/prop_file.html:909
+msgid "Configure your search widget"
+msgstr "Конфигурирайте вашия widget за търсене"
+
+#: templates/NOT/leftmenu_old.html:11
+msgid "eNews"
+msgstr "еНовини"
+
+#: templates/rights/accessibility.html:4
+msgid "Europeana - Accessibility policy"
+msgstr "Europeana - политика на достъпност"
 
 #: templates/rights/accessibility.html:17
 msgid ""
@@ -152,13 +423,6 @@ msgstr "Europeana - API условия за ползване"
 #: templates/rights/languagepolicy.html:4
 msgid "Europeana - Language policy"
 msgstr "Europeana - Езикова политика"
-
-#: templates/rights/languagepolicy.html:15
-#: templates/rights/terms-and-policies.html:37
-#: templates/static_pages/prop_file.html:180
-#: templates/static_pages/prop_file.html:239
-msgid "Language"
-msgstr "Език"
 
 #: templates/rights/languagepolicy.html:18
 msgid "Europeana.eu follows similar policy guidelines to"
@@ -306,11 +570,6 @@ msgstr ""
 #: templates/rights/linked-data-sources.html:4
 msgid "Europeana - Europeana Data Sources"
 msgstr "Europeana - Europeana източници на данни"
-
-#: templates/rights/linked-data-sources.html:16
-#: templates/static_pages/sitemap.html:103
-msgid "Europeana Data Sources"
-msgstr "Europeana източници на данни"
 
 #: templates/rights/metadata-usage-guidelines.html:4
 msgid "Europeana - Usage Guidelines for Metadata"
@@ -510,15 +769,6 @@ msgstr "Europeana - насоки за използване на метданни
 #: templates/rights/privacy.html:4
 msgid "Europeana - Privacy policy"
 msgstr "Europeana - Защита на личните данни"
-
-#: templates/rights/privacy.html:15
-#: templates/rights/terms-and-policies.html:37
-#: templates/static_pages/prop_file.html:68
-#: templates/static_pages/prop_file.html:534
-#: templates/static_pages/prop_file.html:535
-#: templates/static_pages/sitemap.html:106
-msgid "Privacy"
-msgstr "Защита на личните данни"
 
 #: templates/rights/privacy.html:17
 msgid "What Information do we collect?"
@@ -859,11 +1109,6 @@ msgstr ""
 "публикувани в Europeana.eu."
 
 #: templates/rights/terms-and-policies.html:24
-#: templates/static_pages/sitemap.html:99
-msgid "Terms of Use"
-msgstr "Условия за ползване"
-
-#: templates/rights/terms-and-policies.html:24
 msgid ""
 "governs what you can or cannot do with the metadata and previews that are "
 "published on Europeana.eu, with seperate"
@@ -935,10 +1180,6 @@ msgstr "Условията за принос на потребителите"
 msgid "governs the terms on which users contribute data to Europeana"
 msgstr ""
 "регулират условията, при които потребителите предоставят данни на Europeana"
-
-#: templates/rights/terms-and-policies.html:35
-msgid "Our policies"
-msgstr "Нашите политики"
 
 #: templates/rights/terms-and-policies.html:35
 msgid "contains Europeana's policies"
@@ -1352,13 +1593,6 @@ msgstr "Вижте историята и изображенията разказ
 msgid "Europeana newsletters"
 msgstr "Europeana бюлетин"
 
-#: templates/static_pages/aboutus_enews.html:11
-#: templates/static_pages/prop_file.html:928
-#: templates/static_pages/prop_file.html:929
-#: templates/static_pages/sitemap.html:40
-msgid "Previous newsletters"
-msgstr "Архив"
-
 #: templates/static_pages/aboutus_enews.html:16
 #: templates/static_pages/aboutus_enews.html:26
 #: templates/static_pages/aboutus_enews.html:35
@@ -1516,14 +1750,6 @@ msgstr ""
 "информация за допълнителни връзки, за които смятате, че е уместно да бъдат "
 "добавени."
 
-#: templates/static_pages/europeana-api.html:4
-#: templates/static_pages/prop_file.html:63
-#: templates/static_pages/prop_file.html:827
-#: templates/static_pages/prop_file.html:828
-#: templates/static_pages/sitemap.html:51
-msgid "Europeana API"
-msgstr "Europeana API"
-
 #: templates/static_pages/europeana-api.html:8
 msgid "Europeana API - Coming Soon!"
 msgstr "Europeana API - Очаквайте скоро!"
@@ -1542,12 +1768,6 @@ msgstr ""
 msgid "Europeana - Using Europeana"
 msgstr "Europeana - използвай Europeana"
 
-#: templates/static_pages/explore.html:9
-#: templates/static_pages/prop_file.html:550
-#: templates/static_pages/prop_file.html:551
-msgid "Explore"
-msgstr "Изследвай"
-
 #: templates/static_pages/explore.html:11
 msgid ""
 "To make searching in Europeana easier, try alternative ways of navigating "
@@ -1560,12 +1780,6 @@ msgstr ""
 "на куратор, вижте най-новото ни съдържание, открийте отделните ни доставчици "
 "и опознайте на богатото културно-историческо наследство на Европа с помощта "
 "на линията на времето."
-
-#: templates/static_pages/followus.html:9
-#: templates/static_pages/prop_file.html:622
-#: templates/static_pages/prop_file.html:623
-msgid "Follow Us"
-msgstr "Следвай ни"
 
 #: templates/static_pages/followus.html:11
 msgid ""
@@ -1787,13 +2001,6 @@ msgstr ""
 msgid "Communities"
 msgstr "Общности"
 
-#: templates/static_pages/prop_file.html:37
-#: templates/static_pages/prop_file.html:570
-#: templates/static_pages/prop_file.html:571
-#: templates/static_pages/sitemap.html:89
-msgid "Timeline"
-msgstr "Линия на времето"
-
 #: templates/static_pages/prop_file.html:38
 msgid "ThoughtLab"
 msgstr "ThoughtLab"
@@ -1899,17 +2106,6 @@ msgstr "Навигатор в Линия на времето"
 msgid "Browse through time"
 msgstr "Търси във времето"
 
-#: templates/static_pages/prop_file.html:60
-#: templates/static_pages/prop_file.html:562
-#: templates/static_pages/prop_file.html:563
-#: templates/static_pages/prop_file.html:918
-#: templates/static_pages/prop_file.html:919
-#: templates/static_pages/sitemap.html:38
-#: templates/static_pages/sitemap.html:87
-#: templates/static_pages/usingeuropeana_explore.html:15
-msgid "New content"
-msgstr "Ново съдържание"
-
 #: templates/static_pages/prop_file.html:61
 msgid ""
 "From our partner museums, archives, libraries and audio-visual collections"
@@ -1979,14 +2175,6 @@ msgstr "По държава"
 #: templates/static_pages/prop_file.html:77
 msgid "By year"
 msgstr "По година"
-
-#: templates/static_pages/prop_file.html:78
-#: templates/static_pages/prop_file.html:566
-#: templates/static_pages/prop_file.html:567
-#: templates/static_pages/sitemap.html:88
-#: templates/static_pages/usingeuropeana_search.html:60
-msgid "By provider"
-msgstr "По доставчик"
 
 #: templates/static_pages/prop_file.html:79
 msgid "By user tag"
@@ -2810,18 +2998,6 @@ msgstr "Люксембург"
 msgid "Greece"
 msgstr "Гърция"
 
-#: templates/static_pages/prop_file.html:288
-#: templates/static_pages/prop_file.html:586
-#: templates/static_pages/prop_file.html:587
-#: templates/static_pages/prop_file.html:896
-#: templates/static_pages/prop_file.html:897
-#: templates/static_pages/sitemap.html:28
-#: templates/static_pages/usingeuropeana.html:16
-#: templates/static_pages/usingeuropeana_explore.html:9
-#: templates/static_pages/usingeuropeana_search.html:14
-msgid "Exploring Europeana"
-msgstr "Изследване в Europeana"
-
 #: templates/static_pages/prop_file.html:289
 msgid "Subject cloud"
 msgstr "Предмет"
@@ -3042,16 +3218,6 @@ msgstr ""
 #: templates/static_pages/prop_file.html:333
 msgid "Europeana Search Widget"
 msgstr "Europeana приложение за търсене"
-
-#: templates/static_pages/prop_file.html:334
-#: templates/static_pages/prop_file.html:578
-#: templates/static_pages/prop_file.html:579
-#: templates/static_pages/prop_file.html:888
-#: templates/static_pages/prop_file.html:889
-#: templates/static_pages/sitemap.html:25
-#: templates/static_pages/usingeuropeana.html:9
-msgid "Help"
-msgstr "Помощ"
 
 #: templates/static_pages/prop_file.html:336
 msgid "What is Europeana's remote search widget?"
@@ -3486,60 +3652,6 @@ msgstr "За контакти"
 msgid "Home"
 msgstr "Начало"
 
-#: templates/static_pages/prop_file.html:554
-#: templates/static_pages/prop_file.html:555
-#: templates/static_pages/prop_file.html:880
-#: templates/static_pages/sitemap.html:20
-msgid "Europeana Remix"
-msgstr "Europeana Remix"
-
-#: templates/static_pages/prop_file.html:558
-#: templates/static_pages/prop_file.html:559
-#: templates/static_pages/prop_file.html:869
-#: templates/static_pages/sitemap.html:17
-#: templates/static_pages/usingeuropeana_explore.html:14
-msgid "Exhibitions"
-msgstr "Изложби"
-
-#: templates/static_pages/prop_file.html:574
-#: templates/static_pages/prop_file.html:575
-#: templates/static_pages/sitemap.html:90
-msgid "Map"
-msgstr "Карта"
-
-#: templates/static_pages/prop_file.html:582
-#: templates/static_pages/prop_file.html:583
-#: templates/static_pages/prop_file.html:892
-#: templates/static_pages/prop_file.html:893
-#: templates/static_pages/usingeuropeana.html:14
-#: templates/static_pages/usingeuropeana_results.html:22
-#: templates/static_pages/usingeuropeana_search.html:9
-#: templates/static_pages/usingeuropeana_search.html:13
-msgid "Searching Europeana"
-msgstr "Търсене в Europeana"
-
-#: templates/static_pages/prop_file.html:590
-#: templates/static_pages/prop_file.html:591
-#: templates/static_pages/prop_file.html:900
-#: templates/static_pages/prop_file.html:901
-#: templates/static_pages/sitemap.html:29
-#: templates/static_pages/usingeuropeana.html:19
-#: templates/static_pages/usingeuropeana_results.html:9
-#: templates/static_pages/usingeuropeana_search.html:15
-msgid "Results in Europeana"
-msgstr "Резултати"
-
-#: templates/static_pages/prop_file.html:594
-#: templates/static_pages/prop_file.html:595
-#: templates/static_pages/prop_file.html:904
-#: templates/static_pages/prop_file.html:905
-#: templates/static_pages/sitemap.html:30
-#: templates/static_pages/usingeuropeana.html:21
-#: templates/static_pages/usingeuropeana_myeuropeana.html:9
-#: templates/static_pages/usingeuropeana_search.html:16
-msgid "Using My Europeana"
-msgstr "Как да използвам моята Europeana"
-
 #: templates/static_pages/prop_file.html:598
 #: templates/static_pages/sitemap.html:31
 #: templates/static_pages/usingeuropeana_searchwidget.html:9
@@ -3554,28 +3666,6 @@ msgstr "Как да конфигурирате widget-a за търсене"
 #: templates/static_pages/prop_file.html:611
 msgid "Press Room"
 msgstr "Пресцентър"
-
-#: templates/static_pages/prop_file.html:626
-#: templates/static_pages/prop_file.html:627
-#: templates/static_pages/prop_file.html:873
-#: templates/static_pages/sitemap.html:18
-msgid "Blog"
-msgstr "Блог"
-
-#: templates/static_pages/prop_file.html:630
-#: templates/static_pages/prop_file.html:631
-msgid "Newsletter"
-msgstr "Прессъобщения"
-
-#: templates/static_pages/prop_file.html:634
-#: templates/static_pages/prop_file.html:635
-msgid "Facebook"
-msgstr "Facebook"
-
-#: templates/static_pages/prop_file.html:638
-#: templates/static_pages/prop_file.html:639
-msgid "Twitter"
-msgstr "Twitter"
 
 #: templates/static_pages/prop_file.html:642
 #: templates/static_pages/prop_file.html:643
@@ -4184,16 +4274,6 @@ msgstr "Europeana Professional"
 msgid "Professional"
 msgstr "Префесионално"
 
-#: templates/static_pages/prop_file.html:908
-#: templates/static_pages/prop_file.html:909
-msgid "Configure your search widget"
-msgstr "Конфигурирайте вашия widget за търсене"
-
-#: templates/static_pages/prop_file.html:923
-#: templates/static_pages/prop_file.html:924
-msgid "All providers"
-msgstr "всички доставчици"
-
 #: templates/static_pages/prop_file.html:945
 msgid "Change limit for an API key"
 msgstr "Сменете лимитите за този API ключ"
@@ -4344,12 +4424,6 @@ msgstr "Моля, изберете друг език от падащото ме�
 msgid "Number of results shown on the page"
 msgstr "Брой резултати показани на тази страница"
 
-#: templates/static_pages/prop_file.html:995
-#: templates/static_pages/prop_file.html:996
-#: templates/static_pages/sitemap.html:53
-msgid "Get an API-Key"
-msgstr "Вземете API-ключ (API-key)"
-
 #: templates/static_pages/prop_file.html:999
 msgid "API-key"
 msgstr "API-ключ"
@@ -4401,10 +4475,6 @@ msgstr "Свободни позиции за работа (от сайта Europ
 msgid "Partners (on Europeana Professional)"
 msgstr "Партньори (от сайта Europeana Professional)"
 
-#: templates/static_pages/sitemap.html:55
-msgid "API Console"
-msgstr "API конзола"
-
 #: templates/static_pages/sitemap.html:56
 msgid "Working with the API"
 msgstr "Как се работи с API"
@@ -4416,14 +4486,6 @@ msgstr "Последни промени"
 #: templates/static_pages/sitemap.html:58
 msgid "Sample Code and Libraries"
 msgstr "Лесни кодове и библиотеки"
-
-#: templates/static_pages/sitemap.html:59
-msgid "Search Widget Wizard"
-msgstr "Seарцх Widget Wizard"
-
-#: templates/static_pages/sitemap.html:60
-msgid "Europeana API Forum"
-msgstr "Europeana API Forum"
 
 #: templates/static_pages/sitemap.html:61
 msgid "API Methods"
@@ -4457,30 +4519,10 @@ msgstr "Полета на данни в Europeana"
 msgid "API1-API2 compatability"
 msgstr "API1-API2 съвместимост"
 
-#: templates/static_pages/sitemap.html:100
-msgid "Usage Guidelines for Metadata"
-msgstr "Насоки за използване на метаданните"
-
-#: templates/static_pages/sitemap.html:101
-msgid "Public Domain Usage Guidelines"
-msgstr "Europeana - насоки за използване на метданните"
-
-#: templates/static_pages/sitemap.html:102
-msgid "API Terms of Use"
-msgstr "API - Условия за ползване"
-
 #: templates/static_pages/sitemap.html:104
 msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
 msgstr ""
 "Договор за обмен на данни с Europeana (от сайта Europeana Professional)"
-
-#: templates/static_pages/sitemap.html:105
-msgid "Terms for User Contributions"
-msgstr "Условия за принос на потребителите"
-
-#: templates/static_pages/sitemap.html:109
-msgid "Public Domain Charter"
-msgstr "Хартата за творби обществено достояние"
 
 #: templates/static_pages/sitemap.html:115
 msgid "Rights Reserved - Free access"
@@ -6202,21 +6244,6 @@ msgid ""
 msgstr ""
 "Бихме желали да разберем как използвате  widget-а за търсене, така че просто "
 "ни изпратете емейл на адрес"
-
-#~ msgid "Terms &amp; Policies"
-#~ msgstr "Условия &amp; Политики "
-
-#~ msgid "Introduction"
-#~ msgstr "Въведение"
-
-#~ msgid "Using our data"
-#~ msgstr "Използване на данните"
-
-#~ msgid "Contributing data to us"
-#~ msgstr "Как се доставят данни"
-
-#~ msgid "Europeana Data Exchange Agreement"
-#~ msgstr "Europeana - договор за сътрудничество"
 
 #, fuzzy
 #~ msgid "Europe's culture - collected for you."
