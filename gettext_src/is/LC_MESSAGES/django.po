@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-21 15:12+0100\n"
+"POT-Creation-Date: 2014-01-24 12:25+0100\n"
 "PO-Revision-Date: 2013-11-01 11:56\n"
 "Last-Translator: Icelandic  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4329,6 +4329,16 @@ msgstr "Tilgreining höfundar"
 #: templates/static_pages/prop_file.html:1006
 msgid "Only with permission"
 msgstr ""
+
+#: templates/static_pages/prop_file.html:1008
+#, fuzzy
+msgid "Export API users to CSV"
+msgstr "Flytja notendur út í CSV"
+
+#: templates/static_pages/prop_file.html:1009
+#, fuzzy
+msgid "Export API users to Excel"
+msgstr "Flytja notendur út í CSV"
 
 #: templates/static_pages/sitemap.html:4
 msgid "Europeana - Sitemap"

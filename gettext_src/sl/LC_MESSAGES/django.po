@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-21 15:00+0100\n"
+"POT-Creation-Date: 2014-01-24 12:25+0100\n"
 "PO-Revision-Date: 2012-02-21 15:16\n"
 "Last-Translator: <jacob.lundqvist@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -151,8 +151,7 @@ msgstr "Ozadje"
 msgid "All providers"
 msgstr "Prispevaj vsebine"
 
-#: templates/leftmenu.html:10 templates/static_pages/aboutus_enews.html:11
-#: templates/static_pages/prop_file.html:928
+#: templates/leftmenu.html:10 templates/static_pages/prop_file.html:928
 #: templates/static_pages/prop_file.html:929
 #: templates/static_pages/sitemap.html:40
 #, fuzzy
@@ -976,10 +975,6 @@ msgid "Date of creation of the Privacy Statement"
 msgstr "Datum nastanka izjave o zasebnosti"
 
 #: templates/rights/privacy.html:85 templates/rights/privacy.html.py:86
-#: templates/static_pages/aboutus_enews.html:18
-#: templates/static_pages/aboutus_enews.html:28
-#: templates/static_pages/aboutus_enews.html:37
-#: templates/static_pages/aboutus_enews.html:46
 msgid "September"
 msgstr "September"
 
@@ -1457,72 +1452,6 @@ msgstr ""
 #, fuzzy
 msgid "See the storyline and image credits for the Europeana video (above)"
 msgstr "Več o videu"
-
-#: templates/static_pages/aboutus_enews.html:4
-#, fuzzy
-msgid "Europeana newsletters"
-msgstr "Europeana logotipi"
-
-#: templates/static_pages/aboutus_enews.html:16
-#: templates/static_pages/aboutus_enews.html:26
-#: templates/static_pages/aboutus_enews.html:35
-#: templates/static_pages/aboutus_enews.html:44
-#: templates/static_pages/aboutus_enews.html:54
-msgid "December"
-msgstr "December"
-
-#: templates/static_pages/aboutus_enews.html:16
-msgid "Discover a virtual museum and a year of culture"
-msgstr ""
-
-#: templates/static_pages/aboutus_enews.html:17
-#: templates/static_pages/aboutus_enews.html:27
-#: templates/static_pages/aboutus_enews.html:45
-msgid "November"
-msgstr "November"
-
-#: templates/static_pages/aboutus_enews.html:17
-msgid "Europe's culture - collected for you"
-msgstr ""
-
-#: templates/static_pages/aboutus_enews.html:18
-#, fuzzy
-msgid "Discover Europeana's hand-picked collections"
-msgstr "Nove objekte v zbirki"
-
-#: templates/static_pages/aboutus_enews.html:19
-#: templates/static_pages/aboutus_enews.html:29
-#: templates/static_pages/aboutus_enews.html:38
-#: templates/static_pages/aboutus_enews.html:47
-msgid "June"
-msgstr "Junij"
-
-#: templates/static_pages/aboutus_enews.html:19
-msgid ""
-"Download free iPad app, explore great new content &amp; join Europeana 1989"
-msgstr ""
-
-#: templates/static_pages/aboutus_enews.html:20
-#: templates/static_pages/aboutus_enews.html:30
-#: templates/static_pages/aboutus_enews.html:39
-#: templates/static_pages/aboutus_enews.html:48
-msgid "April"
-msgstr "April"
-
-#: templates/static_pages/aboutus_enews.html:20
-msgid "New look Europeana, Lithuania's buried secrets"
-msgstr ""
-
-#: templates/static_pages/aboutus_enews.html:21
-#: templates/static_pages/aboutus_enews.html:31
-#: templates/static_pages/aboutus_enews.html:40
-#: templates/static_pages/aboutus_enews.html:49
-msgid "February"
-msgstr "Februar"
-
-#: templates/static_pages/aboutus_enews.html:36
-msgid "October"
-msgstr "Predmet"
 
 #: templates/static_pages/aboutus_faqs.html:3
 #: templates/static_pages/usingeuropeana.html:3
@@ -3460,13 +3389,10 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/prop_file.html:492
+#: templates/static_pages/prop_file.html:495
 #, fuzzy
 msgid "Europeana Open culture app v2.0"
 msgstr "mislimo na kulturo"
-
-#: templates/static_pages/prop_file.html:495
-msgid "New Open Culture app"
-msgstr ""
 
 #: templates/static_pages/prop_file.html:496
 msgid ""
@@ -4330,6 +4256,14 @@ msgstr ""
 
 #: templates/static_pages/prop_file.html:1006
 msgid "Only with permission"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1008
+msgid "Export API users to CSV"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1009
+msgid "Export API users to Excel"
 msgstr ""
 
 #: templates/static_pages/sitemap.html:4
@@ -5818,6 +5752,32 @@ msgid ""
 "We would love to know how you are using this search widget, please tell us "
 "by dropping us an email at"
 msgstr ""
+
+#, fuzzy
+#~ msgid "Europeana newsletters"
+#~ msgstr "Europeana logotipi"
+
+#~ msgid "December"
+#~ msgstr "December"
+
+#~ msgid "November"
+#~ msgstr "November"
+
+#, fuzzy
+#~ msgid "Discover Europeana's hand-picked collections"
+#~ msgstr "Nove objekte v zbirki"
+
+#~ msgid "June"
+#~ msgstr "Junij"
+
+#~ msgid "April"
+#~ msgstr "April"
+
+#~ msgid "February"
+#~ msgstr "Februar"
+
+#~ msgid "October"
+#~ msgstr "Predmet"
 
 #, fuzzy
 #~ msgid "What's new"

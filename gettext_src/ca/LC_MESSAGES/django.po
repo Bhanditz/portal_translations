@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-21 15:12+0100\n"
+"POT-Creation-Date: 2014-01-24 12:26+0100\n"
 "PO-Revision-Date: 2013-11-21 15:32\n"
 "Last-Translator: Laura  Huff <laura.huff@kb.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1043,10 +1043,10 @@ msgid "Date of creation of the Privacy Statement"
 msgstr "Data de creació de la Declaració de Privacitat"
 
 #: templates/rights/privacy.html:85 templates/rights/privacy.html.py:86
-#: templates/static_pages/aboutus_enews.html:18
-#: templates/static_pages/aboutus_enews.html:28
-#: templates/static_pages/aboutus_enews.html:37
-#: templates/static_pages/aboutus_enews.html:46
+#: templates/static_pages/aboutus_enews.html:23
+#: templates/static_pages/aboutus_enews.html:33
+#: templates/static_pages/aboutus_enews.html:42
+#: templates/static_pages/aboutus_enews.html:51
 msgid "September"
 msgstr "Setembre"
 
@@ -1594,66 +1594,75 @@ msgstr "Guió i crèdits del vídeo de llançament d'Europeana (amunt)"
 msgid "Europeana newsletters"
 msgstr "Butlletins d'informació d'Europeana"
 
-#: templates/static_pages/aboutus_enews.html:16
-#: templates/static_pages/aboutus_enews.html:26
-#: templates/static_pages/aboutus_enews.html:35
-#: templates/static_pages/aboutus_enews.html:44
-#: templates/static_pages/aboutus_enews.html:54
+#: templates/static_pages/aboutus_enews.html:15
+msgid "January"
+msgstr "Gener"
+
+#: templates/static_pages/aboutus_enews.html:15
+#, fuzzy
+msgid "Europeana Open Culture app now bigger and better!"
+msgstr "Europeana pensa cultura"
+
+#: templates/static_pages/aboutus_enews.html:21
+#: templates/static_pages/aboutus_enews.html:31
+#: templates/static_pages/aboutus_enews.html:40
+#: templates/static_pages/aboutus_enews.html:49
+#: templates/static_pages/aboutus_enews.html:59
 msgid "December"
 msgstr "Desembre"
 
-#: templates/static_pages/aboutus_enews.html:16
+#: templates/static_pages/aboutus_enews.html:21
 msgid "Discover a virtual museum and a year of culture"
 msgstr ""
 
-#: templates/static_pages/aboutus_enews.html:17
-#: templates/static_pages/aboutus_enews.html:27
-#: templates/static_pages/aboutus_enews.html:45
+#: templates/static_pages/aboutus_enews.html:22
+#: templates/static_pages/aboutus_enews.html:32
+#: templates/static_pages/aboutus_enews.html:50
 msgid "November"
 msgstr "Novembre"
 
-#: templates/static_pages/aboutus_enews.html:17
+#: templates/static_pages/aboutus_enews.html:22
 #, fuzzy
 msgid "Europe's culture - collected for you"
 msgstr "Exploreu les col·leccions culturals d'Europa"
 
-#: templates/static_pages/aboutus_enews.html:18
+#: templates/static_pages/aboutus_enews.html:23
 msgid "Discover Europeana's hand-picked collections"
 msgstr "Descobriu les col·leccions d'Europeana que hem escollit"
 
-#: templates/static_pages/aboutus_enews.html:19
-#: templates/static_pages/aboutus_enews.html:29
-#: templates/static_pages/aboutus_enews.html:38
-#: templates/static_pages/aboutus_enews.html:47
+#: templates/static_pages/aboutus_enews.html:24
+#: templates/static_pages/aboutus_enews.html:34
+#: templates/static_pages/aboutus_enews.html:43
+#: templates/static_pages/aboutus_enews.html:52
 msgid "June"
 msgstr "Juny"
 
-#: templates/static_pages/aboutus_enews.html:19
+#: templates/static_pages/aboutus_enews.html:24
 msgid ""
 "Download free iPad app, explore great new content &amp; join Europeana 1989"
 msgstr ""
 "Descarregueu l'app d'iPad de forma gratuïta, exploreu el nou contingut; "
 "participeu a Europeana 1989"
 
-#: templates/static_pages/aboutus_enews.html:20
-#: templates/static_pages/aboutus_enews.html:30
-#: templates/static_pages/aboutus_enews.html:39
-#: templates/static_pages/aboutus_enews.html:48
+#: templates/static_pages/aboutus_enews.html:25
+#: templates/static_pages/aboutus_enews.html:35
+#: templates/static_pages/aboutus_enews.html:44
+#: templates/static_pages/aboutus_enews.html:53
 msgid "April"
 msgstr "Abril"
 
-#: templates/static_pages/aboutus_enews.html:20
+#: templates/static_pages/aboutus_enews.html:25
 msgid "New look Europeana, Lithuania's buried secrets"
 msgstr "Nou disseny d'Europeana, Secrets enterrats de Lituània"
 
-#: templates/static_pages/aboutus_enews.html:21
-#: templates/static_pages/aboutus_enews.html:31
-#: templates/static_pages/aboutus_enews.html:40
-#: templates/static_pages/aboutus_enews.html:49
+#: templates/static_pages/aboutus_enews.html:26
+#: templates/static_pages/aboutus_enews.html:36
+#: templates/static_pages/aboutus_enews.html:45
+#: templates/static_pages/aboutus_enews.html:54
 msgid "February"
 msgstr "Febrer"
 
-#: templates/static_pages/aboutus_enews.html:36
+#: templates/static_pages/aboutus_enews.html:41
 msgid "October"
 msgstr "Octubre"
 
@@ -4439,6 +4448,16 @@ msgstr "Atribució a Europeana"
 msgid "Only with permission"
 msgstr ""
 
+#: templates/static_pages/prop_file.html:1008
+#, fuzzy
+msgid "Export API users to CSV"
+msgstr "Exporta usuaris al CSV"
+
+#: templates/static_pages/prop_file.html:1009
+#, fuzzy
+msgid "Export API users to Excel"
+msgstr "Exporta usuaris al CSV"
+
 #: templates/static_pages/sitemap.html:4
 msgid "Europeana - Sitemap"
 msgstr "Europeana - Mapa del web"
@@ -6367,9 +6386,6 @@ msgstr ""
 
 #~ msgid "Europeana Terms for User Contributions"
 #~ msgstr "Condicions d'Europeana per a les contribucions d'usuaris"
-
-#~ msgid "Download the Europeana Open Culture app for iPad"
-#~ msgstr "Europeana pensa cultura"
 
 #~ msgid ""
 #~ "Crawford Art Gallery, a National Cultural Institution and regional art "
@@ -9041,9 +9057,6 @@ msgstr ""
 
 #~ msgid "Further support comes from over"
 #~ msgstr "Hi ha el suport addicional de més de "
-
-#~ msgid "January"
-#~ msgstr "Gener"
 
 #~ msgid "Frequently Asked Questions"
 #~ msgstr "Preguntes Més Freqüents"

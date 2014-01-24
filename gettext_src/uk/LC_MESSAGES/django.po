@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-21 15:00+0100\n"
-"PO-Revision-Date: 2014-01-21 12:41\n"
+"POT-Creation-Date: 2014-01-24 12:25+0100\n"
+"PO-Revision-Date: 2014-01-22 13:29\n"
 "Last-Translator: Ukrainian  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -147,8 +147,7 @@ msgstr "Підгрунтя"
 msgid "All providers"
 msgstr "Усі провайдери"
 
-#: templates/leftmenu.html:10 templates/static_pages/aboutus_enews.html:11
-#: templates/static_pages/prop_file.html:928
+#: templates/leftmenu.html:10 templates/static_pages/prop_file.html:928
 #: templates/static_pages/prop_file.html:929
 #: templates/static_pages/sitemap.html:40
 msgid "Previous newsletters"
@@ -984,10 +983,6 @@ msgid "Date of creation of the Privacy Statement"
 msgstr "Дата створення Положення Конфіденційності"
 
 #: templates/rights/privacy.html:85 templates/rights/privacy.html.py:86
-#: templates/static_pages/aboutus_enews.html:18
-#: templates/static_pages/aboutus_enews.html:28
-#: templates/static_pages/aboutus_enews.html:37
-#: templates/static_pages/aboutus_enews.html:46
 msgid "September"
 msgstr "Вересень"
 
@@ -1520,70 +1515,6 @@ msgstr ""
 #: templates/static_pages/aboutus.html:43
 msgid "See the storyline and image credits for the Europeana video (above)"
 msgstr "Перегляньте сюжет та перелік акторів для відео Європіана (що вище)"
-
-#: templates/static_pages/aboutus_enews.html:4
-msgid "Europeana newsletters"
-msgstr "Новини Європіана "
-
-#: templates/static_pages/aboutus_enews.html:16
-#: templates/static_pages/aboutus_enews.html:26
-#: templates/static_pages/aboutus_enews.html:35
-#: templates/static_pages/aboutus_enews.html:44
-#: templates/static_pages/aboutus_enews.html:54
-msgid "December"
-msgstr "Грудень"
-
-#: templates/static_pages/aboutus_enews.html:16
-msgid "Discover a virtual museum and a year of culture"
-msgstr ""
-
-#: templates/static_pages/aboutus_enews.html:17
-#: templates/static_pages/aboutus_enews.html:27
-#: templates/static_pages/aboutus_enews.html:45
-msgid "November"
-msgstr "Листопад"
-
-#: templates/static_pages/aboutus_enews.html:17
-msgid "Europe's culture - collected for you"
-msgstr "Дослідіть Європейські культурні колекції"
-
-#: templates/static_pages/aboutus_enews.html:18
-msgid "Discover Europeana's hand-picked collections"
-msgstr ""
-
-#: templates/static_pages/aboutus_enews.html:19
-#: templates/static_pages/aboutus_enews.html:29
-#: templates/static_pages/aboutus_enews.html:38
-#: templates/static_pages/aboutus_enews.html:47
-msgid "June"
-msgstr "Червень"
-
-#: templates/static_pages/aboutus_enews.html:19
-msgid ""
-"Download free iPad app, explore great new content &amp; join Europeana 1989"
-msgstr ""
-
-#: templates/static_pages/aboutus_enews.html:20
-#: templates/static_pages/aboutus_enews.html:30
-#: templates/static_pages/aboutus_enews.html:39
-#: templates/static_pages/aboutus_enews.html:48
-msgid "April"
-msgstr "Квітень"
-
-#: templates/static_pages/aboutus_enews.html:20
-msgid "New look Europeana, Lithuania's buried secrets"
-msgstr ""
-
-#: templates/static_pages/aboutus_enews.html:21
-#: templates/static_pages/aboutus_enews.html:31
-#: templates/static_pages/aboutus_enews.html:40
-#: templates/static_pages/aboutus_enews.html:49
-msgid "February"
-msgstr "Лютий"
-
-#: templates/static_pages/aboutus_enews.html:36
-msgid "October"
-msgstr "Жовтень"
 
 #: templates/static_pages/aboutus_faqs.html:3
 #: templates/static_pages/usingeuropeana.html:3
@@ -3461,12 +3392,8 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/prop_file.html:492
-#, fuzzy
-msgid "Europeana Open culture app v2.0"
-msgstr "культура мислення"
-
 #: templates/static_pages/prop_file.html:495
-msgid "New Open Culture app"
+msgid "Europeana Open culture app v2.0"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:496
@@ -3476,9 +3403,8 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/prop_file.html:497
-#, fuzzy
 msgid "Read more"
-msgstr "Показати"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:502
 #: templates/static_pages/prop_file.html:511
@@ -4293,6 +4219,16 @@ msgstr ""
 #: templates/static_pages/prop_file.html:1006
 msgid "Only with permission"
 msgstr ""
+
+#: templates/static_pages/prop_file.html:1008
+#, fuzzy
+msgid "Export API users to CSV"
+msgstr "Експортувати користувачів до CSV"
+
+#: templates/static_pages/prop_file.html:1009
+#, fuzzy
+msgid "Export API users to Excel"
+msgstr "Експортувати користувачів до CSV"
 
 #: templates/static_pages/sitemap.html:4
 msgid "Europeana - Sitemap"
@@ -5774,7 +5710,7 @@ msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:25
 msgid "To tailor your search widget"
-msgstr ""
+msgstr "Щоб адаптувати ваші параметри пошуку"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:27
 msgid "Keyword search"
@@ -5979,6 +5915,30 @@ msgid ""
 msgstr ""
 "Ми із радістю дізнаємось, ваш досвід використання цього пошукового віджету, "
 "будьте ласкаві надішліть нам повідомлення про це електронною поштою до "
+
+#~ msgid "Europeana newsletters"
+#~ msgstr "Новини Європіана "
+
+#~ msgid "December"
+#~ msgstr "Грудень"
+
+#~ msgid "November"
+#~ msgstr "Листопад"
+
+#~ msgid "Europe's culture - collected for you"
+#~ msgstr "Дослідіть Європейські культурні колекції"
+
+#~ msgid "June"
+#~ msgstr "Червень"
+
+#~ msgid "April"
+#~ msgstr "Квітень"
+
+#~ msgid "February"
+#~ msgstr "Лютий"
+
+#~ msgid "October"
+#~ msgstr "Жовтень"
 
 #~ msgid "What's new"
 #~ msgstr "Що нового"

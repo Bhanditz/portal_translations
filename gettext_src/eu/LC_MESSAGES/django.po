@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-21 15:12+0100\n"
+"POT-Creation-Date: 2014-01-24 12:26+0100\n"
 "PO-Revision-Date: 2013-11-21 09:59\n"
 "Last-Translator: Laura  Huff <laura.huff@kb.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -981,10 +981,10 @@ msgid "Date of creation of the Privacy Statement"
 msgstr "Pribatutasun Adierazpenaren sorrera data"
 
 #: templates/rights/privacy.html:85 templates/rights/privacy.html.py:86
-#: templates/static_pages/aboutus_enews.html:18
-#: templates/static_pages/aboutus_enews.html:28
-#: templates/static_pages/aboutus_enews.html:37
-#: templates/static_pages/aboutus_enews.html:46
+#: templates/static_pages/aboutus_enews.html:23
+#: templates/static_pages/aboutus_enews.html:33
+#: templates/static_pages/aboutus_enews.html:42
+#: templates/static_pages/aboutus_enews.html:51
 msgid "September"
 msgstr "Iraila"
 
@@ -1452,63 +1452,72 @@ msgstr ""
 msgid "Europeana newsletters"
 msgstr ""
 
-#: templates/static_pages/aboutus_enews.html:16
-#: templates/static_pages/aboutus_enews.html:26
-#: templates/static_pages/aboutus_enews.html:35
-#: templates/static_pages/aboutus_enews.html:44
-#: templates/static_pages/aboutus_enews.html:54
-msgid "December"
-msgstr "Abendua"
-
-#: templates/static_pages/aboutus_enews.html:16
-msgid "Discover a virtual museum and a year of culture"
+#: templates/static_pages/aboutus_enews.html:15
+msgid "January"
 msgstr ""
 
-#: templates/static_pages/aboutus_enews.html:17
-#: templates/static_pages/aboutus_enews.html:27
-#: templates/static_pages/aboutus_enews.html:45
-msgid "November"
-msgstr "Azaroa"
-
-#: templates/static_pages/aboutus_enews.html:17
-msgid "Europe's culture - collected for you"
-msgstr ""
-
-#: templates/static_pages/aboutus_enews.html:18
-msgid "Discover Europeana's hand-picked collections"
-msgstr ""
-
-#: templates/static_pages/aboutus_enews.html:19
-#: templates/static_pages/aboutus_enews.html:29
-#: templates/static_pages/aboutus_enews.html:38
-#: templates/static_pages/aboutus_enews.html:47
-msgid "June"
-msgstr "Ekaina"
-
-#: templates/static_pages/aboutus_enews.html:19
-msgid ""
-"Download free iPad app, explore great new content &amp; join Europeana 1989"
-msgstr ""
-
-#: templates/static_pages/aboutus_enews.html:20
-#: templates/static_pages/aboutus_enews.html:30
-#: templates/static_pages/aboutus_enews.html:39
-#: templates/static_pages/aboutus_enews.html:48
-msgid "April"
-msgstr "Apirila"
-
-#: templates/static_pages/aboutus_enews.html:20
-msgid "New look Europeana, Lithuania's buried secrets"
-msgstr ""
+#: templates/static_pages/aboutus_enews.html:15
+#, fuzzy
+msgid "Europeana Open Culture app now bigger and better!"
+msgstr "Kultura pentsatu"
 
 #: templates/static_pages/aboutus_enews.html:21
 #: templates/static_pages/aboutus_enews.html:31
 #: templates/static_pages/aboutus_enews.html:40
 #: templates/static_pages/aboutus_enews.html:49
+#: templates/static_pages/aboutus_enews.html:59
+msgid "December"
+msgstr "Abendua"
+
+#: templates/static_pages/aboutus_enews.html:21
+msgid "Discover a virtual museum and a year of culture"
+msgstr ""
+
+#: templates/static_pages/aboutus_enews.html:22
+#: templates/static_pages/aboutus_enews.html:32
+#: templates/static_pages/aboutus_enews.html:50
+msgid "November"
+msgstr "Azaroa"
+
+#: templates/static_pages/aboutus_enews.html:22
+msgid "Europe's culture - collected for you"
+msgstr ""
+
+#: templates/static_pages/aboutus_enews.html:23
+msgid "Discover Europeana's hand-picked collections"
+msgstr ""
+
+#: templates/static_pages/aboutus_enews.html:24
+#: templates/static_pages/aboutus_enews.html:34
+#: templates/static_pages/aboutus_enews.html:43
+#: templates/static_pages/aboutus_enews.html:52
+msgid "June"
+msgstr "Ekaina"
+
+#: templates/static_pages/aboutus_enews.html:24
+msgid ""
+"Download free iPad app, explore great new content &amp; join Europeana 1989"
+msgstr ""
+
+#: templates/static_pages/aboutus_enews.html:25
+#: templates/static_pages/aboutus_enews.html:35
+#: templates/static_pages/aboutus_enews.html:44
+#: templates/static_pages/aboutus_enews.html:53
+msgid "April"
+msgstr "Apirila"
+
+#: templates/static_pages/aboutus_enews.html:25
+msgid "New look Europeana, Lithuania's buried secrets"
+msgstr ""
+
+#: templates/static_pages/aboutus_enews.html:26
+#: templates/static_pages/aboutus_enews.html:36
+#: templates/static_pages/aboutus_enews.html:45
+#: templates/static_pages/aboutus_enews.html:54
 msgid "February"
 msgstr "Otsaila"
 
-#: templates/static_pages/aboutus_enews.html:36
+#: templates/static_pages/aboutus_enews.html:41
 msgid "October"
 msgstr ""
 
@@ -2016,8 +2025,11 @@ msgid "Click here to return to the Europeana homepage"
 msgstr "Hemen klik egizu Europeanaren hasierako orrira itzultzeko"
 
 #: templates/static_pages/prop_file.html:74
+#, fuzzy
 msgid "Refine your results"
 msgstr ""
+"Europeanaren bilaketa-koadro nagusiaren azpian dagoen bilaketa aurreratua "
+"esteka"
 
 #: templates/static_pages/prop_file.html:75
 msgid "By language of description"
@@ -2213,8 +2225,11 @@ msgid "Error details"
 msgstr "Objektu baten xehetasun gehiago jakin nahi izanez gero,"
 
 #: templates/static_pages/prop_file.html:124
+#, fuzzy
 msgid "Return to results"
 msgstr ""
+"Europeanaren bilaketa-koadro nagusiaren azpian dagoen bilaketa aurreratua "
+"esteka"
 
 #: templates/static_pages/prop_file.html:125
 msgid "More"
@@ -3295,24 +3310,27 @@ msgid "Place Term"
 msgstr "Orrietan"
 
 #: templates/static_pages/prop_file.html:379
+#, fuzzy
 msgid "Place Label"
-msgstr ""
+msgstr "Orrietan"
 
 #: templates/static_pages/prop_file.html:380
 msgid "Geo Space"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:381
+#, fuzzy
 msgid "Place Broader Term"
-msgstr ""
+msgstr "Orrietan"
 
 #: templates/static_pages/prop_file.html:382
 msgid "Place Broader Label"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:383
+#, fuzzy
 msgid "Period Term"
-msgstr ""
+msgstr "Orrietan"
 
 #: templates/static_pages/prop_file.html:384
 msgid "Period Label"
@@ -3335,8 +3353,9 @@ msgid "Period Broader Label"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:389
+#, fuzzy
 msgid "Concept Term"
-msgstr ""
+msgstr "Orrietan"
 
 #: templates/static_pages/prop_file.html:390
 msgid "Concept Label"
@@ -3351,8 +3370,9 @@ msgid "Concept Broader Label"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:393
+#, fuzzy
 msgid "Agent Term"
-msgstr ""
+msgstr "Orrietan"
 
 #: templates/static_pages/prop_file.html:394
 msgid "Agent Label"
@@ -3635,8 +3655,9 @@ msgid "Legend"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:678
+#, fuzzy
 msgid "See less"
-msgstr ""
+msgstr "Europeana - Europa irakurriz"
 
 #: templates/static_pages/prop_file.html:679
 #, fuzzy
@@ -3771,8 +3792,11 @@ msgid "Your search result contains no items that have map co-ordinates."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:711
+#, fuzzy
 msgid "Please try another search."
 msgstr ""
+"Europeanaren bilaketa-koadro nagusiaren azpian dagoen bilaketa aurreratua "
+"esteka"
 
 #: templates/static_pages/prop_file.html:712
 msgid ""
@@ -4024,12 +4048,14 @@ msgid "API keys"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:844
+#, fuzzy
 msgid "No API key"
-msgstr ""
+msgstr "Zerikusia duten edukiak"
 
 #: templates/static_pages/prop_file.html:845
+#, fuzzy
 msgid "API key"
-msgstr ""
+msgstr "Zerikusia duten edukiak"
 
 #: templates/static_pages/prop_file.html:846
 #, fuzzy
@@ -4187,8 +4213,9 @@ msgid "All fields"
 msgstr "Europeana v1.0-ko Edukia Gehitu orrira;"
 
 #: templates/static_pages/prop_file.html:969
+#, fuzzy
 msgid "Featured Item"
-msgstr ""
+msgstr "Itemik ez da gorde "
 
 #: templates/static_pages/prop_file.html:970
 #: templates/static_pages/usingeuropeana_explore.html:15
@@ -4223,8 +4250,11 @@ msgid "Please, select"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:978
+#, fuzzy
 msgid "Please try another search later."
 msgstr ""
+"Europeanaren bilaketa-koadro nagusiaren azpian dagoen bilaketa aurreratua "
+"esteka"
 
 #: templates/static_pages/prop_file.html:979
 msgid "Unable to find the requested page"
@@ -4305,6 +4335,14 @@ msgstr "Atribuzioa"
 
 #: templates/static_pages/prop_file.html:1006
 msgid "Only with permission"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1008
+msgid "Export API users to CSV"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1009
+msgid "Export API users to Excel"
 msgstr ""
 
 #: templates/static_pages/sitemap.html:4
