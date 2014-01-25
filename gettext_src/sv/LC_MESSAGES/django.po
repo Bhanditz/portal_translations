@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-24 12:25+0100\n"
+"POT-Creation-Date: 2014-01-24 12:44+0100\n"
 "PO-Revision-Date: 2013-08-28 15:05\n"
 "Last-Translator: <jacob.lundqvist@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -149,7 +149,8 @@ msgstr "Bakgrund"
 msgid "All providers"
 msgstr "Leverantör"
 
-#: templates/leftmenu.html:10 templates/static_pages/prop_file.html:928
+#: templates/leftmenu.html:10 templates/static_pages/aboutus_enews.html:11
+#: templates/static_pages/prop_file.html:928
 #: templates/static_pages/prop_file.html:929
 #: templates/static_pages/sitemap.html:40
 #, fuzzy
@@ -974,6 +975,10 @@ msgid "Date of creation of the Privacy Statement"
 msgstr "Datum för upprättande av sekretesspolicyn"
 
 #: templates/rights/privacy.html:85 templates/rights/privacy.html.py:86
+#: templates/static_pages/aboutus_enews.html:23
+#: templates/static_pages/aboutus_enews.html:33
+#: templates/static_pages/aboutus_enews.html:42
+#: templates/static_pages/aboutus_enews.html:51
 msgid "September"
 msgstr "september"
 
@@ -1429,6 +1434,81 @@ msgstr ""
 #: templates/static_pages/aboutus.html:43
 msgid "See the storyline and image credits for the Europeana video (above)"
 msgstr ""
+
+#: templates/static_pages/aboutus_enews.html:4
+#, fuzzy
+msgid "Europeana newsletters"
+msgstr "Europeana - Nyhetsbrev"
+
+#: templates/static_pages/aboutus_enews.html:15
+msgid "January"
+msgstr ""
+
+#: templates/static_pages/aboutus_enews.html:15
+#, fuzzy
+msgid "Europeana Open Culture app now bigger and better!"
+msgstr "tänk kultur"
+
+#: templates/static_pages/aboutus_enews.html:21
+#: templates/static_pages/aboutus_enews.html:31
+#: templates/static_pages/aboutus_enews.html:40
+#: templates/static_pages/aboutus_enews.html:49
+#: templates/static_pages/aboutus_enews.html:59
+msgid "December"
+msgstr "december"
+
+#: templates/static_pages/aboutus_enews.html:21
+msgid "Discover a virtual museum and a year of culture"
+msgstr ""
+
+#: templates/static_pages/aboutus_enews.html:22
+#: templates/static_pages/aboutus_enews.html:32
+#: templates/static_pages/aboutus_enews.html:50
+msgid "November"
+msgstr "november"
+
+#: templates/static_pages/aboutus_enews.html:22
+msgid "Europe's culture - collected for you"
+msgstr "Utforska Europas kultursamlingar"
+
+#: templates/static_pages/aboutus_enews.html:23
+#, fuzzy
+msgid "Discover Europeana's hand-picked collections"
+msgstr "Nya objekt i Europeanas samlingar"
+
+#: templates/static_pages/aboutus_enews.html:24
+#: templates/static_pages/aboutus_enews.html:34
+#: templates/static_pages/aboutus_enews.html:43
+#: templates/static_pages/aboutus_enews.html:52
+msgid "June"
+msgstr "juni"
+
+#: templates/static_pages/aboutus_enews.html:24
+msgid ""
+"Download free iPad app, explore great new content &amp; join Europeana 1989"
+msgstr ""
+
+#: templates/static_pages/aboutus_enews.html:25
+#: templates/static_pages/aboutus_enews.html:35
+#: templates/static_pages/aboutus_enews.html:44
+#: templates/static_pages/aboutus_enews.html:53
+msgid "April"
+msgstr "april"
+
+#: templates/static_pages/aboutus_enews.html:25
+msgid "New look Europeana, Lithuania's buried secrets"
+msgstr ""
+
+#: templates/static_pages/aboutus_enews.html:26
+#: templates/static_pages/aboutus_enews.html:36
+#: templates/static_pages/aboutus_enews.html:45
+#: templates/static_pages/aboutus_enews.html:54
+msgid "February"
+msgstr "februari"
+
+#: templates/static_pages/aboutus_enews.html:41
+msgid "October"
+msgstr "Andra"
 
 #: templates/static_pages/aboutus_faqs.html:3
 #: templates/static_pages/usingeuropeana.html:3
@@ -5669,31 +5749,6 @@ msgid ""
 "by dropping us an email at"
 msgstr ""
 
-#~ msgid "December"
-#~ msgstr "december"
-
-#~ msgid "November"
-#~ msgstr "november"
-
-#~ msgid "Europe's culture - collected for you"
-#~ msgstr "Utforska Europas kultursamlingar"
-
-#, fuzzy
-#~ msgid "Discover Europeana's hand-picked collections"
-#~ msgstr "Nya objekt i Europeanas samlingar"
-
-#~ msgid "June"
-#~ msgstr "juni"
-
-#~ msgid "April"
-#~ msgstr "april"
-
-#~ msgid "February"
-#~ msgstr "februari"
-
-#~ msgid "October"
-#~ msgstr "Andra"
-
 #, fuzzy
 #~ msgid "Europe's culture - collected for you."
 #~ msgstr "Utforska Europas kultursamlingar"
@@ -5797,9 +5852,6 @@ msgstr ""
 #~ msgstr ""
 #~ "institutioner har lämnat bidrag till Europeana. Blan dessa finns kända "
 #~ "namn som"
-
-#~ msgid "Europeana - eNews"
-#~ msgstr "Europeana - Nyhetsbrev"
 
 #~ msgid ""
 #~ "Europeana produces a newsletter in English and releases important "
