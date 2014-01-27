@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-27 09:41+0100\n"
+"POT-Creation-Date: 2014-01-27 09:58+0100\n"
 "PO-Revision-Date: 2012-02-21 15:20\n"
 "Last-Translator: <jacob.lundqvist@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,25 +21,27 @@ msgstr ""
 #: templates/static_pages/prop_file.html:63
 #: templates/static_pages/prop_file.html:823
 #: templates/static_pages/prop_file.html:824
+#: templates/static_pages/sitemap.html:51
 #, fuzzy
 msgid "Europeana API"
 msgstr "Europeana - GYIK"
 
 #: templates/api_leftmenu.html:6 templates/static_pages/prop_file.html:991
 #: templates/static_pages/prop_file.html:992
+#: templates/static_pages/sitemap.html:53
 msgid "Get an API-Key"
 msgstr ""
 
-#: templates/api_leftmenu.html:7
+#: templates/api_leftmenu.html:7 templates/static_pages/sitemap.html:55
 msgid "API Console"
 msgstr ""
 
-#: templates/api_leftmenu.html:11
+#: templates/api_leftmenu.html:11 templates/static_pages/sitemap.html:59
 #, fuzzy
 msgid "Search Widget Wizard"
 msgstr "Europeana logók;"
 
-#: templates/api_leftmenu.html:12
+#: templates/api_leftmenu.html:12 templates/static_pages/sitemap.html:60
 #, fuzzy
 msgid "Europeana API Forum"
 msgstr "Europeana - Felhasználási feltételek"
@@ -53,12 +55,14 @@ msgstr ""
 #: templates/explore_leftmenu.html:5 templates/static_pages/prop_file.html:550
 #: templates/static_pages/prop_file.html:551
 #: templates/static_pages/prop_file.html:876
+#: templates/static_pages/sitemap.html:20
 msgid "Europeana Remix"
 msgstr ""
 
 #: templates/explore_leftmenu.html:6 templates/static_pages/prop_file.html:554
 #: templates/static_pages/prop_file.html:555
 #: templates/static_pages/prop_file.html:865
+#: templates/static_pages/sitemap.html:17
 #: templates/static_pages/usingeuropeana_explore.html:14
 msgid "Exhibitions"
 msgstr ""
@@ -69,6 +73,8 @@ msgstr ""
 #: templates/static_pages/prop_file.html:559
 #: templates/static_pages/prop_file.html:914
 #: templates/static_pages/prop_file.html:915
+#: templates/static_pages/sitemap.html:38
+#: templates/static_pages/sitemap.html:87
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "New content"
 msgstr "Új tartalom"
@@ -76,6 +82,7 @@ msgstr "Új tartalom"
 #: templates/explore_leftmenu.html:9 templates/static_pages/prop_file.html:78
 #: templates/static_pages/prop_file.html:562
 #: templates/static_pages/prop_file.html:563
+#: templates/static_pages/sitemap.html:88
 #: templates/static_pages/usingeuropeana_search.html:60
 msgid "By provider"
 msgstr ""
@@ -83,12 +90,14 @@ msgstr ""
 #: templates/explore_leftmenu.html:10 templates/static_pages/prop_file.html:37
 #: templates/static_pages/prop_file.html:566
 #: templates/static_pages/prop_file.html:567
+#: templates/static_pages/sitemap.html:89
 msgid "Timeline"
 msgstr "Időrend"
 
 #: templates/explore_leftmenu.html:11
 #: templates/static_pages/prop_file.html:570
 #: templates/static_pages/prop_file.html:571
+#: templates/static_pages/sitemap.html:90
 msgid "Map"
 msgstr ""
 
@@ -102,6 +111,7 @@ msgstr ""
 #: templates/static_pages/prop_file.html:622
 #: templates/static_pages/prop_file.html:623
 #: templates/static_pages/prop_file.html:869
+#: templates/static_pages/sitemap.html:18
 msgid "Blog"
 msgstr ""
 
@@ -144,6 +154,7 @@ msgstr "Tartalom hozzáadása"
 #: templates/leftmenu.html:10 templates/static_pages/aboutus_enews.html:11
 #: templates/static_pages/prop_file.html:924
 #: templates/static_pages/prop_file.html:925
+#: templates/static_pages/sitemap.html:40
 #, fuzzy
 msgid "Previous newsletters"
 msgstr "Korábbi hírleveleink"
@@ -198,27 +209,29 @@ msgid "Using our data"
 msgstr "Az Europeana használata"
 
 #: templates/terms_leftmenu.html:9 templates/rights/terms-and-policies.html:24
+#: templates/static_pages/sitemap.html:99
 #, fuzzy
 msgid "Terms of Use"
 msgstr "Felhasználási feltételek"
 
-#: templates/terms_leftmenu.html:10
+#: templates/terms_leftmenu.html:10 templates/static_pages/sitemap.html:100
 #, fuzzy
 msgid "Usage Guidelines for Metadata"
 msgstr "Az Europeana útmutatója a szabadon felhasználható művekhez"
 
-#: templates/terms_leftmenu.html:11
+#: templates/terms_leftmenu.html:11 templates/static_pages/sitemap.html:101
 #, fuzzy
 msgid "Public Domain Usage Guidelines"
 msgstr "Vissza az Europeana honalphoz"
 
-#: templates/terms_leftmenu.html:12
+#: templates/terms_leftmenu.html:12 templates/static_pages/sitemap.html:102
 #, fuzzy
 msgid "API Terms of Use"
 msgstr "Felhasználási feltételek"
 
 #: templates/terms_leftmenu.html:13
 #: templates/rights/linked-data-sources.html:16
+#: templates/static_pages/sitemap.html:103
 #, fuzzy
 msgid "Europeana Data Sources"
 msgstr "Kapcsolódó nyílt adat"
@@ -233,7 +246,7 @@ msgstr "Az Europeanában található tartalmak"
 msgid "Europeana Data Exchange Agreement"
 msgstr "Vissza az Europeana honalphoz"
 
-#: templates/terms_leftmenu.html:19
+#: templates/terms_leftmenu.html:19 templates/static_pages/sitemap.html:105
 #, fuzzy
 msgid "Terms for User Contributions"
 msgstr "Europeana - Olvasó Európa"
@@ -249,6 +262,7 @@ msgstr "A szolgáltatás feltételei"
 #: templates/static_pages/prop_file.html:68
 #: templates/static_pages/prop_file.html:530
 #: templates/static_pages/prop_file.html:531
+#: templates/static_pages/sitemap.html:106
 msgid "Privacy"
 msgstr "Adatvédelem"
 
@@ -265,10 +279,11 @@ msgstr "Nyelvi irányelvek"
 #: templates/static_pages/prop_file.html:65
 #: templates/static_pages/prop_file.html:518
 #: templates/static_pages/prop_file.html:519
+#: templates/static_pages/sitemap.html:108
 msgid "Accessibility"
 msgstr "Elérhetőség"
 
-#: templates/terms_leftmenu.html:27
+#: templates/terms_leftmenu.html:27 templates/static_pages/sitemap.html:109
 #, fuzzy
 msgid "Public Domain Charter"
 msgstr "Europeana - Adatvédelmi irányelvek"
@@ -279,6 +294,7 @@ msgstr "Europeana - Adatvédelmi irányelvek"
 #: templates/static_pages/prop_file.html:575
 #: templates/static_pages/prop_file.html:884
 #: templates/static_pages/prop_file.html:885
+#: templates/static_pages/sitemap.html:25
 #: templates/static_pages/usingeuropeana.html:9
 msgid "Help"
 msgstr ""
@@ -301,6 +317,7 @@ msgstr ""
 #: templates/static_pages/prop_file.html:583
 #: templates/static_pages/prop_file.html:892
 #: templates/static_pages/prop_file.html:893
+#: templates/static_pages/sitemap.html:28
 #: templates/static_pages/usingeuropeana.html:16
 #: templates/static_pages/usingeuropeana_explore.html:9
 #: templates/static_pages/usingeuropeana_search.html:14
@@ -312,6 +329,7 @@ msgstr ""
 #: templates/static_pages/prop_file.html:587
 #: templates/static_pages/prop_file.html:896
 #: templates/static_pages/prop_file.html:897
+#: templates/static_pages/sitemap.html:29
 #: templates/static_pages/usingeuropeana.html:19
 #: templates/static_pages/usingeuropeana_results.html:9
 #: templates/static_pages/usingeuropeana_search.html:15
@@ -323,6 +341,7 @@ msgstr "Találatok az Europeanában"
 #: templates/static_pages/prop_file.html:591
 #: templates/static_pages/prop_file.html:900
 #: templates/static_pages/prop_file.html:901
+#: templates/static_pages/sitemap.html:30
 #: templates/static_pages/usingeuropeana.html:21
 #: templates/static_pages/usingeuropeana_myeuropeana.html:9
 #: templates/static_pages/usingeuropeana_search.html:16
@@ -1825,6 +1844,7 @@ msgstr "nem"
 #: templates/static_pages/prop_file.html:643
 #: templates/static_pages/prop_file.html:957
 #: templates/static_pages/prop_file.html:958
+#: templates/static_pages/sitemap.html:12
 #: templates/static_pages/usingeuropeana_myeuropeana.html:10
 #: templates/static_pages/usingeuropeana_myeuropeana.html:11
 #: templates/static_pages/usingeuropeana_myeuropeana.html:20
@@ -1930,6 +1950,7 @@ msgid "Find out more"
 msgstr "További információk"
 
 #: templates/static_pages/prop_file.html:44
+#: templates/static_pages/sitemap.html:65
 #: templates/static_pages/usingeuropeana_search.html:21
 #: templates/static_pages/usingeuropeana_search.html:25
 #: templates/static_pages/usingeuropeana_search.html:27
@@ -2022,6 +2043,7 @@ msgstr ""
 #: templates/static_pages/prop_file.html:62
 #: templates/static_pages/prop_file.html:909
 #: templates/static_pages/prop_file.html:910
+#: templates/static_pages/sitemap.html:36
 msgid "About us"
 msgstr "Rólunk"
 
@@ -2034,6 +2056,7 @@ msgstr "Az Europeana használata"
 #: templates/static_pages/prop_file.html:523
 #: templates/static_pages/prop_file.html:835
 #: templates/static_pages/prop_file.html:836
+#: templates/static_pages/sitemap.html:8
 msgid "Sitemap"
 msgstr "Honlaptérkép"
 
@@ -2043,6 +2066,7 @@ msgid "Terms and conditions"
 msgstr "A szolgáltatás feltételei"
 
 #: templates/static_pages/prop_file.html:69
+#: templates/static_pages/sitemap.html:107
 msgid "Language policy"
 msgstr "Nyelvi irányelvek"
 
@@ -2752,6 +2776,7 @@ msgid "Relation"
 msgstr "A migráció"
 
 #: templates/static_pages/prop_file.html:241
+#: templates/static_pages/sitemap.html:113
 msgid "Rights"
 msgstr ""
 
@@ -3552,6 +3577,7 @@ msgstr "Europeana - Olvasó Európa"
 
 #: templates/static_pages/prop_file.html:526
 #: templates/static_pages/prop_file.html:527
+#: templates/static_pages/sitemap.html:97
 #, fuzzy
 msgid "Terms of Use &amp; Policies"
 msgstr "A szolgáltatás feltételei"
@@ -3563,6 +3589,7 @@ msgstr "Nyelvi irányelvek"
 
 #: templates/static_pages/prop_file.html:538
 #: templates/static_pages/prop_file.html:539
+#: templates/static_pages/sitemap.html:126
 msgid "Contact"
 msgstr ""
 
@@ -3570,10 +3597,12 @@ msgstr ""
 #: templates/static_pages/prop_file.html:543
 #: templates/static_pages/prop_file.html:953
 #: templates/static_pages/prop_file.html:954
+#: templates/static_pages/sitemap.html:11
 msgid "Home"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:594
+#: templates/static_pages/sitemap.html:31
 #: templates/static_pages/usingeuropeana_searchwidget.html:9
 msgid "How to configure your search widget"
 msgstr ""
@@ -4176,6 +4205,7 @@ msgstr ""
 
 #: templates/static_pages/prop_file.html:860
 #: templates/static_pages/prop_file.html:861
+#: templates/static_pages/sitemap.html:15
 #, fuzzy
 msgid "Other Europeana Sites"
 msgstr "Az Európai Könyvtár"
@@ -4186,6 +4216,7 @@ msgid "Europeana Exhibitions"
 msgstr "egy virtuális kiállítás, amely bemutat"
 
 #: templates/static_pages/prop_file.html:872
+#: templates/static_pages/sitemap.html:19
 #, fuzzy
 msgid "Europeana 1914-1918"
 msgstr "Europeana - GYIK"
@@ -4195,6 +4226,7 @@ msgid "Remix"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:880
+#: templates/static_pages/sitemap.html:21
 msgid "Europeana Professional"
 msgstr ""
 
@@ -4401,6 +4433,130 @@ msgstr ""
 #: templates/static_pages/prop_file.html:1005
 msgid "Export API users to Excel"
 msgstr ""
+
+#: templates/static_pages/sitemap.html:4
+msgid "Europeana - Sitemap"
+msgstr "Europeana - Honlaptérkép"
+
+#: templates/static_pages/sitemap.html:27
+msgid "Searching in Europeana"
+msgstr "Keresés az Europeanában"
+
+#: templates/static_pages/sitemap.html:39
+#, fuzzy
+msgid "All Providers"
+msgstr "Tartalom hozzáadása"
+
+#: templates/static_pages/sitemap.html:41
+#, fuzzy
+msgid "Press Centre (on Europeana Professional)"
+msgstr "Vissza az Europeana honalphoz"
+
+#: templates/static_pages/sitemap.html:42
+#, fuzzy
+msgid "Jobs (on Europeana Professional)"
+msgstr "Vissza az Europeana honalphoz"
+
+#: templates/static_pages/sitemap.html:43
+#, fuzzy
+msgid "Partners (on Europeana Professional)"
+msgstr "Vissza az Europeana honalphoz"
+
+#: templates/static_pages/sitemap.html:56
+#, fuzzy
+msgid "Working with the API"
+msgstr "Az Europeana mint munkahely"
+
+#: templates/static_pages/sitemap.html:57
+msgid "Latest changes"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:58
+msgid "Sample Code and Libraries"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:61
+#, fuzzy
+msgid "API Methods"
+msgstr "Felhasználási feltételek"
+
+#: templates/static_pages/sitemap.html:64
+msgid "Record"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:66
+#, fuzzy
+msgid "Suggestions"
+msgstr "betűzési javaslatok"
+
+#: templates/static_pages/sitemap.html:67
+#, fuzzy
+msgid "OpenSearch"
+msgstr "keresés kifejezésekre"
+
+#: templates/static_pages/sitemap.html:69
+msgid "Query Syntax"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:70
+msgid "Data structure"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:72
+#, fuzzy
+msgid "Europeana Fields"
+msgstr "Europeana - GYIK"
+
+#: templates/static_pages/sitemap.html:74
+msgid "API1-API2 compatability"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:104
+#, fuzzy
+msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
+msgstr "Vissza az Europeana honalphoz"
+
+#: templates/static_pages/sitemap.html:115
+#, fuzzy
+msgid "Rights Reserved - Free access"
+msgstr "Fenntartott jogok - Ingyenes hozzáférés"
+
+#: templates/static_pages/sitemap.html:116
+#, fuzzy
+msgid "Rights Reserved - Restricted access"
+msgstr "Fenntartott jogok - Hozzáférési korlátozás"
+
+#: templates/static_pages/sitemap.html:117
+#, fuzzy
+msgid "Rights Reserved - Paid access"
+msgstr "Fenntartott jogok - Fizetett hozzáférés"
+
+#: templates/static_pages/sitemap.html:118
+msgid "Unknown copyright status"
+msgstr "Ismeretlen szerzői jogi státusz"
+
+#: templates/static_pages/sitemap.html:119
+#, fuzzy
+msgid "Orphan work - Free access"
+msgstr "Fenntartott jogok - Ingyenes hozzáférés"
+
+#: templates/static_pages/sitemap.html:120
+msgid "Orphan work"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:121
+msgid "Out of copyright - non commercial reuse"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:127
+#, fuzzy
+msgid "Europeana Semantic Elements (ESE)"
+msgstr "Europeana logók;"
+
+#: templates/static_pages/sitemap.html:128
+#, fuzzy
+msgid "Europeana metadata schemas"
+msgstr "Az Europeana használata"
 
 #: templates/static_pages/storyline.html:4
 msgid "Europeana - Storyline and credits"
@@ -5913,55 +6069,6 @@ msgid ""
 "We would love to know how you are using this search widget, please tell us "
 "by dropping us an email at"
 msgstr ""
-
-#~ msgid "Europeana - Sitemap"
-#~ msgstr "Europeana - Honlaptérkép"
-
-#~ msgid "Searching in Europeana"
-#~ msgstr "Keresés az Europeanában"
-
-#, fuzzy
-#~ msgid "All Providers"
-#~ msgstr "Tartalom hozzáadása"
-
-#, fuzzy
-#~ msgid "Working with the API"
-#~ msgstr "Az Europeana mint munkahely"
-
-#, fuzzy
-#~ msgid "API Methods"
-#~ msgstr "Felhasználási feltételek"
-
-#, fuzzy
-#~ msgid "Suggestions"
-#~ msgstr "betűzési javaslatok"
-
-#, fuzzy
-#~ msgid "OpenSearch"
-#~ msgstr "keresés kifejezésekre"
-
-#, fuzzy
-#~ msgid "Europeana Fields"
-#~ msgstr "Europeana - GYIK"
-
-#, fuzzy
-#~ msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
-#~ msgstr "Vissza az Europeana honalphoz"
-
-#, fuzzy
-#~ msgid "Rights Reserved - Free access"
-#~ msgstr "Fenntartott jogok - Ingyenes hozzáférés"
-
-#, fuzzy
-#~ msgid "Rights Reserved - Restricted access"
-#~ msgstr "Fenntartott jogok - Hozzáférési korlátozás"
-
-#, fuzzy
-#~ msgid "Rights Reserved - Paid access"
-#~ msgstr "Fenntartott jogok - Fizetett hozzáférés"
-
-#~ msgid "Unknown copyright status"
-#~ msgstr "Ismeretlen szerzői jogi státusz"
 
 #, fuzzy
 #~ msgid "Europe's culture - collected for you."

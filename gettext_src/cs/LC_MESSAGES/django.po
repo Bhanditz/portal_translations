@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-27 09:42+0100\n"
+"POT-Creation-Date: 2014-01-27 09:59+0100\n"
 "PO-Revision-Date: 2013-11-21 16:07\n"
 "Last-Translator: Laura  Huff <laura.huff@kb.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,23 +21,25 @@ msgstr ""
 #: templates/static_pages/prop_file.html:63
 #: templates/static_pages/prop_file.html:823
 #: templates/static_pages/prop_file.html:824
+#: templates/static_pages/sitemap.html:51
 msgid "Europeana API"
 msgstr "Europeana API"
 
 #: templates/api_leftmenu.html:6 templates/static_pages/prop_file.html:991
 #: templates/static_pages/prop_file.html:992
+#: templates/static_pages/sitemap.html:53
 msgid "Get an API-Key"
 msgstr "Získat API klíč"
 
-#: templates/api_leftmenu.html:7
+#: templates/api_leftmenu.html:7 templates/static_pages/sitemap.html:55
 msgid "API Console"
 msgstr "Konzole API"
 
-#: templates/api_leftmenu.html:11
+#: templates/api_leftmenu.html:11 templates/static_pages/sitemap.html:59
 msgid "Search Widget Wizard"
 msgstr ""
 
-#: templates/api_leftmenu.html:12
+#: templates/api_leftmenu.html:12 templates/static_pages/sitemap.html:60
 msgid "Europeana API Forum"
 msgstr "Fórum Europeana API"
 
@@ -50,12 +52,14 @@ msgstr "Prozkoumat"
 #: templates/explore_leftmenu.html:5 templates/static_pages/prop_file.html:550
 #: templates/static_pages/prop_file.html:551
 #: templates/static_pages/prop_file.html:876
+#: templates/static_pages/sitemap.html:20
 msgid "Europeana Remix"
 msgstr "Europeana Remix"
 
 #: templates/explore_leftmenu.html:6 templates/static_pages/prop_file.html:554
 #: templates/static_pages/prop_file.html:555
 #: templates/static_pages/prop_file.html:865
+#: templates/static_pages/sitemap.html:17
 #: templates/static_pages/usingeuropeana_explore.html:14
 msgid "Exhibitions"
 msgstr "Sbírky"
@@ -66,6 +70,8 @@ msgstr "Sbírky"
 #: templates/static_pages/prop_file.html:559
 #: templates/static_pages/prop_file.html:914
 #: templates/static_pages/prop_file.html:915
+#: templates/static_pages/sitemap.html:38
+#: templates/static_pages/sitemap.html:87
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "New content"
 msgstr "Nový obsah"
@@ -73,6 +79,7 @@ msgstr "Nový obsah"
 #: templates/explore_leftmenu.html:9 templates/static_pages/prop_file.html:78
 #: templates/static_pages/prop_file.html:562
 #: templates/static_pages/prop_file.html:563
+#: templates/static_pages/sitemap.html:88
 #: templates/static_pages/usingeuropeana_search.html:60
 msgid "By provider"
 msgstr "Podle poskytovatele"
@@ -80,12 +87,14 @@ msgstr "Podle poskytovatele"
 #: templates/explore_leftmenu.html:10 templates/static_pages/prop_file.html:37
 #: templates/static_pages/prop_file.html:566
 #: templates/static_pages/prop_file.html:567
+#: templates/static_pages/sitemap.html:89
 msgid "Timeline"
 msgstr "Časová osa"
 
 #: templates/explore_leftmenu.html:11
 #: templates/static_pages/prop_file.html:570
 #: templates/static_pages/prop_file.html:571
+#: templates/static_pages/sitemap.html:90
 msgid "Map"
 msgstr "Mapa"
 
@@ -99,6 +108,7 @@ msgstr "Následujte nás"
 #: templates/static_pages/prop_file.html:622
 #: templates/static_pages/prop_file.html:623
 #: templates/static_pages/prop_file.html:869
+#: templates/static_pages/sitemap.html:18
 msgid "Blog"
 msgstr "Blog"
 
@@ -140,6 +150,7 @@ msgstr "Všichni poskytovatelé"
 #: templates/leftmenu.html:10 templates/static_pages/aboutus_enews.html:11
 #: templates/static_pages/prop_file.html:924
 #: templates/static_pages/prop_file.html:925
+#: templates/static_pages/sitemap.html:40
 msgid "Previous newsletters"
 msgstr "Předchozí newsletter"
 
@@ -189,23 +200,25 @@ msgid "Using our data"
 msgstr ""
 
 #: templates/terms_leftmenu.html:9 templates/rights/terms-and-policies.html:24
+#: templates/static_pages/sitemap.html:99
 msgid "Terms of Use"
 msgstr "Podmínky užití"
 
-#: templates/terms_leftmenu.html:10
+#: templates/terms_leftmenu.html:10 templates/static_pages/sitemap.html:100
 msgid "Usage Guidelines for Metadata"
 msgstr ""
 
-#: templates/terms_leftmenu.html:11
+#: templates/terms_leftmenu.html:11 templates/static_pages/sitemap.html:101
 msgid "Public Domain Usage Guidelines"
 msgstr ""
 
-#: templates/terms_leftmenu.html:12
+#: templates/terms_leftmenu.html:12 templates/static_pages/sitemap.html:102
 msgid "API Terms of Use"
 msgstr "Podmínky užití API"
 
 #: templates/terms_leftmenu.html:13
 #: templates/rights/linked-data-sources.html:16
+#: templates/static_pages/sitemap.html:103
 msgid "Europeana Data Sources"
 msgstr ""
 
@@ -217,7 +230,7 @@ msgstr ""
 msgid "Europeana Data Exchange Agreement"
 msgstr ""
 
-#: templates/terms_leftmenu.html:19
+#: templates/terms_leftmenu.html:19 templates/static_pages/sitemap.html:105
 msgid "Terms for User Contributions"
 msgstr ""
 
@@ -231,6 +244,7 @@ msgstr "Naše zásady"
 #: templates/static_pages/prop_file.html:68
 #: templates/static_pages/prop_file.html:530
 #: templates/static_pages/prop_file.html:531
+#: templates/static_pages/sitemap.html:106
 msgid "Privacy"
 msgstr "Ochrana soukromí"
 
@@ -246,10 +260,11 @@ msgstr "Jazyk"
 #: templates/static_pages/prop_file.html:65
 #: templates/static_pages/prop_file.html:518
 #: templates/static_pages/prop_file.html:519
+#: templates/static_pages/sitemap.html:108
 msgid "Accessibility"
 msgstr "Dostupnost"
 
-#: templates/terms_leftmenu.html:27
+#: templates/terms_leftmenu.html:27 templates/static_pages/sitemap.html:109
 msgid "Public Domain Charter"
 msgstr ""
 
@@ -259,6 +274,7 @@ msgstr ""
 #: templates/static_pages/prop_file.html:575
 #: templates/static_pages/prop_file.html:884
 #: templates/static_pages/prop_file.html:885
+#: templates/static_pages/sitemap.html:25
 #: templates/static_pages/usingeuropeana.html:9
 msgid "Help"
 msgstr ""
@@ -281,6 +297,7 @@ msgstr ""
 #: templates/static_pages/prop_file.html:583
 #: templates/static_pages/prop_file.html:892
 #: templates/static_pages/prop_file.html:893
+#: templates/static_pages/sitemap.html:28
 #: templates/static_pages/usingeuropeana.html:16
 #: templates/static_pages/usingeuropeana_explore.html:9
 #: templates/static_pages/usingeuropeana_search.html:14
@@ -292,6 +309,7 @@ msgstr ""
 #: templates/static_pages/prop_file.html:587
 #: templates/static_pages/prop_file.html:896
 #: templates/static_pages/prop_file.html:897
+#: templates/static_pages/sitemap.html:29
 #: templates/static_pages/usingeuropeana.html:19
 #: templates/static_pages/usingeuropeana_results.html:9
 #: templates/static_pages/usingeuropeana_search.html:15
@@ -303,6 +321,7 @@ msgstr "Výsledky v Europeaně"
 #: templates/static_pages/prop_file.html:591
 #: templates/static_pages/prop_file.html:900
 #: templates/static_pages/prop_file.html:901
+#: templates/static_pages/sitemap.html:30
 #: templates/static_pages/usingeuropeana.html:21
 #: templates/static_pages/usingeuropeana_myeuropeana.html:9
 #: templates/static_pages/usingeuropeana_search.html:16
@@ -1732,6 +1751,7 @@ msgstr "neznamenají "
 #: templates/static_pages/prop_file.html:643
 #: templates/static_pages/prop_file.html:957
 #: templates/static_pages/prop_file.html:958
+#: templates/static_pages/sitemap.html:12
 #: templates/static_pages/usingeuropeana_myeuropeana.html:10
 #: templates/static_pages/usingeuropeana_myeuropeana.html:11
 #: templates/static_pages/usingeuropeana_myeuropeana.html:20
@@ -1827,6 +1847,7 @@ msgid "Find out more"
 msgstr "Najdi více"
 
 #: templates/static_pages/prop_file.html:44
+#: templates/static_pages/sitemap.html:65
 #: templates/static_pages/usingeuropeana_search.html:21
 #: templates/static_pages/usingeuropeana_search.html:25
 #: templates/static_pages/usingeuropeana_search.html:27
@@ -1911,6 +1932,7 @@ msgstr "Z muzeí, archivů, knihoven a audiovizuálních sbírek našich partner
 #: templates/static_pages/prop_file.html:62
 #: templates/static_pages/prop_file.html:909
 #: templates/static_pages/prop_file.html:910
+#: templates/static_pages/sitemap.html:36
 msgid "About us"
 msgstr "O nás"
 
@@ -1923,6 +1945,7 @@ msgstr "Využití Europeany"
 #: templates/static_pages/prop_file.html:523
 #: templates/static_pages/prop_file.html:835
 #: templates/static_pages/prop_file.html:836
+#: templates/static_pages/sitemap.html:8
 msgid "Sitemap"
 msgstr "Mapa stránek"
 
@@ -1932,6 +1955,7 @@ msgid "Terms and conditions"
 msgstr "Podmínky užití"
 
 #: templates/static_pages/prop_file.html:69
+#: templates/static_pages/sitemap.html:107
 msgid "Language policy"
 msgstr "Jazyková politika"
 
@@ -2636,6 +2660,7 @@ msgid "Relation"
 msgstr "Související obsah"
 
 #: templates/static_pages/prop_file.html:241
+#: templates/static_pages/sitemap.html:113
 msgid "Rights"
 msgstr ""
 
@@ -3410,6 +3435,7 @@ msgstr "Europeana - Evropské čtení"
 
 #: templates/static_pages/prop_file.html:526
 #: templates/static_pages/prop_file.html:527
+#: templates/static_pages/sitemap.html:97
 #, fuzzy
 msgid "Terms of Use &amp; Policies"
 msgstr "Podmínky &amp; Zásady"
@@ -3421,6 +3447,7 @@ msgstr "Jazyková politika"
 
 #: templates/static_pages/prop_file.html:538
 #: templates/static_pages/prop_file.html:539
+#: templates/static_pages/sitemap.html:126
 #, fuzzy
 msgid "Contact"
 msgstr "Nový obsah"
@@ -3429,10 +3456,12 @@ msgstr "Nový obsah"
 #: templates/static_pages/prop_file.html:543
 #: templates/static_pages/prop_file.html:953
 #: templates/static_pages/prop_file.html:954
+#: templates/static_pages/sitemap.html:11
 msgid "Home"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:594
+#: templates/static_pages/sitemap.html:31
 #: templates/static_pages/usingeuropeana_searchwidget.html:9
 msgid "How to configure your search widget"
 msgstr ""
@@ -4032,6 +4061,7 @@ msgstr ""
 
 #: templates/static_pages/prop_file.html:860
 #: templates/static_pages/prop_file.html:861
+#: templates/static_pages/sitemap.html:15
 #, fuzzy
 msgid "Other Europeana Sites"
 msgstr "Europeana Remix"
@@ -4042,6 +4072,7 @@ msgid "Europeana Exhibitions"
 msgstr "Sbírky"
 
 #: templates/static_pages/prop_file.html:872
+#: templates/static_pages/sitemap.html:19
 #, fuzzy
 msgid "Europeana 1914-1918"
 msgstr "Europeana - často kladené dotazy"
@@ -4051,6 +4082,7 @@ msgid "Remix"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:880
+#: templates/static_pages/sitemap.html:21
 #, fuzzy
 msgid "Europeana Professional"
 msgstr "Europeana - registrace do seznamu emailů pro zástupce tisku"
@@ -4254,6 +4286,123 @@ msgstr ""
 #: templates/static_pages/prop_file.html:1005
 msgid "Export API users to Excel"
 msgstr ""
+
+#: templates/static_pages/sitemap.html:4
+msgid "Europeana - Sitemap"
+msgstr "Europeana - Mapa stránek"
+
+#: templates/static_pages/sitemap.html:27
+msgid "Searching in Europeana"
+msgstr "Vyhledávání v Europeaně"
+
+#: templates/static_pages/sitemap.html:39
+#, fuzzy
+msgid "All Providers"
+msgstr "Všichni poskytovatelé"
+
+#: templates/static_pages/sitemap.html:41
+#, fuzzy
+msgid "Press Centre (on Europeana Professional)"
+msgstr "Europeana - registrace do seznamu emailů pro zástupce tisku"
+
+#: templates/static_pages/sitemap.html:42
+#, fuzzy
+msgid "Jobs (on Europeana Professional)"
+msgstr "Europeana - registrace do seznamu emailů pro zástupce tisku"
+
+#: templates/static_pages/sitemap.html:43
+#, fuzzy
+msgid "Partners (on Europeana Professional)"
+msgstr "Europeana - registrace do seznamu emailů pro zástupce tisku"
+
+#: templates/static_pages/sitemap.html:56
+msgid "Working with the API"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:57
+msgid "Latest changes"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:58
+msgid "Sample Code and Libraries"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:61
+msgid "API Methods"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:64
+msgid "Record"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:66
+#, fuzzy
+msgid "Suggestions"
+msgstr "Návrhy na opravu pravopisu"
+
+#: templates/static_pages/sitemap.html:67
+#, fuzzy
+msgid "OpenSearch"
+msgstr "Vyhledávání ve výsledcích"
+
+#: templates/static_pages/sitemap.html:69
+msgid "Query Syntax"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:70
+msgid "Data structure"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:72
+#, fuzzy
+msgid "Europeana Fields"
+msgstr "Europeana Remix"
+
+#: templates/static_pages/sitemap.html:74
+msgid "API1-API2 compatability"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:104
+msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:115
+msgid "Rights Reserved - Free access"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:116
+msgid "Rights Reserved - Restricted access"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:117
+msgid "Rights Reserved - Paid access"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:118
+msgid "Unknown copyright status"
+msgstr "Neznámý status autorského práva"
+
+#: templates/static_pages/sitemap.html:119
+msgid "Orphan work - Free access"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:120
+msgid "Orphan work"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:121
+msgid "Out of copyright - non commercial reuse"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:127
+#, fuzzy
+msgid "Europeana Semantic Elements (ESE)"
+msgstr "Europeana Remix"
+
+#: templates/static_pages/sitemap.html:128
+#, fuzzy
+msgid "Europeana metadata schemas"
+msgstr "Vrať se na domovskou stránku"
 
 #: templates/static_pages/storyline.html:4
 msgid "Europeana - Storyline and credits"
@@ -5688,15 +5837,6 @@ msgid ""
 "by dropping us an email at"
 msgstr ""
 
-#~ msgid "Europeana - Sitemap"
-#~ msgstr "Europeana - Mapa stránek"
-
-#~ msgid "Searching in Europeana"
-#~ msgstr "Vyhledávání v Europeaně"
-
-#~ msgid "Unknown copyright status"
-#~ msgstr "Neznámý status autorského práva"
-
 #, fuzzy
 #~ msgid "Europe's culture - collected for you."
 #~ msgstr "Vrať se na domovskou stránku"
@@ -6712,9 +6852,6 @@ msgstr ""
 
 #~ msgid "Europeana - Use of Linked Data Sources"
 #~ msgstr "Provázaná otevřená data"
-
-#~ msgid "Europeana - Metadata Usage Guidelines"
-#~ msgstr "Vrať se na domovskou stránku"
 
 #~ msgid "Jul"
 #~ msgstr "červen"

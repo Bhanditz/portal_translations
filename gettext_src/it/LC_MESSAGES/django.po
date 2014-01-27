@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-27 09:41+0100\n"
+"POT-Creation-Date: 2014-01-27 09:58+0100\n"
 "PO-Revision-Date: 2014-01-17 14:31\n"
 "Last-Translator: Neil Bates <neil.bates@kb.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,23 +21,25 @@ msgstr ""
 #: templates/static_pages/prop_file.html:63
 #: templates/static_pages/prop_file.html:823
 #: templates/static_pages/prop_file.html:824
+#: templates/static_pages/sitemap.html:51
 msgid "Europeana API"
 msgstr "Europeana API"
 
 #: templates/api_leftmenu.html:6 templates/static_pages/prop_file.html:991
 #: templates/static_pages/prop_file.html:992
+#: templates/static_pages/sitemap.html:53
 msgid "Get an API-Key"
 msgstr "Richiedi codice API"
 
-#: templates/api_leftmenu.html:7
+#: templates/api_leftmenu.html:7 templates/static_pages/sitemap.html:55
 msgid "API Console"
 msgstr "Console API"
 
-#: templates/api_leftmenu.html:11
+#: templates/api_leftmenu.html:11 templates/static_pages/sitemap.html:59
 msgid "Search Widget Wizard"
 msgstr ""
 
-#: templates/api_leftmenu.html:12
+#: templates/api_leftmenu.html:12 templates/static_pages/sitemap.html:60
 msgid "Europeana API Forum"
 msgstr "Forum Europeana API"
 
@@ -50,12 +52,14 @@ msgstr "Esplora"
 #: templates/explore_leftmenu.html:5 templates/static_pages/prop_file.html:550
 #: templates/static_pages/prop_file.html:551
 #: templates/static_pages/prop_file.html:876
+#: templates/static_pages/sitemap.html:20
 msgid "Europeana Remix"
 msgstr "Europeana Remix"
 
 #: templates/explore_leftmenu.html:6 templates/static_pages/prop_file.html:554
 #: templates/static_pages/prop_file.html:555
 #: templates/static_pages/prop_file.html:865
+#: templates/static_pages/sitemap.html:17
 #: templates/static_pages/usingeuropeana_explore.html:14
 msgid "Exhibitions"
 msgstr "Esposizioni"
@@ -66,6 +70,8 @@ msgstr "Esposizioni"
 #: templates/static_pages/prop_file.html:559
 #: templates/static_pages/prop_file.html:914
 #: templates/static_pages/prop_file.html:915
+#: templates/static_pages/sitemap.html:38
+#: templates/static_pages/sitemap.html:87
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "New content"
 msgstr "Nuovi contenuti"
@@ -73,6 +79,7 @@ msgstr "Nuovi contenuti"
 #: templates/explore_leftmenu.html:9 templates/static_pages/prop_file.html:78
 #: templates/static_pages/prop_file.html:562
 #: templates/static_pages/prop_file.html:563
+#: templates/static_pages/sitemap.html:88
 #: templates/static_pages/usingeuropeana_search.html:60
 msgid "By provider"
 msgstr "Fornitori di contenuti"
@@ -80,12 +87,14 @@ msgstr "Fornitori di contenuti"
 #: templates/explore_leftmenu.html:10 templates/static_pages/prop_file.html:37
 #: templates/static_pages/prop_file.html:566
 #: templates/static_pages/prop_file.html:567
+#: templates/static_pages/sitemap.html:89
 msgid "Timeline"
 msgstr "Cronologia"
 
 #: templates/explore_leftmenu.html:11
 #: templates/static_pages/prop_file.html:570
 #: templates/static_pages/prop_file.html:571
+#: templates/static_pages/sitemap.html:90
 msgid "Map"
 msgstr "Mappa"
 
@@ -99,6 +108,7 @@ msgstr "Seguici"
 #: templates/static_pages/prop_file.html:622
 #: templates/static_pages/prop_file.html:623
 #: templates/static_pages/prop_file.html:869
+#: templates/static_pages/sitemap.html:18
 msgid "Blog"
 msgstr "Blog"
 
@@ -140,6 +150,7 @@ msgstr ""
 #: templates/leftmenu.html:10 templates/static_pages/aboutus_enews.html:11
 #: templates/static_pages/prop_file.html:924
 #: templates/static_pages/prop_file.html:925
+#: templates/static_pages/sitemap.html:40
 msgid "Previous newsletters"
 msgstr "<i>Newsletter pubblicate</i>"
 
@@ -189,23 +200,25 @@ msgid "Using our data"
 msgstr "Utilizzare il nostro materiale"
 
 #: templates/terms_leftmenu.html:9 templates/rights/terms-and-policies.html:24
+#: templates/static_pages/sitemap.html:99
 msgid "Terms of Use"
 msgstr "Termini di Utilizzo"
 
-#: templates/terms_leftmenu.html:10
+#: templates/terms_leftmenu.html:10 templates/static_pages/sitemap.html:100
 msgid "Usage Guidelines for Metadata"
 msgstr "Guida all'Elaborazione di Metadati"
 
-#: templates/terms_leftmenu.html:11
+#: templates/terms_leftmenu.html:11 templates/static_pages/sitemap.html:101
 msgid "Public Domain Usage Guidelines"
 msgstr "Guida all'Utilizzo di Materiale di Pubblico Dominio "
 
-#: templates/terms_leftmenu.html:12
+#: templates/terms_leftmenu.html:12 templates/static_pages/sitemap.html:102
 msgid "API Terms of Use"
 msgstr "Termini di Utilizzo dell'API"
 
 #: templates/terms_leftmenu.html:13
 #: templates/rights/linked-data-sources.html:16
+#: templates/static_pages/sitemap.html:103
 msgid "Europeana Data Sources"
 msgstr "Origine dei Dati di Europeana"
 
@@ -217,7 +230,7 @@ msgstr "Come Contribuire Informazioni"
 msgid "Europeana Data Exchange Agreement"
 msgstr "Accordo sullo Scambio di Dati di Europeana"
 
-#: templates/terms_leftmenu.html:19
+#: templates/terms_leftmenu.html:19 templates/static_pages/sitemap.html:105
 msgid "Terms for User Contributions"
 msgstr "Termini di Utilizzo dei Contributi degli Utenti"
 
@@ -231,6 +244,7 @@ msgstr "Il nostro regolamento"
 #: templates/static_pages/prop_file.html:68
 #: templates/static_pages/prop_file.html:530
 #: templates/static_pages/prop_file.html:531
+#: templates/static_pages/sitemap.html:106
 msgid "Privacy"
 msgstr "Informativa sulla privacy"
 
@@ -246,12 +260,13 @@ msgstr "Lingua"
 #: templates/static_pages/prop_file.html:65
 #: templates/static_pages/prop_file.html:518
 #: templates/static_pages/prop_file.html:519
+#: templates/static_pages/sitemap.html:108
 msgid "Accessibility"
 msgstr ""
 " \n"
 "Accessibilità"
 
-#: templates/terms_leftmenu.html:27
+#: templates/terms_leftmenu.html:27 templates/static_pages/sitemap.html:109
 msgid "Public Domain Charter"
 msgstr "Dominio pubblico"
 
@@ -261,6 +276,7 @@ msgstr "Dominio pubblico"
 #: templates/static_pages/prop_file.html:575
 #: templates/static_pages/prop_file.html:884
 #: templates/static_pages/prop_file.html:885
+#: templates/static_pages/sitemap.html:25
 #: templates/static_pages/usingeuropeana.html:9
 msgid "Help"
 msgstr "Aiuto"
@@ -283,6 +299,7 @@ msgstr "Cerca in Europeana"
 #: templates/static_pages/prop_file.html:583
 #: templates/static_pages/prop_file.html:892
 #: templates/static_pages/prop_file.html:893
+#: templates/static_pages/sitemap.html:28
 #: templates/static_pages/usingeuropeana.html:16
 #: templates/static_pages/usingeuropeana_explore.html:9
 #: templates/static_pages/usingeuropeana_search.html:14
@@ -294,6 +311,7 @@ msgstr "Esplora Europeana"
 #: templates/static_pages/prop_file.html:587
 #: templates/static_pages/prop_file.html:896
 #: templates/static_pages/prop_file.html:897
+#: templates/static_pages/sitemap.html:29
 #: templates/static_pages/usingeuropeana.html:19
 #: templates/static_pages/usingeuropeana_results.html:9
 #: templates/static_pages/usingeuropeana_search.html:15
@@ -305,6 +323,7 @@ msgstr "Risultati di ricerca in Europeana"
 #: templates/static_pages/prop_file.html:591
 #: templates/static_pages/prop_file.html:900
 #: templates/static_pages/prop_file.html:901
+#: templates/static_pages/sitemap.html:30
 #: templates/static_pages/usingeuropeana.html:21
 #: templates/static_pages/usingeuropeana_myeuropeana.html:9
 #: templates/static_pages/usingeuropeana_search.html:16
@@ -1806,6 +1825,7 @@ msgstr "Esci"
 #: templates/static_pages/prop_file.html:643
 #: templates/static_pages/prop_file.html:957
 #: templates/static_pages/prop_file.html:958
+#: templates/static_pages/sitemap.html:12
 #: templates/static_pages/usingeuropeana_myeuropeana.html:10
 #: templates/static_pages/usingeuropeana_myeuropeana.html:11
 #: templates/static_pages/usingeuropeana_myeuropeana.html:20
@@ -1907,6 +1927,7 @@ msgid "Find out more"
 msgstr "Per saperne di più"
 
 #: templates/static_pages/prop_file.html:44
+#: templates/static_pages/sitemap.html:65
 #: templates/static_pages/usingeuropeana_search.html:21
 #: templates/static_pages/usingeuropeana_search.html:25
 #: templates/static_pages/usingeuropeana_search.html:27
@@ -1991,6 +2012,7 @@ msgstr ""
 #: templates/static_pages/prop_file.html:62
 #: templates/static_pages/prop_file.html:909
 #: templates/static_pages/prop_file.html:910
+#: templates/static_pages/sitemap.html:36
 msgid "About us"
 msgstr "Chi siamo"
 
@@ -2003,6 +2025,7 @@ msgstr "Usare Europeana"
 #: templates/static_pages/prop_file.html:523
 #: templates/static_pages/prop_file.html:835
 #: templates/static_pages/prop_file.html:836
+#: templates/static_pages/sitemap.html:8
 msgid "Sitemap"
 msgstr "Mappa del sito"
 
@@ -2012,6 +2035,7 @@ msgid "Terms and conditions"
 msgstr "Termini e condizioni d'uso"
 
 #: templates/static_pages/prop_file.html:69
+#: templates/static_pages/sitemap.html:107
 msgid "Language policy"
 msgstr "Politica linguistica"
 
@@ -2692,6 +2716,7 @@ msgid "Relation"
 msgstr "Contenuto correlato"
 
 #: templates/static_pages/prop_file.html:241
+#: templates/static_pages/sitemap.html:113
 msgid "Rights"
 msgstr "Diritti"
 
@@ -3494,6 +3519,7 @@ msgstr "Espandi"
 
 #: templates/static_pages/prop_file.html:526
 #: templates/static_pages/prop_file.html:527
+#: templates/static_pages/sitemap.html:97
 msgid "Terms of Use &amp; Policies"
 msgstr ""
 
@@ -3504,6 +3530,7 @@ msgstr "Politica linguistica"
 
 #: templates/static_pages/prop_file.html:538
 #: templates/static_pages/prop_file.html:539
+#: templates/static_pages/sitemap.html:126
 msgid "Contact"
 msgstr "Contatto"
 
@@ -3511,10 +3538,12 @@ msgstr "Contatto"
 #: templates/static_pages/prop_file.html:543
 #: templates/static_pages/prop_file.html:953
 #: templates/static_pages/prop_file.html:954
+#: templates/static_pages/sitemap.html:11
 msgid "Home"
 msgstr "Home"
 
 #: templates/static_pages/prop_file.html:594
+#: templates/static_pages/sitemap.html:31
 #: templates/static_pages/usingeuropeana_searchwidget.html:9
 msgid "How to configure your search widget"
 msgstr ""
@@ -4104,6 +4133,7 @@ msgstr ""
 
 #: templates/static_pages/prop_file.html:860
 #: templates/static_pages/prop_file.html:861
+#: templates/static_pages/sitemap.html:15
 msgid "Other Europeana Sites"
 msgstr ""
 
@@ -4113,6 +4143,7 @@ msgid "Europeana Exhibitions"
 msgstr "Diritti Europeana"
 
 #: templates/static_pages/prop_file.html:872
+#: templates/static_pages/sitemap.html:19
 msgid "Europeana 1914-1918"
 msgstr ""
 
@@ -4121,6 +4152,7 @@ msgid "Remix"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:880
+#: templates/static_pages/sitemap.html:21
 msgid "Europeana Professional"
 msgstr ""
 
@@ -4325,6 +4357,124 @@ msgstr ""
 #: templates/static_pages/prop_file.html:1005
 msgid "Export API users to Excel"
 msgstr ""
+
+#: templates/static_pages/sitemap.html:4
+msgid "Europeana - Sitemap"
+msgstr "Europeana - Mappa del sito"
+
+#: templates/static_pages/sitemap.html:27
+msgid "Searching in Europeana"
+msgstr "La ricerca in Europeana"
+
+#: templates/static_pages/sitemap.html:39
+#, fuzzy
+msgid "All Providers"
+msgstr "Fornitori"
+
+#: templates/static_pages/sitemap.html:41
+msgid "Press Centre (on Europeana Professional)"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:42
+msgid "Jobs (on Europeana Professional)"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:43
+msgid "Partners (on Europeana Professional)"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:56
+msgid "Working with the API"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:57
+msgid "Latest changes"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:58
+msgid "Sample Code and Libraries"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:61
+msgid "API Methods"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:64
+msgid "Record"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:66
+#, fuzzy
+msgid "Suggestions"
+msgstr "suggerimenti ortografici"
+
+#: templates/static_pages/sitemap.html:67
+#, fuzzy
+msgid "OpenSearch"
+msgstr "Cerca"
+
+#: templates/static_pages/sitemap.html:69
+msgid "Query Syntax"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:70
+msgid "Data structure"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:72
+#, fuzzy
+msgid "Europeana Fields"
+msgstr "Europeana - Aiuto"
+
+#: templates/static_pages/sitemap.html:74
+msgid "API1-API2 compatability"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:104
+#, fuzzy
+msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
+msgstr "Accordo sullo Scambio di Dati di Europeana"
+
+#: templates/static_pages/sitemap.html:115
+#, fuzzy
+msgid "Rights Reserved - Free access"
+msgstr "Europeana: Diritti riservati – accesso libero"
+
+#: templates/static_pages/sitemap.html:116
+#, fuzzy
+msgid "Rights Reserved - Restricted access"
+msgstr "Europeana: Diritti riservati – Accesso limitato"
+
+#: templates/static_pages/sitemap.html:117
+#, fuzzy
+msgid "Rights Reserved - Paid access"
+msgstr "Europeana: Diritti riservati – Accesso a pagamento"
+
+#: templates/static_pages/sitemap.html:118
+msgid "Unknown copyright status"
+msgstr "Stato dei diritti d’autore sconosciuto"
+
+#: templates/static_pages/sitemap.html:119
+msgid "Orphan work - Free access"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:120
+msgid "Orphan work"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:121
+msgid "Out of copyright - non commercial reuse"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:127
+#, fuzzy
+msgid "Europeana Semantic Elements (ESE)"
+msgstr "Widget di ricerca Europeana"
+
+#: templates/static_pages/sitemap.html:128
+#, fuzzy
+msgid "Europeana metadata schemas"
+msgstr "Origine dei Dati di Europeana"
 
 #: templates/static_pages/storyline.html:4
 msgid "Europeana - Storyline and credits"
@@ -5786,15 +5936,6 @@ msgid ""
 "by dropping us an email at"
 msgstr ""
 
-#~ msgid "Europeana - Sitemap"
-#~ msgstr "Europeana - Mappa del sito"
-
-#~ msgid "Searching in Europeana"
-#~ msgstr "La ricerca in Europeana"
-
-#~ msgid "Unknown copyright status"
-#~ msgstr "Stato dei diritti d’autore sconosciuto"
-
 #~ msgid "What's new"
 #~ msgstr "Novità"
 
@@ -6463,15 +6604,6 @@ msgstr ""
 #~ "pagina contiene link che consentono di consultare i contributi più "
 #~ "recenti dei nostri partner - musei, archivi, biblioteche e collezioni "
 #~ "audio-visive."
-
-#~ msgid "Europeana: Rights Reserved - Free Access"
-#~ msgstr "Europeana: Diritti riservati – accesso libero"
-
-#~ msgid "Europeana: Rights Reserved - Restricted Access"
-#~ msgstr "Europeana: Diritti riservati – Accesso limitato"
-
-#~ msgid "Europeana: Rights Reserved - Paid Access"
-#~ msgstr "Europeana: Diritti riservati – Accesso a pagamento"
 
 #~ msgid "Through newest content"
 #~ msgstr "Attraverso i contenuti più recenti"
