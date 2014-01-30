@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-29 15:36+0100\n"
+"POT-Creation-Date: 2014-01-30 09:13+0100\n"
 "PO-Revision-Date: 2014-01-17 14:21\n"
 "Last-Translator: Neil Bates <neil.bates@kb.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,16 +18,11 @@ msgstr ""
 "X-Translated-Using: django-rosetta 0.5.6\n"
 
 #: templates/api_leftmenu.html:3 templates/static_pages/europeana-api.html:4
-#: templates/static_pages/prop_file.html:63
-#: templates/static_pages/prop_file.html:829
-#: templates/static_pages/prop_file.html:830
 #: templates/static_pages/sitemap.html:51
 msgid "Europeana API"
 msgstr "Europeana API"
 
-#: templates/api_leftmenu.html:6 templates/static_pages/prop_file.html:997
-#: templates/static_pages/prop_file.html:998
-#: templates/static_pages/sitemap.html:53
+#: templates/api_leftmenu.html:6 templates/static_pages/sitemap.html:53
 msgid "Get an API-Key"
 msgstr "Obtenir une clé API"
 
@@ -44,134 +39,88 @@ msgid "Europeana API Forum"
 msgstr "Europeana API Forum"
 
 #: templates/explore_leftmenu.html:3 templates/static_pages/explore.html:9
-#: templates/static_pages/prop_file.html:552
-#: templates/static_pages/prop_file.html:553
 msgid "Explore"
 msgstr "Explorer"
 
-#: templates/explore_leftmenu.html:5 templates/static_pages/prop_file.html:556
-#: templates/static_pages/prop_file.html:557
-#: templates/static_pages/prop_file.html:882
-#: templates/static_pages/sitemap.html:20
+#: templates/explore_leftmenu.html:5 templates/static_pages/sitemap.html:20
 msgid "Europeana Remix"
 msgstr "Europeana Remix"
 
-#: templates/explore_leftmenu.html:6 templates/static_pages/prop_file.html:560
-#: templates/static_pages/prop_file.html:561
-#: templates/static_pages/prop_file.html:871
-#: templates/static_pages/sitemap.html:17
+#: templates/explore_leftmenu.html:6 templates/static_pages/sitemap.html:17
 #: templates/static_pages/usingeuropeana_explore.html:14
 msgid "Exhibitions"
 msgstr "Expositions"
 
 #: templates/explore_leftmenu.html:7 templates/leftmenu.html:8
-#: templates/static_pages/prop_file.html:60
-#: templates/static_pages/prop_file.html:564
-#: templates/static_pages/prop_file.html:565
-#: templates/static_pages/prop_file.html:920
-#: templates/static_pages/prop_file.html:921
 #: templates/static_pages/sitemap.html:38
 #: templates/static_pages/sitemap.html:87
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "New content"
 msgstr "Contenu en relation"
 
-#: templates/explore_leftmenu.html:9 templates/static_pages/prop_file.html:78
-#: templates/static_pages/prop_file.html:568
-#: templates/static_pages/prop_file.html:569
-#: templates/static_pages/sitemap.html:88
+#: templates/explore_leftmenu.html:9 templates/static_pages/sitemap.html:88
 #: templates/static_pages/usingeuropeana_search.html:60
 msgid "By provider"
 msgstr "Par contributeur "
 
-#: templates/explore_leftmenu.html:10 templates/static_pages/prop_file.html:37
-#: templates/static_pages/prop_file.html:572
-#: templates/static_pages/prop_file.html:573
-#: templates/static_pages/sitemap.html:89
+#: templates/explore_leftmenu.html:10 templates/static_pages/sitemap.html:89
 msgid "Timeline"
 msgstr "Frise chronologique"
 
-#: templates/explore_leftmenu.html:11
-#: templates/static_pages/prop_file.html:576
-#: templates/static_pages/prop_file.html:577
-#: templates/static_pages/sitemap.html:90
+#: templates/explore_leftmenu.html:11 templates/static_pages/sitemap.html:90
 msgid "Map"
 msgstr "Plan"
 
 #: templates/followus_leftmenu.html:3 templates/static_pages/followus.html:9
-#: templates/static_pages/prop_file.html:624
-#: templates/static_pages/prop_file.html:625
 msgid "Follow Us"
 msgstr "Suivez-nous"
 
-#: templates/followus_leftmenu.html:5
-#: templates/static_pages/prop_file.html:628
-#: templates/static_pages/prop_file.html:629
-#: templates/static_pages/prop_file.html:875
-#: templates/static_pages/sitemap.html:18
+#: templates/followus_leftmenu.html:5 templates/static_pages/sitemap.html:18
 msgid "Blog"
 msgstr "Blog"
 
 #: templates/followus_leftmenu.html:6
-#: templates/static_pages/prop_file.html:632
-#: templates/static_pages/prop_file.html:633
 msgid "Newsletter"
 msgstr "Lettre d'information"
 
 #: templates/followus_leftmenu.html:8
-#: templates/static_pages/prop_file.html:636
-#: templates/static_pages/prop_file.html:637
 msgid "Facebook"
 msgstr "Facebook"
 
 #: templates/followus_leftmenu.html:9
-#: templates/static_pages/prop_file.html:640
-#: templates/static_pages/prop_file.html:641
 msgid "Twitter"
 msgstr "Twitter"
 
 #: templates/leftmenu.html:3 templates/NOT/leftmenu1_old.html:3
-#: templates/NOT/leftmenu_old.html:3 templates/static_pages/prop_file.html:604
-#: templates/static_pages/prop_file.html:605
+#: templates/NOT/leftmenu_old.html:3
 msgid "About Us"
 msgstr "A propos"
 
 #: templates/leftmenu.html:6 templates/NOT/leftmenu1_old.html:6
-#: templates/NOT/leftmenu_old.html:6 templates/static_pages/prop_file.html:608
-#: templates/static_pages/prop_file.html:609
+#: templates/NOT/leftmenu_old.html:6
 msgid "Background"
 msgstr "Historique"
 
-#: templates/leftmenu.html:9 templates/static_pages/prop_file.html:925
-#: templates/static_pages/prop_file.html:926
+#: templates/leftmenu.html:9
 msgid "All providers"
 msgstr ""
 
 #: templates/leftmenu.html:10 templates/static_pages/aboutus_enews.html:11
-#: templates/static_pages/prop_file.html:930
-#: templates/static_pages/prop_file.html:931
 #: templates/static_pages/sitemap.html:40
 msgid "Previous newsletters"
 msgstr ""
 
 #: templates/leftmenu.html:12 templates/NOT/leftmenu_old.html:8
-#: templates/static_pages/prop_file.html:935
-#: templates/static_pages/prop_file.html:936
 msgid "Press Centre"
 msgstr "Centre de presse"
 
 #: templates/leftmenu.html:13 templates/NOT/leftmenu_old.html:9
-#: templates/static_pages/prop_file.html:940
-#: templates/static_pages/prop_file.html:941
 msgid "Jobs"
 msgstr "Recrutement"
 
 #: templates/leftmenu.html:14 templates/leftmenu.html.py:17
 #: templates/NOT/leftmenu1_old.html:9 templates/NOT/leftmenu1_old.html:12
 #: templates/NOT/leftmenu_old.html:10 templates/NOT/leftmenu_old.html.py:14
-#: templates/static_pages/prop_file.html:36
-#: templates/static_pages/prop_file.html:620
-#: templates/static_pages/prop_file.html:621
 msgid "Partners"
 msgstr "Partenaires"
 
@@ -182,8 +131,6 @@ msgstr "Espace Presse"
 
 #: templates/leftmenu.html:16 templates/NOT/leftmenu1_old.html:8
 #: templates/NOT/leftmenu1_old.html:11 templates/NOT/leftmenu_old.html:13
-#: templates/static_pages/prop_file.html:616
-#: templates/static_pages/prop_file.html:617
 msgid "Job opportunities"
 msgstr "Offres d'emploi"
 
@@ -241,25 +188,17 @@ msgstr "Nos politiques"
 
 #: templates/terms_leftmenu.html:24 templates/rights/privacy.html:15
 #: templates/rights/terms-and-policies.html:37
-#: templates/static_pages/prop_file.html:68
-#: templates/static_pages/prop_file.html:536
-#: templates/static_pages/prop_file.html:537
 #: templates/static_pages/sitemap.html:106
 msgid "Privacy"
 msgstr "Déclaration sur la protection des données privées"
 
 #: templates/terms_leftmenu.html:25 templates/rights/languagepolicy.html:15
 #: templates/rights/terms-and-policies.html:37
-#: templates/static_pages/prop_file.html:180
-#: templates/static_pages/prop_file.html:239
 msgid "Language"
 msgstr "Langue"
 
 #: templates/terms_leftmenu.html:26 templates/rights/accessibility.html:15
 #: templates/rights/terms-and-policies.html:37
-#: templates/static_pages/prop_file.html:65
-#: templates/static_pages/prop_file.html:524
-#: templates/static_pages/prop_file.html:525
 #: templates/static_pages/sitemap.html:108
 msgid "Accessibility"
 msgstr "Accès"
@@ -269,21 +208,12 @@ msgid "Public Domain Charter"
 msgstr "Charte du domaine public"
 
 #: templates/usingeuropeana_leftmenu.html:3
-#: templates/static_pages/prop_file.html:334
-#: templates/static_pages/prop_file.html:580
-#: templates/static_pages/prop_file.html:581
-#: templates/static_pages/prop_file.html:890
-#: templates/static_pages/prop_file.html:891
 #: templates/static_pages/sitemap.html:25
 #: templates/static_pages/usingeuropeana.html:9
 msgid "Help"
 msgstr "Aide"
 
 #: templates/usingeuropeana_leftmenu.html:5
-#: templates/static_pages/prop_file.html:584
-#: templates/static_pages/prop_file.html:585
-#: templates/static_pages/prop_file.html:894
-#: templates/static_pages/prop_file.html:895
 #: templates/static_pages/usingeuropeana.html:14
 #: templates/static_pages/usingeuropeana_results.html:22
 #: templates/static_pages/usingeuropeana_search.html:9
@@ -292,11 +222,6 @@ msgid "Searching Europeana"
 msgstr "Rechercher dans Europeana"
 
 #: templates/usingeuropeana_leftmenu.html:6
-#: templates/static_pages/prop_file.html:288
-#: templates/static_pages/prop_file.html:588
-#: templates/static_pages/prop_file.html:589
-#: templates/static_pages/prop_file.html:898
-#: templates/static_pages/prop_file.html:899
 #: templates/static_pages/sitemap.html:28
 #: templates/static_pages/usingeuropeana.html:16
 #: templates/static_pages/usingeuropeana_explore.html:9
@@ -305,10 +230,6 @@ msgid "Exploring Europeana"
 msgstr "Explorer Europeana"
 
 #: templates/usingeuropeana_leftmenu.html:8
-#: templates/static_pages/prop_file.html:592
-#: templates/static_pages/prop_file.html:593
-#: templates/static_pages/prop_file.html:902
-#: templates/static_pages/prop_file.html:903
 #: templates/static_pages/sitemap.html:29
 #: templates/static_pages/usingeuropeana.html:19
 #: templates/static_pages/usingeuropeana_results.html:9
@@ -317,10 +238,6 @@ msgid "Results in Europeana"
 msgstr "Résultats dans Europeana"
 
 #: templates/usingeuropeana_leftmenu.html:9
-#: templates/static_pages/prop_file.html:596
-#: templates/static_pages/prop_file.html:597
-#: templates/static_pages/prop_file.html:906
-#: templates/static_pages/prop_file.html:907
 #: templates/static_pages/sitemap.html:30
 #: templates/static_pages/usingeuropeana.html:21
 #: templates/static_pages/usingeuropeana_myeuropeana.html:9
@@ -329,8 +246,6 @@ msgid "Using My Europeana"
 msgstr "Utiliser Mon Europeana"
 
 #: templates/usingeuropeana_leftmenu.html:10
-#: templates/static_pages/prop_file.html:910
-#: templates/static_pages/prop_file.html:911
 msgid "Configure your search widget"
 msgstr ""
 
@@ -1414,7 +1329,6 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/aboutus.html:28
-#: templates/static_pages/prop_file.html:91
 #: templates/static_pages/usingeuropeana_results.html:16
 msgid "Images"
 msgstr "Images"
@@ -1425,7 +1339,6 @@ msgstr ""
 "tableaux, estampes, cartes, photographies et dessins appartenant aux musées"
 
 #: templates/static_pages/aboutus.html:29
-#: templates/static_pages/prop_file.html:90
 #: templates/static_pages/usingeuropeana_results.html:15
 msgid "Texts"
 msgstr "Textes"
@@ -1435,7 +1348,6 @@ msgid "books, newspapers, letters, diaries and archival papers"
 msgstr "livres, journaux, lettres, carnets intimes et papiers d’archives"
 
 #: templates/static_pages/aboutus.html:30
-#: templates/static_pages/prop_file.html:93
 msgid "Sounds"
 msgstr "Sons"
 
@@ -1446,7 +1358,6 @@ msgstr ""
 "de radio"
 
 #: templates/static_pages/aboutus.html:31
-#: templates/static_pages/prop_file.html:92
 msgid "Videos"
 msgstr "Vidéos"
 
@@ -1754,135 +1665,18 @@ msgstr ""
 msgid "Europeana - New Content"
 msgstr "Europeana - Nouveau contenu"
 
-#: templates/static_pages/prop_file.html:5
-#, fuzzy
-msgid ""
-"I understand that My Europeana gives me the opportunity to create tags for "
-"any item I wish. I agree that I will not create any tags that could be "
-"considered libelous, harmful, threatening, unlawful, defamatory,infringing, "
-"abusive, inflammatory, harassing, pornographic, obscene, fraudulent, "
-"invasive of privacy orpublicity rights, hateful, or racially, ethnically or "
-"otherwise objectionable. By clicking this box I agreeto abide by this "
-"agreement, and understand that if I don't my membership of My Europeana will "
-"be terminated."
-msgstr ""
-"J’accepte les conditions sous lesquelles je crée les étiquettes pour les "
-"objets que j’aurai choisis. J'accepte de ne pas créer d'étiquette qui "
-"pourrait être considérée comme diffamatoire, dommageable, préjudiciable, "
-"illégale, calomnieuse, incorrecte, injurieuse, provocatrice, gênante, "
-"pornographique, obscène, malhonnête, haineuse ou raciale d'un point de vue "
-"ethnique ou de toute autre manière qui pourrait être considérée comme "
-"choquante. J’accepte de ne pas créer d’étiquette qui serait susceptible de "
-"porter atteinte au respect de la vie privée ou qui ne pourrait être diffusé. "
-"En cliquant sur cette case, j'accepte de respecter les termes de l'accord. "
-"Dans le cas contraire, mon inscription à Europeana sera interrompue. CLIQUER "
-"POUR ACCEPTER"
+#: templates/static_pages/sitemap.html:4
+msgid "Europeana - Sitemap"
+msgstr "Europeana - Plan du site"
 
-#: templates/static_pages/prop_file.html:6
-msgid "You must agree to our code of conduct to register for My Europeana"
-msgstr ""
-"Vous acceptez notre code de conduite pour vous inscrire sur Mon Europeana"
+#: templates/static_pages/sitemap.html:8
+msgid "Sitemap"
+msgstr "Plan du site"
 
-#: templates/static_pages/prop_file.html:7
-msgid "I agree"
-msgstr "Images"
+#: templates/static_pages/sitemap.html:11
+msgid "Home"
+msgstr "Accueil"
 
-#: templates/static_pages/prop_file.html:8
-#: templates/static_pages/prop_file.html:230
-msgid "Contributor"
-msgstr "Contributeur"
-
-#: templates/static_pages/prop_file.html:9
-msgid "Contributors"
-msgstr "Contributeurs"
-
-#: templates/static_pages/prop_file.html:10
-msgid "Country"
-msgstr "Pays"
-
-#: templates/static_pages/prop_file.html:11
-msgid "Sector"
-msgstr "Secteur"
-
-#: templates/static_pages/prop_file.html:12
-msgid "Partner"
-msgstr "Partenaire"
-
-#: templates/static_pages/prop_file.html:13
-msgid ""
-"This is the network of partners who collaborated to make Europeana happen, "
-"and who represent Europeana in their countries and professional associations."
-msgstr ""
-"Voici le réseau des partenaires qui ont contibué à créer Europeana et qui "
-"représentent Europeana dans leur pays et dans les associations "
-"professionnelles."
-
-#: templates/static_pages/prop_file.html:14
-msgid ""
-"These are the organisations that are contributing content - digitised "
-"paintings, books, broadcasts etc. Some of these contributors are  "
-"aggregators*, Culture.fr is the largest aggregator, providing content from "
-"about 480 organisations in France, including the Louvre and the Musée "
-"d’Orsay. The number of organisations contributing to an aggregator is shown "
-"in brackets after the aggregator’s name, e.g. Videoactive (10)"
-msgstr ""
-"Ce sont les organisations qui ont versé les objets numérisés - tableaux, "
-"livres, émissions etc... Certains des contributeurs sont des agrégateurs*, "
-"Culture.fr en est le plus important, fournissant le contenu de plus de 480 "
-"organisations en France, incluant le Louvre et le Musée d'Orsay. Le nombre "
-"d'organisations appartenant à un agrégateur figure entre parenthèses après "
-"celui-ci, comme par exemple Videoactive (10)"
-
-#: templates/static_pages/prop_file.html:15
-msgid ""
-"*An aggregator collects material from a range of other contributors, "
-"displays it on their own website and also channels it into Europeana."
-msgstr ""
-"*Un agrégateur collecte du contenu provenant d'un éventail d'autres "
-"contributeurs, l'agrégateur apparaît sur le site de ces contributeurs de la "
-"même manière qu'ils sont redirigés dans Europeana."
-
-#: templates/static_pages/prop_file.html:16
-msgid "This is a required field"
-msgstr "C'est un champ requis"
-
-#: templates/static_pages/prop_file.html:17
-msgid "Please enter a valid email address"
-msgstr "Veuillez entrer une adresse mél. valide"
-
-#: templates/static_pages/prop_file.html:18
-msgid "Logged in as"
-msgstr "Ouvrir une session sous"
-
-#: templates/static_pages/prop_file.html:19
-msgid "Saved items"
-msgstr "Objets sauvegardés"
-
-#: templates/static_pages/prop_file.html:20
-msgid "Saved searches"
-msgstr "Recherche avancée"
-
-#: templates/static_pages/prop_file.html:21
-msgid "Saved tags"
-msgstr "Vignettes sauvegardées"
-
-#: templates/static_pages/prop_file.html:22
-msgid "Saved notifications"
-msgstr "Etiquettes sauvegardées"
-
-#: templates/static_pages/prop_file.html:23
-msgid "Login"
-msgstr "Connexion"
-
-#: templates/static_pages/prop_file.html:24
-msgid "Log out"
-msgstr "Déconnexion"
-
-#: templates/static_pages/prop_file.html:25
-#: templates/static_pages/prop_file.html:648
-#: templates/static_pages/prop_file.html:649
-#: templates/static_pages/prop_file.html:963
-#: templates/static_pages/prop_file.html:964
 #: templates/static_pages/sitemap.html:12
 #: templates/static_pages/usingeuropeana_myeuropeana.html:10
 #: templates/static_pages/usingeuropeana_myeuropeana.html:11
@@ -1891,2558 +1685,30 @@ msgstr "Déconnexion"
 msgid "My Europeana"
 msgstr " Mon Europeana"
 
-#: templates/static_pages/prop_file.html:26
-msgid ""
-"Thank you very much for your feedback. If your feedback requires a response "
-"a member of the Europeana team will get back to you as soon as possible. For "
-"faster response feedback should be submitted in English."
-msgstr ""
-"Recevez nos remerciements pour votre remarque. Si votre remarque nécessite "
-"une réponse un membre de l'équipe d'Europeana vous contactera dès que "
-"possible. Pour une réponse plus rapide, veuillez soumettre votre remarque en "
-"anglais."
+#: templates/static_pages/sitemap.html:15
+msgid "Other Europeana Sites"
+msgstr "Autres sites Europeana"
 
-#: templates/static_pages/prop_file.html:27
-msgid "Keep me in touch with new developments to Europeana"
-msgstr "Rester en contact avec les nouveaux développements d'Europeana"
+#: templates/static_pages/sitemap.html:19
+msgid "Europeana 1914-1918"
+msgstr "Europeana 1914-1918"
 
-#: templates/static_pages/prop_file.html:28
-msgid "User Conduct"
-msgstr "Code d'utilisation"
+#: templates/static_pages/sitemap.html:21
+msgid "Europeana Professional"
+msgstr "Europeana Professional"
 
-#: templates/static_pages/prop_file.html:29
-msgid ""
-"I understand that My Europeana gives me the opportunity to create tags for "
-"any item I wish. I agree that I will not create any tags that could be "
-"considered libelous, harmful, threatening, unlawful, defamatory, infringing, "
-"abusive, inflammatory, harassing, pornographic, obscene, fraudulent, "
-"invasive of privacy or publicity rights, hateful, or racially, ethnically or "
-"otherwise objectionable. By clicking this box I agree to abide by this "
-"agreement, and understand that if I don't my membership of My Europeana will "
-"be terminated. CLICK TO AGREE"
-msgstr ""
-"J’accepte les conditions sous lesquelles je crée les étiquettes pour les "
-"objets que j’aurai choisis. J'accepte de ne pas créer d'étiquette qui "
-"pourrait être considérée comme diffamatoire, dommageable, préjudiciable, "
-"illégale, calomnieuse, incorrecte, injurieuse, provocatrice, gênante, "
-"pornographique, obscène, malhonnête, haineuse ou raciale d'un point de vue "
-"ethnique ou de toute autre manière qui pourrait être considérée comme "
-"choquante. J’accepte de ne pas créer d’étiquette qui serait susceptible de "
-"porter atteinte au respect de la vie privée ou qui ne pourrait être diffusé. "
-"En cliquant sur cette case, j'accepte de respecter les termes de l'accord. "
-"Dans le cas contraire, mon inscription à Europeana sera interrompue. CLIQUER "
-"POUR ACCEPTER"
+#: templates/static_pages/sitemap.html:27
+msgid "Searching in Europeana"
+msgstr "Chercher dans Europeana"
 
-#: templates/static_pages/prop_file.html:30
-msgid "First name"
-msgstr "Prénom"
-
-#: templates/static_pages/prop_file.html:31
-msgid "Last name"
-msgstr "Dernier amendement"
-
-#: templates/static_pages/prop_file.html:32
-msgid ""
-"To make optimal use of this website you need to have JavaScript activated"
-msgstr ""
-"Pour avoir une utilisation optimale du site web, vous avez besoin d'activer "
-"Javascript"
-
-#: templates/static_pages/prop_file.html:33
-#: templates/static_pages/storyline.html:11
-msgid "Storyline and credits"
-msgstr "Plan et crédits"
-
-#: templates/static_pages/prop_file.html:34
-msgid "Check the FAQs - they may cover your feedback"
-msgstr "Vérifier les FAQ- ils peuvent contenir une réponse"
-
-#: templates/static_pages/prop_file.html:35
-msgid "Communities"
-msgstr "Communautés"
-
-#: templates/static_pages/prop_file.html:38
-msgid "ThoughtLab"
-msgstr "ThoughtLab"
-
-#: templates/static_pages/prop_file.html:39
-msgid "Choose a language"
-msgstr "Choisir une langue"
-
-#: templates/static_pages/prop_file.html:40
-msgid "Select language"
-msgstr "Choisir une langue"
-
-#: templates/static_pages/prop_file.html:41
-msgid "This is Europeana"
-msgstr "Utiliser Europeana"
-
-#: templates/static_pages/prop_file.html:42
-msgid ""
-"a place for inspiration and ideas. Search through the cultural collections "
-"of Europe, connect to other user pathways and share your discoveries."
-msgstr ""
-"Une source d'inspiration et d'idées. Recherchez dans le patrimoine culturel "
-"de l'Europe et partagez vos découvertes."
-
-#: templates/static_pages/prop_file.html:43
-msgid "Find out more"
-msgstr "Plus de résultats sur"
-
-#: templates/static_pages/prop_file.html:44
-#: templates/static_pages/sitemap.html:65
-#: templates/static_pages/usingeuropeana_search.html:21
-#: templates/static_pages/usingeuropeana_search.html:25
-#: templates/static_pages/usingeuropeana_search.html:27
-#: templates/static_pages/usingeuropeana_search.html:45
-msgid "Search"
-msgstr "Recherche "
-
-#: templates/static_pages/prop_file.html:45
-#: templates/static_pages/prop_file.html:335
-msgid "Reset"
-msgstr "Réinitialiser"
-
-#: templates/static_pages/prop_file.html:46
-#: templates/static_pages/usingeuropeana_results.html:49
-msgid "Previous"
-msgstr "Précédent"
-
-#: templates/static_pages/prop_file.html:47
-#: templates/static_pages/usingeuropeana_results.html:49
-msgid "Next"
-msgstr "Suivant"
-
-#: templates/static_pages/prop_file.html:48
-msgid "Advanced search"
-msgstr "Recherche avancée"
-
-#: templates/static_pages/prop_file.html:49
-msgid "Hide advanced search"
-msgstr "Recherche avancée"
-
-#: templates/static_pages/prop_file.html:50
-msgid "and"
-msgstr "et"
-
-#: templates/static_pages/prop_file.html:51
-#: templates/static_pages/usingeuropeana_results.html:24
-#: templates/static_pages/usingeuropeana_results.html:25
-#: templates/static_pages/usingeuropeana_results.html:41
-#: templates/static_pages/usingeuropeana_results.html:49
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid "or"
-msgstr "ou"
-
-#: templates/static_pages/prop_file.html:52
-msgid "not"
-msgstr "ne signifie pas"
-
-#: templates/static_pages/prop_file.html:53
-msgid "Any field"
-msgstr "Tous les champs"
-
-#: templates/static_pages/prop_file.html:54
-msgid "Share your ideas"
-msgstr "Partager vos idées"
-
-#: templates/static_pages/prop_file.html:55
-msgid "Tagging"
-msgstr "Etiquetage"
-
-#: templates/static_pages/prop_file.html:56
-msgid "Send us feedback"
-msgstr "en nous faisant part de vos suggestions"
-
-#: templates/static_pages/prop_file.html:57
-msgid "People are currently thinking about"
-msgstr "On pense actuellement à"
-
-#: templates/static_pages/prop_file.html:58
-msgid "Timeline navigator"
-msgstr "Frise chronologique"
-
-#: templates/static_pages/prop_file.html:59
-msgid "Browse through time"
-msgstr "Feuilleter dans le temps"
-
-#: templates/static_pages/prop_file.html:61
-msgid ""
-"From our partner museums, archives, libraries and audio-visual collections"
-msgstr ""
-"de nos partenaires des musées, des centres d'archives, des bibliothèques et "
-"des collections audiovisuelles"
-
-#: templates/static_pages/prop_file.html:62
-#: templates/static_pages/prop_file.html:915
-#: templates/static_pages/prop_file.html:916
-#: templates/static_pages/sitemap.html:36
-msgid "About us"
-msgstr "A propos "
-
-#: templates/static_pages/prop_file.html:64
-msgid "Using Europeana"
-msgstr "Utiliser Europeana"
-
-#: templates/static_pages/prop_file.html:66
-#: templates/static_pages/prop_file.html:528
-#: templates/static_pages/prop_file.html:529
-#: templates/static_pages/prop_file.html:841
-#: templates/static_pages/prop_file.html:842
-#: templates/static_pages/sitemap.html:8
-msgid "Sitemap"
-msgstr "Plan du site"
-
-#: templates/static_pages/prop_file.html:67
-#: templates/static_pages/prop_file.html:362
-msgid "Terms and conditions"
-msgstr "Termes et conditions"
-
-#: templates/static_pages/prop_file.html:69
-#: templates/static_pages/sitemap.html:107
-msgid "Language policy"
-msgstr "Politique en matière de langue"
-
-#: templates/static_pages/prop_file.html:70
-#: templates/static_pages/prop_file.html:837
-#: templates/static_pages/prop_file.html:838
-msgid "Contact us"
-msgstr "Nous contacter"
-
-#: templates/static_pages/prop_file.html:71
-msgid "co-funded by the European Union"
-msgstr "co-financé par l'Union européenne"
-
-#: templates/static_pages/prop_file.html:72
-msgid "Europeana think culture"
-msgstr "Pensez culture"
-
-#: templates/static_pages/prop_file.html:73
-msgid "Click here to return to the Europeana homepage"
-msgstr "Cliquer ici pour retourner à la page d'accueil"
-
-#: templates/static_pages/prop_file.html:74
-msgid "Refine your results"
-msgstr "Affiner les résultats"
-
-#: templates/static_pages/prop_file.html:75
-msgid "By language of description"
-msgstr "Par la langue de description"
-
-#: templates/static_pages/prop_file.html:76
-msgid "By providing country"
-msgstr "En fournissant le pays"
-
-#: templates/static_pages/prop_file.html:77
-msgid "By year"
-msgstr "Par année"
-
-#: templates/static_pages/prop_file.html:79
-msgid "By user tag"
-msgstr "Par étiquette d'utilisateur"
-
-#: templates/static_pages/prop_file.html:80
-msgid "By type"
-msgstr "Par type"
-
-#: templates/static_pages/prop_file.html:81
-#: templates/static_pages/usingeuropeana_search.html:55
-msgid "By media type"
-msgstr ""
-"Par type de média\n"
-"Par type de média\n"
-"Par type de média"
-
-#: templates/static_pages/prop_file.html:82
-msgid "Actions"
-msgstr "Actions"
-
-#: templates/static_pages/prop_file.html:83
-#: templates/static_pages/usingeuropeana_myeuropeana.html:14
-msgid "Save this search"
-msgstr "Sauvegarder cette recherche"
-
-#: templates/static_pages/prop_file.html:84
-msgid "Search saved"
-msgstr "Recherche sauvegardée"
-
-#: templates/static_pages/prop_file.html:85
-msgid "Saving search failed"
-msgstr "Sauvegarde de la recherche échouée"
-
-#: templates/static_pages/prop_file.html:86
-msgid "You have searched for"
-msgstr "Vous avez recherché sur"
-
-#: templates/static_pages/prop_file.html:87
-#: templates/static_pages/usingeuropeana_search.html:51
-#: templates/static_pages/usingeuropeana_search.html:63
-#: templates/static_pages/usingeuropeana_search.html:65
-msgid "Matches for"
-msgstr "le formulaire ci-dessous"
-
-#: templates/static_pages/prop_file.html:88
-msgid "You are viewing related items"
-msgstr "Visualiser les objets en relation"
-
-#: templates/static_pages/prop_file.html:89
-msgid "All"
-msgstr "Tous"
-
-#: templates/static_pages/prop_file.html:94
-msgid "Text"
-msgstr "Textes"
-
-#: templates/static_pages/prop_file.html:95
-msgid "Image"
-msgstr "Images"
-
-#: templates/static_pages/prop_file.html:96
-#: templates/static_pages/usingeuropeana_results.html:17
-msgid "Video"
-msgstr "Vidéo"
-
-#: templates/static_pages/prop_file.html:97
-#: templates/static_pages/usingeuropeana_results.html:18
-msgid "Sound"
-msgstr "Son"
-
-#: templates/static_pages/prop_file.html:98
-msgid "List view"
-msgstr "Vue de la liste"
-
-#: templates/static_pages/prop_file.html:99
-msgid "#Table view"
-msgstr "Affichage tableau"
-
-#: templates/static_pages/prop_file.html:100
-msgid "Page"
-msgstr "page"
-
-#: templates/static_pages/prop_file.html:101
-msgid "of"
-msgstr "de"
-
-#: templates/static_pages/prop_file.html:102
-msgid "Click here for previous page of results"
-msgstr "Cliquer ici pour visualiser les résultats de la page précédente"
-
-#: templates/static_pages/prop_file.html:103
-msgid "Click here for next page of results"
-msgstr "Cliquer ici pour visualiser les résultats de la page suivante"
-
-#: templates/static_pages/prop_file.html:104
-msgid "Print this page"
-msgstr "Imprimer cette page"
-
-#: templates/static_pages/prop_file.html:105
-msgid "Click for more information"
-msgstr "Cliquer ici pour plus d'information"
-
-#: templates/static_pages/prop_file.html:106
-msgid "No items found"
-msgstr "Pas d'objets trouvés"
-
-#: templates/static_pages/prop_file.html:107
-msgid "Related content"
-msgstr "Contenu lié"
-
-#: templates/static_pages/prop_file.html:108
-msgid "See all related items"
-msgstr "Voir tous les objets en relation"
-
-#: templates/static_pages/prop_file.html:109
-msgid "User tags"
-msgstr " "
-
-#: templates/static_pages/prop_file.html:110
-#: templates/static_pages/usingeuropeana_myeuropeana.html:15
-msgid "Add a tag"
-msgstr "Ajouter une étiquette"
-
-#: templates/static_pages/prop_file.html:111
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid "Add"
-msgstr "Ajouter"
-
-#: templates/static_pages/prop_file.html:112
-msgid "Tag added"
-msgstr "vignette ajoutée"
-
-#: templates/static_pages/prop_file.html:113
-msgid "Tag addition failed"
-msgstr "Echec de l'ajout de l'étiquette"
-
-#: templates/static_pages/prop_file.html:114
-msgid "Share with a friend"
-msgstr "Partager avec un ami"
-
-#: templates/static_pages/prop_file.html:115
-msgid "Email address"
-msgstr "Adresse mél."
-
-#: templates/static_pages/prop_file.html:116
-msgid "Email sent"
-msgstr "mél envoyé"
-
-#: templates/static_pages/prop_file.html:117
-msgid "Email could not be sent"
-msgstr "le mél. n'a pas pu être envoyé"
-
-#: templates/static_pages/prop_file.html:118
-msgid "Send"
-msgstr "Sons"
-
-#: templates/static_pages/prop_file.html:119
-#: templates/static_pages/usingeuropeana_myeuropeana.html:16
-msgid "Save to My Europeana"
-msgstr "Sauver dans Mon Europeana"
-
-#: templates/static_pages/prop_file.html:120
-msgid "Item saved"
-msgstr "objet sauvegardé"
-
-#: templates/static_pages/prop_file.html:121
-msgid "Save item failed"
-msgstr "Sauvegarde échouée"
-
-#: templates/static_pages/prop_file.html:122
-msgid "Error"
-msgstr "Erreur"
-
-#: templates/static_pages/prop_file.html:123
-msgid "Error details"
-msgstr "Détails de l'erreur"
-
-#: templates/static_pages/prop_file.html:124
-msgid "Return to results"
-msgstr "retour aux résultats"
-
-#: templates/static_pages/prop_file.html:125
-msgid "More"
-msgstr "ou"
-
-#: templates/static_pages/prop_file.html:126
-msgid "Less"
-msgstr "Moins"
-
-#: templates/static_pages/prop_file.html:127
-msgid "Items"
-msgstr "Objets"
-
-#: templates/static_pages/prop_file.html:128
-msgid "Item details"
-msgstr "Description de l'objet"
-
-#: templates/static_pages/prop_file.html:129
-msgid "View as XML"
-msgstr "Voir en XML"
-
-#: templates/static_pages/prop_file.html:130
-msgid "View with labels"
-msgstr "Voir avec les labels"
-
-#: templates/static_pages/prop_file.html:131
-msgid "View without labels"
-msgstr "Voir sans les labels"
-
-#: templates/static_pages/prop_file.html:132
-msgid "Opens in a new window"
-msgstr "Ouvrir dans une nouvelle fenêtre"
-
-#: templates/static_pages/prop_file.html:133
-msgid "View in original context"
-msgstr "Voir dans le contexte d'origine"
-
-#: templates/static_pages/prop_file.html:134
-#: templates/static_pages/prop_file.html:827
-msgid "Provider"
-msgstr "Fournir un contenu"
-
-#: templates/static_pages/prop_file.html:135
-#: templates/static_pages/prop_file.html:228
-#: templates/static_pages/prop_file.html:824
-#: templates/static_pages/storyline.html:49
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid "Title"
-msgstr "Titre"
-
-#: templates/static_pages/prop_file.html:136
-#: templates/static_pages/prop_file.html:235
-msgid "Description"
-msgstr "Description"
-
-#: templates/static_pages/prop_file.html:137
-#: templates/static_pages/storyline.html:50
-#: templates/static_pages/usingeuropeana_search.html:31
-msgid "Creator"
-msgstr "Créateur"
-
-#: templates/static_pages/prop_file.html:138
-#: templates/static_pages/prop_file.html:232
-#: templates/static_pages/usingeuropeana_search.html:34
-msgid "Date"
-msgstr "Date"
-
-#: templates/static_pages/prop_file.html:139
-#: templates/static_pages/prop_file.html:234
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid "Subject"
-msgstr "Sujet"
-
-#: templates/static_pages/prop_file.html:140
-msgid "Show all"
-msgstr "Montrer tout"
-
-#: templates/static_pages/prop_file.html:141
-msgid "Delete"
-msgstr "Effacer"
-
-#: templates/static_pages/prop_file.html:142
-msgid "No saved items"
-msgstr "Pas d'objet sauvegardé"
-
-#: templates/static_pages/prop_file.html:143
-msgid "No saved searches"
-msgstr "Recherche avancée"
-
-#: templates/static_pages/prop_file.html:144
-msgid "No saved tags"
-msgstr "Pas de tags sauvegardés"
-
-#: templates/static_pages/prop_file.html:145
-msgid "No saved notifications"
-msgstr "Etiquettes sauvegardées"
-
-#: templates/static_pages/prop_file.html:146
-msgid "Date saved"
-msgstr "Date sauvegardée"
-
-#: templates/static_pages/prop_file.html:147
-msgid "Remove"
-msgstr "Retirer"
-
-#: templates/static_pages/prop_file.html:148
-msgid "Welcome to MyEuropeana"
-msgstr "Bienvenu dans MonEuropeana"
-
-#: templates/static_pages/prop_file.html:149
-msgid "Please click on the following link to confirm your registration"
-msgstr "Veuillez cliquer sur le lien pour confirmer votre inscription"
-
-#: templates/static_pages/prop_file.html:150
-msgid "The Europeana Team"
-msgstr "L'équipe Europeana"
-
-#: templates/static_pages/prop_file.html:151
-msgid "Results"
-msgstr "Résultats"
-
-#: templates/static_pages/prop_file.html:152
-msgid "Invalid query"
-msgstr "Requête invalide"
-
-#: templates/static_pages/prop_file.html:153
-msgid "This feature is currently disabled."
-msgstr "Cette fonction est actuellement désactivée"
-
-#: templates/static_pages/prop_file.html:154
-msgid "Password"
-msgstr "Mot de passe"
-
-#: templates/static_pages/prop_file.html:155
-msgid "Remember me on this computer"
-msgstr "Voulez-vous que Europeana retienne ce mot de passe"
-
-#: templates/static_pages/prop_file.html:156
-msgid "I forgot my password"
-msgstr "J'ai oublié mon mot de passe"
-
-#: templates/static_pages/prop_file.html:157
-msgid "Sign in"
-msgstr "Ouvrir une session"
-
-#: templates/static_pages/prop_file.html:158
-msgid "Register"
-msgstr "S'enregister "
-
-#: templates/static_pages/prop_file.html:159
-msgid "Register again"
-msgstr "S'enregister à nouveau"
-
-#: templates/static_pages/prop_file.html:160
-msgid ""
-"An error occurred while trying to process your registration. Please try again"
-msgstr ""
-"Une erreur s'est produite lors de votre enregistrement. Veuillez recommencer"
-
-#: templates/static_pages/prop_file.html:161
-msgid "An email has been sent to the following address"
-msgstr "Un mél. a été envoyé à l'adresse suivante"
-
-#: templates/static_pages/prop_file.html:162
-msgid ""
-"Please follow the link provided in the email and finish the registration "
-"process"
-msgstr ""
-"Veuillez suivre le lien envoyé sur votre adresse mél pour finir votre "
-"enregistrement."
-
-#: templates/static_pages/prop_file.html:163
-msgid "Please make sure your email is correctly formatted and try again"
-msgstr "Veuillez vous assurer de la validité de votre adresse mél et réessayer"
-
-#: templates/static_pages/prop_file.html:164
-msgid "This email is already registered"
-msgstr "Cette adresse mél est déjà enregistrée"
-
-#: templates/static_pages/prop_file.html:165
-msgid "Create an account"
-msgstr "Créer un compte"
-
-#: templates/static_pages/prop_file.html:166
-#: templates/static_pages/prop_file.html:986
-msgid "The link you used to complete registration is invalid or has expired."
-msgstr ""
-"Le lien que vous utilisez pour terminer votre inscription est invalide ou a "
-"expiré"
-
-#: templates/static_pages/prop_file.html:167
-msgid "Enter your email"
-msgstr "Entrer votre adresse mél."
-
-#: templates/static_pages/prop_file.html:168
-msgid ""
-"You will use your email together with your password to log into the site"
-msgstr ""
-"Vous devez entrer votre adresse mél et votre mot de passe pour vous ouvrir "
-"une session"
-
-#: templates/static_pages/prop_file.html:169
-#: templates/static_pages/prop_file.html:173
-msgid "Your username will be displayed when you have logged in"
-msgstr "Votre nom d'utilisateur s'affichera une fois connecté"
-
-#: templates/static_pages/prop_file.html:170
-msgid "Username"
-msgstr "Nom d’utilisateur"
-
-#: templates/static_pages/prop_file.html:171
-msgid "is in use. Please choose another username"
-msgstr "déjà utilisé. Veuillez choisir un autre nom d'utilisateur"
-
-#: templates/static_pages/prop_file.html:172
-msgid "Choose a username"
-msgstr "Choisir un nom d'utilisateur"
-
-#: templates/static_pages/prop_file.html:174
-msgid "User information"
-msgstr "Aide en ligne"
-
-#: templates/static_pages/prop_file.html:175
-msgid "Choose a password"
-msgstr "Choisir un mot de passe"
-
-#: templates/static_pages/prop_file.html:176
-msgid "Passwords must be 6-30 characters in length"
-msgstr "La longueur du mot de passe doit être entre 6-30 caractères"
-
-#: templates/static_pages/prop_file.html:177
-msgid "Repeat password"
-msgstr "Répéter le mot de passe"
-
-#: templates/static_pages/prop_file.html:178
-msgid "Finish registration"
-msgstr "Finir l'enregistrement"
-
-#: templates/static_pages/prop_file.html:179
-msgid "You have successfully registered"
-msgstr "Vous êtes enregistré avec succès"
-
-#: templates/static_pages/prop_file.html:181
-msgid "English (eng)"
-msgstr "Anglais (eng)"
-
-#: templates/static_pages/prop_file.html:182
-msgid "Croatian (hrv)"
-msgstr "Croate (hrv)"
-
-#: templates/static_pages/prop_file.html:183
-msgid "Czech (cze/cse)"
-msgstr "Tchèque (cze/cse)"
-
-#: templates/static_pages/prop_file.html:184
-msgid "Greek (ell/gre)"
-msgstr "Grec (ell/gre)"
-
-#: templates/static_pages/prop_file.html:185
-msgid "Estonian (est)"
-msgstr "Estonien (est)"
-
-#: templates/static_pages/prop_file.html:186
-msgid "Danish (dan)"
-msgstr "Danois (dan)"
-
-#: templates/static_pages/prop_file.html:187
-msgid "Dutch (dut)"
-msgstr "Néerlandais(dut)"
-
-#: templates/static_pages/prop_file.html:188
-msgid "Finnish (fin)"
-msgstr "Finlandais (fin)"
-
-#: templates/static_pages/prop_file.html:189
-msgid "French (fre)"
-msgstr "Français (fre)"
-
-#: templates/static_pages/prop_file.html:190
-msgid "Galician (glg)"
-msgstr "Galicien (glg)"
-
-#: templates/static_pages/prop_file.html:191
-msgid "German (deu)"
-msgstr "Allemand (deu)"
-
-#: templates/static_pages/prop_file.html:192
-msgid "Hungarian (hun)"
-msgstr "Hongrois (hun)"
-
-#: templates/static_pages/prop_file.html:193
-msgid "Italian (ita)"
-msgstr "Italien (ita)"
-
-#: templates/static_pages/prop_file.html:194
-msgid "Latvian (lav)"
-msgstr "Letton (lav)"
-
-#: templates/static_pages/prop_file.html:195
-msgid "Lithuanian (lit)"
-msgstr "Lituanien (lit)"
-
-#: templates/static_pages/prop_file.html:196
-msgid "Luxemburgish (ltz)"
-msgstr "Luxembourgeois (ltz)"
-
-#: templates/static_pages/prop_file.html:197
-msgid "Maltese (mlt)"
-msgstr "Maltais (mlt)"
-
-#: templates/static_pages/prop_file.html:198
-msgid "Norwegian (nor)"
-msgstr "Norvégien (nor)"
-
-#: templates/static_pages/prop_file.html:199
-msgid "Polish (pol)"
-msgstr "Polonais (pol)"
-
-#: templates/static_pages/prop_file.html:200
-msgid "Portuguese (por)"
-msgstr "Portugais (por)"
-
-#: templates/static_pages/prop_file.html:201
-msgid "Romanian (rom)"
-msgstr "Roumain"
-
-#: templates/static_pages/prop_file.html:202
-msgid "Russian (rus)"
-msgstr "Russe"
-
-#: templates/static_pages/prop_file.html:203
-msgid "Serbian (scc)"
-msgstr "Serbe (scc)"
-
-#: templates/static_pages/prop_file.html:204
-msgid "Slovak (slo)"
-msgstr "Slovaque (slo)"
-
-#: templates/static_pages/prop_file.html:205
-msgid "Slovenian (slv)"
-msgstr "Slovène (slv)"
-
-#: templates/static_pages/prop_file.html:206
-msgid "Spanish (esp)"
-msgstr "Espagnol (esp)"
-
-#: templates/static_pages/prop_file.html:207
-msgid "Icelandic (ice)"
-msgstr "Islandais (ice)"
-
-#: templates/static_pages/prop_file.html:208
-msgid "Swedish (sve/swe)"
-msgstr "Suédois (sve/swe)"
-
-#: templates/static_pages/prop_file.html:209
-msgid "Turkish (tur)"
-msgstr "Turc (tur"
-
-#: templates/static_pages/prop_file.html:210
-msgid "Ukrainian (ukr)"
-msgstr "Ukrainien (ukr)"
-
-#: templates/static_pages/prop_file.html:211
-msgid "Yiddish (yid)"
-msgstr "Yiddish (yid)"
-
-#: templates/static_pages/prop_file.html:212
-msgid "Other"
-msgstr "Autres"
-
-#: templates/static_pages/prop_file.html:213
-msgid "Alternative Title"
-msgstr "Autre titre"
-
-#: templates/static_pages/prop_file.html:214
-msgid "Provenance"
-msgstr "Provenance"
-
-#: templates/static_pages/prop_file.html:215
-msgid "Is Part of"
-msgstr "Fait parti de"
-
-#: templates/static_pages/prop_file.html:216
-#: templates/static_pages/prop_file.html:955
-msgid "Has part"
-msgstr " En tant que"
-
-#: templates/static_pages/prop_file.html:217
-msgid "Replaces"
-msgstr "pages"
-
-#: templates/static_pages/prop_file.html:218
-msgid "Is replaced by"
-msgstr "est remplacé par"
-
-#: templates/static_pages/prop_file.html:219
-msgid "Is referenced by"
-msgstr "est référencé par"
-
-#: templates/static_pages/prop_file.html:220
-msgid "References"
-msgstr "Références "
-
-#: templates/static_pages/prop_file.html:221
-msgid "Conforms to"
-msgstr "Est conforme à "
-
-#: templates/static_pages/prop_file.html:222
-msgid "Requires"
-msgstr "requiert"
-
-#: templates/static_pages/prop_file.html:223
-msgid "Has format"
-msgstr "le formulaire ci-dessous"
-
-#: templates/static_pages/prop_file.html:224
-msgid "Is format of"
-msgstr " "
-
-#: templates/static_pages/prop_file.html:225
-msgid "Geographic coverage"
-msgstr "Couverture géographique"
-
-#: templates/static_pages/prop_file.html:226
-msgid "Time period"
-msgstr "Période"
-
-#: templates/static_pages/prop_file.html:227
-msgid "Publication date"
-msgstr "Date de publication"
-
-#: templates/static_pages/prop_file.html:229
-msgid "Author"
-msgstr "Août"
-
-#: templates/static_pages/prop_file.html:231
-msgid "Coverage"
-msgstr "Couverture"
-
-#: templates/static_pages/prop_file.html:233
-msgid "Format"
-msgstr "Format"
-
-#: templates/static_pages/prop_file.html:236
-msgid "Publisher"
-msgstr "Editeur"
-
-#: templates/static_pages/prop_file.html:237
-msgid "Identifier"
-msgstr "Nom d’utilisateur"
-
-#: templates/static_pages/prop_file.html:238
-msgid "Source"
-msgstr "Source"
-
-#: templates/static_pages/prop_file.html:240
-msgid "Relation"
-msgstr "Contenu lié"
-
-#: templates/static_pages/prop_file.html:241
-#: templates/static_pages/sitemap.html:113
-msgid "Rights"
-msgstr "Droits"
-
-#: templates/static_pages/prop_file.html:242
-msgid "Type"
-msgstr "Identifiant"
-
-#: templates/static_pages/prop_file.html:243
-msgid "Austria"
-msgstr "Autriche"
-
-#: templates/static_pages/prop_file.html:244
-msgid "Croatia"
-msgstr "Croatie"
-
-#: templates/static_pages/prop_file.html:245
-msgid "Denmark"
-msgstr "Danemark"
-
-#: templates/static_pages/prop_file.html:246
-msgid "Finland"
-msgstr "Finlande"
-
-#: templates/static_pages/prop_file.html:247
-msgid "France"
-msgstr "France"
-
-#: templates/static_pages/prop_file.html:248
-msgid "Germany"
-msgstr "Allemagne"
-
-#: templates/static_pages/prop_file.html:249
-msgid "Italy-Florence"
-msgstr "Italie-Florence"
-
-#: templates/static_pages/prop_file.html:250
-msgid "Italy-Rome"
-msgstr "Italie - Rome"
-
-#: templates/static_pages/prop_file.html:251
-msgid "Ireland"
-msgstr "Irlande"
-
-#: templates/static_pages/prop_file.html:252
-msgid "Netherlands"
-msgstr "Pays-Bas"
-
-#: templates/static_pages/prop_file.html:253
-msgid "Portugal"
-msgstr "Portugal"
-
-#: templates/static_pages/prop_file.html:254
-msgid "Russia - Moscow"
-msgstr "Russie - Moscou"
-
-#: templates/static_pages/prop_file.html:255
-msgid "Russia - Saint Petersburg"
-msgstr "Russie - Saint Petersbourg"
-
-#: templates/static_pages/prop_file.html:256
-msgid "Romania"
-msgstr "Roumanie"
-
-#: templates/static_pages/prop_file.html:257
-msgid "Former Yugoslav Republic Of Macedonia"
-msgstr "Ancienne République yougoslave de Macédoine"
-
-#: templates/static_pages/prop_file.html:258
-msgid "Ukraine"
-msgstr "Ukraine"
-
-#: templates/static_pages/prop_file.html:259
-msgid "Moldova"
-msgstr "Moldavie"
-
-#: templates/static_pages/prop_file.html:260
-msgid "Albania"
-msgstr "Albanie"
-
-#: templates/static_pages/prop_file.html:261
-msgid "Georgia"
-msgstr "Géorgie"
-
-#: templates/static_pages/prop_file.html:262
-msgid "Armenia"
-msgstr "Arménie"
-
-#: templates/static_pages/prop_file.html:263
-msgid "Bosnia and Herzegovina"
-msgstr "Bosnie-Herzégovine"
-
-#: templates/static_pages/prop_file.html:264
-msgid "Azerbaijan"
-msgstr "Azerbaïdjan"
-
-#: templates/static_pages/prop_file.html:265
-msgid "Turkey"
-msgstr "Turquie"
-
-#: templates/static_pages/prop_file.html:266
-msgid "Bulgaria"
-msgstr "Bulgarie"
-
-#: templates/static_pages/prop_file.html:267
-msgid "Serbia"
-msgstr "Serbie"
-
-#: templates/static_pages/prop_file.html:268
-msgid "Slovenia"
-msgstr "Slovénie"
-
-#: templates/static_pages/prop_file.html:269
-msgid "Switzerland"
-msgstr "Suisse"
-
-#: templates/static_pages/prop_file.html:270
-msgid "United Kingdom"
-msgstr "Royaume-Uni"
-
-#: templates/static_pages/prop_file.html:271
-msgid "Czech Republic"
-msgstr "République tchèque"
-
-#: templates/static_pages/prop_file.html:272
-msgid "Cyprus"
-msgstr "Chypre"
-
-#: templates/static_pages/prop_file.html:273
-msgid "Estonia"
-msgstr "Estonie"
-
-#: templates/static_pages/prop_file.html:274
-msgid "Latvia"
-msgstr "Lettonie"
-
-#: templates/static_pages/prop_file.html:275
-msgid "Lithuania"
-msgstr "Lituanie"
-
-#: templates/static_pages/prop_file.html:276
-msgid "Hungary"
-msgstr "Hongrie"
-
-#: templates/static_pages/prop_file.html:277
-msgid "Malta"
-msgstr "Malte"
-
-#: templates/static_pages/prop_file.html:278
-msgid "Poland"
-msgstr "Pologne"
-
-#: templates/static_pages/prop_file.html:279
-msgid "Slovakia"
-msgstr "Slovaquie"
-
-#: templates/static_pages/prop_file.html:280
-msgid "Spain"
-msgstr "Espagne"
-
-#: templates/static_pages/prop_file.html:281
-msgid "Belgium"
-msgstr "Belgique"
-
-#: templates/static_pages/prop_file.html:282
-msgid "Iceland"
-msgstr "Islande"
-
-#: templates/static_pages/prop_file.html:283
-msgid "Norway"
-msgstr "Norvège"
-
-#: templates/static_pages/prop_file.html:284
-msgid "Sweden"
-msgstr "Suède"
-
-#: templates/static_pages/prop_file.html:285
-msgid "Liechtenstein"
-msgstr "Liechtenstein"
-
-#: templates/static_pages/prop_file.html:286
-msgid "Luxembourg"
-msgstr "Luxembourg"
-
-#: templates/static_pages/prop_file.html:287
-msgid "Greece"
-msgstr "Grèce"
-
-#: templates/static_pages/prop_file.html:289
-msgid "Subject cloud"
-msgstr "Sujet"
-
-#: templates/static_pages/prop_file.html:290
-msgid "Did you mean"
-msgstr "Plus de résultats sur"
-
-#: templates/static_pages/prop_file.html:291
-msgid ""
-"Paintings, music, films and books from Europe's galleries, libraries, "
-"archives and museums."
-msgstr ""
-"Peintures, musique, films et livres des galeries, des bibliothèques, des "
-"archives et des musées d’Europe."
-
-#: templates/static_pages/prop_file.html:292
-msgid "Data provider"
-msgstr "Fournisseur"
-
-#: templates/static_pages/prop_file.html:293
-msgid "Europeana rights"
-msgstr "logos Europeana"
-
-#: templates/static_pages/prop_file.html:294
-msgid "Terms of use"
-msgstr "Conditions d'utilisation"
-
-#: templates/static_pages/prop_file.html:295
-msgid "The timeline only shows up to 1000 items relevant to your query."
-msgstr ""
-"La chronologie ne montre que jusqu'à 1000 articles se rapportant à votre "
-"requête."
-
-#: templates/static_pages/prop_file.html:296
-msgid "Timeline view"
-msgstr "Frise chronologique"
-
-#: templates/static_pages/prop_file.html:297
-msgid "Embed"
-msgstr "Intégrer"
-
-#: templates/static_pages/prop_file.html:298
-msgid "Options"
-msgstr "Options"
-
-#: templates/static_pages/prop_file.html:299
-msgid "Embed this object into your own blog or website"
-msgstr "Intégrer cet objet dans votre propre blog ou site Web"
-
-#: templates/static_pages/prop_file.html:300
-msgid ""
-"Paste the HTML source code below to your page. This page itself is an "
-"example of a page that embeds a Europeana object."
-msgstr ""
-"Coller le code source HTML ci-dessous dans votre page. Cette page elle-même "
-"est un exemple d’intégration d’un objet d’Europeana."
-
-#: templates/static_pages/prop_file.html:301
-msgid ""
-"Now this Europeana object becomes a part of your page. Our content providers "
-"tend to improve their objects from time to time. Create an alert on this "
-"object to be notified if this specific object would change."
-msgstr ""
-"Maintenant, cet objet d’Europeana fait partie intégrante de votre page. Nos "
-"fournisseurs de contenus cherchent parfois à améliorer les objets qu’ils "
-"mettent à votre disposition. Créez une alerte sur cet objet pour être "
-"informé de tout changement concernant cet objet. Maintenant, cet objet "
-"d’Europeana fait partie intégrante de votre page. Nos fournisseurs de "
-"contenus cherchent parfois à améliorer les objets qu’ils mettent à votre "
-"disposition. Créez une alerte sur cet objet pour être informé de tout "
-"changement concernant cet objet."
-
-#: templates/static_pages/prop_file.html:302
-msgid "Preview it customized"
-msgstr "Prévisualisation personnalisée"
-
-#: templates/static_pages/prop_file.html:303
-msgid "Create notification for this item"
-msgstr "Créer un avis pour cet objet"
-
-#: templates/static_pages/prop_file.html:304
-msgid ""
-"Log in to My Europeana and set an alert to be notified of updates, such as "
-"the publication of more metadata for this object."
-msgstr ""
-"Ouvrez une session dans Mon Europeana et paramétrez une alerte pour être "
-"informé des mises à jour comme la publication de métadonnées supplémentaires "
-"pour cet objet"
-
-#: templates/static_pages/prop_file.html:305
-msgid ""
-"By using the embed function you accept and agree to the Europeana Terms of "
-"Use"
-msgstr ""
-"En utilisant la fonction intégrer vous acceptez et souscrivez aux conditions "
-"d'utilisation d'Europeana"
-
-#: templates/static_pages/prop_file.html:306
-msgid "Maximal number of text lines:"
-msgstr "Nombre maximal de lignes de texte :"
-
-#: templates/static_pages/prop_file.html:307
-msgid "orientation:"
-msgstr "orientation"
-
-#: templates/static_pages/prop_file.html:308
-msgid "portrait"
-msgstr "Portrait"
-
-#: templates/static_pages/prop_file.html:309
-msgid "landscape"
-msgstr "Paysage"
-
-#: templates/static_pages/prop_file.html:310
-msgid "Refine Search"
-msgstr "Affinage de la requête"
-
-#: templates/static_pages/prop_file.html:311
-msgid "By Rights"
-msgstr "Par droits"
-
-#: templates/static_pages/prop_file.html:312
-#: templates/static_pages/usingeuropeana_search.html:59
-msgid "By copyright"
-msgstr "Par copyright"
-
-#: templates/static_pages/prop_file.html:313
-msgid "Free Access"
-msgstr "Accès libre"
-
-#: templates/static_pages/prop_file.html:314
-msgid "Restricted Access"
-msgstr "Accès restreint"
-
-#: templates/static_pages/prop_file.html:315
-msgid "Paid Access"
-msgstr "Accès payant"
-
-#: templates/static_pages/prop_file.html:316
-msgid "Public Domain"
-msgstr "Europeana - Déclaration sur la protection des données privées"
-
-#: templates/static_pages/prop_file.html:317
-msgid "Unknown"
-msgstr "Inconnu"
-
-#: templates/static_pages/prop_file.html:318
-msgid "Not all objects show rights information"
-msgstr ""
-"Certains objets peuvent ne pas présenter les informations relatives aux "
-"droits les concernant"
-
-#: templates/static_pages/prop_file.html:319
-msgid "Translate with:"
-msgstr "Traduire par"
-
-#: templates/static_pages/prop_file.html:320
-msgid "Search line value with:"
-msgstr "Rechercher une ligne contenant :"
-
-#: templates/static_pages/prop_file.html:321
-msgid ""
-"Access External Search Services or Translate a fields content where you see "
-"the marker by double clicking the fields value."
-msgstr ""
-"Pour accéder aux services externes de recherche ou traduire le contenu d’un "
-"champ, double-cliquez sur la valeur du champ lorsque vous voyez le marqueur "
-"correspondant."
-
-#: templates/static_pages/prop_file.html:322
-msgid ""
-"ESS allows you to translate an individual fields contents or search for an "
-"individual line on an external search service to access additional relevant "
-"information."
-msgstr ""
-"ESS vous permet de traduire les contenus des différents champs ou de "
-"rechercher une ligne particulière auprès d’un service externe de recherche "
-"(SER) afin d’accéder à des informations utiles complémentaires."
-
-#: templates/static_pages/prop_file.html:323
-msgid "indicates ESS services are available"
-msgstr "signale que des services SER sont disponibles"
-
-#: templates/static_pages/prop_file.html:324
-msgid "indicates ESS services are not available"
-msgstr "signale qu’aucun service SER n’est disponible"
-
-#: templates/static_pages/prop_file.html:325
-msgid "Search term(s)"
-msgstr "Termes recherchés"
-
-#: templates/static_pages/prop_file.html:326
-msgid "Search facet"
-msgstr "Recherche facette"
-
-#: templates/static_pages/prop_file.html:327
-msgid "Search operator"
-msgstr "Opérateur booléen"
-
-#: templates/static_pages/prop_file.html:328
-msgid "Back to top"
-msgstr "Retourner en haut de la page"
-
-#: templates/static_pages/prop_file.html:329
-msgid "Click to search for this term in external services"
-msgstr "Cliquez pour rechercher ce terme auprès des services externes"
-
-#: templates/static_pages/prop_file.html:330
-#: templates/static_pages/prop_file.html:332
-#, fuzzy
-msgid "Remote Search Widget"
-msgstr "Affinage de la requête"
-
-#: templates/static_pages/prop_file.html:331
-msgid ""
-"You can use the link below to create a customized plugin for inclusion in "
-"your own website with the ability to search through the collections on the "
-"Europeana portal."
-msgstr ""
-"Vous pouvez utiliser le lien ci-dessous pour créer un plugin personnalisé "
-"sur votre propre site Web qui vous permettra d’effectuer des recherches dans "
-"toutes les collections du portail Europeana."
-
-#: templates/static_pages/prop_file.html:333
-#, fuzzy
-msgid "Europeana Search Widget"
-msgstr "logos Europeana"
-
-#: templates/static_pages/prop_file.html:336
-#, fuzzy
-msgid "What is Europeana's remote search widget?"
-msgstr "Qu'est-ce Mon Europeana?"
-
-#: templates/static_pages/prop_file.html:337
-msgid ""
-"The remote search widget is a tailored plugin to search on and display items "
-"from Europeana's collections and those of their contributors within your own "
-"website."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:338
-msgid "What is a plugin?"
-msgstr "Qu'est ce qu'un plugin?"
-
-#: templates/static_pages/prop_file.html:339
-msgid ""
-"The plugin is simply a piece of generated code that can be copied and pasted "
-"into one of the webpages on your own site."
-msgstr ""
-"Ce plugin se présente sous la forme d’un simple code que vous pouvez copier "
-"et coller dans l’une des pages Web de votre site."
-
-#: templates/static_pages/prop_file.html:340
-msgid "What will the plugin look like?"
-msgstr "A quoi ressemblera le plugin?"
-
-#: templates/static_pages/prop_file.html:341
-msgid ""
-"The working plugin is shown on the right hand side of the screen. Making "
-"changes and selecting preview will let you see those changes in action."
-msgstr ""
-"Le plugin actif s’affiche à droite de l’écran. Si vous effectuez une "
-"modification et sélectionnez la prévisualisation (preview), vous pourrez "
-"voir cette modification en action."
-
-#: templates/static_pages/prop_file.html:342
-msgid "How do I add the plugin into my own site?"
-msgstr "Comment faire pour ajouter le plugin à mon propre site ?"
-
-#: templates/static_pages/prop_file.html:343
-msgid "Select options from the menu below"
-msgstr "Sélectionnez les options dans le menu ci-dessous"
-
-#: templates/static_pages/prop_file.html:344
-msgid ""
-"Click on 'Preview' to see the changes in the right hand side of the screen"
-msgstr ""
-"Cliquez sur « Preview » (prévisualisation) pour voir les modifications à "
-"droite de l’écran."
-
-#: templates/static_pages/prop_file.html:345
-msgid ""
-"Check the box to say you have read and agree with the terms and conditions"
-msgstr ""
-"Cochez la case pour confirmer que vous avez lu les conditions générales et "
-"que vous les acceptez."
-
-#: templates/static_pages/prop_file.html:346
-msgid "Click 'Generate Code'"
-msgstr "Cliquer sur 'Générer code'"
-
-#: templates/static_pages/prop_file.html:347
-msgid "Copy the code from under 'Code for plugin:'"
-msgstr "Copiez le code en dessous de « Code for plugin: » (code du plugin :)"
-
-#: templates/static_pages/prop_file.html:348
-msgid "Open a webpage on your own site in a text editor"
-msgstr "Utilisez un éditeur de texte pour ouvrir une page Web de votre site"
-
-#: templates/static_pages/prop_file.html:349
-msgid "Paste the code into the page and save the changes"
-msgstr "Collez le code dans la page et sauvegardez les modifications"
-
-#: templates/static_pages/prop_file.html:350
-msgid "Open your web page in a browser to see the plugin working"
-msgstr ""
-"Ouvrez votre page Web dans un navigateur pour voir comment le plugin "
-"fonctionne"
-
-#: templates/static_pages/prop_file.html:351
-msgid "How can I change the position of the plugin?"
-msgstr "Comment faire pour modifier l'emplacement du plugin ?"
-
-#: templates/static_pages/prop_file.html:352
-msgid ""
-"The plugin can be nested within an HTML table but the easiest way is to use "
-"cascading stylesheets css. The plugin is surrounded in a div with the id "
-"swEuropeanaRemoteWidget and its position can be changed by changing the css "
-"properties for this div."
-msgstr ""
-"Le plugin peut être intégré dans un tableau HTML mais le plus simple "
-"consiste à utiliser des feuilles de style en cascade au format CSS. Le "
-"plugin est entouré d’une balise DIV avec l’identifiant "
-"swEuropeanaRemoteWidget et vous pouvez modifier sa position en changeant les "
-"propriétés CSS de cette balise."
-
-#: templates/static_pages/prop_file.html:353
-msgid "Background colour"
-msgstr "Couleur de fond"
-
-#: templates/static_pages/prop_file.html:354
-msgid "Media type tab colour"
-msgstr "Couleur de l’onglet Type de média "
-
-#: templates/static_pages/prop_file.html:355
-msgid "Text colour"
-msgstr "Couleur du texte"
-
-#: templates/static_pages/prop_file.html:356
-msgid "Default language"
-msgstr "Langue par défaut"
-
-#: templates/static_pages/prop_file.html:357
-msgid "Default search term"
-msgstr "Termes de recherche par défaut"
-
-#: templates/static_pages/prop_file.html:358
-msgid "Media Types"
-msgstr "Types de média"
-
-#: templates/static_pages/prop_file.html:359
-#: templates/static_pages/usingeuropeana_searchwidget.html:30
-msgid "Providers"
-msgstr "Fournisseurs"
-
-#: templates/static_pages/prop_file.html:360
-#, fuzzy
-msgid "Europeana attribution"
-msgstr "Expositions Europeana"
-
-#: templates/static_pages/prop_file.html:361
-msgid "Widget Code: (To be copied and pasted into your website)"
-msgstr "Code du Widget : (à copier-coller dans votre site Web)"
-
-#: templates/static_pages/prop_file.html:363
-msgid "Generate Code"
-msgstr "Générer un code"
-
-#: templates/static_pages/prop_file.html:364
-msgid "Powered By Europeana"
-msgstr "Alimenté par Europeana"
-
-#: templates/static_pages/prop_file.html:365
-#: templates/static_pages/prop_file.html:874
-msgid "Europeana Blog"
-msgstr "Blog Europeana"
-
-#: templates/static_pages/prop_file.html:366
-msgid "Virtual Exhibitions"
-msgstr "Expositions virtuelles"
-
-#: templates/static_pages/prop_file.html:367
-#: templates/static_pages/usingeuropeana_results.html:41
-msgid "Cite on Wikipedia"
-msgstr "Citer sur Wikipedia"
-
-#: templates/static_pages/prop_file.html:368
-msgid "Click to cite this object"
-msgstr "Cliquer pour citer cet objet "
-
-#: templates/static_pages/prop_file.html:369
-msgid "Use"
-msgstr "Utiliser"
-
-#: templates/static_pages/prop_file.html:370
-msgid "Harvard Bibliographic Style"
-msgstr "Style bibliographique Harvard"
-
-#: templates/static_pages/prop_file.html:371
-msgid "This record can be cited in the"
-msgstr "Cet enregistrement peut être cité dans le "
-
-#: templates/static_pages/prop_file.html:372
-msgid "style using the text below:"
-msgstr "style utilisant le texte ci-dessous :"
-
-#: templates/static_pages/prop_file.html:373
-msgid "Harvard Bibliographic"
-msgstr "Renvoi bibliographique Harvard "
-
-#: templates/static_pages/prop_file.html:374
-msgid "Close"
-msgstr "Fermer"
-
-#: templates/static_pages/prop_file.html:375
-msgid "Show Auto-tags"
-msgstr "Montrer les étiquettes automatiques"
-
-#: templates/static_pages/prop_file.html:376
-msgid "Hide Auto-tags"
-msgstr "Masquer les étiquettes automatiques"
-
-#: templates/static_pages/prop_file.html:377
-msgid "Automatically added semantic tags"
-msgstr "Etiquettes sémantiques ajoutées automatiquement"
-
-#: templates/static_pages/prop_file.html:378
-msgid "Place Term"
-msgstr "Mettre le terme "
-
-#: templates/static_pages/prop_file.html:379
-msgid "Place Label"
-msgstr "Mettre le label"
-
-#: templates/static_pages/prop_file.html:380
-msgid "Geo Space"
-msgstr "Geo Space"
-
-#: templates/static_pages/prop_file.html:381
-msgid "Place Broader Term"
-msgstr "Mettre un terme générique"
-
-#: templates/static_pages/prop_file.html:382
-#, fuzzy
-msgid "Place Broader Label"
-msgstr "Mettre un terme générique"
-
-#: templates/static_pages/prop_file.html:383
-msgid "Period Term"
-msgstr "Terme de période"
-
-#: templates/static_pages/prop_file.html:384
-#, fuzzy
-msgid "Period Label"
-msgstr "Terme de période"
-
-#: templates/static_pages/prop_file.html:385
-msgid "Period Begin"
-msgstr "Début de période"
-
-#: templates/static_pages/prop_file.html:386
-msgid "Period End"
-msgstr "Fin de période"
-
-#: templates/static_pages/prop_file.html:387
-#, fuzzy
-msgid "Period Broader Term"
-msgstr "Mettre un terme générique"
-
-#: templates/static_pages/prop_file.html:388
-#, fuzzy
-msgid "Period Broader Label"
-msgstr "Mettre un terme générique"
-
-#: templates/static_pages/prop_file.html:389
-#, fuzzy
-msgid "Concept Term"
-msgstr "Mettre le terme "
-
-#: templates/static_pages/prop_file.html:390
-#, fuzzy
-msgid "Concept Label"
-msgstr "Mettre le label"
-
-#: templates/static_pages/prop_file.html:391
-#, fuzzy
-msgid "Concept Broader Term"
-msgstr "Mettre un terme générique"
-
-#: templates/static_pages/prop_file.html:392
-#, fuzzy
-msgid "Concept Broader Label"
-msgstr "Mettre un terme générique"
-
-#: templates/static_pages/prop_file.html:393
-#, fuzzy
-msgid "Agent Term"
-msgstr "Mettre le terme "
-
-#: templates/static_pages/prop_file.html:394
-#, fuzzy
-msgid "Agent Label"
-msgstr "Mettre le label"
-
-#: templates/static_pages/prop_file.html:399
-#: templates/static_pages/prop_file.html:410
-#: templates/static_pages/prop_file.html:421
-#: templates/static_pages/prop_file.html:431
-#: templates/static_pages/prop_file.html:441
-#: templates/static_pages/prop_file.html:451
-#: templates/static_pages/prop_file.html:460
-#: templates/static_pages/prop_file.html:471
-#: templates/static_pages/prop_file.html:482
-msgid "Featured item"
-msgstr "La sélection"
-
-#: templates/static_pages/prop_file.html:403
-msgid ""
-"Vase with flowers placed on a table in a range of Red-purple, with many grey "
-"accents, deriving from them. Figurative drawing with touches of green, grey "
-"and white background, divided after the white section. The bottom in Golden "
-"ocher, with shadows of blue."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:414
-msgid ""
-"The Ilse Valley, showing the Dr&uuml;beck Abbey Church and the Ilsenburger "
-"Castle. For this painting a stratagem was used, because in reality both "
-"buildings are further apart."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:425
-msgid ""
-"Eadweard James Muybridge was an English photographer important for his "
-"pioneering work in photographic studies of motion and in motion-picture "
-"projection."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:435
-msgid ""
-"The female personification of Europa sits on a horse in a library. In her "
-"hands a sceptre and a cornucopia. She is joined by putti with attributes "
-"that symbolize the Arts and Sciences. In the background are two men in a "
-"workshop."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:445
-msgid ""
-"Floral composition range of Pinks, yellows and greys greys of red. To "
-"highlight crop floral on blue-yellow background. Balanced color of hot and "
-"cold, the flowers in warm colors-background in cool colors. The entire color "
-"Iriz&#259;ri; flowers."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:455
-msgid ""
-"Items of interest in learning depicted with their names. Etching. The card "
-"shows different objects from a Decanter &amp; Tea Chest to a Ladies Toilet."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:464
-msgid ""
-"Toppop is the first weekly program about pop music on the Dutch television. "
-"Notable artists come to the studio - often with bizarre props and sets - to "
-"playback their newest hit. Broadcast on 18 February 1974 by Dutch public "
-"broadcaster AVRO"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:475
-msgid ""
-"Three staff members of the Phoenix brewery at a truck of the company. The "
-"location is not clear. From left to right: J.H. v.d. Berg, m. Dale and j. "
-"Vasquez."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:486
-msgid ""
-"Milk. The natural pick-me-up. This image was used in 1994, during a campaign "
-"for drinking milk in Switzerland. It was created by Advico Young and Rubicam "
-"advertising agency (D&uuml;bendorf) for the Central Association of Swiss "
-"Milk Producers"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:493
-#: templates/static_pages/prop_file.html:502
-#, fuzzy
-msgid "New &amp; Improved - Europeana 1914-1918"
-msgstr "Explorer Europeana 1914-1918"
-
-#: templates/static_pages/prop_file.html:503
-msgid ""
-"Take a look at the new and improved Europeana 1914-1918 website and browse "
-"the most important pan-European collection of original First World War "
-"source material."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:504
-msgid "Browse website"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:508
-#: templates/static_pages/prop_file.html:517
-msgid "Survey - Win an Android Tablet"
-msgstr "Sondage – Gagnez une tablette Android"
-
-#: templates/static_pages/prop_file.html:518
-msgid ""
-"Speak up and let us know what you think of this website. Take our 5 minute "
-"survey and you'll be entered into a prize draw to win a Google Nexus 10 "
-"Android tablet."
-msgstr ""
-"Faites nous savoir ce que vous pensez de ce site ! Renseignez ce bref "
-"sondage et vous gagnerez peut-être une tablette Google Nexus 10 Android "
-"grâce à notre tirage au sort."
-
-#: templates/static_pages/prop_file.html:519
-msgid "Take survey"
-msgstr "Participer au sondage"
-
-#: templates/static_pages/prop_file.html:532
-#: templates/static_pages/prop_file.html:533
-#: templates/static_pages/sitemap.html:97
-#, fuzzy
-msgid "Terms of Use &amp; Policies"
-msgstr "Conditions & politiques"
-
-#: templates/static_pages/prop_file.html:540
-#: templates/static_pages/prop_file.html:541
-msgid "Language Policy"
-msgstr "Politique en matière de langue"
-
-#: templates/static_pages/prop_file.html:544
-#: templates/static_pages/prop_file.html:545
-#: templates/static_pages/sitemap.html:126
-msgid "Contact"
-msgstr "Contacts"
-
-#: templates/static_pages/prop_file.html:548
-#: templates/static_pages/prop_file.html:549
-#: templates/static_pages/prop_file.html:959
-#: templates/static_pages/prop_file.html:960
-#: templates/static_pages/sitemap.html:11
-msgid "Home"
-msgstr "Accueil"
-
-#: templates/static_pages/prop_file.html:600
 #: templates/static_pages/sitemap.html:31
 #: templates/static_pages/usingeuropeana_searchwidget.html:9
 msgid "How to configure your search widget"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:601
-msgid "How to configure your search widhet"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:612
-#: templates/static_pages/prop_file.html:613
-msgid "Press Room"
-msgstr "Espace Presse"
-
-#: templates/static_pages/prop_file.html:644
-#: templates/static_pages/prop_file.html:645
-msgid "Pinterest"
-msgstr "Pinterest"
-
-#: templates/static_pages/prop_file.html:652
-#: templates/static_pages/prop_file.html:653
-#: templates/static_pages/prop_file.html:658
-msgid "Explore Europe's cultural collections"
-msgstr "Explorez les collections culturelles d' Europe"
-
-#: templates/static_pages/prop_file.html:656
-#: templates/static_pages/prop_file.html:657
-msgid "Access professional knowledge"
-msgstr "Accédez à l'espace professionnel "
-
-#: templates/static_pages/prop_file.html:659
-msgid "Social media activities"
-msgstr "Activités liées aux réseaux sociaux"
-
-#: templates/static_pages/prop_file.html:660
-msgid "From the blog"
-msgstr "En direct du blog "
-
-#: templates/static_pages/prop_file.html:661
-msgid "Filter your search"
-msgstr "Affinage de la requête"
-
-#: templates/static_pages/prop_file.html:662
-msgid "Grid view"
-msgstr "Vue grille"
-
-#: templates/static_pages/prop_file.html:663
-msgid ""
-"We apologize; there was a problem retrieving the search results from the "
-"server. Please try again later"
-msgstr ""
-"Veuillez nous excuser : les résultats de votre recherche sur le serveur "
-"n’ont pas pu être récupérés. Nous vous remercions de réessayer plus tard"
-
-#: templates/static_pages/prop_file.html:664
-msgid "Similar items"
-msgstr "Objets similaires"
-
-#: templates/static_pages/prop_file.html:665
-msgid "Loading ..."
-msgstr "Chargement en cours ..."
-
-#: templates/static_pages/prop_file.html:666
-#: templates/static_pages/usingeuropeana_results.html:42
-msgid "Translate details"
-msgstr "Traduire la description"
-
-#: templates/static_pages/prop_file.html:667
-msgid "Return to search results"
-msgstr "Retour aux resultats de la recherche"
-
-#: templates/static_pages/prop_file.html:668
-msgid "Next search result"
-msgstr "prochain résultat de la recherche"
-
-#: templates/static_pages/prop_file.html:669
-msgid "Something went wrong!"
-msgstr "Un incident s’est produit !"
-
-#: templates/static_pages/prop_file.html:670
-msgid "An email has been sent to inform our technical staff"
-msgstr "Un mél a été envoyé pour informer notre équipe technique "
-
-#: templates/static_pages/prop_file.html:671
-msgid "Please try another search"
-msgstr "Affinage de la requête"
-
-#: templates/static_pages/prop_file.html:672
-msgid "Saved search removed successfully"
-msgstr "La recherche enregistrée a été correctement supprimée"
-
-#: templates/static_pages/prop_file.html:673
-#: templates/static_pages/prop_file.html:686
-msgid "Saved item removed successfully"
-msgstr "L’objet enregistré a été correctement supprimé"
-
-#: templates/static_pages/prop_file.html:674
-msgid "Saved tag removed successfully"
-msgstr "L’étiquette enregistrée a été correctement supprimée"
-
-#: templates/static_pages/prop_file.html:675
-msgid "An error occurred"
-msgstr "Une erreur s’est produite"
-
-#: templates/static_pages/prop_file.html:676
-msgid "The item could not be removed"
-msgstr "L'objet n'a pas pu être retiré"
-
-#: templates/static_pages/prop_file.html:677
-msgid "Auto-generated tags"
-msgstr "Etiquettes générées automatiquement"
-
-#: templates/static_pages/prop_file.html:678
-msgid "Request"
-msgstr "Demande"
-
-#: templates/static_pages/prop_file.html:679
-#: templates/static_pages/prop_file.html:682
-msgid "Legend"
-msgstr "Légende"
-
-#: templates/static_pages/prop_file.html:680
-msgid "See less"
-msgstr "Voir moins"
-
-#: templates/static_pages/prop_file.html:681
-msgid "See more"
-msgstr "Voir plus"
-
-#: templates/static_pages/prop_file.html:683
-msgid "Explore further"
-msgstr "Explorer plus avant"
-
-#: templates/static_pages/prop_file.html:684
-msgid "Return to original language"
-msgstr "Retour à la langue d'origine"
-
-#: templates/static_pages/prop_file.html:685
-msgid "Attention: this item has been withdrawn by the provider."
-msgstr "Attention : Cet article a été retiré par son fournisseur."
-
-#: templates/static_pages/prop_file.html:687
-msgid ""
-"We apologise; there was a problem retrieving the data from the server. "
-"Please try again later."
-msgstr ""
-"Veuillez nous excuser : les données du serveur n’ont pas pu être récupérées. "
-"Nous vous remercions de réessayer plus tard."
-
-#: templates/static_pages/prop_file.html:688
-msgid "Preview"
-msgstr "aperçu"
-
-#: templates/static_pages/prop_file.html:689
-msgid "Return to timeline"
-msgstr "Frise chronologique"
-
-#: templates/static_pages/prop_file.html:690
-msgid "This email address does not yet exist in our database"
-msgstr ""
-"Cette adresse de courrier électronique n’existe pas encore dans notre base "
-"de données"
-
-#: templates/static_pages/prop_file.html:691
-msgid "Your password change has been successfully completed"
-msgstr "La modification de votre mot de passe a été effectuée avec succès"
-
-#: templates/static_pages/prop_file.html:692
-msgid "Zoom"
-msgstr "Zoom"
-
-#: templates/static_pages/prop_file.html:693
-msgid "Zoom in"
-msgstr "Zoom avant"
-
-#: templates/static_pages/prop_file.html:694
-msgid "Zoom out"
-msgstr "Zoom arrière"
-
-#: templates/static_pages/prop_file.html:695
-msgid "Choose from different map types"
-msgstr "Choisissez l’un des types de cartes"
-
-#: templates/static_pages/prop_file.html:696
-msgid ""
-"Navigate map: click and hold left mouse-button, then move mouse to change "
-"the view"
-msgstr ""
-"Pour parcourir la carte : cliquez et maintenez le bouton gauche de la souris "
-"puis déplacez-la pour changer de point de vue"
-
-#: templates/static_pages/prop_file.html:697
-msgid ""
-"Select via freeform: add anchor points with left mouse-click, double click "
-"to finish the shape"
-msgstr ""
-"Sélectionnez en dessinant une forme libre : cliquez à gauche pour ajouter "
-"des points d’ancrage, double-cliquez pour terminer la forme"
-
-#: templates/static_pages/prop_file.html:698
-msgid "Google Satellite"
-msgstr "Google Satellite"
-
-#: templates/static_pages/prop_file.html:699
-msgid "Google Hybrid"
-msgstr "Google Hybrid"
-
-#: templates/static_pages/prop_file.html:700
-msgid "Google Street"
-msgstr "Google Street"
-
-#: templates/static_pages/prop_file.html:701
-msgid "Google Physical"
-msgstr "Google Physical"
-
-#: templates/static_pages/prop_file.html:703
-msgid "Tiles courtesy of"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:704
-msgid ""
-"This is your personal space on Europeana. With My Europeana, you can save "
-"your favourite items and searches, and add tags."
-msgstr ""
-"Ceci est votre espace personnel sur Europeana. Mon Europeana vous permet de "
-"sauvegarder vos objets et vos recherches préférés et d’ajouter des "
-"étiquettes."
-
-#: templates/static_pages/prop_file.html:705
-#: templates/static_pages/usingeuropeana_results.html:19
-msgid "3D"
-msgstr "3D"
-
-#: templates/static_pages/prop_file.html:706
-msgid "Download"
-msgstr "Télécharger"
-
-#: templates/static_pages/prop_file.html:707
-#, fuzzy
-msgid "User contributed content"
-msgstr "Contenu lié"
-
-#: templates/static_pages/prop_file.html:708
-msgid "Play"
-msgstr "Lire"
-
-#: templates/static_pages/prop_file.html:709
-msgid "Read"
-msgstr "Lire"
-
-#: templates/static_pages/prop_file.html:710
-#: templates/static_pages/usingeuropeana_results.html:34
-msgid "View"
-msgstr "Regarder"
-
-#: templates/static_pages/prop_file.html:711
-msgid "View larger image"
-msgstr "Agrandir l'image"
-
-#: templates/static_pages/prop_file.html:712
-msgid "Your search result contains no items that have map co-ordinates."
-msgstr ""
-"Le résultat de votre recherche ne contient aucun objet associé à des "
-"coordonnées cartographiques. "
-
-#: templates/static_pages/prop_file.html:713
-msgid "Please try another search."
-msgstr "Veuillez tenter une autre recherche"
-
-#: templates/static_pages/prop_file.html:714
-msgid ""
-"The Europeana map search is still in development and currently doesn't work "
-"in Internet Explorer. We aim to support Internet Explorer in the future. "
-"Currently we recommend you to use Chrome or Firefox."
-msgstr ""
-"La recherche cartographique d’Europeana est en cours de développement : elle "
-"n’est pas encore compatible avec Internet Explorer mais nous prévoyons "
-"qu'elle le devienne à l’avenir. Pour l’instant, nous vous recommandons "
-"d’utiliser Chrome ou Firefox."
-
-#: templates/static_pages/prop_file.html:718
-msgid "Wikipedia Citation"
-msgstr "Citation Wikipedia "
-
-#: templates/static_pages/prop_file.html:719
-msgid "Copy and paste the wiki-markup below:"
-msgstr "Copier-coller la balise Wiki ci-dessous :"
-
-#: templates/static_pages/prop_file.html:726
-#: templates/static_pages/usingeuropeana_search.html:67
-msgid "Include content contributed by users"
-msgstr "Inclus des contenus produits par les utilisateurs"
-
-#: templates/static_pages/prop_file.html:727
-#, fuzzy
-msgid "The map only shows up to 1000 items relevant to your query."
-msgstr ""
-"La chronologie ne montre que jusqu'à 1000 articles se rapportant à votre "
-"requête."
-
-#: templates/static_pages/prop_file.html:728
-msgid "No place name available"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:729
-#, fuzzy
-msgid "The map only shows up to {0} items relevant to your query."
-msgstr ""
-"La chronologie ne montre que jusqu'à 1000 articles se rapportant à votre "
-"requête."
-
-#: templates/static_pages/prop_file.html:730
-msgid "Search within current map view"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:731
-#: templates/static_pages/usingeuropeana_results.html:41
-msgid "Citation"
-msgstr "Citation"
-
-#: templates/static_pages/prop_file.html:732
-#: templates/static_pages/usingeuropeana_results.html:41
-msgid "Footnote"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:733
-#, fuzzy
-msgid "Follow us on"
-msgstr "Suivez-nous"
-
-#: templates/static_pages/prop_file.html:734
-msgid "Unable to find content for this page."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:737
-msgid "Latest on"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:738
-#: templates/static_pages/prop_file.html:979
-#: templates/static_pages/usingeuropeana_search.html:69
-msgid "Share"
-msgstr "Partager"
-
-#: templates/static_pages/prop_file.html:739
-msgid "Share item on Facebook, Twitter, etc."
-msgstr "Partager sur Facebook, Twitter, etc."
-
-#: templates/static_pages/prop_file.html:740
-#, fuzzy
-msgid "Follow us!"
-msgstr "Suivez-nous"
-
-#: templates/static_pages/prop_file.html:741
-msgid "Newsletter sign-up"
-msgstr "Souscrivez à la lettre d'information"
-
-#: templates/static_pages/prop_file.html:742
-#: templates/static_pages/prop_file.html:743
-msgid "Sign-up here"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:744
-#: templates/static_pages/prop_file.html:1000
-msgid "Name"
-msgstr "Nom"
-
-#: templates/static_pages/prop_file.html:745
-msgid "Email Address"
-msgstr "Adresse e-mail"
-
-#: templates/static_pages/prop_file.html:746
-msgid ""
-"Sign-up to receive our bi-monthly newsletter, and occasional announcements."
-msgstr ""
-"Souscrivez et recevez notre lettre d'information bi-mensuelles, et nos "
-"annonces occasionnelles."
-
-#: templates/static_pages/prop_file.html:757
-#: templates/static_pages/prop_file.html:768
-#: templates/static_pages/prop_file.html:779
-#: templates/static_pages/prop_file.html:789
-#: templates/static_pages/prop_file.html:800
-#, fuzzy
-msgid "Featured partner"
-msgstr "La sélection"
-
-#: templates/static_pages/prop_file.html:761
-msgid ""
-"Ateneum Art Museum is home to the largest and most important art collections "
-"in Finland. The museum governs over 20,000 works of art. The most "
-"significant of these is the Antell Collection, a testamentary donation by "
-"the collector H. F. Antell."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:772
-msgid ""
-"The National Gallery of Ireland houses the Irish national collection of "
-"Irish and European art. It is located in the centre of Dublin with one "
-"entrance on Merrion Square, beside Leinster House, and another on Clare "
-"Street. Due to ongoing renovations, the Clare Street entrance is the only "
-"one currently open. It was founded in 1854 and opened its doors ten years "
-"later. The Gallery has an extensive, representative collection of Irish "
-"painting and is also notable for its Italian Baroque and Dutch masters "
-"painting."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:783
-msgid ""
-"One of the oldest and the best museums of the Upper Volga Region, was "
-"founded in 1910. Now the museum houses more than 120 thousand exhibits: from "
-"saurian bones to paintings of famous artists."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:793
-msgid ""
-"Since its founding in 1952 the Hungarian Theatre Museum and Institute has "
-"been collecting the most valuable relics and data of the Hungarian theatre, "
-"bridging the distant beginnings centuries ago with-last night's "
-"performances. A dozen and a half of separate collections enclose the "
-"invaluable traces of the artform most susceptible to evanescence: paintings, "
-"photographs, stage and costume designs, posters, props, video recordings—and "
-"many more..."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:804
-msgid ""
-"Archive Eemland is the historical information centre of Amersfoort and the "
-"Eemland region. The archive manages approximately 3.5 kilometers of "
-"archives, an image collection of 40,000 photographs, a significant "
-"collection of maps, a growing audiovisual collection and a rich historical "
-"library."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:811
-#, fuzzy
-msgid "API function"
-msgstr "Autres fonctions"
-
-#: templates/static_pages/prop_file.html:812
-#, fuzzy
-msgid "Search parameters"
-msgstr "Opérateur booléen"
-
-#: templates/static_pages/prop_file.html:813
-#, fuzzy
-msgid "Search term"
-msgstr "Termes recherchés"
-
-#: templates/static_pages/prop_file.html:814
-msgid "Refinement term(s)"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:815
-msgid "Profile"
-msgstr "Profile"
-
-#: templates/static_pages/prop_file.html:816
-msgid "Number of records to retrieve"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:817
-msgid "First record to retrieve"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:818
-#, fuzzy
-msgid "Record parameters"
-msgstr "Opérateur booléen"
-
-#: templates/static_pages/prop_file.html:819
-msgid "Record id"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:820
-#, fuzzy
-msgid "Request URL"
-msgstr "Demande"
-
-#: templates/static_pages/prop_file.html:821
-msgid "JSON response"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:823
-#, fuzzy
-msgid "Search also for:"
-msgstr "Opérateur booléen"
-
-#: templates/static_pages/prop_file.html:825
-msgid "Who"
-msgstr "Qui"
-
-#: templates/static_pages/prop_file.html:826
-msgid "What"
-msgstr "Quoi"
-
-#: templates/static_pages/prop_file.html:828
-#, fuzzy
-msgid "api-introduction.html"
-msgstr "Introduction"
-
-#: templates/static_pages/prop_file.html:831
-#: templates/static_pages/prop_file.html:835
-#: templates/static_pages/prop_file.html:839
-#: templates/static_pages/prop_file.html:843
-msgid "_self"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:832
-msgid "rights/terms-and-policies.html"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:833
-#: templates/static_pages/prop_file.html:834
-#, fuzzy
-msgid "Terms of use &amp; Policies"
-msgstr "Conditions & politiques"
-
-#: templates/static_pages/prop_file.html:836
-#, fuzzy
-msgid "contact.html"
-msgstr "Contacts"
-
-#: templates/static_pages/prop_file.html:840
-#, fuzzy
-msgid "sitemap.html"
-msgstr "Plan du site"
-
-#: templates/static_pages/prop_file.html:845
-#: templates/static_pages/usingeuropeana_myeuropeana.html:17
-msgid "API keys"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:846
-#, fuzzy
-msgid "No API key"
-msgstr "Retirer"
-
-#: templates/static_pages/prop_file.html:847
-#, fuzzy
-msgid "API key"
-msgstr "Retirer"
-
-#: templates/static_pages/prop_file.html:848
-msgid "Private key"
-msgstr "Clé privée"
-
-#: templates/static_pages/prop_file.html:849
-msgid "Usage limit"
-msgstr "Usage limité"
-
-#: templates/static_pages/prop_file.html:850
-msgid "Role"
-msgstr "Rôle"
-
-#: templates/static_pages/prop_file.html:851
-msgid "Administrator's page"
-msgstr "Page administrateur"
-
-#: templates/static_pages/prop_file.html:852
-#, fuzzy
-msgid "Remove API key"
-msgstr "Retirer"
-
-#: templates/static_pages/prop_file.html:853
-msgid "Limit"
-msgstr "Limite"
-
-#: templates/static_pages/prop_file.html:854
-#, fuzzy
-msgid "Remove user"
-msgstr "Retirer"
-
-#: templates/static_pages/prop_file.html:855
-msgid "Block user"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:856
-msgid "Export API keys to CSV"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:857
-msgid "Export users to CSV"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:858
-msgid "User name"
-msgstr "Nom d'utilisateur"
-
-#: templates/static_pages/prop_file.html:859
-#, fuzzy
-msgid "Registration"
-msgstr "S'enregister à nouveau"
-
-#: templates/static_pages/prop_file.html:861
-msgid "Visit the website of"
-msgstr "Visiter le site internet de"
-
-#: templates/static_pages/prop_file.html:862
-msgid "View the latest content from our partners"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:866
-#: templates/static_pages/prop_file.html:867
-#: templates/static_pages/sitemap.html:15
-msgid "Other Europeana Sites"
-msgstr "Autres sites Europeana"
-
-#: templates/static_pages/prop_file.html:870
-msgid "Europeana Exhibitions"
-msgstr "Expositions Europeana"
-
-#: templates/static_pages/prop_file.html:878
-#: templates/static_pages/sitemap.html:19
-msgid "Europeana 1914-1918"
-msgstr "Europeana 1914-1918"
-
-#: templates/static_pages/prop_file.html:883
-msgid "Remix"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:886
-#: templates/static_pages/sitemap.html:21
-msgid "Europeana Professional"
-msgstr "Europeana Professional"
-
-#: templates/static_pages/prop_file.html:887
-msgid "Professional"
-msgstr "Professionnel"
-
-#: templates/static_pages/prop_file.html:947
-msgid "Change limit for an API key"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:948
-msgid "Company or Institution"
-msgstr "Entreprise ou Institution"
-
-#: templates/static_pages/prop_file.html:949
-msgid "Telephone contact"
-msgstr "Téléphone"
-
-#: templates/static_pages/prop_file.html:950
-msgid "Address"
-msgstr "Adresse"
-
-#: templates/static_pages/prop_file.html:951
-msgid "I confirm that I have read and agree to the"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:952
-msgid "Next in sequence"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:953
-#, fuzzy
-msgid "Date of creation"
-msgstr "Protection des données"
-
-#: templates/static_pages/prop_file.html:954
-#, fuzzy
-msgid "Is part of"
-msgstr "Fait parti de"
-
-#: templates/static_pages/prop_file.html:965
-msgid "Titles"
-msgstr "Titres"
-
-#: templates/static_pages/prop_file.html:966
-msgid "Places"
-msgstr "Lieux"
-
-#: templates/static_pages/prop_file.html:967
-#, fuzzy
-msgid "Dates/Periods"
-msgstr "Date sauvegardée"
-
-#: templates/static_pages/prop_file.html:968
-msgid "Subjects"
-msgstr "Sujets"
-
-#: templates/static_pages/prop_file.html:969
-#, fuzzy
-msgid "Creators"
-msgstr "Créateur"
-
-#: templates/static_pages/prop_file.html:970
-msgid "All fields"
-msgstr "Tous les champs"
-
-#: templates/static_pages/prop_file.html:971
-#, fuzzy
-msgid "Featured Item"
-msgstr "La sélection"
-
-#: templates/static_pages/prop_file.html:972
-#: templates/static_pages/usingeuropeana_explore.html:15
-msgid "Featured Partner"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:973
-#, fuzzy
-msgid "Click here for last page of results"
-msgstr "Cliquer ici pour visualiser les résultats de la page suivante"
-
-#: templates/static_pages/prop_file.html:974
-#: templates/static_pages/usingeuropeana_results.html:24
-msgid "Results per page"
-msgstr "Résultats par page"
-
-#: templates/static_pages/prop_file.html:975
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid "Add more keywords"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:976
-msgid "+ Add"
-msgstr "+ Ajouter"
-
-#: templates/static_pages/prop_file.html:977
-msgid "Field of work"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:978
-#, fuzzy
-msgid "Please, select"
-msgstr "Nous vous invitions à consulter notre"
-
-#: templates/static_pages/prop_file.html:980
-#, fuzzy
-msgid "Please try another search later."
-msgstr "Veuillez tenter une autre recherche"
-
-#: templates/static_pages/prop_file.html:981
-msgid "Unable to find the requested page"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:982
-msgid "Alert:"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:983
-msgid "Unable to find the requested Europeana Record."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:984
-#, fuzzy
-msgid "This item has been withdrawn by the provider."
-msgstr "Attention : Cet article a été retiré par son fournisseur."
-
-#: templates/static_pages/prop_file.html:985
-msgid "Requested Europeana Record is not yet indexed."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:987
-#, fuzzy
-msgid "Please register your email again"
-msgstr "Veuillez entrer une adresse mél. valide"
-
-#: templates/static_pages/prop_file.html:988
-#, fuzzy
-msgid "to finish registration."
-msgstr "Finir l'enregistrement"
-
-#: templates/static_pages/prop_file.html:989
-msgid "Unable to fullfill your request due to malformed query parameters."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:990
-msgid "Unable to get a response from the Search Engine."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:991
-msgid "Unable to fulfill your request due to a malformed query syntax."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:992
-msgid "We are unable to change the interface to the requested language."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:993
-#, fuzzy
-msgid "Please try another language from the dropdown list."
-msgstr "Veuillez tenter une autre recherche"
-
-#: templates/static_pages/prop_file.html:994
-msgid "Number of results shown on the page"
-msgstr "Nombre de résultats sur la page"
-
-#: templates/static_pages/prop_file.html:1001
-msgid "API-key"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:1002
-msgid "Number of calls"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:1004
-#: templates/static_pages/prop_file.html:1005
-msgid "Can I use it?"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:1006
-#, fuzzy
-msgid "Yes, with attribution"
-msgstr "Expositions Europeana"
-
-#: templates/static_pages/prop_file.html:1007
-#, fuzzy
-msgid "Yes, with restrictions"
-msgstr "Expositions Europeana"
-
-#: templates/static_pages/prop_file.html:1008
-msgid "Only with permission"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:1010
-msgid "Export API users to CSV"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:1011
-msgid "Export API users to Excel"
-msgstr ""
-
-#: templates/static_pages/sitemap.html:4
-msgid "Europeana - Sitemap"
-msgstr "Europeana - Plan du site"
-
-#: templates/static_pages/sitemap.html:27
-msgid "Searching in Europeana"
-msgstr "Chercher dans Europeana"
+#: templates/static_pages/sitemap.html:36
+msgid "About us"
+msgstr "A propos "
 
 #: templates/static_pages/sitemap.html:39
 #, fuzzy
@@ -4481,6 +1747,14 @@ msgstr ""
 msgid "Record"
 msgstr ""
 
+#: templates/static_pages/sitemap.html:65
+#: templates/static_pages/usingeuropeana_search.html:21
+#: templates/static_pages/usingeuropeana_search.html:25
+#: templates/static_pages/usingeuropeana_search.html:27
+#: templates/static_pages/usingeuropeana_search.html:45
+msgid "Search"
+msgstr "Recherche "
+
 #: templates/static_pages/sitemap.html:66
 #, fuzzy
 msgid "Suggestions"
@@ -4508,10 +1782,23 @@ msgstr "Europeana - Aide"
 msgid "API1-API2 compatability"
 msgstr ""
 
+#: templates/static_pages/sitemap.html:97
+#, fuzzy
+msgid "Terms of Use &amp; Policies"
+msgstr "Conditions & politiques"
+
 #: templates/static_pages/sitemap.html:104
 #, fuzzy
 msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
 msgstr "Accord d'utilisation des métadonnées Europeana"
+
+#: templates/static_pages/sitemap.html:107
+msgid "Language policy"
+msgstr "Politique en matière de langue"
+
+#: templates/static_pages/sitemap.html:113
+msgid "Rights"
+msgstr "Droits"
 
 #: templates/static_pages/sitemap.html:115
 #, fuzzy
@@ -4544,6 +1831,10 @@ msgstr ""
 msgid "Out of copyright - non commercial reuse"
 msgstr ""
 
+#: templates/static_pages/sitemap.html:126
+msgid "Contact"
+msgstr "Contacts"
+
 #: templates/static_pages/sitemap.html:127
 #, fuzzy
 msgid "Europeana Semantic Elements (ESE)"
@@ -4557,6 +1848,10 @@ msgstr "Métadonnées Europeana"
 #: templates/static_pages/storyline.html:4
 msgid "Europeana - Storyline and credits"
 msgstr "Europeana - Plan et crédits"
+
+#: templates/static_pages/storyline.html:11
+msgid "Storyline and credits"
+msgstr "Plan et crédits"
 
 #: templates/static_pages/storyline.html:13
 msgid "Descartes"
@@ -4989,6 +2284,16 @@ msgstr ""
 "Merci à la Cité de la Musique pour nous avoir permis de l'utiliser comme "
 "base de notre bande son."
 
+#: templates/static_pages/storyline.html:49
+#: templates/static_pages/usingeuropeana_search.html:32
+msgid "Title"
+msgstr "Titre"
+
+#: templates/static_pages/storyline.html:50
+#: templates/static_pages/usingeuropeana_search.html:31
+msgid "Creator"
+msgstr "Créateur"
+
 #: templates/static_pages/storyline.html:51
 msgid "Collection"
 msgstr "Collection"
@@ -5126,6 +2431,10 @@ msgid "in the"
 msgstr "dans le"
 
 #: templates/static_pages/usingeuropeana_explore.html:15
+msgid "Featured Partner"
+msgstr ""
+
+#: templates/static_pages/usingeuropeana_explore.html:15
 msgid "area"
 msgstr ""
 
@@ -5146,6 +2455,10 @@ msgid "and you can"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:14
+msgid "Save this search"
+msgstr "Sauvegarder cette recherche"
+
+#: templates/static_pages/usingeuropeana_myeuropeana.html:14
 msgid ""
 "Keep up to date on a particular topic in Europeana by saving a search, so "
 "you can easily perform it again in future."
@@ -5155,6 +2468,10 @@ msgstr ""
 "revenir ultérieurement."
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:15
+msgid "Add a tag"
+msgstr "Ajouter une étiquette"
+
+#: templates/static_pages/usingeuropeana_myeuropeana.html:15
 msgid ""
 "Label your favourite items in Europeana with tags that mean something to "
 "you. You can then see all objects you have tagged, sorted by the keywords "
@@ -5162,8 +2479,16 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:16
+msgid "Save to My Europeana"
+msgstr "Sauver dans Mon Europeana"
+
+#: templates/static_pages/usingeuropeana_myeuropeana.html:16
 msgid "Store your favourite items for later viewing."
 msgstr "Sauvegardez vos objets favoris pour y revenir ultérieurement"
+
+#: templates/static_pages/usingeuropeana_myeuropeana.html:17
+msgid "API keys"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:17
 msgid ""
@@ -5224,8 +2549,16 @@ msgstr ""
 "cartes, dessins graphiques, des plans et des notes de musique."
 
 #: templates/static_pages/usingeuropeana_results.html:17
+msgid "Video"
+msgstr "Vidéo"
+
+#: templates/static_pages/usingeuropeana_results.html:17
 msgid "films, news broadcasts and television programmes"
 msgstr "films, émissions d'information et émissions de télévision"
+
+#: templates/static_pages/usingeuropeana_results.html:18
+msgid "Sound"
+msgstr "Son"
 
 #: templates/static_pages/usingeuropeana_results.html:18
 msgid ""
@@ -5233,6 +2566,10 @@ msgid ""
 msgstr ""
 "musique et collections sonores de phonogrammes, bandes, disques et émissions "
 "de radio"
+
+#: templates/static_pages/usingeuropeana_results.html:19
+msgid "3D"
+msgstr "3D"
 
 #: templates/static_pages/usingeuropeana_results.html:19
 msgid "virtual 3D representations of objects, architecture or places."
@@ -5259,8 +2596,20 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:24
+msgid "Results per page"
+msgstr "Résultats par page"
+
+#: templates/static_pages/usingeuropeana_results.html:24
 msgid "drop-down list either above or below the results. You can select"
 msgstr ""
+
+#: templates/static_pages/usingeuropeana_results.html:24
+#: templates/static_pages/usingeuropeana_results.html:25
+#: templates/static_pages/usingeuropeana_results.html:41
+#: templates/static_pages/usingeuropeana_results.html:49
+#: templates/static_pages/usingeuropeana_search.html:32
+msgid "or"
+msgstr "ou"
 
 #: templates/static_pages/usingeuropeana_results.html:25
 msgid ""
@@ -5307,6 +2656,10 @@ msgstr ""
 #: templates/static_pages/usingeuropeana_results.html:34
 msgid "hit the magnifying glass"
 msgstr ""
+
+#: templates/static_pages/usingeuropeana_results.html:34
+msgid "View"
+msgstr "Regarder"
 
 #: templates/static_pages/usingeuropeana_results.html:34
 msgid ""
@@ -5358,6 +2711,10 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:41
+msgid "Cite on Wikipedia"
+msgstr "Citer sur Wikipedia"
+
+#: templates/static_pages/usingeuropeana_results.html:41
 msgid ""
 "this function will help you link to Europeana items and cite them in "
 "Wikipedia articles. The code you need is formatted for direct inclusion in "
@@ -5365,10 +2722,22 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:41
+msgid "Citation"
+msgstr "Citation"
+
+#: templates/static_pages/usingeuropeana_results.html:41
+msgid "Footnote"
+msgstr ""
+
+#: templates/static_pages/usingeuropeana_results.html:41
 msgid ""
 "and copy and paste the text provided. To close the citation window, hit the "
 "X in the top right corner."
 msgstr ""
+
+#: templates/static_pages/usingeuropeana_results.html:42
+msgid "Translate details"
+msgstr "Traduire la description"
 
 #: templates/static_pages/usingeuropeana_results.html:42
 msgid ""
@@ -5394,6 +2763,14 @@ msgstr ""
 #: templates/static_pages/usingeuropeana_results.html:49
 msgid "To move to the previous or next item in your search results, hit the"
 msgstr ""
+
+#: templates/static_pages/usingeuropeana_results.html:49
+msgid "Next"
+msgstr "Suivant"
+
+#: templates/static_pages/usingeuropeana_results.html:49
+msgid "Previous"
+msgstr "Précédent"
 
 #: templates/static_pages/usingeuropeana_results.html:49
 msgid "options"
@@ -5536,6 +2913,10 @@ msgstr ""
 "son œuvre en seront exclus."
 
 #: templates/static_pages/usingeuropeana_search.html:32
+msgid "Subject"
+msgstr "Sujet"
+
+#: templates/static_pages/usingeuropeana_search.html:32
 msgid ""
 "followed by a type of item, a subject you are interested in or words from "
 "the title of the item you are looking for. Your search results will display "
@@ -5572,6 +2953,10 @@ msgid ""
 "objects created or held in Milan, excluding items on writer Milan Kundera "
 "from your search results."
 msgstr ""
+
+#: templates/static_pages/usingeuropeana_search.html:34
+msgid "Date"
+msgstr "Date"
 
 #: templates/static_pages/usingeuropeana_search.html:34
 msgid ""
@@ -5669,8 +3054,16 @@ msgstr ""
 "résultats de la recherche. Il suffit de taper votre mot clé dans le"
 
 #: templates/static_pages/usingeuropeana_search.html:49
+msgid "Add more keywords"
+msgstr ""
+
+#: templates/static_pages/usingeuropeana_search.html:49
 msgid "field and hit"
 msgstr "champ et cliquez"
+
+#: templates/static_pages/usingeuropeana_search.html:49
+msgid "Add"
+msgstr "Ajouter"
 
 #: templates/static_pages/usingeuropeana_search.html:49
 msgid "The keyword is displayed at the top of the pane, under"
@@ -5687,6 +3080,12 @@ msgstr ""
 "dans la"
 
 #: templates/static_pages/usingeuropeana_search.html:51
+#: templates/static_pages/usingeuropeana_search.html:63
+#: templates/static_pages/usingeuropeana_search.html:65
+msgid "Matches for"
+msgstr "le formulaire ci-dessous"
+
+#: templates/static_pages/usingeuropeana_search.html:51
 msgid "list."
 msgstr "liste."
 
@@ -5697,6 +3096,13 @@ msgstr "vous pouvez aussi"
 #: templates/static_pages/usingeuropeana_search.html:53
 msgid "filter your search results:"
 msgstr "filtrer vos résultats de recherche:"
+
+#: templates/static_pages/usingeuropeana_search.html:55
+msgid "By media type"
+msgstr ""
+"Par type de média\n"
+"Par type de média\n"
+"Par type de média"
 
 #: templates/static_pages/usingeuropeana_search.html:55
 msgid ""
@@ -5733,6 +3139,10 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:59
+msgid "By copyright"
+msgstr "Par copyright"
+
+#: templates/static_pages/usingeuropeana_search.html:59
 msgid ""
 "will display objects labelled with the selected copyright label(s). This "
 "copyright label indicates how you may reuse the digital object, including "
@@ -5767,6 +3177,10 @@ msgid "You can also select to"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:67
+msgid "Include content contributed by users"
+msgstr "Inclus des contenus produits par les utilisateurs"
+
+#: templates/static_pages/usingeuropeana_search.html:67
 msgid ""
 "This means items that have not come from a cultural institution but from an "
 "individual user, for example, items contributed to the Europeana 1914-1918 "
@@ -5776,6 +3190,10 @@ msgstr ""
 #: templates/static_pages/usingeuropeana_search.html:69
 msgid "Share your search with friends by choosing"
 msgstr ""
+
+#: templates/static_pages/usingeuropeana_search.html:69
+msgid "Share"
+msgstr "Partager"
 
 #: templates/static_pages/usingeuropeana_search.html:69
 msgid ""
@@ -5892,6 +3310,10 @@ msgid ""
 "word and 'Places' as a type. Tap 'Change' next to 'All Fields' and select "
 "the option you need."
 msgstr ""
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:30
+msgid "Providers"
+msgstr "Fournisseurs"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:30
 msgid ""
@@ -6031,6 +3453,1657 @@ msgid ""
 "We would love to know how you are using this search widget, please tell us "
 "by dropping us an email at"
 msgstr ""
+
+#, fuzzy
+#~ msgid ""
+#~ "I understand that My Europeana gives me the opportunity to create tags "
+#~ "for any item I wish. I agree that I will not create any tags that could "
+#~ "be considered libelous, harmful, threatening, unlawful, defamatory,"
+#~ "infringing, abusive, inflammatory, harassing, pornographic, obscene, "
+#~ "fraudulent, invasive of privacy orpublicity rights, hateful, or racially, "
+#~ "ethnically or otherwise objectionable. By clicking this box I agreeto "
+#~ "abide by this agreement, and understand that if I don't my membership of "
+#~ "My Europeana will be terminated."
+#~ msgstr ""
+#~ "J’accepte les conditions sous lesquelles je crée les étiquettes pour les "
+#~ "objets que j’aurai choisis. J'accepte de ne pas créer d'étiquette qui "
+#~ "pourrait être considérée comme diffamatoire, dommageable, préjudiciable, "
+#~ "illégale, calomnieuse, incorrecte, injurieuse, provocatrice, gênante, "
+#~ "pornographique, obscène, malhonnête, haineuse ou raciale d'un point de "
+#~ "vue ethnique ou de toute autre manière qui pourrait être considérée comme "
+#~ "choquante. J’accepte de ne pas créer d’étiquette qui serait susceptible "
+#~ "de porter atteinte au respect de la vie privée ou qui ne pourrait être "
+#~ "diffusé. En cliquant sur cette case, j'accepte de respecter les termes de "
+#~ "l'accord. Dans le cas contraire, mon inscription à Europeana sera "
+#~ "interrompue. CLIQUER POUR ACCEPTER"
+
+#~ msgid "You must agree to our code of conduct to register for My Europeana"
+#~ msgstr ""
+#~ "Vous acceptez notre code de conduite pour vous inscrire sur Mon Europeana"
+
+#~ msgid "I agree"
+#~ msgstr "Images"
+
+#~ msgid "Contributor"
+#~ msgstr "Contributeur"
+
+#~ msgid "Contributors"
+#~ msgstr "Contributeurs"
+
+#~ msgid "Country"
+#~ msgstr "Pays"
+
+#~ msgid "Sector"
+#~ msgstr "Secteur"
+
+#~ msgid "Partner"
+#~ msgstr "Partenaire"
+
+#~ msgid ""
+#~ "This is the network of partners who collaborated to make Europeana "
+#~ "happen, and who represent Europeana in their countries and professional "
+#~ "associations."
+#~ msgstr ""
+#~ "Voici le réseau des partenaires qui ont contibué à créer Europeana et qui "
+#~ "représentent Europeana dans leur pays et dans les associations "
+#~ "professionnelles."
+
+#~ msgid ""
+#~ "These are the organisations that are contributing content - digitised "
+#~ "paintings, books, broadcasts etc. Some of these contributors are  "
+#~ "aggregators*, Culture.fr is the largest aggregator, providing content "
+#~ "from about 480 organisations in France, including the Louvre and the "
+#~ "Musée d’Orsay. The number of organisations contributing to an aggregator "
+#~ "is shown in brackets after the aggregator’s name, e.g. Videoactive (10)"
+#~ msgstr ""
+#~ "Ce sont les organisations qui ont versé les objets numérisés - tableaux, "
+#~ "livres, émissions etc... Certains des contributeurs sont des "
+#~ "agrégateurs*, Culture.fr en est le plus important, fournissant le contenu "
+#~ "de plus de 480 organisations en France, incluant le Louvre et le Musée "
+#~ "d'Orsay. Le nombre d'organisations appartenant à un agrégateur figure "
+#~ "entre parenthèses après celui-ci, comme par exemple Videoactive (10)"
+
+#~ msgid ""
+#~ "*An aggregator collects material from a range of other contributors, "
+#~ "displays it on their own website and also channels it into Europeana."
+#~ msgstr ""
+#~ "*Un agrégateur collecte du contenu provenant d'un éventail d'autres "
+#~ "contributeurs, l'agrégateur apparaît sur le site de ces contributeurs de "
+#~ "la même manière qu'ils sont redirigés dans Europeana."
+
+#~ msgid "This is a required field"
+#~ msgstr "C'est un champ requis"
+
+#~ msgid "Please enter a valid email address"
+#~ msgstr "Veuillez entrer une adresse mél. valide"
+
+#~ msgid "Logged in as"
+#~ msgstr "Ouvrir une session sous"
+
+#~ msgid "Saved items"
+#~ msgstr "Objets sauvegardés"
+
+#~ msgid "Saved searches"
+#~ msgstr "Recherche avancée"
+
+#~ msgid "Saved tags"
+#~ msgstr "Vignettes sauvegardées"
+
+#~ msgid "Saved notifications"
+#~ msgstr "Etiquettes sauvegardées"
+
+#~ msgid "Login"
+#~ msgstr "Connexion"
+
+#~ msgid "Log out"
+#~ msgstr "Déconnexion"
+
+#~ msgid ""
+#~ "Thank you very much for your feedback. If your feedback requires a "
+#~ "response a member of the Europeana team will get back to you as soon as "
+#~ "possible. For faster response feedback should be submitted in English."
+#~ msgstr ""
+#~ "Recevez nos remerciements pour votre remarque. Si votre remarque "
+#~ "nécessite une réponse un membre de l'équipe d'Europeana vous contactera "
+#~ "dès que possible. Pour une réponse plus rapide, veuillez soumettre votre "
+#~ "remarque en anglais."
+
+#~ msgid "Keep me in touch with new developments to Europeana"
+#~ msgstr "Rester en contact avec les nouveaux développements d'Europeana"
+
+#~ msgid "User Conduct"
+#~ msgstr "Code d'utilisation"
+
+#~ msgid ""
+#~ "I understand that My Europeana gives me the opportunity to create tags "
+#~ "for any item I wish. I agree that I will not create any tags that could "
+#~ "be considered libelous, harmful, threatening, unlawful, defamatory, "
+#~ "infringing, abusive, inflammatory, harassing, pornographic, obscene, "
+#~ "fraudulent, invasive of privacy or publicity rights, hateful, or "
+#~ "racially, ethnically or otherwise objectionable. By clicking this box I "
+#~ "agree to abide by this agreement, and understand that if I don't my "
+#~ "membership of My Europeana will be terminated. CLICK TO AGREE"
+#~ msgstr ""
+#~ "J’accepte les conditions sous lesquelles je crée les étiquettes pour les "
+#~ "objets que j’aurai choisis. J'accepte de ne pas créer d'étiquette qui "
+#~ "pourrait être considérée comme diffamatoire, dommageable, préjudiciable, "
+#~ "illégale, calomnieuse, incorrecte, injurieuse, provocatrice, gênante, "
+#~ "pornographique, obscène, malhonnête, haineuse ou raciale d'un point de "
+#~ "vue ethnique ou de toute autre manière qui pourrait être considérée comme "
+#~ "choquante. J’accepte de ne pas créer d’étiquette qui serait susceptible "
+#~ "de porter atteinte au respect de la vie privée ou qui ne pourrait être "
+#~ "diffusé. En cliquant sur cette case, j'accepte de respecter les termes de "
+#~ "l'accord. Dans le cas contraire, mon inscription à Europeana sera "
+#~ "interrompue. CLIQUER POUR ACCEPTER"
+
+#~ msgid "First name"
+#~ msgstr "Prénom"
+
+#~ msgid "Last name"
+#~ msgstr "Dernier amendement"
+
+#~ msgid ""
+#~ "To make optimal use of this website you need to have JavaScript activated"
+#~ msgstr ""
+#~ "Pour avoir une utilisation optimale du site web, vous avez besoin "
+#~ "d'activer Javascript"
+
+#~ msgid "Check the FAQs - they may cover your feedback"
+#~ msgstr "Vérifier les FAQ- ils peuvent contenir une réponse"
+
+#~ msgid "Communities"
+#~ msgstr "Communautés"
+
+#~ msgid "ThoughtLab"
+#~ msgstr "ThoughtLab"
+
+#~ msgid "Choose a language"
+#~ msgstr "Choisir une langue"
+
+#~ msgid "Select language"
+#~ msgstr "Choisir une langue"
+
+#~ msgid "This is Europeana"
+#~ msgstr "Utiliser Europeana"
+
+#~ msgid ""
+#~ "a place for inspiration and ideas. Search through the cultural "
+#~ "collections of Europe, connect to other user pathways and share your "
+#~ "discoveries."
+#~ msgstr ""
+#~ "Une source d'inspiration et d'idées. Recherchez dans le patrimoine "
+#~ "culturel de l'Europe et partagez vos découvertes."
+
+#~ msgid "Find out more"
+#~ msgstr "Plus de résultats sur"
+
+#~ msgid "Reset"
+#~ msgstr "Réinitialiser"
+
+#~ msgid "Advanced search"
+#~ msgstr "Recherche avancée"
+
+#~ msgid "Hide advanced search"
+#~ msgstr "Recherche avancée"
+
+#~ msgid "and"
+#~ msgstr "et"
+
+#~ msgid "not"
+#~ msgstr "ne signifie pas"
+
+#~ msgid "Any field"
+#~ msgstr "Tous les champs"
+
+#~ msgid "Share your ideas"
+#~ msgstr "Partager vos idées"
+
+#~ msgid "Tagging"
+#~ msgstr "Etiquetage"
+
+#~ msgid "Send us feedback"
+#~ msgstr "en nous faisant part de vos suggestions"
+
+#~ msgid "People are currently thinking about"
+#~ msgstr "On pense actuellement à"
+
+#~ msgid "Timeline navigator"
+#~ msgstr "Frise chronologique"
+
+#~ msgid "Browse through time"
+#~ msgstr "Feuilleter dans le temps"
+
+#~ msgid ""
+#~ "From our partner museums, archives, libraries and audio-visual collections"
+#~ msgstr ""
+#~ "de nos partenaires des musées, des centres d'archives, des bibliothèques "
+#~ "et des collections audiovisuelles"
+
+#~ msgid "Using Europeana"
+#~ msgstr "Utiliser Europeana"
+
+#~ msgid "Terms and conditions"
+#~ msgstr "Termes et conditions"
+
+#~ msgid "Contact us"
+#~ msgstr "Nous contacter"
+
+#~ msgid "co-funded by the European Union"
+#~ msgstr "co-financé par l'Union européenne"
+
+#~ msgid "Europeana think culture"
+#~ msgstr "Pensez culture"
+
+#~ msgid "Click here to return to the Europeana homepage"
+#~ msgstr "Cliquer ici pour retourner à la page d'accueil"
+
+#~ msgid "Refine your results"
+#~ msgstr "Affiner les résultats"
+
+#~ msgid "By language of description"
+#~ msgstr "Par la langue de description"
+
+#~ msgid "By providing country"
+#~ msgstr "En fournissant le pays"
+
+#~ msgid "By year"
+#~ msgstr "Par année"
+
+#~ msgid "By user tag"
+#~ msgstr "Par étiquette d'utilisateur"
+
+#~ msgid "By type"
+#~ msgstr "Par type"
+
+#~ msgid "Actions"
+#~ msgstr "Actions"
+
+#~ msgid "Search saved"
+#~ msgstr "Recherche sauvegardée"
+
+#~ msgid "Saving search failed"
+#~ msgstr "Sauvegarde de la recherche échouée"
+
+#~ msgid "You have searched for"
+#~ msgstr "Vous avez recherché sur"
+
+#~ msgid "You are viewing related items"
+#~ msgstr "Visualiser les objets en relation"
+
+#~ msgid "All"
+#~ msgstr "Tous"
+
+#~ msgid "Text"
+#~ msgstr "Textes"
+
+#~ msgid "Image"
+#~ msgstr "Images"
+
+#~ msgid "List view"
+#~ msgstr "Vue de la liste"
+
+#~ msgid "#Table view"
+#~ msgstr "Affichage tableau"
+
+#~ msgid "Page"
+#~ msgstr "page"
+
+#~ msgid "of"
+#~ msgstr "de"
+
+#~ msgid "Click here for previous page of results"
+#~ msgstr "Cliquer ici pour visualiser les résultats de la page précédente"
+
+#~ msgid "Click here for next page of results"
+#~ msgstr "Cliquer ici pour visualiser les résultats de la page suivante"
+
+#~ msgid "Print this page"
+#~ msgstr "Imprimer cette page"
+
+#~ msgid "Click for more information"
+#~ msgstr "Cliquer ici pour plus d'information"
+
+#~ msgid "No items found"
+#~ msgstr "Pas d'objets trouvés"
+
+#~ msgid "Related content"
+#~ msgstr "Contenu lié"
+
+#~ msgid "See all related items"
+#~ msgstr "Voir tous les objets en relation"
+
+#~ msgid "User tags"
+#~ msgstr " "
+
+#~ msgid "Tag added"
+#~ msgstr "vignette ajoutée"
+
+#~ msgid "Tag addition failed"
+#~ msgstr "Echec de l'ajout de l'étiquette"
+
+#~ msgid "Share with a friend"
+#~ msgstr "Partager avec un ami"
+
+#~ msgid "Email address"
+#~ msgstr "Adresse mél."
+
+#~ msgid "Email sent"
+#~ msgstr "mél envoyé"
+
+#~ msgid "Email could not be sent"
+#~ msgstr "le mél. n'a pas pu être envoyé"
+
+#~ msgid "Send"
+#~ msgstr "Sons"
+
+#~ msgid "Item saved"
+#~ msgstr "objet sauvegardé"
+
+#~ msgid "Save item failed"
+#~ msgstr "Sauvegarde échouée"
+
+#~ msgid "Error"
+#~ msgstr "Erreur"
+
+#~ msgid "Error details"
+#~ msgstr "Détails de l'erreur"
+
+#~ msgid "Return to results"
+#~ msgstr "retour aux résultats"
+
+#~ msgid "More"
+#~ msgstr "ou"
+
+#~ msgid "Less"
+#~ msgstr "Moins"
+
+#~ msgid "Items"
+#~ msgstr "Objets"
+
+#~ msgid "Item details"
+#~ msgstr "Description de l'objet"
+
+#~ msgid "View as XML"
+#~ msgstr "Voir en XML"
+
+#~ msgid "View with labels"
+#~ msgstr "Voir avec les labels"
+
+#~ msgid "View without labels"
+#~ msgstr "Voir sans les labels"
+
+#~ msgid "Opens in a new window"
+#~ msgstr "Ouvrir dans une nouvelle fenêtre"
+
+#~ msgid "View in original context"
+#~ msgstr "Voir dans le contexte d'origine"
+
+#~ msgid "Provider"
+#~ msgstr "Fournir un contenu"
+
+#~ msgid "Description"
+#~ msgstr "Description"
+
+#~ msgid "Show all"
+#~ msgstr "Montrer tout"
+
+#~ msgid "Delete"
+#~ msgstr "Effacer"
+
+#~ msgid "No saved items"
+#~ msgstr "Pas d'objet sauvegardé"
+
+#~ msgid "No saved searches"
+#~ msgstr "Recherche avancée"
+
+#~ msgid "No saved tags"
+#~ msgstr "Pas de tags sauvegardés"
+
+#~ msgid "No saved notifications"
+#~ msgstr "Etiquettes sauvegardées"
+
+#~ msgid "Date saved"
+#~ msgstr "Date sauvegardée"
+
+#~ msgid "Remove"
+#~ msgstr "Retirer"
+
+#~ msgid "Welcome to MyEuropeana"
+#~ msgstr "Bienvenu dans MonEuropeana"
+
+#~ msgid "Please click on the following link to confirm your registration"
+#~ msgstr "Veuillez cliquer sur le lien pour confirmer votre inscription"
+
+#~ msgid "The Europeana Team"
+#~ msgstr "L'équipe Europeana"
+
+#~ msgid "Results"
+#~ msgstr "Résultats"
+
+#~ msgid "Invalid query"
+#~ msgstr "Requête invalide"
+
+#~ msgid "This feature is currently disabled."
+#~ msgstr "Cette fonction est actuellement désactivée"
+
+#~ msgid "Password"
+#~ msgstr "Mot de passe"
+
+#~ msgid "Remember me on this computer"
+#~ msgstr "Voulez-vous que Europeana retienne ce mot de passe"
+
+#~ msgid "I forgot my password"
+#~ msgstr "J'ai oublié mon mot de passe"
+
+#~ msgid "Sign in"
+#~ msgstr "Ouvrir une session"
+
+#~ msgid "Register"
+#~ msgstr "S'enregister "
+
+#~ msgid "Register again"
+#~ msgstr "S'enregister à nouveau"
+
+#~ msgid ""
+#~ "An error occurred while trying to process your registration. Please try "
+#~ "again"
+#~ msgstr ""
+#~ "Une erreur s'est produite lors de votre enregistrement. Veuillez "
+#~ "recommencer"
+
+#~ msgid "An email has been sent to the following address"
+#~ msgstr "Un mél. a été envoyé à l'adresse suivante"
+
+#~ msgid ""
+#~ "Please follow the link provided in the email and finish the registration "
+#~ "process"
+#~ msgstr ""
+#~ "Veuillez suivre le lien envoyé sur votre adresse mél pour finir votre "
+#~ "enregistrement."
+
+#~ msgid "Please make sure your email is correctly formatted and try again"
+#~ msgstr ""
+#~ "Veuillez vous assurer de la validité de votre adresse mél et réessayer"
+
+#~ msgid "This email is already registered"
+#~ msgstr "Cette adresse mél est déjà enregistrée"
+
+#~ msgid "Create an account"
+#~ msgstr "Créer un compte"
+
+#~ msgid ""
+#~ "The link you used to complete registration is invalid or has expired."
+#~ msgstr ""
+#~ "Le lien que vous utilisez pour terminer votre inscription est invalide ou "
+#~ "a expiré"
+
+#~ msgid "Enter your email"
+#~ msgstr "Entrer votre adresse mél."
+
+#~ msgid ""
+#~ "You will use your email together with your password to log into the site"
+#~ msgstr ""
+#~ "Vous devez entrer votre adresse mél et votre mot de passe pour vous "
+#~ "ouvrir une session"
+
+#~ msgid "Your username will be displayed when you have logged in"
+#~ msgstr "Votre nom d'utilisateur s'affichera une fois connecté"
+
+#~ msgid "Username"
+#~ msgstr "Nom d’utilisateur"
+
+#~ msgid "is in use. Please choose another username"
+#~ msgstr "déjà utilisé. Veuillez choisir un autre nom d'utilisateur"
+
+#~ msgid "Choose a username"
+#~ msgstr "Choisir un nom d'utilisateur"
+
+#~ msgid "User information"
+#~ msgstr "Aide en ligne"
+
+#~ msgid "Choose a password"
+#~ msgstr "Choisir un mot de passe"
+
+#~ msgid "Passwords must be 6-30 characters in length"
+#~ msgstr "La longueur du mot de passe doit être entre 6-30 caractères"
+
+#~ msgid "Repeat password"
+#~ msgstr "Répéter le mot de passe"
+
+#~ msgid "Finish registration"
+#~ msgstr "Finir l'enregistrement"
+
+#~ msgid "You have successfully registered"
+#~ msgstr "Vous êtes enregistré avec succès"
+
+#~ msgid "English (eng)"
+#~ msgstr "Anglais (eng)"
+
+#~ msgid "Croatian (hrv)"
+#~ msgstr "Croate (hrv)"
+
+#~ msgid "Czech (cze/cse)"
+#~ msgstr "Tchèque (cze/cse)"
+
+#~ msgid "Greek (ell/gre)"
+#~ msgstr "Grec (ell/gre)"
+
+#~ msgid "Estonian (est)"
+#~ msgstr "Estonien (est)"
+
+#~ msgid "Danish (dan)"
+#~ msgstr "Danois (dan)"
+
+#~ msgid "Dutch (dut)"
+#~ msgstr "Néerlandais(dut)"
+
+#~ msgid "Finnish (fin)"
+#~ msgstr "Finlandais (fin)"
+
+#~ msgid "French (fre)"
+#~ msgstr "Français (fre)"
+
+#~ msgid "Galician (glg)"
+#~ msgstr "Galicien (glg)"
+
+#~ msgid "German (deu)"
+#~ msgstr "Allemand (deu)"
+
+#~ msgid "Hungarian (hun)"
+#~ msgstr "Hongrois (hun)"
+
+#~ msgid "Italian (ita)"
+#~ msgstr "Italien (ita)"
+
+#~ msgid "Latvian (lav)"
+#~ msgstr "Letton (lav)"
+
+#~ msgid "Lithuanian (lit)"
+#~ msgstr "Lituanien (lit)"
+
+#~ msgid "Luxemburgish (ltz)"
+#~ msgstr "Luxembourgeois (ltz)"
+
+#~ msgid "Maltese (mlt)"
+#~ msgstr "Maltais (mlt)"
+
+#~ msgid "Norwegian (nor)"
+#~ msgstr "Norvégien (nor)"
+
+#~ msgid "Polish (pol)"
+#~ msgstr "Polonais (pol)"
+
+#~ msgid "Portuguese (por)"
+#~ msgstr "Portugais (por)"
+
+#~ msgid "Romanian (rom)"
+#~ msgstr "Roumain"
+
+#~ msgid "Russian (rus)"
+#~ msgstr "Russe"
+
+#~ msgid "Serbian (scc)"
+#~ msgstr "Serbe (scc)"
+
+#~ msgid "Slovak (slo)"
+#~ msgstr "Slovaque (slo)"
+
+#~ msgid "Slovenian (slv)"
+#~ msgstr "Slovène (slv)"
+
+#~ msgid "Spanish (esp)"
+#~ msgstr "Espagnol (esp)"
+
+#~ msgid "Icelandic (ice)"
+#~ msgstr "Islandais (ice)"
+
+#~ msgid "Swedish (sve/swe)"
+#~ msgstr "Suédois (sve/swe)"
+
+#~ msgid "Turkish (tur)"
+#~ msgstr "Turc (tur"
+
+#~ msgid "Ukrainian (ukr)"
+#~ msgstr "Ukrainien (ukr)"
+
+#~ msgid "Yiddish (yid)"
+#~ msgstr "Yiddish (yid)"
+
+#~ msgid "Other"
+#~ msgstr "Autres"
+
+#~ msgid "Alternative Title"
+#~ msgstr "Autre titre"
+
+#~ msgid "Provenance"
+#~ msgstr "Provenance"
+
+#~ msgid "Is Part of"
+#~ msgstr "Fait parti de"
+
+#~ msgid "Has part"
+#~ msgstr " En tant que"
+
+#~ msgid "Replaces"
+#~ msgstr "pages"
+
+#~ msgid "Is replaced by"
+#~ msgstr "est remplacé par"
+
+#~ msgid "Is referenced by"
+#~ msgstr "est référencé par"
+
+#~ msgid "References"
+#~ msgstr "Références "
+
+#~ msgid "Conforms to"
+#~ msgstr "Est conforme à "
+
+#~ msgid "Requires"
+#~ msgstr "requiert"
+
+#~ msgid "Has format"
+#~ msgstr "le formulaire ci-dessous"
+
+#~ msgid "Is format of"
+#~ msgstr " "
+
+#~ msgid "Geographic coverage"
+#~ msgstr "Couverture géographique"
+
+#~ msgid "Time period"
+#~ msgstr "Période"
+
+#~ msgid "Publication date"
+#~ msgstr "Date de publication"
+
+#~ msgid "Author"
+#~ msgstr "Août"
+
+#~ msgid "Coverage"
+#~ msgstr "Couverture"
+
+#~ msgid "Format"
+#~ msgstr "Format"
+
+#~ msgid "Publisher"
+#~ msgstr "Editeur"
+
+#~ msgid "Identifier"
+#~ msgstr "Nom d’utilisateur"
+
+#~ msgid "Source"
+#~ msgstr "Source"
+
+#~ msgid "Relation"
+#~ msgstr "Contenu lié"
+
+#~ msgid "Type"
+#~ msgstr "Identifiant"
+
+#~ msgid "Austria"
+#~ msgstr "Autriche"
+
+#~ msgid "Croatia"
+#~ msgstr "Croatie"
+
+#~ msgid "Denmark"
+#~ msgstr "Danemark"
+
+#~ msgid "Finland"
+#~ msgstr "Finlande"
+
+#~ msgid "France"
+#~ msgstr "France"
+
+#~ msgid "Germany"
+#~ msgstr "Allemagne"
+
+#~ msgid "Italy-Florence"
+#~ msgstr "Italie-Florence"
+
+#~ msgid "Italy-Rome"
+#~ msgstr "Italie - Rome"
+
+#~ msgid "Ireland"
+#~ msgstr "Irlande"
+
+#~ msgid "Netherlands"
+#~ msgstr "Pays-Bas"
+
+#~ msgid "Portugal"
+#~ msgstr "Portugal"
+
+#~ msgid "Russia - Moscow"
+#~ msgstr "Russie - Moscou"
+
+#~ msgid "Russia - Saint Petersburg"
+#~ msgstr "Russie - Saint Petersbourg"
+
+#~ msgid "Romania"
+#~ msgstr "Roumanie"
+
+#~ msgid "Former Yugoslav Republic Of Macedonia"
+#~ msgstr "Ancienne République yougoslave de Macédoine"
+
+#~ msgid "Ukraine"
+#~ msgstr "Ukraine"
+
+#~ msgid "Moldova"
+#~ msgstr "Moldavie"
+
+#~ msgid "Albania"
+#~ msgstr "Albanie"
+
+#~ msgid "Georgia"
+#~ msgstr "Géorgie"
+
+#~ msgid "Armenia"
+#~ msgstr "Arménie"
+
+#~ msgid "Bosnia and Herzegovina"
+#~ msgstr "Bosnie-Herzégovine"
+
+#~ msgid "Azerbaijan"
+#~ msgstr "Azerbaïdjan"
+
+#~ msgid "Turkey"
+#~ msgstr "Turquie"
+
+#~ msgid "Bulgaria"
+#~ msgstr "Bulgarie"
+
+#~ msgid "Serbia"
+#~ msgstr "Serbie"
+
+#~ msgid "Slovenia"
+#~ msgstr "Slovénie"
+
+#~ msgid "Switzerland"
+#~ msgstr "Suisse"
+
+#~ msgid "United Kingdom"
+#~ msgstr "Royaume-Uni"
+
+#~ msgid "Czech Republic"
+#~ msgstr "République tchèque"
+
+#~ msgid "Cyprus"
+#~ msgstr "Chypre"
+
+#~ msgid "Estonia"
+#~ msgstr "Estonie"
+
+#~ msgid "Latvia"
+#~ msgstr "Lettonie"
+
+#~ msgid "Lithuania"
+#~ msgstr "Lituanie"
+
+#~ msgid "Hungary"
+#~ msgstr "Hongrie"
+
+#~ msgid "Malta"
+#~ msgstr "Malte"
+
+#~ msgid "Poland"
+#~ msgstr "Pologne"
+
+#~ msgid "Slovakia"
+#~ msgstr "Slovaquie"
+
+#~ msgid "Spain"
+#~ msgstr "Espagne"
+
+#~ msgid "Belgium"
+#~ msgstr "Belgique"
+
+#~ msgid "Iceland"
+#~ msgstr "Islande"
+
+#~ msgid "Norway"
+#~ msgstr "Norvège"
+
+#~ msgid "Sweden"
+#~ msgstr "Suède"
+
+#~ msgid "Liechtenstein"
+#~ msgstr "Liechtenstein"
+
+#~ msgid "Luxembourg"
+#~ msgstr "Luxembourg"
+
+#~ msgid "Greece"
+#~ msgstr "Grèce"
+
+#~ msgid "Subject cloud"
+#~ msgstr "Sujet"
+
+#~ msgid "Did you mean"
+#~ msgstr "Plus de résultats sur"
+
+#~ msgid ""
+#~ "Paintings, music, films and books from Europe's galleries, libraries, "
+#~ "archives and museums."
+#~ msgstr ""
+#~ "Peintures, musique, films et livres des galeries, des bibliothèques, des "
+#~ "archives et des musées d’Europe."
+
+#~ msgid "Data provider"
+#~ msgstr "Fournisseur"
+
+#~ msgid "Europeana rights"
+#~ msgstr "logos Europeana"
+
+#~ msgid "Terms of use"
+#~ msgstr "Conditions d'utilisation"
+
+#~ msgid "The timeline only shows up to 1000 items relevant to your query."
+#~ msgstr ""
+#~ "La chronologie ne montre que jusqu'à 1000 articles se rapportant à votre "
+#~ "requête."
+
+#~ msgid "Timeline view"
+#~ msgstr "Frise chronologique"
+
+#~ msgid "Embed"
+#~ msgstr "Intégrer"
+
+#~ msgid "Options"
+#~ msgstr "Options"
+
+#~ msgid "Embed this object into your own blog or website"
+#~ msgstr "Intégrer cet objet dans votre propre blog ou site Web"
+
+#~ msgid ""
+#~ "Paste the HTML source code below to your page. This page itself is an "
+#~ "example of a page that embeds a Europeana object."
+#~ msgstr ""
+#~ "Coller le code source HTML ci-dessous dans votre page. Cette page elle-"
+#~ "même est un exemple d’intégration d’un objet d’Europeana."
+
+#~ msgid ""
+#~ "Now this Europeana object becomes a part of your page. Our content "
+#~ "providers tend to improve their objects from time to time. Create an "
+#~ "alert on this object to be notified if this specific object would change."
+#~ msgstr ""
+#~ "Maintenant, cet objet d’Europeana fait partie intégrante de votre page. "
+#~ "Nos fournisseurs de contenus cherchent parfois à améliorer les objets "
+#~ "qu’ils mettent à votre disposition. Créez une alerte sur cet objet pour "
+#~ "être informé de tout changement concernant cet objet. Maintenant, cet "
+#~ "objet d’Europeana fait partie intégrante de votre page. Nos fournisseurs "
+#~ "de contenus cherchent parfois à améliorer les objets qu’ils mettent à "
+#~ "votre disposition. Créez une alerte sur cet objet pour être informé de "
+#~ "tout changement concernant cet objet."
+
+#~ msgid "Preview it customized"
+#~ msgstr "Prévisualisation personnalisée"
+
+#~ msgid "Create notification for this item"
+#~ msgstr "Créer un avis pour cet objet"
+
+#~ msgid ""
+#~ "Log in to My Europeana and set an alert to be notified of updates, such "
+#~ "as the publication of more metadata for this object."
+#~ msgstr ""
+#~ "Ouvrez une session dans Mon Europeana et paramétrez une alerte pour être "
+#~ "informé des mises à jour comme la publication de métadonnées "
+#~ "supplémentaires pour cet objet"
+
+#~ msgid ""
+#~ "By using the embed function you accept and agree to the Europeana Terms "
+#~ "of Use"
+#~ msgstr ""
+#~ "En utilisant la fonction intégrer vous acceptez et souscrivez aux "
+#~ "conditions d'utilisation d'Europeana"
+
+#~ msgid "Maximal number of text lines:"
+#~ msgstr "Nombre maximal de lignes de texte :"
+
+#~ msgid "orientation:"
+#~ msgstr "orientation"
+
+#~ msgid "portrait"
+#~ msgstr "Portrait"
+
+#~ msgid "landscape"
+#~ msgstr "Paysage"
+
+#~ msgid "Refine Search"
+#~ msgstr "Affinage de la requête"
+
+#~ msgid "By Rights"
+#~ msgstr "Par droits"
+
+#~ msgid "Free Access"
+#~ msgstr "Accès libre"
+
+#~ msgid "Restricted Access"
+#~ msgstr "Accès restreint"
+
+#~ msgid "Paid Access"
+#~ msgstr "Accès payant"
+
+#~ msgid "Public Domain"
+#~ msgstr "Europeana - Déclaration sur la protection des données privées"
+
+#~ msgid "Unknown"
+#~ msgstr "Inconnu"
+
+#~ msgid "Not all objects show rights information"
+#~ msgstr ""
+#~ "Certains objets peuvent ne pas présenter les informations relatives aux "
+#~ "droits les concernant"
+
+#~ msgid "Translate with:"
+#~ msgstr "Traduire par"
+
+#~ msgid "Search line value with:"
+#~ msgstr "Rechercher une ligne contenant :"
+
+#~ msgid ""
+#~ "Access External Search Services or Translate a fields content where you "
+#~ "see the marker by double clicking the fields value."
+#~ msgstr ""
+#~ "Pour accéder aux services externes de recherche ou traduire le contenu "
+#~ "d’un champ, double-cliquez sur la valeur du champ lorsque vous voyez le "
+#~ "marqueur correspondant."
+
+#~ msgid ""
+#~ "ESS allows you to translate an individual fields contents or search for "
+#~ "an individual line on an external search service to access additional "
+#~ "relevant information."
+#~ msgstr ""
+#~ "ESS vous permet de traduire les contenus des différents champs ou de "
+#~ "rechercher une ligne particulière auprès d’un service externe de "
+#~ "recherche (SER) afin d’accéder à des informations utiles complémentaires."
+
+#~ msgid "indicates ESS services are available"
+#~ msgstr "signale que des services SER sont disponibles"
+
+#~ msgid "indicates ESS services are not available"
+#~ msgstr "signale qu’aucun service SER n’est disponible"
+
+#~ msgid "Search term(s)"
+#~ msgstr "Termes recherchés"
+
+#~ msgid "Search facet"
+#~ msgstr "Recherche facette"
+
+#~ msgid "Search operator"
+#~ msgstr "Opérateur booléen"
+
+#~ msgid "Back to top"
+#~ msgstr "Retourner en haut de la page"
+
+#~ msgid "Click to search for this term in external services"
+#~ msgstr "Cliquez pour rechercher ce terme auprès des services externes"
+
+#, fuzzy
+#~ msgid "Remote Search Widget"
+#~ msgstr "Affinage de la requête"
+
+#~ msgid ""
+#~ "You can use the link below to create a customized plugin for inclusion in "
+#~ "your own website with the ability to search through the collections on "
+#~ "the Europeana portal."
+#~ msgstr ""
+#~ "Vous pouvez utiliser le lien ci-dessous pour créer un plugin personnalisé "
+#~ "sur votre propre site Web qui vous permettra d’effectuer des recherches "
+#~ "dans toutes les collections du portail Europeana."
+
+#, fuzzy
+#~ msgid "Europeana Search Widget"
+#~ msgstr "logos Europeana"
+
+#, fuzzy
+#~ msgid "What is Europeana's remote search widget?"
+#~ msgstr "Qu'est-ce Mon Europeana?"
+
+#~ msgid "What is a plugin?"
+#~ msgstr "Qu'est ce qu'un plugin?"
+
+#~ msgid ""
+#~ "The plugin is simply a piece of generated code that can be copied and "
+#~ "pasted into one of the webpages on your own site."
+#~ msgstr ""
+#~ "Ce plugin se présente sous la forme d’un simple code que vous pouvez "
+#~ "copier et coller dans l’une des pages Web de votre site."
+
+#~ msgid "What will the plugin look like?"
+#~ msgstr "A quoi ressemblera le plugin?"
+
+#~ msgid ""
+#~ "The working plugin is shown on the right hand side of the screen. Making "
+#~ "changes and selecting preview will let you see those changes in action."
+#~ msgstr ""
+#~ "Le plugin actif s’affiche à droite de l’écran. Si vous effectuez une "
+#~ "modification et sélectionnez la prévisualisation (preview), vous pourrez "
+#~ "voir cette modification en action."
+
+#~ msgid "How do I add the plugin into my own site?"
+#~ msgstr "Comment faire pour ajouter le plugin à mon propre site ?"
+
+#~ msgid "Select options from the menu below"
+#~ msgstr "Sélectionnez les options dans le menu ci-dessous"
+
+#~ msgid ""
+#~ "Click on 'Preview' to see the changes in the right hand side of the screen"
+#~ msgstr ""
+#~ "Cliquez sur « Preview » (prévisualisation) pour voir les modifications à "
+#~ "droite de l’écran."
+
+#~ msgid ""
+#~ "Check the box to say you have read and agree with the terms and conditions"
+#~ msgstr ""
+#~ "Cochez la case pour confirmer que vous avez lu les conditions générales "
+#~ "et que vous les acceptez."
+
+#~ msgid "Click 'Generate Code'"
+#~ msgstr "Cliquer sur 'Générer code'"
+
+#~ msgid "Copy the code from under 'Code for plugin:'"
+#~ msgstr ""
+#~ "Copiez le code en dessous de « Code for plugin: » (code du plugin :)"
+
+#~ msgid "Open a webpage on your own site in a text editor"
+#~ msgstr "Utilisez un éditeur de texte pour ouvrir une page Web de votre site"
+
+#~ msgid "Paste the code into the page and save the changes"
+#~ msgstr "Collez le code dans la page et sauvegardez les modifications"
+
+#~ msgid "Open your web page in a browser to see the plugin working"
+#~ msgstr ""
+#~ "Ouvrez votre page Web dans un navigateur pour voir comment le plugin "
+#~ "fonctionne"
+
+#~ msgid "How can I change the position of the plugin?"
+#~ msgstr "Comment faire pour modifier l'emplacement du plugin ?"
+
+#~ msgid ""
+#~ "The plugin can be nested within an HTML table but the easiest way is to "
+#~ "use cascading stylesheets css. The plugin is surrounded in a div with the "
+#~ "id swEuropeanaRemoteWidget and its position can be changed by changing "
+#~ "the css properties for this div."
+#~ msgstr ""
+#~ "Le plugin peut être intégré dans un tableau HTML mais le plus simple "
+#~ "consiste à utiliser des feuilles de style en cascade au format CSS. Le "
+#~ "plugin est entouré d’une balise DIV avec l’identifiant "
+#~ "swEuropeanaRemoteWidget et vous pouvez modifier sa position en changeant "
+#~ "les propriétés CSS de cette balise."
+
+#~ msgid "Background colour"
+#~ msgstr "Couleur de fond"
+
+#~ msgid "Media type tab colour"
+#~ msgstr "Couleur de l’onglet Type de média "
+
+#~ msgid "Text colour"
+#~ msgstr "Couleur du texte"
+
+#~ msgid "Default language"
+#~ msgstr "Langue par défaut"
+
+#~ msgid "Default search term"
+#~ msgstr "Termes de recherche par défaut"
+
+#~ msgid "Media Types"
+#~ msgstr "Types de média"
+
+#, fuzzy
+#~ msgid "Europeana attribution"
+#~ msgstr "Expositions Europeana"
+
+#~ msgid "Widget Code: (To be copied and pasted into your website)"
+#~ msgstr "Code du Widget : (à copier-coller dans votre site Web)"
+
+#~ msgid "Generate Code"
+#~ msgstr "Générer un code"
+
+#~ msgid "Powered By Europeana"
+#~ msgstr "Alimenté par Europeana"
+
+#~ msgid "Europeana Blog"
+#~ msgstr "Blog Europeana"
+
+#~ msgid "Virtual Exhibitions"
+#~ msgstr "Expositions virtuelles"
+
+#~ msgid "Click to cite this object"
+#~ msgstr "Cliquer pour citer cet objet "
+
+#~ msgid "Use"
+#~ msgstr "Utiliser"
+
+#~ msgid "Harvard Bibliographic Style"
+#~ msgstr "Style bibliographique Harvard"
+
+#~ msgid "This record can be cited in the"
+#~ msgstr "Cet enregistrement peut être cité dans le "
+
+#~ msgid "style using the text below:"
+#~ msgstr "style utilisant le texte ci-dessous :"
+
+#~ msgid "Harvard Bibliographic"
+#~ msgstr "Renvoi bibliographique Harvard "
+
+#~ msgid "Close"
+#~ msgstr "Fermer"
+
+#~ msgid "Show Auto-tags"
+#~ msgstr "Montrer les étiquettes automatiques"
+
+#~ msgid "Hide Auto-tags"
+#~ msgstr "Masquer les étiquettes automatiques"
+
+#~ msgid "Automatically added semantic tags"
+#~ msgstr "Etiquettes sémantiques ajoutées automatiquement"
+
+#~ msgid "Place Term"
+#~ msgstr "Mettre le terme "
+
+#~ msgid "Place Label"
+#~ msgstr "Mettre le label"
+
+#~ msgid "Geo Space"
+#~ msgstr "Geo Space"
+
+#~ msgid "Place Broader Term"
+#~ msgstr "Mettre un terme générique"
+
+#, fuzzy
+#~ msgid "Place Broader Label"
+#~ msgstr "Mettre un terme générique"
+
+#~ msgid "Period Term"
+#~ msgstr "Terme de période"
+
+#, fuzzy
+#~ msgid "Period Label"
+#~ msgstr "Terme de période"
+
+#~ msgid "Period Begin"
+#~ msgstr "Début de période"
+
+#~ msgid "Period End"
+#~ msgstr "Fin de période"
+
+#, fuzzy
+#~ msgid "Period Broader Term"
+#~ msgstr "Mettre un terme générique"
+
+#, fuzzy
+#~ msgid "Period Broader Label"
+#~ msgstr "Mettre un terme générique"
+
+#, fuzzy
+#~ msgid "Concept Term"
+#~ msgstr "Mettre le terme "
+
+#, fuzzy
+#~ msgid "Concept Label"
+#~ msgstr "Mettre le label"
+
+#, fuzzy
+#~ msgid "Concept Broader Term"
+#~ msgstr "Mettre un terme générique"
+
+#, fuzzy
+#~ msgid "Concept Broader Label"
+#~ msgstr "Mettre un terme générique"
+
+#, fuzzy
+#~ msgid "Agent Term"
+#~ msgstr "Mettre le terme "
+
+#, fuzzy
+#~ msgid "Agent Label"
+#~ msgstr "Mettre le label"
+
+#~ msgid "Featured item"
+#~ msgstr "La sélection"
+
+#, fuzzy
+#~ msgid "New &amp; Improved - Europeana 1914-1918"
+#~ msgstr "Explorer Europeana 1914-1918"
+
+#~ msgid "Survey - Win an Android Tablet"
+#~ msgstr "Sondage – Gagnez une tablette Android"
+
+#~ msgid ""
+#~ "Speak up and let us know what you think of this website. Take our 5 "
+#~ "minute survey and you'll be entered into a prize draw to win a Google "
+#~ "Nexus 10 Android tablet."
+#~ msgstr ""
+#~ "Faites nous savoir ce que vous pensez de ce site ! Renseignez ce bref "
+#~ "sondage et vous gagnerez peut-être une tablette Google Nexus 10 Android "
+#~ "grâce à notre tirage au sort."
+
+#~ msgid "Take survey"
+#~ msgstr "Participer au sondage"
+
+#~ msgid "Language Policy"
+#~ msgstr "Politique en matière de langue"
+
+#~ msgid "Press Room"
+#~ msgstr "Espace Presse"
+
+#~ msgid "Pinterest"
+#~ msgstr "Pinterest"
+
+#~ msgid "Explore Europe's cultural collections"
+#~ msgstr "Explorez les collections culturelles d' Europe"
+
+#~ msgid "Access professional knowledge"
+#~ msgstr "Accédez à l'espace professionnel "
+
+#~ msgid "Social media activities"
+#~ msgstr "Activités liées aux réseaux sociaux"
+
+#~ msgid "From the blog"
+#~ msgstr "En direct du blog "
+
+#~ msgid "Filter your search"
+#~ msgstr "Affinage de la requête"
+
+#~ msgid "Grid view"
+#~ msgstr "Vue grille"
+
+#~ msgid ""
+#~ "We apologize; there was a problem retrieving the search results from the "
+#~ "server. Please try again later"
+#~ msgstr ""
+#~ "Veuillez nous excuser : les résultats de votre recherche sur le serveur "
+#~ "n’ont pas pu être récupérés. Nous vous remercions de réessayer plus tard"
+
+#~ msgid "Similar items"
+#~ msgstr "Objets similaires"
+
+#~ msgid "Loading ..."
+#~ msgstr "Chargement en cours ..."
+
+#~ msgid "Return to search results"
+#~ msgstr "Retour aux resultats de la recherche"
+
+#~ msgid "Next search result"
+#~ msgstr "prochain résultat de la recherche"
+
+#~ msgid "Something went wrong!"
+#~ msgstr "Un incident s’est produit !"
+
+#~ msgid "An email has been sent to inform our technical staff"
+#~ msgstr "Un mél a été envoyé pour informer notre équipe technique "
+
+#~ msgid "Please try another search"
+#~ msgstr "Affinage de la requête"
+
+#~ msgid "Saved search removed successfully"
+#~ msgstr "La recherche enregistrée a été correctement supprimée"
+
+#~ msgid "Saved item removed successfully"
+#~ msgstr "L’objet enregistré a été correctement supprimé"
+
+#~ msgid "Saved tag removed successfully"
+#~ msgstr "L’étiquette enregistrée a été correctement supprimée"
+
+#~ msgid "An error occurred"
+#~ msgstr "Une erreur s’est produite"
+
+#~ msgid "The item could not be removed"
+#~ msgstr "L'objet n'a pas pu être retiré"
+
+#~ msgid "Auto-generated tags"
+#~ msgstr "Etiquettes générées automatiquement"
+
+#~ msgid "Request"
+#~ msgstr "Demande"
+
+#~ msgid "Legend"
+#~ msgstr "Légende"
+
+#~ msgid "See less"
+#~ msgstr "Voir moins"
+
+#~ msgid "See more"
+#~ msgstr "Voir plus"
+
+#~ msgid "Explore further"
+#~ msgstr "Explorer plus avant"
+
+#~ msgid "Return to original language"
+#~ msgstr "Retour à la langue d'origine"
+
+#~ msgid "Attention: this item has been withdrawn by the provider."
+#~ msgstr "Attention : Cet article a été retiré par son fournisseur."
+
+#~ msgid ""
+#~ "We apologise; there was a problem retrieving the data from the server. "
+#~ "Please try again later."
+#~ msgstr ""
+#~ "Veuillez nous excuser : les données du serveur n’ont pas pu être "
+#~ "récupérées. Nous vous remercions de réessayer plus tard."
+
+#~ msgid "Preview"
+#~ msgstr "aperçu"
+
+#~ msgid "Return to timeline"
+#~ msgstr "Frise chronologique"
+
+#~ msgid "This email address does not yet exist in our database"
+#~ msgstr ""
+#~ "Cette adresse de courrier électronique n’existe pas encore dans notre "
+#~ "base de données"
+
+#~ msgid "Your password change has been successfully completed"
+#~ msgstr "La modification de votre mot de passe a été effectuée avec succès"
+
+#~ msgid "Zoom"
+#~ msgstr "Zoom"
+
+#~ msgid "Zoom in"
+#~ msgstr "Zoom avant"
+
+#~ msgid "Zoom out"
+#~ msgstr "Zoom arrière"
+
+#~ msgid "Choose from different map types"
+#~ msgstr "Choisissez l’un des types de cartes"
+
+#~ msgid ""
+#~ "Navigate map: click and hold left mouse-button, then move mouse to change "
+#~ "the view"
+#~ msgstr ""
+#~ "Pour parcourir la carte : cliquez et maintenez le bouton gauche de la "
+#~ "souris puis déplacez-la pour changer de point de vue"
+
+#~ msgid ""
+#~ "Select via freeform: add anchor points with left mouse-click, double "
+#~ "click to finish the shape"
+#~ msgstr ""
+#~ "Sélectionnez en dessinant une forme libre : cliquez à gauche pour ajouter "
+#~ "des points d’ancrage, double-cliquez pour terminer la forme"
+
+#~ msgid "Google Satellite"
+#~ msgstr "Google Satellite"
+
+#~ msgid "Google Hybrid"
+#~ msgstr "Google Hybrid"
+
+#~ msgid "Google Street"
+#~ msgstr "Google Street"
+
+#~ msgid "Google Physical"
+#~ msgstr "Google Physical"
+
+#~ msgid ""
+#~ "This is your personal space on Europeana. With My Europeana, you can save "
+#~ "your favourite items and searches, and add tags."
+#~ msgstr ""
+#~ "Ceci est votre espace personnel sur Europeana. Mon Europeana vous permet "
+#~ "de sauvegarder vos objets et vos recherches préférés et d’ajouter des "
+#~ "étiquettes."
+
+#~ msgid "Download"
+#~ msgstr "Télécharger"
+
+#, fuzzy
+#~ msgid "User contributed content"
+#~ msgstr "Contenu lié"
+
+#~ msgid "Play"
+#~ msgstr "Lire"
+
+#~ msgid "Read"
+#~ msgstr "Lire"
+
+#~ msgid "View larger image"
+#~ msgstr "Agrandir l'image"
+
+#~ msgid "Your search result contains no items that have map co-ordinates."
+#~ msgstr ""
+#~ "Le résultat de votre recherche ne contient aucun objet associé à des "
+#~ "coordonnées cartographiques. "
+
+#~ msgid "Please try another search."
+#~ msgstr "Veuillez tenter une autre recherche"
+
+#~ msgid ""
+#~ "The Europeana map search is still in development and currently doesn't "
+#~ "work in Internet Explorer. We aim to support Internet Explorer in the "
+#~ "future. Currently we recommend you to use Chrome or Firefox."
+#~ msgstr ""
+#~ "La recherche cartographique d’Europeana est en cours de développement : "
+#~ "elle n’est pas encore compatible avec Internet Explorer mais nous "
+#~ "prévoyons qu'elle le devienne à l’avenir. Pour l’instant, nous vous "
+#~ "recommandons d’utiliser Chrome ou Firefox."
+
+#~ msgid "Wikipedia Citation"
+#~ msgstr "Citation Wikipedia "
+
+#~ msgid "Copy and paste the wiki-markup below:"
+#~ msgstr "Copier-coller la balise Wiki ci-dessous :"
+
+#, fuzzy
+#~ msgid "The map only shows up to 1000 items relevant to your query."
+#~ msgstr ""
+#~ "La chronologie ne montre que jusqu'à 1000 articles se rapportant à votre "
+#~ "requête."
+
+#, fuzzy
+#~ msgid "The map only shows up to {0} items relevant to your query."
+#~ msgstr ""
+#~ "La chronologie ne montre que jusqu'à 1000 articles se rapportant à votre "
+#~ "requête."
+
+#, fuzzy
+#~ msgid "Follow us on"
+#~ msgstr "Suivez-nous"
+
+#~ msgid "Share item on Facebook, Twitter, etc."
+#~ msgstr "Partager sur Facebook, Twitter, etc."
+
+#, fuzzy
+#~ msgid "Follow us!"
+#~ msgstr "Suivez-nous"
+
+#~ msgid "Newsletter sign-up"
+#~ msgstr "Souscrivez à la lettre d'information"
+
+#~ msgid "Name"
+#~ msgstr "Nom"
+
+#~ msgid "Email Address"
+#~ msgstr "Adresse e-mail"
+
+#~ msgid ""
+#~ "Sign-up to receive our bi-monthly newsletter, and occasional "
+#~ "announcements."
+#~ msgstr ""
+#~ "Souscrivez et recevez notre lettre d'information bi-mensuelles, et nos "
+#~ "annonces occasionnelles."
+
+#, fuzzy
+#~ msgid "Featured partner"
+#~ msgstr "La sélection"
+
+#, fuzzy
+#~ msgid "API function"
+#~ msgstr "Autres fonctions"
+
+#, fuzzy
+#~ msgid "Search parameters"
+#~ msgstr "Opérateur booléen"
+
+#, fuzzy
+#~ msgid "Search term"
+#~ msgstr "Termes recherchés"
+
+#~ msgid "Profile"
+#~ msgstr "Profile"
+
+#, fuzzy
+#~ msgid "Record parameters"
+#~ msgstr "Opérateur booléen"
+
+#, fuzzy
+#~ msgid "Request URL"
+#~ msgstr "Demande"
+
+#, fuzzy
+#~ msgid "Search also for:"
+#~ msgstr "Opérateur booléen"
+
+#~ msgid "Who"
+#~ msgstr "Qui"
+
+#~ msgid "What"
+#~ msgstr "Quoi"
+
+#, fuzzy
+#~ msgid "api-introduction.html"
+#~ msgstr "Introduction"
+
+#, fuzzy
+#~ msgid "Terms of use &amp; Policies"
+#~ msgstr "Conditions & politiques"
+
+#, fuzzy
+#~ msgid "contact.html"
+#~ msgstr "Contacts"
+
+#, fuzzy
+#~ msgid "sitemap.html"
+#~ msgstr "Plan du site"
+
+#, fuzzy
+#~ msgid "No API key"
+#~ msgstr "Retirer"
+
+#, fuzzy
+#~ msgid "API key"
+#~ msgstr "Retirer"
+
+#~ msgid "Private key"
+#~ msgstr "Clé privée"
+
+#~ msgid "Usage limit"
+#~ msgstr "Usage limité"
+
+#~ msgid "Role"
+#~ msgstr "Rôle"
+
+#~ msgid "Administrator's page"
+#~ msgstr "Page administrateur"
+
+#, fuzzy
+#~ msgid "Remove API key"
+#~ msgstr "Retirer"
+
+#~ msgid "Limit"
+#~ msgstr "Limite"
+
+#, fuzzy
+#~ msgid "Remove user"
+#~ msgstr "Retirer"
+
+#~ msgid "User name"
+#~ msgstr "Nom d'utilisateur"
+
+#, fuzzy
+#~ msgid "Registration"
+#~ msgstr "S'enregister à nouveau"
+
+#~ msgid "Visit the website of"
+#~ msgstr "Visiter le site internet de"
+
+#~ msgid "Europeana Exhibitions"
+#~ msgstr "Expositions Europeana"
+
+#~ msgid "Professional"
+#~ msgstr "Professionnel"
+
+#~ msgid "Company or Institution"
+#~ msgstr "Entreprise ou Institution"
+
+#~ msgid "Telephone contact"
+#~ msgstr "Téléphone"
+
+#~ msgid "Address"
+#~ msgstr "Adresse"
+
+#, fuzzy
+#~ msgid "Date of creation"
+#~ msgstr "Protection des données"
+
+#, fuzzy
+#~ msgid "Is part of"
+#~ msgstr "Fait parti de"
+
+#~ msgid "Titles"
+#~ msgstr "Titres"
+
+#~ msgid "Places"
+#~ msgstr "Lieux"
+
+#, fuzzy
+#~ msgid "Dates/Periods"
+#~ msgstr "Date sauvegardée"
+
+#~ msgid "Subjects"
+#~ msgstr "Sujets"
+
+#, fuzzy
+#~ msgid "Creators"
+#~ msgstr "Créateur"
+
+#~ msgid "All fields"
+#~ msgstr "Tous les champs"
+
+#, fuzzy
+#~ msgid "Featured Item"
+#~ msgstr "La sélection"
+
+#, fuzzy
+#~ msgid "Click here for last page of results"
+#~ msgstr "Cliquer ici pour visualiser les résultats de la page suivante"
+
+#~ msgid "+ Add"
+#~ msgstr "+ Ajouter"
+
+#, fuzzy
+#~ msgid "Please, select"
+#~ msgstr "Nous vous invitions à consulter notre"
+
+#, fuzzy
+#~ msgid "Please try another search later."
+#~ msgstr "Veuillez tenter une autre recherche"
+
+#, fuzzy
+#~ msgid "This item has been withdrawn by the provider."
+#~ msgstr "Attention : Cet article a été retiré par son fournisseur."
+
+#, fuzzy
+#~ msgid "Please register your email again"
+#~ msgstr "Veuillez entrer une adresse mél. valide"
+
+#, fuzzy
+#~ msgid "to finish registration."
+#~ msgstr "Finir l'enregistrement"
+
+#, fuzzy
+#~ msgid "Please try another language from the dropdown list."
+#~ msgstr "Veuillez tenter une autre recherche"
+
+#~ msgid "Number of results shown on the page"
+#~ msgstr "Nombre de résultats sur la page"
+
+#, fuzzy
+#~ msgid "Yes, with attribution"
+#~ msgstr "Expositions Europeana"
+
+#, fuzzy
+#~ msgid "Yes, with restrictions"
+#~ msgstr "Expositions Europeana"
 
 #, fuzzy
 #~ msgid "Europeana Open culture app v2.0"
