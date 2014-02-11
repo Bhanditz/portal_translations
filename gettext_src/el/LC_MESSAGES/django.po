@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-30 09:13+0100\n"
+"POT-Creation-Date: 2014-02-11 15:53+0100\n"
 "PO-Revision-Date: 2013-03-29 20:03\n"
 "Last-Translator: Greek  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,11 +18,16 @@ msgstr ""
 "X-Translated-Using: django-rosetta 0.5.6\n"
 
 #: templates/api_leftmenu.html:3 templates/static_pages/europeana-api.html:4
+#: templates/static_pages/prop_file.html:63
+#: templates/static_pages/prop_file.html:822
+#: templates/static_pages/prop_file.html:823
 #: templates/static_pages/sitemap.html:51
 msgid "Europeana API"
 msgstr "API της Europeana"
 
-#: templates/api_leftmenu.html:6 templates/static_pages/sitemap.html:53
+#: templates/api_leftmenu.html:6 templates/static_pages/prop_file.html:990
+#: templates/static_pages/prop_file.html:991
+#: templates/static_pages/sitemap.html:53
 msgid "Get an API-Key"
 msgstr "Αποκτήστε ένα κλειδί API"
 
@@ -40,89 +45,135 @@ msgid "Europeana API Forum"
 msgstr "Τόπος συζήτησης API της Europeana"
 
 #: templates/explore_leftmenu.html:3 templates/static_pages/explore.html:9
+#: templates/static_pages/prop_file.html:545
+#: templates/static_pages/prop_file.html:546
 msgid "Explore"
 msgstr "Εξερεύνηση"
 
-#: templates/explore_leftmenu.html:5 templates/static_pages/sitemap.html:20
+#: templates/explore_leftmenu.html:5 templates/static_pages/prop_file.html:549
+#: templates/static_pages/prop_file.html:550
+#: templates/static_pages/prop_file.html:875
+#: templates/static_pages/sitemap.html:20
 msgid "Europeana Remix"
 msgstr "Europeana Remix"
 
-#: templates/explore_leftmenu.html:6 templates/static_pages/sitemap.html:17
+#: templates/explore_leftmenu.html:6 templates/static_pages/prop_file.html:553
+#: templates/static_pages/prop_file.html:554
+#: templates/static_pages/prop_file.html:864
+#: templates/static_pages/sitemap.html:17
 #: templates/static_pages/usingeuropeana_explore.html:14
 msgid "Exhibitions"
 msgstr "Εκθέσεις"
 
 #: templates/explore_leftmenu.html:7 templates/leftmenu.html:8
+#: templates/static_pages/prop_file.html:60
+#: templates/static_pages/prop_file.html:557
+#: templates/static_pages/prop_file.html:558
+#: templates/static_pages/prop_file.html:913
+#: templates/static_pages/prop_file.html:914
 #: templates/static_pages/sitemap.html:38
 #: templates/static_pages/sitemap.html:87
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "New content"
 msgstr "Νέο περιεχόμενο"
 
-#: templates/explore_leftmenu.html:9 templates/static_pages/sitemap.html:88
+#: templates/explore_leftmenu.html:9 templates/static_pages/prop_file.html:78
+#: templates/static_pages/prop_file.html:561
+#: templates/static_pages/prop_file.html:562
+#: templates/static_pages/sitemap.html:88
 #: templates/static_pages/usingeuropeana_search.html:60
 msgid "By provider"
 msgstr "Ανά πάροχο"
 
-#: templates/explore_leftmenu.html:10 templates/static_pages/sitemap.html:89
+#: templates/explore_leftmenu.html:10 templates/static_pages/prop_file.html:37
+#: templates/static_pages/prop_file.html:565
+#: templates/static_pages/prop_file.html:566
+#: templates/static_pages/sitemap.html:89
 msgid "Timeline"
 msgstr "Χρονολόγιο"
 
-#: templates/explore_leftmenu.html:11 templates/static_pages/sitemap.html:90
+#: templates/explore_leftmenu.html:11
+#: templates/static_pages/prop_file.html:569
+#: templates/static_pages/prop_file.html:570
+#: templates/static_pages/sitemap.html:90
 msgid "Map"
 msgstr "Χάρτης"
 
 #: templates/followus_leftmenu.html:3 templates/static_pages/followus.html:9
+#: templates/static_pages/prop_file.html:617
+#: templates/static_pages/prop_file.html:618
 msgid "Follow Us"
 msgstr "Ακολούθησέ μας"
 
-#: templates/followus_leftmenu.html:5 templates/static_pages/sitemap.html:18
+#: templates/followus_leftmenu.html:5
+#: templates/static_pages/prop_file.html:621
+#: templates/static_pages/prop_file.html:622
+#: templates/static_pages/prop_file.html:868
+#: templates/static_pages/sitemap.html:18
 msgid "Blog"
 msgstr "Ιστολόγιο"
 
 #: templates/followus_leftmenu.html:6
+#: templates/static_pages/prop_file.html:625
+#: templates/static_pages/prop_file.html:626
 msgid "Newsletter"
 msgstr "Ενημερωτικό δελτίο"
 
 #: templates/followus_leftmenu.html:8
+#: templates/static_pages/prop_file.html:629
+#: templates/static_pages/prop_file.html:630
 msgid "Facebook"
 msgstr "Facebook"
 
 #: templates/followus_leftmenu.html:9
+#: templates/static_pages/prop_file.html:633
+#: templates/static_pages/prop_file.html:634
 msgid "Twitter"
 msgstr "Twitter"
 
 #: templates/leftmenu.html:3 templates/NOT/leftmenu1_old.html:3
-#: templates/NOT/leftmenu_old.html:3
+#: templates/NOT/leftmenu_old.html:3 templates/static_pages/prop_file.html:597
+#: templates/static_pages/prop_file.html:598
 msgid "About Us"
 msgstr "Ποιοί είμαστε"
 
 #: templates/leftmenu.html:6 templates/NOT/leftmenu1_old.html:6
-#: templates/NOT/leftmenu_old.html:6
+#: templates/NOT/leftmenu_old.html:6 templates/static_pages/prop_file.html:601
+#: templates/static_pages/prop_file.html:602
 msgid "Background"
 msgstr "Ιστορικό"
 
-#: templates/leftmenu.html:9
+#: templates/leftmenu.html:9 templates/static_pages/prop_file.html:918
+#: templates/static_pages/prop_file.html:919
 #, fuzzy
 msgid "All providers"
 msgstr "Ανά πάροχο"
 
 #: templates/leftmenu.html:10 templates/static_pages/aboutus_enews.html:11
+#: templates/static_pages/prop_file.html:923
+#: templates/static_pages/prop_file.html:924
 #: templates/static_pages/sitemap.html:40
 msgid "Previous newsletters"
 msgstr "Προηγούμενα ενημερωτικά δελτία"
 
 #: templates/leftmenu.html:12 templates/NOT/leftmenu_old.html:8
+#: templates/static_pages/prop_file.html:928
+#: templates/static_pages/prop_file.html:929
 msgid "Press Centre"
 msgstr "Κέντρο Τύπου"
 
 #: templates/leftmenu.html:13 templates/NOT/leftmenu_old.html:9
+#: templates/static_pages/prop_file.html:933
+#: templates/static_pages/prop_file.html:934
 msgid "Jobs"
 msgstr "Επαγγέλματα"
 
 #: templates/leftmenu.html:14 templates/leftmenu.html.py:17
 #: templates/NOT/leftmenu1_old.html:9 templates/NOT/leftmenu1_old.html:12
 #: templates/NOT/leftmenu_old.html:10 templates/NOT/leftmenu_old.html.py:14
+#: templates/static_pages/prop_file.html:36
+#: templates/static_pages/prop_file.html:613
+#: templates/static_pages/prop_file.html:614
 msgid "Partners"
 msgstr "Συνεργάτες"
 
@@ -133,6 +184,8 @@ msgstr "Για τον Τύπο"
 
 #: templates/leftmenu.html:16 templates/NOT/leftmenu1_old.html:8
 #: templates/NOT/leftmenu1_old.html:11 templates/NOT/leftmenu_old.html:13
+#: templates/static_pages/prop_file.html:609
+#: templates/static_pages/prop_file.html:610
 msgid "Job opportunities"
 msgstr "Ευκαιρίες εργασίας"
 
@@ -190,17 +243,25 @@ msgstr "Οι πολιτικές μας"
 
 #: templates/terms_leftmenu.html:24 templates/rights/privacy.html:15
 #: templates/rights/terms-and-policies.html:37
+#: templates/static_pages/prop_file.html:68
+#: templates/static_pages/prop_file.html:529
+#: templates/static_pages/prop_file.html:530
 #: templates/static_pages/sitemap.html:106
 msgid "Privacy"
 msgstr "Προστασία ιδιωτικής ζωής"
 
 #: templates/terms_leftmenu.html:25 templates/rights/languagepolicy.html:15
 #: templates/rights/terms-and-policies.html:37
+#: templates/static_pages/prop_file.html:180
+#: templates/static_pages/prop_file.html:239
 msgid "Language"
 msgstr "Επιλογή γλώσσας"
 
 #: templates/terms_leftmenu.html:26 templates/rights/accessibility.html:15
 #: templates/rights/terms-and-policies.html:37
+#: templates/static_pages/prop_file.html:65
+#: templates/static_pages/prop_file.html:517
+#: templates/static_pages/prop_file.html:518
 #: templates/static_pages/sitemap.html:108
 msgid "Accessibility"
 msgstr "Προσβασιμότητα"
@@ -210,12 +271,21 @@ msgid "Public Domain Charter"
 msgstr "Καταστατικός Χάρτης του Δημόσιου Τομέα"
 
 #: templates/usingeuropeana_leftmenu.html:3
+#: templates/static_pages/prop_file.html:334
+#: templates/static_pages/prop_file.html:573
+#: templates/static_pages/prop_file.html:574
+#: templates/static_pages/prop_file.html:883
+#: templates/static_pages/prop_file.html:884
 #: templates/static_pages/sitemap.html:25
 #: templates/static_pages/usingeuropeana.html:9
 msgid "Help"
 msgstr "Βοήθεια"
 
 #: templates/usingeuropeana_leftmenu.html:5
+#: templates/static_pages/prop_file.html:577
+#: templates/static_pages/prop_file.html:578
+#: templates/static_pages/prop_file.html:887
+#: templates/static_pages/prop_file.html:888
 #: templates/static_pages/usingeuropeana.html:14
 #: templates/static_pages/usingeuropeana_results.html:22
 #: templates/static_pages/usingeuropeana_search.html:9
@@ -224,6 +294,11 @@ msgid "Searching Europeana"
 msgstr "Αναζήτηση στη Europeana"
 
 #: templates/usingeuropeana_leftmenu.html:6
+#: templates/static_pages/prop_file.html:288
+#: templates/static_pages/prop_file.html:581
+#: templates/static_pages/prop_file.html:582
+#: templates/static_pages/prop_file.html:891
+#: templates/static_pages/prop_file.html:892
 #: templates/static_pages/sitemap.html:28
 #: templates/static_pages/usingeuropeana.html:16
 #: templates/static_pages/usingeuropeana_explore.html:9
@@ -232,6 +307,10 @@ msgid "Exploring Europeana"
 msgstr "Εξερεύνηση στη Europeana"
 
 #: templates/usingeuropeana_leftmenu.html:8
+#: templates/static_pages/prop_file.html:585
+#: templates/static_pages/prop_file.html:586
+#: templates/static_pages/prop_file.html:895
+#: templates/static_pages/prop_file.html:896
 #: templates/static_pages/sitemap.html:29
 #: templates/static_pages/usingeuropeana.html:19
 #: templates/static_pages/usingeuropeana_results.html:9
@@ -240,6 +319,10 @@ msgid "Results in Europeana"
 msgstr "Αποτελέσματα στη Europeana"
 
 #: templates/usingeuropeana_leftmenu.html:9
+#: templates/static_pages/prop_file.html:589
+#: templates/static_pages/prop_file.html:590
+#: templates/static_pages/prop_file.html:899
+#: templates/static_pages/prop_file.html:900
 #: templates/static_pages/sitemap.html:30
 #: templates/static_pages/usingeuropeana.html:21
 #: templates/static_pages/usingeuropeana_myeuropeana.html:9
@@ -248,6 +331,8 @@ msgid "Using My Europeana"
 msgstr "Χρήση του My Europeana"
 
 #: templates/usingeuropeana_leftmenu.html:10
+#: templates/static_pages/prop_file.html:903
+#: templates/static_pages/prop_file.html:904
 #, fuzzy
 msgid "Configure your search widget"
 msgstr "να φιλτράρετε τα αποτελέσματα αναζήτησης:"
@@ -1418,6 +1503,7 @@ msgstr ""
 "τα αντικείμενα περιλαμβάνουν"
 
 #: templates/static_pages/aboutus.html:28
+#: templates/static_pages/prop_file.html:91
 #: templates/static_pages/usingeuropeana_results.html:16
 msgid "Images"
 msgstr "Εικόνες"
@@ -1429,6 +1515,7 @@ msgstr ""
 "αντικειμένων"
 
 #: templates/static_pages/aboutus.html:29
+#: templates/static_pages/prop_file.html:90
 #: templates/static_pages/usingeuropeana_results.html:15
 msgid "Texts"
 msgstr "Κείμενα"
@@ -1438,6 +1525,7 @@ msgid "books, newspapers, letters, diaries and archival papers"
 msgstr "βιβλία, εφημερίδες, επιστολές, ημερολόγια και αρχειακά έγγραφα"
 
 #: templates/static_pages/aboutus.html:30
+#: templates/static_pages/prop_file.html:93
 msgid "Sounds"
 msgstr "Ήχοι"
 
@@ -1448,6 +1536,7 @@ msgstr ""
 "ραδιοφωνικές εμπομπές"
 
 #: templates/static_pages/aboutus.html:31
+#: templates/static_pages/prop_file.html:92
 msgid "Videos"
 msgstr "Βίντεο"
 
@@ -1760,18 +1849,133 @@ msgstr ""
 msgid "Europeana - New Content"
 msgstr "Europeana - Νέο περιεχόμενο"
 
-#: templates/static_pages/sitemap.html:4
-msgid "Europeana - Sitemap"
-msgstr "Europeana - Χάρτης πλοήγησης"
+#: templates/static_pages/prop_file.html:5
+msgid ""
+"I understand that My Europeana gives me the opportunity to create tags for "
+"any item I wish. I agree that I will not create any tags that could be "
+"considered libelous, harmful, threatening, unlawful, defamatory,infringing, "
+"abusive, inflammatory, harassing, pornographic, obscene, fraudulent, "
+"invasive of privacy orpublicity rights, hateful, or racially, ethnically or "
+"otherwise objectionable. By clicking this box I agreeto abide by this "
+"agreement, and understand that if I don't my membership of My Europeana will "
+"be terminated."
+msgstr ""
+"Κατανοώ ότι Η Europeana μου, μού δίνει την ευκαιρία να δημιουργήσω ετικέτες "
+"για όποιο τεκμήριο επιθυμώ. Συμφωνώ ότι δεν θα δημιουργήσω ετικέτες που "
+"μπορούν να θεωρηθούν δυσφημιστικές, επιζήμιες, απειλητικές, παράνομες, "
+"συκοφαντικές, παραβατικές, υβριστικές, εμπρηστικές, παρενοχλητικές, "
+"πορνογραφικές, ανήθικες, δόλιες, παρεμβατικές στα δικαιώματα της ιδιωτικής "
+"μου ζωής ή δημοσιότητας, που προκαλούν μίσος ή είναι ρατσιστικά, εθνικά ή με "
+"άλλο τρόπο αποδοκιμαστέες. Πατώντας αυτό το τετραγωνίδιο δεσμεύομαι να "
+"τηρήσω αυτή τη συμφωνία και κατανοώ ότι αν δεν το κάνω, τα δικαιώματά μου ως "
+"μέλος της Europeana μου θα τερματιστούν."
 
-#: templates/static_pages/sitemap.html:8
-msgid "Sitemap"
-msgstr "Χάρτης πλοήγησης"
+#: templates/static_pages/prop_file.html:6
+msgid "You must agree to our code of conduct to register for My Europeana"
+msgstr ""
+"Πρέπει να συμφωνήσετε με τον κώδικα συμπεριφοράς μας για να εγγραφείτε στη "
+"Europeana μου"
 
-#: templates/static_pages/sitemap.html:11
-msgid "Home"
-msgstr "Αρχική Σελίδα"
+#: templates/static_pages/prop_file.html:7
+msgid "I agree"
+msgstr "Συμφωνώ"
 
+#: templates/static_pages/prop_file.html:8
+#: templates/static_pages/prop_file.html:230
+msgid "Contributor"
+msgstr "Συνεργαζόμενοι φορείς"
+
+#: templates/static_pages/prop_file.html:9
+msgid "Contributors"
+msgstr "Συνεργαζόμενοι φορείς"
+
+#: templates/static_pages/prop_file.html:10
+msgid "Country"
+msgstr "Χώρα"
+
+#: templates/static_pages/prop_file.html:11
+msgid "Sector"
+msgstr "Τομέας"
+
+#: templates/static_pages/prop_file.html:12
+msgid "Partner"
+msgstr "Εταίρος"
+
+#: templates/static_pages/prop_file.html:13
+msgid ""
+"This is the network of partners who collaborated to make Europeana happen, "
+"and who represent Europeana in their countries and professional associations."
+msgstr ""
+"Αυτό είναι το δίκτυο των εταίρων οι οποίοι συνεργάστηκαν για να δημιουργηθεί "
+"η Europeana και οι οποίοι αντιπροσωπεύουν τη Europeana στις χώρες τους και "
+"στις επαγγελματικές ενώσεις."
+
+#: templates/static_pages/prop_file.html:14
+msgid ""
+"These are the organisations that are contributing content - digitised "
+"paintings, books, broadcasts etc. Some of these contributors are  "
+"aggregators*, Culture.fr is the largest aggregator, providing content from "
+"about 480 organisations in France, including the Louvre and the Musée "
+"d’Orsay. The number of organisations contributing to an aggregator is shown "
+"in brackets after the aggregator’s name, e.g. Videoactive (10)"
+msgstr ""
+"Αυτοί είναι οι οργανισμοί που συνεισφέρουν περιεχόμενο - ψηφιοποιημένα έργα "
+"ζωγραφικής, βιβλία, ραδιοφωνικές εκπομπές κ.λπ. Μερικοί από αυτούς τους "
+"συνεργαζόμενους φορείς είναι συσσωρευτές*. Το Culture.fr είναι ο μεγαλύτερος "
+"συσσωρευτής, παρέχοντας περιεχόμενο περίπου από 480 οργανισμούς στη Γαλλία, "
+"όπως το Λούβρο και το Μουσείο d'Orsay. Ο αριθμός των οργανισμών που "
+"συνεισφέρουν στον συσσωρευτή εμφανίζεται σε παρενθέσεις μετά το όνομα του "
+"συσσωρευτή, π.χ. Videoactive (10)"
+
+#: templates/static_pages/prop_file.html:15
+msgid ""
+"*An aggregator collects material from a range of other contributors, "
+"displays it on their own website and also channels it into Europeana."
+msgstr ""
+"*Ένας συσσωρευτής συλλέγει υλικό από σειρά άλλων συνεργαζόμενων φορέων, το "
+"εμφανίζει στο δικό του δικτυακό τόπο και το διοχετεύει επίσης στη Europeana."
+
+#: templates/static_pages/prop_file.html:16
+msgid "This is a required field"
+msgstr "Αυτό είναι απαιτούμενο πεδίο"
+
+#: templates/static_pages/prop_file.html:17
+msgid "Please enter a valid email address"
+msgstr "Παρακαλείσθε να εισάγετε μια έγκυρη διεύθυνση ηλ-ταχυδρομείου"
+
+#: templates/static_pages/prop_file.html:18
+msgid "Logged in as"
+msgstr "Έγινε σύνδεση ως"
+
+#: templates/static_pages/prop_file.html:19
+msgid "Saved items"
+msgstr "Αποθηκευμένα τεκμήρια"
+
+#: templates/static_pages/prop_file.html:20
+msgid "Saved searches"
+msgstr "Αποθηκευμένες αναζητήσεις"
+
+#: templates/static_pages/prop_file.html:21
+msgid "Saved tags"
+msgstr "Αποθηκευμένες ετικέτες"
+
+#: templates/static_pages/prop_file.html:22
+msgid "Saved notifications"
+msgstr "Αποθηκευμένες ετικέτες"
+
+#: templates/static_pages/prop_file.html:23
+msgid "Login"
+msgstr "Σύνδεση"
+
+#: templates/static_pages/prop_file.html:24
+msgid "Log out"
+msgstr "Αποσύνδεση"
+
+#: templates/static_pages/prop_file.html:25
+#: templates/static_pages/prop_file.html:641
+#: templates/static_pages/prop_file.html:642
+#: templates/static_pages/prop_file.html:956
+#: templates/static_pages/prop_file.html:957
 #: templates/static_pages/sitemap.html:12
 #: templates/static_pages/usingeuropeana_myeuropeana.html:10
 #: templates/static_pages/usingeuropeana_myeuropeana.html:11
@@ -1780,30 +1984,2523 @@ msgstr "Αρχική Σελίδα"
 msgid "My Europeana"
 msgstr "Η Europeana μου"
 
-#: templates/static_pages/sitemap.html:15
-msgid "Other Europeana Sites"
-msgstr "Άλλοι δικτυακοί τόποι της Europeana"
+#: templates/static_pages/prop_file.html:26
+msgid ""
+"Thank you very much for your feedback. If your feedback requires a response "
+"a member of the Europeana team will get back to you as soon as possible. For "
+"faster response feedback should be submitted in English."
+msgstr ""
+"Σας ευχαριστούμε για το σχόλιό σας. Αν το σχόλιό σας απαιτεί απάντηση, ένα "
+"μέλος της ομάδας της Europeana θα επικοινωνήσει μαζί σας το συντομότερο "
+"δυνατό. Για ταχύτερη ανταπόκριση, το σχόλιο πρέπει να υποβάλλεται στα "
+"Αγγλικά."
 
-#: templates/static_pages/sitemap.html:19
-msgid "Europeana 1914-1918"
-msgstr "Europeana 1914-1918"
+#: templates/static_pages/prop_file.html:27
+msgid "Keep me in touch with new developments to Europeana"
+msgstr ""
+"# EnewsOptin_t [Να με ενημερώνετε για τις νέες εξελίξεις της Europeana]"
 
-#: templates/static_pages/sitemap.html:21
-msgid "Europeana Professional"
-msgstr "Επαγγελματική Europeana"
+#: templates/static_pages/prop_file.html:28
+msgid "User Conduct"
+msgstr "Συμπεριφορά χρήστη"
 
-#: templates/static_pages/sitemap.html:27
-msgid "Searching in Europeana"
-msgstr "Αναζήτηση στη Europeana"
+#: templates/static_pages/prop_file.html:29
+msgid ""
+"I understand that My Europeana gives me the opportunity to create tags for "
+"any item I wish. I agree that I will not create any tags that could be "
+"considered libelous, harmful, threatening, unlawful, defamatory, infringing, "
+"abusive, inflammatory, harassing, pornographic, obscene, fraudulent, "
+"invasive of privacy or publicity rights, hateful, or racially, ethnically or "
+"otherwise objectionable. By clicking this box I agree to abide by this "
+"agreement, and understand that if I don't my membership of My Europeana will "
+"be terminated. CLICK TO AGREE"
+msgstr ""
+"Κατανοώ ότι Η Europeana μου, μού δίνει την ευκαιρία να δημιουργήσω ετικέτες "
+"για όποιο τεκμήριο επιθυμώ. Συμφωνώ ότι δεν θα δημιουργήσω ετικέτες που "
+"μπορούν να θεωρηθούν δυσφημιστικές, επιζήμιες, απειλητικές, παράνομες, "
+"συκοφαντικές, παραβατικές, υβριστικές, εμπρηστικές, παρενοχλητικές, "
+"πορνογραφικές, ανήθικες, δόλιες, παρεμβατικές στα δικαιώματα της ιδιωτικής "
+"μου ζωής ή δημοσιότητας, που προκαλούν μίσος ή ρατσισμό, εθνικά ή με άλλο "
+"τρόπο αποδοκιμαστέες. Πατώντας αυτό το τετραγωνίδιο δεσμεύομαι να τηρήσω "
+"αυτή τη συμφωνία και κατανοώ ότι αν δεν το κάνω, τα δικαιώματά μου ως μέλος "
+"της Europeana μου θα τερματιστούν. ΠΑΤΗΣΤΕ ΓΙΑ ΝΑ ΣΥΜΦΩΝΗΣΕΤΕ"
 
+#: templates/static_pages/prop_file.html:30
+msgid "First name"
+msgstr "Κύριο όνομα"
+
+#: templates/static_pages/prop_file.html:31
+msgid "Last name"
+msgstr "Επώνυμο"
+
+#: templates/static_pages/prop_file.html:32
+msgid ""
+"To make optimal use of this website you need to have JavaScript activated"
+msgstr ""
+"Για να επιτύχετε τη βέλτιστη χρήση αυτού του δικτυακού τόπου, χρειάζεται να "
+"έχετε ενεργοποιήσει το JavaScript"
+
+#: templates/static_pages/prop_file.html:33
+#: templates/static_pages/storyline.html:11
+msgid "Storyline and credits"
+msgstr "Λωρίδα ιστοριών και ονόματα συντελεστών"
+
+#: templates/static_pages/prop_file.html:34
+msgid "Check the FAQs - they may cover your feedback"
+msgstr "Ελέγξτε τις Συχνές Ερωτήσεις - ίσως καλύπτουν το σχόλιό σας"
+
+#: templates/static_pages/prop_file.html:35
+msgid "Communities"
+msgstr "Κοινότητες"
+
+#: templates/static_pages/prop_file.html:38
+msgid "ThoughtLab"
+msgstr "ThoughtLab"
+
+#: templates/static_pages/prop_file.html:39
+msgid "Choose a language"
+msgstr "Επιλέξτε γλώσσα"
+
+#: templates/static_pages/prop_file.html:40
+msgid "Select language"
+msgstr "Επιλογή γλώσσας"
+
+#: templates/static_pages/prop_file.html:41
+msgid "This is Europeana"
+msgstr "Αυτή είναι η Europeana"
+
+#: templates/static_pages/prop_file.html:42
+msgid ""
+"a place for inspiration and ideas. Search through the cultural collections "
+"of Europe, connect to other user pathways and share your discoveries."
+msgstr ""
+"ένας χώρος για έμπνευση και ιδέες. Ερευνήστε στις πολιτιστικές συλλογές της "
+"Ευρώπης, συνδεθείτε με τα μονοπάτια άλλων χρηστών και μοιραστείτε τις "
+"ανακαλύψεις σας."
+
+#: templates/static_pages/prop_file.html:43
+msgid "Find out more"
+msgstr "Μάθετε περισσότερα"
+
+#: templates/static_pages/prop_file.html:44
+#: templates/static_pages/sitemap.html:65
+#: templates/static_pages/usingeuropeana_search.html:21
+#: templates/static_pages/usingeuropeana_search.html:25
+#: templates/static_pages/usingeuropeana_search.html:27
+#: templates/static_pages/usingeuropeana_search.html:45
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: templates/static_pages/prop_file.html:45
+#: templates/static_pages/prop_file.html:335
+msgid "Reset"
+msgstr "Επανεκκίνηση"
+
+#: templates/static_pages/prop_file.html:46
+#: templates/static_pages/usingeuropeana_results.html:49
+msgid "Previous"
+msgstr "Προηγούμενο"
+
+#: templates/static_pages/prop_file.html:47
+#: templates/static_pages/usingeuropeana_results.html:49
+msgid "Next"
+msgstr "Επόμενο"
+
+#: templates/static_pages/prop_file.html:48
+msgid "Advanced search"
+msgstr "Σύνθετη αναζήτηση"
+
+#: templates/static_pages/prop_file.html:49
+msgid "Hide advanced search"
+msgstr "Απόκρυψη σύνθετης αναζήτησης"
+
+#: templates/static_pages/prop_file.html:50
+msgid "and"
+msgstr "και"
+
+#: templates/static_pages/prop_file.html:51
+#: templates/static_pages/usingeuropeana_results.html:24
+#: templates/static_pages/usingeuropeana_results.html:25
+#: templates/static_pages/usingeuropeana_results.html:41
+#: templates/static_pages/usingeuropeana_results.html:49
+#: templates/static_pages/usingeuropeana_search.html:32
+msgid "or"
+msgstr "ή"
+
+#: templates/static_pages/prop_file.html:52
+msgid "not"
+msgstr "δεν"
+
+#: templates/static_pages/prop_file.html:53
+msgid "Any field"
+msgstr "Οποιοδήποτε πεδίο"
+
+#: templates/static_pages/prop_file.html:54
+msgid "Share your ideas"
+msgstr "Μοιραστείτε τις ιδέες σας"
+
+#: templates/static_pages/prop_file.html:55
+msgid "Tagging"
+msgstr "Τοποθέτηση ετικετών"
+
+#: templates/static_pages/prop_file.html:56
+msgid "Send us feedback"
+msgstr "Στείλτε μας τα σχόλιά σας"
+
+#: templates/static_pages/prop_file.html:57
+msgid "People are currently thinking about"
+msgstr "Οι άνθρωποι τώρα σκέφτονται γι' αυτό"
+
+#: templates/static_pages/prop_file.html:58
+msgid "Timeline navigator"
+msgstr "Πλοηγός χρονολογίου"
+
+#: templates/static_pages/prop_file.html:59
+msgid "Browse through time"
+msgstr "Χρονολογικά"
+
+#: templates/static_pages/prop_file.html:61
+msgid ""
+"From our partner museums, archives, libraries and audio-visual collections"
+msgstr ""
+"Από τις συλλογές μουσείων, αρχείων, βιβλιοθηκών και οπτικοακουστικού υλικού "
+"των εταίρων μας"
+
+#: templates/static_pages/prop_file.html:62
+#: templates/static_pages/prop_file.html:908
+#: templates/static_pages/prop_file.html:909
+#: templates/static_pages/sitemap.html:36
+msgid "About us"
+msgstr "Σχετικά με εμάς"
+
+#: templates/static_pages/prop_file.html:64
+msgid "Using Europeana"
+msgstr "Χρήση της Europeana"
+
+#: templates/static_pages/prop_file.html:66
+#: templates/static_pages/prop_file.html:521
+#: templates/static_pages/prop_file.html:522
+#: templates/static_pages/prop_file.html:834
+#: templates/static_pages/prop_file.html:835
+#: templates/static_pages/sitemap.html:8
+msgid "Sitemap"
+msgstr "Χάρτης πλοήγησης"
+
+#: templates/static_pages/prop_file.html:67
+#: templates/static_pages/prop_file.html:362
+msgid "Terms and conditions"
+msgstr "Όροι και συνθήκες"
+
+#: templates/static_pages/prop_file.html:69
+#: templates/static_pages/sitemap.html:107
+msgid "Language policy"
+msgstr "Πολιτική γλώσσας"
+
+#: templates/static_pages/prop_file.html:70
+#: templates/static_pages/prop_file.html:830
+#: templates/static_pages/prop_file.html:831
+msgid "Contact us"
+msgstr "Επικοινωνήστε μαζί μας"
+
+#: templates/static_pages/prop_file.html:71
+msgid "co-funded by the European Union"
+msgstr "συγχρηματοδοτούμενο από την Ευρωπαϊκή Ένωση"
+
+#: templates/static_pages/prop_file.html:72
+msgid "Europeana think culture"
+msgstr "Europeana σκέψου τον πολιτισμό"
+
+#: templates/static_pages/prop_file.html:73
+msgid "Click here to return to the Europeana homepage"
+msgstr "Πατήστε εδώ για να επιστρέψετε στην πρώτη σελίδα της Europeana"
+
+#: templates/static_pages/prop_file.html:74
+msgid "Refine your results"
+msgstr "Επαναπροσδιορίστε τα αποτελέσματά σας"
+
+#: templates/static_pages/prop_file.html:75
+msgid "By language of description"
+msgstr "Κατά γλώσσα περιγραφής"
+
+#: templates/static_pages/prop_file.html:76
+msgid "By providing country"
+msgstr "Κατά χώρα προέλευσης"
+
+#: templates/static_pages/prop_file.html:77
+msgid "By year"
+msgstr "Κατά έτος"
+
+#: templates/static_pages/prop_file.html:79
+msgid "By user tag"
+msgstr "Κατά ετικέτα χρήστη"
+
+#: templates/static_pages/prop_file.html:80
+msgid "By type"
+msgstr "Κατά είδος"
+
+#: templates/static_pages/prop_file.html:81
+#: templates/static_pages/usingeuropeana_search.html:55
+msgid "By media type"
+msgstr "Κατά είδος μέσων ενημέρωσης"
+
+#: templates/static_pages/prop_file.html:82
+msgid "Actions"
+msgstr "Ενέργειες"
+
+#: templates/static_pages/prop_file.html:83
+#: templates/static_pages/usingeuropeana_myeuropeana.html:14
+msgid "Save this search"
+msgstr "Αποθηκεύσουν αυτή την αναζήτηση"
+
+#: templates/static_pages/prop_file.html:84
+msgid "Search saved"
+msgstr "Η έρευνα αποθηκεύτηκε"
+
+#: templates/static_pages/prop_file.html:85
+msgid "Saving search failed"
+msgstr "Αποτυχία αποθήκευσης της αναζήτησης"
+
+#: templates/static_pages/prop_file.html:86
+msgid "You have searched for"
+msgstr "Έχετε κάνει αναζήτηση για"
+
+#: templates/static_pages/prop_file.html:87
+#: templates/static_pages/usingeuropeana_search.html:51
+#: templates/static_pages/usingeuropeana_search.html:63
+#: templates/static_pages/usingeuropeana_search.html:65
+msgid "Matches for"
+msgstr "Ταιριάζει με"
+
+#: templates/static_pages/prop_file.html:88
+msgid "You are viewing related items"
+msgstr "Βλέπετε σχετικά τεκμήρια"
+
+#: templates/static_pages/prop_file.html:89
+msgid "All"
+msgstr "Όλα"
+
+#: templates/static_pages/prop_file.html:94
+msgid "Text"
+msgstr "Κείμενο"
+
+#: templates/static_pages/prop_file.html:95
+msgid "Image"
+msgstr "Εικόνα"
+
+#: templates/static_pages/prop_file.html:96
+#: templates/static_pages/usingeuropeana_results.html:17
+msgid "Video"
+msgstr "Βίντεο"
+
+#: templates/static_pages/prop_file.html:97
+#: templates/static_pages/usingeuropeana_results.html:18
+msgid "Sound"
+msgstr "Ήχος"
+
+#: templates/static_pages/prop_file.html:98
+msgid "List view"
+msgstr "Προβολή καταλόγου"
+
+#: templates/static_pages/prop_file.html:99
+msgid "#Table view"
+msgstr "# Εμφάνιση Πίνακα"
+
+#: templates/static_pages/prop_file.html:100
+msgid "Page"
+msgstr "Σελίδα"
+
+#: templates/static_pages/prop_file.html:101
+msgid "of"
+msgstr "του"
+
+#: templates/static_pages/prop_file.html:102
+msgid "Click here for previous page of results"
+msgstr "Πατήστε εδώ για την προηγούμενη σελίδα αποτελεσμάτων"
+
+#: templates/static_pages/prop_file.html:103
+msgid "Click here for next page of results"
+msgstr "Πατήστε εδώ για την επόμενη σελίδα αποτελεσμάτων"
+
+#: templates/static_pages/prop_file.html:104
+msgid "Print this page"
+msgstr "Εκτυπώστε αυτή τη σελίδα"
+
+#: templates/static_pages/prop_file.html:105
+msgid "Click for more information"
+msgstr "Πατήστε εδώ για περισσότερες πληροφορίες"
+
+#: templates/static_pages/prop_file.html:106
+msgid "No items found"
+msgstr "Δεν βρέθηκαν αντικείμενα"
+
+#: templates/static_pages/prop_file.html:107
+msgid "Related content"
+msgstr "Σχετικό περιεχόμενο"
+
+#: templates/static_pages/prop_file.html:108
+msgid "See all related items"
+msgstr "Δείτε όλα τα σχετικά τεκμήρια"
+
+#: templates/static_pages/prop_file.html:109
+msgid "User tags"
+msgstr "Ετικέτες χρηστών"
+
+#: templates/static_pages/prop_file.html:110
+#: templates/static_pages/usingeuropeana_myeuropeana.html:15
+msgid "Add a tag"
+msgstr "Προσθέσουν ετικέτα"
+
+#: templates/static_pages/prop_file.html:111
+#: templates/static_pages/usingeuropeana_search.html:49
+msgid "Add"
+msgstr "Προσθήκη"
+
+#: templates/static_pages/prop_file.html:112
+msgid "Tag added"
+msgstr "Προστέθηκε ετικέτα"
+
+#: templates/static_pages/prop_file.html:113
+msgid "Tag addition failed"
+msgstr "Αποτυχία προσθήκης ετικέτας"
+
+#: templates/static_pages/prop_file.html:114
+msgid "Share with a friend"
+msgstr "Μοιραστείτε το με ένα φίλο"
+
+#: templates/static_pages/prop_file.html:115
+msgid "Email address"
+msgstr "Διεύθυνση ηλ-ταχυδρομείου"
+
+#: templates/static_pages/prop_file.html:116
+msgid "Email sent"
+msgstr "Το μήνυμα ηλ-ταχυδρομείου απεστάλη"
+
+#: templates/static_pages/prop_file.html:117
+msgid "Email could not be sent"
+msgstr "Το μήνυμα ηλ-ταχυδρομείου δεν μπόρεσε να αποσταλεί"
+
+#: templates/static_pages/prop_file.html:118
+msgid "Send"
+msgstr "Αποστολή"
+
+#: templates/static_pages/prop_file.html:119
+#: templates/static_pages/usingeuropeana_myeuropeana.html:16
+msgid "Save to My Europeana"
+msgstr "Αποθηκεύσουν στην ενότητα Η Europeana μου"
+
+#: templates/static_pages/prop_file.html:120
+msgid "Item saved"
+msgstr "Το τεκμήριο αποθηκεύτηκε"
+
+#: templates/static_pages/prop_file.html:121
+msgid "Save item failed"
+msgstr "Αποτυχία αποθήκευσης τεκμηρίου"
+
+#: templates/static_pages/prop_file.html:122
+msgid "Error"
+msgstr "Σφάλμα"
+
+#: templates/static_pages/prop_file.html:123
+msgid "Error details"
+msgstr "Λεπτομέρειες σφάλματος"
+
+#: templates/static_pages/prop_file.html:124
+msgid "Return to results"
+msgstr "Επιστροφή στα αποτελέσματα"
+
+#: templates/static_pages/prop_file.html:125
+msgid "More"
+msgstr "Περισσότερα"
+
+#: templates/static_pages/prop_file.html:126
+msgid "Less"
+msgstr "Λιγότερα"
+
+#: templates/static_pages/prop_file.html:127
+msgid "Items"
+msgstr "Τεκμήρια"
+
+#: templates/static_pages/prop_file.html:128
+msgid "Item details"
+msgstr "Λεπτομέρειες για το τεκμήριο"
+
+#: templates/static_pages/prop_file.html:129
+msgid "View as XML"
+msgstr "Εμφάνιση ως XML"
+
+#: templates/static_pages/prop_file.html:130
+msgid "View with labels"
+msgstr "Εμφάνιση με τίτλους"
+
+#: templates/static_pages/prop_file.html:131
+msgid "View without labels"
+msgstr "Εμφάνιση χωρίς τίτλους"
+
+#: templates/static_pages/prop_file.html:132
+msgid "Opens in a new window"
+msgstr "Ανοίγει νέο παράθυρο"
+
+#: templates/static_pages/prop_file.html:133
+msgid "View in original context"
+msgstr "Εμφάνιση στα αρχικά συμφραζόμενα"
+
+#: templates/static_pages/prop_file.html:134
+#: templates/static_pages/prop_file.html:820
+msgid "Provider"
+msgstr "Πάροχος"
+
+#: templates/static_pages/prop_file.html:135
+#: templates/static_pages/prop_file.html:228
+#: templates/static_pages/prop_file.html:817
+#: templates/static_pages/storyline.html:49
+#: templates/static_pages/usingeuropeana_search.html:32
+msgid "Title"
+msgstr "Τίτλος"
+
+#: templates/static_pages/prop_file.html:136
+#: templates/static_pages/prop_file.html:235
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: templates/static_pages/prop_file.html:137
+#: templates/static_pages/storyline.html:50
+#: templates/static_pages/usingeuropeana_search.html:31
+msgid "Creator"
+msgstr "Δημιουργός"
+
+#: templates/static_pages/prop_file.html:138
+#: templates/static_pages/prop_file.html:232
+#: templates/static_pages/usingeuropeana_search.html:34
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: templates/static_pages/prop_file.html:139
+#: templates/static_pages/prop_file.html:234
+#: templates/static_pages/usingeuropeana_search.html:32
+msgid "Subject"
+msgstr "Θέμα"
+
+#: templates/static_pages/prop_file.html:140
+msgid "Show all"
+msgstr "Εμφάνιση όλων"
+
+#: templates/static_pages/prop_file.html:141
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: templates/static_pages/prop_file.html:142
+msgid "No saved items"
+msgstr "Μη αποθηκευμένα τεκμήρια"
+
+#: templates/static_pages/prop_file.html:143
+msgid "No saved searches"
+msgstr "Μη αποθηκευμένες αναζητήσεις"
+
+#: templates/static_pages/prop_file.html:144
+msgid "No saved tags"
+msgstr "Μη αποθηκευμένες ετικέτες"
+
+#: templates/static_pages/prop_file.html:145
+msgid "No saved notifications"
+msgstr "Μη αποθηκευμένες κοινοποιήσεις"
+
+#: templates/static_pages/prop_file.html:146
+msgid "Date saved"
+msgstr "Η ημερομηνία αποθηκεύτηκε"
+
+#: templates/static_pages/prop_file.html:147
+msgid "Remove"
+msgstr "Απομάκρυνση"
+
+#: templates/static_pages/prop_file.html:148
+msgid "Welcome to MyEuropeana"
+msgstr "Καλώς ήλθατε στην ενότητα Η Europeana μου"
+
+#: templates/static_pages/prop_file.html:149
+msgid "Please click on the following link to confirm your registration"
+msgstr ""
+"Παρακαλείσθε να πατήσετε στον ακόλουθο σύνδεσμο για να επιβεβαιώσετε την "
+"εγγραφή σας"
+
+#: templates/static_pages/prop_file.html:150
+msgid "The Europeana Team"
+msgstr "Η ομάδα της Europeana"
+
+#: templates/static_pages/prop_file.html:151
+msgid "Results"
+msgstr "Αποτελέσματα"
+
+#: templates/static_pages/prop_file.html:152
+msgid "Invalid query"
+msgstr "Άκυρο ερώτημα"
+
+#: templates/static_pages/prop_file.html:153
+msgid "This feature is currently disabled."
+msgstr "Αυτό το χαρακτηριστικό απενεργοποιήθηκε προσωρινά."
+
+#: templates/static_pages/prop_file.html:154
+msgid "Password"
+msgstr "Κωδικός πρόσβασης"
+
+#: templates/static_pages/prop_file.html:155
+msgid "Remember me on this computer"
+msgstr "Απομνημόνευση σε αυτόν τον υπολογιστή"
+
+#: templates/static_pages/prop_file.html:156
+msgid "I forgot my password"
+msgstr "Ξέχασα τον κωδικό πρόσβασής μου"
+
+#: templates/static_pages/prop_file.html:157
+msgid "Sign in"
+msgstr "Υπογραφή"
+
+#: templates/static_pages/prop_file.html:158
+msgid "Register"
+msgstr "Εγγραφή"
+
+#: templates/static_pages/prop_file.html:159
+msgid "Register again"
+msgstr "Εγγραφή εκ νέου"
+
+#: templates/static_pages/prop_file.html:160
+msgid ""
+"An error occurred while trying to process your registration. Please try again"
+msgstr ""
+"Ένα σφάλμα εμφανίστηκε κατά την προσπάθεια επεξεργασίας της εγγραφής σας. "
+"Παρακαλείσθε να προσπαθήσετε ξανά"
+
+#: templates/static_pages/prop_file.html:161
+msgid "An email has been sent to the following address"
+msgstr "Ένα μήνυμα ηλ-ταχυδρομείου έχει αποσταλεί στην ακόλουθη διεύθυνση"
+
+#: templates/static_pages/prop_file.html:162
+msgid ""
+"Please follow the link provided in the email and finish the registration "
+"process"
+msgstr ""
+"Παρακαλείσθε να ακολουθήσετε το σύνδεσμο που δίδεται στο μήνυμα ηλ-"
+"ταχυδρομείου και ολοκληρώστε τη διαδικασία εγγραφής"
+
+#: templates/static_pages/prop_file.html:163
+msgid "Please make sure your email is correctly formatted and try again"
+msgstr ""
+"Παρακαλείσθε να βεβαιωθείτε ότι η διεύθυνση ηλ-ταχυδρομείου σας έχει "
+"μορφοποιηθεί σωστά και προσπαθήστε ξανά"
+
+#: templates/static_pages/prop_file.html:164
+msgid "This email is already registered"
+msgstr "Αυτή η διεύθυνση ηλ-ταχυδρομείου έχει ήδη καταγραφτεί"
+
+#: templates/static_pages/prop_file.html:165
+msgid "Create an account"
+msgstr "Δημιουργία λογαριασμού"
+
+#: templates/static_pages/prop_file.html:166
+#: templates/static_pages/prop_file.html:979
+msgid "The link you used to complete registration is invalid or has expired."
+msgstr ""
+"Ο σύνδεσμος που χρησιμοποιήσατε για να ολοκληρώσετε την εγγραφή είναι άκυρος "
+"ή έχει λήξει."
+
+#: templates/static_pages/prop_file.html:167
+msgid "Enter your email"
+msgstr "Εισαγωγή διεύθυνσης ηλ-ταχυδρομείου"
+
+#: templates/static_pages/prop_file.html:168
+msgid ""
+"You will use your email together with your password to log into the site"
+msgstr ""
+"Θα χρησιμοποιήσετε τη διεύθυνση ηλ-ταχυδρομείου σας μαζί με τον κωδικό "
+"πρόσβασης για να συνδεθείτε με το δικτυακό τόπο"
+
+#: templates/static_pages/prop_file.html:169
+#: templates/static_pages/prop_file.html:173
+msgid "Your username will be displayed when you have logged in"
+msgstr "Το όνομα χρήστη θα εμφανιστεί όταν συνδεθείτε"
+
+#: templates/static_pages/prop_file.html:170
+msgid "Username"
+msgstr "Όνομα χρήστη"
+
+#: templates/static_pages/prop_file.html:171
+msgid "is in use. Please choose another username"
+msgstr "χρησιμοποιείται. Παρακαλούμε να επιλέξετε άλλο όνομα χρήστη"
+
+#: templates/static_pages/prop_file.html:172
+msgid "Choose a username"
+msgstr "Επιλέξτε όνομα χρήστη"
+
+#: templates/static_pages/prop_file.html:174
+msgid "User information"
+msgstr "Πληροφορίες για τον χρήστη"
+
+#: templates/static_pages/prop_file.html:175
+msgid "Choose a password"
+msgstr "Επιλέξτε κωδικό πρόσβασης"
+
+#: templates/static_pages/prop_file.html:176
+msgid "Passwords must be 6-30 characters in length"
+msgstr "Οι κωδικοί πρόσβασης πρέπει να έχουν μήκος 6-30 χαρακτήρων"
+
+#: templates/static_pages/prop_file.html:177
+msgid "Repeat password"
+msgstr "Επαναλάβετε τον κωδικό πρόσβασης"
+
+#: templates/static_pages/prop_file.html:178
+msgid "Finish registration"
+msgstr "Τέλος εγγραφής"
+
+#: templates/static_pages/prop_file.html:179
+msgid "You have successfully registered"
+msgstr "Η εγγραφή σας ήταν επιτυχής"
+
+#: templates/static_pages/prop_file.html:181
+msgid "English (eng)"
+msgstr "Αγγλικά (eng)"
+
+#: templates/static_pages/prop_file.html:182
+msgid "Croatian (hrv)"
+msgstr "Κροατικά (hrv)"
+
+#: templates/static_pages/prop_file.html:183
+msgid "Czech (cze/cse)"
+msgstr "Τσεχικά (cze/cse)"
+
+#: templates/static_pages/prop_file.html:184
+msgid "Greek (ell/gre)"
+msgstr "Ελληνικά (ell/gre)"
+
+#: templates/static_pages/prop_file.html:185
+msgid "Estonian (est)"
+msgstr "Εσθονικά (est)"
+
+#: templates/static_pages/prop_file.html:186
+msgid "Danish (dan)"
+msgstr "Δανέζικα (dan)"
+
+#: templates/static_pages/prop_file.html:187
+msgid "Dutch (dut)"
+msgstr "Ολλανδικά (dut)"
+
+#: templates/static_pages/prop_file.html:188
+msgid "Finnish (fin)"
+msgstr "Φινλανδικά (fin)"
+
+#: templates/static_pages/prop_file.html:189
+msgid "French (fre)"
+msgstr "Γαλλικά (fre)"
+
+#: templates/static_pages/prop_file.html:190
+msgid "Galician (glg)"
+msgstr "Γαλικιακά"
+
+#: templates/static_pages/prop_file.html:191
+msgid "German (deu)"
+msgstr "Γερμανικά (deu)"
+
+#: templates/static_pages/prop_file.html:192
+msgid "Hungarian (hun)"
+msgstr "Ουγγρικά (hun)"
+
+#: templates/static_pages/prop_file.html:193
+msgid "Italian (ita)"
+msgstr "Ιταλικά (ita)"
+
+#: templates/static_pages/prop_file.html:194
+msgid "Latvian (lav)"
+msgstr "Λετονικά (lav)"
+
+#: templates/static_pages/prop_file.html:195
+msgid "Lithuanian (lit)"
+msgstr "Λιθουανικά"
+
+#: templates/static_pages/prop_file.html:196
+msgid "Luxemburgish (ltz)"
+msgstr "Λουξεμβουργιανά (ltz)"
+
+#: templates/static_pages/prop_file.html:197
+msgid "Maltese (mlt)"
+msgstr "Μαλτέζικα (mlt)"
+
+#: templates/static_pages/prop_file.html:198
+msgid "Norwegian (nor)"
+msgstr "Νορβηγικά (nor)"
+
+#: templates/static_pages/prop_file.html:199
+msgid "Polish (pol)"
+msgstr "Πολωνικά (pol)"
+
+#: templates/static_pages/prop_file.html:200
+msgid "Portuguese (por)"
+msgstr "Πορτογαλικά (por)"
+
+#: templates/static_pages/prop_file.html:201
+msgid "Romanian (rom)"
+msgstr "Ρουμανικά (rom)"
+
+#: templates/static_pages/prop_file.html:202
+msgid "Russian (rus)"
+msgstr "Ρωσικά (rus)"
+
+#: templates/static_pages/prop_file.html:203
+msgid "Serbian (scc)"
+msgstr "Σερβικά (scc)"
+
+#: templates/static_pages/prop_file.html:204
+msgid "Slovak (slo)"
+msgstr "Σλοβακικά (slo)"
+
+#: templates/static_pages/prop_file.html:205
+msgid "Slovenian (slv)"
+msgstr "Σλοβενικά"
+
+#: templates/static_pages/prop_file.html:206
+msgid "Spanish (esp)"
+msgstr "Ισπανικά (esp)"
+
+#: templates/static_pages/prop_file.html:207
+msgid "Icelandic (ice)"
+msgstr "Ισλανδικά (ice)"
+
+#: templates/static_pages/prop_file.html:208
+msgid "Swedish (sve/swe)"
+msgstr "Σουηδικά (sve/swe)"
+
+#: templates/static_pages/prop_file.html:209
+msgid "Turkish (tur)"
+msgstr "Τουρκικά (tur)"
+
+#: templates/static_pages/prop_file.html:210
+msgid "Ukrainian (ukr)"
+msgstr "Ουκρανικά (UKR)"
+
+#: templates/static_pages/prop_file.html:211
+msgid "Yiddish (yid)"
+msgstr "Yiddish (yid)"
+
+#: templates/static_pages/prop_file.html:212
+msgid "Other"
+msgstr "Άλλα"
+
+#: templates/static_pages/prop_file.html:213
+msgid "Alternative Title"
+msgstr "Εναλλακτικός τίτλος"
+
+#: templates/static_pages/prop_file.html:214
+msgid "Provenance"
+msgstr "Προέλευση"
+
+#: templates/static_pages/prop_file.html:215
+msgid "Is Part of"
+msgstr "Αποτελεί τμήμα του"
+
+#: templates/static_pages/prop_file.html:216
+#: templates/static_pages/prop_file.html:948
+msgid "Has part"
+msgstr "Έχει τμήμα"
+
+#: templates/static_pages/prop_file.html:217
+msgid "Replaces"
+msgstr "Αντικαθιστά"
+
+#: templates/static_pages/prop_file.html:218
+msgid "Is replaced by"
+msgstr "Αντικαθίσταται από"
+
+#: templates/static_pages/prop_file.html:219
+msgid "Is referenced by"
+msgstr "Αναφέρεται από"
+
+#: templates/static_pages/prop_file.html:220
+msgid "References"
+msgstr "Αναφορές"
+
+#: templates/static_pages/prop_file.html:221
+msgid "Conforms to"
+msgstr "Συμφωνεί με"
+
+#: templates/static_pages/prop_file.html:222
+msgid "Requires"
+msgstr "Απαιτεί"
+
+#: templates/static_pages/prop_file.html:223
+msgid "Has format"
+msgstr "Έχει τη μορφή"
+
+#: templates/static_pages/prop_file.html:224
+msgid "Is format of"
+msgstr "Είναι μορφότυπο του"
+
+#: templates/static_pages/prop_file.html:225
+msgid "Geographic coverage"
+msgstr "Γεωγραφική κάλυψη"
+
+#: templates/static_pages/prop_file.html:226
+msgid "Time period"
+msgstr "Χρονική περίοδος"
+
+#: templates/static_pages/prop_file.html:227
+msgid "Publication date"
+msgstr "Ημερομηνία δημοσίευσης"
+
+#: templates/static_pages/prop_file.html:229
+msgid "Author"
+msgstr "Συγγραφέας"
+
+#: templates/static_pages/prop_file.html:231
+msgid "Coverage"
+msgstr "Κάλυψη"
+
+#: templates/static_pages/prop_file.html:233
+msgid "Format"
+msgstr "Μορφότυπο"
+
+#: templates/static_pages/prop_file.html:236
+msgid "Publisher"
+msgstr "Εκδότης"
+
+#: templates/static_pages/prop_file.html:237
+msgid "Identifier"
+msgstr "Προσδιοριστής"
+
+#: templates/static_pages/prop_file.html:238
+msgid "Source"
+msgstr "Πηγή"
+
+#: templates/static_pages/prop_file.html:240
+msgid "Relation"
+msgstr "Σχέση"
+
+#: templates/static_pages/prop_file.html:241
+#: templates/static_pages/sitemap.html:113
+msgid "Rights"
+msgstr "Δικαιώματα"
+
+#: templates/static_pages/prop_file.html:242
+msgid "Type"
+msgstr "Είδος"
+
+#: templates/static_pages/prop_file.html:243
+msgid "Austria"
+msgstr "Αυστρία"
+
+#: templates/static_pages/prop_file.html:244
+msgid "Croatia"
+msgstr "Κροατία"
+
+#: templates/static_pages/prop_file.html:245
+msgid "Denmark"
+msgstr "Δανία"
+
+#: templates/static_pages/prop_file.html:246
+msgid "Finland"
+msgstr "Φινλανδία"
+
+#: templates/static_pages/prop_file.html:247
+msgid "France"
+msgstr "Γαλλία"
+
+#: templates/static_pages/prop_file.html:248
+msgid "Germany"
+msgstr "Γερμανία"
+
+#: templates/static_pages/prop_file.html:249
+msgid "Italy-Florence"
+msgstr "Ιταλία-Φλωρεντία"
+
+#: templates/static_pages/prop_file.html:250
+msgid "Italy-Rome"
+msgstr "Ιταλία-Ρώμη"
+
+#: templates/static_pages/prop_file.html:251
+msgid "Ireland"
+msgstr "Ιρλανδία"
+
+#: templates/static_pages/prop_file.html:252
+msgid "Netherlands"
+msgstr "Ολλανδία"
+
+#: templates/static_pages/prop_file.html:253
+msgid "Portugal"
+msgstr "Πορτογαλία"
+
+#: templates/static_pages/prop_file.html:254
+msgid "Russia - Moscow"
+msgstr "Ρωσία - Μόσχα"
+
+#: templates/static_pages/prop_file.html:255
+msgid "Russia - Saint Petersburg"
+msgstr "Ρωσία - Αγία Πετρούπολη"
+
+#: templates/static_pages/prop_file.html:256
+msgid "Romania"
+msgstr "Ρουμανία"
+
+#: templates/static_pages/prop_file.html:257
+msgid "Former Yugoslav Republic Of Macedonia"
+msgstr "Πρώην Γιουγκοσλαβική Δημοκρατία της Μακεδονίας"
+
+#: templates/static_pages/prop_file.html:258
+msgid "Ukraine"
+msgstr "Ουκρανία"
+
+#: templates/static_pages/prop_file.html:259
+msgid "Moldova"
+msgstr "Μολδαβία"
+
+#: templates/static_pages/prop_file.html:260
+msgid "Albania"
+msgstr "Αλβανία"
+
+#: templates/static_pages/prop_file.html:261
+msgid "Georgia"
+msgstr "Γεωργία"
+
+#: templates/static_pages/prop_file.html:262
+msgid "Armenia"
+msgstr "Αρμενία"
+
+#: templates/static_pages/prop_file.html:263
+msgid "Bosnia and Herzegovina"
+msgstr "Βοσνία και Ερζεγοβίνη"
+
+#: templates/static_pages/prop_file.html:264
+msgid "Azerbaijan"
+msgstr "Αζερμπαϊτζάν"
+
+#: templates/static_pages/prop_file.html:265
+msgid "Turkey"
+msgstr "Τουρκία"
+
+#: templates/static_pages/prop_file.html:266
+msgid "Bulgaria"
+msgstr "Βουλγαρία"
+
+#: templates/static_pages/prop_file.html:267
+msgid "Serbia"
+msgstr "Σερβία"
+
+#: templates/static_pages/prop_file.html:268
+msgid "Slovenia"
+msgstr "Σλοβενία"
+
+#: templates/static_pages/prop_file.html:269
+msgid "Switzerland"
+msgstr "Ελβετία"
+
+#: templates/static_pages/prop_file.html:270
+msgid "United Kingdom"
+msgstr "Ηνωμένο Βασίλειο"
+
+#: templates/static_pages/prop_file.html:271
+msgid "Czech Republic"
+msgstr "Δημοκρατία της Τσεχίας"
+
+#: templates/static_pages/prop_file.html:272
+msgid "Cyprus"
+msgstr "Κύπρος"
+
+#: templates/static_pages/prop_file.html:273
+msgid "Estonia"
+msgstr "Εσθονία"
+
+#: templates/static_pages/prop_file.html:274
+msgid "Latvia"
+msgstr "Λετονία"
+
+#: templates/static_pages/prop_file.html:275
+msgid "Lithuania"
+msgstr "Λιθουανία"
+
+#: templates/static_pages/prop_file.html:276
+msgid "Hungary"
+msgstr "Ουγγαρία"
+
+#: templates/static_pages/prop_file.html:277
+msgid "Malta"
+msgstr "Μάλτα"
+
+#: templates/static_pages/prop_file.html:278
+msgid "Poland"
+msgstr "Πολωνία"
+
+#: templates/static_pages/prop_file.html:279
+msgid "Slovakia"
+msgstr "Σλοβακία"
+
+#: templates/static_pages/prop_file.html:280
+msgid "Spain"
+msgstr "Ισπανία"
+
+#: templates/static_pages/prop_file.html:281
+msgid "Belgium"
+msgstr "Βέλγιο"
+
+#: templates/static_pages/prop_file.html:282
+msgid "Iceland"
+msgstr "Ισλανδία"
+
+#: templates/static_pages/prop_file.html:283
+msgid "Norway"
+msgstr "Νορβηγία"
+
+#: templates/static_pages/prop_file.html:284
+msgid "Sweden"
+msgstr "Σουηδία"
+
+#: templates/static_pages/prop_file.html:285
+msgid "Liechtenstein"
+msgstr "Λιχτενστάιν"
+
+#: templates/static_pages/prop_file.html:286
+msgid "Luxembourg"
+msgstr "Λουξεμβούργο"
+
+#: templates/static_pages/prop_file.html:287
+msgid "Greece"
+msgstr "Ελλάδα"
+
+#: templates/static_pages/prop_file.html:289
+msgid "Subject cloud"
+msgstr "Θεματικό σύννεφο"
+
+#: templates/static_pages/prop_file.html:290
+msgid "Did you mean"
+msgstr "Μήπως εννοείτε;"
+
+#: templates/static_pages/prop_file.html:291
+msgid ""
+"Paintings, music, films and books from Europe's galleries, libraries, "
+"archives and museums."
+msgstr ""
+"Πίνακες ζωγραφικής, μουσική, ταινίες και βιβλία από πινακοθήκες, "
+"βιβλιοθήκες, αρχεία και μουσεία της Ευρώπης."
+
+#: templates/static_pages/prop_file.html:292
+msgid "Data provider"
+msgstr "Πάροχος δεδομένων"
+
+#: templates/static_pages/prop_file.html:293
+msgid "Europeana rights"
+msgstr "Δικαιώματα της Europeana"
+
+#: templates/static_pages/prop_file.html:294
+msgid "Terms of use"
+msgstr "Όροι χρήσης"
+
+#: templates/static_pages/prop_file.html:295
+msgid "The timeline only shows up to 1000 items relevant to your query."
+msgstr ""
+"Το χρονολόγιο παρουσιάζει μόνο μέχρι 1000 τεκμήρια σχετικά με το ερώτημά σας."
+
+#: templates/static_pages/prop_file.html:296
+msgid "Timeline view"
+msgstr "Εμφάνιση χρονολογίου"
+
+#: templates/static_pages/prop_file.html:297
+msgid "Embed"
+msgstr "Ενσωμάτωση"
+
+#: templates/static_pages/prop_file.html:298
+msgid "Options"
+msgstr "Επιλογές"
+
+#: templates/static_pages/prop_file.html:299
+msgid "Embed this object into your own blog or website"
+msgstr ""
+"Ενσωματώστε αυτό το αντικείμενο στο δικό σας ιστολόγιο ή στην ιστοσελίδα σας"
+
+#: templates/static_pages/prop_file.html:300
+msgid ""
+"Paste the HTML source code below to your page. This page itself is an "
+"example of a page that embeds a Europeana object."
+msgstr ""
+"Επικολλήστε τον πιο κάτω πηγαίο κώδικα HTML στη σελίδα σας. Η ίδια σελίδα "
+"αποτελεί παράδειγμα σελίδας που ενσωματώνει ένα αντικείμενο της Europeana."
+
+#: templates/static_pages/prop_file.html:301
+msgid ""
+"Now this Europeana object becomes a part of your page. Our content providers "
+"tend to improve their objects from time to time. Create an alert on this "
+"object to be notified if this specific object would change."
+msgstr ""
+"Τώρα αυτό το αντικείμενο της Europeana αποτελεί μέρος της σελίδας σας. Οι "
+"πάροχοι περιεχομένου έχουν την τάση να βελτιώνουν τα αντικείμενά τους κατά "
+"καιρούς. Δημιουργήστε μια ειδοποίηση για το αντικείμενο αυτό για να "
+"ενημερώνεστε, αν αυτό το συγκεκριμένο αντικείμενο αλλάξει."
+
+#: templates/static_pages/prop_file.html:302
+msgid "Preview it customized"
+msgstr "Προεπισκόπηση του προσαρμοσμένου"
+
+#: templates/static_pages/prop_file.html:303
+msgid "Create notification for this item"
+msgstr "Δημιουργία ενημέρωσης για το στοιχείο αυτό"
+
+#: templates/static_pages/prop_file.html:304
+msgid ""
+"Log in to My Europeana and set an alert to be notified of updates, such as "
+"the publication of more metadata for this object."
+msgstr ""
+"Συνδεθείτε στο Η Europeana μου και ορίσετε μια ειδοποίηση για να "
+"ενημερώνεστε για ανανεώσεις, όπως η δημοσίευση περισσότερων μεταδεδομένων "
+"για το αντικείμενο αυτό."
+
+#: templates/static_pages/prop_file.html:305
+msgid ""
+"By using the embed function you accept and agree to the Europeana Terms of "
+"Use"
+msgstr ""
+"Με τη χρήση της ενσωματωμένης λειτουργίας δέχεστε και συμφωνείτε με τους "
+"Όρους Χρήσης της Europeana"
+
+#: templates/static_pages/prop_file.html:306
+msgid "Maximal number of text lines:"
+msgstr "Μέγιστος αριθμός γραμμών κειμένου:"
+
+#: templates/static_pages/prop_file.html:307
+msgid "orientation:"
+msgstr "προσανατολισμό:"
+
+#: templates/static_pages/prop_file.html:308
+msgid "portrait"
+msgstr "πορτρέτο"
+
+#: templates/static_pages/prop_file.html:309
+msgid "landscape"
+msgstr "τοπίο"
+
+#: templates/static_pages/prop_file.html:310
+msgid "Refine Search"
+msgstr "Επαναπροσδιορισμός αναζήτησης"
+
+#: templates/static_pages/prop_file.html:311
+msgid "By Rights"
+msgstr "Με Πνευματικά Δικαιώματα"
+
+#: templates/static_pages/prop_file.html:312
+#: templates/static_pages/usingeuropeana_search.html:59
+msgid "By copyright"
+msgstr "Σύμφωνα με τα πνευματικά δικαιώματα"
+
+#: templates/static_pages/prop_file.html:313
+msgid "Free Access"
+msgstr "Ελεύθερη Πρόσβαση"
+
+#: templates/static_pages/prop_file.html:314
+msgid "Restricted Access"
+msgstr "Περιορισμένη πρόσβαση"
+
+#: templates/static_pages/prop_file.html:315
+msgid "Paid Access"
+msgstr "Πρόσβαση με πληρωμή"
+
+#: templates/static_pages/prop_file.html:316
+msgid "Public Domain"
+msgstr "Δημόσιος Τομέας"
+
+#: templates/static_pages/prop_file.html:317
+msgid "Unknown"
+msgstr "Άγνωστος"
+
+#: templates/static_pages/prop_file.html:318
+msgid "Not all objects show rights information"
+msgstr "Δεν παρέχουν όλα τα αντικείμενα πληροφορίες για πνευματικά δικαιώματα"
+
+#: templates/static_pages/prop_file.html:319
+msgid "Translate with:"
+msgstr "Μετάφραση με:"
+
+#: templates/static_pages/prop_file.html:320
+msgid "Search line value with:"
+msgstr "Αναζήτηση γραμμής αξίας σύμφωνα με:"
+
+#: templates/static_pages/prop_file.html:321
+msgid ""
+"Access External Search Services or Translate a fields content where you see "
+"the marker by double clicking the fields value."
+msgstr ""
+"Πρόσβαση σε Υπηρεσίες Εξωτερικής Αναζήτησης ή Μετάφραση πεδίου περιεχομένου "
+"όπου βλέπετε το δείκτη με διπλό πάτημα πλήκτρου στο πεδίο αξία."
+
+#: templates/static_pages/prop_file.html:322
+msgid ""
+"ESS allows you to translate an individual fields contents or search for an "
+"individual line on an external search service to access additional relevant "
+"information."
+msgstr ""
+"Το ESS σας επιτρέπει να μεταφράσετε ένα μεμονωμένο πεδίο περιεχομένου ή να "
+"αναζητήσετε μεμονωμένη γραμμή σε εξωτερική υπηρεσία αναζήτησης για να "
+"αποκτήσετε πρόσβαση σε πρόσθετες σχετικές πληροφορίες."
+
+#: templates/static_pages/prop_file.html:323
+msgid "indicates ESS services are available"
+msgstr "δηλώνει ότι είναι διαθέσιμες υπηρεσίες ESS "
+
+#: templates/static_pages/prop_file.html:324
+msgid "indicates ESS services are not available"
+msgstr "δηλώνει ότι δεν είναι διαθέσιμες υπηρεσίες ESS"
+
+#: templates/static_pages/prop_file.html:325
+msgid "Search term(s)"
+msgstr "Όρος(οι) αναζήτησης"
+
+#: templates/static_pages/prop_file.html:326
+msgid "Search facet"
+msgstr "Τμήμα Αναζήτησης"
+
+#: templates/static_pages/prop_file.html:327
+msgid "Search operator"
+msgstr "Χειριστής αναζήτησης"
+
+#: templates/static_pages/prop_file.html:328
+msgid "Back to top"
+msgstr "Αρχή σελίδας"
+
+#: templates/static_pages/prop_file.html:329
+msgid "Click to search for this term in external services"
+msgstr "Πατήστε για να αναζητήσετε αυτόν τον όρο σε εξωτερικές υπηρεσίες"
+
+#: templates/static_pages/prop_file.html:330
+#: templates/static_pages/prop_file.html:332
+msgid "Remote Search Widget"
+msgstr "Απομακρυσμένη Αναζήτηση Στοιχείου Διεπαφής"
+
+#: templates/static_pages/prop_file.html:331
+msgid ""
+"You can use the link below to create a customized plugin for inclusion in "
+"your own website with the ability to search through the collections on the "
+"Europeana portal."
+msgstr ""
+"Μπορείτε να χρησιμοποιήσετε τον πιο κάτω σύνδεσμο για να δημιουργήσετε μια "
+"προσαρμοσμένη συνδεόμενη υπομονάδα για να συμπεριληφθεί στο δικό σας "
+"δικτυακό τόπο με τη δυνατότητα να αναζητήσετε μέσα στις συλλογές στη "
+"δικτυακή πύλη της Europeana."
+
+#: templates/static_pages/prop_file.html:333
+msgid "Europeana Search Widget"
+msgstr "Αναζήτηση Στοιχείου Διεπαφής στη Europeana"
+
+#: templates/static_pages/prop_file.html:336
+msgid "What is Europeana's remote search widget?"
+msgstr "Τι είναι η απομακρυσμένη αναζήτηση στοιχείου διεπαφής στη Europeana;"
+
+#: templates/static_pages/prop_file.html:337
+msgid ""
+"The remote search widget is a tailored plugin to search on and display items "
+"from Europeana's collections and those of their contributors within your own "
+"website."
+msgstr ""
+"Η απομακρυσμένη αναζήτηση στοιχείου διεπαφής είναι μία προσαρμοσμένη "
+"συνδεόμενη υπομονάδα για έρευνα και παρουσίαση τεκμηρίων από τις συλλογές "
+"της Europeana και τις συλλογές των συνεργαζόμενων φορέων μέσα στο δικό μας "
+"δικτυακό τόπο."
+
+#: templates/static_pages/prop_file.html:338
+msgid "What is a plugin?"
+msgstr "Τι είναι μιά συνδεόμενη υπομονάδα;"
+
+#: templates/static_pages/prop_file.html:339
+msgid ""
+"The plugin is simply a piece of generated code that can be copied and pasted "
+"into one of the webpages on your own site."
+msgstr ""
+"Η συνδεόμενη υπομονάδα είναι απλά ένα κομμάτι κώδικα που έχει δημιουργηθεί "
+"και μπορεί να αντιγραφεί και να επικολληθεί σε μία από τις ιστοσελίδες στο "
+"δικό σας δικτυακό τόπο."
+
+#: templates/static_pages/prop_file.html:340
+msgid "What will the plugin look like?"
+msgstr "Πώς θα μοιάζει η συνδεόμενη υπομονάδα;"
+
+#: templates/static_pages/prop_file.html:341
+msgid ""
+"The working plugin is shown on the right hand side of the screen. Making "
+"changes and selecting preview will let you see those changes in action."
+msgstr ""
+"Η ενεργή συνδεόμενη υπομονάδα εμφανίζεται στη δεξιά πλευρά της οθόνης. "
+"Κάνοντας αλλαγές και επιλέγοντας προεπισκόπηση θα σας αφήσει να δείτε τις "
+"αλλαγές που έγιναν."
+
+#: templates/static_pages/prop_file.html:342
+msgid "How do I add the plugin into my own site?"
+msgstr ""
+"Πώς μπορώ να προσθέσω τη συνδεόμενη υπομονάδα μου στο δικό μου δικτυακό τόπο;"
+
+#: templates/static_pages/prop_file.html:343
+msgid "Select options from the menu below"
+msgstr "Κάντε επιλογές από το πιο κάτω μενού"
+
+#: templates/static_pages/prop_file.html:344
+msgid ""
+"Click on 'Preview' to see the changes in the right hand side of the screen"
+msgstr ""
+"Πατήστε την \"Προεπισκόπηση\" για να δείτε τις αλλαγές στη δεξιά πλευρά της "
+"οθόνης"
+
+#: templates/static_pages/prop_file.html:345
+msgid ""
+"Check the box to say you have read and agree with the terms and conditions"
+msgstr ""
+"Επιλέξτε το τετραγωνίδιο για να πείτε ότι έχετε διαβάσει και συμφωνείτε με "
+"τους όρους και τις προϋποθέσεις"
+
+#: templates/static_pages/prop_file.html:346
+msgid "Click 'Generate Code'"
+msgstr "Πατήστε στο \"Δημιουργία κώδικα\""
+
+#: templates/static_pages/prop_file.html:347
+msgid "Copy the code from under 'Code for plugin:'"
+msgstr "Αντιγράψτε τον κώδικα από το \"Κώδικας για συνδεόμενη υπομονάδα:\""
+
+#: templates/static_pages/prop_file.html:348
+msgid "Open a webpage on your own site in a text editor"
+msgstr ""
+"Ανοίξτε μία ιστοσελίδα στο δικτυακό σας τόπο σε ένα πρόγραμμα επεξεργασίας "
+"κειμένου"
+
+#: templates/static_pages/prop_file.html:349
+msgid "Paste the code into the page and save the changes"
+msgstr "Επικολλήστε τον κώδικα στη σελίδα και αποθηκεύσετε τις αλλαγές"
+
+#: templates/static_pages/prop_file.html:350
+msgid "Open your web page in a browser to see the plugin working"
+msgstr ""
+"Ανοίξτε την ιστοσελίδα σας σε ένα πρόγραμμα περιήγησης για να δείτε πώς "
+"λειτουργεί η συνδεόμενη υπομονάδα"
+
+#: templates/static_pages/prop_file.html:351
+msgid "How can I change the position of the plugin?"
+msgstr "Πώς μπορώ να αλλάξω τη θέση της συνδεόμενης υπομονάδας;"
+
+#: templates/static_pages/prop_file.html:352
+msgid ""
+"The plugin can be nested within an HTML table but the easiest way is to use "
+"cascading stylesheets css. The plugin is surrounded in a div with the id "
+"swEuropeanaRemoteWidget and its position can be changed by changing the css "
+"properties for this div."
+msgstr ""
+"Η συνδεόμενη υπομονάδα μπορεί να είναι ένθετη μέσα σε έναν πίνακα HTML, αλλά "
+"ο πιο εύκολος τρόπος είναι η χρησιμοποίηση επικαλυπτόμενων φύλλων στυλ CSS. "
+"Η συνδεόμενη υπομονάδα περιβάλλεται από ένα div με το id "
+"swEuropeanaRemoteWidget και η θέση του μπορεί να αλλάξει με την αλλαγή των "
+"ιδιοτήτων του CSS για αυτό το div."
+
+#: templates/static_pages/prop_file.html:353
+msgid "Background colour"
+msgstr "Χρώμα φόντου"
+
+#: templates/static_pages/prop_file.html:354
+msgid "Media type tab colour"
+msgstr "Χρώμα καρτέλας στα είδη μέσων ενημέρωσης"
+
+#: templates/static_pages/prop_file.html:355
+msgid "Text colour"
+msgstr "Χρώμα κειμένου"
+
+#: templates/static_pages/prop_file.html:356
+msgid "Default language"
+msgstr "Προεπιλεγμένη γλώσσα"
+
+#: templates/static_pages/prop_file.html:357
+msgid "Default search term"
+msgstr "Προεπιλογή όρου αναζήτησης"
+
+#: templates/static_pages/prop_file.html:358
+msgid "Media Types"
+msgstr "Είδη μέσων ενημέρωσης"
+
+#: templates/static_pages/prop_file.html:359
+#: templates/static_pages/usingeuropeana_searchwidget.html:30
+msgid "Providers"
+msgstr "Πάροχοι"
+
+#: templates/static_pages/prop_file.html:360
+msgid "Europeana attribution"
+msgstr "Απόδοση στη Europeana"
+
+#: templates/static_pages/prop_file.html:361
+msgid "Widget Code: (To be copied and pasted into your website)"
+msgstr ""
+"Κωδικός Στοιχείου διεπαφής: (Για να αντιγράφεται και να επικολλάται στο δικό "
+"σας δικτυακό τόπο)"
+
+#: templates/static_pages/prop_file.html:363
+msgid "Generate Code"
+msgstr "Δημιουργία Κώδικα"
+
+#: templates/static_pages/prop_file.html:364
+msgid "Powered By Europeana"
+msgstr "Υποστηρίζεται από τη Europeana"
+
+#: templates/static_pages/prop_file.html:365
+#: templates/static_pages/prop_file.html:867
+msgid "Europeana Blog"
+msgstr "Ιστολόγιο της Europeana"
+
+#: templates/static_pages/prop_file.html:366
+msgid "Virtual Exhibitions"
+msgstr "Εικονικές Εκθέσεις"
+
+#: templates/static_pages/prop_file.html:367
+#: templates/static_pages/usingeuropeana_results.html:41
+msgid "Cite on Wikipedia"
+msgstr "Παραπομπή στη Βικιπαίδεια"
+
+#: templates/static_pages/prop_file.html:368
+msgid "Click to cite this object"
+msgstr "Πατήστε εδώ για να παραπέμψετε σε αυτό το αντικείμενο"
+
+#: templates/static_pages/prop_file.html:369
+msgid "Use"
+msgstr "Χρήση"
+
+#: templates/static_pages/prop_file.html:370
+msgid "Harvard Bibliographic Style"
+msgstr "Βιβλιογραφικό Ύφος Harvard"
+
+#: templates/static_pages/prop_file.html:371
+msgid "This record can be cited in the"
+msgstr "Μπορεί να γίνει παραπομπή σε αυτή την εγγραφή"
+
+#: templates/static_pages/prop_file.html:372
+msgid "style using the text below:"
+msgstr "ύφος με χρήση το πιο κάτω κειμένου:"
+
+#: templates/static_pages/prop_file.html:373
+msgid "Harvard Bibliographic"
+msgstr "Βιβλιογραφικό ύφος Harvard"
+
+#: templates/static_pages/prop_file.html:374
+msgid "Close"
+msgstr "Κλείσιμο"
+
+#: templates/static_pages/prop_file.html:375
+msgid "Show Auto-tags"
+msgstr "Εμφάνιση Αυτόματων ετικετών"
+
+#: templates/static_pages/prop_file.html:376
+msgid "Hide Auto-tags"
+msgstr "Απόκρυψη αυτόματων ετικετών"
+
+#: templates/static_pages/prop_file.html:377
+msgid "Automatically added semantic tags"
+msgstr "Αυτόματη προσθήκη σημασιολογικών ετικετών"
+
+#: templates/static_pages/prop_file.html:378
+msgid "Place Term"
+msgstr "Όρος Τοποθεσίας"
+
+#: templates/static_pages/prop_file.html:379
+msgid "Place Label"
+msgstr "Ετικέτα Τοποθεσίας"
+
+#: templates/static_pages/prop_file.html:380
+msgid "Geo Space"
+msgstr "Γεωγραφικός Χώρος"
+
+#: templates/static_pages/prop_file.html:381
+msgid "Place Broader Term"
+msgstr "Ευρύτερος Όρος τοποθεσίας"
+
+#: templates/static_pages/prop_file.html:382
+msgid "Place Broader Label"
+msgstr "Ευρύτερη Ετικέτα Τοποθεσίας"
+
+#: templates/static_pages/prop_file.html:383
+msgid "Period Term"
+msgstr "Όρος Περιόδου"
+
+#: templates/static_pages/prop_file.html:384
+msgid "Period Label"
+msgstr "Ετικέτα Περιόδου"
+
+#: templates/static_pages/prop_file.html:385
+msgid "Period Begin"
+msgstr "Έναρξη Περιόδου"
+
+#: templates/static_pages/prop_file.html:386
+msgid "Period End"
+msgstr "Τέλος Περιόδου"
+
+#: templates/static_pages/prop_file.html:387
+msgid "Period Broader Term"
+msgstr "Ευρύτερος Όρος Περιόδου"
+
+#: templates/static_pages/prop_file.html:388
+msgid "Period Broader Label"
+msgstr "Ευρύτερη Ετικέτα Περιόδου"
+
+#: templates/static_pages/prop_file.html:389
+msgid "Concept Term"
+msgstr "Εννοιολογικός Όρος"
+
+#: templates/static_pages/prop_file.html:390
+msgid "Concept Label"
+msgstr "Εννοιολογική Ετικέτα"
+
+#: templates/static_pages/prop_file.html:391
+msgid "Concept Broader Term"
+msgstr "Εννοιολογικός Ευρύτερος Όρος"
+
+#: templates/static_pages/prop_file.html:392
+msgid "Concept Broader Label"
+msgstr "Εννοιολογική Ευρύτερη Ετικέτα"
+
+#: templates/static_pages/prop_file.html:393
+msgid "Agent Term"
+msgstr "Όρος Παράγοντα"
+
+#: templates/static_pages/prop_file.html:394
+msgid "Agent Label"
+msgstr "Ετικέτα Παράγοντα"
+
+#: templates/static_pages/prop_file.html:399
+#: templates/static_pages/prop_file.html:410
+#: templates/static_pages/prop_file.html:421
+#: templates/static_pages/prop_file.html:431
+#: templates/static_pages/prop_file.html:441
+#: templates/static_pages/prop_file.html:451
+#: templates/static_pages/prop_file.html:460
+#: templates/static_pages/prop_file.html:471
+#: templates/static_pages/prop_file.html:482
+msgid "Featured item"
+msgstr "Χαρακτηριστικό αντικείμενο"
+
+#: templates/static_pages/prop_file.html:403
+msgid ""
+"Vase with flowers placed on a table in a range of Red-purple, with many grey "
+"accents, deriving from them. Figurative drawing with touches of green, grey "
+"and white background, divided after the white section. The bottom in Golden "
+"ocher, with shadows of blue."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:414
+msgid ""
+"The Ilse Valley, showing the Dr&uuml;beck Abbey Church and the Ilsenburger "
+"Castle. For this painting a stratagem was used, because in reality both "
+"buildings are further apart."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:425
+msgid ""
+"Eadweard James Muybridge was an English photographer important for his "
+"pioneering work in photographic studies of motion and in motion-picture "
+"projection."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:435
+msgid ""
+"The female personification of Europa sits on a horse in a library. In her "
+"hands a sceptre and a cornucopia. She is joined by putti with attributes "
+"that symbolize the Arts and Sciences. In the background are two men in a "
+"workshop."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:445
+msgid ""
+"Floral composition range of Pinks, yellows and greys greys of red. To "
+"highlight crop floral on blue-yellow background. Balanced color of hot and "
+"cold, the flowers in warm colors-background in cool colors. The entire color "
+"Iriz&#259;ri; flowers."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:455
+msgid ""
+"Items of interest in learning depicted with their names. Etching. The card "
+"shows different objects from a Decanter &amp; Tea Chest to a Ladies Toilet."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:464
+msgid ""
+"Toppop is the first weekly program about pop music on the Dutch television. "
+"Notable artists come to the studio - often with bizarre props and sets - to "
+"playback their newest hit. Broadcast on 18 February 1974 by Dutch public "
+"broadcaster AVRO"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:475
+msgid ""
+"Three staff members of the Phoenix brewery at a truck of the company. The "
+"location is not clear. From left to right: J.H. v.d. Berg, m. Dale and j. "
+"Vasquez."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:486
+msgid ""
+"Milk. The natural pick-me-up. This image was used in 1994, during a campaign "
+"for drinking milk in Switzerland. It was created by Advico Young and Rubicam "
+"advertising agency (D&uuml;bendorf) for the Central Association of Swiss "
+"Milk Producers"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:493
+#: templates/static_pages/prop_file.html:496
+#, fuzzy
+msgid "Europe's culture - collected for you."
+msgstr "Ο πολιτισμός της Ευρώπης - συλλεγμένος για σένα"
+
+#: templates/static_pages/prop_file.html:497
+#, fuzzy
+msgid ""
+"Explore more than 30 million items from a range of Europe's leading "
+"galleries, libraries, archives and museums."
+msgstr ""
+"Πίνακες ζωγραφικής, μουσική, ταινίες και βιβλία από πινακοθήκες, "
+"βιβλιοθήκες, αρχεία και μουσεία της Ευρώπης."
+
+#: templates/static_pages/prop_file.html:498
+#, fuzzy
+msgid "Learn more"
+msgstr "Δείτε περισσότερα"
+
+#: templates/static_pages/prop_file.html:501
+#: templates/static_pages/prop_file.html:510
+#, fuzzy
+msgid "New &amp; Improved - Europeana 1914-1918"
+msgstr "Εξερευνήστε τη Europeana 1914-1918"
+
+#: templates/static_pages/prop_file.html:511
+msgid ""
+"Take a look at the new and improved Europeana 1914-1918 website and browse "
+"the most important pan-European collection of original First World War "
+"source material."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:512
+msgid "Browse website"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:525
+#: templates/static_pages/prop_file.html:526
+#: templates/static_pages/sitemap.html:97
+msgid "Terms of Use &amp; Policies"
+msgstr "Όροι Χρήσης & Πολιτικές"
+
+#: templates/static_pages/prop_file.html:533
+#: templates/static_pages/prop_file.html:534
+msgid "Language Policy"
+msgstr "Πολιτική γλώσσας"
+
+#: templates/static_pages/prop_file.html:537
+#: templates/static_pages/prop_file.html:538
+#: templates/static_pages/sitemap.html:126
+msgid "Contact"
+msgstr "Επικοινωνία"
+
+#: templates/static_pages/prop_file.html:541
+#: templates/static_pages/prop_file.html:542
+#: templates/static_pages/prop_file.html:952
+#: templates/static_pages/prop_file.html:953
+#: templates/static_pages/sitemap.html:11
+msgid "Home"
+msgstr "Αρχική Σελίδα"
+
+#: templates/static_pages/prop_file.html:593
 #: templates/static_pages/sitemap.html:31
 #: templates/static_pages/usingeuropeana_searchwidget.html:9
 msgid "How to configure your search widget"
 msgstr ""
 
-#: templates/static_pages/sitemap.html:36
-msgid "About us"
-msgstr "Σχετικά με εμάς"
+#: templates/static_pages/prop_file.html:594
+#, fuzzy
+msgid "How to configure your search widhet"
+msgstr "Τι είναι η απομακρυσμένη αναζήτηση στοιχείου διεπαφής στη Europeana;"
+
+#: templates/static_pages/prop_file.html:605
+#: templates/static_pages/prop_file.html:606
+msgid "Press Room"
+msgstr "Αίθουσα Τύπου"
+
+#: templates/static_pages/prop_file.html:637
+#: templates/static_pages/prop_file.html:638
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: templates/static_pages/prop_file.html:645
+#: templates/static_pages/prop_file.html:646
+#: templates/static_pages/prop_file.html:651
+msgid "Explore Europe's cultural collections"
+msgstr "Εξερεύνησε τις Ευρωπαϊκές συλλογές"
+
+#: templates/static_pages/prop_file.html:649
+#: templates/static_pages/prop_file.html:650
+msgid "Access professional knowledge"
+msgstr "Πρόσβαση για επαγγελματίες"
+
+#: templates/static_pages/prop_file.html:652
+msgid "Social media activities"
+msgstr "Δραστηριότητες για τα μέσα κοινωνικής δικτύωσης"
+
+#: templates/static_pages/prop_file.html:653
+msgid "From the blog"
+msgstr "Από το ιστολόγιο"
+
+#: templates/static_pages/prop_file.html:654
+msgid "Filter your search"
+msgstr "Φιλτράρετε την έρευνά σας"
+
+#: templates/static_pages/prop_file.html:655
+msgid "Grid view"
+msgstr "Προβολή σε πλέγμα"
+
+#: templates/static_pages/prop_file.html:656
+msgid ""
+"We apologize; there was a problem retrieving the search results from the "
+"server. Please try again later"
+msgstr ""
+"Ζητούμε συγγνώμη. Υπήρξε πρόβλημα κατά την ανάκτηση των αποτελεσμάτων "
+"αναζήτησης από το διακομιστή. Παρακαλείσθε να δοκιμάσετε αργότερα"
+
+#: templates/static_pages/prop_file.html:657
+msgid "Similar items"
+msgstr "Όμοια αντικείμενα"
+
+#: templates/static_pages/prop_file.html:658
+msgid "Loading ..."
+msgstr "Φόρτωση ..."
+
+#: templates/static_pages/prop_file.html:659
+#: templates/static_pages/usingeuropeana_results.html:42
+msgid "Translate details"
+msgstr "Μετάφραση λεπτομερειών"
+
+#: templates/static_pages/prop_file.html:660
+msgid "Return to search results"
+msgstr "Επιστροφή στα αποτελέσματα αναζήτησης"
+
+#: templates/static_pages/prop_file.html:661
+msgid "Next search result"
+msgstr "Επόμενα αποτελέσματα αναζήτησης"
+
+#: templates/static_pages/prop_file.html:662
+msgid "Something went wrong!"
+msgstr "Κάτι πήγε στραβά!"
+
+#: templates/static_pages/prop_file.html:663
+msgid "An email has been sent to inform our technical staff"
+msgstr ""
+"Ένα μήνυμα ηλ-ταχυδρομείου έχει αποσταλεί για πληροφόρηση του τεχνικού μας "
+"προσωπικού"
+
+#: templates/static_pages/prop_file.html:664
+msgid "Please try another search"
+msgstr "Παρακαλείσθε να δοκιμάστε άλλη αναζήτηση"
+
+#: templates/static_pages/prop_file.html:665
+msgid "Saved search removed successfully"
+msgstr "Η αποθηκευμένη αναζήτηση αφαιρέθηκε επιτυχώς"
+
+#: templates/static_pages/prop_file.html:666
+#: templates/static_pages/prop_file.html:679
+msgid "Saved item removed successfully"
+msgstr "Το αποθηκευμένο τεκμήριο αφαιρέθηκε επιτυχώς"
+
+#: templates/static_pages/prop_file.html:667
+msgid "Saved tag removed successfully"
+msgstr "Η αποθηκευμένη ετικέτα αφαιρέθηκε επιτυχώς"
+
+#: templates/static_pages/prop_file.html:668
+msgid "An error occurred"
+msgstr "Παρουσιάστηκε σφάλμα"
+
+#: templates/static_pages/prop_file.html:669
+msgid "The item could not be removed"
+msgstr "Το τεκμήριο δεν μπορεί να αφαιρεθεί"
+
+#: templates/static_pages/prop_file.html:670
+msgid "Auto-generated tags"
+msgstr "Ετικέτες που δημιουργούνται αυτόματα"
+
+#: templates/static_pages/prop_file.html:671
+msgid "Request"
+msgstr "Αίτημα"
+
+#: templates/static_pages/prop_file.html:672
+#: templates/static_pages/prop_file.html:675
+msgid "Legend"
+msgstr "Θρύλος"
+
+#: templates/static_pages/prop_file.html:673
+msgid "See less"
+msgstr "Δείτε λιγότερα"
+
+#: templates/static_pages/prop_file.html:674
+msgid "See more"
+msgstr "Δείτε περισσότερα"
+
+#: templates/static_pages/prop_file.html:676
+msgid "Explore further"
+msgstr "Περαιτέρω εξερεύνηση"
+
+#: templates/static_pages/prop_file.html:677
+msgid "Return to original language"
+msgstr "Επιστροφή στην αρχική γλώσσα"
+
+#: templates/static_pages/prop_file.html:678
+msgid "Attention: this item has been withdrawn by the provider."
+msgstr "Προσοχή: Αυτό το τεκμήριο έχει αποσυρθεί από τον πάροχο."
+
+#: templates/static_pages/prop_file.html:680
+msgid ""
+"We apologise; there was a problem retrieving the data from the server. "
+"Please try again later."
+msgstr ""
+"Ζητούμε συγγνώμη. Παρουσιάστηκε πρόβλημα κατά την ανάκτηση των δεδομένων από "
+"το διακομιστή. Παρακαλείσθε να δοκιμάσετε αργότερα."
+
+#: templates/static_pages/prop_file.html:681
+msgid "Preview"
+msgstr "Προεπισκόπηση"
+
+#: templates/static_pages/prop_file.html:682
+msgid "Return to timeline"
+msgstr "Επιστροφή στο χρονολόγιο"
+
+#: templates/static_pages/prop_file.html:683
+msgid "This email address does not yet exist in our database"
+msgstr ""
+"Αυτή η διεύθυνση ηλεκτρονικού ταχυδρομείου δεν υπάρχει ακόμη στη βάση "
+"δεδομένων μας"
+
+#: templates/static_pages/prop_file.html:684
+msgid "Your password change has been successfully completed"
+msgstr "Η αλλαγή του κωδικού σας ολοκληρώθηκε με επιτυχία"
+
+#: templates/static_pages/prop_file.html:685
+msgid "Zoom"
+msgstr "Εστίαση"
+
+#: templates/static_pages/prop_file.html:686
+msgid "Zoom in"
+msgstr "Μεγέθυνση"
+
+#: templates/static_pages/prop_file.html:687
+msgid "Zoom out"
+msgstr "Σμίκρυνση"
+
+#: templates/static_pages/prop_file.html:688
+msgid "Choose from different map types"
+msgstr "Επιλέξτε ανάμεσα σε διαφορετικούς τύπους χάρτη"
+
+#: templates/static_pages/prop_file.html:689
+msgid ""
+"Navigate map: click and hold left mouse-button, then move mouse to change "
+"the view"
+msgstr ""
+"Πλοηγηθείτε στο χάρτη: πατήστε και κρατήστε πατημένο το αριστερό πλήκτρο του "
+"ποντικιού, ακολούθως μετακινήστε το ποντίκι για να αλλάξετε την προβολή"
+
+#: templates/static_pages/prop_file.html:690
+msgid ""
+"Select via freeform: add anchor points with left mouse-click, double click "
+"to finish the shape"
+msgstr ""
+"Επιλέξτε μέσω ελεύθερης μορφής: προσθέστε τα σημεία αγκύρωσης με το αριστερό "
+"κλικ του ποντικιού, κάντε διπλό κλικ για να ολοκληρωθεί το σχήμα"
+
+#: templates/static_pages/prop_file.html:691
+msgid "Google Satellite"
+msgstr "Google Δορυφορική"
+
+#: templates/static_pages/prop_file.html:692
+msgid "Google Hybrid"
+msgstr "Google Υβριδική"
+
+#: templates/static_pages/prop_file.html:693
+msgid "Google Street"
+msgstr "Google Οδός"
+
+#: templates/static_pages/prop_file.html:694
+msgid "Google Physical"
+msgstr "Google Φυσική"
+
+#: templates/static_pages/prop_file.html:696
+msgid "Tiles courtesy of"
+msgstr "Πλακάκια με την ευγενική παραχώρηση του"
+
+#: templates/static_pages/prop_file.html:697
+msgid ""
+"This is your personal space on Europeana. With My Europeana, you can save "
+"your favourite items and searches, and add tags."
+msgstr ""
+"Αυτός είναι ο προσωπικός σας χώρος στη Europeana. Με το Η Europeana μου, "
+"αποθηκεύετε τα αγαπημένα σας τεκμήρια και έρευνες και προσθέτετε ετικέτες."
+
+#: templates/static_pages/prop_file.html:698
+#: templates/static_pages/usingeuropeana_results.html:19
+msgid "3D"
+msgstr "3D"
+
+#: templates/static_pages/prop_file.html:699
+msgid "Download"
+msgstr "Κατέβασμα"
+
+#: templates/static_pages/prop_file.html:700
+#, fuzzy
+msgid "User contributed content"
+msgstr "Περιεχόμενο που δημιουργεί ο χρήστης"
+
+#: templates/static_pages/prop_file.html:701
+msgid "Play"
+msgstr "Παίξτε"
+
+#: templates/static_pages/prop_file.html:702
+msgid "Read"
+msgstr "Διαβάστε"
+
+#: templates/static_pages/prop_file.html:703
+#: templates/static_pages/usingeuropeana_results.html:34
+msgid "View"
+msgstr "Δείτε"
+
+#: templates/static_pages/prop_file.html:704
+msgid "View larger image"
+msgstr "Δείτε μεγαλύτερη εικόνα"
+
+#: templates/static_pages/prop_file.html:705
+msgid "Your search result contains no items that have map co-ordinates."
+msgstr ""
+"Το αποτέλεσμα της έρευνάς σας δεν περιέχει τεκμήρια που έχουν συντεταγμένες "
+"χαρτών"
+
+#: templates/static_pages/prop_file.html:706
+msgid "Please try another search."
+msgstr "Παρακαλείσθε να δοκιμάστε άλλη αναζήτηση."
+
+#: templates/static_pages/prop_file.html:707
+msgid ""
+"The Europeana map search is still in development and currently doesn't work "
+"in Internet Explorer. We aim to support Internet Explorer in the future. "
+"Currently we recommend you to use Chrome or Firefox."
+msgstr ""
+"Ο ερευνητικός χάρτης της Europeana βρίσκεται ακόμα υπό εξέλιξη και προς το "
+"παρόν δεν λειτουργεί σε Internet Explorer. Σκοπεύουμε να υποστηρίξουμε τον "
+"Internet Explorer στο μέλλον. Προς το παρόν σας συνιστούμε να "
+"χρησιμοποιήσετε το Chrome ή το Firefox."
+
+#: templates/static_pages/prop_file.html:711
+msgid "Wikipedia Citation"
+msgstr "Παραπομπή στη Βικιπαίδεια"
+
+#: templates/static_pages/prop_file.html:712
+msgid "Copy and paste the wiki-markup below:"
+msgstr "Αντιγραφή και επικόλληση στην πιο κάτω επισήμανση του wiki:"
+
+#: templates/static_pages/prop_file.html:719
+#: templates/static_pages/usingeuropeana_search.html:67
+msgid "Include content contributed by users"
+msgstr "Περιλαμβάνει περιεχόμενο που δημιουργούν οι χρήστες"
+
+#: templates/static_pages/prop_file.html:720
+msgid "The map only shows up to 1000 items relevant to your query."
+msgstr "Ο χάρτης εμφανίζει μόνο έως 1.000 τεκμήρια σχετικά με το ερώτημά σας."
+
+#: templates/static_pages/prop_file.html:721
+msgid "No place name available"
+msgstr "Δεν διατίθεται ονομασία τοποθεσίας"
+
+#: templates/static_pages/prop_file.html:722
+msgid "The map only shows up to {0} items relevant to your query."
+msgstr "Ο χάρτης εμφανίζει μόνο έως {0} τεκμήρια σχετικά με το ερώτημά σας."
+
+#: templates/static_pages/prop_file.html:723
+msgid "Search within current map view"
+msgstr "Αναζήτηση με τρέχουσα προβολή χάρτη"
+
+#: templates/static_pages/prop_file.html:724
+#: templates/static_pages/usingeuropeana_results.html:41
+msgid "Citation"
+msgstr "Παραπομπή"
+
+#: templates/static_pages/prop_file.html:725
+#: templates/static_pages/usingeuropeana_results.html:41
+msgid "Footnote"
+msgstr "Υποσημείωση"
+
+#: templates/static_pages/prop_file.html:726
+msgid "Follow us on"
+msgstr "Ακολουθήστε μας στο"
+
+#: templates/static_pages/prop_file.html:727
+msgid "Unable to find content for this page."
+msgstr "Αδύνατο να βρεθεί περιεχόμενο για τη σελίδα αυτή."
+
+#: templates/static_pages/prop_file.html:730
+msgid "Latest on"
+msgstr "Τελευταίο στο"
+
+#: templates/static_pages/prop_file.html:731
+#: templates/static_pages/prop_file.html:972
+#: templates/static_pages/usingeuropeana_search.html:69
+msgid "Share"
+msgstr "Μοιραστείτε"
+
+#: templates/static_pages/prop_file.html:732
+msgid "Share item on Facebook, Twitter, etc."
+msgstr "Μοιραστείτε το τεκμήριο στο Facebook, Twitter κ.λπ."
+
+#: templates/static_pages/prop_file.html:733
+msgid "Follow us!"
+msgstr "Ακολουθήστε μας!"
+
+#: templates/static_pages/prop_file.html:734
+msgid "Newsletter sign-up"
+msgstr "Εγγραφή στο ενημερωτικό δελτίο"
+
+#: templates/static_pages/prop_file.html:735
+#: templates/static_pages/prop_file.html:736
+msgid "Sign-up here"
+msgstr "Εγγραφείτε εδώ"
+
+#: templates/static_pages/prop_file.html:737
+#: templates/static_pages/prop_file.html:993
+msgid "Name"
+msgstr "Ονοματεπώνυμο"
+
+#: templates/static_pages/prop_file.html:738
+msgid "Email Address"
+msgstr "Διεύθυνση ηλ. ταχυδρομείου"
+
+#: templates/static_pages/prop_file.html:739
+msgid ""
+"Sign-up to receive our bi-monthly newsletter, and occasional announcements."
+msgstr ""
+"Εγγραφείτε για να λαμβάνετε το διμηνιαίο ενημερωτικό μας δελτίο και "
+"περιστασιακές ανακοινώσεις."
+
+#: templates/static_pages/prop_file.html:750
+#: templates/static_pages/prop_file.html:761
+#: templates/static_pages/prop_file.html:772
+#: templates/static_pages/prop_file.html:782
+#: templates/static_pages/prop_file.html:793
+msgid "Featured partner"
+msgstr "Χαρακτηριστικός συνεργάτης"
+
+#: templates/static_pages/prop_file.html:754
+msgid ""
+"Ateneum Art Museum is home to the largest and most important art collections "
+"in Finland. The museum governs over 20,000 works of art. The most "
+"significant of these is the Antell Collection, a testamentary donation by "
+"the collector H. F. Antell."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:765
+msgid ""
+"The National Gallery of Ireland houses the Irish national collection of "
+"Irish and European art. It is located in the centre of Dublin with one "
+"entrance on Merrion Square, beside Leinster House, and another on Clare "
+"Street. Due to ongoing renovations, the Clare Street entrance is the only "
+"one currently open. It was founded in 1854 and opened its doors ten years "
+"later. The Gallery has an extensive, representative collection of Irish "
+"painting and is also notable for its Italian Baroque and Dutch masters "
+"painting."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:776
+msgid ""
+"One of the oldest and the best museums of the Upper Volga Region, was "
+"founded in 1910. Now the museum houses more than 120 thousand exhibits: from "
+"saurian bones to paintings of famous artists."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:786
+msgid ""
+"Since its founding in 1952 the Hungarian Theatre Museum and Institute has "
+"been collecting the most valuable relics and data of the Hungarian theatre, "
+"bridging the distant beginnings centuries ago with-last night's "
+"performances. A dozen and a half of separate collections enclose the "
+"invaluable traces of the artform most susceptible to evanescence: paintings, "
+"photographs, stage and costume designs, posters, props, video recordings—and "
+"many more..."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:797
+msgid ""
+"Archive Eemland is the historical information centre of Amersfoort and the "
+"Eemland region. The archive manages approximately 3.5 kilometers of "
+"archives, an image collection of 40,000 photographs, a significant "
+"collection of maps, a growing audiovisual collection and a rich historical "
+"library."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:804
+msgid "API function"
+msgstr "Λειτουργία API"
+
+#: templates/static_pages/prop_file.html:805
+msgid "Search parameters"
+msgstr "Παράμετροι αναζήτησης"
+
+#: templates/static_pages/prop_file.html:806
+msgid "Search term"
+msgstr "Όρος αναζήτησης"
+
+#: templates/static_pages/prop_file.html:807
+msgid "Refinement term(s)"
+msgstr "Όροι ευγένειας"
+
+#: templates/static_pages/prop_file.html:808
+msgid "Profile"
+msgstr "Προφίλ"
+
+#: templates/static_pages/prop_file.html:809
+msgid "Number of records to retrieve"
+msgstr "Αριθμός εγγραφών για ανάκτηση"
+
+#: templates/static_pages/prop_file.html:810
+msgid "First record to retrieve"
+msgstr "Πρώτη εγγραφή για ανάκτηση"
+
+#: templates/static_pages/prop_file.html:811
+msgid "Record parameters"
+msgstr "Παράμετροι εγγραφής"
+
+#: templates/static_pages/prop_file.html:812
+msgid "Record id"
+msgstr "ID εγγραφής"
+
+#: templates/static_pages/prop_file.html:813
+msgid "Request URL"
+msgstr "URL αιτήματος"
+
+#: templates/static_pages/prop_file.html:814
+msgid "JSON response"
+msgstr "Απάντηση JSON"
+
+#: templates/static_pages/prop_file.html:816
+msgid "Search also for:"
+msgstr "Αναζητήστε επίσης για:"
+
+#: templates/static_pages/prop_file.html:818
+msgid "Who"
+msgstr "Ποιος"
+
+#: templates/static_pages/prop_file.html:819
+msgid "What"
+msgstr "Τι"
+
+#: templates/static_pages/prop_file.html:821
+#, fuzzy
+msgid "api-introduction.html"
+msgstr "Εισαγωγή"
+
+#: templates/static_pages/prop_file.html:824
+#: templates/static_pages/prop_file.html:828
+#: templates/static_pages/prop_file.html:832
+#: templates/static_pages/prop_file.html:836
+msgid "_self"
+msgstr "_self"
+
+#: templates/static_pages/prop_file.html:825
+msgid "rights/terms-and-policies.html"
+msgstr "rights/terms-and-policies.html"
+
+#: templates/static_pages/prop_file.html:826
+#: templates/static_pages/prop_file.html:827
+msgid "Terms of use &amp; Policies"
+msgstr "Όροι χρήσης και πολιτικές"
+
+#: templates/static_pages/prop_file.html:829
+msgid "contact.html"
+msgstr "contact.html"
+
+#: templates/static_pages/prop_file.html:833
+msgid "sitemap.html"
+msgstr "sitemap.html"
+
+#: templates/static_pages/prop_file.html:838
+#: templates/static_pages/usingeuropeana_myeuropeana.html:17
+msgid "API keys"
+msgstr "κλειδιά API"
+
+#: templates/static_pages/prop_file.html:839
+msgid "No API key"
+msgstr "όχι κλειδιά API"
+
+#: templates/static_pages/prop_file.html:840
+msgid "API key"
+msgstr "κλειδί API"
+
+#: templates/static_pages/prop_file.html:841
+msgid "Private key"
+msgstr "Ιδιωτικό κλειδί"
+
+#: templates/static_pages/prop_file.html:842
+msgid "Usage limit"
+msgstr "Περιορισμός χρήσης"
+
+#: templates/static_pages/prop_file.html:843
+msgid "Role"
+msgstr "Ρόλος"
+
+#: templates/static_pages/prop_file.html:844
+msgid "Administrator's page"
+msgstr "Σελίδα διαχειριστή"
+
+#: templates/static_pages/prop_file.html:845
+msgid "Remove API key"
+msgstr "Αφαίρεση κλειδιού API"
+
+#: templates/static_pages/prop_file.html:846
+msgid "Limit"
+msgstr "Περιορισμός"
+
+#: templates/static_pages/prop_file.html:847
+msgid "Remove user"
+msgstr "Αφαίρεση χρήστη"
+
+#: templates/static_pages/prop_file.html:848
+msgid "Block user"
+msgstr "Φραγμός χρήστη"
+
+#: templates/static_pages/prop_file.html:849
+msgid "Export API keys to CSV"
+msgstr "Εξαγωγή κλειδιών API στο CSV"
+
+#: templates/static_pages/prop_file.html:850
+msgid "Export users to CSV"
+msgstr "Εξαγωγή χρηστών στο CSV"
+
+#: templates/static_pages/prop_file.html:851
+msgid "User name"
+msgstr "Όνομα χρήστη"
+
+#: templates/static_pages/prop_file.html:852
+msgid "Registration"
+msgstr "Εγγραφή"
+
+#: templates/static_pages/prop_file.html:854
+msgid "Visit the website of"
+msgstr "Επισκεφτείτε το δικτυακό τόπο του"
+
+#: templates/static_pages/prop_file.html:855
+msgid "View the latest content from our partners"
+msgstr "Δείτε το πρόσφατο περιεχόμενο από τους συνεργάτες μας"
+
+#: templates/static_pages/prop_file.html:859
+#: templates/static_pages/prop_file.html:860
+#: templates/static_pages/sitemap.html:15
+msgid "Other Europeana Sites"
+msgstr "Άλλοι δικτυακοί τόποι της Europeana"
+
+#: templates/static_pages/prop_file.html:863
+msgid "Europeana Exhibitions"
+msgstr "Εκθέσεις της Europeana"
+
+#: templates/static_pages/prop_file.html:871
+#: templates/static_pages/sitemap.html:19
+msgid "Europeana 1914-1918"
+msgstr "Europeana 1914-1918"
+
+#: templates/static_pages/prop_file.html:876
+msgid "Remix"
+msgstr "Remix"
+
+#: templates/static_pages/prop_file.html:879
+#: templates/static_pages/sitemap.html:21
+msgid "Europeana Professional"
+msgstr "Επαγγελματική Europeana"
+
+#: templates/static_pages/prop_file.html:880
+msgid "Professional"
+msgstr "Επαγγελματικός"
+
+#: templates/static_pages/prop_file.html:940
+msgid "Change limit for an API key"
+msgstr "Αλλαγή περιορισμού για ένα κλειδί API"
+
+#: templates/static_pages/prop_file.html:941
+msgid "Company or Institution"
+msgstr "Εταιρεία ή Ίδρυμα"
+
+#: templates/static_pages/prop_file.html:942
+msgid "Telephone contact"
+msgstr "Τηλεφωνική επικοινωνία"
+
+#: templates/static_pages/prop_file.html:943
+msgid "Address"
+msgstr "Διεύθυνση"
+
+#: templates/static_pages/prop_file.html:944
+msgid "I confirm that I have read and agree to the"
+msgstr "Επιβεβαιώνω ότι έχω διαβάσει και συμφωνώ με το"
+
+#: templates/static_pages/prop_file.html:945
+msgid "Next in sequence"
+msgstr "Το επόμενο στη συνέχεια"
+
+#: templates/static_pages/prop_file.html:946
+msgid "Date of creation"
+msgstr "Ημερομηνία δημιουργίας"
+
+#: templates/static_pages/prop_file.html:947
+msgid "Is part of"
+msgstr "Είναι μέρος του"
+
+#: templates/static_pages/prop_file.html:958
+msgid "Titles"
+msgstr "Τίτλοι"
+
+#: templates/static_pages/prop_file.html:959
+msgid "Places"
+msgstr "Τοποθεσίες"
+
+#: templates/static_pages/prop_file.html:960
+msgid "Dates/Periods"
+msgstr "Ημερομηνίες/Περίοδοι"
+
+#: templates/static_pages/prop_file.html:961
+msgid "Subjects"
+msgstr "Θέματα"
+
+#: templates/static_pages/prop_file.html:962
+msgid "Creators"
+msgstr "Δημιουργοί"
+
+#: templates/static_pages/prop_file.html:963
+msgid "All fields"
+msgstr "Όλα τα πεδία"
+
+#: templates/static_pages/prop_file.html:964
+msgid "Featured Item"
+msgstr "Χαρακτηριστικό Αντικείμενο"
+
+#: templates/static_pages/prop_file.html:965
+#: templates/static_pages/usingeuropeana_explore.html:15
+msgid "Featured Partner"
+msgstr "Χαρακτηριστικός Συνεργάτης"
+
+#: templates/static_pages/prop_file.html:966
+msgid "Click here for last page of results"
+msgstr "Πατήστε εδώ για την τελευταία σελίδα αποτελεσμάτων"
+
+#: templates/static_pages/prop_file.html:967
+#: templates/static_pages/usingeuropeana_results.html:24
+msgid "Results per page"
+msgstr "Αποτελέσματα ανά σελίδα"
+
+#: templates/static_pages/prop_file.html:968
+#: templates/static_pages/usingeuropeana_search.html:49
+msgid "Add more keywords"
+msgstr "Προσθέσθε περισσότερες λέξεις κλειδιά"
+
+#: templates/static_pages/prop_file.html:969
+msgid "+ Add"
+msgstr "+ Προσθήκη"
+
+#: templates/static_pages/prop_file.html:970
+msgid "Field of work"
+msgstr "Πεδίο εργασίας"
+
+#: templates/static_pages/prop_file.html:971
+msgid "Please, select"
+msgstr "Παρακαλείσθε να επιλέξετε"
+
+#: templates/static_pages/prop_file.html:973
+msgid "Please try another search later."
+msgstr "Παρακαλείσθε να δοκιμάσετε άλλη αναζήτηση αργότερα."
+
+#: templates/static_pages/prop_file.html:974
+msgid "Unable to find the requested page"
+msgstr "Αδύνατο να βρεθεί η αιτούμενη σελίδα"
+
+#: templates/static_pages/prop_file.html:975
+msgid "Alert:"
+msgstr "Ειδοποίηση:"
+
+#: templates/static_pages/prop_file.html:976
+msgid "Unable to find the requested Europeana Record."
+msgstr "Αδύνατο να βρεθεί η αιτούμενη Εγγραφή στη Europeana."
+
+#: templates/static_pages/prop_file.html:977
+msgid "This item has been withdrawn by the provider."
+msgstr "Αυτό το τεκμήριο έχει αποσυρθεί από τον πάροχο."
+
+#: templates/static_pages/prop_file.html:978
+msgid "Requested Europeana Record is not yet indexed."
+msgstr "Η αιτούμενη Εγγραφή στη Europeana δεν έχει ακόμα ευρετηριαστεί."
+
+#: templates/static_pages/prop_file.html:980
+msgid "Please register your email again"
+msgstr " "
+
+#: templates/static_pages/prop_file.html:981
+msgid "to finish registration."
+msgstr "για να τελειώσει η εγγραφή."
+
+#: templates/static_pages/prop_file.html:982
+msgid "Unable to fullfill your request due to malformed query parameters."
+msgstr ""
+"Αδύνατο να εκπληρωθεί το αίτημά σας εξαιτίας κακής μορφής των παραμέτρων του "
+"ερωτήματος."
+
+#: templates/static_pages/prop_file.html:983
+msgid "Unable to get a response from the Search Engine."
+msgstr "Αδύνατο να δοθεί απάντηση από τη Μηχανή Αναζήτησης."
+
+#: templates/static_pages/prop_file.html:984
+msgid "Unable to fulfill your request due to a malformed query syntax."
+msgstr ""
+"Αδύνατο να εκπληρωθεί το αίτημά σας εξαιτίας κακής μορφής των παραμέτρων της "
+"σύνταξης."
+
+#: templates/static_pages/prop_file.html:985
+msgid "We are unable to change the interface to the requested language."
+msgstr "Δεν μπορούμε να αλλάξουμε τη διεπαφή στην αιτούμενη γλώσσα."
+
+#: templates/static_pages/prop_file.html:986
+msgid "Please try another language from the dropdown list."
+msgstr "Παρακαλείσθε να δοκιμάσετε άλλη γλώσσα από τον ανελισσόμενο κατάλογο."
+
+#: templates/static_pages/prop_file.html:987
+msgid "Number of results shown on the page"
+msgstr "Αριθμός αποτελεσμάτων που εμφανίζονται στη σελίδα"
+
+#: templates/static_pages/prop_file.html:994
+msgid "API-key"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:995
+msgid "Number of calls"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:997
+#: templates/static_pages/prop_file.html:998
+msgid "Can I use it?"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:999
+#, fuzzy
+msgid "Yes, with attribution"
+msgstr "Απόδοση"
+
+#: templates/static_pages/prop_file.html:1000
+#, fuzzy
+msgid "Yes, with restrictions"
+msgstr "Απόδοση"
+
+#: templates/static_pages/prop_file.html:1001
+msgid "Only with permission"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1003
+#, fuzzy
+msgid "Export API users to CSV"
+msgstr "Εξαγωγή χρηστών στο CSV"
+
+#: templates/static_pages/prop_file.html:1004
+#, fuzzy
+msgid "Export API users to Excel"
+msgstr "Εξαγωγή χρηστών στο CSV"
+
+#: templates/static_pages/sitemap.html:4
+msgid "Europeana - Sitemap"
+msgstr "Europeana - Χάρτης πλοήγησης"
+
+#: templates/static_pages/sitemap.html:27
+msgid "Searching in Europeana"
+msgstr "Αναζήτηση στη Europeana"
 
 #: templates/static_pages/sitemap.html:39
 #, fuzzy
@@ -1844,14 +4541,6 @@ msgstr "Μέθοδοι API"
 msgid "Record"
 msgstr "Εγγραφή"
 
-#: templates/static_pages/sitemap.html:65
-#: templates/static_pages/usingeuropeana_search.html:21
-#: templates/static_pages/usingeuropeana_search.html:25
-#: templates/static_pages/usingeuropeana_search.html:27
-#: templates/static_pages/usingeuropeana_search.html:45
-msgid "Search"
-msgstr "Αναζήτηση"
-
 #: templates/static_pages/sitemap.html:66
 msgid "Suggestions"
 msgstr "Προτάσεις"
@@ -1876,22 +4565,10 @@ msgstr "Πεδία της Europeana"
 msgid "API1-API2 compatability"
 msgstr "Συμβατότητα API1-API2"
 
-#: templates/static_pages/sitemap.html:97
-msgid "Terms of Use &amp; Policies"
-msgstr "Όροι Χρήσης & Πολιτικές"
-
 #: templates/static_pages/sitemap.html:104
 msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
 msgstr ""
 "Συμφωνία Ανταλλαγής Δεδομένων της Europeana (στο Europeana Professional)"
-
-#: templates/static_pages/sitemap.html:107
-msgid "Language policy"
-msgstr "Πολιτική γλώσσας"
-
-#: templates/static_pages/sitemap.html:113
-msgid "Rights"
-msgstr "Δικαιώματα"
 
 #: templates/static_pages/sitemap.html:115
 #, fuzzy
@@ -1925,10 +4602,6 @@ msgstr ""
 msgid "Out of copyright - non commercial reuse"
 msgstr ""
 
-#: templates/static_pages/sitemap.html:126
-msgid "Contact"
-msgstr "Επικοινωνία"
-
 #: templates/static_pages/sitemap.html:127
 #, fuzzy
 msgid "Europeana Semantic Elements (ESE)"
@@ -1942,10 +4615,6 @@ msgstr "μεταδεδομένα της Europeana"
 #: templates/static_pages/storyline.html:4
 msgid "Europeana - Storyline and credits"
 msgstr "Europeana - Λωρίδα ιστοριών και ονόματα συντελεστών"
-
-#: templates/static_pages/storyline.html:11
-msgid "Storyline and credits"
-msgstr "Λωρίδα ιστοριών και ονόματα συντελεστών"
 
 #: templates/static_pages/storyline.html:13
 msgid "Descartes"
@@ -2385,16 +5054,6 @@ msgstr ""
 "πολλές ευχαριστίες στο Cité de la Musique που μας έδωσε τη δυνατότητα να το "
 "χρησιμοποιήσουμε ως βάση για την ηχητική απόδοση της ταινίας μας."
 
-#: templates/static_pages/storyline.html:49
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid "Title"
-msgstr "Τίτλος"
-
-#: templates/static_pages/storyline.html:50
-#: templates/static_pages/usingeuropeana_search.html:31
-msgid "Creator"
-msgstr "Δημιουργός"
-
 #: templates/static_pages/storyline.html:51
 msgid "Collection"
 msgstr "Συλλογή"
@@ -2541,10 +5200,6 @@ msgid "in the"
 msgstr "στην επιλογή"
 
 #: templates/static_pages/usingeuropeana_explore.html:15
-msgid "Featured Partner"
-msgstr "Χαρακτηριστικός Συνεργάτης"
-
-#: templates/static_pages/usingeuropeana_explore.html:15
 msgid "area"
 msgstr "περιοχή"
 
@@ -2565,10 +5220,6 @@ msgid "and you can"
 msgstr "και μπορείτε"
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:14
-msgid "Save this search"
-msgstr "Αποθηκεύσουν αυτή την αναζήτηση"
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:14
 msgid ""
 "Keep up to date on a particular topic in Europeana by saving a search, so "
 "you can easily perform it again in future."
@@ -2576,10 +5227,6 @@ msgstr ""
 "Παραμείνετε ενημερωμένοι για ένα  συγκεκριμένο θέμα της Europeana με την "
 "αποθήκευση της αναζήτησης, ώστε να μπορείτε να την επαναλάβετε εύκολα και "
 "πάλι στο μέλλον."
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:15
-msgid "Add a tag"
-msgstr "Προσθέσουν ετικέτα"
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:15
 msgid ""
@@ -2593,16 +5240,8 @@ msgstr ""
 "που έχετε επιλέξει, στη διεπαφή My Europeana."
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:16
-msgid "Save to My Europeana"
-msgstr "Αποθηκεύσουν στην ενότητα Η Europeana μου"
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:16
 msgid "Store your favourite items for later viewing."
 msgstr "Αποθηκεύσετε τα αγαπημένα σας τεκμήρια για να τα δείτε αργότερα."
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:17
-msgid "API keys"
-msgstr "κλειδιά API"
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:17
 msgid ""
@@ -2665,16 +5304,8 @@ msgstr ""
 "χάρτες, γραφικά σχεδιαγράμματα, σχέδια και μουσική σημειογραφία."
 
 #: templates/static_pages/usingeuropeana_results.html:17
-msgid "Video"
-msgstr "Βίντεο"
-
-#: templates/static_pages/usingeuropeana_results.html:17
 msgid "films, news broadcasts and television programmes"
 msgstr "ταινίες, δελτία ειδήσεων και τηλεοπτικά προγράμματα"
-
-#: templates/static_pages/usingeuropeana_results.html:18
-msgid "Sound"
-msgstr "Ήχος"
 
 #: templates/static_pages/usingeuropeana_results.html:18
 msgid ""
@@ -2682,10 +5313,6 @@ msgid ""
 msgstr ""
 "μουσική και προφορικός λόγος από κυλίνδρους, ταινίες, δίσκους και "
 "ραδιοφωνικές εκπομπές."
-
-#: templates/static_pages/usingeuropeana_results.html:19
-msgid "3D"
-msgstr "3D"
 
 #: templates/static_pages/usingeuropeana_results.html:19
 msgid "virtual 3D representations of objects, architecture or places."
@@ -2717,22 +5344,10 @@ msgstr ""
 "πόσα αποτελέσματα θα σας εμφανιστούν σε μια σελίδα επιλέγοντας από τον"
 
 #: templates/static_pages/usingeuropeana_results.html:24
-msgid "Results per page"
-msgstr "Αποτελέσματα ανά σελίδα"
-
-#: templates/static_pages/usingeuropeana_results.html:24
 msgid "drop-down list either above or below the results. You can select"
 msgstr ""
 "πτυσσόμενο κατάλογο είτε πάνω είτε κάτω από τα αποτελέσματα. Μπορείτε να "
 "επιλέξετε"
-
-#: templates/static_pages/usingeuropeana_results.html:24
-#: templates/static_pages/usingeuropeana_results.html:25
-#: templates/static_pages/usingeuropeana_results.html:41
-#: templates/static_pages/usingeuropeana_results.html:49
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid "or"
-msgstr "ή"
 
 #: templates/static_pages/usingeuropeana_results.html:25
 msgid ""
@@ -2787,10 +5402,6 @@ msgstr "Εμφάνιση/προεπισκόπηση εικονιδίου"
 #: templates/static_pages/usingeuropeana_results.html:34
 msgid "hit the magnifying glass"
 msgstr "πατήστε το μεγεθυντικό φακό"
-
-#: templates/static_pages/usingeuropeana_results.html:34
-msgid "View"
-msgstr "Δείτε"
 
 #: templates/static_pages/usingeuropeana_results.html:34
 msgid ""
@@ -2864,10 +5475,6 @@ msgstr ""
 "στείλτε το με ηλ.-μήνυμα. Απλώς επιλέξτε ό,τι επιθυμείτε."
 
 #: templates/static_pages/usingeuropeana_results.html:41
-msgid "Cite on Wikipedia"
-msgstr "Παραπομπή στη Βικιπαίδεια"
-
-#: templates/static_pages/usingeuropeana_results.html:41
 msgid ""
 "this function will help you link to Europeana items and cite them in "
 "Wikipedia articles. The code you need is formatted for direct inclusion in "
@@ -2879,24 +5486,12 @@ msgstr ""
 "Βικιπαίδεια. Επιλέξτε"
 
 #: templates/static_pages/usingeuropeana_results.html:41
-msgid "Citation"
-msgstr "Παραπομπή"
-
-#: templates/static_pages/usingeuropeana_results.html:41
-msgid "Footnote"
-msgstr "Υποσημείωση"
-
-#: templates/static_pages/usingeuropeana_results.html:41
 msgid ""
 "and copy and paste the text provided. To close the citation window, hit the "
 "X in the top right corner."
 msgstr ""
 "και αντιγράψτε και επικολλήσετε το κείμενο που παρέχεται. Για να κλείσετε το "
 "παράθυρο παραπομπής, πατήστε το Χ στη γωνία πάνω δεξιά."
-
-#: templates/static_pages/usingeuropeana_results.html:42
-msgid "Translate details"
-msgstr "Μετάφραση λεπτομερειών"
 
 #: templates/static_pages/usingeuropeana_results.html:42
 msgid ""
@@ -2934,14 +5529,6 @@ msgid "To move to the previous or next item in your search results, hit the"
 msgstr ""
 "Για να κινηθείτε στο προηγούμενο ή επόμενο τεκμήριο στα αποτελέσματα "
 "αναζήτησης, πατήστε"
-
-#: templates/static_pages/usingeuropeana_results.html:49
-msgid "Next"
-msgstr "Επόμενο"
-
-#: templates/static_pages/usingeuropeana_results.html:49
-msgid "Previous"
-msgstr "Προηγούμενο"
 
 #: templates/static_pages/usingeuropeana_results.html:49
 msgid "options"
@@ -3109,10 +5696,6 @@ msgstr ""
 "φωτογραφίες του καλλιτέχνη ή ντοκιμαντέρ γι 'αυτόν και το έργο του."
 
 #: templates/static_pages/usingeuropeana_search.html:32
-msgid "Subject"
-msgstr "Θέμα"
-
-#: templates/static_pages/usingeuropeana_search.html:32
 msgid ""
 "followed by a type of item, a subject you are interested in or words from "
 "the title of the item you are looking for. Your search results will display "
@@ -3161,10 +5744,6 @@ msgstr ""
 "θα σας βοηθήσει να διαφοροποιήσετε την αναζήτησή σας όταν ψάχνετε μόνο για "
 "αντικείμενα που δημιουργήθηκαν ή βρίσκονται στο Μιλάνο, αποκλείοντας "
 "τεκμήρια του συγγραφέα Μίλαν Κούντερα από τα αποτελέσματα της αναζήτησής σας."
-
-#: templates/static_pages/usingeuropeana_search.html:34
-msgid "Date"
-msgstr "Ημερομηνία"
 
 #: templates/static_pages/usingeuropeana_search.html:34
 msgid ""
@@ -3274,16 +5853,8 @@ msgstr ""
 "λέξη κλειδί στο"
 
 #: templates/static_pages/usingeuropeana_search.html:49
-msgid "Add more keywords"
-msgstr "Προσθέσθε περισσότερες λέξεις κλειδιά"
-
-#: templates/static_pages/usingeuropeana_search.html:49
 msgid "field and hit"
 msgstr "πεδίο και πατήστε"
-
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid "Add"
-msgstr "Προσθήκη"
 
 #: templates/static_pages/usingeuropeana_search.html:49
 msgid "The keyword is displayed at the top of the pane, under"
@@ -3300,12 +5871,6 @@ msgstr ""
 "λέξη κλειδί στο"
 
 #: templates/static_pages/usingeuropeana_search.html:51
-#: templates/static_pages/usingeuropeana_search.html:63
-#: templates/static_pages/usingeuropeana_search.html:65
-msgid "Matches for"
-msgstr "Ταιριάζει με"
-
-#: templates/static_pages/usingeuropeana_search.html:51
 msgid "list."
 msgstr "κατάλογο."
 
@@ -3316,10 +5881,6 @@ msgstr "Μπορείτε επίσης να"
 #: templates/static_pages/usingeuropeana_search.html:53
 msgid "filter your search results:"
 msgstr "να φιλτράρετε τα αποτελέσματα αναζήτησης:"
-
-#: templates/static_pages/usingeuropeana_search.html:55
-msgid "By media type"
-msgstr "Κατά είδος μέσων ενημέρωσης"
 
 #: templates/static_pages/usingeuropeana_search.html:55
 msgid ""
@@ -3360,10 +5921,6 @@ msgid ""
 msgstr ""
 "θα εμφανίσει μόνο αντικείμενα από επιλεγμένες χώρες, π.χ. η χώρα του "
 "ιδρύματος, το οποίο παρέχει το αντικείμενο στη Europeana."
-
-#: templates/static_pages/usingeuropeana_search.html:59
-msgid "By copyright"
-msgstr "Σύμφωνα με τα πνευματικά δικαιώματα"
 
 #: templates/static_pages/usingeuropeana_search.html:59
 msgid ""
@@ -3410,10 +5967,6 @@ msgid "You can also select to"
 msgstr "Επίσης μπορείτε να επιλέξετε τε"
 
 #: templates/static_pages/usingeuropeana_search.html:67
-msgid "Include content contributed by users"
-msgstr "Περιλαμβάνει περιεχόμενο που δημιουργούν οι χρήστες"
-
-#: templates/static_pages/usingeuropeana_search.html:67
 msgid ""
 "This means items that have not come from a cultural institution but from an "
 "individual user, for example, items contributed to the Europeana 1914-1918 "
@@ -3426,10 +5979,6 @@ msgstr ""
 #: templates/static_pages/usingeuropeana_search.html:69
 msgid "Share your search with friends by choosing"
 msgstr "Μοιραστείτε την αναζήτησή σας με φίλους επιλέγοντας"
-
-#: templates/static_pages/usingeuropeana_search.html:69
-msgid "Share"
-msgstr "Μοιραστείτε"
 
 #: templates/static_pages/usingeuropeana_search.html:69
 msgid ""
@@ -3558,10 +6107,6 @@ msgid ""
 "word and 'Places' as a type. Tap 'Change' next to 'All Fields' and select "
 "the option you need."
 msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:30
-msgid "Providers"
-msgstr "Πάροχοι"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:30
 msgid ""
@@ -3710,1741 +6255,9 @@ msgid ""
 "by dropping us an email at"
 msgstr ""
 
-#~ msgid ""
-#~ "I understand that My Europeana gives me the opportunity to create tags "
-#~ "for any item I wish. I agree that I will not create any tags that could "
-#~ "be considered libelous, harmful, threatening, unlawful, defamatory,"
-#~ "infringing, abusive, inflammatory, harassing, pornographic, obscene, "
-#~ "fraudulent, invasive of privacy orpublicity rights, hateful, or racially, "
-#~ "ethnically or otherwise objectionable. By clicking this box I agreeto "
-#~ "abide by this agreement, and understand that if I don't my membership of "
-#~ "My Europeana will be terminated."
-#~ msgstr ""
-#~ "Κατανοώ ότι Η Europeana μου, μού δίνει την ευκαιρία να δημιουργήσω "
-#~ "ετικέτες για όποιο τεκμήριο επιθυμώ. Συμφωνώ ότι δεν θα δημιουργήσω "
-#~ "ετικέτες που μπορούν να θεωρηθούν δυσφημιστικές, επιζήμιες, απειλητικές, "
-#~ "παράνομες, συκοφαντικές, παραβατικές, υβριστικές, εμπρηστικές, "
-#~ "παρενοχλητικές, πορνογραφικές, ανήθικες, δόλιες, παρεμβατικές στα "
-#~ "δικαιώματα της ιδιωτικής μου ζωής ή δημοσιότητας, που προκαλούν μίσος ή "
-#~ "είναι ρατσιστικά, εθνικά ή με άλλο τρόπο αποδοκιμαστέες. Πατώντας αυτό το "
-#~ "τετραγωνίδιο δεσμεύομαι να τηρήσω αυτή τη συμφωνία και κατανοώ ότι αν δεν "
-#~ "το κάνω, τα δικαιώματά μου ως μέλος της Europeana μου θα τερματιστούν."
-
-#~ msgid "You must agree to our code of conduct to register for My Europeana"
-#~ msgstr ""
-#~ "Πρέπει να συμφωνήσετε με τον κώδικα συμπεριφοράς μας για να εγγραφείτε "
-#~ "στη Europeana μου"
-
-#~ msgid "I agree"
-#~ msgstr "Συμφωνώ"
-
-#~ msgid "Contributor"
-#~ msgstr "Συνεργαζόμενοι φορείς"
-
-#~ msgid "Contributors"
-#~ msgstr "Συνεργαζόμενοι φορείς"
-
-#~ msgid "Country"
-#~ msgstr "Χώρα"
-
-#~ msgid "Sector"
-#~ msgstr "Τομέας"
-
-#~ msgid "Partner"
-#~ msgstr "Εταίρος"
-
-#~ msgid ""
-#~ "This is the network of partners who collaborated to make Europeana "
-#~ "happen, and who represent Europeana in their countries and professional "
-#~ "associations."
-#~ msgstr ""
-#~ "Αυτό είναι το δίκτυο των εταίρων οι οποίοι συνεργάστηκαν για να "
-#~ "δημιουργηθεί η Europeana και οι οποίοι αντιπροσωπεύουν τη Europeana στις "
-#~ "χώρες τους και στις επαγγελματικές ενώσεις."
-
-#~ msgid ""
-#~ "These are the organisations that are contributing content - digitised "
-#~ "paintings, books, broadcasts etc. Some of these contributors are  "
-#~ "aggregators*, Culture.fr is the largest aggregator, providing content "
-#~ "from about 480 organisations in France, including the Louvre and the "
-#~ "Musée d’Orsay. The number of organisations contributing to an aggregator "
-#~ "is shown in brackets after the aggregator’s name, e.g. Videoactive (10)"
-#~ msgstr ""
-#~ "Αυτοί είναι οι οργανισμοί που συνεισφέρουν περιεχόμενο - ψηφιοποιημένα "
-#~ "έργα ζωγραφικής, βιβλία, ραδιοφωνικές εκπομπές κ.λπ. Μερικοί από αυτούς "
-#~ "τους συνεργαζόμενους φορείς είναι συσσωρευτές*. Το Culture.fr είναι ο "
-#~ "μεγαλύτερος συσσωρευτής, παρέχοντας περιεχόμενο περίπου από 480 "
-#~ "οργανισμούς στη Γαλλία, όπως το Λούβρο και το Μουσείο d'Orsay. Ο αριθμός "
-#~ "των οργανισμών που συνεισφέρουν στον συσσωρευτή εμφανίζεται σε "
-#~ "παρενθέσεις μετά το όνομα του συσσωρευτή, π.χ. Videoactive (10)"
-
-#~ msgid ""
-#~ "*An aggregator collects material from a range of other contributors, "
-#~ "displays it on their own website and also channels it into Europeana."
-#~ msgstr ""
-#~ "*Ένας συσσωρευτής συλλέγει υλικό από σειρά άλλων συνεργαζόμενων φορέων, "
-#~ "το εμφανίζει στο δικό του δικτυακό τόπο και το διοχετεύει επίσης στη "
-#~ "Europeana."
-
-#~ msgid "This is a required field"
-#~ msgstr "Αυτό είναι απαιτούμενο πεδίο"
-
-#~ msgid "Please enter a valid email address"
-#~ msgstr "Παρακαλείσθε να εισάγετε μια έγκυρη διεύθυνση ηλ-ταχυδρομείου"
-
-#~ msgid "Logged in as"
-#~ msgstr "Έγινε σύνδεση ως"
-
-#~ msgid "Saved items"
-#~ msgstr "Αποθηκευμένα τεκμήρια"
-
-#~ msgid "Saved searches"
-#~ msgstr "Αποθηκευμένες αναζητήσεις"
-
-#~ msgid "Saved tags"
-#~ msgstr "Αποθηκευμένες ετικέτες"
-
-#~ msgid "Saved notifications"
-#~ msgstr "Αποθηκευμένες ετικέτες"
-
-#~ msgid "Login"
-#~ msgstr "Σύνδεση"
-
-#~ msgid "Log out"
-#~ msgstr "Αποσύνδεση"
-
-#~ msgid ""
-#~ "Thank you very much for your feedback. If your feedback requires a "
-#~ "response a member of the Europeana team will get back to you as soon as "
-#~ "possible. For faster response feedback should be submitted in English."
-#~ msgstr ""
-#~ "Σας ευχαριστούμε για το σχόλιό σας. Αν το σχόλιό σας απαιτεί απάντηση, "
-#~ "ένα μέλος της ομάδας της Europeana θα επικοινωνήσει μαζί σας το "
-#~ "συντομότερο δυνατό. Για ταχύτερη ανταπόκριση, το σχόλιο πρέπει να "
-#~ "υποβάλλεται στα Αγγλικά."
-
-#~ msgid "Keep me in touch with new developments to Europeana"
-#~ msgstr ""
-#~ "# EnewsOptin_t [Να με ενημερώνετε για τις νέες εξελίξεις της Europeana]"
-
-#~ msgid "User Conduct"
-#~ msgstr "Συμπεριφορά χρήστη"
-
-#~ msgid ""
-#~ "I understand that My Europeana gives me the opportunity to create tags "
-#~ "for any item I wish. I agree that I will not create any tags that could "
-#~ "be considered libelous, harmful, threatening, unlawful, defamatory, "
-#~ "infringing, abusive, inflammatory, harassing, pornographic, obscene, "
-#~ "fraudulent, invasive of privacy or publicity rights, hateful, or "
-#~ "racially, ethnically or otherwise objectionable. By clicking this box I "
-#~ "agree to abide by this agreement, and understand that if I don't my "
-#~ "membership of My Europeana will be terminated. CLICK TO AGREE"
-#~ msgstr ""
-#~ "Κατανοώ ότι Η Europeana μου, μού δίνει την ευκαιρία να δημιουργήσω "
-#~ "ετικέτες για όποιο τεκμήριο επιθυμώ. Συμφωνώ ότι δεν θα δημιουργήσω "
-#~ "ετικέτες που μπορούν να θεωρηθούν δυσφημιστικές, επιζήμιες, απειλητικές, "
-#~ "παράνομες, συκοφαντικές, παραβατικές, υβριστικές, εμπρηστικές, "
-#~ "παρενοχλητικές, πορνογραφικές, ανήθικες, δόλιες, παρεμβατικές στα "
-#~ "δικαιώματα της ιδιωτικής μου ζωής ή δημοσιότητας, που προκαλούν μίσος ή "
-#~ "ρατσισμό, εθνικά ή με άλλο τρόπο αποδοκιμαστέες. Πατώντας αυτό το "
-#~ "τετραγωνίδιο δεσμεύομαι να τηρήσω αυτή τη συμφωνία και κατανοώ ότι αν δεν "
-#~ "το κάνω, τα δικαιώματά μου ως μέλος της Europeana μου θα τερματιστούν. "
-#~ "ΠΑΤΗΣΤΕ ΓΙΑ ΝΑ ΣΥΜΦΩΝΗΣΕΤΕ"
-
-#~ msgid "First name"
-#~ msgstr "Κύριο όνομα"
-
-#~ msgid "Last name"
-#~ msgstr "Επώνυμο"
-
-#~ msgid ""
-#~ "To make optimal use of this website you need to have JavaScript activated"
-#~ msgstr ""
-#~ "Για να επιτύχετε τη βέλτιστη χρήση αυτού του δικτυακού τόπου, χρειάζεται "
-#~ "να έχετε ενεργοποιήσει το JavaScript"
-
-#~ msgid "Check the FAQs - they may cover your feedback"
-#~ msgstr "Ελέγξτε τις Συχνές Ερωτήσεις - ίσως καλύπτουν το σχόλιό σας"
-
-#~ msgid "Communities"
-#~ msgstr "Κοινότητες"
-
-#~ msgid "ThoughtLab"
-#~ msgstr "ThoughtLab"
-
-#~ msgid "Choose a language"
-#~ msgstr "Επιλέξτε γλώσσα"
-
-#~ msgid "Select language"
-#~ msgstr "Επιλογή γλώσσας"
-
-#~ msgid "This is Europeana"
-#~ msgstr "Αυτή είναι η Europeana"
-
-#~ msgid ""
-#~ "a place for inspiration and ideas. Search through the cultural "
-#~ "collections of Europe, connect to other user pathways and share your "
-#~ "discoveries."
-#~ msgstr ""
-#~ "ένας χώρος για έμπνευση και ιδέες. Ερευνήστε στις πολιτιστικές συλλογές "
-#~ "της Ευρώπης, συνδεθείτε με τα μονοπάτια άλλων χρηστών και μοιραστείτε τις "
-#~ "ανακαλύψεις σας."
-
-#~ msgid "Find out more"
-#~ msgstr "Μάθετε περισσότερα"
-
-#~ msgid "Reset"
-#~ msgstr "Επανεκκίνηση"
-
-#~ msgid "Advanced search"
-#~ msgstr "Σύνθετη αναζήτηση"
-
-#~ msgid "Hide advanced search"
-#~ msgstr "Απόκρυψη σύνθετης αναζήτησης"
-
-#~ msgid "and"
-#~ msgstr "και"
-
-#~ msgid "not"
-#~ msgstr "δεν"
-
-#~ msgid "Any field"
-#~ msgstr "Οποιοδήποτε πεδίο"
-
-#~ msgid "Share your ideas"
-#~ msgstr "Μοιραστείτε τις ιδέες σας"
-
-#~ msgid "Tagging"
-#~ msgstr "Τοποθέτηση ετικετών"
-
-#~ msgid "Send us feedback"
-#~ msgstr "Στείλτε μας τα σχόλιά σας"
-
-#~ msgid "People are currently thinking about"
-#~ msgstr "Οι άνθρωποι τώρα σκέφτονται γι' αυτό"
-
-#~ msgid "Timeline navigator"
-#~ msgstr "Πλοηγός χρονολογίου"
-
-#~ msgid "Browse through time"
-#~ msgstr "Χρονολογικά"
-
-#~ msgid ""
-#~ "From our partner museums, archives, libraries and audio-visual collections"
-#~ msgstr ""
-#~ "Από τις συλλογές μουσείων, αρχείων, βιβλιοθηκών και οπτικοακουστικού "
-#~ "υλικού των εταίρων μας"
-
-#~ msgid "Using Europeana"
-#~ msgstr "Χρήση της Europeana"
-
-#~ msgid "Terms and conditions"
-#~ msgstr "Όροι και συνθήκες"
-
-#~ msgid "Contact us"
-#~ msgstr "Επικοινωνήστε μαζί μας"
-
-#~ msgid "co-funded by the European Union"
-#~ msgstr "συγχρηματοδοτούμενο από την Ευρωπαϊκή Ένωση"
-
-#~ msgid "Europeana think culture"
-#~ msgstr "Europeana σκέψου τον πολιτισμό"
-
-#~ msgid "Click here to return to the Europeana homepage"
-#~ msgstr "Πατήστε εδώ για να επιστρέψετε στην πρώτη σελίδα της Europeana"
-
-#~ msgid "Refine your results"
-#~ msgstr "Επαναπροσδιορίστε τα αποτελέσματά σας"
-
-#~ msgid "By language of description"
-#~ msgstr "Κατά γλώσσα περιγραφής"
-
-#~ msgid "By providing country"
-#~ msgstr "Κατά χώρα προέλευσης"
-
-#~ msgid "By year"
-#~ msgstr "Κατά έτος"
-
-#~ msgid "By user tag"
-#~ msgstr "Κατά ετικέτα χρήστη"
-
-#~ msgid "By type"
-#~ msgstr "Κατά είδος"
-
-#~ msgid "Actions"
-#~ msgstr "Ενέργειες"
-
-#~ msgid "Search saved"
-#~ msgstr "Η έρευνα αποθηκεύτηκε"
-
-#~ msgid "Saving search failed"
-#~ msgstr "Αποτυχία αποθήκευσης της αναζήτησης"
-
-#~ msgid "You have searched for"
-#~ msgstr "Έχετε κάνει αναζήτηση για"
-
-#~ msgid "You are viewing related items"
-#~ msgstr "Βλέπετε σχετικά τεκμήρια"
-
-#~ msgid "All"
-#~ msgstr "Όλα"
-
-#~ msgid "Text"
-#~ msgstr "Κείμενο"
-
-#~ msgid "Image"
-#~ msgstr "Εικόνα"
-
-#~ msgid "List view"
-#~ msgstr "Προβολή καταλόγου"
-
-#~ msgid "#Table view"
-#~ msgstr "# Εμφάνιση Πίνακα"
-
-#~ msgid "Page"
-#~ msgstr "Σελίδα"
-
-#~ msgid "of"
-#~ msgstr "του"
-
-#~ msgid "Click here for previous page of results"
-#~ msgstr "Πατήστε εδώ για την προηγούμενη σελίδα αποτελεσμάτων"
-
-#~ msgid "Click here for next page of results"
-#~ msgstr "Πατήστε εδώ για την επόμενη σελίδα αποτελεσμάτων"
-
-#~ msgid "Print this page"
-#~ msgstr "Εκτυπώστε αυτή τη σελίδα"
-
-#~ msgid "Click for more information"
-#~ msgstr "Πατήστε εδώ για περισσότερες πληροφορίες"
-
-#~ msgid "No items found"
-#~ msgstr "Δεν βρέθηκαν αντικείμενα"
-
-#~ msgid "Related content"
-#~ msgstr "Σχετικό περιεχόμενο"
-
-#~ msgid "See all related items"
-#~ msgstr "Δείτε όλα τα σχετικά τεκμήρια"
-
-#~ msgid "User tags"
-#~ msgstr "Ετικέτες χρηστών"
-
-#~ msgid "Tag added"
-#~ msgstr "Προστέθηκε ετικέτα"
-
-#~ msgid "Tag addition failed"
-#~ msgstr "Αποτυχία προσθήκης ετικέτας"
-
-#~ msgid "Share with a friend"
-#~ msgstr "Μοιραστείτε το με ένα φίλο"
-
-#~ msgid "Email address"
-#~ msgstr "Διεύθυνση ηλ-ταχυδρομείου"
-
-#~ msgid "Email sent"
-#~ msgstr "Το μήνυμα ηλ-ταχυδρομείου απεστάλη"
-
-#~ msgid "Email could not be sent"
-#~ msgstr "Το μήνυμα ηλ-ταχυδρομείου δεν μπόρεσε να αποσταλεί"
-
-#~ msgid "Send"
-#~ msgstr "Αποστολή"
-
-#~ msgid "Item saved"
-#~ msgstr "Το τεκμήριο αποθηκεύτηκε"
-
-#~ msgid "Save item failed"
-#~ msgstr "Αποτυχία αποθήκευσης τεκμηρίου"
-
-#~ msgid "Error"
-#~ msgstr "Σφάλμα"
-
-#~ msgid "Error details"
-#~ msgstr "Λεπτομέρειες σφάλματος"
-
-#~ msgid "Return to results"
-#~ msgstr "Επιστροφή στα αποτελέσματα"
-
-#~ msgid "More"
-#~ msgstr "Περισσότερα"
-
-#~ msgid "Less"
-#~ msgstr "Λιγότερα"
-
-#~ msgid "Items"
-#~ msgstr "Τεκμήρια"
-
-#~ msgid "Item details"
-#~ msgstr "Λεπτομέρειες για το τεκμήριο"
-
-#~ msgid "View as XML"
-#~ msgstr "Εμφάνιση ως XML"
-
-#~ msgid "View with labels"
-#~ msgstr "Εμφάνιση με τίτλους"
-
-#~ msgid "View without labels"
-#~ msgstr "Εμφάνιση χωρίς τίτλους"
-
-#~ msgid "Opens in a new window"
-#~ msgstr "Ανοίγει νέο παράθυρο"
-
-#~ msgid "View in original context"
-#~ msgstr "Εμφάνιση στα αρχικά συμφραζόμενα"
-
-#~ msgid "Provider"
-#~ msgstr "Πάροχος"
-
-#~ msgid "Description"
-#~ msgstr "Περιγραφή"
-
-#~ msgid "Show all"
-#~ msgstr "Εμφάνιση όλων"
-
-#~ msgid "Delete"
-#~ msgstr "Διαγραφή"
-
-#~ msgid "No saved items"
-#~ msgstr "Μη αποθηκευμένα τεκμήρια"
-
-#~ msgid "No saved searches"
-#~ msgstr "Μη αποθηκευμένες αναζητήσεις"
-
-#~ msgid "No saved tags"
-#~ msgstr "Μη αποθηκευμένες ετικέτες"
-
-#~ msgid "No saved notifications"
-#~ msgstr "Μη αποθηκευμένες κοινοποιήσεις"
-
-#~ msgid "Date saved"
-#~ msgstr "Η ημερομηνία αποθηκεύτηκε"
-
-#~ msgid "Remove"
-#~ msgstr "Απομάκρυνση"
-
-#~ msgid "Welcome to MyEuropeana"
-#~ msgstr "Καλώς ήλθατε στην ενότητα Η Europeana μου"
-
-#~ msgid "Please click on the following link to confirm your registration"
-#~ msgstr ""
-#~ "Παρακαλείσθε να πατήσετε στον ακόλουθο σύνδεσμο για να επιβεβαιώσετε την "
-#~ "εγγραφή σας"
-
-#~ msgid "The Europeana Team"
-#~ msgstr "Η ομάδα της Europeana"
-
-#~ msgid "Results"
-#~ msgstr "Αποτελέσματα"
-
-#~ msgid "Invalid query"
-#~ msgstr "Άκυρο ερώτημα"
-
-#~ msgid "This feature is currently disabled."
-#~ msgstr "Αυτό το χαρακτηριστικό απενεργοποιήθηκε προσωρινά."
-
-#~ msgid "Password"
-#~ msgstr "Κωδικός πρόσβασης"
-
-#~ msgid "Remember me on this computer"
-#~ msgstr "Απομνημόνευση σε αυτόν τον υπολογιστή"
-
-#~ msgid "I forgot my password"
-#~ msgstr "Ξέχασα τον κωδικό πρόσβασής μου"
-
-#~ msgid "Sign in"
-#~ msgstr "Υπογραφή"
-
-#~ msgid "Register"
-#~ msgstr "Εγγραφή"
-
-#~ msgid "Register again"
-#~ msgstr "Εγγραφή εκ νέου"
-
-#~ msgid ""
-#~ "An error occurred while trying to process your registration. Please try "
-#~ "again"
-#~ msgstr ""
-#~ "Ένα σφάλμα εμφανίστηκε κατά την προσπάθεια επεξεργασίας της εγγραφής σας. "
-#~ "Παρακαλείσθε να προσπαθήσετε ξανά"
-
-#~ msgid "An email has been sent to the following address"
-#~ msgstr "Ένα μήνυμα ηλ-ταχυδρομείου έχει αποσταλεί στην ακόλουθη διεύθυνση"
-
-#~ msgid ""
-#~ "Please follow the link provided in the email and finish the registration "
-#~ "process"
-#~ msgstr ""
-#~ "Παρακαλείσθε να ακολουθήσετε το σύνδεσμο που δίδεται στο μήνυμα ηλ-"
-#~ "ταχυδρομείου και ολοκληρώστε τη διαδικασία εγγραφής"
-
-#~ msgid "Please make sure your email is correctly formatted and try again"
-#~ msgstr ""
-#~ "Παρακαλείσθε να βεβαιωθείτε ότι η διεύθυνση ηλ-ταχυδρομείου σας έχει "
-#~ "μορφοποιηθεί σωστά και προσπαθήστε ξανά"
-
-#~ msgid "This email is already registered"
-#~ msgstr "Αυτή η διεύθυνση ηλ-ταχυδρομείου έχει ήδη καταγραφτεί"
-
-#~ msgid "Create an account"
-#~ msgstr "Δημιουργία λογαριασμού"
-
-#~ msgid ""
-#~ "The link you used to complete registration is invalid or has expired."
-#~ msgstr ""
-#~ "Ο σύνδεσμος που χρησιμοποιήσατε για να ολοκληρώσετε την εγγραφή είναι "
-#~ "άκυρος ή έχει λήξει."
-
-#~ msgid "Enter your email"
-#~ msgstr "Εισαγωγή διεύθυνσης ηλ-ταχυδρομείου"
-
-#~ msgid ""
-#~ "You will use your email together with your password to log into the site"
-#~ msgstr ""
-#~ "Θα χρησιμοποιήσετε τη διεύθυνση ηλ-ταχυδρομείου σας μαζί με τον κωδικό "
-#~ "πρόσβασης για να συνδεθείτε με το δικτυακό τόπο"
-
-#~ msgid "Your username will be displayed when you have logged in"
-#~ msgstr "Το όνομα χρήστη θα εμφανιστεί όταν συνδεθείτε"
-
-#~ msgid "Username"
-#~ msgstr "Όνομα χρήστη"
-
-#~ msgid "is in use. Please choose another username"
-#~ msgstr "χρησιμοποιείται. Παρακαλούμε να επιλέξετε άλλο όνομα χρήστη"
-
-#~ msgid "Choose a username"
-#~ msgstr "Επιλέξτε όνομα χρήστη"
-
-#~ msgid "User information"
-#~ msgstr "Πληροφορίες για τον χρήστη"
-
-#~ msgid "Choose a password"
-#~ msgstr "Επιλέξτε κωδικό πρόσβασης"
-
-#~ msgid "Passwords must be 6-30 characters in length"
-#~ msgstr "Οι κωδικοί πρόσβασης πρέπει να έχουν μήκος 6-30 χαρακτήρων"
-
-#~ msgid "Repeat password"
-#~ msgstr "Επαναλάβετε τον κωδικό πρόσβασης"
-
-#~ msgid "Finish registration"
-#~ msgstr "Τέλος εγγραφής"
-
-#~ msgid "You have successfully registered"
-#~ msgstr "Η εγγραφή σας ήταν επιτυχής"
-
-#~ msgid "English (eng)"
-#~ msgstr "Αγγλικά (eng)"
-
-#~ msgid "Croatian (hrv)"
-#~ msgstr "Κροατικά (hrv)"
-
-#~ msgid "Czech (cze/cse)"
-#~ msgstr "Τσεχικά (cze/cse)"
-
-#~ msgid "Greek (ell/gre)"
-#~ msgstr "Ελληνικά (ell/gre)"
-
-#~ msgid "Estonian (est)"
-#~ msgstr "Εσθονικά (est)"
-
-#~ msgid "Danish (dan)"
-#~ msgstr "Δανέζικα (dan)"
-
-#~ msgid "Dutch (dut)"
-#~ msgstr "Ολλανδικά (dut)"
-
-#~ msgid "Finnish (fin)"
-#~ msgstr "Φινλανδικά (fin)"
-
-#~ msgid "French (fre)"
-#~ msgstr "Γαλλικά (fre)"
-
-#~ msgid "Galician (glg)"
-#~ msgstr "Γαλικιακά"
-
-#~ msgid "German (deu)"
-#~ msgstr "Γερμανικά (deu)"
-
-#~ msgid "Hungarian (hun)"
-#~ msgstr "Ουγγρικά (hun)"
-
-#~ msgid "Italian (ita)"
-#~ msgstr "Ιταλικά (ita)"
-
-#~ msgid "Latvian (lav)"
-#~ msgstr "Λετονικά (lav)"
-
-#~ msgid "Lithuanian (lit)"
-#~ msgstr "Λιθουανικά"
-
-#~ msgid "Luxemburgish (ltz)"
-#~ msgstr "Λουξεμβουργιανά (ltz)"
-
-#~ msgid "Maltese (mlt)"
-#~ msgstr "Μαλτέζικα (mlt)"
-
-#~ msgid "Norwegian (nor)"
-#~ msgstr "Νορβηγικά (nor)"
-
-#~ msgid "Polish (pol)"
-#~ msgstr "Πολωνικά (pol)"
-
-#~ msgid "Portuguese (por)"
-#~ msgstr "Πορτογαλικά (por)"
-
-#~ msgid "Romanian (rom)"
-#~ msgstr "Ρουμανικά (rom)"
-
-#~ msgid "Russian (rus)"
-#~ msgstr "Ρωσικά (rus)"
-
-#~ msgid "Serbian (scc)"
-#~ msgstr "Σερβικά (scc)"
-
-#~ msgid "Slovak (slo)"
-#~ msgstr "Σλοβακικά (slo)"
-
-#~ msgid "Slovenian (slv)"
-#~ msgstr "Σλοβενικά"
-
-#~ msgid "Spanish (esp)"
-#~ msgstr "Ισπανικά (esp)"
-
-#~ msgid "Icelandic (ice)"
-#~ msgstr "Ισλανδικά (ice)"
-
-#~ msgid "Swedish (sve/swe)"
-#~ msgstr "Σουηδικά (sve/swe)"
-
-#~ msgid "Turkish (tur)"
-#~ msgstr "Τουρκικά (tur)"
-
-#~ msgid "Ukrainian (ukr)"
-#~ msgstr "Ουκρανικά (UKR)"
-
-#~ msgid "Yiddish (yid)"
-#~ msgstr "Yiddish (yid)"
-
-#~ msgid "Other"
-#~ msgstr "Άλλα"
-
-#~ msgid "Alternative Title"
-#~ msgstr "Εναλλακτικός τίτλος"
-
-#~ msgid "Provenance"
-#~ msgstr "Προέλευση"
-
-#~ msgid "Is Part of"
-#~ msgstr "Αποτελεί τμήμα του"
-
-#~ msgid "Has part"
-#~ msgstr "Έχει τμήμα"
-
-#~ msgid "Replaces"
-#~ msgstr "Αντικαθιστά"
-
-#~ msgid "Is replaced by"
-#~ msgstr "Αντικαθίσταται από"
-
-#~ msgid "Is referenced by"
-#~ msgstr "Αναφέρεται από"
-
-#~ msgid "References"
-#~ msgstr "Αναφορές"
-
-#~ msgid "Conforms to"
-#~ msgstr "Συμφωνεί με"
-
-#~ msgid "Requires"
-#~ msgstr "Απαιτεί"
-
-#~ msgid "Has format"
-#~ msgstr "Έχει τη μορφή"
-
-#~ msgid "Is format of"
-#~ msgstr "Είναι μορφότυπο του"
-
-#~ msgid "Geographic coverage"
-#~ msgstr "Γεωγραφική κάλυψη"
-
-#~ msgid "Time period"
-#~ msgstr "Χρονική περίοδος"
-
-#~ msgid "Publication date"
-#~ msgstr "Ημερομηνία δημοσίευσης"
-
-#~ msgid "Author"
-#~ msgstr "Συγγραφέας"
-
-#~ msgid "Coverage"
-#~ msgstr "Κάλυψη"
-
-#~ msgid "Format"
-#~ msgstr "Μορφότυπο"
-
-#~ msgid "Publisher"
-#~ msgstr "Εκδότης"
-
-#~ msgid "Identifier"
-#~ msgstr "Προσδιοριστής"
-
-#~ msgid "Source"
-#~ msgstr "Πηγή"
-
-#~ msgid "Relation"
-#~ msgstr "Σχέση"
-
-#~ msgid "Type"
-#~ msgstr "Είδος"
-
-#~ msgid "Austria"
-#~ msgstr "Αυστρία"
-
-#~ msgid "Croatia"
-#~ msgstr "Κροατία"
-
-#~ msgid "Denmark"
-#~ msgstr "Δανία"
-
-#~ msgid "Finland"
-#~ msgstr "Φινλανδία"
-
-#~ msgid "France"
-#~ msgstr "Γαλλία"
-
-#~ msgid "Germany"
-#~ msgstr "Γερμανία"
-
-#~ msgid "Italy-Florence"
-#~ msgstr "Ιταλία-Φλωρεντία"
-
-#~ msgid "Italy-Rome"
-#~ msgstr "Ιταλία-Ρώμη"
-
-#~ msgid "Ireland"
-#~ msgstr "Ιρλανδία"
-
-#~ msgid "Netherlands"
-#~ msgstr "Ολλανδία"
-
-#~ msgid "Portugal"
-#~ msgstr "Πορτογαλία"
-
-#~ msgid "Russia - Moscow"
-#~ msgstr "Ρωσία - Μόσχα"
-
-#~ msgid "Russia - Saint Petersburg"
-#~ msgstr "Ρωσία - Αγία Πετρούπολη"
-
-#~ msgid "Romania"
-#~ msgstr "Ρουμανία"
-
-#~ msgid "Former Yugoslav Republic Of Macedonia"
-#~ msgstr "Πρώην Γιουγκοσλαβική Δημοκρατία της Μακεδονίας"
-
-#~ msgid "Ukraine"
-#~ msgstr "Ουκρανία"
-
-#~ msgid "Moldova"
-#~ msgstr "Μολδαβία"
-
-#~ msgid "Albania"
-#~ msgstr "Αλβανία"
-
-#~ msgid "Georgia"
-#~ msgstr "Γεωργία"
-
-#~ msgid "Armenia"
-#~ msgstr "Αρμενία"
-
-#~ msgid "Bosnia and Herzegovina"
-#~ msgstr "Βοσνία και Ερζεγοβίνη"
-
-#~ msgid "Azerbaijan"
-#~ msgstr "Αζερμπαϊτζάν"
-
-#~ msgid "Turkey"
-#~ msgstr "Τουρκία"
-
-#~ msgid "Bulgaria"
-#~ msgstr "Βουλγαρία"
-
-#~ msgid "Serbia"
-#~ msgstr "Σερβία"
-
-#~ msgid "Slovenia"
-#~ msgstr "Σλοβενία"
-
-#~ msgid "Switzerland"
-#~ msgstr "Ελβετία"
-
-#~ msgid "United Kingdom"
-#~ msgstr "Ηνωμένο Βασίλειο"
-
-#~ msgid "Czech Republic"
-#~ msgstr "Δημοκρατία της Τσεχίας"
-
-#~ msgid "Cyprus"
-#~ msgstr "Κύπρος"
-
-#~ msgid "Estonia"
-#~ msgstr "Εσθονία"
-
-#~ msgid "Latvia"
-#~ msgstr "Λετονία"
-
-#~ msgid "Lithuania"
-#~ msgstr "Λιθουανία"
-
-#~ msgid "Hungary"
-#~ msgstr "Ουγγαρία"
-
-#~ msgid "Malta"
-#~ msgstr "Μάλτα"
-
-#~ msgid "Poland"
-#~ msgstr "Πολωνία"
-
-#~ msgid "Slovakia"
-#~ msgstr "Σλοβακία"
-
-#~ msgid "Spain"
-#~ msgstr "Ισπανία"
-
-#~ msgid "Belgium"
-#~ msgstr "Βέλγιο"
-
-#~ msgid "Iceland"
-#~ msgstr "Ισλανδία"
-
-#~ msgid "Norway"
-#~ msgstr "Νορβηγία"
-
-#~ msgid "Sweden"
-#~ msgstr "Σουηδία"
-
-#~ msgid "Liechtenstein"
-#~ msgstr "Λιχτενστάιν"
-
-#~ msgid "Luxembourg"
-#~ msgstr "Λουξεμβούργο"
-
-#~ msgid "Greece"
-#~ msgstr "Ελλάδα"
-
-#~ msgid "Subject cloud"
-#~ msgstr "Θεματικό σύννεφο"
-
-#~ msgid "Did you mean"
-#~ msgstr "Μήπως εννοείτε;"
-
-#~ msgid ""
-#~ "Paintings, music, films and books from Europe's galleries, libraries, "
-#~ "archives and museums."
-#~ msgstr ""
-#~ "Πίνακες ζωγραφικής, μουσική, ταινίες και βιβλία από πινακοθήκες, "
-#~ "βιβλιοθήκες, αρχεία και μουσεία της Ευρώπης."
-
-#~ msgid "Data provider"
-#~ msgstr "Πάροχος δεδομένων"
-
-#~ msgid "Europeana rights"
-#~ msgstr "Δικαιώματα της Europeana"
-
-#~ msgid "Terms of use"
-#~ msgstr "Όροι χρήσης"
-
-#~ msgid "The timeline only shows up to 1000 items relevant to your query."
-#~ msgstr ""
-#~ "Το χρονολόγιο παρουσιάζει μόνο μέχρι 1000 τεκμήρια σχετικά με το ερώτημά "
-#~ "σας."
-
-#~ msgid "Timeline view"
-#~ msgstr "Εμφάνιση χρονολογίου"
-
-#~ msgid "Embed"
-#~ msgstr "Ενσωμάτωση"
-
-#~ msgid "Options"
-#~ msgstr "Επιλογές"
-
-#~ msgid "Embed this object into your own blog or website"
-#~ msgstr ""
-#~ "Ενσωματώστε αυτό το αντικείμενο στο δικό σας ιστολόγιο ή στην ιστοσελίδα "
-#~ "σας"
-
-#~ msgid ""
-#~ "Paste the HTML source code below to your page. This page itself is an "
-#~ "example of a page that embeds a Europeana object."
-#~ msgstr ""
-#~ "Επικολλήστε τον πιο κάτω πηγαίο κώδικα HTML στη σελίδα σας. Η ίδια σελίδα "
-#~ "αποτελεί παράδειγμα σελίδας που ενσωματώνει ένα αντικείμενο της Europeana."
-
-#~ msgid ""
-#~ "Now this Europeana object becomes a part of your page. Our content "
-#~ "providers tend to improve their objects from time to time. Create an "
-#~ "alert on this object to be notified if this specific object would change."
-#~ msgstr ""
-#~ "Τώρα αυτό το αντικείμενο της Europeana αποτελεί μέρος της σελίδας σας. Οι "
-#~ "πάροχοι περιεχομένου έχουν την τάση να βελτιώνουν τα αντικείμενά τους "
-#~ "κατά καιρούς. Δημιουργήστε μια ειδοποίηση για το αντικείμενο αυτό για να "
-#~ "ενημερώνεστε, αν αυτό το συγκεκριμένο αντικείμενο αλλάξει."
-
-#~ msgid "Preview it customized"
-#~ msgstr "Προεπισκόπηση του προσαρμοσμένου"
-
-#~ msgid "Create notification for this item"
-#~ msgstr "Δημιουργία ενημέρωσης για το στοιχείο αυτό"
-
-#~ msgid ""
-#~ "Log in to My Europeana and set an alert to be notified of updates, such "
-#~ "as the publication of more metadata for this object."
-#~ msgstr ""
-#~ "Συνδεθείτε στο Η Europeana μου και ορίσετε μια ειδοποίηση για να "
-#~ "ενημερώνεστε για ανανεώσεις, όπως η δημοσίευση περισσότερων μεταδεδομένων "
-#~ "για το αντικείμενο αυτό."
-
-#~ msgid ""
-#~ "By using the embed function you accept and agree to the Europeana Terms "
-#~ "of Use"
-#~ msgstr ""
-#~ "Με τη χρήση της ενσωματωμένης λειτουργίας δέχεστε και συμφωνείτε με τους "
-#~ "Όρους Χρήσης της Europeana"
-
-#~ msgid "Maximal number of text lines:"
-#~ msgstr "Μέγιστος αριθμός γραμμών κειμένου:"
-
-#~ msgid "orientation:"
-#~ msgstr "προσανατολισμό:"
-
-#~ msgid "portrait"
-#~ msgstr "πορτρέτο"
-
-#~ msgid "landscape"
-#~ msgstr "τοπίο"
-
-#~ msgid "Refine Search"
-#~ msgstr "Επαναπροσδιορισμός αναζήτησης"
-
-#~ msgid "By Rights"
-#~ msgstr "Με Πνευματικά Δικαιώματα"
-
-#~ msgid "Free Access"
-#~ msgstr "Ελεύθερη Πρόσβαση"
-
-#~ msgid "Restricted Access"
-#~ msgstr "Περιορισμένη πρόσβαση"
-
-#~ msgid "Paid Access"
-#~ msgstr "Πρόσβαση με πληρωμή"
-
-#~ msgid "Public Domain"
-#~ msgstr "Δημόσιος Τομέας"
-
-#~ msgid "Unknown"
-#~ msgstr "Άγνωστος"
-
-#~ msgid "Not all objects show rights information"
-#~ msgstr ""
-#~ "Δεν παρέχουν όλα τα αντικείμενα πληροφορίες για πνευματικά δικαιώματα"
-
-#~ msgid "Translate with:"
-#~ msgstr "Μετάφραση με:"
-
-#~ msgid "Search line value with:"
-#~ msgstr "Αναζήτηση γραμμής αξίας σύμφωνα με:"
-
-#~ msgid ""
-#~ "Access External Search Services or Translate a fields content where you "
-#~ "see the marker by double clicking the fields value."
-#~ msgstr ""
-#~ "Πρόσβαση σε Υπηρεσίες Εξωτερικής Αναζήτησης ή Μετάφραση πεδίου "
-#~ "περιεχομένου όπου βλέπετε το δείκτη με διπλό πάτημα πλήκτρου στο πεδίο "
-#~ "αξία."
-
-#~ msgid ""
-#~ "ESS allows you to translate an individual fields contents or search for "
-#~ "an individual line on an external search service to access additional "
-#~ "relevant information."
-#~ msgstr ""
-#~ "Το ESS σας επιτρέπει να μεταφράσετε ένα μεμονωμένο πεδίο περιεχομένου ή "
-#~ "να αναζητήσετε μεμονωμένη γραμμή σε εξωτερική υπηρεσία αναζήτησης για να "
-#~ "αποκτήσετε πρόσβαση σε πρόσθετες σχετικές πληροφορίες."
-
-#~ msgid "indicates ESS services are available"
-#~ msgstr "δηλώνει ότι είναι διαθέσιμες υπηρεσίες ESS "
-
-#~ msgid "indicates ESS services are not available"
-#~ msgstr "δηλώνει ότι δεν είναι διαθέσιμες υπηρεσίες ESS"
-
-#~ msgid "Search term(s)"
-#~ msgstr "Όρος(οι) αναζήτησης"
-
-#~ msgid "Search facet"
-#~ msgstr "Τμήμα Αναζήτησης"
-
-#~ msgid "Search operator"
-#~ msgstr "Χειριστής αναζήτησης"
-
-#~ msgid "Back to top"
-#~ msgstr "Αρχή σελίδας"
-
-#~ msgid "Click to search for this term in external services"
-#~ msgstr "Πατήστε για να αναζητήσετε αυτόν τον όρο σε εξωτερικές υπηρεσίες"
-
-#~ msgid "Remote Search Widget"
-#~ msgstr "Απομακρυσμένη Αναζήτηση Στοιχείου Διεπαφής"
-
-#~ msgid ""
-#~ "You can use the link below to create a customized plugin for inclusion in "
-#~ "your own website with the ability to search through the collections on "
-#~ "the Europeana portal."
-#~ msgstr ""
-#~ "Μπορείτε να χρησιμοποιήσετε τον πιο κάτω σύνδεσμο για να δημιουργήσετε "
-#~ "μια προσαρμοσμένη συνδεόμενη υπομονάδα για να συμπεριληφθεί στο δικό σας "
-#~ "δικτυακό τόπο με τη δυνατότητα να αναζητήσετε μέσα στις συλλογές στη "
-#~ "δικτυακή πύλη της Europeana."
-
-#~ msgid "Europeana Search Widget"
-#~ msgstr "Αναζήτηση Στοιχείου Διεπαφής στη Europeana"
-
-#~ msgid "What is Europeana's remote search widget?"
-#~ msgstr ""
-#~ "Τι είναι η απομακρυσμένη αναζήτηση στοιχείου διεπαφής στη Europeana;"
-
-#~ msgid ""
-#~ "The remote search widget is a tailored plugin to search on and display "
-#~ "items from Europeana's collections and those of their contributors within "
-#~ "your own website."
-#~ msgstr ""
-#~ "Η απομακρυσμένη αναζήτηση στοιχείου διεπαφής είναι μία προσαρμοσμένη "
-#~ "συνδεόμενη υπομονάδα για έρευνα και παρουσίαση τεκμηρίων από τις συλλογές "
-#~ "της Europeana και τις συλλογές των συνεργαζόμενων φορέων μέσα στο δικό "
-#~ "μας δικτυακό τόπο."
-
-#~ msgid "What is a plugin?"
-#~ msgstr "Τι είναι μιά συνδεόμενη υπομονάδα;"
-
-#~ msgid ""
-#~ "The plugin is simply a piece of generated code that can be copied and "
-#~ "pasted into one of the webpages on your own site."
-#~ msgstr ""
-#~ "Η συνδεόμενη υπομονάδα είναι απλά ένα κομμάτι κώδικα που έχει "
-#~ "δημιουργηθεί και μπορεί να αντιγραφεί και να επικολληθεί σε μία από τις "
-#~ "ιστοσελίδες στο δικό σας δικτυακό τόπο."
-
-#~ msgid "What will the plugin look like?"
-#~ msgstr "Πώς θα μοιάζει η συνδεόμενη υπομονάδα;"
-
-#~ msgid ""
-#~ "The working plugin is shown on the right hand side of the screen. Making "
-#~ "changes and selecting preview will let you see those changes in action."
-#~ msgstr ""
-#~ "Η ενεργή συνδεόμενη υπομονάδα εμφανίζεται στη δεξιά πλευρά της οθόνης. "
-#~ "Κάνοντας αλλαγές και επιλέγοντας προεπισκόπηση θα σας αφήσει να δείτε τις "
-#~ "αλλαγές που έγιναν."
-
-#~ msgid "How do I add the plugin into my own site?"
-#~ msgstr ""
-#~ "Πώς μπορώ να προσθέσω τη συνδεόμενη υπομονάδα μου στο δικό μου δικτυακό "
-#~ "τόπο;"
-
-#~ msgid "Select options from the menu below"
-#~ msgstr "Κάντε επιλογές από το πιο κάτω μενού"
-
-#~ msgid ""
-#~ "Click on 'Preview' to see the changes in the right hand side of the screen"
-#~ msgstr ""
-#~ "Πατήστε την \"Προεπισκόπηση\" για να δείτε τις αλλαγές στη δεξιά πλευρά "
-#~ "της οθόνης"
-
-#~ msgid ""
-#~ "Check the box to say you have read and agree with the terms and conditions"
-#~ msgstr ""
-#~ "Επιλέξτε το τετραγωνίδιο για να πείτε ότι έχετε διαβάσει και συμφωνείτε "
-#~ "με τους όρους και τις προϋποθέσεις"
-
-#~ msgid "Click 'Generate Code'"
-#~ msgstr "Πατήστε στο \"Δημιουργία κώδικα\""
-
-#~ msgid "Copy the code from under 'Code for plugin:'"
-#~ msgstr "Αντιγράψτε τον κώδικα από το \"Κώδικας για συνδεόμενη υπομονάδα:\""
-
-#~ msgid "Open a webpage on your own site in a text editor"
-#~ msgstr ""
-#~ "Ανοίξτε μία ιστοσελίδα στο δικτυακό σας τόπο σε ένα πρόγραμμα "
-#~ "επεξεργασίας κειμένου"
-
-#~ msgid "Paste the code into the page and save the changes"
-#~ msgstr "Επικολλήστε τον κώδικα στη σελίδα και αποθηκεύσετε τις αλλαγές"
-
-#~ msgid "Open your web page in a browser to see the plugin working"
-#~ msgstr ""
-#~ "Ανοίξτε την ιστοσελίδα σας σε ένα πρόγραμμα περιήγησης για να δείτε πώς "
-#~ "λειτουργεί η συνδεόμενη υπομονάδα"
-
-#~ msgid "How can I change the position of the plugin?"
-#~ msgstr "Πώς μπορώ να αλλάξω τη θέση της συνδεόμενης υπομονάδας;"
-
-#~ msgid ""
-#~ "The plugin can be nested within an HTML table but the easiest way is to "
-#~ "use cascading stylesheets css. The plugin is surrounded in a div with the "
-#~ "id swEuropeanaRemoteWidget and its position can be changed by changing "
-#~ "the css properties for this div."
-#~ msgstr ""
-#~ "Η συνδεόμενη υπομονάδα μπορεί να είναι ένθετη μέσα σε έναν πίνακα HTML, "
-#~ "αλλά ο πιο εύκολος τρόπος είναι η χρησιμοποίηση επικαλυπτόμενων φύλλων "
-#~ "στυλ CSS. Η συνδεόμενη υπομονάδα περιβάλλεται από ένα div με το id "
-#~ "swEuropeanaRemoteWidget και η θέση του μπορεί να αλλάξει με την αλλαγή "
-#~ "των ιδιοτήτων του CSS για αυτό το div."
-
-#~ msgid "Background colour"
-#~ msgstr "Χρώμα φόντου"
-
-#~ msgid "Media type tab colour"
-#~ msgstr "Χρώμα καρτέλας στα είδη μέσων ενημέρωσης"
-
-#~ msgid "Text colour"
-#~ msgstr "Χρώμα κειμένου"
-
-#~ msgid "Default language"
-#~ msgstr "Προεπιλεγμένη γλώσσα"
-
-#~ msgid "Default search term"
-#~ msgstr "Προεπιλογή όρου αναζήτησης"
-
-#~ msgid "Media Types"
-#~ msgstr "Είδη μέσων ενημέρωσης"
-
-#~ msgid "Europeana attribution"
-#~ msgstr "Απόδοση στη Europeana"
-
-#~ msgid "Widget Code: (To be copied and pasted into your website)"
-#~ msgstr ""
-#~ "Κωδικός Στοιχείου διεπαφής: (Για να αντιγράφεται και να επικολλάται στο "
-#~ "δικό σας δικτυακό τόπο)"
-
-#~ msgid "Generate Code"
-#~ msgstr "Δημιουργία Κώδικα"
-
-#~ msgid "Powered By Europeana"
-#~ msgstr "Υποστηρίζεται από τη Europeana"
-
-#~ msgid "Europeana Blog"
-#~ msgstr "Ιστολόγιο της Europeana"
-
-#~ msgid "Virtual Exhibitions"
-#~ msgstr "Εικονικές Εκθέσεις"
-
-#~ msgid "Click to cite this object"
-#~ msgstr "Πατήστε εδώ για να παραπέμψετε σε αυτό το αντικείμενο"
-
-#~ msgid "Use"
-#~ msgstr "Χρήση"
-
-#~ msgid "Harvard Bibliographic Style"
-#~ msgstr "Βιβλιογραφικό Ύφος Harvard"
-
-#~ msgid "This record can be cited in the"
-#~ msgstr "Μπορεί να γίνει παραπομπή σε αυτή την εγγραφή"
-
-#~ msgid "style using the text below:"
-#~ msgstr "ύφος με χρήση το πιο κάτω κειμένου:"
-
-#~ msgid "Harvard Bibliographic"
-#~ msgstr "Βιβλιογραφικό ύφος Harvard"
-
-#~ msgid "Close"
-#~ msgstr "Κλείσιμο"
-
-#~ msgid "Show Auto-tags"
-#~ msgstr "Εμφάνιση Αυτόματων ετικετών"
-
-#~ msgid "Hide Auto-tags"
-#~ msgstr "Απόκρυψη αυτόματων ετικετών"
-
-#~ msgid "Automatically added semantic tags"
-#~ msgstr "Αυτόματη προσθήκη σημασιολογικών ετικετών"
-
-#~ msgid "Place Term"
-#~ msgstr "Όρος Τοποθεσίας"
-
-#~ msgid "Place Label"
-#~ msgstr "Ετικέτα Τοποθεσίας"
-
-#~ msgid "Geo Space"
-#~ msgstr "Γεωγραφικός Χώρος"
-
-#~ msgid "Place Broader Term"
-#~ msgstr "Ευρύτερος Όρος τοποθεσίας"
-
-#~ msgid "Place Broader Label"
-#~ msgstr "Ευρύτερη Ετικέτα Τοποθεσίας"
-
-#~ msgid "Period Term"
-#~ msgstr "Όρος Περιόδου"
-
-#~ msgid "Period Label"
-#~ msgstr "Ετικέτα Περιόδου"
-
-#~ msgid "Period Begin"
-#~ msgstr "Έναρξη Περιόδου"
-
-#~ msgid "Period End"
-#~ msgstr "Τέλος Περιόδου"
-
-#~ msgid "Period Broader Term"
-#~ msgstr "Ευρύτερος Όρος Περιόδου"
-
-#~ msgid "Period Broader Label"
-#~ msgstr "Ευρύτερη Ετικέτα Περιόδου"
-
-#~ msgid "Concept Term"
-#~ msgstr "Εννοιολογικός Όρος"
-
-#~ msgid "Concept Label"
-#~ msgstr "Εννοιολογική Ετικέτα"
-
-#~ msgid "Concept Broader Term"
-#~ msgstr "Εννοιολογικός Ευρύτερος Όρος"
-
-#~ msgid "Concept Broader Label"
-#~ msgstr "Εννοιολογική Ευρύτερη Ετικέτα"
-
-#~ msgid "Agent Term"
-#~ msgstr "Όρος Παράγοντα"
-
-#~ msgid "Agent Label"
-#~ msgstr "Ετικέτα Παράγοντα"
-
-#~ msgid "Featured item"
-#~ msgstr "Χαρακτηριστικό αντικείμενο"
-
-#, fuzzy
-#~ msgid "New &amp; Improved - Europeana 1914-1918"
-#~ msgstr "Εξερευνήστε τη Europeana 1914-1918"
-
-#~ msgid "Language Policy"
-#~ msgstr "Πολιτική γλώσσας"
-
-#, fuzzy
-#~ msgid "How to configure your search widhet"
-#~ msgstr ""
-#~ "Τι είναι η απομακρυσμένη αναζήτηση στοιχείου διεπαφής στη Europeana;"
-
-#~ msgid "Press Room"
-#~ msgstr "Αίθουσα Τύπου"
-
-#~ msgid "Pinterest"
-#~ msgstr "Pinterest"
-
-#~ msgid "Explore Europe's cultural collections"
-#~ msgstr "Εξερεύνησε τις Ευρωπαϊκές συλλογές"
-
-#~ msgid "Access professional knowledge"
-#~ msgstr "Πρόσβαση για επαγγελματίες"
-
-#~ msgid "Social media activities"
-#~ msgstr "Δραστηριότητες για τα μέσα κοινωνικής δικτύωσης"
-
-#~ msgid "From the blog"
-#~ msgstr "Από το ιστολόγιο"
-
-#~ msgid "Filter your search"
-#~ msgstr "Φιλτράρετε την έρευνά σας"
-
-#~ msgid "Grid view"
-#~ msgstr "Προβολή σε πλέγμα"
-
-#~ msgid ""
-#~ "We apologize; there was a problem retrieving the search results from the "
-#~ "server. Please try again later"
-#~ msgstr ""
-#~ "Ζητούμε συγγνώμη. Υπήρξε πρόβλημα κατά την ανάκτηση των αποτελεσμάτων "
-#~ "αναζήτησης από το διακομιστή. Παρακαλείσθε να δοκιμάσετε αργότερα"
-
-#~ msgid "Similar items"
-#~ msgstr "Όμοια αντικείμενα"
-
-#~ msgid "Loading ..."
-#~ msgstr "Φόρτωση ..."
-
-#~ msgid "Return to search results"
-#~ msgstr "Επιστροφή στα αποτελέσματα αναζήτησης"
-
-#~ msgid "Next search result"
-#~ msgstr "Επόμενα αποτελέσματα αναζήτησης"
-
-#~ msgid "Something went wrong!"
-#~ msgstr "Κάτι πήγε στραβά!"
-
-#~ msgid "An email has been sent to inform our technical staff"
-#~ msgstr ""
-#~ "Ένα μήνυμα ηλ-ταχυδρομείου έχει αποσταλεί για πληροφόρηση του τεχνικού "
-#~ "μας προσωπικού"
-
-#~ msgid "Please try another search"
-#~ msgstr "Παρακαλείσθε να δοκιμάστε άλλη αναζήτηση"
-
-#~ msgid "Saved search removed successfully"
-#~ msgstr "Η αποθηκευμένη αναζήτηση αφαιρέθηκε επιτυχώς"
-
-#~ msgid "Saved item removed successfully"
-#~ msgstr "Το αποθηκευμένο τεκμήριο αφαιρέθηκε επιτυχώς"
-
-#~ msgid "Saved tag removed successfully"
-#~ msgstr "Η αποθηκευμένη ετικέτα αφαιρέθηκε επιτυχώς"
-
-#~ msgid "An error occurred"
-#~ msgstr "Παρουσιάστηκε σφάλμα"
-
-#~ msgid "The item could not be removed"
-#~ msgstr "Το τεκμήριο δεν μπορεί να αφαιρεθεί"
-
-#~ msgid "Auto-generated tags"
-#~ msgstr "Ετικέτες που δημιουργούνται αυτόματα"
-
-#~ msgid "Request"
-#~ msgstr "Αίτημα"
-
-#~ msgid "Legend"
-#~ msgstr "Θρύλος"
-
-#~ msgid "See less"
-#~ msgstr "Δείτε λιγότερα"
-
-#~ msgid "See more"
-#~ msgstr "Δείτε περισσότερα"
-
-#~ msgid "Explore further"
-#~ msgstr "Περαιτέρω εξερεύνηση"
-
-#~ msgid "Return to original language"
-#~ msgstr "Επιστροφή στην αρχική γλώσσα"
-
-#~ msgid "Attention: this item has been withdrawn by the provider."
-#~ msgstr "Προσοχή: Αυτό το τεκμήριο έχει αποσυρθεί από τον πάροχο."
-
-#~ msgid ""
-#~ "We apologise; there was a problem retrieving the data from the server. "
-#~ "Please try again later."
-#~ msgstr ""
-#~ "Ζητούμε συγγνώμη. Παρουσιάστηκε πρόβλημα κατά την ανάκτηση των δεδομένων "
-#~ "από το διακομιστή. Παρακαλείσθε να δοκιμάσετε αργότερα."
-
-#~ msgid "Preview"
-#~ msgstr "Προεπισκόπηση"
-
-#~ msgid "Return to timeline"
-#~ msgstr "Επιστροφή στο χρονολόγιο"
-
-#~ msgid "This email address does not yet exist in our database"
-#~ msgstr ""
-#~ "Αυτή η διεύθυνση ηλεκτρονικού ταχυδρομείου δεν υπάρχει ακόμη στη βάση "
-#~ "δεδομένων μας"
-
-#~ msgid "Your password change has been successfully completed"
-#~ msgstr "Η αλλαγή του κωδικού σας ολοκληρώθηκε με επιτυχία"
-
-#~ msgid "Zoom"
-#~ msgstr "Εστίαση"
-
-#~ msgid "Zoom in"
-#~ msgstr "Μεγέθυνση"
-
-#~ msgid "Zoom out"
-#~ msgstr "Σμίκρυνση"
-
-#~ msgid "Choose from different map types"
-#~ msgstr "Επιλέξτε ανάμεσα σε διαφορετικούς τύπους χάρτη"
-
-#~ msgid ""
-#~ "Navigate map: click and hold left mouse-button, then move mouse to change "
-#~ "the view"
-#~ msgstr ""
-#~ "Πλοηγηθείτε στο χάρτη: πατήστε και κρατήστε πατημένο το αριστερό πλήκτρο "
-#~ "του ποντικιού, ακολούθως μετακινήστε το ποντίκι για να αλλάξετε την "
-#~ "προβολή"
-
-#~ msgid ""
-#~ "Select via freeform: add anchor points with left mouse-click, double "
-#~ "click to finish the shape"
-#~ msgstr ""
-#~ "Επιλέξτε μέσω ελεύθερης μορφής: προσθέστε τα σημεία αγκύρωσης με το "
-#~ "αριστερό κλικ του ποντικιού, κάντε διπλό κλικ για να ολοκληρωθεί το σχήμα"
-
-#~ msgid "Google Satellite"
-#~ msgstr "Google Δορυφορική"
-
-#~ msgid "Google Hybrid"
-#~ msgstr "Google Υβριδική"
-
-#~ msgid "Google Street"
-#~ msgstr "Google Οδός"
-
-#~ msgid "Google Physical"
-#~ msgstr "Google Φυσική"
-
-#~ msgid "Tiles courtesy of"
-#~ msgstr "Πλακάκια με την ευγενική παραχώρηση του"
-
-#~ msgid ""
-#~ "This is your personal space on Europeana. With My Europeana, you can save "
-#~ "your favourite items and searches, and add tags."
-#~ msgstr ""
-#~ "Αυτός είναι ο προσωπικός σας χώρος στη Europeana. Με το Η Europeana μου, "
-#~ "αποθηκεύετε τα αγαπημένα σας τεκμήρια και έρευνες και προσθέτετε ετικέτες."
-
-#~ msgid "Download"
-#~ msgstr "Κατέβασμα"
-
-#, fuzzy
-#~ msgid "User contributed content"
-#~ msgstr "Περιεχόμενο που δημιουργεί ο χρήστης"
-
-#~ msgid "Play"
-#~ msgstr "Παίξτε"
-
-#~ msgid "Read"
-#~ msgstr "Διαβάστε"
-
-#~ msgid "View larger image"
-#~ msgstr "Δείτε μεγαλύτερη εικόνα"
-
-#~ msgid "Your search result contains no items that have map co-ordinates."
-#~ msgstr ""
-#~ "Το αποτέλεσμα της έρευνάς σας δεν περιέχει τεκμήρια που έχουν "
-#~ "συντεταγμένες χαρτών"
-
-#~ msgid "Please try another search."
-#~ msgstr "Παρακαλείσθε να δοκιμάστε άλλη αναζήτηση."
-
-#~ msgid ""
-#~ "The Europeana map search is still in development and currently doesn't "
-#~ "work in Internet Explorer. We aim to support Internet Explorer in the "
-#~ "future. Currently we recommend you to use Chrome or Firefox."
-#~ msgstr ""
-#~ "Ο ερευνητικός χάρτης της Europeana βρίσκεται ακόμα υπό εξέλιξη και προς "
-#~ "το παρόν δεν λειτουργεί σε Internet Explorer. Σκοπεύουμε να υποστηρίξουμε "
-#~ "τον Internet Explorer στο μέλλον. Προς το παρόν σας συνιστούμε να "
-#~ "χρησιμοποιήσετε το Chrome ή το Firefox."
-
-#~ msgid "Wikipedia Citation"
-#~ msgstr "Παραπομπή στη Βικιπαίδεια"
-
-#~ msgid "Copy and paste the wiki-markup below:"
-#~ msgstr "Αντιγραφή και επικόλληση στην πιο κάτω επισήμανση του wiki:"
-
-#~ msgid "The map only shows up to 1000 items relevant to your query."
-#~ msgstr ""
-#~ "Ο χάρτης εμφανίζει μόνο έως 1.000 τεκμήρια σχετικά με το ερώτημά σας."
-
-#~ msgid "No place name available"
-#~ msgstr "Δεν διατίθεται ονομασία τοποθεσίας"
-
-#~ msgid "The map only shows up to {0} items relevant to your query."
-#~ msgstr "Ο χάρτης εμφανίζει μόνο έως {0} τεκμήρια σχετικά με το ερώτημά σας."
-
-#~ msgid "Search within current map view"
-#~ msgstr "Αναζήτηση με τρέχουσα προβολή χάρτη"
-
-#~ msgid "Follow us on"
-#~ msgstr "Ακολουθήστε μας στο"
-
-#~ msgid "Unable to find content for this page."
-#~ msgstr "Αδύνατο να βρεθεί περιεχόμενο για τη σελίδα αυτή."
-
-#~ msgid "Latest on"
-#~ msgstr "Τελευταίο στο"
-
-#~ msgid "Share item on Facebook, Twitter, etc."
-#~ msgstr "Μοιραστείτε το τεκμήριο στο Facebook, Twitter κ.λπ."
-
-#~ msgid "Follow us!"
-#~ msgstr "Ακολουθήστε μας!"
-
-#~ msgid "Newsletter sign-up"
-#~ msgstr "Εγγραφή στο ενημερωτικό δελτίο"
-
-#~ msgid "Sign-up here"
-#~ msgstr "Εγγραφείτε εδώ"
-
-#~ msgid "Name"
-#~ msgstr "Ονοματεπώνυμο"
-
-#~ msgid "Email Address"
-#~ msgstr "Διεύθυνση ηλ. ταχυδρομείου"
-
-#~ msgid ""
-#~ "Sign-up to receive our bi-monthly newsletter, and occasional "
-#~ "announcements."
-#~ msgstr ""
-#~ "Εγγραφείτε για να λαμβάνετε το διμηνιαίο ενημερωτικό μας δελτίο και "
-#~ "περιστασιακές ανακοινώσεις."
-
-#~ msgid "Featured partner"
-#~ msgstr "Χαρακτηριστικός συνεργάτης"
-
-#~ msgid "API function"
-#~ msgstr "Λειτουργία API"
-
-#~ msgid "Search parameters"
-#~ msgstr "Παράμετροι αναζήτησης"
-
-#~ msgid "Search term"
-#~ msgstr "Όρος αναζήτησης"
-
-#~ msgid "Refinement term(s)"
-#~ msgstr "Όροι ευγένειας"
-
-#~ msgid "Profile"
-#~ msgstr "Προφίλ"
-
-#~ msgid "Number of records to retrieve"
-#~ msgstr "Αριθμός εγγραφών για ανάκτηση"
-
-#~ msgid "First record to retrieve"
-#~ msgstr "Πρώτη εγγραφή για ανάκτηση"
-
-#~ msgid "Record parameters"
-#~ msgstr "Παράμετροι εγγραφής"
-
-#~ msgid "Record id"
-#~ msgstr "ID εγγραφής"
-
-#~ msgid "Request URL"
-#~ msgstr "URL αιτήματος"
-
-#~ msgid "JSON response"
-#~ msgstr "Απάντηση JSON"
-
-#~ msgid "Search also for:"
-#~ msgstr "Αναζητήστε επίσης για:"
-
-#~ msgid "Who"
-#~ msgstr "Ποιος"
-
-#~ msgid "What"
-#~ msgstr "Τι"
-
-#, fuzzy
-#~ msgid "api-introduction.html"
-#~ msgstr "Εισαγωγή"
-
-#~ msgid "_self"
-#~ msgstr "_self"
-
-#~ msgid "rights/terms-and-policies.html"
-#~ msgstr "rights/terms-and-policies.html"
-
-#~ msgid "Terms of use &amp; Policies"
-#~ msgstr "Όροι χρήσης και πολιτικές"
-
-#~ msgid "contact.html"
-#~ msgstr "contact.html"
-
-#~ msgid "sitemap.html"
-#~ msgstr "sitemap.html"
-
-#~ msgid "No API key"
-#~ msgstr "όχι κλειδιά API"
-
-#~ msgid "API key"
-#~ msgstr "κλειδί API"
-
-#~ msgid "Private key"
-#~ msgstr "Ιδιωτικό κλειδί"
-
-#~ msgid "Usage limit"
-#~ msgstr "Περιορισμός χρήσης"
-
-#~ msgid "Role"
-#~ msgstr "Ρόλος"
-
-#~ msgid "Administrator's page"
-#~ msgstr "Σελίδα διαχειριστή"
-
-#~ msgid "Remove API key"
-#~ msgstr "Αφαίρεση κλειδιού API"
-
-#~ msgid "Limit"
-#~ msgstr "Περιορισμός"
-
-#~ msgid "Remove user"
-#~ msgstr "Αφαίρεση χρήστη"
-
-#~ msgid "Block user"
-#~ msgstr "Φραγμός χρήστη"
-
-#~ msgid "Export API keys to CSV"
-#~ msgstr "Εξαγωγή κλειδιών API στο CSV"
-
-#~ msgid "Export users to CSV"
-#~ msgstr "Εξαγωγή χρηστών στο CSV"
-
-#~ msgid "User name"
-#~ msgstr "Όνομα χρήστη"
-
-#~ msgid "Registration"
-#~ msgstr "Εγγραφή"
-
-#~ msgid "Visit the website of"
-#~ msgstr "Επισκεφτείτε το δικτυακό τόπο του"
-
-#~ msgid "View the latest content from our partners"
-#~ msgstr "Δείτε το πρόσφατο περιεχόμενο από τους συνεργάτες μας"
-
-#~ msgid "Europeana Exhibitions"
-#~ msgstr "Εκθέσεις της Europeana"
-
-#~ msgid "Remix"
-#~ msgstr "Remix"
-
-#~ msgid "Professional"
-#~ msgstr "Επαγγελματικός"
-
-#~ msgid "Change limit for an API key"
-#~ msgstr "Αλλαγή περιορισμού για ένα κλειδί API"
-
-#~ msgid "Company or Institution"
-#~ msgstr "Εταιρεία ή Ίδρυμα"
-
-#~ msgid "Telephone contact"
-#~ msgstr "Τηλεφωνική επικοινωνία"
-
-#~ msgid "Address"
-#~ msgstr "Διεύθυνση"
-
-#~ msgid "I confirm that I have read and agree to the"
-#~ msgstr "Επιβεβαιώνω ότι έχω διαβάσει και συμφωνώ με το"
-
-#~ msgid "Next in sequence"
-#~ msgstr "Το επόμενο στη συνέχεια"
-
-#~ msgid "Date of creation"
-#~ msgstr "Ημερομηνία δημιουργίας"
-
-#~ msgid "Is part of"
-#~ msgstr "Είναι μέρος του"
-
-#~ msgid "Titles"
-#~ msgstr "Τίτλοι"
-
-#~ msgid "Places"
-#~ msgstr "Τοποθεσίες"
-
-#~ msgid "Dates/Periods"
-#~ msgstr "Ημερομηνίες/Περίοδοι"
-
-#~ msgid "Subjects"
-#~ msgstr "Θέματα"
-
-#~ msgid "Creators"
-#~ msgstr "Δημιουργοί"
-
-#~ msgid "All fields"
-#~ msgstr "Όλα τα πεδία"
-
-#~ msgid "Featured Item"
-#~ msgstr "Χαρακτηριστικό Αντικείμενο"
-
-#~ msgid "Click here for last page of results"
-#~ msgstr "Πατήστε εδώ για την τελευταία σελίδα αποτελεσμάτων"
-
-#~ msgid "+ Add"
-#~ msgstr "+ Προσθήκη"
-
-#~ msgid "Field of work"
-#~ msgstr "Πεδίο εργασίας"
-
-#~ msgid "Please, select"
-#~ msgstr "Παρακαλείσθε να επιλέξετε"
-
-#~ msgid "Please try another search later."
-#~ msgstr "Παρακαλείσθε να δοκιμάσετε άλλη αναζήτηση αργότερα."
-
-#~ msgid "Unable to find the requested page"
-#~ msgstr "Αδύνατο να βρεθεί η αιτούμενη σελίδα"
-
-#~ msgid "Alert:"
-#~ msgstr "Ειδοποίηση:"
-
-#~ msgid "Unable to find the requested Europeana Record."
-#~ msgstr "Αδύνατο να βρεθεί η αιτούμενη Εγγραφή στη Europeana."
-
-#~ msgid "This item has been withdrawn by the provider."
-#~ msgstr "Αυτό το τεκμήριο έχει αποσυρθεί από τον πάροχο."
-
-#~ msgid "Requested Europeana Record is not yet indexed."
-#~ msgstr "Η αιτούμενη Εγγραφή στη Europeana δεν έχει ακόμα ευρετηριαστεί."
-
-#~ msgid "Please register your email again"
-#~ msgstr " "
-
-#~ msgid "to finish registration."
-#~ msgstr "για να τελειώσει η εγγραφή."
-
-#~ msgid "Unable to fullfill your request due to malformed query parameters."
-#~ msgstr ""
-#~ "Αδύνατο να εκπληρωθεί το αίτημά σας εξαιτίας κακής μορφής των παραμέτρων "
-#~ "του ερωτήματος."
-
-#~ msgid "Unable to get a response from the Search Engine."
-#~ msgstr "Αδύνατο να δοθεί απάντηση από τη Μηχανή Αναζήτησης."
-
-#~ msgid "Unable to fulfill your request due to a malformed query syntax."
-#~ msgstr ""
-#~ "Αδύνατο να εκπληρωθεί το αίτημά σας εξαιτίας κακής μορφής των παραμέτρων "
-#~ "της σύνταξης."
-
-#~ msgid "We are unable to change the interface to the requested language."
-#~ msgstr "Δεν μπορούμε να αλλάξουμε τη διεπαφή στην αιτούμενη γλώσσα."
-
-#~ msgid "Please try another language from the dropdown list."
-#~ msgstr ""
-#~ "Παρακαλείσθε να δοκιμάσετε άλλη γλώσσα από τον ανελισσόμενο κατάλογο."
-
-#~ msgid "Number of results shown on the page"
-#~ msgstr "Αριθμός αποτελεσμάτων που εμφανίζονται στη σελίδα"
-
-#, fuzzy
-#~ msgid "Yes, with attribution"
-#~ msgstr "Απόδοση"
-
-#, fuzzy
-#~ msgid "Yes, with restrictions"
-#~ msgstr "Απόδοση"
-
-#, fuzzy
-#~ msgid "Export API users to CSV"
-#~ msgstr "Εξαγωγή χρηστών στο CSV"
-
-#, fuzzy
-#~ msgid "Export API users to Excel"
-#~ msgstr "Εξαγωγή χρηστών στο CSV"
-
 #, fuzzy
 #~ msgid "Europeana Open culture app v2.0"
 #~ msgstr "Europeana σκέψου τον πολιτισμό"
-
-#, fuzzy
-#~ msgid "Read more"
-#~ msgstr "Δείτε περισσότερα"
-
-#, fuzzy
-#~ msgid "Europe's culture - collected for you."
-#~ msgstr "Ο πολιτισμός της Ευρώπης - συλλεγμένος για σένα"
-
-#, fuzzy
-#~ msgid ""
-#~ "Explore more than 30 million items from a range of Europe's leading "
-#~ "galleries, libraries, archives and museums."
-#~ msgstr ""
-#~ "Πίνακες ζωγραφικής, μουσική, ταινίες και βιβλία από πινακοθήκες, "
-#~ "βιβλιοθήκες, αρχεία και μουσεία της Ευρώπης."
 
 #~ msgid "What's new"
 #~ msgstr "Τί νέο υπάρχει"

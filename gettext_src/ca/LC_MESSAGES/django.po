@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-30 09:13+0100\n"
+"POT-Creation-Date: 2014-02-11 15:53+0100\n"
 "PO-Revision-Date: 2013-11-21 15:32\n"
 "Last-Translator: Laura  Huff <laura.huff@kb.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,14 +19,14 @@ msgstr ""
 
 #: templates/api_leftmenu.html:3 templates/static_pages/europeana-api.html:4
 #: templates/static_pages/prop_file.html:63
-#: templates/static_pages/prop_file.html:829
-#: templates/static_pages/prop_file.html:830
+#: templates/static_pages/prop_file.html:822
+#: templates/static_pages/prop_file.html:823
 #: templates/static_pages/sitemap.html:51
 msgid "Europeana API"
 msgstr "API d'Europeana"
 
-#: templates/api_leftmenu.html:6 templates/static_pages/prop_file.html:997
-#: templates/static_pages/prop_file.html:998
+#: templates/api_leftmenu.html:6 templates/static_pages/prop_file.html:990
+#: templates/static_pages/prop_file.html:991
 #: templates/static_pages/sitemap.html:53
 msgid "Get an API-Key"
 msgstr "Aconsegueix una Clau API"
@@ -44,21 +44,21 @@ msgid "Europeana API Forum"
 msgstr "Fòrum de l'API d'Europeana"
 
 #: templates/explore_leftmenu.html:3 templates/static_pages/explore.html:9
-#: templates/static_pages/prop_file.html:552
-#: templates/static_pages/prop_file.html:553
+#: templates/static_pages/prop_file.html:545
+#: templates/static_pages/prop_file.html:546
 msgid "Explore"
 msgstr "Explorar"
 
-#: templates/explore_leftmenu.html:5 templates/static_pages/prop_file.html:556
-#: templates/static_pages/prop_file.html:557
-#: templates/static_pages/prop_file.html:882
+#: templates/explore_leftmenu.html:5 templates/static_pages/prop_file.html:549
+#: templates/static_pages/prop_file.html:550
+#: templates/static_pages/prop_file.html:875
 #: templates/static_pages/sitemap.html:20
 msgid "Europeana Remix"
 msgstr "Europeana Remix"
 
-#: templates/explore_leftmenu.html:6 templates/static_pages/prop_file.html:560
-#: templates/static_pages/prop_file.html:561
-#: templates/static_pages/prop_file.html:871
+#: templates/explore_leftmenu.html:6 templates/static_pages/prop_file.html:553
+#: templates/static_pages/prop_file.html:554
+#: templates/static_pages/prop_file.html:864
 #: templates/static_pages/sitemap.html:17
 #: templates/static_pages/usingeuropeana_explore.html:14
 msgid "Exhibitions"
@@ -66,10 +66,10 @@ msgstr "Exposicions"
 
 #: templates/explore_leftmenu.html:7 templates/leftmenu.html:8
 #: templates/static_pages/prop_file.html:60
-#: templates/static_pages/prop_file.html:564
-#: templates/static_pages/prop_file.html:565
-#: templates/static_pages/prop_file.html:920
-#: templates/static_pages/prop_file.html:921
+#: templates/static_pages/prop_file.html:557
+#: templates/static_pages/prop_file.html:558
+#: templates/static_pages/prop_file.html:913
+#: templates/static_pages/prop_file.html:914
 #: templates/static_pages/sitemap.html:38
 #: templates/static_pages/sitemap.html:87
 #: templates/static_pages/usingeuropeana_explore.html:15
@@ -77,92 +77,92 @@ msgid "New content"
 msgstr "Nou contingut"
 
 #: templates/explore_leftmenu.html:9 templates/static_pages/prop_file.html:78
-#: templates/static_pages/prop_file.html:568
-#: templates/static_pages/prop_file.html:569
+#: templates/static_pages/prop_file.html:561
+#: templates/static_pages/prop_file.html:562
 #: templates/static_pages/sitemap.html:88
 #: templates/static_pages/usingeuropeana_search.html:60
 msgid "By provider"
 msgstr "Per proveïdor"
 
 #: templates/explore_leftmenu.html:10 templates/static_pages/prop_file.html:37
-#: templates/static_pages/prop_file.html:572
-#: templates/static_pages/prop_file.html:573
+#: templates/static_pages/prop_file.html:565
+#: templates/static_pages/prop_file.html:566
 #: templates/static_pages/sitemap.html:89
 msgid "Timeline"
 msgstr "Línia del temps"
 
 #: templates/explore_leftmenu.html:11
-#: templates/static_pages/prop_file.html:576
-#: templates/static_pages/prop_file.html:577
+#: templates/static_pages/prop_file.html:569
+#: templates/static_pages/prop_file.html:570
 #: templates/static_pages/sitemap.html:90
 msgid "Map"
 msgstr "Mapa"
 
 #: templates/followus_leftmenu.html:3 templates/static_pages/followus.html:9
-#: templates/static_pages/prop_file.html:624
-#: templates/static_pages/prop_file.html:625
+#: templates/static_pages/prop_file.html:617
+#: templates/static_pages/prop_file.html:618
 msgid "Follow Us"
 msgstr "Seguiu-nos"
 
 #: templates/followus_leftmenu.html:5
-#: templates/static_pages/prop_file.html:628
-#: templates/static_pages/prop_file.html:629
-#: templates/static_pages/prop_file.html:875
+#: templates/static_pages/prop_file.html:621
+#: templates/static_pages/prop_file.html:622
+#: templates/static_pages/prop_file.html:868
 #: templates/static_pages/sitemap.html:18
 msgid "Blog"
 msgstr "Blog"
 
 #: templates/followus_leftmenu.html:6
-#: templates/static_pages/prop_file.html:632
-#: templates/static_pages/prop_file.html:633
+#: templates/static_pages/prop_file.html:625
+#: templates/static_pages/prop_file.html:626
 msgid "Newsletter"
 msgstr "Butlletí d'informació"
 
 #: templates/followus_leftmenu.html:8
-#: templates/static_pages/prop_file.html:636
-#: templates/static_pages/prop_file.html:637
+#: templates/static_pages/prop_file.html:629
+#: templates/static_pages/prop_file.html:630
 msgid "Facebook"
 msgstr "Facebook"
 
 #: templates/followus_leftmenu.html:9
-#: templates/static_pages/prop_file.html:640
-#: templates/static_pages/prop_file.html:641
+#: templates/static_pages/prop_file.html:633
+#: templates/static_pages/prop_file.html:634
 msgid "Twitter"
 msgstr "Twitter"
 
 #: templates/leftmenu.html:3 templates/NOT/leftmenu1_old.html:3
-#: templates/NOT/leftmenu_old.html:3 templates/static_pages/prop_file.html:604
-#: templates/static_pages/prop_file.html:605
+#: templates/NOT/leftmenu_old.html:3 templates/static_pages/prop_file.html:597
+#: templates/static_pages/prop_file.html:598
 msgid "About Us"
 msgstr "Qui som"
 
 #: templates/leftmenu.html:6 templates/NOT/leftmenu1_old.html:6
-#: templates/NOT/leftmenu_old.html:6 templates/static_pages/prop_file.html:608
-#: templates/static_pages/prop_file.html:609
+#: templates/NOT/leftmenu_old.html:6 templates/static_pages/prop_file.html:601
+#: templates/static_pages/prop_file.html:602
 msgid "Background"
 msgstr "Antecedents"
 
-#: templates/leftmenu.html:9 templates/static_pages/prop_file.html:925
-#: templates/static_pages/prop_file.html:926
+#: templates/leftmenu.html:9 templates/static_pages/prop_file.html:918
+#: templates/static_pages/prop_file.html:919
 msgid "All providers"
 msgstr "Tots els proveïdors"
 
 #: templates/leftmenu.html:10 templates/static_pages/aboutus_enews.html:11
-#: templates/static_pages/prop_file.html:930
-#: templates/static_pages/prop_file.html:931
+#: templates/static_pages/prop_file.html:923
+#: templates/static_pages/prop_file.html:924
 #: templates/static_pages/sitemap.html:40
 msgid "Previous newsletters"
 msgstr "Butlletins d'informació anteriors"
 
 #: templates/leftmenu.html:12 templates/NOT/leftmenu_old.html:8
-#: templates/static_pages/prop_file.html:935
-#: templates/static_pages/prop_file.html:936
+#: templates/static_pages/prop_file.html:928
+#: templates/static_pages/prop_file.html:929
 msgid "Press Centre"
 msgstr "Sala de premsa"
 
 #: templates/leftmenu.html:13 templates/NOT/leftmenu_old.html:9
-#: templates/static_pages/prop_file.html:940
-#: templates/static_pages/prop_file.html:941
+#: templates/static_pages/prop_file.html:933
+#: templates/static_pages/prop_file.html:934
 msgid "Jobs"
 msgstr "Ofertes de treball"
 
@@ -170,8 +170,8 @@ msgstr "Ofertes de treball"
 #: templates/NOT/leftmenu1_old.html:9 templates/NOT/leftmenu1_old.html:12
 #: templates/NOT/leftmenu_old.html:10 templates/NOT/leftmenu_old.html.py:14
 #: templates/static_pages/prop_file.html:36
-#: templates/static_pages/prop_file.html:620
-#: templates/static_pages/prop_file.html:621
+#: templates/static_pages/prop_file.html:613
+#: templates/static_pages/prop_file.html:614
 msgid "Partners"
 msgstr "Socis"
 
@@ -182,8 +182,8 @@ msgstr "Sala de premsa"
 
 #: templates/leftmenu.html:16 templates/NOT/leftmenu1_old.html:8
 #: templates/NOT/leftmenu1_old.html:11 templates/NOT/leftmenu_old.html:13
-#: templates/static_pages/prop_file.html:616
-#: templates/static_pages/prop_file.html:617
+#: templates/static_pages/prop_file.html:609
+#: templates/static_pages/prop_file.html:610
 msgid "Job opportunities"
 msgstr "Ofertes de treball"
 
@@ -242,8 +242,8 @@ msgstr "Les nostres polítiques"
 #: templates/terms_leftmenu.html:24 templates/rights/privacy.html:15
 #: templates/rights/terms-and-policies.html:37
 #: templates/static_pages/prop_file.html:68
-#: templates/static_pages/prop_file.html:536
-#: templates/static_pages/prop_file.html:537
+#: templates/static_pages/prop_file.html:529
+#: templates/static_pages/prop_file.html:530
 #: templates/static_pages/sitemap.html:106
 msgid "Privacy"
 msgstr "Privacitat"
@@ -258,8 +258,8 @@ msgstr "Llengua"
 #: templates/terms_leftmenu.html:26 templates/rights/accessibility.html:15
 #: templates/rights/terms-and-policies.html:37
 #: templates/static_pages/prop_file.html:65
-#: templates/static_pages/prop_file.html:524
-#: templates/static_pages/prop_file.html:525
+#: templates/static_pages/prop_file.html:517
+#: templates/static_pages/prop_file.html:518
 #: templates/static_pages/sitemap.html:108
 msgid "Accessibility"
 msgstr "Accessibilitat"
@@ -270,20 +270,20 @@ msgstr "Carta de Domini Públic"
 
 #: templates/usingeuropeana_leftmenu.html:3
 #: templates/static_pages/prop_file.html:334
-#: templates/static_pages/prop_file.html:580
-#: templates/static_pages/prop_file.html:581
-#: templates/static_pages/prop_file.html:890
-#: templates/static_pages/prop_file.html:891
+#: templates/static_pages/prop_file.html:573
+#: templates/static_pages/prop_file.html:574
+#: templates/static_pages/prop_file.html:883
+#: templates/static_pages/prop_file.html:884
 #: templates/static_pages/sitemap.html:25
 #: templates/static_pages/usingeuropeana.html:9
 msgid "Help"
 msgstr "Ajuda"
 
 #: templates/usingeuropeana_leftmenu.html:5
-#: templates/static_pages/prop_file.html:584
-#: templates/static_pages/prop_file.html:585
-#: templates/static_pages/prop_file.html:894
-#: templates/static_pages/prop_file.html:895
+#: templates/static_pages/prop_file.html:577
+#: templates/static_pages/prop_file.html:578
+#: templates/static_pages/prop_file.html:887
+#: templates/static_pages/prop_file.html:888
 #: templates/static_pages/usingeuropeana.html:14
 #: templates/static_pages/usingeuropeana_results.html:22
 #: templates/static_pages/usingeuropeana_search.html:9
@@ -293,10 +293,10 @@ msgstr "Cercar a Europeana"
 
 #: templates/usingeuropeana_leftmenu.html:6
 #: templates/static_pages/prop_file.html:288
-#: templates/static_pages/prop_file.html:588
-#: templates/static_pages/prop_file.html:589
-#: templates/static_pages/prop_file.html:898
-#: templates/static_pages/prop_file.html:899
+#: templates/static_pages/prop_file.html:581
+#: templates/static_pages/prop_file.html:582
+#: templates/static_pages/prop_file.html:891
+#: templates/static_pages/prop_file.html:892
 #: templates/static_pages/sitemap.html:28
 #: templates/static_pages/usingeuropeana.html:16
 #: templates/static_pages/usingeuropeana_explore.html:9
@@ -305,10 +305,10 @@ msgid "Exploring Europeana"
 msgstr "Explorar Europeana"
 
 #: templates/usingeuropeana_leftmenu.html:8
-#: templates/static_pages/prop_file.html:592
-#: templates/static_pages/prop_file.html:593
-#: templates/static_pages/prop_file.html:902
-#: templates/static_pages/prop_file.html:903
+#: templates/static_pages/prop_file.html:585
+#: templates/static_pages/prop_file.html:586
+#: templates/static_pages/prop_file.html:895
+#: templates/static_pages/prop_file.html:896
 #: templates/static_pages/sitemap.html:29
 #: templates/static_pages/usingeuropeana.html:19
 #: templates/static_pages/usingeuropeana_results.html:9
@@ -317,10 +317,10 @@ msgid "Results in Europeana"
 msgstr "Resultats a Europeana"
 
 #: templates/usingeuropeana_leftmenu.html:9
-#: templates/static_pages/prop_file.html:596
-#: templates/static_pages/prop_file.html:597
-#: templates/static_pages/prop_file.html:906
-#: templates/static_pages/prop_file.html:907
+#: templates/static_pages/prop_file.html:589
+#: templates/static_pages/prop_file.html:590
+#: templates/static_pages/prop_file.html:899
+#: templates/static_pages/prop_file.html:900
 #: templates/static_pages/sitemap.html:30
 #: templates/static_pages/usingeuropeana.html:21
 #: templates/static_pages/usingeuropeana_myeuropeana.html:9
@@ -329,8 +329,8 @@ msgid "Using My Europeana"
 msgstr "Utilitzar la Meva Europeana"
 
 #: templates/usingeuropeana_leftmenu.html:10
-#: templates/static_pages/prop_file.html:910
-#: templates/static_pages/prop_file.html:911
+#: templates/static_pages/prop_file.html:903
+#: templates/static_pages/prop_file.html:904
 msgid "Configure your search widget"
 msgstr ""
 
@@ -1924,10 +1924,10 @@ msgid "Log out"
 msgstr "Finalitzar la sessió"
 
 #: templates/static_pages/prop_file.html:25
-#: templates/static_pages/prop_file.html:648
-#: templates/static_pages/prop_file.html:649
-#: templates/static_pages/prop_file.html:963
-#: templates/static_pages/prop_file.html:964
+#: templates/static_pages/prop_file.html:641
+#: templates/static_pages/prop_file.html:642
+#: templates/static_pages/prop_file.html:956
+#: templates/static_pages/prop_file.html:957
 #: templates/static_pages/sitemap.html:12
 #: templates/static_pages/usingeuropeana_myeuropeana.html:10
 #: templates/static_pages/usingeuropeana_myeuropeana.html:11
@@ -2115,8 +2115,8 @@ msgstr ""
 "Dels nostres socis (museus, arxius, biblioteques i col·leccions audiovisuals)"
 
 #: templates/static_pages/prop_file.html:62
-#: templates/static_pages/prop_file.html:915
-#: templates/static_pages/prop_file.html:916
+#: templates/static_pages/prop_file.html:908
+#: templates/static_pages/prop_file.html:909
 #: templates/static_pages/sitemap.html:36
 msgid "About us"
 msgstr "Qui som"
@@ -2126,10 +2126,10 @@ msgid "Using Europeana"
 msgstr "Utilitzar Europeana"
 
 #: templates/static_pages/prop_file.html:66
-#: templates/static_pages/prop_file.html:528
-#: templates/static_pages/prop_file.html:529
-#: templates/static_pages/prop_file.html:841
-#: templates/static_pages/prop_file.html:842
+#: templates/static_pages/prop_file.html:521
+#: templates/static_pages/prop_file.html:522
+#: templates/static_pages/prop_file.html:834
+#: templates/static_pages/prop_file.html:835
 #: templates/static_pages/sitemap.html:8
 msgid "Sitemap"
 msgstr "Mapa del web"
@@ -2145,8 +2145,8 @@ msgid "Language policy"
 msgstr "Política sobre llengües"
 
 #: templates/static_pages/prop_file.html:70
-#: templates/static_pages/prop_file.html:837
-#: templates/static_pages/prop_file.html:838
+#: templates/static_pages/prop_file.html:830
+#: templates/static_pages/prop_file.html:831
 msgid "Contact us"
 msgstr "Contacteu-nos"
 
@@ -2393,13 +2393,13 @@ msgid "View in original context"
 msgstr "Veure en el context original"
 
 #: templates/static_pages/prop_file.html:134
-#: templates/static_pages/prop_file.html:827
+#: templates/static_pages/prop_file.html:820
 msgid "Provider"
 msgstr "Proveïdor"
 
 #: templates/static_pages/prop_file.html:135
 #: templates/static_pages/prop_file.html:228
-#: templates/static_pages/prop_file.html:824
+#: templates/static_pages/prop_file.html:817
 #: templates/static_pages/storyline.html:49
 #: templates/static_pages/usingeuropeana_search.html:32
 msgid "Title"
@@ -2541,7 +2541,7 @@ msgid "Create an account"
 msgstr "Crear un compte"
 
 #: templates/static_pages/prop_file.html:166
-#: templates/static_pages/prop_file.html:986
+#: templates/static_pages/prop_file.html:979
 msgid "The link you used to complete registration is invalid or has expired."
 msgstr "L'enllaç que vau utilitzar per registrar-vos és invàlid o ha expirat"
 
@@ -2737,7 +2737,7 @@ msgid "Is Part of"
 msgstr "És part de"
 
 #: templates/static_pages/prop_file.html:216
-#: templates/static_pages/prop_file.html:955
+#: templates/static_pages/prop_file.html:948
 msgid "Has part"
 msgstr "Té com a part"
 
@@ -3367,7 +3367,7 @@ msgid "Powered By Europeana"
 msgstr "Desenvolupat per Europeana"
 
 #: templates/static_pages/prop_file.html:365
-#: templates/static_pages/prop_file.html:874
+#: templates/static_pages/prop_file.html:867
 msgid "Europeana Blog"
 msgstr "Bloc d'Europeana"
 
@@ -3587,112 +3587,116 @@ msgstr ""
 "l'Associació Central de Productors de Llet de Suïssa"
 
 #: templates/static_pages/prop_file.html:493
-#: templates/static_pages/prop_file.html:502
+#: templates/static_pages/prop_file.html:496
+#, fuzzy
+msgid "Europe's culture - collected for you."
+msgstr "Exploreu les col·leccions culturals d'Europa"
+
+#: templates/static_pages/prop_file.html:497
+#, fuzzy
+msgid ""
+"Explore more than 30 million items from a range of Europe's leading "
+"galleries, libraries, archives and museums."
+msgstr ""
+"Pintures, música, pel·lícules i llibres de les galeries, biblioteques, "
+"arxius i museus d'Europa."
+
+#: templates/static_pages/prop_file.html:498
+#, fuzzy
+msgid "Learn more"
+msgstr "Veure més"
+
+#: templates/static_pages/prop_file.html:501
+#: templates/static_pages/prop_file.html:510
 #, fuzzy
 msgid "New &amp; Improved - Europeana 1914-1918"
 msgstr "Europeana v1.0"
 
-#: templates/static_pages/prop_file.html:503
+#: templates/static_pages/prop_file.html:511
 msgid ""
 "Take a look at the new and improved Europeana 1914-1918 website and browse "
 "the most important pan-European collection of original First World War "
 "source material."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:504
+#: templates/static_pages/prop_file.html:512
 msgid "Browse website"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:508
-#: templates/static_pages/prop_file.html:517
-msgid "Survey - Win an Android Tablet"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:518
-msgid ""
-"Speak up and let us know what you think of this website. Take our 5 minute "
-"survey and you'll be entered into a prize draw to win a Google Nexus 10 "
-"Android tablet."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:519
-msgid "Take survey"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:532
-#: templates/static_pages/prop_file.html:533
+#: templates/static_pages/prop_file.html:525
+#: templates/static_pages/prop_file.html:526
 #: templates/static_pages/sitemap.html:97
 msgid "Terms of Use &amp; Policies"
 msgstr "Condicions d'ús; Polítiques"
 
-#: templates/static_pages/prop_file.html:540
-#: templates/static_pages/prop_file.html:541
+#: templates/static_pages/prop_file.html:533
+#: templates/static_pages/prop_file.html:534
 msgid "Language Policy"
 msgstr "Política sobre llengües"
 
-#: templates/static_pages/prop_file.html:544
-#: templates/static_pages/prop_file.html:545
+#: templates/static_pages/prop_file.html:537
+#: templates/static_pages/prop_file.html:538
 #: templates/static_pages/sitemap.html:126
 msgid "Contact"
 msgstr "Contacte"
 
-#: templates/static_pages/prop_file.html:548
-#: templates/static_pages/prop_file.html:549
-#: templates/static_pages/prop_file.html:959
-#: templates/static_pages/prop_file.html:960
+#: templates/static_pages/prop_file.html:541
+#: templates/static_pages/prop_file.html:542
+#: templates/static_pages/prop_file.html:952
+#: templates/static_pages/prop_file.html:953
 #: templates/static_pages/sitemap.html:11
 msgid "Home"
 msgstr "Inici"
 
-#: templates/static_pages/prop_file.html:600
+#: templates/static_pages/prop_file.html:593
 #: templates/static_pages/sitemap.html:31
 #: templates/static_pages/usingeuropeana_searchwidget.html:9
 msgid "How to configure your search widget"
 msgstr "Com configurar el giny de cerca d'Europeana"
 
-#: templates/static_pages/prop_file.html:601
+#: templates/static_pages/prop_file.html:594
 #, fuzzy
 msgid "How to configure your search widhet"
 msgstr "Com configurar el giny de cerca d'Europeana"
 
-#: templates/static_pages/prop_file.html:612
-#: templates/static_pages/prop_file.html:613
+#: templates/static_pages/prop_file.html:605
+#: templates/static_pages/prop_file.html:606
 msgid "Press Room"
 msgstr "Sala de premsa"
 
-#: templates/static_pages/prop_file.html:644
-#: templates/static_pages/prop_file.html:645
+#: templates/static_pages/prop_file.html:637
+#: templates/static_pages/prop_file.html:638
 msgid "Pinterest"
 msgstr "Pinterest"
 
-#: templates/static_pages/prop_file.html:652
-#: templates/static_pages/prop_file.html:653
-#: templates/static_pages/prop_file.html:658
+#: templates/static_pages/prop_file.html:645
+#: templates/static_pages/prop_file.html:646
+#: templates/static_pages/prop_file.html:651
 msgid "Explore Europe's cultural collections"
 msgstr "Exploreu les col·leccions culturals d'Europa"
 
-#: templates/static_pages/prop_file.html:656
-#: templates/static_pages/prop_file.html:657
+#: templates/static_pages/prop_file.html:649
+#: templates/static_pages/prop_file.html:650
 msgid "Access professional knowledge"
 msgstr "Accedir al coneixement professional"
 
-#: templates/static_pages/prop_file.html:659
+#: templates/static_pages/prop_file.html:652
 msgid "Social media activities"
 msgstr "Activitats als mitjans de comunicació social"
 
-#: templates/static_pages/prop_file.html:660
+#: templates/static_pages/prop_file.html:653
 msgid "From the blog"
 msgstr "Des del bloc"
 
-#: templates/static_pages/prop_file.html:661
+#: templates/static_pages/prop_file.html:654
 msgid "Filter your search"
 msgstr "Filtrar la cerca"
 
-#: templates/static_pages/prop_file.html:662
+#: templates/static_pages/prop_file.html:655
 msgid "Grid view"
 msgstr "Visualització en graella"
 
-#: templates/static_pages/prop_file.html:663
+#: templates/static_pages/prop_file.html:656
 msgid ""
 "We apologize; there was a problem retrieving the search results from the "
 "server. Please try again later"
@@ -3700,95 +3704,95 @@ msgstr ""
 "Ho sentim, hi hagut un problema en recuperar els resultats de la cerca del "
 "servidor. Si us plau, torneu-ho a provar més tard"
 
-#: templates/static_pages/prop_file.html:664
+#: templates/static_pages/prop_file.html:657
 msgid "Similar items"
 msgstr "Ítems semblants"
 
-#: templates/static_pages/prop_file.html:665
+#: templates/static_pages/prop_file.html:658
 msgid "Loading ..."
 msgstr "Carregant ..."
 
-#: templates/static_pages/prop_file.html:666
+#: templates/static_pages/prop_file.html:659
 #: templates/static_pages/usingeuropeana_results.html:42
 msgid "Translate details"
 msgstr "Traduir els detalls"
 
-#: templates/static_pages/prop_file.html:667
+#: templates/static_pages/prop_file.html:660
 msgid "Return to search results"
 msgstr "Tornar als resultats"
 
-#: templates/static_pages/prop_file.html:668
+#: templates/static_pages/prop_file.html:661
 msgid "Next search result"
 msgstr "Resultats següents"
 
-#: templates/static_pages/prop_file.html:669
+#: templates/static_pages/prop_file.html:662
 msgid "Something went wrong!"
 msgstr "Alguna cosa ha fallat!"
 
-#: templates/static_pages/prop_file.html:670
+#: templates/static_pages/prop_file.html:663
 msgid "An email has been sent to inform our technical staff"
 msgstr ""
 "S'ha enviat un correu electrònic per a informar al  nostre personal tècnic"
 
-#: templates/static_pages/prop_file.html:671
+#: templates/static_pages/prop_file.html:664
 msgid "Please try another search"
 msgstr "Si us plau, intenteu una altra cerca"
 
-#: templates/static_pages/prop_file.html:672
+#: templates/static_pages/prop_file.html:665
 msgid "Saved search removed successfully"
 msgstr "S'ha eliminat la cerca guardada."
 
-#: templates/static_pages/prop_file.html:673
-#: templates/static_pages/prop_file.html:686
+#: templates/static_pages/prop_file.html:666
+#: templates/static_pages/prop_file.html:679
 msgid "Saved item removed successfully"
 msgstr "S'ha eliminat l'ítem guardat."
 
-#: templates/static_pages/prop_file.html:674
+#: templates/static_pages/prop_file.html:667
 msgid "Saved tag removed successfully"
 msgstr "S'ha eliminat l'etiqueta guardada."
 
-#: templates/static_pages/prop_file.html:675
+#: templates/static_pages/prop_file.html:668
 msgid "An error occurred"
 msgstr "S'ha produït un error"
 
-#: templates/static_pages/prop_file.html:676
+#: templates/static_pages/prop_file.html:669
 msgid "The item could not be removed"
 msgstr "No es pot eliminar l'ítem"
 
-#: templates/static_pages/prop_file.html:677
+#: templates/static_pages/prop_file.html:670
 msgid "Auto-generated tags"
 msgstr "Etiquetes generades autiomàticament"
 
-#: templates/static_pages/prop_file.html:678
+#: templates/static_pages/prop_file.html:671
 msgid "Request"
 msgstr "Petició"
 
-#: templates/static_pages/prop_file.html:679
-#: templates/static_pages/prop_file.html:682
+#: templates/static_pages/prop_file.html:672
+#: templates/static_pages/prop_file.html:675
 msgid "Legend"
 msgstr "Llegenda"
 
-#: templates/static_pages/prop_file.html:680
+#: templates/static_pages/prop_file.html:673
 msgid "See less"
 msgstr "Veure menys"
 
-#: templates/static_pages/prop_file.html:681
+#: templates/static_pages/prop_file.html:674
 msgid "See more"
 msgstr "Veure més"
 
-#: templates/static_pages/prop_file.html:683
+#: templates/static_pages/prop_file.html:676
 msgid "Explore further"
 msgstr "Explorar més"
 
-#: templates/static_pages/prop_file.html:684
+#: templates/static_pages/prop_file.html:677
 msgid "Return to original language"
 msgstr "Tornar a la llengua original"
 
-#: templates/static_pages/prop_file.html:685
+#: templates/static_pages/prop_file.html:678
 msgid "Attention: this item has been withdrawn by the provider."
 msgstr "Atenció: el proveïdor ha retirat aquest ítem."
 
-#: templates/static_pages/prop_file.html:687
+#: templates/static_pages/prop_file.html:680
 msgid ""
 "We apologise; there was a problem retrieving the data from the server. "
 "Please try again later."
@@ -3796,41 +3800,41 @@ msgstr ""
 "Ho sentim, hi hagut un problema en recuperar les dades del servidor. Si us "
 "plau, torneu-ho a provar més tard."
 
-#: templates/static_pages/prop_file.html:688
+#: templates/static_pages/prop_file.html:681
 msgid "Preview"
 msgstr "Previsualització"
 
-#: templates/static_pages/prop_file.html:689
+#: templates/static_pages/prop_file.html:682
 msgid "Return to timeline"
 msgstr "Tronar a la línia del temps"
 
-#: templates/static_pages/prop_file.html:690
+#: templates/static_pages/prop_file.html:683
 msgid "This email address does not yet exist in our database"
 msgstr ""
 "Aquesta adreça de correu electrònic encara no existeix a la nostra base de "
 "dades."
 
-#: templates/static_pages/prop_file.html:691
+#: templates/static_pages/prop_file.html:684
 msgid "Your password change has been successfully completed"
 msgstr "El canvi de la vostra contrasenya s'ha completat."
 
-#: templates/static_pages/prop_file.html:692
+#: templates/static_pages/prop_file.html:685
 msgid "Zoom"
 msgstr "Zoom"
 
-#: templates/static_pages/prop_file.html:693
+#: templates/static_pages/prop_file.html:686
 msgid "Zoom in"
 msgstr "Apropar"
 
-#: templates/static_pages/prop_file.html:694
+#: templates/static_pages/prop_file.html:687
 msgid "Zoom out"
 msgstr "Allunyar"
 
-#: templates/static_pages/prop_file.html:695
+#: templates/static_pages/prop_file.html:688
 msgid "Choose from different map types"
 msgstr "Seleccioneu entre diferents tipus de mapa"
 
-#: templates/static_pages/prop_file.html:696
+#: templates/static_pages/prop_file.html:689
 msgid ""
 "Navigate map: click and hold left mouse-button, then move mouse to change "
 "the view"
@@ -3838,7 +3842,7 @@ msgstr ""
 "Navegar pel mapa: feu clic i sense deixar anar el botó esquerra del ratolí, "
 "moveu el ratolí per canviar la visualització"
 
-#: templates/static_pages/prop_file.html:697
+#: templates/static_pages/prop_file.html:690
 msgid ""
 "Select via freeform: add anchor points with left mouse-click, double click "
 "to finish the shape"
@@ -3846,27 +3850,27 @@ msgstr ""
 "Seleccioneu formes lliures: afegiu punts d'ancoratge fent clic amb el botó "
 "esquerre  del ratolí, feu doble clic per acabar la forma."
 
-#: templates/static_pages/prop_file.html:698
+#: templates/static_pages/prop_file.html:691
 msgid "Google Satellite"
 msgstr "Google Satellite"
 
-#: templates/static_pages/prop_file.html:699
+#: templates/static_pages/prop_file.html:692
 msgid "Google Hybrid"
 msgstr "Google Hybrid"
 
-#: templates/static_pages/prop_file.html:700
+#: templates/static_pages/prop_file.html:693
 msgid "Google Street"
 msgstr "Google Street"
 
-#: templates/static_pages/prop_file.html:701
+#: templates/static_pages/prop_file.html:694
 msgid "Google Physical"
 msgstr "Google Physical"
 
-#: templates/static_pages/prop_file.html:703
+#: templates/static_pages/prop_file.html:696
 msgid "Tiles courtesy of"
 msgstr "Les rajoles són cortesia de"
 
-#: templates/static_pages/prop_file.html:704
+#: templates/static_pages/prop_file.html:697
 msgid ""
 "This is your personal space on Europeana. With My Europeana, you can save "
 "your favourite items and searches, and add tags."
@@ -3874,46 +3878,46 @@ msgstr ""
 "Aquest és el vostre espai personal a Europeana. Amb La Meva Europeana podeu "
 "guardar els vostres ítems i cerques preferits, i afegir-ne etiquetes."
 
-#: templates/static_pages/prop_file.html:705
+#: templates/static_pages/prop_file.html:698
 #: templates/static_pages/usingeuropeana_results.html:19
 msgid "3D"
 msgstr "3D"
 
-#: templates/static_pages/prop_file.html:706
+#: templates/static_pages/prop_file.html:699
 msgid "Download"
 msgstr "Descarregar"
 
-#: templates/static_pages/prop_file.html:707
+#: templates/static_pages/prop_file.html:700
 #, fuzzy
 msgid "User contributed content"
 msgstr "Contingut generat pels usuaris"
 
-#: templates/static_pages/prop_file.html:708
+#: templates/static_pages/prop_file.html:701
 msgid "Play"
 msgstr "Reproduïu"
 
-#: templates/static_pages/prop_file.html:709
+#: templates/static_pages/prop_file.html:702
 msgid "Read"
 msgstr "Llegir"
 
-#: templates/static_pages/prop_file.html:710
+#: templates/static_pages/prop_file.html:703
 #: templates/static_pages/usingeuropeana_results.html:34
 msgid "View"
 msgstr "Veure"
 
-#: templates/static_pages/prop_file.html:711
+#: templates/static_pages/prop_file.html:704
 msgid "View larger image"
 msgstr "Veure la imatge més gran"
 
-#: templates/static_pages/prop_file.html:712
+#: templates/static_pages/prop_file.html:705
 msgid "Your search result contains no items that have map co-ordinates."
 msgstr "Els resultats no contenen ítems amb mapa de coordenades. "
 
-#: templates/static_pages/prop_file.html:713
+#: templates/static_pages/prop_file.html:706
 msgid "Please try another search."
 msgstr "Intenteu, si us plau, una altra cerca."
 
-#: templates/static_pages/prop_file.html:714
+#: templates/static_pages/prop_file.html:707
 msgid ""
 "The Europeana map search is still in development and currently doesn't work "
 "in Internet Explorer. We aim to support Internet Explorer in the future. "
@@ -3923,105 +3927,105 @@ msgstr ""
 "no funciona amb Internet Explorer. El nostre objectiu és suportar l'Internet "
 "Explorer en el futur. Ara es recomana utilitzar Chrome o Firefox."
 
-#: templates/static_pages/prop_file.html:718
+#: templates/static_pages/prop_file.html:711
 msgid "Wikipedia Citation"
 msgstr "Citació a Wikipèdia"
 
-#: templates/static_pages/prop_file.html:719
+#: templates/static_pages/prop_file.html:712
 msgid "Copy and paste the wiki-markup below:"
 msgstr "Copiar i enganxar el wiki-marcat a continuació:"
 
-#: templates/static_pages/prop_file.html:726
+#: templates/static_pages/prop_file.html:719
 #: templates/static_pages/usingeuropeana_search.html:67
 msgid "Include content contributed by users"
 msgstr "Incloure el contingut que han aportat els usuaris"
 
-#: templates/static_pages/prop_file.html:727
+#: templates/static_pages/prop_file.html:720
 msgid "The map only shows up to 1000 items relevant to your query."
 msgstr "El mapa només mostra fins a 1000 ítems pertinents a la vostra cerca."
 
-#: templates/static_pages/prop_file.html:728
+#: templates/static_pages/prop_file.html:721
 msgid "No place name available"
 msgstr "No hi ha cap nom de lloc disponible"
 
-#: templates/static_pages/prop_file.html:729
+#: templates/static_pages/prop_file.html:722
 msgid "The map only shows up to {0} items relevant to your query."
 msgstr "El mapa només mostra fins a {0} ítems pertinents a la vostra cerca."
 
-#: templates/static_pages/prop_file.html:730
+#: templates/static_pages/prop_file.html:723
 msgid "Search within current map view"
 msgstr "Cercar dins la vista actual del mapa"
 
-#: templates/static_pages/prop_file.html:731
+#: templates/static_pages/prop_file.html:724
 #: templates/static_pages/usingeuropeana_results.html:41
 msgid "Citation"
 msgstr "Cita"
 
-#: templates/static_pages/prop_file.html:732
+#: templates/static_pages/prop_file.html:725
 #: templates/static_pages/usingeuropeana_results.html:41
 msgid "Footnote"
 msgstr "Nota al peu"
 
-#: templates/static_pages/prop_file.html:733
+#: templates/static_pages/prop_file.html:726
 msgid "Follow us on"
 msgstr "Seguiu-nos a "
 
-#: templates/static_pages/prop_file.html:734
+#: templates/static_pages/prop_file.html:727
 msgid "Unable to find content for this page."
 msgstr "No s'ha trobat contingut per a aquesta pàgina"
 
-#: templates/static_pages/prop_file.html:737
+#: templates/static_pages/prop_file.html:730
 msgid "Latest on"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:738
-#: templates/static_pages/prop_file.html:979
+#: templates/static_pages/prop_file.html:731
+#: templates/static_pages/prop_file.html:972
 #: templates/static_pages/usingeuropeana_search.html:69
 msgid "Share"
 msgstr "Compartir"
 
-#: templates/static_pages/prop_file.html:739
+#: templates/static_pages/prop_file.html:732
 msgid "Share item on Facebook, Twitter, etc."
 msgstr "Compartir l'ítem a Facebook, Twitter, etc."
 
-#: templates/static_pages/prop_file.html:740
+#: templates/static_pages/prop_file.html:733
 msgid "Follow us!"
 msgstr "Seguiu-nos!"
 
-#: templates/static_pages/prop_file.html:741
+#: templates/static_pages/prop_file.html:734
 msgid "Newsletter sign-up"
 msgstr "Subscriure's al butlletí d'informació"
 
-#: templates/static_pages/prop_file.html:742
-#: templates/static_pages/prop_file.html:743
+#: templates/static_pages/prop_file.html:735
+#: templates/static_pages/prop_file.html:736
 msgid "Sign-up here"
 msgstr "Subscriviu-vos aquí"
 
-#: templates/static_pages/prop_file.html:744
-#: templates/static_pages/prop_file.html:1000
+#: templates/static_pages/prop_file.html:737
+#: templates/static_pages/prop_file.html:993
 msgid "Name"
 msgstr "Nom"
 
-#: templates/static_pages/prop_file.html:745
+#: templates/static_pages/prop_file.html:738
 msgid "Email Address"
 msgstr "Adreça de correu electrònic"
 
-#: templates/static_pages/prop_file.html:746
+#: templates/static_pages/prop_file.html:739
 msgid ""
 "Sign-up to receive our bi-monthly newsletter, and occasional announcements."
 msgstr ""
 "Subscriviu-vos per rebre el butlletí d'informació bimensual, i anuncis "
 "ocasionals."
 
-#: templates/static_pages/prop_file.html:757
-#: templates/static_pages/prop_file.html:768
-#: templates/static_pages/prop_file.html:779
-#: templates/static_pages/prop_file.html:789
-#: templates/static_pages/prop_file.html:800
+#: templates/static_pages/prop_file.html:750
+#: templates/static_pages/prop_file.html:761
+#: templates/static_pages/prop_file.html:772
+#: templates/static_pages/prop_file.html:782
+#: templates/static_pages/prop_file.html:793
 msgid "Featured partner"
 msgstr "Soci destacat"
 
-#: templates/static_pages/prop_file.html:761
+#: templates/static_pages/prop_file.html:754
 msgid ""
 "Ateneum Art Museum is home to the largest and most important art collections "
 "in Finland. The museum governs over 20,000 works of art. The most "
@@ -4033,7 +4037,7 @@ msgstr ""
 "important és la col·lecció Antell, una donació testamentàriadel "
 "col·leccionista H. F. Antell."
 
-#: templates/static_pages/prop_file.html:772
+#: templates/static_pages/prop_file.html:765
 msgid ""
 "The National Gallery of Ireland houses the Irish national collection of "
 "Irish and European art. It is located in the centre of Dublin with one "
@@ -4053,7 +4057,7 @@ msgstr ""
 "irlandesa i destaca també per les seves pintures del Barroc italià i dels "
 "mestres holandesos. "
 
-#: templates/static_pages/prop_file.html:783
+#: templates/static_pages/prop_file.html:776
 msgid ""
 "One of the oldest and the best museums of the Upper Volga Region, was "
 "founded in 1910. Now the museum houses more than 120 thousand exhibits: from "
@@ -4063,7 +4067,7 @@ msgstr ""
 "fundat el 1910. Ara, el museu acull més de cent vint mil exposicions: des "
 "d'ossos de sauris a pintures d'artistes famosos."
 
-#: templates/static_pages/prop_file.html:793
+#: templates/static_pages/prop_file.html:786
 msgid ""
 "Since its founding in 1952 the Hungarian Theatre Museum and Institute has "
 "been collecting the most valuable relics and data of the Hungarian theatre, "
@@ -4074,7 +4078,7 @@ msgid ""
 "many more..."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:804
+#: templates/static_pages/prop_file.html:797
 msgid ""
 "Archive Eemland is the historical information centre of Amersfoort and the "
 "Eemland region. The archive manages approximately 3.5 kilometers of "
@@ -4083,370 +4087,370 @@ msgid ""
 "library."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:811
+#: templates/static_pages/prop_file.html:804
 msgid "API function"
 msgstr "funció API"
 
-#: templates/static_pages/prop_file.html:812
+#: templates/static_pages/prop_file.html:805
 msgid "Search parameters"
 msgstr "Paràmetres de cerca"
 
-#: templates/static_pages/prop_file.html:813
+#: templates/static_pages/prop_file.html:806
 msgid "Search term"
 msgstr "Terme de cerca"
 
-#: templates/static_pages/prop_file.html:814
+#: templates/static_pages/prop_file.html:807
 msgid "Refinement term(s)"
 msgstr "Terme(s) d'afinament"
 
-#: templates/static_pages/prop_file.html:815
+#: templates/static_pages/prop_file.html:808
 msgid "Profile"
 msgstr "Perfil"
 
-#: templates/static_pages/prop_file.html:816
+#: templates/static_pages/prop_file.html:809
 msgid "Number of records to retrieve"
 msgstr "Nombre de registres a recuperar"
 
-#: templates/static_pages/prop_file.html:817
+#: templates/static_pages/prop_file.html:810
 msgid "First record to retrieve"
 msgstr "Primer registre a recuperar"
 
-#: templates/static_pages/prop_file.html:818
+#: templates/static_pages/prop_file.html:811
 msgid "Record parameters"
 msgstr "Paràmetres del registre"
 
-#: templates/static_pages/prop_file.html:819
+#: templates/static_pages/prop_file.html:812
 msgid "Record id"
 msgstr "Id del registre"
 
-#: templates/static_pages/prop_file.html:820
+#: templates/static_pages/prop_file.html:813
 msgid "Request URL"
 msgstr "Demanar URL"
 
-#: templates/static_pages/prop_file.html:821
+#: templates/static_pages/prop_file.html:814
 msgid "JSON response"
 msgstr "resposta JSON"
 
-#: templates/static_pages/prop_file.html:823
+#: templates/static_pages/prop_file.html:816
 msgid "Search also for:"
 msgstr "Cercar també per:"
 
-#: templates/static_pages/prop_file.html:825
+#: templates/static_pages/prop_file.html:818
 msgid "Who"
 msgstr "Who"
 
-#: templates/static_pages/prop_file.html:826
+#: templates/static_pages/prop_file.html:819
 msgid "What"
 msgstr "What"
 
-#: templates/static_pages/prop_file.html:828
+#: templates/static_pages/prop_file.html:821
 msgid "api-introduction.html"
 msgstr "api-introduction.html"
 
-#: templates/static_pages/prop_file.html:831
-#: templates/static_pages/prop_file.html:835
-#: templates/static_pages/prop_file.html:839
-#: templates/static_pages/prop_file.html:843
+#: templates/static_pages/prop_file.html:824
+#: templates/static_pages/prop_file.html:828
+#: templates/static_pages/prop_file.html:832
+#: templates/static_pages/prop_file.html:836
 msgid "_self"
 msgstr "_self"
 
-#: templates/static_pages/prop_file.html:832
+#: templates/static_pages/prop_file.html:825
 msgid "rights/terms-and-policies.html"
 msgstr "rights/terms-and-policies.html"
 
-#: templates/static_pages/prop_file.html:833
-#: templates/static_pages/prop_file.html:834
+#: templates/static_pages/prop_file.html:826
+#: templates/static_pages/prop_file.html:827
 msgid "Terms of use &amp; Policies"
 msgstr "Condicions d'ús; Polítiques"
 
-#: templates/static_pages/prop_file.html:836
+#: templates/static_pages/prop_file.html:829
 msgid "contact.html"
 msgstr "contact.html"
 
-#: templates/static_pages/prop_file.html:840
+#: templates/static_pages/prop_file.html:833
 msgid "sitemap.html"
 msgstr "sitemap.html"
 
-#: templates/static_pages/prop_file.html:845
+#: templates/static_pages/prop_file.html:838
 #: templates/static_pages/usingeuropeana_myeuropeana.html:17
 msgid "API keys"
 msgstr "Claus API"
 
-#: templates/static_pages/prop_file.html:846
+#: templates/static_pages/prop_file.html:839
 msgid "No API key"
 msgstr "No hi ha clau API"
 
-#: templates/static_pages/prop_file.html:847
+#: templates/static_pages/prop_file.html:840
 msgid "API key"
 msgstr "Clau API"
 
-#: templates/static_pages/prop_file.html:848
+#: templates/static_pages/prop_file.html:841
 msgid "Private key"
 msgstr "Clau privada"
 
-#: templates/static_pages/prop_file.html:849
+#: templates/static_pages/prop_file.html:842
 msgid "Usage limit"
 msgstr "Límit d'ús"
 
-#: templates/static_pages/prop_file.html:850
+#: templates/static_pages/prop_file.html:843
 msgid "Role"
 msgstr "Funció"
 
-#: templates/static_pages/prop_file.html:851
+#: templates/static_pages/prop_file.html:844
 msgid "Administrator's page"
 msgstr "Pàgina de l'administrador"
 
-#: templates/static_pages/prop_file.html:852
+#: templates/static_pages/prop_file.html:845
 msgid "Remove API key"
 msgstr "Eliminar la clau API"
 
-#: templates/static_pages/prop_file.html:853
+#: templates/static_pages/prop_file.html:846
 msgid "Limit"
 msgstr "Limit"
 
-#: templates/static_pages/prop_file.html:854
+#: templates/static_pages/prop_file.html:847
 msgid "Remove user"
 msgstr "Eliminar l'usuari"
 
-#: templates/static_pages/prop_file.html:855
+#: templates/static_pages/prop_file.html:848
 msgid "Block user"
 msgstr "Bloquejar l'usuari"
 
-#: templates/static_pages/prop_file.html:856
+#: templates/static_pages/prop_file.html:849
 msgid "Export API keys to CSV"
 msgstr "Exporteu les claus API al CSV"
 
-#: templates/static_pages/prop_file.html:857
+#: templates/static_pages/prop_file.html:850
 msgid "Export users to CSV"
 msgstr "Exporta usuaris al CSV"
 
-#: templates/static_pages/prop_file.html:858
+#: templates/static_pages/prop_file.html:851
 msgid "User name"
 msgstr "Nom d'usuari"
 
-#: templates/static_pages/prop_file.html:859
+#: templates/static_pages/prop_file.html:852
 msgid "Registration"
 msgstr "Registre"
 
-#: templates/static_pages/prop_file.html:861
+#: templates/static_pages/prop_file.html:854
 msgid "Visit the website of"
 msgstr "Visitar el lloc web"
 
-#: templates/static_pages/prop_file.html:862
+#: templates/static_pages/prop_file.html:855
 msgid "View the latest content from our partners"
 msgstr "Veure el contingut més recent dels nostres socis"
 
-#: templates/static_pages/prop_file.html:866
-#: templates/static_pages/prop_file.html:867
+#: templates/static_pages/prop_file.html:859
+#: templates/static_pages/prop_file.html:860
 #: templates/static_pages/sitemap.html:15
 msgid "Other Europeana Sites"
 msgstr "Altres webs d'Europeana"
 
-#: templates/static_pages/prop_file.html:870
+#: templates/static_pages/prop_file.html:863
 msgid "Europeana Exhibitions"
 msgstr "Exposicions d'Europeana"
 
-#: templates/static_pages/prop_file.html:878
+#: templates/static_pages/prop_file.html:871
 #: templates/static_pages/sitemap.html:19
 msgid "Europeana 1914-1918"
 msgstr "Europeana 1914-1918"
 
-#: templates/static_pages/prop_file.html:883
+#: templates/static_pages/prop_file.html:876
 msgid "Remix"
 msgstr "Remix"
 
-#: templates/static_pages/prop_file.html:886
+#: templates/static_pages/prop_file.html:879
 #: templates/static_pages/sitemap.html:21
 msgid "Europeana Professional"
 msgstr "Europeana Professional"
 
-#: templates/static_pages/prop_file.html:887
+#: templates/static_pages/prop_file.html:880
 msgid "Professional"
 msgstr "Professional"
 
-#: templates/static_pages/prop_file.html:947
+#: templates/static_pages/prop_file.html:940
 msgid "Change limit for an API key"
 msgstr "Canvieu el límit per a una clau API"
 
-#: templates/static_pages/prop_file.html:948
+#: templates/static_pages/prop_file.html:941
 msgid "Company or Institution"
 msgstr "Empresa o institució"
 
-#: templates/static_pages/prop_file.html:949
+#: templates/static_pages/prop_file.html:942
 msgid "Telephone contact"
 msgstr "Telèfon de contacte"
 
-#: templates/static_pages/prop_file.html:950
+#: templates/static_pages/prop_file.html:943
 msgid "Address"
 msgstr "Adreça"
 
-#: templates/static_pages/prop_file.html:951
+#: templates/static_pages/prop_file.html:944
 msgid "I confirm that I have read and agree to the"
 msgstr "Confirmo que he llegit i estic d'acord amb l'"
 
-#: templates/static_pages/prop_file.html:952
+#: templates/static_pages/prop_file.html:945
 msgid "Next in sequence"
 msgstr "Següent en la seqüència"
 
-#: templates/static_pages/prop_file.html:953
+#: templates/static_pages/prop_file.html:946
 msgid "Date of creation"
 msgstr "Data de creació"
 
-#: templates/static_pages/prop_file.html:954
+#: templates/static_pages/prop_file.html:947
 msgid "Is part of"
 msgstr "És part de"
 
-#: templates/static_pages/prop_file.html:965
+#: templates/static_pages/prop_file.html:958
 msgid "Titles"
 msgstr "Títols"
 
-#: templates/static_pages/prop_file.html:966
+#: templates/static_pages/prop_file.html:959
 msgid "Places"
 msgstr "Llocs"
 
-#: templates/static_pages/prop_file.html:967
+#: templates/static_pages/prop_file.html:960
 msgid "Dates/Periods"
 msgstr "Dates/Períodes"
 
-#: templates/static_pages/prop_file.html:968
+#: templates/static_pages/prop_file.html:961
 msgid "Subjects"
 msgstr "Matèries"
 
-#: templates/static_pages/prop_file.html:969
+#: templates/static_pages/prop_file.html:962
 msgid "Creators"
 msgstr "Creadors"
 
-#: templates/static_pages/prop_file.html:970
+#: templates/static_pages/prop_file.html:963
 msgid "All fields"
 msgstr "Tots els camps"
 
-#: templates/static_pages/prop_file.html:971
+#: templates/static_pages/prop_file.html:964
 msgid "Featured Item"
 msgstr "Ítem destacat"
 
-#: templates/static_pages/prop_file.html:972
+#: templates/static_pages/prop_file.html:965
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "Featured Partner"
 msgstr "Soci destacat"
 
-#: templates/static_pages/prop_file.html:973
+#: templates/static_pages/prop_file.html:966
 msgid "Click here for last page of results"
 msgstr "Feu clic aquí per anar a la darrera pàgina de resultats"
 
-#: templates/static_pages/prop_file.html:974
+#: templates/static_pages/prop_file.html:967
 #: templates/static_pages/usingeuropeana_results.html:24
 msgid "Results per page"
 msgstr "Resultats per pàgina"
 
-#: templates/static_pages/prop_file.html:975
+#: templates/static_pages/prop_file.html:968
 #: templates/static_pages/usingeuropeana_search.html:49
 msgid "Add more keywords"
 msgstr "Afegir més paraules clau"
 
-#: templates/static_pages/prop_file.html:976
+#: templates/static_pages/prop_file.html:969
 msgid "+ Add"
 msgstr "+ Afegir"
 
-#: templates/static_pages/prop_file.html:977
+#: templates/static_pages/prop_file.html:970
 msgid "Field of work"
 msgstr "Camp de treball"
 
-#: templates/static_pages/prop_file.html:978
+#: templates/static_pages/prop_file.html:971
 msgid "Please, select"
 msgstr "Si us plau, seleccioneu"
 
-#: templates/static_pages/prop_file.html:980
+#: templates/static_pages/prop_file.html:973
 msgid "Please try another search later."
 msgstr "Si us plau, proveu una altra cerca més tard."
 
-#: templates/static_pages/prop_file.html:981
+#: templates/static_pages/prop_file.html:974
 msgid "Unable to find the requested page"
 msgstr "No s'ha trobat la pàgina que heu demanat"
 
-#: templates/static_pages/prop_file.html:982
+#: templates/static_pages/prop_file.html:975
 msgid "Alert:"
 msgstr "Alerta:"
 
-#: templates/static_pages/prop_file.html:983
+#: templates/static_pages/prop_file.html:976
 msgid "Unable to find the requested Europeana Record."
 msgstr "No s'ha trobat el registre d'Europena que heu demanat"
 
-#: templates/static_pages/prop_file.html:984
+#: templates/static_pages/prop_file.html:977
 msgid "This item has been withdrawn by the provider."
 msgstr "El proveïdor ha retirat aquest ítem."
 
-#: templates/static_pages/prop_file.html:985
+#: templates/static_pages/prop_file.html:978
 msgid "Requested Europeana Record is not yet indexed."
 msgstr "El registre d'Europeana que heu demanat encara no està indexat."
 
-#: templates/static_pages/prop_file.html:987
+#: templates/static_pages/prop_file.html:980
 msgid "Please register your email again"
 msgstr "Si us plau, registreu el vostre correu electrònic un altre cop."
 
-#: templates/static_pages/prop_file.html:988
+#: templates/static_pages/prop_file.html:981
 msgid "to finish registration."
 msgstr "per acabar el registre."
 
-#: templates/static_pages/prop_file.html:989
+#: templates/static_pages/prop_file.html:982
 msgid "Unable to fullfill your request due to malformed query parameters."
 msgstr ""
 "No s'ha pogut realitzar la cerca perquè el format dels paràmetres és "
 "incorrecte."
 
-#: templates/static_pages/prop_file.html:990
+#: templates/static_pages/prop_file.html:983
 msgid "Unable to get a response from the Search Engine."
 msgstr "No s'ha obtingut resposta del Giny de Cerca."
 
-#: templates/static_pages/prop_file.html:991
+#: templates/static_pages/prop_file.html:984
 msgid "Unable to fulfill your request due to a malformed query syntax."
 msgstr ""
 "No s'ha pogut realitzar la cerca perquè el format de la sintaxi és incorrecte"
 
-#: templates/static_pages/prop_file.html:992
+#: templates/static_pages/prop_file.html:985
 msgid "We are unable to change the interface to the requested language."
 msgstr "No s'ha pogut canviar la interfície a la llengua seleccionada"
 
-#: templates/static_pages/prop_file.html:993
+#: templates/static_pages/prop_file.html:986
 msgid "Please try another language from the dropdown list."
 msgstr "Si us plau, seleccioneu una altra llengua de la llista desplegable."
 
-#: templates/static_pages/prop_file.html:994
+#: templates/static_pages/prop_file.html:987
 msgid "Number of results shown on the page"
 msgstr "Nombre de resultats que es mostren per pàgina"
 
-#: templates/static_pages/prop_file.html:1001
+#: templates/static_pages/prop_file.html:994
 msgid "API-key"
 msgstr "Clau API"
 
-#: templates/static_pages/prop_file.html:1002
+#: templates/static_pages/prop_file.html:995
 msgid "Number of calls"
 msgstr "Nombre de trucades"
 
-#: templates/static_pages/prop_file.html:1004
-#: templates/static_pages/prop_file.html:1005
+#: templates/static_pages/prop_file.html:997
+#: templates/static_pages/prop_file.html:998
 msgid "Can I use it?"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1006
+#: templates/static_pages/prop_file.html:999
 #, fuzzy
 msgid "Yes, with attribution"
 msgstr "Atribució a Europeana"
 
-#: templates/static_pages/prop_file.html:1007
+#: templates/static_pages/prop_file.html:1000
 #, fuzzy
 msgid "Yes, with restrictions"
 msgstr "Atribució a Europeana"
 
-#: templates/static_pages/prop_file.html:1008
+#: templates/static_pages/prop_file.html:1001
 msgid "Only with permission"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1010
+#: templates/static_pages/prop_file.html:1003
 #, fuzzy
 msgid "Export API users to CSV"
 msgstr "Exporta usuaris al CSV"
 
-#: templates/static_pages/prop_file.html:1011
+#: templates/static_pages/prop_file.html:1004
 #, fuzzy
 msgid "Export API users to Excel"
 msgstr "Exporta usuaris al CSV"
@@ -6231,10 +6235,6 @@ msgstr ""
 #~ msgid "Europeana Open culture app v2.0"
 #~ msgstr "Europeana pensa cultura"
 
-#, fuzzy
-#~ msgid "Read more"
-#~ msgstr "Veure més"
-
 #~ msgid ""
 #~ "Two women at a spinning wheel in the Chapel House (Krankeledenstraat 11). "
 #~ "Both of them are dressed in historical costume to celebrate the "
@@ -6259,18 +6259,6 @@ msgstr ""
 #, fuzzy
 #~ msgid "New Open Culture app"
 #~ msgstr "Europeana pensa cultura"
-
-#, fuzzy
-#~ msgid "Europe's culture - collected for you."
-#~ msgstr "Exploreu les col·leccions culturals d'Europa"
-
-#, fuzzy
-#~ msgid ""
-#~ "Explore more than 30 million items from a range of Europe's leading "
-#~ "galleries, libraries, archives and museums."
-#~ msgstr ""
-#~ "Pintures, música, pel·lícules i llibres de les galeries, biblioteques, "
-#~ "arxius i museus d'Europa."
 
 #~ msgid "Europeana - What's New"
 #~ msgstr "Europeana - Novetats"
