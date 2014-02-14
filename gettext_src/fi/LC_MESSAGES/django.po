@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-11 15:52+0100\n"
+"POT-Creation-Date: 2014-02-14 14:21+0100\n"
 "PO-Revision-Date: 2014-01-22 15:45\n"
 "Last-Translator: <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,16 +18,11 @@ msgstr ""
 "X-Translated-Using: django-rosetta 0.5.6\n"
 
 #: templates/api_leftmenu.html:3 templates/static_pages/europeana-api.html:4
-#: templates/static_pages/prop_file.html:63
-#: templates/static_pages/prop_file.html:822
-#: templates/static_pages/prop_file.html:823
 #: templates/static_pages/sitemap.html:51
 msgid "Europeana API"
 msgstr ""
 
-#: templates/api_leftmenu.html:6 templates/static_pages/prop_file.html:990
-#: templates/static_pages/prop_file.html:991
-#: templates/static_pages/sitemap.html:53
+#: templates/api_leftmenu.html:6 templates/static_pages/sitemap.html:53
 msgid "Get an API-Key"
 msgstr ""
 
@@ -44,134 +39,88 @@ msgid "Europeana API Forum"
 msgstr ""
 
 #: templates/explore_leftmenu.html:3 templates/static_pages/explore.html:9
-#: templates/static_pages/prop_file.html:545
-#: templates/static_pages/prop_file.html:546
 msgid "Explore"
 msgstr "Tutki"
 
-#: templates/explore_leftmenu.html:5 templates/static_pages/prop_file.html:549
-#: templates/static_pages/prop_file.html:550
-#: templates/static_pages/prop_file.html:875
-#: templates/static_pages/sitemap.html:20
+#: templates/explore_leftmenu.html:5 templates/static_pages/sitemap.html:20
 msgid "Europeana Remix"
 msgstr "Europeana Remix"
 
-#: templates/explore_leftmenu.html:6 templates/static_pages/prop_file.html:553
-#: templates/static_pages/prop_file.html:554
-#: templates/static_pages/prop_file.html:864
-#: templates/static_pages/sitemap.html:17
+#: templates/explore_leftmenu.html:6 templates/static_pages/sitemap.html:17
 #: templates/static_pages/usingeuropeana_explore.html:14
 msgid "Exhibitions"
 msgstr "Näyttelyt"
 
 #: templates/explore_leftmenu.html:7 templates/leftmenu.html:8
-#: templates/static_pages/prop_file.html:60
-#: templates/static_pages/prop_file.html:557
-#: templates/static_pages/prop_file.html:558
-#: templates/static_pages/prop_file.html:913
-#: templates/static_pages/prop_file.html:914
 #: templates/static_pages/sitemap.html:38
 #: templates/static_pages/sitemap.html:87
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "New content"
 msgstr "Uutta sisältöä"
 
-#: templates/explore_leftmenu.html:9 templates/static_pages/prop_file.html:78
-#: templates/static_pages/prop_file.html:561
-#: templates/static_pages/prop_file.html:562
-#: templates/static_pages/sitemap.html:88
+#: templates/explore_leftmenu.html:9 templates/static_pages/sitemap.html:88
 #: templates/static_pages/usingeuropeana_search.html:60
 msgid "By provider"
 msgstr "Sisällöntarjoajan mukaan"
 
-#: templates/explore_leftmenu.html:10 templates/static_pages/prop_file.html:37
-#: templates/static_pages/prop_file.html:565
-#: templates/static_pages/prop_file.html:566
-#: templates/static_pages/sitemap.html:89
+#: templates/explore_leftmenu.html:10 templates/static_pages/sitemap.html:89
 msgid "Timeline"
 msgstr "Aikajana"
 
-#: templates/explore_leftmenu.html:11
-#: templates/static_pages/prop_file.html:569
-#: templates/static_pages/prop_file.html:570
-#: templates/static_pages/sitemap.html:90
+#: templates/explore_leftmenu.html:11 templates/static_pages/sitemap.html:90
 msgid "Map"
 msgstr "Kartalla"
 
 #: templates/followus_leftmenu.html:3 templates/static_pages/followus.html:9
-#: templates/static_pages/prop_file.html:617
-#: templates/static_pages/prop_file.html:618
 msgid "Follow Us"
 msgstr "Seuraa meitä"
 
-#: templates/followus_leftmenu.html:5
-#: templates/static_pages/prop_file.html:621
-#: templates/static_pages/prop_file.html:622
-#: templates/static_pages/prop_file.html:868
-#: templates/static_pages/sitemap.html:18
+#: templates/followus_leftmenu.html:5 templates/static_pages/sitemap.html:18
 msgid "Blog"
 msgstr "blogi"
 
 #: templates/followus_leftmenu.html:6
-#: templates/static_pages/prop_file.html:625
-#: templates/static_pages/prop_file.html:626
 msgid "Newsletter"
 msgstr "uutiskirje"
 
 #: templates/followus_leftmenu.html:8
-#: templates/static_pages/prop_file.html:629
-#: templates/static_pages/prop_file.html:630
 msgid "Facebook"
 msgstr "Facebook"
 
 #: templates/followus_leftmenu.html:9
-#: templates/static_pages/prop_file.html:633
-#: templates/static_pages/prop_file.html:634
 msgid "Twitter"
 msgstr "Twitter"
 
 #: templates/leftmenu.html:3 templates/NOT/leftmenu1_old.html:3
-#: templates/NOT/leftmenu_old.html:3 templates/static_pages/prop_file.html:597
-#: templates/static_pages/prop_file.html:598
+#: templates/NOT/leftmenu_old.html:3
 msgid "About Us"
 msgstr "Tietoa meistä"
 
 #: templates/leftmenu.html:6 templates/NOT/leftmenu1_old.html:6
-#: templates/NOT/leftmenu_old.html:6 templates/static_pages/prop_file.html:601
-#: templates/static_pages/prop_file.html:602
+#: templates/NOT/leftmenu_old.html:6
 msgid "Background"
 msgstr "Taustaa"
 
-#: templates/leftmenu.html:9 templates/static_pages/prop_file.html:918
-#: templates/static_pages/prop_file.html:919
+#: templates/leftmenu.html:9
 msgid "All providers"
 msgstr "Kaikki sisällöntarjoajat"
 
 #: templates/leftmenu.html:10 templates/static_pages/aboutus_enews.html:11
-#: templates/static_pages/prop_file.html:923
-#: templates/static_pages/prop_file.html:924
 #: templates/static_pages/sitemap.html:40
 msgid "Previous newsletters"
 msgstr "Edelliset uutiskirjeet"
 
 #: templates/leftmenu.html:12 templates/NOT/leftmenu_old.html:8
-#: templates/static_pages/prop_file.html:928
-#: templates/static_pages/prop_file.html:929
 msgid "Press Centre"
 msgstr "Mediakeskus"
 
 #: templates/leftmenu.html:13 templates/NOT/leftmenu_old.html:9
-#: templates/static_pages/prop_file.html:933
-#: templates/static_pages/prop_file.html:934
 msgid "Jobs"
 msgstr "Työpaikat"
 
 #: templates/leftmenu.html:14 templates/leftmenu.html.py:17
 #: templates/NOT/leftmenu1_old.html:9 templates/NOT/leftmenu1_old.html:12
 #: templates/NOT/leftmenu_old.html:10 templates/NOT/leftmenu_old.html.py:14
-#: templates/static_pages/prop_file.html:36
-#: templates/static_pages/prop_file.html:613
-#: templates/static_pages/prop_file.html:614
 msgid "Partners"
 msgstr "Partnerit"
 
@@ -182,8 +131,6 @@ msgstr "Mediahuone"
 
 #: templates/leftmenu.html:16 templates/NOT/leftmenu1_old.html:8
 #: templates/NOT/leftmenu1_old.html:11 templates/NOT/leftmenu_old.html:13
-#: templates/static_pages/prop_file.html:609
-#: templates/static_pages/prop_file.html:610
 msgid "Job opportunities"
 msgstr "Työmahdollisuudet"
 
@@ -241,25 +188,17 @@ msgstr ""
 
 #: templates/terms_leftmenu.html:24 templates/rights/privacy.html:15
 #: templates/rights/terms-and-policies.html:37
-#: templates/static_pages/prop_file.html:68
-#: templates/static_pages/prop_file.html:529
-#: templates/static_pages/prop_file.html:530
 #: templates/static_pages/sitemap.html:106
 msgid "Privacy"
 msgstr "Yksityisyys"
 
 #: templates/terms_leftmenu.html:25 templates/rights/languagepolicy.html:15
 #: templates/rights/terms-and-policies.html:37
-#: templates/static_pages/prop_file.html:180
-#: templates/static_pages/prop_file.html:239
 msgid "Language"
 msgstr "Kieli"
 
 #: templates/terms_leftmenu.html:26 templates/rights/accessibility.html:15
 #: templates/rights/terms-and-policies.html:37
-#: templates/static_pages/prop_file.html:65
-#: templates/static_pages/prop_file.html:517
-#: templates/static_pages/prop_file.html:518
 #: templates/static_pages/sitemap.html:108
 msgid "Accessibility"
 msgstr "Esteettömyys"
@@ -269,21 +208,12 @@ msgid "Public Domain Charter"
 msgstr ""
 
 #: templates/usingeuropeana_leftmenu.html:3
-#: templates/static_pages/prop_file.html:334
-#: templates/static_pages/prop_file.html:573
-#: templates/static_pages/prop_file.html:574
-#: templates/static_pages/prop_file.html:883
-#: templates/static_pages/prop_file.html:884
 #: templates/static_pages/sitemap.html:25
 #: templates/static_pages/usingeuropeana.html:9
 msgid "Help"
 msgstr "Apua"
 
 #: templates/usingeuropeana_leftmenu.html:5
-#: templates/static_pages/prop_file.html:577
-#: templates/static_pages/prop_file.html:578
-#: templates/static_pages/prop_file.html:887
-#: templates/static_pages/prop_file.html:888
 #: templates/static_pages/usingeuropeana.html:14
 #: templates/static_pages/usingeuropeana_results.html:22
 #: templates/static_pages/usingeuropeana_search.html:9
@@ -292,11 +222,6 @@ msgid "Searching Europeana"
 msgstr "Hakeminen Europeanassa"
 
 #: templates/usingeuropeana_leftmenu.html:6
-#: templates/static_pages/prop_file.html:288
-#: templates/static_pages/prop_file.html:581
-#: templates/static_pages/prop_file.html:582
-#: templates/static_pages/prop_file.html:891
-#: templates/static_pages/prop_file.html:892
 #: templates/static_pages/sitemap.html:28
 #: templates/static_pages/usingeuropeana.html:16
 #: templates/static_pages/usingeuropeana_explore.html:9
@@ -305,10 +230,6 @@ msgid "Exploring Europeana"
 msgstr "Näin käytän Europeanaa"
 
 #: templates/usingeuropeana_leftmenu.html:8
-#: templates/static_pages/prop_file.html:585
-#: templates/static_pages/prop_file.html:586
-#: templates/static_pages/prop_file.html:895
-#: templates/static_pages/prop_file.html:896
 #: templates/static_pages/sitemap.html:29
 #: templates/static_pages/usingeuropeana.html:19
 #: templates/static_pages/usingeuropeana_results.html:9
@@ -317,10 +238,6 @@ msgid "Results in Europeana"
 msgstr "Hakutulokset Europeanassa"
 
 #: templates/usingeuropeana_leftmenu.html:9
-#: templates/static_pages/prop_file.html:589
-#: templates/static_pages/prop_file.html:590
-#: templates/static_pages/prop_file.html:899
-#: templates/static_pages/prop_file.html:900
 #: templates/static_pages/sitemap.html:30
 #: templates/static_pages/usingeuropeana.html:21
 #: templates/static_pages/usingeuropeana_myeuropeana.html:9
@@ -329,8 +246,6 @@ msgid "Using My Europeana"
 msgstr "Minun Europeanani käyttäminen"
 
 #: templates/usingeuropeana_leftmenu.html:10
-#: templates/static_pages/prop_file.html:903
-#: templates/static_pages/prop_file.html:904
 msgid "Configure your search widget"
 msgstr "Mukauta hakuvimpaimesi"
 
@@ -1384,7 +1299,6 @@ msgstr ""
 "inspiraatiota. Kohteisiin lukeutuu"
 
 #: templates/static_pages/aboutus.html:28
-#: templates/static_pages/prop_file.html:91
 #: templates/static_pages/usingeuropeana_results.html:16
 msgid "Images"
 msgstr "Kuvia"
@@ -1394,7 +1308,6 @@ msgid "paintings, drawings, maps, photos and pictures of museum objects"
 msgstr "maalauksia, piirroksia, karttoja, valokuvia ja kuvia museoesineistä"
 
 #: templates/static_pages/aboutus.html:29
-#: templates/static_pages/prop_file.html:90
 #: templates/static_pages/usingeuropeana_results.html:15
 msgid "Texts"
 msgstr "Tekstejä"
@@ -1404,7 +1317,6 @@ msgid "books, newspapers, letters, diaries and archival papers"
 msgstr "kirjoja, sanomalehtiä, kirjeitä, päiväkirjoja ja arkistodokumentteja"
 
 #: templates/static_pages/aboutus.html:30
-#: templates/static_pages/prop_file.html:93
 msgid "Sounds"
 msgstr "Ääniä"
 
@@ -1415,7 +1327,6 @@ msgstr ""
 "radiolähetyksistä"
 
 #: templates/static_pages/aboutus.html:31
-#: templates/static_pages/prop_file.html:92
 msgid "Videos"
 msgstr "Videoita"
 
@@ -1716,132 +1627,18 @@ msgstr ""
 msgid "Europeana - New Content"
 msgstr "Europeana - Uutta sisältöä"
 
-#: templates/static_pages/prop_file.html:5
-#, fuzzy
-msgid ""
-"I understand that My Europeana gives me the opportunity to create tags for "
-"any item I wish. I agree that I will not create any tags that could be "
-"considered libelous, harmful, threatening, unlawful, defamatory,infringing, "
-"abusive, inflammatory, harassing, pornographic, obscene, fraudulent, "
-"invasive of privacy orpublicity rights, hateful, or racially, ethnically or "
-"otherwise objectionable. By clicking this box I agreeto abide by this "
-"agreement, and understand that if I don't my membership of My Europeana will "
-"be terminated."
+#: templates/static_pages/sitemap.html:4
+msgid "Europeana - Sitemap"
+msgstr "Europeana - Sivukartta"
+
+#: templates/static_pages/sitemap.html:8
+msgid "Sitemap"
+msgstr "Sivukartta"
+
+#: templates/static_pages/sitemap.html:11
+msgid "Home"
 msgstr ""
-"Ymmärrän, että \"Minun Europeanani\" antaa mahdollisuuden luoda avainsanoja "
-"mistä tahansa aiheesta. Sitoudun siihen, että en luo tageja, joita voi pitää "
-"herjaavina, vahingollisina, uhkaavina, lainvastaisina, loukkaavina, "
-"solvaavina, yllyttävinä, häiritsevinä, pornografisina, säädyttöminä, "
-"valheellisina, yksityisyyttä tai henkilön oikeuksia loukkaavina, "
-"vihamielisinä tai rotuun tai etniseen alkuperään tai muuten ei-toivottuina. "
-"Klikkaamalla tätä laatikkoa sitoudun tähän sopimukseen ja ymmärrän, että jos "
-"en niin tee, niin jäsenyyteni \"Minun Europeanassani\" lakkautetaan. KLIKKAA "
-"HYVÄKSYÄKSESI"
 
-#: templates/static_pages/prop_file.html:6
-msgid "You must agree to our code of conduct to register for My Europeana"
-msgstr ""
-"Sinun on hyväksyttävä menettelyohjeemme rekisteröityäksesi ”Minun "
-"Europeanaani”"
-
-#: templates/static_pages/prop_file.html:7
-msgid "I agree"
-msgstr "Hyväksyn"
-
-#: templates/static_pages/prop_file.html:8
-#: templates/static_pages/prop_file.html:230
-msgid "Contributor"
-msgstr "Osallistuja"
-
-#: templates/static_pages/prop_file.html:9
-msgid "Contributors"
-msgstr "Osallistujat"
-
-#: templates/static_pages/prop_file.html:10
-msgid "Country"
-msgstr "Maa"
-
-#: templates/static_pages/prop_file.html:11
-msgid "Sector"
-msgstr "Sektori"
-
-#: templates/static_pages/prop_file.html:12
-msgid "Partner"
-msgstr "Partneri"
-
-#: templates/static_pages/prop_file.html:13
-msgid ""
-"This is the network of partners who collaborated to make Europeana happen, "
-"and who represent Europeana in their countries and professional associations."
-msgstr ""
-"Tämä on Europeanan toteuttamiseksi yhteistyötä tehneiden ja maissaan sekä "
-"organisaatioissaan Europeanaa edustavien kumppanien verkosto."
-
-#: templates/static_pages/prop_file.html:14
-msgid ""
-"These are the organisations that are contributing content - digitised "
-"paintings, books, broadcasts etc. Some of these contributors are  "
-"aggregators*, Culture.fr is the largest aggregator, providing content from "
-"about 480 organisations in France, including the Louvre and the Musée "
-"d’Orsay. The number of organisations contributing to an aggregator is shown "
-"in brackets after the aggregator’s name, e.g. Videoactive (10)"
-msgstr ""
-"Nämä organisaatiot osallistuvat sisällön – digitoitujen maalausten, "
-"kirjojen, radiolähetysten jne. – toimittamiseen. Osa organisaatioista on "
-"aggregaattoreita*, Culture.fr on aggregaattoreista suurin toimittaessaan "
-"sisältöä noin 480 organisaatiosta Ranskassa, näiden joukossa Louvre ja Musée "
-"d’Orsay. Aggregaattorille sisältöä toimittavien organisaatioiden määrä on "
-"merkitty sulkuihin aggregaattorin nimen jälkeen esim. Videoactive (10)"
-
-#: templates/static_pages/prop_file.html:15
-msgid ""
-"*An aggregator collects material from a range of other contributors, "
-"displays it on their own website and also channels it into Europeana."
-msgstr ""
-"*Aggregaattori kerää aineistoa useilta muilta osallistujatahoilta, laittaa "
-"sen näkyviin omalle Internet-sivustolleen ja lisäksi kanavoi sen Europeanaan."
-
-#: templates/static_pages/prop_file.html:16
-msgid "This is a required field"
-msgstr "Tämä on pakollinen kenttä"
-
-#: templates/static_pages/prop_file.html:17
-msgid "Please enter a valid email address"
-msgstr "Lisää voimassa oleva sähköpostiosoite"
-
-#: templates/static_pages/prop_file.html:18
-msgid "Logged in as"
-msgstr "Olet kirjautunut käyttäjänä"
-
-#: templates/static_pages/prop_file.html:19
-msgid "Saved items"
-msgstr "Tallennetut kohteet"
-
-#: templates/static_pages/prop_file.html:20
-msgid "Saved searches"
-msgstr "Tallennetut haut"
-
-#: templates/static_pages/prop_file.html:21
-msgid "Saved tags"
-msgstr "Tallennetut tagit"
-
-#: templates/static_pages/prop_file.html:22
-msgid "Saved notifications"
-msgstr "Tallennetut tagit"
-
-#: templates/static_pages/prop_file.html:23
-msgid "Login"
-msgstr "Kirjaudu sisään"
-
-#: templates/static_pages/prop_file.html:24
-msgid "Log out"
-msgstr "eivät"
-
-#: templates/static_pages/prop_file.html:25
-#: templates/static_pages/prop_file.html:641
-#: templates/static_pages/prop_file.html:642
-#: templates/static_pages/prop_file.html:956
-#: templates/static_pages/prop_file.html:957
 #: templates/static_pages/sitemap.html:12
 #: templates/static_pages/usingeuropeana_myeuropeana.html:10
 #: templates/static_pages/usingeuropeana_myeuropeana.html:11
@@ -1850,2528 +1647,32 @@ msgstr "eivät"
 msgid "My Europeana"
 msgstr "Minun Europeanani"
 
-#: templates/static_pages/prop_file.html:26
-msgid ""
-"Thank you very much for your feedback. If your feedback requires a response "
-"a member of the Europeana team will get back to you as soon as possible. For "
-"faster response feedback should be submitted in English."
-msgstr ""
-"Kiitokset palautteestasi. Jos palautteesi edellyttää vastausta, Europeana-"
-"tiimin jäsen ottaa sinuun yhteyttä mahdollisimman pian. Saadaksesi "
-"vastauksen nopeammin jätä palautteesi englanniksi."
-
-#: templates/static_pages/prop_file.html:27
-msgid "Keep me in touch with new developments to Europeana"
-msgstr "Pidä minut ajan tasalla Europeanan kehityksestä"
-
-#: templates/static_pages/prop_file.html:28
-msgid "User Conduct"
-msgstr "Käyttäjämenettely"
-
-#: templates/static_pages/prop_file.html:29
-msgid ""
-"I understand that My Europeana gives me the opportunity to create tags for "
-"any item I wish. I agree that I will not create any tags that could be "
-"considered libelous, harmful, threatening, unlawful, defamatory, infringing, "
-"abusive, inflammatory, harassing, pornographic, obscene, fraudulent, "
-"invasive of privacy or publicity rights, hateful, or racially, ethnically or "
-"otherwise objectionable. By clicking this box I agree to abide by this "
-"agreement, and understand that if I don't my membership of My Europeana will "
-"be terminated. CLICK TO AGREE"
-msgstr ""
-"Ymmärrän, että \"Minun Europeanani\" antaa mahdollisuuden luoda avainsanoja "
-"mistä tahansa aiheesta. Sitoudun siihen, että en luo tageja, joita voi pitää "
-"herjaavina, vahingollisina, uhkaavina, lainvastaisina, loukkaavina, "
-"solvaavina, yllyttävinä, häiritsevinä, pornografisina, säädyttöminä, "
-"valheellisina, yksityisyyttä tai henkilön oikeuksia loukkaavina, "
-"vihamielisinä tai rotuun tai etniseen alkuperään tai muuten ei-toivottuina. "
-"Klikkaamalla tätä laatikkoa sitoudun tähän sopimukseen ja ymmärrän, että jos "
-"en niin tee, niin jäsenyyteni \"Minun Europeanassani\" lakkautetaan. KLIKKAA "
-"HYVÄKSYÄKSESI"
-
-#: templates/static_pages/prop_file.html:30
-msgid "First name"
-msgstr "Etunimi"
-
-#: templates/static_pages/prop_file.html:31
-msgid "Last name"
-msgstr "Sukunimi"
-
-#: templates/static_pages/prop_file.html:32
-msgid ""
-"To make optimal use of this website you need to have JavaScript activated"
-msgstr ""
-"Saadaksesi tästä sivustosta parhaan mahdollisen hyödyn sinulla täytyy olla "
-"käytössä JavaScript"
-
-#: templates/static_pages/prop_file.html:33
-#: templates/static_pages/storyline.html:11
-msgid "Storyline and credits"
-msgstr "Juoni ja tekijätiedot"
-
-#: templates/static_pages/prop_file.html:34
-msgid "Check the FAQs - they may cover your feedback"
-msgstr "Lue usein kysytyt kysymykset – ne saattavat vastata kysymyksiisi"
-
-#: templates/static_pages/prop_file.html:35
-msgid "Communities"
-msgstr "Yhteisöt"
-
-#: templates/static_pages/prop_file.html:38
-msgid "ThoughtLab"
-msgstr "ThoughtLab"
-
-#: templates/static_pages/prop_file.html:39
-msgid "Choose a language"
-msgstr "Valitse kieli"
-
-#: templates/static_pages/prop_file.html:40
-msgid "Select language"
-msgstr "Valitse kieli"
-
-#: templates/static_pages/prop_file.html:41
-msgid "This is Europeana"
-msgstr "Näin käytän Europeanaa"
-
-#: templates/static_pages/prop_file.html:42
-msgid ""
-"a place for inspiration and ideas. Search through the cultural collections "
-"of Europe, connect to other user pathways and share your discoveries."
-msgstr ""
-"paikka elämyksille ja ideoille. Hae Euroopan kulttuurikokoelmista, liity "
-"käyttäjien yhteisöihin ja jaa kokemuksesi muiden kanssa."
-
-#: templates/static_pages/prop_file.html:43
-msgid "Find out more"
-msgstr "Lisää tietoa"
-
-#: templates/static_pages/prop_file.html:44
-#: templates/static_pages/sitemap.html:65
-#: templates/static_pages/usingeuropeana_search.html:21
-#: templates/static_pages/usingeuropeana_search.html:25
-#: templates/static_pages/usingeuropeana_search.html:27
-#: templates/static_pages/usingeuropeana_search.html:45
-msgid "Search"
-msgstr "Haku"
-
-#: templates/static_pages/prop_file.html:45
-#: templates/static_pages/prop_file.html:335
-msgid "Reset"
-msgstr "Tyhjennä"
-
-#: templates/static_pages/prop_file.html:46
-#: templates/static_pages/usingeuropeana_results.html:49
-msgid "Previous"
-msgstr "Edellinen"
-
-#: templates/static_pages/prop_file.html:47
-#: templates/static_pages/usingeuropeana_results.html:49
-msgid "Next"
-msgstr "Seuraava"
-
-#: templates/static_pages/prop_file.html:48
-msgid "Advanced search"
-msgstr "Tarkennettu haku"
-
-#: templates/static_pages/prop_file.html:49
-msgid "Hide advanced search"
-msgstr "Piilota tarkennettu haku"
-
-#: templates/static_pages/prop_file.html:50
-msgid "and"
-msgstr "ja"
-
-#: templates/static_pages/prop_file.html:51
-#: templates/static_pages/usingeuropeana_results.html:24
-#: templates/static_pages/usingeuropeana_results.html:25
-#: templates/static_pages/usingeuropeana_results.html:41
-#: templates/static_pages/usingeuropeana_results.html:49
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid "or"
-msgstr "tai"
-
-#: templates/static_pages/prop_file.html:52
-msgid "not"
-msgstr "ei"
-
-#: templates/static_pages/prop_file.html:53
-msgid "Any field"
-msgstr "mikä tahansa kenttä"
-
-#: templates/static_pages/prop_file.html:54
-msgid "Share your ideas"
-msgstr "Jaa ideoitasi"
-
-#: templates/static_pages/prop_file.html:55
-msgid "Tagging"
-msgstr "taggaaminen"
-
-#: templates/static_pages/prop_file.html:56
-msgid "Send us feedback"
-msgstr "lähettämällä meille palautetta"
-
-#: templates/static_pages/prop_file.html:57
-msgid "People are currently thinking about"
-msgstr "Juuri nyt käyttäjiä kiinnostaa"
-
-#: templates/static_pages/prop_file.html:58
-msgid "Timeline navigator"
-msgstr "Aikajananavigaattori"
-
-#: templates/static_pages/prop_file.html:59
-msgid "Browse through time"
-msgstr "Selaa aikakausittain"
-
-#: templates/static_pages/prop_file.html:61
-msgid ""
-"From our partner museums, archives, libraries and audio-visual collections"
-msgstr ""
-"Kumppaneiltamme - museoista, arkistoista, kirjastoista ja audiovisuaalisista "
-"kokoelmista"
-
-#: templates/static_pages/prop_file.html:62
-#: templates/static_pages/prop_file.html:908
-#: templates/static_pages/prop_file.html:909
-#: templates/static_pages/sitemap.html:36
-msgid "About us"
-msgstr "Tietoa meistä"
-
-#: templates/static_pages/prop_file.html:64
-msgid "Using Europeana"
-msgstr "Näin käytän Europeanaa"
-
-#: templates/static_pages/prop_file.html:66
-#: templates/static_pages/prop_file.html:521
-#: templates/static_pages/prop_file.html:522
-#: templates/static_pages/prop_file.html:834
-#: templates/static_pages/prop_file.html:835
-#: templates/static_pages/sitemap.html:8
-msgid "Sitemap"
-msgstr "Sivukartta"
-
-#: templates/static_pages/prop_file.html:67
-#: templates/static_pages/prop_file.html:362
-msgid "Terms and conditions"
-msgstr "Käyttöehdot"
-
-#: templates/static_pages/prop_file.html:69
-#: templates/static_pages/sitemap.html:107
-msgid "Language policy"
-msgstr "Kielipolitiikka"
-
-#: templates/static_pages/prop_file.html:70
-#: templates/static_pages/prop_file.html:830
-#: templates/static_pages/prop_file.html:831
-msgid "Contact us"
-msgstr "Ota yhteyttä"
-
-#: templates/static_pages/prop_file.html:71
-msgid "co-funded by the European Union"
-msgstr "Euroopan unionin osarahoittama"
-
-#: templates/static_pages/prop_file.html:72
-msgid "Europeana think culture"
-msgstr "Europeana - ajattele kulttuuria"
-
-#: templates/static_pages/prop_file.html:73
-msgid "Click here to return to the Europeana homepage"
-msgstr "Europeanan etusivulle - klikkaa tästä"
-
-#: templates/static_pages/prop_file.html:74
-msgid "Refine your results"
-msgstr "Rajaa hakutuloksia"
-
-#: templates/static_pages/prop_file.html:75
-msgid "By language of description"
-msgstr "Kuvauskielen mukaan"
-
-#: templates/static_pages/prop_file.html:76
-msgid "By providing country"
-msgstr "Sisällöntarjoajan maan mukaan"
-
-#: templates/static_pages/prop_file.html:77
-msgid "By year"
-msgstr "Vuoden mukaan"
-
-#: templates/static_pages/prop_file.html:79
-msgid "By user tag"
-msgstr "Käyttäjän antaman tagin mukaan"
-
-#: templates/static_pages/prop_file.html:80
-msgid "By type"
-msgstr "Aineistotyypin mukaan"
-
-#: templates/static_pages/prop_file.html:81
-#: templates/static_pages/usingeuropeana_search.html:55
-msgid "By media type"
-msgstr "Mediatyypin mukaan"
-
-#: templates/static_pages/prop_file.html:82
-#, fuzzy
-msgid "Actions"
-msgstr "-nappeja"
-
-#: templates/static_pages/prop_file.html:83
-#: templates/static_pages/usingeuropeana_myeuropeana.html:14
-msgid "Save this search"
-msgstr "Tallenna tämä haku"
-
-#: templates/static_pages/prop_file.html:84
-msgid "Search saved"
-msgstr "Haku tallennettu"
-
-#: templates/static_pages/prop_file.html:85
-msgid "Saving search failed"
-msgstr "Haun tallentaminen epäonnistui"
-
-#: templates/static_pages/prop_file.html:86
-msgid "You have searched for"
-msgstr "Olet hakenut:"
-
-#: templates/static_pages/prop_file.html:87
-#: templates/static_pages/usingeuropeana_search.html:51
-#: templates/static_pages/usingeuropeana_search.html:63
-#: templates/static_pages/usingeuropeana_search.html:65
-msgid "Matches for"
-msgstr "Osumat haulle"
-
-#: templates/static_pages/prop_file.html:88
-msgid "You are viewing related items"
-msgstr "Katsot hakuun liittyviä kohteita"
-
-#: templates/static_pages/prop_file.html:89
-msgid "All"
-msgstr "Kaikki"
-
-#: templates/static_pages/prop_file.html:94
-msgid "Text"
-msgstr "Teksti"
-
-#: templates/static_pages/prop_file.html:95
-msgid "Image"
-msgstr "Kuva"
-
-#: templates/static_pages/prop_file.html:96
-#: templates/static_pages/usingeuropeana_results.html:17
-msgid "Video"
-msgstr "Video"
-
-#: templates/static_pages/prop_file.html:97
-#: templates/static_pages/usingeuropeana_results.html:18
-msgid "Sound"
-msgstr "Ääni"
-
-#: templates/static_pages/prop_file.html:98
-msgid "List view"
-msgstr "Listanäkymä"
-
-#: templates/static_pages/prop_file.html:99
-#, fuzzy
-msgid "#Table view"
-msgstr "Aikajana"
-
-#: templates/static_pages/prop_file.html:100
-msgid "Page"
-msgstr "sivulla"
-
-#: templates/static_pages/prop_file.html:101
-msgid "of"
-msgstr ","
-
-#: templates/static_pages/prop_file.html:102
-msgid "Click here for previous page of results"
-msgstr "Edellisen sivun tulokset saat näkyviin klikkaamalla tästä"
-
-#: templates/static_pages/prop_file.html:103
-msgid "Click here for next page of results"
-msgstr "Seuraavan sivun tulokset saat näkyviin klikkaamalla tästä"
-
-#: templates/static_pages/prop_file.html:104
-msgid "Print this page"
-msgstr "Tulosta sivu"
-
-#: templates/static_pages/prop_file.html:105
-msgid "Click for more information"
-msgstr "Lisätietoja saat klikkaamalla tästä"
-
-#: templates/static_pages/prop_file.html:106
-msgid "No items found"
-msgstr "Kohteita ei löytynyt"
-
-#: templates/static_pages/prop_file.html:107
-msgid "Related content"
-msgstr "Liittyvää sisältöä"
-
-#: templates/static_pages/prop_file.html:108
-msgid "See all related items"
-msgstr "Katso kaikki tähän liittyvät kohteet"
-
-#: templates/static_pages/prop_file.html:109
-msgid "User tags"
-msgstr "käyttäjien tagit"
-
-#: templates/static_pages/prop_file.html:110
-#: templates/static_pages/usingeuropeana_myeuropeana.html:15
-msgid "Add a tag"
-msgstr "Lisää tagi"
-
-#: templates/static_pages/prop_file.html:111
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid "Add"
-msgstr "Lisää"
-
-#: templates/static_pages/prop_file.html:112
-msgid "Tag added"
-msgstr "tagi lisätty"
-
-#: templates/static_pages/prop_file.html:113
-msgid "Tag addition failed"
-msgstr "tagin lisääminen epäonnistui"
-
-#: templates/static_pages/prop_file.html:114
-msgid "Share with a friend"
-msgstr "Jaa ystävien kanssa"
-
-#: templates/static_pages/prop_file.html:115
-msgid "Email address"
-msgstr "Sähköpostiosoite"
-
-#: templates/static_pages/prop_file.html:116
-msgid "Email sent"
-msgstr "Sähköposti lähetetty"
-
-#: templates/static_pages/prop_file.html:117
-msgid "Email could not be sent"
-msgstr "Sähköpostin lähettäminen epäonnistui"
-
-#: templates/static_pages/prop_file.html:118
-msgid "Send"
-msgstr "Lähetä"
-
-#: templates/static_pages/prop_file.html:119
-#: templates/static_pages/usingeuropeana_myeuropeana.html:16
-msgid "Save to My Europeana"
-msgstr "Tallenna minun Europeanaani"
-
-#: templates/static_pages/prop_file.html:120
-msgid "Item saved"
-msgstr "Kohde tallennettu"
-
-#: templates/static_pages/prop_file.html:121
-msgid "Save item failed"
-msgstr "Kohteen tallentaminen epäonnistui"
-
-#: templates/static_pages/prop_file.html:122
-msgid "Error"
-msgstr "virhe"
-
-#: templates/static_pages/prop_file.html:123
-msgid "Error details"
-msgstr "Lisätietoa virheestä"
-
-#: templates/static_pages/prop_file.html:124
-msgid "Return to results"
-msgstr "Palaa hakutuloksiin"
-
-#: templates/static_pages/prop_file.html:125
-msgid "More"
-msgstr "Lisää"
-
-#: templates/static_pages/prop_file.html:126
-msgid "Less"
-msgstr "Vähemmän"
-
-#: templates/static_pages/prop_file.html:127
-msgid "Items"
-msgstr "Kohteet"
-
-#: templates/static_pages/prop_file.html:128
-msgid "Item details"
-msgstr "Lisätietoa kohteesta"
-
-#: templates/static_pages/prop_file.html:129
-msgid "View as XML"
-msgstr "Tarkastele XML-muodossa"
-
-#: templates/static_pages/prop_file.html:130
-msgid "View with labels"
-msgstr "Näytä merkintöjen kanssa"
-
-#: templates/static_pages/prop_file.html:131
-msgid "View without labels"
-msgstr "Näytä ilman merkintöjä"
-
-#: templates/static_pages/prop_file.html:132
-msgid "Opens in a new window"
-msgstr "Avaa uudessa ikkunassa"
-
-#: templates/static_pages/prop_file.html:133
-msgid "View in original context"
-msgstr "Tarkastele alkuperäisessä yhteydessä"
-
-#: templates/static_pages/prop_file.html:134
-#: templates/static_pages/prop_file.html:820
-msgid "Provider"
-msgstr "Sisällöntarjoaja"
-
-#: templates/static_pages/prop_file.html:135
-#: templates/static_pages/prop_file.html:228
-#: templates/static_pages/prop_file.html:817
-#: templates/static_pages/storyline.html:49
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid "Title"
-msgstr "Nimeke"
-
-#: templates/static_pages/prop_file.html:136
-#: templates/static_pages/prop_file.html:235
-msgid "Description"
-msgstr "Kuvailu"
-
-#: templates/static_pages/prop_file.html:137
-#: templates/static_pages/storyline.html:50
-#: templates/static_pages/usingeuropeana_search.html:31
-msgid "Creator"
-msgstr "Tekijä"
-
-#: templates/static_pages/prop_file.html:138
-#: templates/static_pages/prop_file.html:232
-#: templates/static_pages/usingeuropeana_search.html:34
-msgid "Date"
-msgstr "Ajankohta"
-
-#: templates/static_pages/prop_file.html:139
-#: templates/static_pages/prop_file.html:234
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid "Subject"
-msgstr "Aihe"
-
-#: templates/static_pages/prop_file.html:140
-msgid "Show all"
-msgstr "Näytä kaikki"
-
-#: templates/static_pages/prop_file.html:141
-msgid "Delete"
-msgstr "Poista"
-
-#: templates/static_pages/prop_file.html:142
-msgid "No saved items"
-msgstr "Ei tallennettuja kohteita"
-
-#: templates/static_pages/prop_file.html:143
-msgid "No saved searches"
-msgstr "Ei tallennettuja hakuja"
-
-#: templates/static_pages/prop_file.html:144
-msgid "No saved tags"
-msgstr "Ei tallennettuja tageja"
-
-#: templates/static_pages/prop_file.html:145
-msgid "No saved notifications"
-msgstr "Ei tallennettuja ilmoituksia"
-
-#: templates/static_pages/prop_file.html:146
-msgid "Date saved"
-msgstr "Ajankohta tallennettu"
-
-#: templates/static_pages/prop_file.html:147
-msgid "Remove"
-msgstr "Poista"
-
-#: templates/static_pages/prop_file.html:148
-msgid "Welcome to MyEuropeana"
-msgstr "Tervetuloa minun Europeanaani"
-
-#: templates/static_pages/prop_file.html:149
-msgid "Please click on the following link to confirm your registration"
-msgstr "Vahvista rekisteröitymisesi klikkaamalla linkkiä"
-
-#: templates/static_pages/prop_file.html:150
-msgid "The Europeana Team"
-msgstr "Europeana-tiimi"
-
-#: templates/static_pages/prop_file.html:151
-msgid "Results"
-msgstr "Tulokset"
-
-#: templates/static_pages/prop_file.html:152
-msgid "Invalid query"
-msgstr "Virheellinen kysely"
-
-#: templates/static_pages/prop_file.html:153
-msgid "This feature is currently disabled."
-msgstr "Ominaisuus ei tällä hetkellä toimi."
-
-#: templates/static_pages/prop_file.html:154
-msgid "Password"
-msgstr "Salasana"
-
-#: templates/static_pages/prop_file.html:155
-msgid "Remember me on this computer"
-msgstr "Muista tunnukset tällä tietokoneella"
-
-#: templates/static_pages/prop_file.html:156
-msgid "I forgot my password"
-msgstr "Unohdin salasanani"
-
-#: templates/static_pages/prop_file.html:157
-msgid "Sign in"
-msgstr "Kirjaudu"
-
-#: templates/static_pages/prop_file.html:158
-msgid "Register"
-msgstr "Rekisteröidy käyttäjäksi"
-
-#: templates/static_pages/prop_file.html:159
-msgid "Register again"
-msgstr "Rekisteröidy uudestaan"
-
-#: templates/static_pages/prop_file.html:160
-msgid ""
-"An error occurred while trying to process your registration. Please try again"
-msgstr "Rekisteröitymisesi käsittelyssä on tapahtunut virhe. Yritä uudelleen"
-
-#: templates/static_pages/prop_file.html:161
-msgid "An email has been sent to the following address"
-msgstr "Sähköposti on lähetetty osoitteeseen:"
-
-#: templates/static_pages/prop_file.html:162
-msgid ""
-"Please follow the link provided in the email and finish the registration "
-"process"
-msgstr "Rekisteröidy sähköpostissa olevan linkin kautta"
-
-#: templates/static_pages/prop_file.html:163
-msgid "Please make sure your email is correctly formatted and try again"
-msgstr "Tarkista että sähköpostisi tiedot ovat oikein ja yritä uudelleen"
-
-#: templates/static_pages/prop_file.html:164
-msgid "This email is already registered"
-msgstr "Tämä sähköpostiosoite on jo rekisteröity"
-
-#: templates/static_pages/prop_file.html:165
-msgid "Create an account"
-msgstr "Luo tili"
-
-#: templates/static_pages/prop_file.html:166
-#: templates/static_pages/prop_file.html:979
-msgid "The link you used to complete registration is invalid or has expired."
-msgstr "Rekisteröitymiseen käyttämäsi linkki on virheellinen tai vanhentunut."
-
-#: templates/static_pages/prop_file.html:167
-msgid "Enter your email"
-msgstr "Syötä sähköpostiosoitteesi"
-
-#: templates/static_pages/prop_file.html:168
-msgid ""
-"You will use your email together with your password to log into the site"
-msgstr "Kirjaudu käyttämällä sähköpostiosoitetta ja salasanaa"
-
-#: templates/static_pages/prop_file.html:169
-#: templates/static_pages/prop_file.html:173
-msgid "Your username will be displayed when you have logged in"
-msgstr "Käyttäjätunnus tulee näkyviin kun olet kirjautunut sisään"
-
-#: templates/static_pages/prop_file.html:170
-msgid "Username"
-msgstr "Käyttäjätunnus"
-
-#: templates/static_pages/prop_file.html:171
-msgid "is in use. Please choose another username"
-msgstr "on käytössä. Valitse toinen käyttäjätunnus"
-
-#: templates/static_pages/prop_file.html:172
-msgid "Choose a username"
-msgstr "Valitse käyttäjätunnus"
-
-#: templates/static_pages/prop_file.html:174
-msgid "User information"
-msgstr "Käyttäjän tiedot"
-
-#: templates/static_pages/prop_file.html:175
-msgid "Choose a password"
-msgstr "Valitse salasana"
-
-#: templates/static_pages/prop_file.html:176
-msgid "Passwords must be 6-30 characters in length"
-msgstr "Salasanan tulee olla 6 - 30 merkkiä pitkä"
-
-#: templates/static_pages/prop_file.html:177
-msgid "Repeat password"
-msgstr "Toista salasana"
-
-#: templates/static_pages/prop_file.html:178
-msgid "Finish registration"
-msgstr "Hyväksy rekisteröityminen"
-
-#: templates/static_pages/prop_file.html:179
-msgid "You have successfully registered"
-msgstr "Rekisteröitymisesi onnistui"
-
-#: templates/static_pages/prop_file.html:181
-msgid "English (eng)"
-msgstr "englanti (eng)"
-
-#: templates/static_pages/prop_file.html:182
-msgid "Croatian (hrv)"
-msgstr "kroatia (hrv)"
-
-#: templates/static_pages/prop_file.html:183
-msgid "Czech (cze/cse)"
-msgstr "tsekki (cze/cse)"
-
-#: templates/static_pages/prop_file.html:184
-msgid "Greek (ell/gre)"
-msgstr "kreikka (ell/gre)"
-
-#: templates/static_pages/prop_file.html:185
-msgid "Estonian (est)"
-msgstr "viro (est)"
-
-#: templates/static_pages/prop_file.html:186
-msgid "Danish (dan)"
-msgstr "tanska (dan)"
-
-#: templates/static_pages/prop_file.html:187
-msgid "Dutch (dut)"
-msgstr "hollanti (dut)"
-
-#: templates/static_pages/prop_file.html:188
-msgid "Finnish (fin)"
-msgstr "suomi (fin)"
-
-#: templates/static_pages/prop_file.html:189
-msgid "French (fre)"
-msgstr "ranska (fre)"
-
-#: templates/static_pages/prop_file.html:190
-msgid "Galician (glg)"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:191
-msgid "German (deu)"
-msgstr "saksa (deu)"
-
-#: templates/static_pages/prop_file.html:192
-msgid "Hungarian (hun)"
-msgstr "unkari (hun)"
-
-#: templates/static_pages/prop_file.html:193
-msgid "Italian (ita)"
-msgstr "italia (ita)"
-
-#: templates/static_pages/prop_file.html:194
-msgid "Latvian (lav)"
-msgstr "Latvia (lav)"
-
-#: templates/static_pages/prop_file.html:195
-msgid "Lithuanian (lit)"
-msgstr "Liettua"
-
-#: templates/static_pages/prop_file.html:196
-msgid "Luxemburgish (ltz)"
-msgstr "luxemburg (ltz)"
-
-#: templates/static_pages/prop_file.html:197
-msgid "Maltese (mlt)"
-msgstr "malta (mlt)"
-
-#: templates/static_pages/prop_file.html:198
-msgid "Norwegian (nor)"
-msgstr "norja (nor)"
-
-#: templates/static_pages/prop_file.html:199
-msgid "Polish (pol)"
-msgstr "puola (pol)"
-
-#: templates/static_pages/prop_file.html:200
-msgid "Portuguese (por)"
-msgstr "portugali (por)"
-
-#: templates/static_pages/prop_file.html:201
-msgid "Romanian (rom)"
-msgstr "romania (rom)"
-
-#: templates/static_pages/prop_file.html:202
-msgid "Russian (rus)"
-msgstr "Venäjä (rus)"
-
-#: templates/static_pages/prop_file.html:203
-msgid "Serbian (scc)"
-msgstr "serbia (scc)"
-
-#: templates/static_pages/prop_file.html:204
-msgid "Slovak (slo)"
-msgstr "slovakia (slo)"
-
-#: templates/static_pages/prop_file.html:205
-msgid "Slovenian (slv)"
-msgstr "Slovenia"
-
-#: templates/static_pages/prop_file.html:206
-msgid "Spanish (esp)"
-msgstr "espanja (esp)"
-
-#: templates/static_pages/prop_file.html:207
-msgid "Icelandic (ice)"
-msgstr "islanti (ice)"
-
-#: templates/static_pages/prop_file.html:208
-msgid "Swedish (sve/swe)"
-msgstr "ruotsi (sve/swe)"
-
-#: templates/static_pages/prop_file.html:209
-msgid "Turkish (tur)"
-msgstr "turkki (tur)"
-
-#: templates/static_pages/prop_file.html:210
-msgid "Ukrainian (ukr)"
-msgstr "Ukraina"
-
-#: templates/static_pages/prop_file.html:211
-#, fuzzy
-msgid "Yiddish (yid)"
-msgstr "suomi (fin)"
-
-#: templates/static_pages/prop_file.html:212
-msgid "Other"
-msgstr "Muut"
-
-#: templates/static_pages/prop_file.html:213
-msgid "Alternative Title"
-msgstr "Vaihtoehtoinen otsikko"
-
-#: templates/static_pages/prop_file.html:214
-msgid "Provenance"
-msgstr "Alkuperä"
-
-#: templates/static_pages/prop_file.html:215
-msgid "Is Part of"
-msgstr "on osa"
-
-#: templates/static_pages/prop_file.html:216
-#: templates/static_pages/prop_file.html:948
-#, fuzzy
-msgid "Has part"
-msgstr "on formaattia"
-
-#: templates/static_pages/prop_file.html:217
-msgid "Replaces"
-msgstr "korvaa"
-
-#: templates/static_pages/prop_file.html:218
-msgid "Is replaced by"
-msgstr "on korvattu"
-
-#: templates/static_pages/prop_file.html:219
-msgid "Is referenced by"
-msgstr "on viitattu"
-
-#: templates/static_pages/prop_file.html:220
-msgid "References"
-msgstr "viitteet"
-
-#: templates/static_pages/prop_file.html:221
-msgid "Conforms to"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:222
-msgid "Requires"
-msgstr "vaatii"
-
-#: templates/static_pages/prop_file.html:223
-msgid "Has format"
-msgstr "on formaattia"
-
-#: templates/static_pages/prop_file.html:224
-#, fuzzy
-msgid "Is format of"
-msgstr "on formaattia"
-
-#: templates/static_pages/prop_file.html:225
-msgid "Geographic coverage"
-msgstr "Maantieteellinen kattavuus"
-
-#: templates/static_pages/prop_file.html:226
-msgid "Time period"
-msgstr "Ajanjakso"
-
-#: templates/static_pages/prop_file.html:227
-msgid "Publication date"
-msgstr "Julkaisupäivä"
-
-#: templates/static_pages/prop_file.html:229
-msgid "Author"
-msgstr "Tekijä"
-
-#: templates/static_pages/prop_file.html:231
-msgid "Coverage"
-msgstr "kattavuus"
-
-#: templates/static_pages/prop_file.html:233
-msgid "Format"
-msgstr "formaatti"
-
-#: templates/static_pages/prop_file.html:236
-msgid "Publisher"
-msgstr "julkaisija"
-
-#: templates/static_pages/prop_file.html:237
-msgid "Identifier"
-msgstr "tunniste"
-
-#: templates/static_pages/prop_file.html:238
-msgid "Source"
-msgstr "lähde"
-
-#: templates/static_pages/prop_file.html:240
-msgid "Relation"
-msgstr "suhde"
-
-#: templates/static_pages/prop_file.html:241
-#: templates/static_pages/sitemap.html:113
-msgid "Rights"
-msgstr "oikeudet"
-
-#: templates/static_pages/prop_file.html:242
-msgid "Type"
-msgstr "Tyyppi"
-
-#: templates/static_pages/prop_file.html:243
-msgid "Austria"
-msgstr "Itävalta"
-
-#: templates/static_pages/prop_file.html:244
-msgid "Croatia"
-msgstr "Kroatia"
-
-#: templates/static_pages/prop_file.html:245
-msgid "Denmark"
-msgstr "Tanska"
-
-#: templates/static_pages/prop_file.html:246
-msgid "Finland"
-msgstr "Suomi"
-
-#: templates/static_pages/prop_file.html:247
-msgid "France"
-msgstr "Ranska"
-
-#: templates/static_pages/prop_file.html:248
-msgid "Germany"
-msgstr "Saksa "
-
-#: templates/static_pages/prop_file.html:249
-msgid "Italy-Florence"
-msgstr "Italia-Firenze"
-
-#: templates/static_pages/prop_file.html:250
-msgid "Italy-Rome"
-msgstr "Italia-Rooma"
-
-#: templates/static_pages/prop_file.html:251
-msgid "Ireland"
-msgstr "Irlanti"
-
-#: templates/static_pages/prop_file.html:252
-msgid "Netherlands"
-msgstr "Alankomaat"
-
-#: templates/static_pages/prop_file.html:253
-msgid "Portugal"
-msgstr "Portugali"
-
-#: templates/static_pages/prop_file.html:254
-msgid "Russia - Moscow"
-msgstr "Venäjä - Moskova"
-
-#: templates/static_pages/prop_file.html:255
-msgid "Russia - Saint Petersburg"
-msgstr "Venäjä - Pietari"
-
-#: templates/static_pages/prop_file.html:256
-msgid "Romania"
-msgstr "Romania"
-
-#: templates/static_pages/prop_file.html:257
-msgid "Former Yugoslav Republic Of Macedonia"
-msgstr "Entinen Jugoslavian tasavalta Makedonia"
-
-#: templates/static_pages/prop_file.html:258
-msgid "Ukraine"
-msgstr "Ukraina"
-
-#: templates/static_pages/prop_file.html:259
-msgid "Moldova"
-msgstr "Moldova"
-
-#: templates/static_pages/prop_file.html:260
-msgid "Albania"
-msgstr "Albania"
-
-#: templates/static_pages/prop_file.html:261
-msgid "Georgia"
-msgstr "Georgia"
-
-#: templates/static_pages/prop_file.html:262
-msgid "Armenia"
-msgstr "Armenia"
-
-#: templates/static_pages/prop_file.html:263
-msgid "Bosnia and Herzegovina"
-msgstr "Bosnia-Herzegovina"
-
-#: templates/static_pages/prop_file.html:264
-msgid "Azerbaijan"
-msgstr "Azerbaijan"
-
-#: templates/static_pages/prop_file.html:265
-msgid "Turkey"
-msgstr "Turkki"
-
-#: templates/static_pages/prop_file.html:266
-msgid "Bulgaria"
-msgstr "Bulgaria"
-
-#: templates/static_pages/prop_file.html:267
-msgid "Serbia"
-msgstr "Serbia"
-
-#: templates/static_pages/prop_file.html:268
-msgid "Slovenia"
-msgstr "Slovenia"
-
-#: templates/static_pages/prop_file.html:269
-msgid "Switzerland"
-msgstr "Sveitsi"
-
-#: templates/static_pages/prop_file.html:270
-msgid "United Kingdom"
-msgstr "Iso-Britannia"
-
-#: templates/static_pages/prop_file.html:271
-msgid "Czech Republic"
-msgstr "Tšekin tasavalta"
-
-#: templates/static_pages/prop_file.html:272
-msgid "Cyprus"
-msgstr "Kypros"
-
-#: templates/static_pages/prop_file.html:273
-msgid "Estonia"
-msgstr "Viro"
-
-#: templates/static_pages/prop_file.html:274
-msgid "Latvia"
-msgstr "Latvia"
-
-#: templates/static_pages/prop_file.html:275
-msgid "Lithuania"
-msgstr "Liettua"
-
-#: templates/static_pages/prop_file.html:276
-msgid "Hungary"
-msgstr "Unkari"
-
-#: templates/static_pages/prop_file.html:277
-msgid "Malta"
-msgstr "Malta"
-
-#: templates/static_pages/prop_file.html:278
-msgid "Poland"
-msgstr "Puola"
-
-#: templates/static_pages/prop_file.html:279
-msgid "Slovakia"
-msgstr "Slovakia"
-
-#: templates/static_pages/prop_file.html:280
-msgid "Spain"
-msgstr "Espanja"
-
-#: templates/static_pages/prop_file.html:281
-msgid "Belgium"
-msgstr "Belgia"
-
-#: templates/static_pages/prop_file.html:282
-msgid "Iceland"
-msgstr "Islanti"
-
-#: templates/static_pages/prop_file.html:283
-msgid "Norway"
-msgstr "Norja"
-
-#: templates/static_pages/prop_file.html:284
-msgid "Sweden"
-msgstr "Ruotsi"
-
-#: templates/static_pages/prop_file.html:285
-msgid "Liechtenstein"
-msgstr "Liechtenstein"
-
-#: templates/static_pages/prop_file.html:286
-msgid "Luxembourg"
-msgstr "Luxemburg"
-
-#: templates/static_pages/prop_file.html:287
-msgid "Greece"
-msgstr "Kreikka"
-
-#: templates/static_pages/prop_file.html:289
-msgid "Subject cloud"
-msgstr "Aihepilvi"
-
-#: templates/static_pages/prop_file.html:290
-msgid "Did you mean"
-msgstr "Tarkoititko?"
-
-#: templates/static_pages/prop_file.html:291
-msgid ""
-"Paintings, music, films and books from Europe's galleries, libraries, "
-"archives and museums."
-msgstr ""
-"Maalauksia, musiikkia, elokuvia ja kirjoja eurooppalaisista gallerioista, "
-"kirjastoista, arkistoista ja museoista."
-
-#: templates/static_pages/prop_file.html:292
-msgid "Data provider"
-msgstr "Aineiston tarjoaja"
-
-#: templates/static_pages/prop_file.html:293
-msgid "Europeana rights"
-msgstr "Europeana oikeudet"
-
-#: templates/static_pages/prop_file.html:294
-msgid "Terms of use"
-msgstr "Käyttöehdot"
-
-#: templates/static_pages/prop_file.html:295
-msgid "The timeline only shows up to 1000 items relevant to your query."
-msgstr "Aikajana näyttää korkeintaan 1000 hakuusi liittyvää kohdetta."
-
-#: templates/static_pages/prop_file.html:296
-msgid "Timeline view"
-msgstr "Aikajana"
-
-#: templates/static_pages/prop_file.html:297
-msgid "Embed"
-msgstr "Upota"
-
-#: templates/static_pages/prop_file.html:298
-msgid "Options"
-msgstr "vaihtoehdot"
-
-#: templates/static_pages/prop_file.html:299
-msgid "Embed this object into your own blog or website"
-msgstr "upota tämä kohde blogiisi tai verkkosivulle"
-
-#: templates/static_pages/prop_file.html:300
-msgid ""
-"Paste the HTML source code below to your page. This page itself is an "
-"example of a page that embeds a Europeana object."
-msgstr ""
-"Liitä alla oleva html-koodi verkkosivullesi. Tämä sivu on esimerkki sivusta, "
-"jolle on upotettu Europeanassa oleva kohde."
-
-#: templates/static_pages/prop_file.html:301
-msgid ""
-"Now this Europeana object becomes a part of your page. Our content providers "
-"tend to improve their objects from time to time. Create an alert on this "
-"object to be notified if this specific object would change."
-msgstr ""
-"Nyt tästä kohteesta tulee osa sivuasi. Sisältöä välittävät tahot  tekevät "
-"aika ajoin muutoksia aineistotietoihin. Voit pyytää ilmoituksen, jos tämä "
-"aineistotieto muuttuu."
-
-#: templates/static_pages/prop_file.html:302
-msgid "Preview it customized"
-msgstr "Esikatsele"
-
-#: templates/static_pages/prop_file.html:303
-msgid "Create notification for this item"
-msgstr "Anna ilmoitus tästä kohteesta"
-
-#: templates/static_pages/prop_file.html:304
-msgid ""
-"Log in to My Europeana and set an alert to be notified of updates, such as "
-"the publication of more metadata for this object."
-msgstr ""
-"Kirjaudu Minun Europeanaani ja aseta hälytys, joka ilmoittaa päivityksistä "
-"kuten aineiston muuttuneista metatiedoista. "
-
-#: templates/static_pages/prop_file.html:305
-msgid ""
-"By using the embed function you accept and agree to the Europeana Terms of "
-"Use"
-msgstr "Käyttämällä upotusta hyväksyt Europeanan käyttöehdot"
-
-#: templates/static_pages/prop_file.html:306
-msgid "Maximal number of text lines:"
-msgstr "Tekstirivien maksimimäärä"
-
-#: templates/static_pages/prop_file.html:307
-msgid "orientation:"
-msgstr "suunta"
-
-#: templates/static_pages/prop_file.html:308
-msgid "portrait"
-msgstr "pysty"
-
-#: templates/static_pages/prop_file.html:309
-msgid "landscape"
-msgstr "vaaka"
-
-#: templates/static_pages/prop_file.html:310
-msgid "Refine Search"
-msgstr "Haun rajaus"
-
-#: templates/static_pages/prop_file.html:311
-msgid "By Rights"
-msgstr "Oikeuksien mukaan"
-
-#: templates/static_pages/prop_file.html:312
-#: templates/static_pages/usingeuropeana_search.html:59
-msgid "By copyright"
-msgstr "Oikeuksien mukaan"
-
-#: templates/static_pages/prop_file.html:313
-#, fuzzy
-msgid "Free Access"
-msgstr "Rajoitetut käyttöoikeudet – rajoitettu tarkasteluoikeus"
-
-#: templates/static_pages/prop_file.html:314
-#, fuzzy
-msgid "Restricted Access"
-msgstr "Rajoitetut käyttöoikeudet – rajoitettu tarkasteluoikeus"
-
-#: templates/static_pages/prop_file.html:315
-msgid "Paid Access"
-msgstr "Rajoitetut käyttöoikeudet – rajoitettu tarkasteluoikeus"
-
-#: templates/static_pages/prop_file.html:316
-msgid "Public Domain"
-msgstr "Public Domain"
-
-#: templates/static_pages/prop_file.html:317
-msgid "Unknown"
-msgstr "Tuntematon"
-
-#: templates/static_pages/prop_file.html:318
-msgid "Not all objects show rights information"
-msgstr "Kaikki aineistot eivät näytä käyttöoikeustietoa"
-
-#: templates/static_pages/prop_file.html:319
-msgid "Translate with:"
-msgstr "käännä tämän avulla"
-
-#: templates/static_pages/prop_file.html:320
-msgid "Search line value with:"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:321
-msgid ""
-"Access External Search Services or Translate a fields content where you see "
-"the marker by double clicking the fields value."
-msgstr ""
-"Siirry ulkopuolisiin hakupalveluihin (ESS) tai käännä merkityn kentän "
-"sisältö kaksoisklikkaamalla kenttää"
-
-#: templates/static_pages/prop_file.html:322
-msgid ""
-"ESS allows you to translate an individual fields contents or search for an "
-"individual line on an external search service to access additional relevant "
-"information."
-msgstr ""
-"ESS:n avulla voit kääntää yksittäisen kentän sisällön tai hakea "
-"ulkopuolisista hakupalvelveluista saadaksesi lisätietoa."
-
-#: templates/static_pages/prop_file.html:323
-msgid "indicates ESS services are available"
-msgstr "Ulkopuoliset hakupalvelut ovat saatavilla"
-
-#: templates/static_pages/prop_file.html:324
-msgid "indicates ESS services are not available"
-msgstr "Ulkopuoliset hakupalvelut eivät ole saatavilla"
-
-#: templates/static_pages/prop_file.html:325
-msgid "Search term(s)"
-msgstr "Hakusana(t)"
-
-#: templates/static_pages/prop_file.html:326
-msgid "Search facet"
-msgstr "Hakufasetti"
-
-#: templates/static_pages/prop_file.html:327
-msgid "Search operator"
-msgstr "Hakuoperaattori"
-
-#: templates/static_pages/prop_file.html:328
-msgid "Back to top"
-msgstr "takaisin ylös"
-
-#: templates/static_pages/prop_file.html:329
-msgid "Click to search for this term in external services"
-msgstr "Klikkaa hakeaksesi sanalla ulkoisista palveluista"
-
-#: templates/static_pages/prop_file.html:330
-#: templates/static_pages/prop_file.html:332
-msgid "Remote Search Widget"
-msgstr "Etähakulaatikko"
-
-#: templates/static_pages/prop_file.html:331
-msgid ""
-"You can use the link below to create a customized plugin for inclusion in "
-"your own website with the ability to search through the collections on the "
-"Europeana portal."
-msgstr ""
-"Voit käyttää alla olevaa linkkiä luodaksesi mukautetun lisäosan lisätäksesi "
-"sen omalle verkkosivullesi Europeana-portaalin kokoelmista \n"
-"hakua varten."
-
-#: templates/static_pages/prop_file.html:333
-msgid "Europeana Search Widget"
-msgstr "Europeana hakuvimpain(widget)"
-
-#: templates/static_pages/prop_file.html:336
-msgid "What is Europeana's remote search widget?"
-msgstr "Mikä on Europeanan etähakulaatikko?"
-
-#: templates/static_pages/prop_file.html:337
-msgid ""
-"The remote search widget is a tailored plugin to search on and display items "
-"from Europeana's collections and those of their contributors within your own "
-"website."
-msgstr ""
-"Etähakulaatikko on räätälöity lisäosa hakuun ja tietueiden näyttöön omalla "
-"verkkosivullasi Europeanan ja sen aineistontarjoajien kokoelmista."
-
-#: templates/static_pages/prop_file.html:338
-msgid "What is a plugin?"
-msgstr "Mikä on lisäosa?"
-
-#: templates/static_pages/prop_file.html:339
-msgid ""
-"The plugin is simply a piece of generated code that can be copied and pasted "
-"into one of the webpages on your own site."
-msgstr ""
-"Lisäosa on pätkä valmista koodia jonka voi kopioida ja liittää jollekin "
-"sivulle omalla sivustollasi."
-
-#: templates/static_pages/prop_file.html:340
-msgid "What will the plugin look like?"
-msgstr "Miltä lisäosa näyttää?"
-
-#: templates/static_pages/prop_file.html:341
-msgid ""
-"The working plugin is shown on the right hand side of the screen. Making "
-"changes and selecting preview will let you see those changes in action."
-msgstr ""
-"Toiminnassa oleva lisäosa näytetään näytön oikeassa reunassa. Muutoksien "
-"tekeminen ja esikatselun valinta näyttää muutosten vaikutuksen."
-
-#: templates/static_pages/prop_file.html:342
-msgid "How do I add the plugin into my own site?"
-msgstr "Kuinka lisään lisäosan omalle sivustolleni?"
-
-#: templates/static_pages/prop_file.html:343
-msgid "Select options from the menu below"
-msgstr "Valitse asetukset alla olevasta valikosta"
-
-#: templates/static_pages/prop_file.html:344
-msgid ""
-"Click on 'Preview' to see the changes in the right hand side of the screen"
-msgstr "Klikkaa 'Esikatselu' nähdäksesi muutokset näytön oikeassa reunassa"
-
-#: templates/static_pages/prop_file.html:345
-msgid ""
-"Check the box to say you have read and agree with the terms and conditions"
-msgstr ""
-"Rastita valinta kertoaksesi että olet lukenut ja hyväksynyt käyttöehdot"
-
-#: templates/static_pages/prop_file.html:346
-msgid "Click 'Generate Code'"
-msgstr "Klikkaa 'Luo koodi'"
-
-#: templates/static_pages/prop_file.html:347
-msgid "Copy the code from under 'Code for plugin:'"
-msgstr "Kopioi koodi kohdan 'Koodi lisäosalle:' alta"
-
-#: templates/static_pages/prop_file.html:348
-msgid "Open a webpage on your own site in a text editor"
-msgstr "Avaa tekstieditorissa sivu sivustollasi"
-
-#: templates/static_pages/prop_file.html:349
-msgid "Paste the code into the page and save the changes"
-msgstr "Liitä koodi sivulle ja tallenna muutokset"
-
-#: templates/static_pages/prop_file.html:350
-msgid "Open your web page in a browser to see the plugin working"
-msgstr "Avaa verkkosivusi selaimessa nähdäksesi lisäosan toiminnan"
-
-#: templates/static_pages/prop_file.html:351
-msgid "How can I change the position of the plugin?"
-msgstr "Kuinka muutan lisäosan sijaintia?"
-
-#: templates/static_pages/prop_file.html:352
-msgid ""
-"The plugin can be nested within an HTML table but the easiest way is to use "
-"cascading stylesheets css. The plugin is surrounded in a div with the id "
-"swEuropeanaRemoteWidget and its position can be changed by changing the css "
-"properties for this div."
-msgstr ""
-"Lisäosa voidaan upottaa HTML-taulukkoon, mutta helpointa on käyttää CSS-"
-"tyylejä. Lisäosa on ympäröity div-elementillä id:llä "
-"swEuropeanaRemoteWidget, ja sen sijainti voidaan muuttaa muuttamalla div-"
-"elementin CSS-määrityksiä."
-
-#: templates/static_pages/prop_file.html:353
-msgid "Background colour"
-msgstr "Taustaväri"
-
-#: templates/static_pages/prop_file.html:354
-msgid "Media type tab colour"
-msgstr "Mediatyyppi-välilehden väri"
-
-#: templates/static_pages/prop_file.html:355
-msgid "Text colour"
-msgstr "Tekstin väri"
-
-#: templates/static_pages/prop_file.html:356
-msgid "Default language"
-msgstr "Oletuskieli"
-
-#: templates/static_pages/prop_file.html:357
-msgid "Default search term"
-msgstr "Oletushakutermi"
-
-#: templates/static_pages/prop_file.html:358
-msgid "Media Types"
-msgstr "Mediatyypit"
-
-#: templates/static_pages/prop_file.html:359
-#: templates/static_pages/usingeuropeana_searchwidget.html:30
-msgid "Providers"
-msgstr "Aineistontarjoajat"
-
-#: templates/static_pages/prop_file.html:360
-msgid "Europeana attribution"
-msgstr "Europeana - viittaus"
-
-#: templates/static_pages/prop_file.html:361
-msgid "Widget Code: (To be copied and pasted into your website)"
-msgstr "Laatikon koodi: (Omalle sivustollesi kopiointia ja liittämistä varten)"
-
-#: templates/static_pages/prop_file.html:363
-msgid "Generate Code"
-msgstr "Luo koodia"
-
-#: templates/static_pages/prop_file.html:364
-msgid "Powered By Europeana"
-msgstr "Powered By Europeana"
-
-#: templates/static_pages/prop_file.html:365
-#: templates/static_pages/prop_file.html:867
-msgid "Europeana Blog"
-msgstr "Europeana blogi"
-
-#: templates/static_pages/prop_file.html:366
-msgid "Virtual Exhibitions"
-msgstr "Verkkonäyttelyt"
-
-#: templates/static_pages/prop_file.html:367
-#: templates/static_pages/usingeuropeana_results.html:41
-msgid "Cite on Wikipedia"
-msgstr "Siteeraa Wikipediassa"
-
-#: templates/static_pages/prop_file.html:368
-msgid "Click to cite this object"
-msgstr "Klikkaa tästä siteerataksesi tätä kohdetta"
-
-#: templates/static_pages/prop_file.html:369
-msgid "Use"
-msgstr "Käytä"
-
-#: templates/static_pages/prop_file.html:370
-msgid "Harvard Bibliographic Style"
-msgstr "Harvard Bibliographic Style"
-
-#: templates/static_pages/prop_file.html:371
-msgid "This record can be cited in the"
-msgstr "Tätä kohdetta voi siteerata"
-
-#: templates/static_pages/prop_file.html:372
-msgid "style using the text below:"
-msgstr "tyylillä käyttämällä alla olevaa tekstiä"
-
-#: templates/static_pages/prop_file.html:373
-msgid "Harvard Bibliographic"
-msgstr "Harvard Bibliographic"
-
-#: templates/static_pages/prop_file.html:374
-msgid "Close"
-msgstr "sulje"
-
-#: templates/static_pages/prop_file.html:375
-msgid "Show Auto-tags"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:376
-msgid "Hide Auto-tags"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:377
-msgid "Automatically added semantic tags"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:378
-#, fuzzy
-msgid "Place Term"
-msgstr "Paikat"
-
-#: templates/static_pages/prop_file.html:379
-#, fuzzy
-msgid "Place Label"
-msgstr "Paikat"
-
-#: templates/static_pages/prop_file.html:380
-msgid "Geo Space"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:381
-#, fuzzy
-msgid "Place Broader Term"
-msgstr "Paikat"
-
-#: templates/static_pages/prop_file.html:382
-#, fuzzy
-msgid "Place Broader Label"
-msgstr "Paikat"
-
-#: templates/static_pages/prop_file.html:383
-#, fuzzy
-msgid "Period Term"
-msgstr "Paikat"
-
-#: templates/static_pages/prop_file.html:384
-#, fuzzy
-msgid "Period Label"
-msgstr "Paikat"
-
-#: templates/static_pages/prop_file.html:385
-#, fuzzy
-msgid "Period Begin"
-msgstr "Paikat"
-
-#: templates/static_pages/prop_file.html:386
-#, fuzzy
-msgid "Period End"
-msgstr "Paikat"
-
-#: templates/static_pages/prop_file.html:387
-#, fuzzy
-msgid "Period Broader Term"
-msgstr "Paikat"
-
-#: templates/static_pages/prop_file.html:388
-#, fuzzy
-msgid "Period Broader Label"
-msgstr "Paikat"
-
-#: templates/static_pages/prop_file.html:389
-#, fuzzy
-msgid "Concept Term"
-msgstr "Paikat"
-
-#: templates/static_pages/prop_file.html:390
-#, fuzzy
-msgid "Concept Label"
-msgstr "Paikat"
-
-#: templates/static_pages/prop_file.html:391
-#, fuzzy
-msgid "Concept Broader Term"
-msgstr "Paikat"
-
-#: templates/static_pages/prop_file.html:392
-#, fuzzy
-msgid "Concept Broader Label"
-msgstr "Paikat"
-
-#: templates/static_pages/prop_file.html:393
-#, fuzzy
-msgid "Agent Term"
-msgstr "Paikat"
-
-#: templates/static_pages/prop_file.html:394
-#, fuzzy
-msgid "Agent Label"
-msgstr "Paikat"
-
-#: templates/static_pages/prop_file.html:399
-#: templates/static_pages/prop_file.html:410
-#: templates/static_pages/prop_file.html:421
-#: templates/static_pages/prop_file.html:431
-#: templates/static_pages/prop_file.html:441
-#: templates/static_pages/prop_file.html:451
-#: templates/static_pages/prop_file.html:460
-#: templates/static_pages/prop_file.html:471
-#: templates/static_pages/prop_file.html:482
-msgid "Featured item"
-msgstr "Esiteltävänä oleva kohde"
-
-#: templates/static_pages/prop_file.html:403
-msgid ""
-"Vase with flowers placed on a table in a range of Red-purple, with many grey "
-"accents, deriving from them. Figurative drawing with touches of green, grey "
-"and white background, divided after the white section. The bottom in Golden "
-"ocher, with shadows of blue."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:414
-msgid ""
-"The Ilse Valley, showing the Dr&uuml;beck Abbey Church and the Ilsenburger "
-"Castle. For this painting a stratagem was used, because in reality both "
-"buildings are further apart."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:425
-msgid ""
-"Eadweard James Muybridge was an English photographer important for his "
-"pioneering work in photographic studies of motion and in motion-picture "
-"projection."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:435
-msgid ""
-"The female personification of Europa sits on a horse in a library. In her "
-"hands a sceptre and a cornucopia. She is joined by putti with attributes "
-"that symbolize the Arts and Sciences. In the background are two men in a "
-"workshop."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:445
-msgid ""
-"Floral composition range of Pinks, yellows and greys greys of red. To "
-"highlight crop floral on blue-yellow background. Balanced color of hot and "
-"cold, the flowers in warm colors-background in cool colors. The entire color "
-"Iriz&#259;ri; flowers."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:455
-msgid ""
-"Items of interest in learning depicted with their names. Etching. The card "
-"shows different objects from a Decanter &amp; Tea Chest to a Ladies Toilet."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:464
-msgid ""
-"Toppop is the first weekly program about pop music on the Dutch television. "
-"Notable artists come to the studio - often with bizarre props and sets - to "
-"playback their newest hit. Broadcast on 18 February 1974 by Dutch public "
-"broadcaster AVRO"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:475
-msgid ""
-"Three staff members of the Phoenix brewery at a truck of the company. The "
-"location is not clear. From left to right: J.H. v.d. Berg, m. Dale and j. "
-"Vasquez."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:486
-msgid ""
-"Milk. The natural pick-me-up. This image was used in 1994, during a campaign "
-"for drinking milk in Switzerland. It was created by Advico Young and Rubicam "
-"advertising agency (D&uuml;bendorf) for the Central Association of Swiss "
-"Milk Producers"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:493
-#: templates/static_pages/prop_file.html:496
-#, fuzzy
-msgid "Europe's culture - collected for you."
-msgstr "Euroopan kulttuuri - sinulle kerättynä."
-
-#: templates/static_pages/prop_file.html:497
-msgid ""
-"Explore more than 30 million items from a range of Europe's leading "
-"galleries, libraries, archives and museums."
-msgstr ""
-"Selaa yli 30 miljoonaa aineistotietoa Euroopan tärkeimmistä gallerioista, "
-"kirjastoista, arkistoista ja museoista."
-
-#: templates/static_pages/prop_file.html:498
-#, fuzzy
-msgid "Learn more"
-msgstr "Lisää"
-
-#: templates/static_pages/prop_file.html:501
-#: templates/static_pages/prop_file.html:510
-#, fuzzy
-msgid "New &amp; Improved - Europeana 1914-1918"
-msgstr "Europeana - Usein kysyttyä"
-
-#: templates/static_pages/prop_file.html:511
-msgid ""
-"Take a look at the new and improved Europeana 1914-1918 website and browse "
-"the most important pan-European collection of original First World War "
-"source material."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:512
-msgid "Browse website"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:525
-#: templates/static_pages/prop_file.html:526
-#: templates/static_pages/sitemap.html:97
-#, fuzzy
-msgid "Terms of Use &amp; Policies"
-msgstr "Käyttöehdot"
-
-#: templates/static_pages/prop_file.html:533
-#: templates/static_pages/prop_file.html:534
-msgid "Language Policy"
-msgstr "Kielipolitiikka"
-
-#: templates/static_pages/prop_file.html:537
-#: templates/static_pages/prop_file.html:538
-#: templates/static_pages/sitemap.html:126
-msgid "Contact"
-msgstr "Yhteystiedot"
-
-#: templates/static_pages/prop_file.html:541
-#: templates/static_pages/prop_file.html:542
-#: templates/static_pages/prop_file.html:952
-#: templates/static_pages/prop_file.html:953
-#: templates/static_pages/sitemap.html:11
-msgid "Home"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:593
-#: templates/static_pages/sitemap.html:31
-#: templates/static_pages/usingeuropeana_searchwidget.html:9
-msgid "How to configure your search widget"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:594
-#, fuzzy
-msgid "How to configure your search widhet"
-msgstr "Mukauta hakuvimpaimesi"
-
-#: templates/static_pages/prop_file.html:605
-#: templates/static_pages/prop_file.html:606
-msgid "Press Room"
-msgstr "Mediahuone"
-
-#: templates/static_pages/prop_file.html:637
-#: templates/static_pages/prop_file.html:638
-msgid "Pinterest"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:645
-#: templates/static_pages/prop_file.html:646
-#: templates/static_pages/prop_file.html:651
-#, fuzzy
-msgid "Explore Europe's cultural collections"
-msgstr "Euroopan kulttuuri - sinulle kerättynä."
-
-#: templates/static_pages/prop_file.html:649
-#: templates/static_pages/prop_file.html:650
-msgid "Access professional knowledge"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:652
-msgid "Social media activities"
-msgstr "Sosiaalisen median toiminnot"
-
-#: templates/static_pages/prop_file.html:653
-msgid "From the blog"
-msgstr "Blogi"
-
-#: templates/static_pages/prop_file.html:654
-msgid "Filter your search"
-msgstr "Rajaa hakuasi"
-
-#: templates/static_pages/prop_file.html:655
-msgid "Grid view"
-msgstr "Ruudukkonäkymä"
-
-#: templates/static_pages/prop_file.html:656
-#, fuzzy
-msgid ""
-"We apologize; there was a problem retrieving the search results from the "
-"server. Please try again later"
-msgstr ""
-"Pahoittelut; tietojen hakeminen palvelimelta epäonnistui. Ole hyvä ja yritä "
-"myöhemmin uudelleen."
-
-#: templates/static_pages/prop_file.html:657
-#, fuzzy
-msgid "Similar items"
-msgstr "Samankaltaista sisältöä"
-
-#: templates/static_pages/prop_file.html:658
-msgid "Loading ..."
-msgstr "Lataa..."
-
-#: templates/static_pages/prop_file.html:659
-#: templates/static_pages/usingeuropeana_results.html:42
-msgid "Translate details"
-msgstr "Käännä kohteen tiedot"
-
-#: templates/static_pages/prop_file.html:660
-msgid "Return to search results"
-msgstr "Palaa hakutuloksiin"
-
-#: templates/static_pages/prop_file.html:661
-#, fuzzy
-msgid "Next search result"
-msgstr "Palaa hakutuloksiin"
-
-#: templates/static_pages/prop_file.html:662
-msgid "Something went wrong!"
-msgstr "Jotain meni pieleen!"
-
-#: templates/static_pages/prop_file.html:663
-msgid "An email has been sent to inform our technical staff"
-msgstr "Tekniselle henkilökunnallemme on lähetetty ilmoitus sähköpostitse."
-
-#: templates/static_pages/prop_file.html:664
-msgid "Please try another search"
-msgstr "Ole hyvä ja koita toista hakua"
-
-#: templates/static_pages/prop_file.html:665
-msgid "Saved search removed successfully"
-msgstr "Tallennettu haku poistettu onnistuneesti"
-
-#: templates/static_pages/prop_file.html:666
-#: templates/static_pages/prop_file.html:679
-msgid "Saved item removed successfully"
-msgstr "Tallennettu kohde poistettu onnistuneesti"
-
-#: templates/static_pages/prop_file.html:667
-msgid "Saved tag removed successfully"
-msgstr "Tallennettu tagi poistettu onnistuneesti"
-
-#: templates/static_pages/prop_file.html:668
-msgid "An error occurred"
-msgstr "Tapahtui virhe"
-
-#: templates/static_pages/prop_file.html:669
-msgid "The item could not be removed"
-msgstr "Kohdetta ei voitu poistaa"
-
-#: templates/static_pages/prop_file.html:670
-msgid "Auto-generated tags"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:671
-#, fuzzy
-msgid "Request"
-msgstr "vaatii"
-
-#: templates/static_pages/prop_file.html:672
-#: templates/static_pages/prop_file.html:675
-msgid "Legend"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:673
-msgid "See less"
-msgstr "Vähemmän"
-
-#: templates/static_pages/prop_file.html:674
-msgid "See more"
-msgstr "Lisää"
-
-#: templates/static_pages/prop_file.html:676
-msgid "Explore further"
-msgstr "Tutki lisää"
-
-#: templates/static_pages/prop_file.html:677
-msgid "Return to original language"
-msgstr "Palaa alkuperäiseen kieleen"
-
-#: templates/static_pages/prop_file.html:678
-msgid "Attention: this item has been withdrawn by the provider."
-msgstr "Huomio: sisällöntarjoaja on poistanut tämän kohteen."
-
-#: templates/static_pages/prop_file.html:680
-msgid ""
-"We apologise; there was a problem retrieving the data from the server. "
-"Please try again later."
-msgstr ""
-"Pahoittelut; tietojen hakeminen palvelimelta epäonnistui. Ole hyvä ja yritä "
-"myöhemmin uudelleen."
-
-#: templates/static_pages/prop_file.html:681
-msgid "Preview"
-msgstr "Esikatselu"
-
-#: templates/static_pages/prop_file.html:682
-msgid "Return to timeline"
-msgstr "Palaa aikajanalle"
-
-#: templates/static_pages/prop_file.html:683
-msgid "This email address does not yet exist in our database"
-msgstr "Tätä sähköpostiosoitetta ei ole vielä tietokannassa"
-
-#: templates/static_pages/prop_file.html:684
-msgid "Your password change has been successfully completed"
-msgstr "Salasanasi vaihto onnistui"
-
-#: templates/static_pages/prop_file.html:685
-msgid "Zoom"
-msgstr "Zoomaa"
-
-#: templates/static_pages/prop_file.html:686
-msgid "Zoom in"
-msgstr "Zoomaa lähemmäs"
-
-#: templates/static_pages/prop_file.html:687
-msgid "Zoom out"
-msgstr "Zoomaa kauemmas"
-
-#: templates/static_pages/prop_file.html:688
-msgid "Choose from different map types"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:689
-msgid ""
-"Navigate map: click and hold left mouse-button, then move mouse to change "
-"the view"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:690
-msgid ""
-"Select via freeform: add anchor points with left mouse-click, double click "
-"to finish the shape"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:691
-msgid "Google Satellite"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:692
-msgid "Google Hybrid"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:693
-msgid "Google Street"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:694
-msgid "Google Physical"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:696
-msgid "Tiles courtesy of"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:697
-msgid ""
-"This is your personal space on Europeana. With My Europeana, you can save "
-"your favourite items and searches, and add tags."
-msgstr ""
-"Tämä on oma henkilökohtainen tilasi Europeanassa. Minun Europeanani avulla "
-"voit tallentaa kohteita ja hakuja sekä lisätä tageja."
-
-#: templates/static_pages/prop_file.html:698
-#: templates/static_pages/usingeuropeana_results.html:19
-msgid "3D"
-msgstr "3D"
-
-#: templates/static_pages/prop_file.html:699
-msgid "Download"
-msgstr "Lataa"
-
-#: templates/static_pages/prop_file.html:700
-#, fuzzy
-msgid "User contributed content"
-msgstr "Liittyvää sisältöä"
-
-#: templates/static_pages/prop_file.html:701
-msgid "Play"
-msgstr "Soita"
-
-#: templates/static_pages/prop_file.html:702
-msgid "Read"
-msgstr "Lue"
-
-#: templates/static_pages/prop_file.html:703
-#: templates/static_pages/usingeuropeana_results.html:34
-msgid "View"
-msgstr "Näytä"
-
-#: templates/static_pages/prop_file.html:704
-msgid "View larger image"
-msgstr "Näytä suurempi kuva"
-
-#: templates/static_pages/prop_file.html:705
-msgid "Your search result contains no items that have map co-ordinates."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:706
-#, fuzzy
-msgid "Please try another search."
-msgstr "Ole hyvä ja koita toista hakua"
-
-#: templates/static_pages/prop_file.html:707
-msgid ""
-"The Europeana map search is still in development and currently doesn't work "
-"in Internet Explorer. We aim to support Internet Explorer in the future. "
-"Currently we recommend you to use Chrome or Firefox."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:711
-#, fuzzy
-msgid "Wikipedia Citation"
-msgstr "Sitaatti"
-
-#: templates/static_pages/prop_file.html:712
-msgid "Copy and paste the wiki-markup below:"
-msgstr "Kopio ja liitä alla oleva wiki-markup:"
-
-#: templates/static_pages/prop_file.html:719
-#: templates/static_pages/usingeuropeana_search.html:67
-msgid "Include content contributed by users"
-msgstr "Sisällytä käyttäjien tuottama sisältö"
-
-#: templates/static_pages/prop_file.html:720
-#, fuzzy
-msgid "The map only shows up to 1000 items relevant to your query."
-msgstr "Aikajana näyttää korkeintaan 1000 hakuusi liittyvää kohdetta."
-
-#: templates/static_pages/prop_file.html:721
-msgid "No place name available"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:722
-#, fuzzy
-msgid "The map only shows up to {0} items relevant to your query."
-msgstr "Aikajana näyttää korkeintaan 1000 hakuusi liittyvää kohdetta."
-
-#: templates/static_pages/prop_file.html:723
-msgid "Search within current map view"
-msgstr "Etsi nykyisestä karttanäkymästä"
-
-#: templates/static_pages/prop_file.html:724
-#: templates/static_pages/usingeuropeana_results.html:41
-msgid "Citation"
-msgstr "Sitaatti"
-
-#: templates/static_pages/prop_file.html:725
-#: templates/static_pages/usingeuropeana_results.html:41
-msgid "Footnote"
-msgstr "Alaviite"
-
-#: templates/static_pages/prop_file.html:726
-#, fuzzy
-msgid "Follow us on"
-msgstr "Seuraa meitä!"
-
-#: templates/static_pages/prop_file.html:727
-msgid "Unable to find content for this page."
-msgstr "Tälle sivulle ei löytynyt sisältöä."
-
-#: templates/static_pages/prop_file.html:730
-msgid "Latest on"
-msgstr "Uusimmat lisäykset palveluun"
-
-#: templates/static_pages/prop_file.html:731
-#: templates/static_pages/prop_file.html:972
-#: templates/static_pages/usingeuropeana_search.html:69
-msgid "Share"
-msgstr "Jaa"
-
-#: templates/static_pages/prop_file.html:732
-msgid "Share item on Facebook, Twitter, etc."
-msgstr "Jaa Facebookissa, Twitterissä jne."
-
-#: templates/static_pages/prop_file.html:733
-msgid "Follow us!"
-msgstr "Seuraa meitä!"
-
-#: templates/static_pages/prop_file.html:734
-msgid "Newsletter sign-up"
-msgstr "Tilaa uutiskirje"
-
-#: templates/static_pages/prop_file.html:735
-#: templates/static_pages/prop_file.html:736
-msgid "Sign-up here"
-msgstr "Tilaa"
-
-#: templates/static_pages/prop_file.html:737
-#: templates/static_pages/prop_file.html:993
-msgid "Name"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:738
-#, fuzzy
-msgid "Email Address"
-msgstr "Sähköpostiosoite"
-
-#: templates/static_pages/prop_file.html:739
-msgid ""
-"Sign-up to receive our bi-monthly newsletter, and occasional announcements."
-msgstr "Tilaa kahdesti kuukaudessa ilmestyvä uutiskirjeemme ja muita uutisia."
-
-#: templates/static_pages/prop_file.html:750
-#: templates/static_pages/prop_file.html:761
-#: templates/static_pages/prop_file.html:772
-#: templates/static_pages/prop_file.html:782
-#: templates/static_pages/prop_file.html:793
-#, fuzzy
-msgid "Featured partner"
-msgstr "Esiteltävänä oleva kohde"
-
-#: templates/static_pages/prop_file.html:754
-msgid ""
-"Ateneum Art Museum is home to the largest and most important art collections "
-"in Finland. The museum governs over 20,000 works of art. The most "
-"significant of these is the Antell Collection, a testamentary donation by "
-"the collector H. F. Antell."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:765
-msgid ""
-"The National Gallery of Ireland houses the Irish national collection of "
-"Irish and European art. It is located in the centre of Dublin with one "
-"entrance on Merrion Square, beside Leinster House, and another on Clare "
-"Street. Due to ongoing renovations, the Clare Street entrance is the only "
-"one currently open. It was founded in 1854 and opened its doors ten years "
-"later. The Gallery has an extensive, representative collection of Irish "
-"painting and is also notable for its Italian Baroque and Dutch masters "
-"painting."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:776
-msgid ""
-"One of the oldest and the best museums of the Upper Volga Region, was "
-"founded in 1910. Now the museum houses more than 120 thousand exhibits: from "
-"saurian bones to paintings of famous artists."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:786
-msgid ""
-"Since its founding in 1952 the Hungarian Theatre Museum and Institute has "
-"been collecting the most valuable relics and data of the Hungarian theatre, "
-"bridging the distant beginnings centuries ago with-last night's "
-"performances. A dozen and a half of separate collections enclose the "
-"invaluable traces of the artform most susceptible to evanescence: paintings, "
-"photographs, stage and costume designs, posters, props, video recordings—and "
-"many more..."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:797
-msgid ""
-"Archive Eemland is the historical information centre of Amersfoort and the "
-"Eemland region. The archive manages approximately 3.5 kilometers of "
-"archives, an image collection of 40,000 photographs, a significant "
-"collection of maps, a growing audiovisual collection and a rich historical "
-"library."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:804
-#, fuzzy
-msgid "API function"
-msgstr "Muut toiminnot"
-
-#: templates/static_pages/prop_file.html:805
-#, fuzzy
-msgid "Search parameters"
-msgstr "Hakuoperaattori"
-
-#: templates/static_pages/prop_file.html:806
-#, fuzzy
-msgid "Search term"
-msgstr "Hakusana(t)"
-
-#: templates/static_pages/prop_file.html:807
-msgid "Refinement term(s)"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:808
-#, fuzzy
-msgid "Profile"
-msgstr "Europeana - ilmoittaudu medialistalle"
-
-#: templates/static_pages/prop_file.html:809
-msgid "Number of records to retrieve"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:810
-msgid "First record to retrieve"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:811
-#, fuzzy
-msgid "Record parameters"
-msgstr "Hakuoperaattori"
-
-#: templates/static_pages/prop_file.html:812
-msgid "Record id"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:813
-#, fuzzy
-msgid "Request URL"
-msgstr "vaatii"
-
-#: templates/static_pages/prop_file.html:814
-msgid "JSON response"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:816
-#, fuzzy
-msgid "Search also for:"
-msgstr "Etsi myös"
-
-#: templates/static_pages/prop_file.html:818
-msgid "Who"
-msgstr "Kuka (who)"
-
-#: templates/static_pages/prop_file.html:819
-msgid "What"
-msgstr "Mitä (what)"
-
-#: templates/static_pages/prop_file.html:821
-msgid "api-introduction.html"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:824
-#: templates/static_pages/prop_file.html:828
-#: templates/static_pages/prop_file.html:832
-#: templates/static_pages/prop_file.html:836
-msgid "_self"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:825
-msgid "rights/terms-and-policies.html"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:826
-#: templates/static_pages/prop_file.html:827
-#, fuzzy
-msgid "Terms of use &amp; Policies"
-msgstr "Käyttöehdot"
-
-#: templates/static_pages/prop_file.html:829
-#, fuzzy
-msgid "contact.html"
-msgstr "Yhteystiedot"
-
-#: templates/static_pages/prop_file.html:833
-#, fuzzy
-msgid "sitemap.html"
-msgstr "Sivukartta"
-
-#: templates/static_pages/prop_file.html:838
-#: templates/static_pages/usingeuropeana_myeuropeana.html:17
-msgid "API keys"
-msgstr "API-avaimet"
-
-#: templates/static_pages/prop_file.html:839
-#, fuzzy
-msgid "No API key"
-msgstr "API-avaimet"
-
-#: templates/static_pages/prop_file.html:840
-#, fuzzy
-msgid "API key"
-msgstr "API-avaimet"
-
-#: templates/static_pages/prop_file.html:841
-#, fuzzy
-msgid "Private key"
-msgstr "Yksityisyys"
-
-#: templates/static_pages/prop_file.html:842
-msgid "Usage limit"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:843
-msgid "Role"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:844
-msgid "Administrator's page"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:845
-#, fuzzy
-msgid "Remove API key"
-msgstr "API-avaimet"
-
-#: templates/static_pages/prop_file.html:846
-msgid "Limit"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:847
-#, fuzzy
-msgid "Remove user"
-msgstr "Poista"
-
-#: templates/static_pages/prop_file.html:848
-msgid "Block user"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:849
-msgid "Export API keys to CSV"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:850
-msgid "Export users to CSV"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:851
-#, fuzzy
-msgid "User name"
-msgstr "Käyttäjätunnus"
-
-#: templates/static_pages/prop_file.html:852
-#, fuzzy
-msgid "Registration"
-msgstr "Rekisteröidy uudestaan"
-
-#: templates/static_pages/prop_file.html:854
-msgid "Visit the website of"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:855
-msgid "View the latest content from our partners"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:859
-#: templates/static_pages/prop_file.html:860
 #: templates/static_pages/sitemap.html:15
 msgid "Other Europeana Sites"
 msgstr "Muut Europeana-sivustot"
 
-#: templates/static_pages/prop_file.html:863
-#, fuzzy
-msgid "Europeana Exhibitions"
-msgstr "Europeana - viittaus"
-
-#: templates/static_pages/prop_file.html:871
 #: templates/static_pages/sitemap.html:19
 #, fuzzy
 msgid "Europeana 1914-1918"
 msgstr "Europeana - Usein kysyttyä"
 
-#: templates/static_pages/prop_file.html:876
-msgid "Remix"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:879
 #: templates/static_pages/sitemap.html:21
 #, fuzzy
 msgid "Europeana Professional"
 msgstr "Europeana - ilmoittaudu medialistalle"
 
-#: templates/static_pages/prop_file.html:880
-#, fuzzy
-msgid "Professional"
-msgstr "Europeana - ilmoittaudu medialistalle"
-
-#: templates/static_pages/prop_file.html:940
-msgid "Change limit for an API key"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:941
-msgid "Company or Institution"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:942
-msgid "Telephone contact"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:943
-#, fuzzy
-msgid "Address"
-msgstr "Sähköpostiosoite"
-
-#: templates/static_pages/prop_file.html:944
-msgid "I confirm that I have read and agree to the"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:945
-msgid "Next in sequence"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:946
-#, fuzzy
-msgid "Date of creation"
-msgstr "Tietosuoja"
-
-#: templates/static_pages/prop_file.html:947
-#, fuzzy
-msgid "Is part of"
-msgstr "on osa"
-
-#: templates/static_pages/prop_file.html:958
-msgid "Titles"
-msgstr "Teoksen nimi"
-
-#: templates/static_pages/prop_file.html:959
-msgid "Places"
-msgstr "Paikat"
-
-#: templates/static_pages/prop_file.html:960
-msgid "Dates/Periods"
-msgstr "Päivämäärät ja ajanjaksot"
-
-#: templates/static_pages/prop_file.html:961
-msgid "Subjects"
-msgstr "Aiheet"
-
-#: templates/static_pages/prop_file.html:962
-msgid "Creators"
-msgstr "Tekijät"
-
-#: templates/static_pages/prop_file.html:963
-msgid "All fields"
-msgstr "Kaikki kentät"
-
-#: templates/static_pages/prop_file.html:964
-#, fuzzy
-msgid "Featured Item"
-msgstr "Esiteltävänä oleva kohde"
-
-#: templates/static_pages/prop_file.html:965
-#: templates/static_pages/usingeuropeana_explore.html:15
-msgid "Featured Partner"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:966
-#, fuzzy
-msgid "Click here for last page of results"
-msgstr "Seuraavan sivun tulokset saat näkyviin klikkaamalla tästä"
-
-#: templates/static_pages/prop_file.html:967
-#: templates/static_pages/usingeuropeana_results.html:24
-msgid "Results per page"
-msgstr "Hakutuloksia sivulla"
-
-#: templates/static_pages/prop_file.html:968
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid "Add more keywords"
-msgstr "Lisää hakusanoja"
-
-#: templates/static_pages/prop_file.html:969
-msgid "+ Add"
-msgstr "+ Lisää"
-
-#: templates/static_pages/prop_file.html:970
-msgid "Field of work"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:971
-msgid "Please, select"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:973
-#, fuzzy
-msgid "Please try another search later."
-msgstr "Ole hyvä ja koita toista hakua"
-
-#: templates/static_pages/prop_file.html:974
-#, fuzzy
-msgid "Unable to find the requested page"
-msgstr "Tälle sivulle ei löytynyt sisältöä."
-
-#: templates/static_pages/prop_file.html:975
-msgid "Alert:"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:976
-#, fuzzy
-msgid "Unable to find the requested Europeana Record."
-msgstr "Tälle sivulle ei löytynyt sisältöä."
-
-#: templates/static_pages/prop_file.html:977
-#, fuzzy
-msgid "This item has been withdrawn by the provider."
-msgstr "Huomio: sisällöntarjoaja on poistanut tämän kohteen."
-
-#: templates/static_pages/prop_file.html:978
-msgid "Requested Europeana Record is not yet indexed."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:980
-#, fuzzy
-msgid "Please register your email again"
-msgstr "Lisää voimassa oleva sähköpostiosoite"
-
-#: templates/static_pages/prop_file.html:981
-#, fuzzy
-msgid "to finish registration."
-msgstr "Hyväksy rekisteröityminen"
-
-#: templates/static_pages/prop_file.html:982
-msgid "Unable to fullfill your request due to malformed query parameters."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:983
-msgid "Unable to get a response from the Search Engine."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:984
-msgid "Unable to fulfill your request due to a malformed query syntax."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:985
-msgid "We are unable to change the interface to the requested language."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:986
-#, fuzzy
-msgid "Please try another language from the dropdown list."
-msgstr "Ole hyvä ja koita toista hakua"
-
-#: templates/static_pages/prop_file.html:987
-msgid "Number of results shown on the page"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:994
-msgid "API-key"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:995
-msgid "Number of calls"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:997
-#: templates/static_pages/prop_file.html:998
-msgid "Can I use it?"
-msgstr "Voiko aineistoa käyttää?"
-
-#: templates/static_pages/prop_file.html:999
-msgid "Yes, with attribution"
-msgstr "Kyllä, jos mainitset tekijän"
-
-#: templates/static_pages/prop_file.html:1000
-msgid "Yes, with restrictions"
-msgstr "Kyllä, rajoitetusti"
-
-#: templates/static_pages/prop_file.html:1001
-msgid "Only with permission"
-msgstr "Vain luvalla"
-
-#: templates/static_pages/prop_file.html:1003
-msgid "Export API users to CSV"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:1004
-msgid "Export API users to Excel"
-msgstr ""
-
-#: templates/static_pages/sitemap.html:4
-msgid "Europeana - Sitemap"
-msgstr "Europeana - Sivukartta"
-
 #: templates/static_pages/sitemap.html:27
 msgid "Searching in Europeana"
 msgstr "Hakeminen Europeanassa"
+
+#: templates/static_pages/sitemap.html:31
+#: templates/static_pages/usingeuropeana_searchwidget.html:9
+msgid "How to configure your search widget"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:36
+msgid "About us"
+msgstr "Tietoa meistä"
 
 #: templates/static_pages/sitemap.html:39
 msgid "All Providers"
@@ -4411,6 +1712,14 @@ msgstr "API-avaimet"
 msgid "Record"
 msgstr ""
 
+#: templates/static_pages/sitemap.html:65
+#: templates/static_pages/usingeuropeana_search.html:21
+#: templates/static_pages/usingeuropeana_search.html:25
+#: templates/static_pages/usingeuropeana_search.html:27
+#: templates/static_pages/usingeuropeana_search.html:45
+msgid "Search"
+msgstr "Haku"
+
 #: templates/static_pages/sitemap.html:66
 #, fuzzy
 msgid "Suggestions"
@@ -4438,9 +1747,22 @@ msgstr "Europeana - Apua"
 msgid "API1-API2 compatability"
 msgstr ""
 
+#: templates/static_pages/sitemap.html:97
+#, fuzzy
+msgid "Terms of Use &amp; Policies"
+msgstr "Käyttöehdot"
+
 #: templates/static_pages/sitemap.html:104
 msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
 msgstr ""
+
+#: templates/static_pages/sitemap.html:107
+msgid "Language policy"
+msgstr "Kielipolitiikka"
+
+#: templates/static_pages/sitemap.html:113
+msgid "Rights"
+msgstr "oikeudet"
 
 #: templates/static_pages/sitemap.html:115
 #, fuzzy
@@ -4474,6 +1796,10 @@ msgstr ""
 msgid "Out of copyright - non commercial reuse"
 msgstr ""
 
+#: templates/static_pages/sitemap.html:126
+msgid "Contact"
+msgstr "Yhteystiedot"
+
 #: templates/static_pages/sitemap.html:127
 #, fuzzy
 msgid "Europeana Semantic Elements (ESE)"
@@ -4487,6 +1813,10 @@ msgstr "Europeanan kuvailutietojen"
 #: templates/static_pages/storyline.html:4
 msgid "Europeana - Storyline and credits"
 msgstr "Europeana - Juoni ja tekijätiedot"
+
+#: templates/static_pages/storyline.html:11
+msgid "Storyline and credits"
+msgstr "Juoni ja tekijätiedot"
 
 #: templates/static_pages/storyline.html:13
 msgid "Descartes"
@@ -4923,6 +2253,16 @@ msgstr ""
 "Kiitämme Cité de la Musiquea, että saimme käyttää sävellystä videon "
 "soundtrackin pohjana. "
 
+#: templates/static_pages/storyline.html:49
+#: templates/static_pages/usingeuropeana_search.html:32
+msgid "Title"
+msgstr "Nimeke"
+
+#: templates/static_pages/storyline.html:50
+#: templates/static_pages/usingeuropeana_search.html:31
+msgid "Creator"
+msgstr "Tekijä"
+
 #: templates/static_pages/storyline.html:51
 msgid "Collection"
 msgstr "Kokoelma"
@@ -5063,6 +2403,10 @@ msgid "in the"
 msgstr ","
 
 #: templates/static_pages/usingeuropeana_explore.html:15
+msgid "Featured Partner"
+msgstr ""
+
+#: templates/static_pages/usingeuropeana_explore.html:15
 msgid "area"
 msgstr ""
 
@@ -5083,12 +2427,20 @@ msgid "and you can"
 msgstr "ja voit"
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:14
+msgid "Save this search"
+msgstr "Tallenna tämä haku"
+
+#: templates/static_pages/usingeuropeana_myeuropeana.html:14
 msgid ""
 "Keep up to date on a particular topic in Europeana by saving a search, so "
 "you can easily perform it again in future."
 msgstr ""
 "voit myöhemmin hakea uutta sisältöä Europeanasta samoilla hakuehdoilla, kun "
 "tallennat haun."
+
+#: templates/static_pages/usingeuropeana_myeuropeana.html:15
+msgid "Add a tag"
+msgstr "Lisää tagi"
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:15
 msgid ""
@@ -5100,8 +2452,16 @@ msgstr ""
 "perusteella Minun Europeanani -käyttöliittymässä."
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:16
+msgid "Save to My Europeana"
+msgstr "Tallenna minun Europeanaani"
+
+#: templates/static_pages/usingeuropeana_myeuropeana.html:16
 msgid "Store your favourite items for later viewing."
 msgstr "Voit tallentaa haluamasi kohteet myöhempää tarkastelua varten."
+
+#: templates/static_pages/usingeuropeana_myeuropeana.html:17
+msgid "API keys"
+msgstr "API-avaimet"
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:17
 msgid ""
@@ -5162,8 +2522,16 @@ msgstr ""
 "graafiikat, kaavat ja nuotit."
 
 #: templates/static_pages/usingeuropeana_results.html:17
+msgid "Video"
+msgstr "Video"
+
+#: templates/static_pages/usingeuropeana_results.html:17
 msgid "films, news broadcasts and television programmes"
 msgstr "elokuvat, uutislähetykset ja televisio-ohjelmat"
+
+#: templates/static_pages/usingeuropeana_results.html:18
+msgid "Sound"
+msgstr "Ääni"
 
 #: templates/static_pages/usingeuropeana_results.html:18
 msgid ""
@@ -5171,6 +2539,10 @@ msgid ""
 msgstr ""
 "musiikkia ja puhetta fonografisylintereiltä, ääninauhoilta, levyiltä ja "
 "radiolähetyksistä"
+
+#: templates/static_pages/usingeuropeana_results.html:19
+msgid "3D"
+msgstr "3D"
 
 #: templates/static_pages/usingeuropeana_results.html:19
 msgid "virtual 3D representations of objects, architecture or places."
@@ -5199,8 +2571,20 @@ msgstr ""
 "per sivu näytetään"
 
 #: templates/static_pages/usingeuropeana_results.html:24
+msgid "Results per page"
+msgstr "Hakutuloksia sivulla"
+
+#: templates/static_pages/usingeuropeana_results.html:24
 msgid "drop-down list either above or below the results. You can select"
 msgstr "-alasvetovalikosta hakutulosten ala- ja yläpuolella. Voit valita"
+
+#: templates/static_pages/usingeuropeana_results.html:24
+#: templates/static_pages/usingeuropeana_results.html:25
+#: templates/static_pages/usingeuropeana_results.html:41
+#: templates/static_pages/usingeuropeana_results.html:49
+#: templates/static_pages/usingeuropeana_search.html:32
+msgid "or"
+msgstr "tai"
 
 #: templates/static_pages/usingeuropeana_results.html:25
 msgid ""
@@ -5255,6 +2639,10 @@ msgstr "Pienoiskuva/esikatselu"
 #: templates/static_pages/usingeuropeana_results.html:34
 msgid "hit the magnifying glass"
 msgstr "klikkaa"
+
+#: templates/static_pages/usingeuropeana_results.html:34
+msgid "View"
+msgstr "Näytä"
 
 #: templates/static_pages/usingeuropeana_results.html:34
 msgid ""
@@ -5325,6 +2713,10 @@ msgstr ""
 "Valitse haluamasi vaihtoehto."
 
 #: templates/static_pages/usingeuropeana_results.html:41
+msgid "Cite on Wikipedia"
+msgstr "Siteeraa Wikipediassa"
+
+#: templates/static_pages/usingeuropeana_results.html:41
 msgid ""
 "this function will help you link to Europeana items and cite them in "
 "Wikipedia articles. The code you need is formatted for direct inclusion in "
@@ -5335,12 +2727,24 @@ msgstr ""
 "Wikipedian artikkelin muokkausta varten. Valitse"
 
 #: templates/static_pages/usingeuropeana_results.html:41
+msgid "Citation"
+msgstr "Sitaatti"
+
+#: templates/static_pages/usingeuropeana_results.html:41
+msgid "Footnote"
+msgstr "Alaviite"
+
+#: templates/static_pages/usingeuropeana_results.html:41
 msgid ""
 "and copy and paste the text provided. To close the citation window, hit the "
 "X in the top right corner."
 msgstr ""
 "ja kopioi ja liitä teksti. Sulje sitaatti-ikkuna klikkaamalla X-ikonia "
 "oikealla ylhäällä."
+
+#: templates/static_pages/usingeuropeana_results.html:42
+msgid "Translate details"
+msgstr "Käännä kohteen tiedot"
 
 #: templates/static_pages/usingeuropeana_results.html:42
 msgid ""
@@ -5374,6 +2778,14 @@ msgstr ""
 #: templates/static_pages/usingeuropeana_results.html:49
 msgid "To move to the previous or next item in your search results, hit the"
 msgstr "Siirtyäksesi edelliseen tai seuraavaan hakutulokseen klikkaa"
+
+#: templates/static_pages/usingeuropeana_results.html:49
+msgid "Next"
+msgstr "Seuraava"
+
+#: templates/static_pages/usingeuropeana_results.html:49
+msgid "Previous"
+msgstr "Edellinen"
 
 #: templates/static_pages/usingeuropeana_results.html:49
 msgid "options"
@@ -5539,6 +2951,10 @@ msgstr ""
 "tai hänestä ja hänen töistään kertovat dokumentit."
 
 #: templates/static_pages/usingeuropeana_search.html:32
+msgid "Subject"
+msgstr "Aihe"
+
+#: templates/static_pages/usingeuropeana_search.html:32
 msgid ""
 "followed by a type of item, a subject you are interested in or words from "
 "the title of the item you are looking for. Your search results will display "
@@ -5584,6 +3000,10 @@ msgstr ""
 "auttaa rajaamaan hakuasi kun etsit Milanossa luotuja tai siellä "
 "säilytettäviä teoksia - etkä kirjaililija Milan Kunderaa käsitteleviä "
 "aineistoja."
+
+#: templates/static_pages/usingeuropeana_search.html:34
+msgid "Date"
+msgstr "Ajankohta"
 
 #: templates/static_pages/usingeuropeana_search.html:34
 msgid ""
@@ -5685,8 +3105,16 @@ msgstr ""
 "lisäämällä rajaat tuloksia. Kirjoita hakusana "
 
 #: templates/static_pages/usingeuropeana_search.html:49
+msgid "Add more keywords"
+msgstr "Lisää hakusanoja"
+
+#: templates/static_pages/usingeuropeana_search.html:49
 msgid "field and hit"
 msgstr "-kenttään ja paina"
+
+#: templates/static_pages/usingeuropeana_search.html:49
+msgid "Add"
+msgstr "Lisää"
 
 #: templates/static_pages/usingeuropeana_search.html:49
 msgid "The keyword is displayed at the top of the pane, under"
@@ -5702,6 +3130,12 @@ msgstr ""
 "Jos haluat poistaa hakusanan, klikkaa X-ikonia kyseisen hakusanan vieressä"
 
 #: templates/static_pages/usingeuropeana_search.html:51
+#: templates/static_pages/usingeuropeana_search.html:63
+#: templates/static_pages/usingeuropeana_search.html:65
+msgid "Matches for"
+msgstr "Osumat haulle"
+
+#: templates/static_pages/usingeuropeana_search.html:51
 msgid "list."
 msgstr "-listalla."
 
@@ -5712,6 +3146,10 @@ msgstr "Voit myös"
 #: templates/static_pages/usingeuropeana_search.html:53
 msgid "filter your search results:"
 msgstr "suodattaa hakutuloksia:"
+
+#: templates/static_pages/usingeuropeana_search.html:55
+msgid "By media type"
+msgstr "Mediatyypin mukaan"
 
 #: templates/static_pages/usingeuropeana_search.html:55
 msgid ""
@@ -5753,6 +3191,10 @@ msgid ""
 msgstr ""
 "näyttää vain valitun maan aineistot. Maa tässä tarkoittaa sisällöntarjoajan "
 "maata."
+
+#: templates/static_pages/usingeuropeana_search.html:59
+msgid "By copyright"
+msgstr "Oikeuksien mukaan"
 
 #: templates/static_pages/usingeuropeana_search.html:59
 msgid ""
@@ -5797,6 +3239,10 @@ msgid "You can also select to"
 msgstr "Voit myös valita kohdan"
 
 #: templates/static_pages/usingeuropeana_search.html:67
+msgid "Include content contributed by users"
+msgstr "Sisällytä käyttäjien tuottama sisältö"
+
+#: templates/static_pages/usingeuropeana_search.html:67
 msgid ""
 "This means items that have not come from a cultural institution but from an "
 "individual user, for example, items contributed to the Europeana 1914-1918 "
@@ -5809,6 +3255,10 @@ msgstr ""
 #: templates/static_pages/usingeuropeana_search.html:69
 msgid "Share your search with friends by choosing"
 msgstr "Jaa hakusi sosiaalisessa mediassa valitsemalla"
+
+#: templates/static_pages/usingeuropeana_search.html:69
+msgid "Share"
+msgstr "Jaa"
 
 #: templates/static_pages/usingeuropeana_search.html:69
 msgid ""
@@ -5928,6 +3378,10 @@ msgid ""
 "word and 'Places' as a type. Tap 'Change' next to 'All Fields' and select "
 "the option you need."
 msgstr ""
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:30
+msgid "Providers"
+msgstr "Aineistontarjoajat"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:30
 msgid ""
@@ -6067,6 +3521,1565 @@ msgid ""
 "We would love to know how you are using this search widget, please tell us "
 "by dropping us an email at"
 msgstr ""
+
+#, fuzzy
+#~ msgid ""
+#~ "I understand that My Europeana gives me the opportunity to create tags "
+#~ "for any item I wish. I agree that I will not create any tags that could "
+#~ "be considered libelous, harmful, threatening, unlawful, defamatory,"
+#~ "infringing, abusive, inflammatory, harassing, pornographic, obscene, "
+#~ "fraudulent, invasive of privacy orpublicity rights, hateful, or racially, "
+#~ "ethnically or otherwise objectionable. By clicking this box I agreeto "
+#~ "abide by this agreement, and understand that if I don't my membership of "
+#~ "My Europeana will be terminated."
+#~ msgstr ""
+#~ "Ymmärrän, että \"Minun Europeanani\" antaa mahdollisuuden luoda "
+#~ "avainsanoja mistä tahansa aiheesta. Sitoudun siihen, että en luo tageja, "
+#~ "joita voi pitää herjaavina, vahingollisina, uhkaavina, lainvastaisina, "
+#~ "loukkaavina, solvaavina, yllyttävinä, häiritsevinä, pornografisina, "
+#~ "säädyttöminä, valheellisina, yksityisyyttä tai henkilön oikeuksia "
+#~ "loukkaavina, vihamielisinä tai rotuun tai etniseen alkuperään tai muuten "
+#~ "ei-toivottuina. Klikkaamalla tätä laatikkoa sitoudun tähän sopimukseen ja "
+#~ "ymmärrän, että jos en niin tee, niin jäsenyyteni \"Minun Europeanassani\" "
+#~ "lakkautetaan. KLIKKAA HYVÄKSYÄKSESI"
+
+#~ msgid "You must agree to our code of conduct to register for My Europeana"
+#~ msgstr ""
+#~ "Sinun on hyväksyttävä menettelyohjeemme rekisteröityäksesi ”Minun "
+#~ "Europeanaani”"
+
+#~ msgid "I agree"
+#~ msgstr "Hyväksyn"
+
+#~ msgid "Contributor"
+#~ msgstr "Osallistuja"
+
+#~ msgid "Contributors"
+#~ msgstr "Osallistujat"
+
+#~ msgid "Country"
+#~ msgstr "Maa"
+
+#~ msgid "Sector"
+#~ msgstr "Sektori"
+
+#~ msgid "Partner"
+#~ msgstr "Partneri"
+
+#~ msgid ""
+#~ "This is the network of partners who collaborated to make Europeana "
+#~ "happen, and who represent Europeana in their countries and professional "
+#~ "associations."
+#~ msgstr ""
+#~ "Tämä on Europeanan toteuttamiseksi yhteistyötä tehneiden ja maissaan sekä "
+#~ "organisaatioissaan Europeanaa edustavien kumppanien verkosto."
+
+#~ msgid ""
+#~ "These are the organisations that are contributing content - digitised "
+#~ "paintings, books, broadcasts etc. Some of these contributors are  "
+#~ "aggregators*, Culture.fr is the largest aggregator, providing content "
+#~ "from about 480 organisations in France, including the Louvre and the "
+#~ "Musée d’Orsay. The number of organisations contributing to an aggregator "
+#~ "is shown in brackets after the aggregator’s name, e.g. Videoactive (10)"
+#~ msgstr ""
+#~ "Nämä organisaatiot osallistuvat sisällön – digitoitujen maalausten, "
+#~ "kirjojen, radiolähetysten jne. – toimittamiseen. Osa organisaatioista on "
+#~ "aggregaattoreita*, Culture.fr on aggregaattoreista suurin toimittaessaan "
+#~ "sisältöä noin 480 organisaatiosta Ranskassa, näiden joukossa Louvre ja "
+#~ "Musée d’Orsay. Aggregaattorille sisältöä toimittavien organisaatioiden "
+#~ "määrä on merkitty sulkuihin aggregaattorin nimen jälkeen esim. "
+#~ "Videoactive (10)"
+
+#~ msgid ""
+#~ "*An aggregator collects material from a range of other contributors, "
+#~ "displays it on their own website and also channels it into Europeana."
+#~ msgstr ""
+#~ "*Aggregaattori kerää aineistoa useilta muilta osallistujatahoilta, "
+#~ "laittaa sen näkyviin omalle Internet-sivustolleen ja lisäksi kanavoi sen "
+#~ "Europeanaan."
+
+#~ msgid "This is a required field"
+#~ msgstr "Tämä on pakollinen kenttä"
+
+#~ msgid "Please enter a valid email address"
+#~ msgstr "Lisää voimassa oleva sähköpostiosoite"
+
+#~ msgid "Logged in as"
+#~ msgstr "Olet kirjautunut käyttäjänä"
+
+#~ msgid "Saved items"
+#~ msgstr "Tallennetut kohteet"
+
+#~ msgid "Saved searches"
+#~ msgstr "Tallennetut haut"
+
+#~ msgid "Saved tags"
+#~ msgstr "Tallennetut tagit"
+
+#~ msgid "Saved notifications"
+#~ msgstr "Tallennetut tagit"
+
+#~ msgid "Login"
+#~ msgstr "Kirjaudu sisään"
+
+#~ msgid "Log out"
+#~ msgstr "eivät"
+
+#~ msgid ""
+#~ "Thank you very much for your feedback. If your feedback requires a "
+#~ "response a member of the Europeana team will get back to you as soon as "
+#~ "possible. For faster response feedback should be submitted in English."
+#~ msgstr ""
+#~ "Kiitokset palautteestasi. Jos palautteesi edellyttää vastausta, Europeana-"
+#~ "tiimin jäsen ottaa sinuun yhteyttä mahdollisimman pian. Saadaksesi "
+#~ "vastauksen nopeammin jätä palautteesi englanniksi."
+
+#~ msgid "Keep me in touch with new developments to Europeana"
+#~ msgstr "Pidä minut ajan tasalla Europeanan kehityksestä"
+
+#~ msgid "User Conduct"
+#~ msgstr "Käyttäjämenettely"
+
+#~ msgid ""
+#~ "I understand that My Europeana gives me the opportunity to create tags "
+#~ "for any item I wish. I agree that I will not create any tags that could "
+#~ "be considered libelous, harmful, threatening, unlawful, defamatory, "
+#~ "infringing, abusive, inflammatory, harassing, pornographic, obscene, "
+#~ "fraudulent, invasive of privacy or publicity rights, hateful, or "
+#~ "racially, ethnically or otherwise objectionable. By clicking this box I "
+#~ "agree to abide by this agreement, and understand that if I don't my "
+#~ "membership of My Europeana will be terminated. CLICK TO AGREE"
+#~ msgstr ""
+#~ "Ymmärrän, että \"Minun Europeanani\" antaa mahdollisuuden luoda "
+#~ "avainsanoja mistä tahansa aiheesta. Sitoudun siihen, että en luo tageja, "
+#~ "joita voi pitää herjaavina, vahingollisina, uhkaavina, lainvastaisina, "
+#~ "loukkaavina, solvaavina, yllyttävinä, häiritsevinä, pornografisina, "
+#~ "säädyttöminä, valheellisina, yksityisyyttä tai henkilön oikeuksia "
+#~ "loukkaavina, vihamielisinä tai rotuun tai etniseen alkuperään tai muuten "
+#~ "ei-toivottuina. Klikkaamalla tätä laatikkoa sitoudun tähän sopimukseen ja "
+#~ "ymmärrän, että jos en niin tee, niin jäsenyyteni \"Minun Europeanassani\" "
+#~ "lakkautetaan. KLIKKAA HYVÄKSYÄKSESI"
+
+#~ msgid "First name"
+#~ msgstr "Etunimi"
+
+#~ msgid "Last name"
+#~ msgstr "Sukunimi"
+
+#~ msgid ""
+#~ "To make optimal use of this website you need to have JavaScript activated"
+#~ msgstr ""
+#~ "Saadaksesi tästä sivustosta parhaan mahdollisen hyödyn sinulla täytyy "
+#~ "olla käytössä JavaScript"
+
+#~ msgid "Check the FAQs - they may cover your feedback"
+#~ msgstr "Lue usein kysytyt kysymykset – ne saattavat vastata kysymyksiisi"
+
+#~ msgid "Communities"
+#~ msgstr "Yhteisöt"
+
+#~ msgid "ThoughtLab"
+#~ msgstr "ThoughtLab"
+
+#~ msgid "Choose a language"
+#~ msgstr "Valitse kieli"
+
+#~ msgid "Select language"
+#~ msgstr "Valitse kieli"
+
+#~ msgid "This is Europeana"
+#~ msgstr "Näin käytän Europeanaa"
+
+#~ msgid ""
+#~ "a place for inspiration and ideas. Search through the cultural "
+#~ "collections of Europe, connect to other user pathways and share your "
+#~ "discoveries."
+#~ msgstr ""
+#~ "paikka elämyksille ja ideoille. Hae Euroopan kulttuurikokoelmista, liity "
+#~ "käyttäjien yhteisöihin ja jaa kokemuksesi muiden kanssa."
+
+#~ msgid "Find out more"
+#~ msgstr "Lisää tietoa"
+
+#~ msgid "Reset"
+#~ msgstr "Tyhjennä"
+
+#~ msgid "Advanced search"
+#~ msgstr "Tarkennettu haku"
+
+#~ msgid "Hide advanced search"
+#~ msgstr "Piilota tarkennettu haku"
+
+#~ msgid "and"
+#~ msgstr "ja"
+
+#~ msgid "not"
+#~ msgstr "ei"
+
+#~ msgid "Any field"
+#~ msgstr "mikä tahansa kenttä"
+
+#~ msgid "Share your ideas"
+#~ msgstr "Jaa ideoitasi"
+
+#~ msgid "Tagging"
+#~ msgstr "taggaaminen"
+
+#~ msgid "Send us feedback"
+#~ msgstr "lähettämällä meille palautetta"
+
+#~ msgid "People are currently thinking about"
+#~ msgstr "Juuri nyt käyttäjiä kiinnostaa"
+
+#~ msgid "Timeline navigator"
+#~ msgstr "Aikajananavigaattori"
+
+#~ msgid "Browse through time"
+#~ msgstr "Selaa aikakausittain"
+
+#~ msgid ""
+#~ "From our partner museums, archives, libraries and audio-visual collections"
+#~ msgstr ""
+#~ "Kumppaneiltamme - museoista, arkistoista, kirjastoista ja "
+#~ "audiovisuaalisista kokoelmista"
+
+#~ msgid "Using Europeana"
+#~ msgstr "Näin käytän Europeanaa"
+
+#~ msgid "Terms and conditions"
+#~ msgstr "Käyttöehdot"
+
+#~ msgid "Contact us"
+#~ msgstr "Ota yhteyttä"
+
+#~ msgid "co-funded by the European Union"
+#~ msgstr "Euroopan unionin osarahoittama"
+
+#~ msgid "Europeana think culture"
+#~ msgstr "Europeana - ajattele kulttuuria"
+
+#~ msgid "Click here to return to the Europeana homepage"
+#~ msgstr "Europeanan etusivulle - klikkaa tästä"
+
+#~ msgid "Refine your results"
+#~ msgstr "Rajaa hakutuloksia"
+
+#~ msgid "By language of description"
+#~ msgstr "Kuvauskielen mukaan"
+
+#~ msgid "By providing country"
+#~ msgstr "Sisällöntarjoajan maan mukaan"
+
+#~ msgid "By year"
+#~ msgstr "Vuoden mukaan"
+
+#~ msgid "By user tag"
+#~ msgstr "Käyttäjän antaman tagin mukaan"
+
+#~ msgid "By type"
+#~ msgstr "Aineistotyypin mukaan"
+
+#, fuzzy
+#~ msgid "Actions"
+#~ msgstr "-nappeja"
+
+#~ msgid "Search saved"
+#~ msgstr "Haku tallennettu"
+
+#~ msgid "Saving search failed"
+#~ msgstr "Haun tallentaminen epäonnistui"
+
+#~ msgid "You have searched for"
+#~ msgstr "Olet hakenut:"
+
+#~ msgid "You are viewing related items"
+#~ msgstr "Katsot hakuun liittyviä kohteita"
+
+#~ msgid "All"
+#~ msgstr "Kaikki"
+
+#~ msgid "Text"
+#~ msgstr "Teksti"
+
+#~ msgid "Image"
+#~ msgstr "Kuva"
+
+#~ msgid "List view"
+#~ msgstr "Listanäkymä"
+
+#, fuzzy
+#~ msgid "#Table view"
+#~ msgstr "Aikajana"
+
+#~ msgid "Page"
+#~ msgstr "sivulla"
+
+#~ msgid "of"
+#~ msgstr ","
+
+#~ msgid "Click here for previous page of results"
+#~ msgstr "Edellisen sivun tulokset saat näkyviin klikkaamalla tästä"
+
+#~ msgid "Click here for next page of results"
+#~ msgstr "Seuraavan sivun tulokset saat näkyviin klikkaamalla tästä"
+
+#~ msgid "Print this page"
+#~ msgstr "Tulosta sivu"
+
+#~ msgid "Click for more information"
+#~ msgstr "Lisätietoja saat klikkaamalla tästä"
+
+#~ msgid "No items found"
+#~ msgstr "Kohteita ei löytynyt"
+
+#~ msgid "Related content"
+#~ msgstr "Liittyvää sisältöä"
+
+#~ msgid "See all related items"
+#~ msgstr "Katso kaikki tähän liittyvät kohteet"
+
+#~ msgid "User tags"
+#~ msgstr "käyttäjien tagit"
+
+#~ msgid "Tag added"
+#~ msgstr "tagi lisätty"
+
+#~ msgid "Tag addition failed"
+#~ msgstr "tagin lisääminen epäonnistui"
+
+#~ msgid "Share with a friend"
+#~ msgstr "Jaa ystävien kanssa"
+
+#~ msgid "Email address"
+#~ msgstr "Sähköpostiosoite"
+
+#~ msgid "Email sent"
+#~ msgstr "Sähköposti lähetetty"
+
+#~ msgid "Email could not be sent"
+#~ msgstr "Sähköpostin lähettäminen epäonnistui"
+
+#~ msgid "Send"
+#~ msgstr "Lähetä"
+
+#~ msgid "Item saved"
+#~ msgstr "Kohde tallennettu"
+
+#~ msgid "Save item failed"
+#~ msgstr "Kohteen tallentaminen epäonnistui"
+
+#~ msgid "Error"
+#~ msgstr "virhe"
+
+#~ msgid "Error details"
+#~ msgstr "Lisätietoa virheestä"
+
+#~ msgid "Return to results"
+#~ msgstr "Palaa hakutuloksiin"
+
+#~ msgid "More"
+#~ msgstr "Lisää"
+
+#~ msgid "Less"
+#~ msgstr "Vähemmän"
+
+#~ msgid "Items"
+#~ msgstr "Kohteet"
+
+#~ msgid "Item details"
+#~ msgstr "Lisätietoa kohteesta"
+
+#~ msgid "View as XML"
+#~ msgstr "Tarkastele XML-muodossa"
+
+#~ msgid "View with labels"
+#~ msgstr "Näytä merkintöjen kanssa"
+
+#~ msgid "View without labels"
+#~ msgstr "Näytä ilman merkintöjä"
+
+#~ msgid "Opens in a new window"
+#~ msgstr "Avaa uudessa ikkunassa"
+
+#~ msgid "View in original context"
+#~ msgstr "Tarkastele alkuperäisessä yhteydessä"
+
+#~ msgid "Provider"
+#~ msgstr "Sisällöntarjoaja"
+
+#~ msgid "Description"
+#~ msgstr "Kuvailu"
+
+#~ msgid "Show all"
+#~ msgstr "Näytä kaikki"
+
+#~ msgid "Delete"
+#~ msgstr "Poista"
+
+#~ msgid "No saved items"
+#~ msgstr "Ei tallennettuja kohteita"
+
+#~ msgid "No saved searches"
+#~ msgstr "Ei tallennettuja hakuja"
+
+#~ msgid "No saved tags"
+#~ msgstr "Ei tallennettuja tageja"
+
+#~ msgid "No saved notifications"
+#~ msgstr "Ei tallennettuja ilmoituksia"
+
+#~ msgid "Date saved"
+#~ msgstr "Ajankohta tallennettu"
+
+#~ msgid "Remove"
+#~ msgstr "Poista"
+
+#~ msgid "Welcome to MyEuropeana"
+#~ msgstr "Tervetuloa minun Europeanaani"
+
+#~ msgid "Please click on the following link to confirm your registration"
+#~ msgstr "Vahvista rekisteröitymisesi klikkaamalla linkkiä"
+
+#~ msgid "The Europeana Team"
+#~ msgstr "Europeana-tiimi"
+
+#~ msgid "Results"
+#~ msgstr "Tulokset"
+
+#~ msgid "Invalid query"
+#~ msgstr "Virheellinen kysely"
+
+#~ msgid "This feature is currently disabled."
+#~ msgstr "Ominaisuus ei tällä hetkellä toimi."
+
+#~ msgid "Password"
+#~ msgstr "Salasana"
+
+#~ msgid "Remember me on this computer"
+#~ msgstr "Muista tunnukset tällä tietokoneella"
+
+#~ msgid "I forgot my password"
+#~ msgstr "Unohdin salasanani"
+
+#~ msgid "Sign in"
+#~ msgstr "Kirjaudu"
+
+#~ msgid "Register"
+#~ msgstr "Rekisteröidy käyttäjäksi"
+
+#~ msgid "Register again"
+#~ msgstr "Rekisteröidy uudestaan"
+
+#~ msgid ""
+#~ "An error occurred while trying to process your registration. Please try "
+#~ "again"
+#~ msgstr ""
+#~ "Rekisteröitymisesi käsittelyssä on tapahtunut virhe. Yritä uudelleen"
+
+#~ msgid "An email has been sent to the following address"
+#~ msgstr "Sähköposti on lähetetty osoitteeseen:"
+
+#~ msgid ""
+#~ "Please follow the link provided in the email and finish the registration "
+#~ "process"
+#~ msgstr "Rekisteröidy sähköpostissa olevan linkin kautta"
+
+#~ msgid "Please make sure your email is correctly formatted and try again"
+#~ msgstr "Tarkista että sähköpostisi tiedot ovat oikein ja yritä uudelleen"
+
+#~ msgid "This email is already registered"
+#~ msgstr "Tämä sähköpostiosoite on jo rekisteröity"
+
+#~ msgid "Create an account"
+#~ msgstr "Luo tili"
+
+#~ msgid ""
+#~ "The link you used to complete registration is invalid or has expired."
+#~ msgstr ""
+#~ "Rekisteröitymiseen käyttämäsi linkki on virheellinen tai vanhentunut."
+
+#~ msgid "Enter your email"
+#~ msgstr "Syötä sähköpostiosoitteesi"
+
+#~ msgid ""
+#~ "You will use your email together with your password to log into the site"
+#~ msgstr "Kirjaudu käyttämällä sähköpostiosoitetta ja salasanaa"
+
+#~ msgid "Your username will be displayed when you have logged in"
+#~ msgstr "Käyttäjätunnus tulee näkyviin kun olet kirjautunut sisään"
+
+#~ msgid "Username"
+#~ msgstr "Käyttäjätunnus"
+
+#~ msgid "is in use. Please choose another username"
+#~ msgstr "on käytössä. Valitse toinen käyttäjätunnus"
+
+#~ msgid "Choose a username"
+#~ msgstr "Valitse käyttäjätunnus"
+
+#~ msgid "User information"
+#~ msgstr "Käyttäjän tiedot"
+
+#~ msgid "Choose a password"
+#~ msgstr "Valitse salasana"
+
+#~ msgid "Passwords must be 6-30 characters in length"
+#~ msgstr "Salasanan tulee olla 6 - 30 merkkiä pitkä"
+
+#~ msgid "Repeat password"
+#~ msgstr "Toista salasana"
+
+#~ msgid "Finish registration"
+#~ msgstr "Hyväksy rekisteröityminen"
+
+#~ msgid "You have successfully registered"
+#~ msgstr "Rekisteröitymisesi onnistui"
+
+#~ msgid "English (eng)"
+#~ msgstr "englanti (eng)"
+
+#~ msgid "Croatian (hrv)"
+#~ msgstr "kroatia (hrv)"
+
+#~ msgid "Czech (cze/cse)"
+#~ msgstr "tsekki (cze/cse)"
+
+#~ msgid "Greek (ell/gre)"
+#~ msgstr "kreikka (ell/gre)"
+
+#~ msgid "Estonian (est)"
+#~ msgstr "viro (est)"
+
+#~ msgid "Danish (dan)"
+#~ msgstr "tanska (dan)"
+
+#~ msgid "Dutch (dut)"
+#~ msgstr "hollanti (dut)"
+
+#~ msgid "Finnish (fin)"
+#~ msgstr "suomi (fin)"
+
+#~ msgid "French (fre)"
+#~ msgstr "ranska (fre)"
+
+#~ msgid "German (deu)"
+#~ msgstr "saksa (deu)"
+
+#~ msgid "Hungarian (hun)"
+#~ msgstr "unkari (hun)"
+
+#~ msgid "Italian (ita)"
+#~ msgstr "italia (ita)"
+
+#~ msgid "Latvian (lav)"
+#~ msgstr "Latvia (lav)"
+
+#~ msgid "Lithuanian (lit)"
+#~ msgstr "Liettua"
+
+#~ msgid "Luxemburgish (ltz)"
+#~ msgstr "luxemburg (ltz)"
+
+#~ msgid "Maltese (mlt)"
+#~ msgstr "malta (mlt)"
+
+#~ msgid "Norwegian (nor)"
+#~ msgstr "norja (nor)"
+
+#~ msgid "Polish (pol)"
+#~ msgstr "puola (pol)"
+
+#~ msgid "Portuguese (por)"
+#~ msgstr "portugali (por)"
+
+#~ msgid "Romanian (rom)"
+#~ msgstr "romania (rom)"
+
+#~ msgid "Russian (rus)"
+#~ msgstr "Venäjä (rus)"
+
+#~ msgid "Serbian (scc)"
+#~ msgstr "serbia (scc)"
+
+#~ msgid "Slovak (slo)"
+#~ msgstr "slovakia (slo)"
+
+#~ msgid "Slovenian (slv)"
+#~ msgstr "Slovenia"
+
+#~ msgid "Spanish (esp)"
+#~ msgstr "espanja (esp)"
+
+#~ msgid "Icelandic (ice)"
+#~ msgstr "islanti (ice)"
+
+#~ msgid "Swedish (sve/swe)"
+#~ msgstr "ruotsi (sve/swe)"
+
+#~ msgid "Turkish (tur)"
+#~ msgstr "turkki (tur)"
+
+#~ msgid "Ukrainian (ukr)"
+#~ msgstr "Ukraina"
+
+#, fuzzy
+#~ msgid "Yiddish (yid)"
+#~ msgstr "suomi (fin)"
+
+#~ msgid "Other"
+#~ msgstr "Muut"
+
+#~ msgid "Alternative Title"
+#~ msgstr "Vaihtoehtoinen otsikko"
+
+#~ msgid "Provenance"
+#~ msgstr "Alkuperä"
+
+#~ msgid "Is Part of"
+#~ msgstr "on osa"
+
+#, fuzzy
+#~ msgid "Has part"
+#~ msgstr "on formaattia"
+
+#~ msgid "Replaces"
+#~ msgstr "korvaa"
+
+#~ msgid "Is replaced by"
+#~ msgstr "on korvattu"
+
+#~ msgid "Is referenced by"
+#~ msgstr "on viitattu"
+
+#~ msgid "References"
+#~ msgstr "viitteet"
+
+#~ msgid "Requires"
+#~ msgstr "vaatii"
+
+#~ msgid "Has format"
+#~ msgstr "on formaattia"
+
+#, fuzzy
+#~ msgid "Is format of"
+#~ msgstr "on formaattia"
+
+#~ msgid "Geographic coverage"
+#~ msgstr "Maantieteellinen kattavuus"
+
+#~ msgid "Time period"
+#~ msgstr "Ajanjakso"
+
+#~ msgid "Publication date"
+#~ msgstr "Julkaisupäivä"
+
+#~ msgid "Author"
+#~ msgstr "Tekijä"
+
+#~ msgid "Coverage"
+#~ msgstr "kattavuus"
+
+#~ msgid "Format"
+#~ msgstr "formaatti"
+
+#~ msgid "Publisher"
+#~ msgstr "julkaisija"
+
+#~ msgid "Identifier"
+#~ msgstr "tunniste"
+
+#~ msgid "Source"
+#~ msgstr "lähde"
+
+#~ msgid "Relation"
+#~ msgstr "suhde"
+
+#~ msgid "Type"
+#~ msgstr "Tyyppi"
+
+#~ msgid "Austria"
+#~ msgstr "Itävalta"
+
+#~ msgid "Croatia"
+#~ msgstr "Kroatia"
+
+#~ msgid "Denmark"
+#~ msgstr "Tanska"
+
+#~ msgid "Finland"
+#~ msgstr "Suomi"
+
+#~ msgid "France"
+#~ msgstr "Ranska"
+
+#~ msgid "Germany"
+#~ msgstr "Saksa "
+
+#~ msgid "Italy-Florence"
+#~ msgstr "Italia-Firenze"
+
+#~ msgid "Italy-Rome"
+#~ msgstr "Italia-Rooma"
+
+#~ msgid "Ireland"
+#~ msgstr "Irlanti"
+
+#~ msgid "Netherlands"
+#~ msgstr "Alankomaat"
+
+#~ msgid "Portugal"
+#~ msgstr "Portugali"
+
+#~ msgid "Russia - Moscow"
+#~ msgstr "Venäjä - Moskova"
+
+#~ msgid "Russia - Saint Petersburg"
+#~ msgstr "Venäjä - Pietari"
+
+#~ msgid "Romania"
+#~ msgstr "Romania"
+
+#~ msgid "Former Yugoslav Republic Of Macedonia"
+#~ msgstr "Entinen Jugoslavian tasavalta Makedonia"
+
+#~ msgid "Ukraine"
+#~ msgstr "Ukraina"
+
+#~ msgid "Moldova"
+#~ msgstr "Moldova"
+
+#~ msgid "Albania"
+#~ msgstr "Albania"
+
+#~ msgid "Georgia"
+#~ msgstr "Georgia"
+
+#~ msgid "Armenia"
+#~ msgstr "Armenia"
+
+#~ msgid "Bosnia and Herzegovina"
+#~ msgstr "Bosnia-Herzegovina"
+
+#~ msgid "Azerbaijan"
+#~ msgstr "Azerbaijan"
+
+#~ msgid "Turkey"
+#~ msgstr "Turkki"
+
+#~ msgid "Bulgaria"
+#~ msgstr "Bulgaria"
+
+#~ msgid "Serbia"
+#~ msgstr "Serbia"
+
+#~ msgid "Slovenia"
+#~ msgstr "Slovenia"
+
+#~ msgid "Switzerland"
+#~ msgstr "Sveitsi"
+
+#~ msgid "United Kingdom"
+#~ msgstr "Iso-Britannia"
+
+#~ msgid "Czech Republic"
+#~ msgstr "Tšekin tasavalta"
+
+#~ msgid "Cyprus"
+#~ msgstr "Kypros"
+
+#~ msgid "Estonia"
+#~ msgstr "Viro"
+
+#~ msgid "Latvia"
+#~ msgstr "Latvia"
+
+#~ msgid "Lithuania"
+#~ msgstr "Liettua"
+
+#~ msgid "Hungary"
+#~ msgstr "Unkari"
+
+#~ msgid "Malta"
+#~ msgstr "Malta"
+
+#~ msgid "Poland"
+#~ msgstr "Puola"
+
+#~ msgid "Slovakia"
+#~ msgstr "Slovakia"
+
+#~ msgid "Spain"
+#~ msgstr "Espanja"
+
+#~ msgid "Belgium"
+#~ msgstr "Belgia"
+
+#~ msgid "Iceland"
+#~ msgstr "Islanti"
+
+#~ msgid "Norway"
+#~ msgstr "Norja"
+
+#~ msgid "Sweden"
+#~ msgstr "Ruotsi"
+
+#~ msgid "Liechtenstein"
+#~ msgstr "Liechtenstein"
+
+#~ msgid "Luxembourg"
+#~ msgstr "Luxemburg"
+
+#~ msgid "Greece"
+#~ msgstr "Kreikka"
+
+#~ msgid "Subject cloud"
+#~ msgstr "Aihepilvi"
+
+#~ msgid "Did you mean"
+#~ msgstr "Tarkoititko?"
+
+#~ msgid ""
+#~ "Paintings, music, films and books from Europe's galleries, libraries, "
+#~ "archives and museums."
+#~ msgstr ""
+#~ "Maalauksia, musiikkia, elokuvia ja kirjoja eurooppalaisista gallerioista, "
+#~ "kirjastoista, arkistoista ja museoista."
+
+#~ msgid "Data provider"
+#~ msgstr "Aineiston tarjoaja"
+
+#~ msgid "Europeana rights"
+#~ msgstr "Europeana oikeudet"
+
+#~ msgid "Terms of use"
+#~ msgstr "Käyttöehdot"
+
+#~ msgid "The timeline only shows up to 1000 items relevant to your query."
+#~ msgstr "Aikajana näyttää korkeintaan 1000 hakuusi liittyvää kohdetta."
+
+#~ msgid "Timeline view"
+#~ msgstr "Aikajana"
+
+#~ msgid "Embed"
+#~ msgstr "Upota"
+
+#~ msgid "Options"
+#~ msgstr "vaihtoehdot"
+
+#~ msgid "Embed this object into your own blog or website"
+#~ msgstr "upota tämä kohde blogiisi tai verkkosivulle"
+
+#~ msgid ""
+#~ "Paste the HTML source code below to your page. This page itself is an "
+#~ "example of a page that embeds a Europeana object."
+#~ msgstr ""
+#~ "Liitä alla oleva html-koodi verkkosivullesi. Tämä sivu on esimerkki "
+#~ "sivusta, jolle on upotettu Europeanassa oleva kohde."
+
+#~ msgid ""
+#~ "Now this Europeana object becomes a part of your page. Our content "
+#~ "providers tend to improve their objects from time to time. Create an "
+#~ "alert on this object to be notified if this specific object would change."
+#~ msgstr ""
+#~ "Nyt tästä kohteesta tulee osa sivuasi. Sisältöä välittävät tahot  tekevät "
+#~ "aika ajoin muutoksia aineistotietoihin. Voit pyytää ilmoituksen, jos tämä "
+#~ "aineistotieto muuttuu."
+
+#~ msgid "Preview it customized"
+#~ msgstr "Esikatsele"
+
+#~ msgid "Create notification for this item"
+#~ msgstr "Anna ilmoitus tästä kohteesta"
+
+#~ msgid ""
+#~ "Log in to My Europeana and set an alert to be notified of updates, such "
+#~ "as the publication of more metadata for this object."
+#~ msgstr ""
+#~ "Kirjaudu Minun Europeanaani ja aseta hälytys, joka ilmoittaa "
+#~ "päivityksistä kuten aineiston muuttuneista metatiedoista. "
+
+#~ msgid ""
+#~ "By using the embed function you accept and agree to the Europeana Terms "
+#~ "of Use"
+#~ msgstr "Käyttämällä upotusta hyväksyt Europeanan käyttöehdot"
+
+#~ msgid "Maximal number of text lines:"
+#~ msgstr "Tekstirivien maksimimäärä"
+
+#~ msgid "orientation:"
+#~ msgstr "suunta"
+
+#~ msgid "portrait"
+#~ msgstr "pysty"
+
+#~ msgid "landscape"
+#~ msgstr "vaaka"
+
+#~ msgid "Refine Search"
+#~ msgstr "Haun rajaus"
+
+#~ msgid "By Rights"
+#~ msgstr "Oikeuksien mukaan"
+
+#, fuzzy
+#~ msgid "Free Access"
+#~ msgstr "Rajoitetut käyttöoikeudet – rajoitettu tarkasteluoikeus"
+
+#, fuzzy
+#~ msgid "Restricted Access"
+#~ msgstr "Rajoitetut käyttöoikeudet – rajoitettu tarkasteluoikeus"
+
+#~ msgid "Paid Access"
+#~ msgstr "Rajoitetut käyttöoikeudet – rajoitettu tarkasteluoikeus"
+
+#~ msgid "Public Domain"
+#~ msgstr "Public Domain"
+
+#~ msgid "Unknown"
+#~ msgstr "Tuntematon"
+
+#~ msgid "Not all objects show rights information"
+#~ msgstr "Kaikki aineistot eivät näytä käyttöoikeustietoa"
+
+#~ msgid "Translate with:"
+#~ msgstr "käännä tämän avulla"
+
+#~ msgid ""
+#~ "Access External Search Services or Translate a fields content where you "
+#~ "see the marker by double clicking the fields value."
+#~ msgstr ""
+#~ "Siirry ulkopuolisiin hakupalveluihin (ESS) tai käännä merkityn kentän "
+#~ "sisältö kaksoisklikkaamalla kenttää"
+
+#~ msgid ""
+#~ "ESS allows you to translate an individual fields contents or search for "
+#~ "an individual line on an external search service to access additional "
+#~ "relevant information."
+#~ msgstr ""
+#~ "ESS:n avulla voit kääntää yksittäisen kentän sisällön tai hakea "
+#~ "ulkopuolisista hakupalvelveluista saadaksesi lisätietoa."
+
+#~ msgid "indicates ESS services are available"
+#~ msgstr "Ulkopuoliset hakupalvelut ovat saatavilla"
+
+#~ msgid "indicates ESS services are not available"
+#~ msgstr "Ulkopuoliset hakupalvelut eivät ole saatavilla"
+
+#~ msgid "Search term(s)"
+#~ msgstr "Hakusana(t)"
+
+#~ msgid "Search facet"
+#~ msgstr "Hakufasetti"
+
+#~ msgid "Search operator"
+#~ msgstr "Hakuoperaattori"
+
+#~ msgid "Back to top"
+#~ msgstr "takaisin ylös"
+
+#~ msgid "Click to search for this term in external services"
+#~ msgstr "Klikkaa hakeaksesi sanalla ulkoisista palveluista"
+
+#~ msgid "Remote Search Widget"
+#~ msgstr "Etähakulaatikko"
+
+#~ msgid ""
+#~ "You can use the link below to create a customized plugin for inclusion in "
+#~ "your own website with the ability to search through the collections on "
+#~ "the Europeana portal."
+#~ msgstr ""
+#~ "Voit käyttää alla olevaa linkkiä luodaksesi mukautetun lisäosan "
+#~ "lisätäksesi sen omalle verkkosivullesi Europeana-portaalin kokoelmista \n"
+#~ "hakua varten."
+
+#~ msgid "Europeana Search Widget"
+#~ msgstr "Europeana hakuvimpain(widget)"
+
+#~ msgid "What is Europeana's remote search widget?"
+#~ msgstr "Mikä on Europeanan etähakulaatikko?"
+
+#~ msgid ""
+#~ "The remote search widget is a tailored plugin to search on and display "
+#~ "items from Europeana's collections and those of their contributors within "
+#~ "your own website."
+#~ msgstr ""
+#~ "Etähakulaatikko on räätälöity lisäosa hakuun ja tietueiden näyttöön "
+#~ "omalla verkkosivullasi Europeanan ja sen aineistontarjoajien kokoelmista."
+
+#~ msgid "What is a plugin?"
+#~ msgstr "Mikä on lisäosa?"
+
+#~ msgid ""
+#~ "The plugin is simply a piece of generated code that can be copied and "
+#~ "pasted into one of the webpages on your own site."
+#~ msgstr ""
+#~ "Lisäosa on pätkä valmista koodia jonka voi kopioida ja liittää jollekin "
+#~ "sivulle omalla sivustollasi."
+
+#~ msgid "What will the plugin look like?"
+#~ msgstr "Miltä lisäosa näyttää?"
+
+#~ msgid ""
+#~ "The working plugin is shown on the right hand side of the screen. Making "
+#~ "changes and selecting preview will let you see those changes in action."
+#~ msgstr ""
+#~ "Toiminnassa oleva lisäosa näytetään näytön oikeassa reunassa. Muutoksien "
+#~ "tekeminen ja esikatselun valinta näyttää muutosten vaikutuksen."
+
+#~ msgid "How do I add the plugin into my own site?"
+#~ msgstr "Kuinka lisään lisäosan omalle sivustolleni?"
+
+#~ msgid "Select options from the menu below"
+#~ msgstr "Valitse asetukset alla olevasta valikosta"
+
+#~ msgid ""
+#~ "Click on 'Preview' to see the changes in the right hand side of the screen"
+#~ msgstr "Klikkaa 'Esikatselu' nähdäksesi muutokset näytön oikeassa reunassa"
+
+#~ msgid ""
+#~ "Check the box to say you have read and agree with the terms and conditions"
+#~ msgstr ""
+#~ "Rastita valinta kertoaksesi että olet lukenut ja hyväksynyt käyttöehdot"
+
+#~ msgid "Click 'Generate Code'"
+#~ msgstr "Klikkaa 'Luo koodi'"
+
+#~ msgid "Copy the code from under 'Code for plugin:'"
+#~ msgstr "Kopioi koodi kohdan 'Koodi lisäosalle:' alta"
+
+#~ msgid "Open a webpage on your own site in a text editor"
+#~ msgstr "Avaa tekstieditorissa sivu sivustollasi"
+
+#~ msgid "Paste the code into the page and save the changes"
+#~ msgstr "Liitä koodi sivulle ja tallenna muutokset"
+
+#~ msgid "Open your web page in a browser to see the plugin working"
+#~ msgstr "Avaa verkkosivusi selaimessa nähdäksesi lisäosan toiminnan"
+
+#~ msgid "How can I change the position of the plugin?"
+#~ msgstr "Kuinka muutan lisäosan sijaintia?"
+
+#~ msgid ""
+#~ "The plugin can be nested within an HTML table but the easiest way is to "
+#~ "use cascading stylesheets css. The plugin is surrounded in a div with the "
+#~ "id swEuropeanaRemoteWidget and its position can be changed by changing "
+#~ "the css properties for this div."
+#~ msgstr ""
+#~ "Lisäosa voidaan upottaa HTML-taulukkoon, mutta helpointa on käyttää CSS-"
+#~ "tyylejä. Lisäosa on ympäröity div-elementillä id:llä "
+#~ "swEuropeanaRemoteWidget, ja sen sijainti voidaan muuttaa muuttamalla div-"
+#~ "elementin CSS-määrityksiä."
+
+#~ msgid "Background colour"
+#~ msgstr "Taustaväri"
+
+#~ msgid "Media type tab colour"
+#~ msgstr "Mediatyyppi-välilehden väri"
+
+#~ msgid "Text colour"
+#~ msgstr "Tekstin väri"
+
+#~ msgid "Default language"
+#~ msgstr "Oletuskieli"
+
+#~ msgid "Default search term"
+#~ msgstr "Oletushakutermi"
+
+#~ msgid "Media Types"
+#~ msgstr "Mediatyypit"
+
+#~ msgid "Europeana attribution"
+#~ msgstr "Europeana - viittaus"
+
+#~ msgid "Widget Code: (To be copied and pasted into your website)"
+#~ msgstr ""
+#~ "Laatikon koodi: (Omalle sivustollesi kopiointia ja liittämistä varten)"
+
+#~ msgid "Generate Code"
+#~ msgstr "Luo koodia"
+
+#~ msgid "Powered By Europeana"
+#~ msgstr "Powered By Europeana"
+
+#~ msgid "Europeana Blog"
+#~ msgstr "Europeana blogi"
+
+#~ msgid "Virtual Exhibitions"
+#~ msgstr "Verkkonäyttelyt"
+
+#~ msgid "Click to cite this object"
+#~ msgstr "Klikkaa tästä siteerataksesi tätä kohdetta"
+
+#~ msgid "Use"
+#~ msgstr "Käytä"
+
+#~ msgid "Harvard Bibliographic Style"
+#~ msgstr "Harvard Bibliographic Style"
+
+#~ msgid "This record can be cited in the"
+#~ msgstr "Tätä kohdetta voi siteerata"
+
+#~ msgid "style using the text below:"
+#~ msgstr "tyylillä käyttämällä alla olevaa tekstiä"
+
+#~ msgid "Harvard Bibliographic"
+#~ msgstr "Harvard Bibliographic"
+
+#~ msgid "Close"
+#~ msgstr "sulje"
+
+#, fuzzy
+#~ msgid "Place Term"
+#~ msgstr "Paikat"
+
+#, fuzzy
+#~ msgid "Place Label"
+#~ msgstr "Paikat"
+
+#, fuzzy
+#~ msgid "Place Broader Term"
+#~ msgstr "Paikat"
+
+#, fuzzy
+#~ msgid "Place Broader Label"
+#~ msgstr "Paikat"
+
+#, fuzzy
+#~ msgid "Period Term"
+#~ msgstr "Paikat"
+
+#, fuzzy
+#~ msgid "Period Label"
+#~ msgstr "Paikat"
+
+#, fuzzy
+#~ msgid "Period Begin"
+#~ msgstr "Paikat"
+
+#, fuzzy
+#~ msgid "Period End"
+#~ msgstr "Paikat"
+
+#, fuzzy
+#~ msgid "Period Broader Term"
+#~ msgstr "Paikat"
+
+#, fuzzy
+#~ msgid "Period Broader Label"
+#~ msgstr "Paikat"
+
+#, fuzzy
+#~ msgid "Concept Term"
+#~ msgstr "Paikat"
+
+#, fuzzy
+#~ msgid "Concept Label"
+#~ msgstr "Paikat"
+
+#, fuzzy
+#~ msgid "Concept Broader Term"
+#~ msgstr "Paikat"
+
+#, fuzzy
+#~ msgid "Concept Broader Label"
+#~ msgstr "Paikat"
+
+#, fuzzy
+#~ msgid "Agent Term"
+#~ msgstr "Paikat"
+
+#, fuzzy
+#~ msgid "Agent Label"
+#~ msgstr "Paikat"
+
+#~ msgid "Featured item"
+#~ msgstr "Esiteltävänä oleva kohde"
+
+#, fuzzy
+#~ msgid "Visit exhibitions"
+#~ msgstr "verkkonäyttelyt"
+
+#, fuzzy
+#~ msgid "New &amp; Improved - Europeana 1914-1918"
+#~ msgstr "Europeana - Usein kysyttyä"
+
+#~ msgid "Language Policy"
+#~ msgstr "Kielipolitiikka"
+
+#, fuzzy
+#~ msgid "How to configure your search widhet"
+#~ msgstr "Mukauta hakuvimpaimesi"
+
+#~ msgid "Press Room"
+#~ msgstr "Mediahuone"
+
+#, fuzzy
+#~ msgid "Explore Europe's cultural collections"
+#~ msgstr "Euroopan kulttuuri - sinulle kerättynä."
+
+#~ msgid "Social media activities"
+#~ msgstr "Sosiaalisen median toiminnot"
+
+#~ msgid "From the blog"
+#~ msgstr "Blogi"
+
+#~ msgid "Filter your search"
+#~ msgstr "Rajaa hakuasi"
+
+#~ msgid "Grid view"
+#~ msgstr "Ruudukkonäkymä"
+
+#, fuzzy
+#~ msgid ""
+#~ "We apologize; there was a problem retrieving the search results from the "
+#~ "server. Please try again later"
+#~ msgstr ""
+#~ "Pahoittelut; tietojen hakeminen palvelimelta epäonnistui. Ole hyvä ja "
+#~ "yritä myöhemmin uudelleen."
+
+#, fuzzy
+#~ msgid "Similar items"
+#~ msgstr "Samankaltaista sisältöä"
+
+#~ msgid "Loading ..."
+#~ msgstr "Lataa..."
+
+#~ msgid "Return to search results"
+#~ msgstr "Palaa hakutuloksiin"
+
+#, fuzzy
+#~ msgid "Next search result"
+#~ msgstr "Palaa hakutuloksiin"
+
+#~ msgid "Something went wrong!"
+#~ msgstr "Jotain meni pieleen!"
+
+#~ msgid "An email has been sent to inform our technical staff"
+#~ msgstr "Tekniselle henkilökunnallemme on lähetetty ilmoitus sähköpostitse."
+
+#~ msgid "Please try another search"
+#~ msgstr "Ole hyvä ja koita toista hakua"
+
+#~ msgid "Saved search removed successfully"
+#~ msgstr "Tallennettu haku poistettu onnistuneesti"
+
+#~ msgid "Saved item removed successfully"
+#~ msgstr "Tallennettu kohde poistettu onnistuneesti"
+
+#~ msgid "Saved tag removed successfully"
+#~ msgstr "Tallennettu tagi poistettu onnistuneesti"
+
+#~ msgid "An error occurred"
+#~ msgstr "Tapahtui virhe"
+
+#~ msgid "The item could not be removed"
+#~ msgstr "Kohdetta ei voitu poistaa"
+
+#, fuzzy
+#~ msgid "Request"
+#~ msgstr "vaatii"
+
+#~ msgid "See less"
+#~ msgstr "Vähemmän"
+
+#~ msgid "See more"
+#~ msgstr "Lisää"
+
+#~ msgid "Explore further"
+#~ msgstr "Tutki lisää"
+
+#~ msgid "Return to original language"
+#~ msgstr "Palaa alkuperäiseen kieleen"
+
+#~ msgid "Attention: this item has been withdrawn by the provider."
+#~ msgstr "Huomio: sisällöntarjoaja on poistanut tämän kohteen."
+
+#~ msgid ""
+#~ "We apologise; there was a problem retrieving the data from the server. "
+#~ "Please try again later."
+#~ msgstr ""
+#~ "Pahoittelut; tietojen hakeminen palvelimelta epäonnistui. Ole hyvä ja "
+#~ "yritä myöhemmin uudelleen."
+
+#~ msgid "Preview"
+#~ msgstr "Esikatselu"
+
+#~ msgid "Return to timeline"
+#~ msgstr "Palaa aikajanalle"
+
+#~ msgid "This email address does not yet exist in our database"
+#~ msgstr "Tätä sähköpostiosoitetta ei ole vielä tietokannassa"
+
+#~ msgid "Your password change has been successfully completed"
+#~ msgstr "Salasanasi vaihto onnistui"
+
+#~ msgid "Zoom"
+#~ msgstr "Zoomaa"
+
+#~ msgid "Zoom in"
+#~ msgstr "Zoomaa lähemmäs"
+
+#~ msgid "Zoom out"
+#~ msgstr "Zoomaa kauemmas"
+
+#~ msgid ""
+#~ "This is your personal space on Europeana. With My Europeana, you can save "
+#~ "your favourite items and searches, and add tags."
+#~ msgstr ""
+#~ "Tämä on oma henkilökohtainen tilasi Europeanassa. Minun Europeanani "
+#~ "avulla voit tallentaa kohteita ja hakuja sekä lisätä tageja."
+
+#~ msgid "Download"
+#~ msgstr "Lataa"
+
+#, fuzzy
+#~ msgid "User contributed content"
+#~ msgstr "Liittyvää sisältöä"
+
+#~ msgid "Play"
+#~ msgstr "Soita"
+
+#~ msgid "Read"
+#~ msgstr "Lue"
+
+#~ msgid "View larger image"
+#~ msgstr "Näytä suurempi kuva"
+
+#, fuzzy
+#~ msgid "Please try another search."
+#~ msgstr "Ole hyvä ja koita toista hakua"
+
+#, fuzzy
+#~ msgid "Wikipedia Citation"
+#~ msgstr "Sitaatti"
+
+#~ msgid "Copy and paste the wiki-markup below:"
+#~ msgstr "Kopio ja liitä alla oleva wiki-markup:"
+
+#, fuzzy
+#~ msgid "The map only shows up to 1000 items relevant to your query."
+#~ msgstr "Aikajana näyttää korkeintaan 1000 hakuusi liittyvää kohdetta."
+
+#, fuzzy
+#~ msgid "The map only shows up to {0} items relevant to your query."
+#~ msgstr "Aikajana näyttää korkeintaan 1000 hakuusi liittyvää kohdetta."
+
+#~ msgid "Search within current map view"
+#~ msgstr "Etsi nykyisestä karttanäkymästä"
+
+#, fuzzy
+#~ msgid "Follow us on"
+#~ msgstr "Seuraa meitä!"
+
+#~ msgid "Unable to find content for this page."
+#~ msgstr "Tälle sivulle ei löytynyt sisältöä."
+
+#~ msgid "Latest on"
+#~ msgstr "Uusimmat lisäykset palveluun"
+
+#~ msgid "Share item on Facebook, Twitter, etc."
+#~ msgstr "Jaa Facebookissa, Twitterissä jne."
+
+#~ msgid "Follow us!"
+#~ msgstr "Seuraa meitä!"
+
+#~ msgid "Newsletter sign-up"
+#~ msgstr "Tilaa uutiskirje"
+
+#~ msgid "Sign-up here"
+#~ msgstr "Tilaa"
+
+#, fuzzy
+#~ msgid "Email Address"
+#~ msgstr "Sähköpostiosoite"
+
+#~ msgid ""
+#~ "Sign-up to receive our bi-monthly newsletter, and occasional "
+#~ "announcements."
+#~ msgstr ""
+#~ "Tilaa kahdesti kuukaudessa ilmestyvä uutiskirjeemme ja muita uutisia."
+
+#, fuzzy
+#~ msgid "Featured partner"
+#~ msgstr "Esiteltävänä oleva kohde"
+
+#, fuzzy
+#~ msgid "API function"
+#~ msgstr "Muut toiminnot"
+
+#, fuzzy
+#~ msgid "Search parameters"
+#~ msgstr "Hakuoperaattori"
+
+#, fuzzy
+#~ msgid "Search term"
+#~ msgstr "Hakusana(t)"
+
+#, fuzzy
+#~ msgid "Profile"
+#~ msgstr "Europeana - ilmoittaudu medialistalle"
+
+#, fuzzy
+#~ msgid "Record parameters"
+#~ msgstr "Hakuoperaattori"
+
+#, fuzzy
+#~ msgid "Request URL"
+#~ msgstr "vaatii"
+
+#, fuzzy
+#~ msgid "Search also for:"
+#~ msgstr "Etsi myös"
+
+#~ msgid "Who"
+#~ msgstr "Kuka (who)"
+
+#~ msgid "What"
+#~ msgstr "Mitä (what)"
+
+#, fuzzy
+#~ msgid "Terms of use &amp; Policies"
+#~ msgstr "Käyttöehdot"
+
+#, fuzzy
+#~ msgid "contact.html"
+#~ msgstr "Yhteystiedot"
+
+#, fuzzy
+#~ msgid "sitemap.html"
+#~ msgstr "Sivukartta"
+
+#, fuzzy
+#~ msgid "No API key"
+#~ msgstr "API-avaimet"
+
+#, fuzzy
+#~ msgid "API key"
+#~ msgstr "API-avaimet"
+
+#, fuzzy
+#~ msgid "Private key"
+#~ msgstr "Yksityisyys"
+
+#, fuzzy
+#~ msgid "Remove API key"
+#~ msgstr "API-avaimet"
+
+#, fuzzy
+#~ msgid "Remove user"
+#~ msgstr "Poista"
+
+#, fuzzy
+#~ msgid "User name"
+#~ msgstr "Käyttäjätunnus"
+
+#, fuzzy
+#~ msgid "Registration"
+#~ msgstr "Rekisteröidy uudestaan"
+
+#, fuzzy
+#~ msgid "Europeana Exhibitions"
+#~ msgstr "Europeana - viittaus"
+
+#, fuzzy
+#~ msgid "Professional"
+#~ msgstr "Europeana - ilmoittaudu medialistalle"
+
+#, fuzzy
+#~ msgid "Address"
+#~ msgstr "Sähköpostiosoite"
+
+#, fuzzy
+#~ msgid "Date of creation"
+#~ msgstr "Tietosuoja"
+
+#, fuzzy
+#~ msgid "Is part of"
+#~ msgstr "on osa"
+
+#~ msgid "Titles"
+#~ msgstr "Teoksen nimi"
+
+#~ msgid "Places"
+#~ msgstr "Paikat"
+
+#~ msgid "Dates/Periods"
+#~ msgstr "Päivämäärät ja ajanjaksot"
+
+#~ msgid "Subjects"
+#~ msgstr "Aiheet"
+
+#~ msgid "Creators"
+#~ msgstr "Tekijät"
+
+#~ msgid "All fields"
+#~ msgstr "Kaikki kentät"
+
+#, fuzzy
+#~ msgid "Featured Item"
+#~ msgstr "Esiteltävänä oleva kohde"
+
+#, fuzzy
+#~ msgid "Click here for last page of results"
+#~ msgstr "Seuraavan sivun tulokset saat näkyviin klikkaamalla tästä"
+
+#~ msgid "+ Add"
+#~ msgstr "+ Lisää"
+
+#, fuzzy
+#~ msgid "Please try another search later."
+#~ msgstr "Ole hyvä ja koita toista hakua"
+
+#, fuzzy
+#~ msgid "Unable to find the requested page"
+#~ msgstr "Tälle sivulle ei löytynyt sisältöä."
+
+#, fuzzy
+#~ msgid "Unable to find the requested Europeana Record."
+#~ msgstr "Tälle sivulle ei löytynyt sisältöä."
+
+#, fuzzy
+#~ msgid "This item has been withdrawn by the provider."
+#~ msgstr "Huomio: sisällöntarjoaja on poistanut tämän kohteen."
+
+#, fuzzy
+#~ msgid "Please register your email again"
+#~ msgstr "Lisää voimassa oleva sähköpostiosoite"
+
+#, fuzzy
+#~ msgid "to finish registration."
+#~ msgstr "Hyväksy rekisteröityminen"
+
+#, fuzzy
+#~ msgid "Please try another language from the dropdown list."
+#~ msgstr "Ole hyvä ja koita toista hakua"
+
+#~ msgid "Can I use it?"
+#~ msgstr "Voiko aineistoa käyttää?"
+
+#~ msgid "Yes, with attribution"
+#~ msgstr "Kyllä, jos mainitset tekijän"
+
+#~ msgid "Yes, with restrictions"
+#~ msgstr "Kyllä, rajoitetusti"
+
+#~ msgid "Only with permission"
+#~ msgstr "Vain luvalla"
+
+#, fuzzy
+#~ msgid "Europe's culture - collected for you."
+#~ msgstr "Euroopan kulttuuri - sinulle kerättynä."
+
+#~ msgid ""
+#~ "Explore more than 30 million items from a range of Europe's leading "
+#~ "galleries, libraries, archives and museums."
+#~ msgstr ""
+#~ "Selaa yli 30 miljoonaa aineistotietoa Euroopan tärkeimmistä gallerioista, "
+#~ "kirjastoista, arkistoista ja museoista."
+
+#, fuzzy
+#~ msgid "Learn more"
+#~ msgstr "Lisää"
 
 #, fuzzy
 #~ msgid "Europeana Open culture app v2.0"
@@ -6378,9 +5391,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Kumppanuusinstituutioiden avulla Europeanan käyttöliittymää käännetään "
 #~ "kaikille Euroopan unionin virallisille ja muille kielille. Meidän"
-
-#~ msgid "virtual exhibitions"
-#~ msgstr "verkkonäyttelyt"
 
 #~ msgid "are also available in different languages."
 #~ msgstr "ovat saatavilla myös eri kielillä"
