@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-26 15:38+0100\n"
+"POT-Creation-Date: 2014-02-26 16:42+0100\n"
 "PO-Revision-Date: 2013-09-02 11:39\n"
 "Last-Translator: Croatian  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4434,8 +4434,8 @@ msgstr "Sporazum o razmjeni podataka u Europeani"
 
 #: templates/static_pages/sitemap.html:115
 #, fuzzy
-msgid "Rights Reserved - Free access"
-msgstr "Prava zadržana - Slobodan pristup"
+msgid "Free Access - no-reuse"
+msgstr "Slobodan pristup"
 
 #: templates/static_pages/sitemap.html:116
 #, fuzzy
@@ -4444,8 +4444,8 @@ msgstr "Prava zadržana - Ograničen pristup"
 
 #: templates/static_pages/sitemap.html:117
 #, fuzzy
-msgid "Rights Reserved - Paid access"
-msgstr "Prava zadržana - Plaćeni pristup"
+msgid "Paid Access - no re-use"
+msgstr "Plaćeni pristup"
 
 #: templates/static_pages/sitemap.html:118
 msgid "Unknown copyright status"
@@ -5841,6 +5841,14 @@ msgid ""
 "We would love to know how you are using this search widget, please tell us "
 "by dropping us an email at"
 msgstr ""
+
+#, fuzzy
+#~ msgid "Rights Reserved - Free access"
+#~ msgstr "Prava zadržana - Slobodan pristup"
+
+#, fuzzy
+#~ msgid "Rights Reserved - Paid access"
+#~ msgstr "Prava zadržana - Plaćeni pristup"
 
 #, fuzzy
 #~ msgid "New &amp; Improved - Europeana 1914-1918"

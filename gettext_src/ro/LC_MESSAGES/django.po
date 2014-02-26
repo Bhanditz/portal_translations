@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-26 15:37+0100\n"
+"POT-Creation-Date: 2014-02-26 16:40+0100\n"
 "PO-Revision-Date: 2013-11-28 15:44\n"
 "Last-Translator: Romanian  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4716,8 +4716,8 @@ msgstr ""
 
 #: templates/static_pages/sitemap.html:115
 #, fuzzy
-msgid "Rights Reserved - Free access"
-msgstr "Drepturi rezervate - Acces gratuit"
+msgid "Free Access - no-reuse"
+msgstr "Drepturi rezervate - acces restricționat"
 
 #: templates/static_pages/sitemap.html:116
 #, fuzzy
@@ -4726,8 +4726,8 @@ msgstr "Drepturi rezervate - acces restricționat"
 
 #: templates/static_pages/sitemap.html:117
 #, fuzzy
-msgid "Rights Reserved - Paid access"
-msgstr "Drepturi rezervate - Access contra cost"
+msgid "Paid Access - no re-use"
+msgstr "Drepturi rezervate - acces restricționat"
 
 #: templates/static_pages/sitemap.html:118
 msgid "Unknown copyright status"
@@ -6212,6 +6212,14 @@ msgid ""
 "We would love to know how you are using this search widget, please tell us "
 "by dropping us an email at"
 msgstr ""
+
+#, fuzzy
+#~ msgid "Rights Reserved - Free access"
+#~ msgstr "Drepturi rezervate - Acces gratuit"
+
+#, fuzzy
+#~ msgid "Rights Reserved - Paid access"
+#~ msgstr "Drepturi rezervate - Access contra cost"
 
 #, fuzzy
 #~ msgid "New &amp; Improved - Europeana 1914-1918"

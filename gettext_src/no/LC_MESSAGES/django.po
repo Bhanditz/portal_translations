@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-26 15:37+0100\n"
+"POT-Creation-Date: 2014-02-26 16:42+0100\n"
 "PO-Revision-Date: 2013-10-15 11:17\n"
 "Last-Translator: <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4655,8 +4655,8 @@ msgstr "Europeana Data Exchange Agreement (på Europeana Profesjonell)"
 
 #: templates/static_pages/sitemap.html:115
 #, fuzzy
-msgid "Rights Reserved - Free access"
-msgstr "Rettigheter - Gratis tilgang"
+msgid "Free Access - no-reuse"
+msgstr "Gratis tilgang"
 
 #: templates/static_pages/sitemap.html:116
 #, fuzzy
@@ -4665,8 +4665,8 @@ msgstr "Rettigheter - Begrenset tilgang"
 
 #: templates/static_pages/sitemap.html:117
 #, fuzzy
-msgid "Rights Reserved - Paid access"
-msgstr "Rettigheter - Betalt tilgang"
+msgid "Paid Access - no re-use"
+msgstr "Betalt tilgang"
 
 #: templates/static_pages/sitemap.html:118
 msgid "Unknown copyright status"
@@ -6279,6 +6279,14 @@ msgid ""
 "We would love to know how you are using this search widget, please tell us "
 "by dropping us an email at"
 msgstr ""
+
+#, fuzzy
+#~ msgid "Rights Reserved - Free access"
+#~ msgstr "Rettigheter - Gratis tilgang"
+
+#, fuzzy
+#~ msgid "Rights Reserved - Paid access"
+#~ msgstr "Rettigheter - Betalt tilgang"
 
 #, fuzzy
 #~ msgid "New &amp; Improved - Europeana 1914-1918"

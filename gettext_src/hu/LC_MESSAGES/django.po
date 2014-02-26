@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-26 15:38+0100\n"
+"POT-Creation-Date: 2014-02-26 16:42+0100\n"
 "PO-Revision-Date: 2012-02-21 15:20\n"
 "Last-Translator: <jacob.lundqvist@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4721,8 +4721,8 @@ msgstr "Vissza az Europeana honalphoz"
 
 #: templates/static_pages/sitemap.html:115
 #, fuzzy
-msgid "Rights Reserved - Free access"
-msgstr "Fenntartott jogok - Ingyenes hozzáférés"
+msgid "Free Access - no-reuse"
+msgstr "Fenntartott jogok - Hozzáférési korlátozás"
 
 #: templates/static_pages/sitemap.html:116
 #, fuzzy
@@ -4731,8 +4731,8 @@ msgstr "Fenntartott jogok - Hozzáférési korlátozás"
 
 #: templates/static_pages/sitemap.html:117
 #, fuzzy
-msgid "Rights Reserved - Paid access"
-msgstr "Fenntartott jogok - Fizetett hozzáférés"
+msgid "Paid Access - no re-use"
+msgstr "Fenntartott jogok - Hozzáférési korlátozás"
 
 #: templates/static_pages/sitemap.html:118
 msgid "Unknown copyright status"
@@ -6272,6 +6272,14 @@ msgid ""
 "We would love to know how you are using this search widget, please tell us "
 "by dropping us an email at"
 msgstr ""
+
+#, fuzzy
+#~ msgid "Rights Reserved - Free access"
+#~ msgstr "Fenntartott jogok - Ingyenes hozzáférés"
+
+#, fuzzy
+#~ msgid "Rights Reserved - Paid access"
+#~ msgstr "Fenntartott jogok - Fizetett hozzáférés"
 
 #, fuzzy
 #~ msgid "New &amp; Improved - Europeana 1914-1918"

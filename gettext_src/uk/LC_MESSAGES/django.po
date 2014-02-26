@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-26 15:37+0100\n"
+"POT-Creation-Date: 2014-02-26 16:32+0100\n"
 "PO-Revision-Date: 2014-02-23 01:21\n"
 "Last-Translator: Ukrainian  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4583,16 +4583,18 @@ msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
 msgstr "Угода про Обмін Даними Європіана (в Європіана Професійна)"
 
 #: templates/static_pages/sitemap.html:115
-msgid "Rights Reserved - Free access"
-msgstr ""
+#, fuzzy
+msgid "Free Access - no-reuse"
+msgstr "Приховати"
 
 #: templates/static_pages/sitemap.html:116
 msgid "Rights Reserved - Restricted access"
 msgstr ""
 
 #: templates/static_pages/sitemap.html:117
-msgid "Rights Reserved - Paid access"
-msgstr ""
+#, fuzzy
+msgid "Paid Access - no re-use"
+msgstr "Платний доступ"
 
 #: templates/static_pages/sitemap.html:118
 msgid "Unknown copyright status"

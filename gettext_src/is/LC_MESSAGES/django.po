@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-26 15:38+0100\n"
+"POT-Creation-Date: 2014-02-26 16:42+0100\n"
 "PO-Revision-Date: 2013-11-01 11:56\n"
 "Last-Translator: Icelandic  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4631,8 +4631,8 @@ msgstr "Gagnaskiptisamningur Europeana (í Europeana Professional)"
 
 #: templates/static_pages/sitemap.html:115
 #, fuzzy
-msgid "Rights Reserved - Free access"
-msgstr "Réttur áskilinn - Frjáls aðgangur"
+msgid "Free Access - no-reuse"
+msgstr "Frjáls aðgangur"
 
 #: templates/static_pages/sitemap.html:116
 #, fuzzy
@@ -4641,8 +4641,8 @@ msgstr "Réttur áskilinn - Aðgangur takmarkaður"
 
 #: templates/static_pages/sitemap.html:117
 #, fuzzy
-msgid "Rights Reserved - Paid access"
-msgstr "Réttur áskilinn - Aðgangur gegn borgun"
+msgid "Paid Access - no re-use"
+msgstr "Aðgangur gegn greiðslu"
 
 #: templates/static_pages/sitemap.html:118
 msgid "Unknown copyright status"
@@ -6248,6 +6248,14 @@ msgid ""
 "We would love to know how you are using this search widget, please tell us "
 "by dropping us an email at"
 msgstr ""
+
+#, fuzzy
+#~ msgid "Rights Reserved - Free access"
+#~ msgstr "Réttur áskilinn - Frjáls aðgangur"
+
+#, fuzzy
+#~ msgid "Rights Reserved - Paid access"
+#~ msgstr "Réttur áskilinn - Aðgangur gegn borgun"
 
 #, fuzzy
 #~ msgid "New &amp; Improved - Europeana 1914-1918"
