@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-26 14:55+0100\n"
+"POT-Creation-Date: 2014-02-26 15:42+0100\n"
 "PO-Revision-Date: 2012-02-21 15:20\n"
 "Last-Translator: <jacob.lundqvist@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4732,8 +4732,8 @@ msgstr "Cliceáil anseo chun filleadh ar leathanch baile Europeana"
 
 #: templates/static_pages/sitemap.html:115
 #, fuzzy
-msgid "Rights Reserved - Free access"
-msgstr "Gach Ceart ar Cosaint - Rochtain Shaor"
+msgid "Free Access - no-reuse"
+msgstr "Ceart ar Cosaint - Rochtain Srianta"
 
 #: templates/static_pages/sitemap.html:116
 #, fuzzy
@@ -4742,8 +4742,8 @@ msgstr "Ceart ar Cosaint - Rochtain Srianta"
 
 #: templates/static_pages/sitemap.html:117
 #, fuzzy
-msgid "Rights Reserved - Paid access"
-msgstr "Gach Ceart ar Cosaint - Rochtain Íoctha"
+msgid "Paid Access - no re-use"
+msgstr "Ceart ar Cosaint - Rochtain Srianta"
 
 #: templates/static_pages/sitemap.html:118
 msgid "Unknown copyright status"
@@ -6284,6 +6284,14 @@ msgid ""
 "We would love to know how you are using this search widget, please tell us "
 "by dropping us an email at"
 msgstr ""
+
+#, fuzzy
+#~ msgid "Rights Reserved - Free access"
+#~ msgstr "Gach Ceart ar Cosaint - Rochtain Shaor"
+
+#, fuzzy
+#~ msgid "Rights Reserved - Paid access"
+#~ msgstr "Gach Ceart ar Cosaint - Rochtain Íoctha"
 
 #, fuzzy
 #~ msgid "New &amp; Improved - Europeana 1914-1918"

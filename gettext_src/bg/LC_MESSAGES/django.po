@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-26 14:56+0100\n"
+"POT-Creation-Date: 2014-02-26 15:42+0100\n"
 "PO-Revision-Date: 2013-10-30 18:59\n"
 "Last-Translator: Bulgarian  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4738,16 +4738,18 @@ msgstr ""
 "Договор за обмен на данни с Europeana (от сайта Europeana Professional)"
 
 #: templates/static_pages/sitemap.html:115
-msgid "Rights Reserved - Free access"
-msgstr "Всички права запазени - свободен достъп"
+#, fuzzy
+msgid "Free Access - no-reuse"
+msgstr "Права за ползване – Свободен достъп"
 
 #: templates/static_pages/sitemap.html:116
 msgid "Rights Reserved - Restricted access"
 msgstr "Всички права запазени - ограничен достъп"
 
 #: templates/static_pages/sitemap.html:117
-msgid "Rights Reserved - Paid access"
-msgstr "Всички права запазени - платен достъп"
+#, fuzzy
+msgid "Paid Access - no re-use"
+msgstr "Права за ползване – Платен достъп"
 
 #: templates/static_pages/sitemap.html:118
 msgid "Unknown copyright status"
@@ -6467,6 +6469,12 @@ msgid ""
 msgstr ""
 "Бихме желали да разберем как използвате  widget-а за търсене, така че просто "
 "ни изпратете емейл на адрес"
+
+#~ msgid "Rights Reserved - Free access"
+#~ msgstr "Всички права запазени - свободен достъп"
+
+#~ msgid "Rights Reserved - Paid access"
+#~ msgstr "Всички права запазени - платен достъп"
 
 #, fuzzy
 #~ msgid "New &amp; Improved - Europeana 1914-1918"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-26 14:56+0100\n"
+"POT-Creation-Date: 2014-02-26 15:42+0100\n"
 "PO-Revision-Date: 2013-03-29 20:03\n"
 "Last-Translator: Greek  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4774,8 +4774,8 @@ msgstr ""
 
 #: templates/static_pages/sitemap.html:115
 #, fuzzy
-msgid "Rights Reserved - Free access"
-msgstr "Κατοχυρωμένα Δικαιώματα - Ελεύθερη Πρόσβαση"
+msgid "Free Access - no-reuse"
+msgstr "Ελεύθερη Πρόσβαση"
 
 #: templates/static_pages/sitemap.html:116
 #, fuzzy
@@ -4784,8 +4784,8 @@ msgstr "Κατοχυρωμένα Δικαιώματα - Περιορισμένη
 
 #: templates/static_pages/sitemap.html:117
 #, fuzzy
-msgid "Rights Reserved - Paid access"
-msgstr "Κατοχυρωμένα Δικαιώματα - Πληρωμένη Πρόσβαση"
+msgid "Paid Access - no re-use"
+msgstr "Πρόσβαση με πληρωμή"
 
 #: templates/static_pages/sitemap.html:118
 msgid "Unknown copyright status"
@@ -4797,8 +4797,9 @@ msgid "Orphan work - Free access"
 msgstr "Κατοχυρωμένα Δικαιώματα - Ελεύθερη Πρόσβαση"
 
 #: templates/static_pages/sitemap.html:120
+#, fuzzy
 msgid "Orphan work"
-msgstr ""
+msgstr "Κατοχυρωμένα Δικαιώματα - Ελεύθερη Πρόσβαση"
 
 #: templates/static_pages/sitemap.html:121
 msgid "Out of copyright - non commercial reuse"
@@ -6456,6 +6457,14 @@ msgid ""
 "We would love to know how you are using this search widget, please tell us "
 "by dropping us an email at"
 msgstr ""
+
+#, fuzzy
+#~ msgid "Rights Reserved - Free access"
+#~ msgstr "Κατοχυρωμένα Δικαιώματα - Ελεύθερη Πρόσβαση"
+
+#, fuzzy
+#~ msgid "Rights Reserved - Paid access"
+#~ msgstr "Κατοχυρωμένα Δικαιώματα - Πληρωμένη Πρόσβαση"
 
 #, fuzzy
 #~ msgid "New &amp; Improved - Europeana 1914-1918"

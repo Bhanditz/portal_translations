@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-26 14:56+0100\n"
+"POT-Creation-Date: 2014-02-26 15:42+0100\n"
 "PO-Revision-Date: 2013-11-21 16:17\n"
 "Last-Translator: Laura  Huff <laura.huff@kb.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4655,8 +4655,8 @@ msgstr "Aftale om dataudveksling (på Europeana Professionel)"
 
 #: templates/static_pages/sitemap.html:115
 #, fuzzy
-msgid "Rights Reserved - Free access"
-msgstr "Underlagt ophavsret - Fri adgang"
+msgid "Free Access - no-reuse"
+msgstr "Fri adgang"
 
 #: templates/static_pages/sitemap.html:116
 #, fuzzy
@@ -4665,8 +4665,8 @@ msgstr "Underlagt ophavsret - Begrænset adgang"
 
 #: templates/static_pages/sitemap.html:117
 #, fuzzy
-msgid "Rights Reserved - Paid access"
-msgstr "Underlagt ophavsret - Adgang mod betaling"
+msgid "Paid Access - no re-use"
+msgstr "Adgang mod betaling"
 
 #: templates/static_pages/sitemap.html:118
 msgid "Unknown copyright status"
@@ -4678,8 +4678,9 @@ msgid "Orphan work - Free access"
 msgstr "Underlagt ophavsret - Fri adgang"
 
 #: templates/static_pages/sitemap.html:120
+#, fuzzy
 msgid "Orphan work"
-msgstr ""
+msgstr "Underlagt ophavsret - Fri adgang"
 
 #: templates/static_pages/sitemap.html:121
 msgid "Out of copyright - non commercial reuse"
@@ -6293,6 +6294,14 @@ msgid ""
 "We would love to know how you are using this search widget, please tell us "
 "by dropping us an email at"
 msgstr ""
+
+#, fuzzy
+#~ msgid "Rights Reserved - Free access"
+#~ msgstr "Underlagt ophavsret - Fri adgang"
+
+#, fuzzy
+#~ msgid "Rights Reserved - Paid access"
+#~ msgstr "Underlagt ophavsret - Adgang mod betaling"
 
 #, fuzzy
 #~ msgid "New &amp; Improved - Europeana 1914-1918"

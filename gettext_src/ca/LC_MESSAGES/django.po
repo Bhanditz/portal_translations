@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-26 14:56+0100\n"
+"POT-Creation-Date: 2014-02-26 15:42+0100\n"
 "PO-Revision-Date: 2013-11-21 15:32\n"
 "Last-Translator: Laura  Huff <laura.huff@kb.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4729,16 +4729,18 @@ msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
 msgstr "Acord d'Intercanvi de Dades d'Europeana (a Europeana Professional)"
 
 #: templates/static_pages/sitemap.html:115
-msgid "Rights Reserved - Free access"
-msgstr "Drets reservats - Accés lliure"
+#, fuzzy
+msgid "Free Access - no-reuse"
+msgstr "Accés lliure"
 
 #: templates/static_pages/sitemap.html:116
 msgid "Rights Reserved - Restricted access"
 msgstr "Drets reservats - Accés restringit"
 
 #: templates/static_pages/sitemap.html:117
-msgid "Rights Reserved - Paid access"
-msgstr "Drets reservats - Accés de pagament"
+#, fuzzy
+msgid "Paid Access - no re-use"
+msgstr "Accés de pagament"
 
 #: templates/static_pages/sitemap.html:118
 msgid "Unknown copyright status"
@@ -6431,6 +6433,12 @@ msgid ""
 msgstr ""
 "Ens agradaria saber com utilitzeu el giny de cerca, si us plau, digueu-nos-"
 "ho enviant-nos un correu electrònic a"
+
+#~ msgid "Rights Reserved - Free access"
+#~ msgstr "Drets reservats - Accés lliure"
+
+#~ msgid "Rights Reserved - Paid access"
+#~ msgstr "Drets reservats - Accés de pagament"
 
 #, fuzzy
 #~ msgid "New &amp; Improved - Europeana 1914-1918"

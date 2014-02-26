@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-26 14:55+0100\n"
+"POT-Creation-Date: 2014-02-26 15:42+0100\n"
 "PO-Revision-Date: 2014-01-17 15:38\n"
 "Last-Translator: Neil Bates <neil.bates@kb.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4735,8 +4735,8 @@ msgstr ""
 
 #: templates/static_pages/sitemap.html:115
 #, fuzzy
-msgid "Rights Reserved - Free access"
-msgstr "Europeana: Derechos reservados - Acceso libre"
+msgid "Free Access - no-reuse"
+msgstr "Acceso libre"
 
 #: templates/static_pages/sitemap.html:116
 #, fuzzy
@@ -4745,16 +4745,17 @@ msgstr "Europeana: Derechos reservados - Acceso restringido"
 
 #: templates/static_pages/sitemap.html:117
 #, fuzzy
-msgid "Rights Reserved - Paid access"
-msgstr "Europeana: Derechos reservados - Acceso de pago"
+msgid "Paid Access - no re-use"
+msgstr "Acceso de pago"
 
 #: templates/static_pages/sitemap.html:118
 msgid "Unknown copyright status"
 msgstr "Estatus de copyright desconocido"
 
 #: templates/static_pages/sitemap.html:119
+#, fuzzy
 msgid "Orphan work - Free access"
-msgstr ""
+msgstr "Europeana: Derechos reservados - Acceso libre"
 
 #: templates/static_pages/sitemap.html:120
 msgid "Orphan work"
@@ -6385,6 +6386,10 @@ msgid ""
 "We would love to know how you are using this search widget, please tell us "
 "by dropping us an email at"
 msgstr ""
+
+#, fuzzy
+#~ msgid "Rights Reserved - Paid access"
+#~ msgstr "Europeana: Derechos reservados - Acceso de pago"
 
 #, fuzzy
 #~ msgid "New &amp; Improved - Europeana 1914-1918"

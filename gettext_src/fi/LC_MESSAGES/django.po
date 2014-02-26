@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-26 14:55+0100\n"
+"POT-Creation-Date: 2014-02-26 15:42+0100\n"
 "PO-Revision-Date: 2014-01-22 15:45\n"
 "Last-Translator: <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4649,8 +4649,8 @@ msgstr ""
 
 #: templates/static_pages/sitemap.html:115
 #, fuzzy
-msgid "Rights Reserved - Free access"
-msgstr "Europeana - Rajoitetut käyttöoikeudet – vapaasti tarkasteltavissa"
+msgid "Free Access - no-reuse"
+msgstr "Rajoitetut käyttöoikeudet – rajoitettu tarkasteluoikeus"
 
 #: templates/static_pages/sitemap.html:116
 #, fuzzy
@@ -4659,9 +4659,8 @@ msgstr "Europeana - Rajoitetut käyttöoikeudet – rajoitettu tarkasteluoikeus"
 
 #: templates/static_pages/sitemap.html:117
 #, fuzzy
-msgid "Rights Reserved - Paid access"
-msgstr ""
-"Europeana - Rajoitetut käyttöoikeudet – tarkasteltavissa maksua vastaan"
+msgid "Paid Access - no re-use"
+msgstr "Rajoitetut käyttöoikeudet – rajoitettu tarkasteluoikeus"
 
 #: templates/static_pages/sitemap.html:118
 msgid "Unknown copyright status"
@@ -6272,6 +6271,15 @@ msgid ""
 "We would love to know how you are using this search widget, please tell us "
 "by dropping us an email at"
 msgstr ""
+
+#, fuzzy
+#~ msgid "Rights Reserved - Free access"
+#~ msgstr "Europeana - Rajoitetut käyttöoikeudet – vapaasti tarkasteltavissa"
+
+#, fuzzy
+#~ msgid "Rights Reserved - Paid access"
+#~ msgstr ""
+#~ "Europeana - Rajoitetut käyttöoikeudet – tarkasteltavissa maksua vastaan"
 
 #, fuzzy
 #~ msgid "New &amp; Improved - Europeana 1914-1918"
