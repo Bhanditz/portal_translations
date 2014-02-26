@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-25 11:07+0100\n"
+"POT-Creation-Date: 2014-02-26 10:07+0100\n"
 "PO-Revision-Date: 2012-02-21 15:19\n"
 "Last-Translator: <jacob.lundqvist@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,17 +18,12 @@ msgstr ""
 "X-Translated-Using: django-rosetta 0.5.6\n"
 
 #: templates/api_leftmenu.html:3 templates/static_pages/europeana-api.html:4
-#: templates/static_pages/prop_file.html:63
-#: templates/static_pages/prop_file.html:819
-#: templates/static_pages/prop_file.html:820
 #: templates/static_pages/sitemap.html:51
 #, fuzzy
 msgid "Europeana API"
 msgstr "Europeana - DUK"
 
-#: templates/api_leftmenu.html:6 templates/static_pages/prop_file.html:987
-#: templates/static_pages/prop_file.html:988
-#: templates/static_pages/sitemap.html:53
+#: templates/api_leftmenu.html:6 templates/static_pages/sitemap.html:53
 msgid "Get an API-Key"
 msgstr ""
 
@@ -47,137 +42,91 @@ msgid "Europeana API Forum"
 msgstr "Europeana - Naudojimo sąlygos"
 
 #: templates/explore_leftmenu.html:3 templates/static_pages/explore.html:9
-#: templates/static_pages/prop_file.html:542
-#: templates/static_pages/prop_file.html:543
 msgid "Explore"
 msgstr ""
 
-#: templates/explore_leftmenu.html:5 templates/static_pages/prop_file.html:546
-#: templates/static_pages/prop_file.html:547
-#: templates/static_pages/prop_file.html:872
-#: templates/static_pages/sitemap.html:20
+#: templates/explore_leftmenu.html:5 templates/static_pages/sitemap.html:20
 msgid "Europeana Remix"
 msgstr ""
 
-#: templates/explore_leftmenu.html:6 templates/static_pages/prop_file.html:550
-#: templates/static_pages/prop_file.html:551
-#: templates/static_pages/prop_file.html:861
-#: templates/static_pages/sitemap.html:17
+#: templates/explore_leftmenu.html:6 templates/static_pages/sitemap.html:17
 #: templates/static_pages/usingeuropeana_explore.html:14
 msgid "Exhibitions"
 msgstr ""
 
 #: templates/explore_leftmenu.html:7 templates/leftmenu.html:8
-#: templates/static_pages/prop_file.html:60
-#: templates/static_pages/prop_file.html:554
-#: templates/static_pages/prop_file.html:555
-#: templates/static_pages/prop_file.html:910
-#: templates/static_pages/prop_file.html:911
 #: templates/static_pages/sitemap.html:38
 #: templates/static_pages/sitemap.html:87
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "New content"
 msgstr "Naujas turinys"
 
-#: templates/explore_leftmenu.html:9 templates/static_pages/prop_file.html:78
-#: templates/static_pages/prop_file.html:558
-#: templates/static_pages/prop_file.html:559
-#: templates/static_pages/sitemap.html:88
+#: templates/explore_leftmenu.html:9 templates/static_pages/sitemap.html:88
 #: templates/static_pages/usingeuropeana_search.html:60
 msgid "By provider"
 msgstr "Turinio pateikimas"
 
-#: templates/explore_leftmenu.html:10 templates/static_pages/prop_file.html:37
-#: templates/static_pages/prop_file.html:562
-#: templates/static_pages/prop_file.html:563
-#: templates/static_pages/sitemap.html:89
+#: templates/explore_leftmenu.html:10 templates/static_pages/sitemap.html:89
 msgid "Timeline"
 msgstr "Laiko skalė"
 
-#: templates/explore_leftmenu.html:11
-#: templates/static_pages/prop_file.html:566
-#: templates/static_pages/prop_file.html:567
-#: templates/static_pages/sitemap.html:90
+#: templates/explore_leftmenu.html:11 templates/static_pages/sitemap.html:90
 msgid "Map"
 msgstr ""
 
 #: templates/followus_leftmenu.html:3 templates/static_pages/followus.html:9
-#: templates/static_pages/prop_file.html:614
-#: templates/static_pages/prop_file.html:615
 msgid "Follow Us"
 msgstr ""
 
-#: templates/followus_leftmenu.html:5
-#: templates/static_pages/prop_file.html:618
-#: templates/static_pages/prop_file.html:619
-#: templates/static_pages/prop_file.html:865
-#: templates/static_pages/sitemap.html:18
+#: templates/followus_leftmenu.html:5 templates/static_pages/sitemap.html:18
 msgid "Blog"
 msgstr ""
 
 #: templates/followus_leftmenu.html:6
-#: templates/static_pages/prop_file.html:622
-#: templates/static_pages/prop_file.html:623
 msgid "Newsletter"
 msgstr ""
 
 #: templates/followus_leftmenu.html:8
-#: templates/static_pages/prop_file.html:626
-#: templates/static_pages/prop_file.html:627
 msgid "Facebook"
 msgstr ""
 
 #: templates/followus_leftmenu.html:9
-#: templates/static_pages/prop_file.html:630
-#: templates/static_pages/prop_file.html:631
 msgid "Twitter"
 msgstr ""
 
 #: templates/leftmenu.html:3 templates/NOT/leftmenu1_old.html:3
-#: templates/NOT/leftmenu_old.html:3 templates/static_pages/prop_file.html:594
-#: templates/static_pages/prop_file.html:595
+#: templates/NOT/leftmenu_old.html:3
 msgid "About Us"
 msgstr "Apie mus"
 
 #: templates/leftmenu.html:6 templates/NOT/leftmenu1_old.html:6
-#: templates/NOT/leftmenu_old.html:6 templates/static_pages/prop_file.html:598
-#: templates/static_pages/prop_file.html:599
+#: templates/NOT/leftmenu_old.html:6
 msgid "Background"
 msgstr "Ištakos"
 
-#: templates/leftmenu.html:9 templates/static_pages/prop_file.html:915
-#: templates/static_pages/prop_file.html:916
+#: templates/leftmenu.html:9
 #, fuzzy
 msgid "All providers"
 msgstr "Turinio pateikimas"
 
 #: templates/leftmenu.html:10 templates/static_pages/aboutus_enews.html:11
-#: templates/static_pages/prop_file.html:920
-#: templates/static_pages/prop_file.html:921
 #: templates/static_pages/sitemap.html:40
 #, fuzzy
 msgid "Previous newsletters"
 msgstr "Ankstesni informaciniai biuleteniai"
 
 #: templates/leftmenu.html:12 templates/NOT/leftmenu_old.html:8
-#: templates/static_pages/prop_file.html:925
-#: templates/static_pages/prop_file.html:926
 #, fuzzy
 msgid "Press Centre"
 msgstr "Spaudos kambarys"
 
 #: templates/leftmenu.html:13 templates/NOT/leftmenu_old.html:9
-#: templates/static_pages/prop_file.html:930
-#: templates/static_pages/prop_file.html:931
 msgid "Jobs"
 msgstr ""
 
 #: templates/leftmenu.html:14 templates/leftmenu.html.py:17
 #: templates/NOT/leftmenu1_old.html:9 templates/NOT/leftmenu1_old.html:12
 #: templates/NOT/leftmenu_old.html:10 templates/NOT/leftmenu_old.html.py:14
-#: templates/static_pages/prop_file.html:36
-#: templates/static_pages/prop_file.html:610
-#: templates/static_pages/prop_file.html:611
 msgid "Partners"
 msgstr "Partneriai"
 
@@ -188,8 +137,6 @@ msgstr "Spaudos kambarys"
 
 #: templates/leftmenu.html:16 templates/NOT/leftmenu1_old.html:8
 #: templates/NOT/leftmenu1_old.html:11 templates/NOT/leftmenu_old.html:13
-#: templates/static_pages/prop_file.html:606
-#: templates/static_pages/prop_file.html:607
 msgid "Job opportunities"
 msgstr "Karjera"
 
@@ -259,26 +206,18 @@ msgstr "Treminai ir sąlygos"
 
 #: templates/terms_leftmenu.html:24 templates/rights/privacy.html:15
 #: templates/rights/terms-and-policies.html:37
-#: templates/static_pages/prop_file.html:68
-#: templates/static_pages/prop_file.html:526
-#: templates/static_pages/prop_file.html:527
 #: templates/static_pages/sitemap.html:106
 msgid "Privacy"
 msgstr "Privatumas"
 
 #: templates/terms_leftmenu.html:25 templates/rights/languagepolicy.html:15
 #: templates/rights/terms-and-policies.html:37
-#: templates/static_pages/prop_file.html:180
-#: templates/static_pages/prop_file.html:239
 #, fuzzy
 msgid "Language"
 msgstr "Kalbų politika"
 
 #: templates/terms_leftmenu.html:26 templates/rights/accessibility.html:15
 #: templates/rights/terms-and-policies.html:37
-#: templates/static_pages/prop_file.html:65
-#: templates/static_pages/prop_file.html:514
-#: templates/static_pages/prop_file.html:515
 #: templates/static_pages/sitemap.html:108
 msgid "Accessibility"
 msgstr "Prieinamumas"
@@ -289,21 +228,12 @@ msgid "Public Domain Charter"
 msgstr "Viešoji nuosavybė"
 
 #: templates/usingeuropeana_leftmenu.html:3
-#: templates/static_pages/prop_file.html:334
-#: templates/static_pages/prop_file.html:570
-#: templates/static_pages/prop_file.html:571
-#: templates/static_pages/prop_file.html:880
-#: templates/static_pages/prop_file.html:881
 #: templates/static_pages/sitemap.html:25
 #: templates/static_pages/usingeuropeana.html:9
 msgid "Help"
 msgstr ""
 
 #: templates/usingeuropeana_leftmenu.html:5
-#: templates/static_pages/prop_file.html:574
-#: templates/static_pages/prop_file.html:575
-#: templates/static_pages/prop_file.html:884
-#: templates/static_pages/prop_file.html:885
 #: templates/static_pages/usingeuropeana.html:14
 #: templates/static_pages/usingeuropeana_results.html:22
 #: templates/static_pages/usingeuropeana_search.html:9
@@ -312,11 +242,6 @@ msgid "Searching Europeana"
 msgstr ""
 
 #: templates/usingeuropeana_leftmenu.html:6
-#: templates/static_pages/prop_file.html:288
-#: templates/static_pages/prop_file.html:578
-#: templates/static_pages/prop_file.html:579
-#: templates/static_pages/prop_file.html:888
-#: templates/static_pages/prop_file.html:889
 #: templates/static_pages/sitemap.html:28
 #: templates/static_pages/usingeuropeana.html:16
 #: templates/static_pages/usingeuropeana_explore.html:9
@@ -325,10 +250,6 @@ msgid "Exploring Europeana"
 msgstr ""
 
 #: templates/usingeuropeana_leftmenu.html:8
-#: templates/static_pages/prop_file.html:582
-#: templates/static_pages/prop_file.html:583
-#: templates/static_pages/prop_file.html:892
-#: templates/static_pages/prop_file.html:893
 #: templates/static_pages/sitemap.html:29
 #: templates/static_pages/usingeuropeana.html:19
 #: templates/static_pages/usingeuropeana_results.html:9
@@ -337,10 +258,6 @@ msgid "Results in Europeana"
 msgstr "Rezultatai Europeanoje"
 
 #: templates/usingeuropeana_leftmenu.html:9
-#: templates/static_pages/prop_file.html:586
-#: templates/static_pages/prop_file.html:587
-#: templates/static_pages/prop_file.html:896
-#: templates/static_pages/prop_file.html:897
 #: templates/static_pages/sitemap.html:30
 #: templates/static_pages/usingeuropeana.html:21
 #: templates/static_pages/usingeuropeana_myeuropeana.html:9
@@ -349,8 +266,6 @@ msgid "Using My Europeana"
 msgstr ""
 
 #: templates/usingeuropeana_leftmenu.html:10
-#: templates/static_pages/prop_file.html:900
-#: templates/static_pages/prop_file.html:901
 #, fuzzy
 msgid "Configure your search widget"
 msgstr "Įveskite savo elektroninio pašto adresą"
@@ -1385,7 +1300,6 @@ msgid ""
 msgstr "Galite pasisemti idėjų ir įkvėpimo iš daugiau nei"
 
 #: templates/static_pages/aboutus.html:28
-#: templates/static_pages/prop_file.html:91
 #: templates/static_pages/usingeuropeana_results.html:16
 msgid "Images"
 msgstr "Vaizdai"
@@ -1397,7 +1311,6 @@ msgstr ""
 "nuotraukos"
 
 #: templates/static_pages/aboutus.html:29
-#: templates/static_pages/prop_file.html:90
 #: templates/static_pages/usingeuropeana_results.html:15
 msgid "Texts"
 msgstr "Tekstai"
@@ -1407,7 +1320,6 @@ msgid "books, newspapers, letters, diaries and archival papers"
 msgstr "knygos, laikraščiai, laiškai, dienoraščiai ir archyviniai dokumentai"
 
 #: templates/static_pages/aboutus.html:30
-#: templates/static_pages/prop_file.html:93
 msgid "Sounds"
 msgstr "Garso dokumentai"
 
@@ -1418,7 +1330,6 @@ msgstr ""
 "radijo laidose"
 
 #: templates/static_pages/aboutus.html:31
-#: templates/static_pages/prop_file.html:92
 msgid "Videos"
 msgstr "Vaizdo medžiaga"
 
@@ -1722,134 +1633,19 @@ msgstr ""
 msgid "Europeana - New Content"
 msgstr "Europeana - Naujas turinys"
 
-#: templates/static_pages/prop_file.html:5
+#: templates/static_pages/sitemap.html:4
 #, fuzzy
-msgid ""
-"I understand that My Europeana gives me the opportunity to create tags for "
-"any item I wish. I agree that I will not create any tags that could be "
-"considered libelous, harmful, threatening, unlawful, defamatory,infringing, "
-"abusive, inflammatory, harassing, pornographic, obscene, fraudulent, "
-"invasive of privacy orpublicity rights, hateful, or racially, ethnically or "
-"otherwise objectionable. By clicking this box I agreeto abide by this "
-"agreement, and understand that if I don't my membership of My Europeana will "
-"be terminated."
+msgid "Europeana - Sitemap"
+msgstr "Europeana - E.naujienos"
+
+#: templates/static_pages/sitemap.html:8
+msgid "Sitemap"
+msgstr "Svetainės struktūra"
+
+#: templates/static_pages/sitemap.html:11
+msgid "Home"
 msgstr ""
-"Suprantu, kad Mano Europeana man suteikia galimybę susikurti žymenis bet "
-"kuriam norimam objektui. Sutinku nekurti žymenų, kurie būtų šmeižikiški, "
-"žalingi, grasinantys, neteisėti, įžeidžiantys, pažeidžiantys įstatymus, "
-"užgaulūs, kurstantys, pornografiniai, nepadorūs, apgaulingi, grobikiški "
-"privačiųjų ar viešųjų teisių požiūriu,  skleidžiantys rasinę bei etninę  "
-"neapykantą ar užgaulūs kitais požiūriais. Šio langelio spustelėjimu "
-"išreiškiu sutikimą laikytis šio susitarimo ir suprantu, kad jei jo "
-"nesilaikysiu, mano narystė Mano Europeanoje bus nutraukta."
 
-#: templates/static_pages/prop_file.html:6
-msgid "You must agree to our code of conduct to register for My Europeana"
-msgstr ""
-"Registruojantis Mano Europeanoje privalote sutikti su mūsų elgesio "
-"taisyklėmis"
-
-#: templates/static_pages/prop_file.html:7
-msgid "I agree"
-msgstr "Vaizdai"
-
-#: templates/static_pages/prop_file.html:8
-#: templates/static_pages/prop_file.html:230
-msgid "Contributor"
-msgstr "Turinio teikėjas"
-
-#: templates/static_pages/prop_file.html:9
-msgid "Contributors"
-msgstr "Turinio teikėjai"
-
-#: templates/static_pages/prop_file.html:10
-msgid "Country"
-msgstr "Šalis"
-
-#: templates/static_pages/prop_file.html:11
-msgid "Sector"
-msgstr "Sektorius"
-
-#: templates/static_pages/prop_file.html:12
-msgid "Partner"
-msgstr "Partneris"
-
-#: templates/static_pages/prop_file.html:13
-msgid ""
-"This is the network of partners who collaborated to make Europeana happen, "
-"and who represent Europeana in their countries and professional associations."
-msgstr ""
-"Tai partnerių, bendradarbiavusių kuriant Europeaną,  ir atstovaujančių "
-"Europeanai savo valstybėse bei profesinėse asociacijose, tinklas."
-
-#: templates/static_pages/prop_file.html:14
-#, fuzzy
-msgid ""
-"These are the organisations that are contributing content - digitised "
-"paintings, books, broadcasts etc. Some of these contributors are  "
-"aggregators*, Culture.fr is the largest aggregator, providing content from "
-"about 480 organisations in France, including the Louvre and the MusÃ©e dâ"
-"€™Orsay. The number of organisations contributing to an aggregator is shown "
-"in brackets after the aggregatorâ€™s name, e.g. Videoactive (10)"
-msgstr ""
-"Tai organizacijos, kurios prisideda prie skaitmeninio turinio - piešinių, "
-"knygų, radijo ir televizijos transliacijų ir pan. pateikimo. Kai kurie iš "
-"šių turinio teikėjų yra agregatoriai*, Kultūra.fr yra stambiausias iš jų, "
-"pateikiantis turinį iš daugiau nei 480 Prancūzijos organizacijų, įskaitant "
-"Luvrą ir Orsi muziejų. Organizacijų, teikiančių turinį tokiam agregatoriui, "
-"skaičius pateikiamas skliaustuose šalia agregatoriaus pavadinimo, pvz., "
-"Videoactive (10)"
-
-#: templates/static_pages/prop_file.html:15
-msgid ""
-"*An aggregator collects material from a range of other contributors, "
-"displays it on their own website and also channels it into Europeana."
-msgstr ""
-"Agregatorius surenka medžiagą iš daugelio turinio teikėjų, pateikia ją savo "
-"svetainėje, o taip pat nukreipia ją į Europeaną."
-
-#: templates/static_pages/prop_file.html:16
-msgid "This is a required field"
-msgstr "Šį lauką būtina užpildyti"
-
-#: templates/static_pages/prop_file.html:17
-msgid "Please enter a valid email address"
-msgstr "Prašome įrašyti veikiantį elektroninio pašto adresą"
-
-#: templates/static_pages/prop_file.html:18
-msgid "Logged in as"
-msgstr "Prisijungta kaip"
-
-#: templates/static_pages/prop_file.html:19
-#, fuzzy
-msgid "Saved items"
-msgstr "Nėra išsaugotų objektų"
-
-#: templates/static_pages/prop_file.html:20
-msgid "Saved searches"
-msgstr "išplėstinės paieškos"
-
-#: templates/static_pages/prop_file.html:21
-msgid "Saved tags"
-msgstr "Nėra išsaugotų žymenų"
-
-#: templates/static_pages/prop_file.html:22
-msgid "Saved notifications"
-msgstr "Išsaugoti žymenys"
-
-#: templates/static_pages/prop_file.html:23
-msgid "Login"
-msgstr "Saitas"
-
-#: templates/static_pages/prop_file.html:24
-msgid "Log out"
-msgstr "nereiškia"
-
-#: templates/static_pages/prop_file.html:25
-#: templates/static_pages/prop_file.html:638
-#: templates/static_pages/prop_file.html:639
-#: templates/static_pages/prop_file.html:953
-#: templates/static_pages/prop_file.html:954
 #: templates/static_pages/sitemap.html:12
 #: templates/static_pages/usingeuropeana_myeuropeana.html:10
 #: templates/static_pages/usingeuropeana_myeuropeana.html:11
@@ -1858,2581 +1654,32 @@ msgstr "nereiškia"
 msgid "My Europeana"
 msgstr "Mano Europeana"
 
-#: templates/static_pages/prop_file.html:26
-msgid ""
-"Thank you very much for your feedback. If your feedback requires a response "
-"a member of the Europeana team will get back to you as soon as possible. For "
-"faster response feedback should be submitted in English."
-msgstr ""
-"Dėkojame už atsiliepimus. Jei pageidautumėte atsakymo, su  jumis nedelsiant "
-"susisieks Europeanos komandos narys. Jei norite atsakymą gauti kuo greičiau, "
-"rašykite angliškai."
-
-#: templates/static_pages/prop_file.html:27
-msgid "Keep me in touch with new developments to Europeana"
-msgstr "#EnewsOptin_t[Informuokite mane apie naujus Europeanos pasiekimus]"
-
-#: templates/static_pages/prop_file.html:28
-msgid "User Conduct"
-msgstr "vartotojo elgesio tvarka"
-
-#: templates/static_pages/prop_file.html:29
-msgid ""
-"I understand that My Europeana gives me the opportunity to create tags for "
-"any item I wish. I agree that I will not create any tags that could be "
-"considered libelous, harmful, threatening, unlawful, defamatory, infringing, "
-"abusive, inflammatory, harassing, pornographic, obscene, fraudulent, "
-"invasive of privacy or publicity rights, hateful, or racially, ethnically or "
-"otherwise objectionable. By clicking this box I agree to abide by this "
-"agreement, and understand that if I don't my membership of My Europeana will "
-"be terminated. CLICK TO AGREE"
-msgstr ""
-"Suprantu, kad My Europeana man suteikia galimybę susikurti žymenis bet "
-"kuriam norimam objektui. Sutinku, kad nekursiu tokių žymenų, kurie būtų "
-"šmeižikiški, žalingi, grasinantys, neteisėti,įžeidžiantys, pažeidžiantys "
-"įstatymus, užgaulūs, kurstantys, pornografiniai, nepadorūs, apgaulingi, "
-"grobikiški privačiųjų ar viešųjų teisių požiūriu,  skleidžiantys rasinę bei "
-"etninę  neapykantą ar užgaulūs kitais požiūriais. Šio langelio spustelėjimu "
-"išreiškiu sutikimą laikytis šio susitarimo ir suprantu, kad jei jo "
-"nesilaikysiu, mano narystė tinklalapyje Mano Europeana bus nutraukta. "
-"SPUSTELĖKITE NORĖDAMI PATVIRTINTI SUTIKIMĄ"
-
-#: templates/static_pages/prop_file.html:30
-msgid "First name"
-msgstr "Paskutinis pataisymas"
-
-#: templates/static_pages/prop_file.html:31
-msgid "Last name"
-msgstr "Paskutinis pataisymas"
-
-#: templates/static_pages/prop_file.html:32
-msgid ""
-"To make optimal use of this website you need to have JavaScript activated"
-msgstr "Norint naudotis šia svetaine, būtina turėti aktyvuotą JavaScript"
-
-#: templates/static_pages/prop_file.html:33
-#: templates/static_pages/storyline.html:11
-msgid "Storyline and credits"
-msgstr "Pagrindinė siužeto linija ir kūrėjai"
-
-#: templates/static_pages/prop_file.html:34
-msgid "Check the FAQs - they may cover your feedback"
-msgstr "Peržiūrėkite DUK skyrių - jame galite rasti rūpimą atsakymą"
-
-#: templates/static_pages/prop_file.html:35
-msgid "Communities"
-msgstr "Bendruomenės"
-
-#: templates/static_pages/prop_file.html:38
-msgid "ThoughtLab"
-msgstr "ThoughtLab"
-
-#: templates/static_pages/prop_file.html:39
-msgid "Choose a language"
-msgstr "Pasirinkite kalbą"
-
-#: templates/static_pages/prop_file.html:40
-msgid "Select language"
-msgstr "Pasirinkite kalbą"
-
-#: templates/static_pages/prop_file.html:41
-msgid "This is Europeana"
-msgstr "Kaip naudotis Europeana"
-
-#: templates/static_pages/prop_file.html:42
-msgid ""
-"a place for inspiration and ideas. Search through the cultural collections "
-"of Europe, connect to other user pathways and share your discoveries."
-msgstr ""
-"vieta mintims ir idėjoms. Ieškokite Europos kultūros ištekliuose, "
-"susisiekite su kitu vartotoju ir ir pasidalinkite patirtimi."
-
-#: templates/static_pages/prop_file.html:43
-msgid "Find out more"
-msgstr "Daugiau"
-
-#: templates/static_pages/prop_file.html:44
-#: templates/static_pages/sitemap.html:65
-#: templates/static_pages/usingeuropeana_search.html:21
-#: templates/static_pages/usingeuropeana_search.html:25
-#: templates/static_pages/usingeuropeana_search.html:27
-#: templates/static_pages/usingeuropeana_search.html:45
-#, fuzzy
-msgid "Search"
-msgstr "Paieška išsaugota"
-
-#: templates/static_pages/prop_file.html:45
-#: templates/static_pages/prop_file.html:335
-msgid "Reset"
-msgstr "Registruotis dar kartą"
-
-#: templates/static_pages/prop_file.html:46
-#: templates/static_pages/usingeuropeana_results.html:49
-#, fuzzy
-msgid "Previous"
-msgstr "Turinio pateikimas"
-
-#: templates/static_pages/prop_file.html:47
-#: templates/static_pages/usingeuropeana_results.html:49
-#, fuzzy
-msgid "Next"
-msgstr "Tekstai"
-
-#: templates/static_pages/prop_file.html:48
-msgid "Advanced search"
-msgstr "Išplėstinė paieška"
-
-#: templates/static_pages/prop_file.html:49
-msgid "Hide advanced search"
-msgstr "išplėstinės paieškos"
-
-#: templates/static_pages/prop_file.html:50
-msgid "and"
-msgstr "Lenkija"
-
-#: templates/static_pages/prop_file.html:51
-#: templates/static_pages/usingeuropeana_results.html:24
-#: templates/static_pages/usingeuropeana_results.html:25
-#: templates/static_pages/usingeuropeana_results.html:41
-#: templates/static_pages/usingeuropeana_results.html:49
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid "or"
-msgstr "arba"
-
-#: templates/static_pages/prop_file.html:52
-msgid "not"
-msgstr "nereiškia"
-
-#: templates/static_pages/prop_file.html:53
-#, fuzzy
-msgid "Any field"
-msgstr "Paieška išsaugota"
-
-#: templates/static_pages/prop_file.html:54
-msgid "Share your ideas"
-msgstr "Pasidalinkite savo idėjomis"
-
-#: templates/static_pages/prop_file.html:55
-msgid "Tagging"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:56
-msgid "Send us feedback"
-msgstr "atsiųskite atsiliepimus,"
-
-#: templates/static_pages/prop_file.html:57
-msgid "People are currently thinking about"
-msgstr "Šiuo metu žmonės galvoja apie"
-
-#: templates/static_pages/prop_file.html:58
-msgid "Timeline navigator"
-msgstr "Laiko skalės navigatorius"
-
-#: templates/static_pages/prop_file.html:59
-msgid "Browse through time"
-msgstr "Paieška laike"
-
-#: templates/static_pages/prop_file.html:61
-msgid ""
-"From our partner museums, archives, libraries and audio-visual collections"
-msgstr ""
-"Iš mūsų partnerių muziejų, archyvų, bibliotekų ir garso-vaizdo kolekcijų"
-
-#: templates/static_pages/prop_file.html:62
-#: templates/static_pages/prop_file.html:905
-#: templates/static_pages/prop_file.html:906
-#: templates/static_pages/sitemap.html:36
-msgid "About us"
-msgstr "Apie mus"
-
-#: templates/static_pages/prop_file.html:64
-msgid "Using Europeana"
-msgstr "Kaip naudotis Europeana"
-
-#: templates/static_pages/prop_file.html:66
-#: templates/static_pages/prop_file.html:518
-#: templates/static_pages/prop_file.html:519
-#: templates/static_pages/prop_file.html:831
-#: templates/static_pages/prop_file.html:832
-#: templates/static_pages/sitemap.html:8
-msgid "Sitemap"
-msgstr "Svetainės struktūra"
-
-#: templates/static_pages/prop_file.html:67
-#: templates/static_pages/prop_file.html:362
-msgid "Terms and conditions"
-msgstr "Treminai ir sąlygos"
-
-#: templates/static_pages/prop_file.html:69
-#: templates/static_pages/sitemap.html:107
-msgid "Language policy"
-msgstr "Kalbų politika"
-
-#: templates/static_pages/prop_file.html:70
-#: templates/static_pages/prop_file.html:827
-#: templates/static_pages/prop_file.html:828
-#, fuzzy
-msgid "Contact us"
-msgstr "Kontaktai"
-
-#: templates/static_pages/prop_file.html:71
-msgid "co-funded by the European Union"
-msgstr "Iš dalies finansavo Europos Sąjunga"
-
-#: templates/static_pages/prop_file.html:72
-#, fuzzy
-msgid "Europeana think culture"
-msgstr "pažinkite kultūrą"
-
-#: templates/static_pages/prop_file.html:73
-msgid "Click here to return to the Europeana homepage"
-msgstr "Spustelėkite, jei norite grįžti į Europeanos pirmąjį puslapį"
-
-#: templates/static_pages/prop_file.html:74
-#, fuzzy
-msgid "Refine your results"
-msgstr "Rezultatai Europeanoje"
-
-#: templates/static_pages/prop_file.html:75
-msgid "By language of description"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:76
-#, fuzzy
-msgid "By providing country"
-msgstr "Šalis"
-
-#: templates/static_pages/prop_file.html:77
-msgid "By year"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:79
-msgid "By user tag"
-msgstr "Pagal vartotojo žymenį"
-
-#: templates/static_pages/prop_file.html:80
-msgid "By type"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:81
-#: templates/static_pages/usingeuropeana_search.html:55
-msgid "By media type"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:82
-#, fuzzy
-msgid "Actions"
-msgstr "Abolicija"
-
-#: templates/static_pages/prop_file.html:83
-#: templates/static_pages/usingeuropeana_myeuropeana.html:14
-msgid "Save this search"
-msgstr "Išsaugoti šią paiešką"
-
-#: templates/static_pages/prop_file.html:84
-msgid "Search saved"
-msgstr "Paieška išsaugota"
-
-#: templates/static_pages/prop_file.html:85
-msgid "Saving search failed"
-msgstr "Paieškos išsaugoti nepavyko"
-
-#: templates/static_pages/prop_file.html:86
-msgid "You have searched for"
-msgstr "Ieškojote"
-
-#: templates/static_pages/prop_file.html:87
-#: templates/static_pages/usingeuropeana_search.html:51
-#: templates/static_pages/usingeuropeana_search.html:63
-#: templates/static_pages/usingeuropeana_search.html:65
-msgid "Matches for"
-msgstr "naudokite šią formą"
-
-#: templates/static_pages/prop_file.html:88
-msgid "You are viewing related items"
-msgstr "Žiūrite susijusius objektus"
-
-#: templates/static_pages/prop_file.html:89
-msgid "All"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:94
-msgid "Text"
-msgstr "Tekstai"
-
-#: templates/static_pages/prop_file.html:95
-msgid "Image"
-msgstr "Vaizdai"
-
-#: templates/static_pages/prop_file.html:96
-#: templates/static_pages/usingeuropeana_results.html:17
-msgid "Video"
-msgstr "Vaizdo medžiaga"
-
-#: templates/static_pages/prop_file.html:97
-#: templates/static_pages/usingeuropeana_results.html:18
-msgid "Sound"
-msgstr "Garso medžiaga"
-
-#: templates/static_pages/prop_file.html:98
-#, fuzzy
-msgid "List view"
-msgstr "Turinio pateikimas"
-
-#: templates/static_pages/prop_file.html:99
-#, fuzzy
-msgid "#Table view"
-msgstr "Laiko skalė"
-
-#: templates/static_pages/prop_file.html:100
-msgid "Page"
-msgstr "puslapyje"
-
-#: templates/static_pages/prop_file.html:101
-msgid "of"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:102
-#, fuzzy
-msgid "Click here for previous page of results"
-msgstr "Spustelėkite, jei norite matyti kitą rezultatų puslapį"
-
-#: templates/static_pages/prop_file.html:103
-msgid "Click here for next page of results"
-msgstr "Spustelėkite, jei norite matyti kitą rezultatų puslapį"
-
-#: templates/static_pages/prop_file.html:104
-msgid "Print this page"
-msgstr "Spausdinti šį puslapį"
-
-#: templates/static_pages/prop_file.html:105
-msgid "Click for more information"
-msgstr "Spustelėkite, jei norite daugiau informacijos"
-
-#: templates/static_pages/prop_file.html:106
-msgid "No items found"
-msgstr "Nerasta objektų"
-
-#: templates/static_pages/prop_file.html:107
-msgid "Related content"
-msgstr "Susijęs turinys"
-
-#: templates/static_pages/prop_file.html:108
-msgid "See all related items"
-msgstr "Žiūrėti visus susijusius objektus"
-
-#: templates/static_pages/prop_file.html:109
-msgid "User tags"
-msgstr "Naudokite"
-
-#: templates/static_pages/prop_file.html:110
-#: templates/static_pages/usingeuropeana_myeuropeana.html:15
-msgid "Add a tag"
-msgstr "Priskirti žymenį"
-
-#: templates/static_pages/prop_file.html:111
-#: templates/static_pages/usingeuropeana_search.html:49
-#, fuzzy
-msgid "Add"
-msgstr "Elektroninio pašto adresas"
-
-#: templates/static_pages/prop_file.html:112
-msgid "Tag added"
-msgstr "Žymens pridėti nepavyko"
-
-#: templates/static_pages/prop_file.html:113
-msgid "Tag addition failed"
-msgstr "Žymens pridėti nepavyko"
-
-#: templates/static_pages/prop_file.html:114
-msgid "Share with a friend"
-msgstr "Dalytis su draugu"
-
-#: templates/static_pages/prop_file.html:115
-msgid "Email address"
-msgstr "Elektroninio pašto adresas"
-
-#: templates/static_pages/prop_file.html:116
-#, fuzzy
-msgid "Email sent"
-msgstr "Elektroninio pašto adresas"
-
-#: templates/static_pages/prop_file.html:117
-msgid "Email could not be sent"
-msgstr "El. laiškas neišsiųstas"
-
-#: templates/static_pages/prop_file.html:118
-msgid "Send"
-msgstr "Garso medžiaga"
-
-#: templates/static_pages/prop_file.html:119
-#: templates/static_pages/usingeuropeana_myeuropeana.html:16
-msgid "Save to My Europeana"
-msgstr "Išsaugoti Mano Europeanoje"
-
-#: templates/static_pages/prop_file.html:120
-msgid "Item saved"
-msgstr "Paieška išsaugota"
-
-#: templates/static_pages/prop_file.html:121
-msgid "Save item failed"
-msgstr "Išsaugoti nepavyko"
-
-#: templates/static_pages/prop_file.html:122
-msgid "Error"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:123
-msgid "Error details"
-msgstr "Daugiau informacijos"
-
-#: templates/static_pages/prop_file.html:124
-#, fuzzy
-msgid "Return to results"
-msgstr "Rezultatai Europeanoje"
-
-#: templates/static_pages/prop_file.html:125
-msgid "More"
-msgstr "arba"
-
-#: templates/static_pages/prop_file.html:126
-msgid "Less"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:127
-msgid "Items"
-msgstr "Paieška išsaugota"
-
-#: templates/static_pages/prop_file.html:128
-#, fuzzy
-msgid "Item details"
-msgstr "Pamatyti daugiau informacijos"
-
-#: templates/static_pages/prop_file.html:129
-msgid "View as XML"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:130
-msgid "View with labels"
-msgstr "Žiūrėti su etiketėmis"
-
-#: templates/static_pages/prop_file.html:131
-msgid "View without labels"
-msgstr "Žiūrėti be etikečių"
-
-#: templates/static_pages/prop_file.html:132
-msgid "Opens in a new window"
-msgstr "Atidaroma naujame lange"
-
-#: templates/static_pages/prop_file.html:133
-msgid "View in original context"
-msgstr "Žiūrėti originalų kontekstą"
-
-#: templates/static_pages/prop_file.html:134
-#: templates/static_pages/prop_file.html:817
-msgid "Provider"
-msgstr "Turinio pateikimas"
-
-#: templates/static_pages/prop_file.html:135
-#: templates/static_pages/prop_file.html:228
-#: templates/static_pages/prop_file.html:814
-#: templates/static_pages/storyline.html:49
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid "Title"
-msgstr "Pavadinimas"
-
-#: templates/static_pages/prop_file.html:136
-#: templates/static_pages/prop_file.html:235
-#, fuzzy
-msgid "Description"
-msgstr "Registruotis dar kartą"
-
-#: templates/static_pages/prop_file.html:137
-#: templates/static_pages/storyline.html:50
-#: templates/static_pages/usingeuropeana_search.html:31
-msgid "Creator"
-msgstr "Autorius"
-
-#: templates/static_pages/prop_file.html:138
-#: templates/static_pages/prop_file.html:232
-#: templates/static_pages/usingeuropeana_search.html:34
-#, fuzzy
-msgid "Date"
-msgstr "puslapyje"
-
-#: templates/static_pages/prop_file.html:139
-#: templates/static_pages/prop_file.html:234
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid "Subject"
-msgstr "Dalykas"
-
-#: templates/static_pages/prop_file.html:140
-msgid "Show all"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:141
-msgid "Delete"
-msgstr "Dekartas"
-
-#: templates/static_pages/prop_file.html:142
-msgid "No saved items"
-msgstr "Nėra išsaugotų objektų"
-
-#: templates/static_pages/prop_file.html:143
-msgid "No saved searches"
-msgstr "išplėstinės paieškos"
-
-#: templates/static_pages/prop_file.html:144
-#, fuzzy
-msgid "No saved tags"
-msgstr "Nėra išsaugotų objektų"
-
-#: templates/static_pages/prop_file.html:145
-msgid "No saved notifications"
-msgstr "Išsaugoti žymenys"
-
-#: templates/static_pages/prop_file.html:146
-msgid "Date saved"
-msgstr "Paieška išsaugota"
-
-#: templates/static_pages/prop_file.html:147
-#, fuzzy
-msgid "Remove"
-msgstr "Naudojimo sąlygos"
-
-#: templates/static_pages/prop_file.html:148
-#, fuzzy
-msgid "Welcome to MyEuropeana"
-msgstr "Išsaugoti Mano Europeanoje"
-
-#: templates/static_pages/prop_file.html:149
-msgid "Please click on the following link to confirm your registration"
-msgstr "Jei norite patvirtinti registraciją, spustelėkite šią nuorodą"
-
-#: templates/static_pages/prop_file.html:150
-#, fuzzy
-msgid "The Europeana Team"
-msgstr "Europos bibliotekos"
-
-#: templates/static_pages/prop_file.html:151
-#, fuzzy
-msgid "Results"
-msgstr "Registruotis dar kartą"
-
-#: templates/static_pages/prop_file.html:152
-msgid "Invalid query"
-msgstr "Klaidinga užklausa"
-
-#: templates/static_pages/prop_file.html:153
-msgid "This feature is currently disabled."
-msgstr "Ši funkcija šiuo metu neveikia"
-
-#: templates/static_pages/prop_file.html:154
-msgid "Password"
-msgstr "Pakartoti slaptažodį"
-
-#: templates/static_pages/prop_file.html:155
-msgid "Remember me on this computer"
-msgstr "Įsidėmėti mane šiame kompiuteryje"
-
-#: templates/static_pages/prop_file.html:156
-msgid "I forgot my password"
-msgstr "Pamiršau savo slaptažodį"
-
-#: templates/static_pages/prop_file.html:157
-msgid "Sign in"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:158
-msgid "Register"
-msgstr "Registruotis dar kartą"
-
-#: templates/static_pages/prop_file.html:159
-msgid "Register again"
-msgstr "Registruotis dar kartą"
-
-#: templates/static_pages/prop_file.html:160
-msgid ""
-"An error occurred while trying to process your registration. Please try again"
-msgstr "Registracijos metu įvyko klaida. Bandykite dar kartą"
-
-#: templates/static_pages/prop_file.html:161
-msgid "An email has been sent to the following address"
-msgstr "Elektroninis laiškas išsiųstas šiuo adresu"
-
-#: templates/static_pages/prop_file.html:162
-msgid ""
-"Please follow the link provided in the email and finish the registration "
-"process"
-msgstr ""
-"Užbaikite registraciją naudodami elektroniniame laiške pateiktą nuorodą"
-
-#: templates/static_pages/prop_file.html:163
-msgid "Please make sure your email is correctly formatted and try again"
-msgstr ""
-"Įsitikinkite, kad elektroninio pašto adresas yra teisingas, ir bandykite dar "
-"kartą"
-
-#: templates/static_pages/prop_file.html:164
-msgid "This email is already registered"
-msgstr "Šis elektroninio pašto adresas jau užregistruotas"
-
-#: templates/static_pages/prop_file.html:165
-msgid "Create an account"
-msgstr "Sukurti paskyrą"
-
-#: templates/static_pages/prop_file.html:166
-#: templates/static_pages/prop_file.html:976
-msgid "The link you used to complete registration is invalid or has expired."
-msgstr "Registracijai užbaigti naudojama nuoroda klaidinga arba neveikianti"
-
-#: templates/static_pages/prop_file.html:167
-msgid "Enter your email"
-msgstr "Įveskite savo elektroninio pašto adresą"
-
-#: templates/static_pages/prop_file.html:168
-msgid ""
-"You will use your email together with your password to log into the site"
-msgstr ""
-"Jungdamiesi prie tinklalapio naudosite savo el. pašto adresą ir slaptažodį"
-
-#: templates/static_pages/prop_file.html:169
-#: templates/static_pages/prop_file.html:173
-msgid "Your username will be displayed when you have logged in"
-msgstr "Prisijungimo metu bus pateikiamas jūsų vartotojo vardas"
-
-#: templates/static_pages/prop_file.html:170
-#, fuzzy
-msgid "Username"
-msgstr "Paskutinis pataisymas"
-
-#: templates/static_pages/prop_file.html:171
-msgid "is in use. Please choose another username"
-msgstr "jau naudojamas. Pasirinkite kitą vartotojo vardą"
-
-#: templates/static_pages/prop_file.html:172
-msgid "Choose a username"
-msgstr "Pasirinkite vartotojo vardą"
-
-#: templates/static_pages/prop_file.html:174
-#, fuzzy
-msgid "User information"
-msgstr "naudokite šią formą"
-
-#: templates/static_pages/prop_file.html:175
-msgid "Choose a password"
-msgstr "Pasirinkite slaptažodį"
-
-#: templates/static_pages/prop_file.html:176
-msgid "Passwords must be 6-30 characters in length"
-msgstr "Slaptažodį turi sudaryti 6-30 ženklų"
-
-#: templates/static_pages/prop_file.html:177
-msgid "Repeat password"
-msgstr "Pakartoti slaptažodį"
-
-#: templates/static_pages/prop_file.html:178
-msgid "Finish registration"
-msgstr "Baigti registraciją"
-
-#: templates/static_pages/prop_file.html:179
-msgid "You have successfully registered"
-msgstr "Registracija baigta"
-
-#: templates/static_pages/prop_file.html:181
-msgid "English (eng)"
-msgstr "Anglų (eng)"
-
-#: templates/static_pages/prop_file.html:182
-msgid "Croatian (hrv)"
-msgstr "Kroatų (hrv)"
-
-#: templates/static_pages/prop_file.html:183
-msgid "Czech (cze/cse)"
-msgstr "Čekų (cze/cse)"
-
-#: templates/static_pages/prop_file.html:184
-msgid "Greek (ell/gre)"
-msgstr "Graikų (ell/gre)"
-
-#: templates/static_pages/prop_file.html:185
-msgid "Estonian (est)"
-msgstr "Estų (est)"
-
-#: templates/static_pages/prop_file.html:186
-msgid "Danish (dan)"
-msgstr "Danų (dan)"
-
-#: templates/static_pages/prop_file.html:187
-msgid "Dutch (dut)"
-msgstr "Olandų (dut)"
-
-#: templates/static_pages/prop_file.html:188
-msgid "Finnish (fin)"
-msgstr "Suomių (fin)"
-
-#: templates/static_pages/prop_file.html:189
-msgid "French (fre)"
-msgstr "Prancūzų (fre)"
-
-#: templates/static_pages/prop_file.html:190
-msgid "Galician (glg)"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:191
-msgid "German (deu)"
-msgstr "Vokiečių (deu)"
-
-#: templates/static_pages/prop_file.html:192
-msgid "Hungarian (hun)"
-msgstr "Vengrų (hun)"
-
-#: templates/static_pages/prop_file.html:193
-msgid "Italian (ita)"
-msgstr "Italų (ita)"
-
-#: templates/static_pages/prop_file.html:194
-msgid "Latvian (lav)"
-msgstr "Latvių (lav)"
-
-#: templates/static_pages/prop_file.html:195
-msgid "Lithuanian (lit)"
-msgstr "Lietuva"
-
-#: templates/static_pages/prop_file.html:196
-msgid "Luxemburgish (ltz)"
-msgstr "Liuksemburgiečių"
-
-#: templates/static_pages/prop_file.html:197
-msgid "Maltese (mlt)"
-msgstr "Maltiečių"
-
-#: templates/static_pages/prop_file.html:198
-msgid "Norwegian (nor)"
-msgstr "Norvegų"
-
-#: templates/static_pages/prop_file.html:199
-msgid "Polish (pol)"
-msgstr "Lenkų (pol)"
-
-#: templates/static_pages/prop_file.html:200
-msgid "Portuguese (por)"
-msgstr "Portugalų (por)"
-
-#: templates/static_pages/prop_file.html:201
-msgid "Romanian (rom)"
-msgstr "Rumunų (rom)"
-
-#: templates/static_pages/prop_file.html:202
-msgid "Russian (rus)"
-msgstr "Rusų (rus)"
-
-#: templates/static_pages/prop_file.html:203
-msgid "Serbian (scc)"
-msgstr "Serbų (scc)"
-
-#: templates/static_pages/prop_file.html:204
-msgid "Slovak (slo)"
-msgstr "Slovakų (slo)"
-
-#: templates/static_pages/prop_file.html:205
-msgid "Slovenian (slv)"
-msgstr "Slovėnija"
-
-#: templates/static_pages/prop_file.html:206
-msgid "Spanish (esp)"
-msgstr "Ispanų (esp)"
-
-#: templates/static_pages/prop_file.html:207
-msgid "Icelandic (ice)"
-msgstr "Islandų (ice)"
-
-#: templates/static_pages/prop_file.html:208
-msgid "Swedish (sve/swe)"
-msgstr "Švedų (sve/swe)"
-
-#: templates/static_pages/prop_file.html:209
-msgid "Turkish (tur)"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:210
-#, fuzzy
-msgid "Ukrainian (ukr)"
-msgstr "Kroatų (hrv)"
-
-#: templates/static_pages/prop_file.html:211
-#, fuzzy
-msgid "Yiddish (yid)"
-msgstr "Suomių (fin)"
-
-#: templates/static_pages/prop_file.html:212
-msgid "Other"
-msgstr "Kiti"
-
-#: templates/static_pages/prop_file.html:213
-msgid "Alternative Title"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:214
-msgid "Provenance"
-msgstr "Prancūzija"
-
-#: templates/static_pages/prop_file.html:215
-msgid "Is Part of"
-msgstr "naudokite šią formą"
-
-#: templates/static_pages/prop_file.html:216
-#: templates/static_pages/prop_file.html:945
-msgid "Has part"
-msgstr "naudokite šią formą"
-
-#: templates/static_pages/prop_file.html:217
-msgid "Replaces"
-msgstr "Vaizdai"
-
-#: templates/static_pages/prop_file.html:218
-msgid "Is replaced by"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:219
-msgid "Is referenced by"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:220
-msgid "References"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:221
-msgid "Conforms to"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:222
-#, fuzzy
-msgid "Requires"
-msgstr "Registruotis dar kartą"
-
-#: templates/static_pages/prop_file.html:223
-msgid "Has format"
-msgstr "naudokite šią formą"
-
-#: templates/static_pages/prop_file.html:224
-msgid "Is format of"
-msgstr "naudokite šią formą"
-
-#: templates/static_pages/prop_file.html:225
-msgid "Geographic coverage"
-msgstr "Geografinė aprėptis"
-
-#: templates/static_pages/prop_file.html:226
-msgid "Time period"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:227
-#, fuzzy
-msgid "Publication date"
-msgstr "Viešoji nuosavybė"
-
-#: templates/static_pages/prop_file.html:229
-msgid "Author"
-msgstr "Austrija"
-
-#: templates/static_pages/prop_file.html:231
-msgid "Coverage"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:233
-msgid "Format"
-msgstr "naudokite šią formą"
-
-#: templates/static_pages/prop_file.html:236
-msgid "Publisher"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:237
-msgid "Identifier"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:238
-#, fuzzy
-msgid "Source"
-msgstr "Luvras"
-
-#: templates/static_pages/prop_file.html:240
-#, fuzzy
-msgid "Relation"
-msgstr "Susijęs turinys"
-
-#: templates/static_pages/prop_file.html:241
-#: templates/static_pages/sitemap.html:113
-msgid "Rights"
-msgstr "Kitos teisės"
-
-#: templates/static_pages/prop_file.html:242
-msgid "Type"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:243
-msgid "Austria"
-msgstr "Austrija"
-
-#: templates/static_pages/prop_file.html:244
-msgid "Croatia"
-msgstr "Latvija"
-
-#: templates/static_pages/prop_file.html:245
-msgid "Denmark"
-msgstr "Danija"
-
-#: templates/static_pages/prop_file.html:246
-msgid "Finland"
-msgstr "Suomija"
-
-#: templates/static_pages/prop_file.html:247
-msgid "France"
-msgstr "Prancūzija"
-
-#: templates/static_pages/prop_file.html:248
-msgid "Germany"
-msgstr "Vokietija"
-
-#: templates/static_pages/prop_file.html:249
-msgid "Italy-Florence"
-msgstr "Italija-Florencija"
-
-#: templates/static_pages/prop_file.html:250
-msgid "Italy-Rome"
-msgstr "Italija"
-
-#: templates/static_pages/prop_file.html:251
-msgid "Ireland"
-msgstr "Airija"
-
-#: templates/static_pages/prop_file.html:252
-msgid "Netherlands"
-msgstr "Nyderlandai"
-
-#: templates/static_pages/prop_file.html:253
-msgid "Portugal"
-msgstr "Portugalija"
-
-#: templates/static_pages/prop_file.html:254
-msgid "Russia - Moscow"
-msgstr "Rusija - Maskva"
-
-#: templates/static_pages/prop_file.html:255
-msgid "Russia - Saint Petersburg"
-msgstr "Rusija - Sankt Peterburgas"
-
-#: templates/static_pages/prop_file.html:256
-msgid "Romania"
-msgstr "Rumunija"
-
-#: templates/static_pages/prop_file.html:257
-msgid "Former Yugoslav Republic Of Macedonia"
-msgstr "Buvusioji Jugoslavijos Respublika Makedonija"
-
-#: templates/static_pages/prop_file.html:258
-msgid "Ukraine"
-msgstr "Prancūzija"
-
-#: templates/static_pages/prop_file.html:259
-msgid "Moldova"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:260
-msgid "Albania"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:261
-msgid "Georgia"
-msgstr "Serbija"
-
-#: templates/static_pages/prop_file.html:262
-msgid "Armenia"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:263
-msgid "Bosnia and Herzegovina"
-msgstr "Bosnija ir Hercegovina"
-
-#: templates/static_pages/prop_file.html:264
-msgid "Azerbaijan"
-msgstr "Serbija"
-
-#: templates/static_pages/prop_file.html:265
-msgid "Turkey"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:266
-msgid "Bulgaria"
-msgstr "Bulgarija"
-
-#: templates/static_pages/prop_file.html:267
-msgid "Serbia"
-msgstr "Serbija"
-
-#: templates/static_pages/prop_file.html:268
-msgid "Slovenia"
-msgstr "Slovėnija"
-
-#: templates/static_pages/prop_file.html:269
-msgid "Switzerland"
-msgstr "Šveicarija"
-
-#: templates/static_pages/prop_file.html:270
-msgid "United Kingdom"
-msgstr "Jungtinė Karalystė"
-
-#: templates/static_pages/prop_file.html:271
-msgid "Czech Republic"
-msgstr "Čekijos Respublika"
-
-#: templates/static_pages/prop_file.html:272
-msgid "Cyprus"
-msgstr "Kipras"
-
-#: templates/static_pages/prop_file.html:273
-msgid "Estonia"
-msgstr "Estija"
-
-#: templates/static_pages/prop_file.html:274
-msgid "Latvia"
-msgstr "Latvija"
-
-#: templates/static_pages/prop_file.html:275
-msgid "Lithuania"
-msgstr "Lietuva"
-
-#: templates/static_pages/prop_file.html:276
-msgid "Hungary"
-msgstr "Vengrija"
-
-#: templates/static_pages/prop_file.html:277
-msgid "Malta"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:278
-msgid "Poland"
-msgstr "Lenkija"
-
-#: templates/static_pages/prop_file.html:279
-msgid "Slovakia"
-msgstr "Slovakija"
-
-#: templates/static_pages/prop_file.html:280
-msgid "Spain"
-msgstr "Ispanija"
-
-#: templates/static_pages/prop_file.html:281
-msgid "Belgium"
-msgstr "Belgija"
-
-#: templates/static_pages/prop_file.html:282
-msgid "Iceland"
-msgstr "Islandija"
-
-#: templates/static_pages/prop_file.html:283
-msgid "Norway"
-msgstr "Norvegija"
-
-#: templates/static_pages/prop_file.html:284
-msgid "Sweden"
-msgstr "Švedija"
-
-#: templates/static_pages/prop_file.html:285
-msgid "Liechtenstein"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:286
-msgid "Luxembourg"
-msgstr "Liuksemburgas"
-
-#: templates/static_pages/prop_file.html:287
-msgid "Greece"
-msgstr "Graikija"
-
-#: templates/static_pages/prop_file.html:289
-msgid "Subject cloud"
-msgstr "Dalykas"
-
-#: templates/static_pages/prop_file.html:290
-msgid "Did you mean"
-msgstr "Ar turėjote omenyje?"
-
-#: templates/static_pages/prop_file.html:291
-msgid ""
-"Paintings, music, films and books from Europe's galleries, libraries, "
-"archives and museums."
-msgstr ""
-"Paveikslai, muzikos kūriniai, filmai ir knygos iš Europos galerijų, "
-"bibliotekų, archyvų ir muziejų."
-
-#: templates/static_pages/prop_file.html:292
-msgid "Data provider"
-msgstr "Turinio pateikimas"
-
-#: templates/static_pages/prop_file.html:293
-msgid "Europeana rights"
-msgstr "Europeanos logotipų"
-
-#: templates/static_pages/prop_file.html:294
-msgid "Terms of use"
-msgstr "Naudojimo sąlygos"
-
-#: templates/static_pages/prop_file.html:295
-msgid "The timeline only shows up to 1000 items relevant to your query."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:296
-msgid "Timeline view"
-msgstr "Laiko skalė"
-
-#: templates/static_pages/prop_file.html:297
-msgid "Embed"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:298
-#, fuzzy
-msgid "Options"
-msgstr "Abolicija"
-
-#: templates/static_pages/prop_file.html:299
-msgid "Embed this object into your own blog or website"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:300
-msgid ""
-"Paste the HTML source code below to your page. This page itself is an "
-"example of a page that embeds a Europeana object."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:301
-msgid ""
-"Now this Europeana object becomes a part of your page. Our content providers "
-"tend to improve their objects from time to time. Create an alert on this "
-"object to be notified if this specific object would change."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:302
-msgid "Preview it customized"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:303
-#, fuzzy
-msgid "Create notification for this item"
-msgstr "Išsaugoti žymenys"
-
-#: templates/static_pages/prop_file.html:304
-msgid ""
-"Log in to My Europeana and set an alert to be notified of updates, such as "
-"the publication of more metadata for this object."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:305
-#, fuzzy
-msgid ""
-"By using the embed function you accept and agree to the Europeana Terms of "
-"Use"
-msgstr ""
-"Naudodamiesi bet kuriomis teisėmis į Svetainę šių Naudojimo sąlygų pagrindu, "
-"jūs priimate ir sutinkate su šiose Naudojimo sąlygose numatytais apribojimais"
-
-#: templates/static_pages/prop_file.html:306
-msgid "Maximal number of text lines:"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:307
-#, fuzzy
-msgid "orientation:"
-msgstr "Susijęs turinys"
-
-#: templates/static_pages/prop_file.html:308
-msgid "portrait"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:309
-msgid "landscape"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:310
-#, fuzzy
-msgid "Refine Search"
-msgstr "patikslinta paieška"
-
-#: templates/static_pages/prop_file.html:311
-#, fuzzy
-msgid "By Rights"
-msgstr "Kitos teisės"
-
-#: templates/static_pages/prop_file.html:312
-#: templates/static_pages/usingeuropeana_search.html:59
-#, fuzzy
-msgid "By copyright"
-msgstr "Kitos teisės"
-
-#: templates/static_pages/prop_file.html:313
-#, fuzzy
-msgid "Free Access"
-msgstr "Europeana - teisės saugomos - ribota prieiga"
-
-#: templates/static_pages/prop_file.html:314
-#, fuzzy
-msgid "Restricted Access"
-msgstr "Europeana - teisės saugomos - ribota prieiga"
-
-#: templates/static_pages/prop_file.html:315
-#, fuzzy
-msgid "Paid Access"
-msgstr "Europeana - teisės saugomos - ribota prieiga"
-
-#: templates/static_pages/prop_file.html:316
-msgid "Public Domain"
-msgstr "Viešoji nuosavybė"
-
-#: templates/static_pages/prop_file.html:317
-msgid "Unknown"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:318
-msgid "Not all objects show rights information"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:319
-msgid "Translate with:"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:320
-msgid "Search line value with:"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:321
-msgid ""
-"Access External Search Services or Translate a fields content where you see "
-"the marker by double clicking the fields value."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:322
-msgid ""
-"ESS allows you to translate an individual fields contents or search for an "
-"individual line on an external search service to access additional relevant "
-"information."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:323
-msgid "indicates ESS services are available"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:324
-msgid "indicates ESS services are not available"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:325
-#, fuzzy
-msgid "Search term(s)"
-msgstr "Paieška išsaugota"
-
-#: templates/static_pages/prop_file.html:326
-#, fuzzy
-msgid "Search facet"
-msgstr "Paieška išsaugota"
-
-#: templates/static_pages/prop_file.html:327
-#, fuzzy
-msgid "Search operator"
-msgstr "Paieška išsaugota"
-
-#: templates/static_pages/prop_file.html:328
-msgid "Back to top"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:329
-#, fuzzy
-msgid "Click to search for this term in external services"
-msgstr "Spustelėkite, jei norite matyti kitą rezultatų puslapį"
-
-#: templates/static_pages/prop_file.html:330
-#: templates/static_pages/prop_file.html:332
-#, fuzzy
-msgid "Remote Search Widget"
-msgstr "Europeanos logotipų"
-
-#: templates/static_pages/prop_file.html:331
-msgid ""
-"You can use the link below to create a customized plugin for inclusion in "
-"your own website with the ability to search through the collections on the "
-"Europeana portal."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:333
-#, fuzzy
-msgid "Europeana Search Widget"
-msgstr "Europeanos logotipų"
-
-#: templates/static_pages/prop_file.html:336
-#, fuzzy
-msgid "What is Europeana's remote search widget?"
-msgstr "Europeanos logotipų"
-
-#: templates/static_pages/prop_file.html:337
-msgid ""
-"The remote search widget is a tailored plugin to search on and display items "
-"from Europeana's collections and those of their contributors within your own "
-"website."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:338
-#, fuzzy
-msgid "What is a plugin?"
-msgstr "Kas yra Mano Europeana?"
-
-#: templates/static_pages/prop_file.html:339
-msgid ""
-"The plugin is simply a piece of generated code that can be copied and pasted "
-"into one of the webpages on your own site."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:340
-#, fuzzy
-msgid "What will the plugin look like?"
-msgstr "Kas yra Mano Europeana?"
-
-#: templates/static_pages/prop_file.html:341
-msgid ""
-"The working plugin is shown on the right hand side of the screen. Making "
-"changes and selecting preview will let you see those changes in action."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:342
-msgid "How do I add the plugin into my own site?"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:343
-msgid "Select options from the menu below"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:344
-msgid ""
-"Click on 'Preview' to see the changes in the right hand side of the screen"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:345
-msgid ""
-"Check the box to say you have read and agree with the terms and conditions"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:346
-#, fuzzy
-msgid "Click 'Generate Code'"
-msgstr "Vartotojų sukurtas turinys"
-
-#: templates/static_pages/prop_file.html:347
-msgid "Copy the code from under 'Code for plugin:'"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:348
-msgid "Open a webpage on your own site in a text editor"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:349
-msgid "Paste the code into the page and save the changes"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:350
-msgid "Open your web page in a browser to see the plugin working"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:351
-msgid "How can I change the position of the plugin?"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:352
-msgid ""
-"The plugin can be nested within an HTML table but the easiest way is to use "
-"cascading stylesheets css. The plugin is surrounded in a div with the id "
-"swEuropeanaRemoteWidget and its position can be changed by changing the css "
-"properties for this div."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:353
-#, fuzzy
-msgid "Background colour"
-msgstr "Ištakos"
-
-#: templates/static_pages/prop_file.html:354
-msgid "Media type tab colour"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:355
-msgid "Text colour"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:356
-#, fuzzy
-msgid "Default language"
-msgstr "Pasirinkite kalbą"
-
-#: templates/static_pages/prop_file.html:357
-#, fuzzy
-msgid "Default search term"
-msgstr "Paieška išsaugota"
-
-#: templates/static_pages/prop_file.html:358
-msgid "Media Types"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:359
-#: templates/static_pages/usingeuropeana_searchwidget.html:30
-#, fuzzy
-msgid "Providers"
-msgstr "Turinio pateikimas"
-
-#: templates/static_pages/prop_file.html:360
-#, fuzzy
-msgid "Europeana attribution"
-msgstr "Europeanos logotipų"
-
-#: templates/static_pages/prop_file.html:361
-msgid "Widget Code: (To be copied and pasted into your website)"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:363
-#, fuzzy
-msgid "Generate Code"
-msgstr "Vartotojų sukurtas turinys"
-
-#: templates/static_pages/prop_file.html:364
-#, fuzzy
-msgid "Powered By Europeana"
-msgstr "Mano Europeana"
-
-#: templates/static_pages/prop_file.html:365
-#: templates/static_pages/prop_file.html:864
-#, fuzzy
-msgid "Europeana Blog"
-msgstr "Europeanos logotipų"
-
-#: templates/static_pages/prop_file.html:366
-#: templates/static_pages/prop_file.html:493
-#: templates/static_pages/prop_file.html:496
-#, fuzzy
-msgid "Virtual Exhibitions"
-msgstr "yra virtuali paroda, pristatanti"
-
-#: templates/static_pages/prop_file.html:367
-#: templates/static_pages/usingeuropeana_results.html:41
-msgid "Cite on Wikipedia"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:368
-msgid "Click to cite this object"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:369
-msgid "Use"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:370
-msgid "Harvard Bibliographic Style"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:371
-msgid "This record can be cited in the"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:372
-msgid "style using the text below:"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:373
-msgid "Harvard Bibliographic"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:374
-msgid "Close"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:375
-msgid "Show Auto-tags"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:376
-msgid "Hide Auto-tags"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:377
-msgid "Automatically added semantic tags"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:378
-#, fuzzy
-msgid "Place Term"
-msgstr "Turinio pateikimas"
-
-#: templates/static_pages/prop_file.html:379
-#, fuzzy
-msgid "Place Label"
-msgstr "Turinio pateikimas"
-
-#: templates/static_pages/prop_file.html:380
-msgid "Geo Space"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:381
-#, fuzzy
-msgid "Place Broader Term"
-msgstr "Turinio pateikimas"
-
-#: templates/static_pages/prop_file.html:382
-#, fuzzy
-msgid "Place Broader Label"
-msgstr "Turinio pateikimas"
-
-#: templates/static_pages/prop_file.html:383
-#, fuzzy
-msgid "Period Term"
-msgstr "Turinio pateikimas"
-
-#: templates/static_pages/prop_file.html:384
-#, fuzzy
-msgid "Period Label"
-msgstr "Turinio pateikimas"
-
-#: templates/static_pages/prop_file.html:385
-#, fuzzy
-msgid "Period Begin"
-msgstr "Turinio pateikimas"
-
-#: templates/static_pages/prop_file.html:386
-#, fuzzy
-msgid "Period End"
-msgstr "Turinio pateikimas"
-
-#: templates/static_pages/prop_file.html:387
-#, fuzzy
-msgid "Period Broader Term"
-msgstr "Turinio pateikimas"
-
-#: templates/static_pages/prop_file.html:388
-#, fuzzy
-msgid "Period Broader Label"
-msgstr "Turinio pateikimas"
-
-#: templates/static_pages/prop_file.html:389
-#, fuzzy
-msgid "Concept Term"
-msgstr "Turinio pateikimas"
-
-#: templates/static_pages/prop_file.html:390
-#, fuzzy
-msgid "Concept Label"
-msgstr "Turinio pateikimas"
-
-#: templates/static_pages/prop_file.html:391
-#, fuzzy
-msgid "Concept Broader Term"
-msgstr "Turinio pateikimas"
-
-#: templates/static_pages/prop_file.html:392
-#, fuzzy
-msgid "Concept Broader Label"
-msgstr "Turinio pateikimas"
-
-#: templates/static_pages/prop_file.html:393
-#, fuzzy
-msgid "Agent Term"
-msgstr "Turinio pateikimas"
-
-#: templates/static_pages/prop_file.html:394
-#, fuzzy
-msgid "Agent Label"
-msgstr "Turinio pateikimas"
-
-#: templates/static_pages/prop_file.html:399
-#: templates/static_pages/prop_file.html:410
-#: templates/static_pages/prop_file.html:421
-#: templates/static_pages/prop_file.html:431
-#: templates/static_pages/prop_file.html:441
-#: templates/static_pages/prop_file.html:451
-#: templates/static_pages/prop_file.html:460
-#: templates/static_pages/prop_file.html:471
-#: templates/static_pages/prop_file.html:482
-#, fuzzy
-msgid "Featured item"
-msgstr "Nėra išsaugotų objektų"
-
-#: templates/static_pages/prop_file.html:403
-msgid ""
-"Vase with flowers placed on a table in a range of Red-purple, with many grey "
-"accents, deriving from them. Figurative drawing with touches of green, grey "
-"and white background, divided after the white section. The bottom in Golden "
-"ocher, with shadows of blue."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:414
-msgid ""
-"The Ilse Valley, showing the Dr&uuml;beck Abbey Church and the Ilsenburger "
-"Castle. For this painting a stratagem was used, because in reality both "
-"buildings are further apart."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:425
-msgid ""
-"Eadweard James Muybridge was an English photographer important for his "
-"pioneering work in photographic studies of motion and in motion-picture "
-"projection."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:435
-msgid ""
-"The female personification of Europa sits on a horse in a library. In her "
-"hands a sceptre and a cornucopia. She is joined by putti with attributes "
-"that symbolize the Arts and Sciences. In the background are two men in a "
-"workshop."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:445
-msgid ""
-"Floral composition range of Pinks, yellows and greys greys of red. To "
-"highlight crop floral on blue-yellow background. Balanced color of hot and "
-"cold, the flowers in warm colors-background in cool colors. The entire color "
-"Iriz&#259;ri; flowers."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:455
-msgid ""
-"Items of interest in learning depicted with their names. Etching. The card "
-"shows different objects from a Decanter &amp; Tea Chest to a Ladies Toilet."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:464
-msgid ""
-"Toppop is the first weekly program about pop music on the Dutch television. "
-"Notable artists come to the studio - often with bizarre props and sets - to "
-"playback their newest hit. Broadcast on 18 February 1974 by Dutch public "
-"broadcaster AVRO"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:475
-msgid ""
-"Three staff members of the Phoenix brewery at a truck of the company. The "
-"location is not clear. From left to right: J.H. v.d. Berg, m. Dale and j. "
-"Vasquez."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:486
-msgid ""
-"Milk. The natural pick-me-up. This image was used in 1994, during a campaign "
-"for drinking milk in Switzerland. It was created by Advico Young and Rubicam "
-"advertising agency (D&uuml;bendorf) for the Central Association of Swiss "
-"Milk Producers"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:497
-msgid ""
-"Explore 13 unique curated exhibitions highlighting some of Europe's biggest "
-"cultural treasures."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:498
-#, fuzzy
-msgid "Visit exhibitions"
-msgstr "yra virtuali paroda, pristatanti"
-
-#: templates/static_pages/prop_file.html:504
-#: templates/static_pages/prop_file.html:507
-#, fuzzy
-msgid "Europeana Open Culture App"
-msgstr "pažinkite kultūrą"
-
-#: templates/static_pages/prop_file.html:508
-msgid ""
-"Available for all Apple and Android tablets, the Europeana Open Culture app "
-"lets you explore hand-picked image collections from some of Europe's top "
-"cultural institutions."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:509
-#, fuzzy
-msgid "Learn more"
-msgstr "Europeana - Skaitant Europą"
-
-#: templates/static_pages/prop_file.html:522
-#: templates/static_pages/prop_file.html:523
-#: templates/static_pages/sitemap.html:97
-#, fuzzy
-msgid "Terms of Use &amp; Policies"
-msgstr "Treminai ir sąlygos"
-
-#: templates/static_pages/prop_file.html:530
-#: templates/static_pages/prop_file.html:531
-msgid "Language Policy"
-msgstr "Kalbų politika"
-
-#: templates/static_pages/prop_file.html:534
-#: templates/static_pages/prop_file.html:535
-#: templates/static_pages/sitemap.html:126
-msgid "Contact"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:538
-#: templates/static_pages/prop_file.html:539
-#: templates/static_pages/prop_file.html:949
-#: templates/static_pages/prop_file.html:950
-#: templates/static_pages/sitemap.html:11
-msgid "Home"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:590
-#: templates/static_pages/sitemap.html:31
-#: templates/static_pages/usingeuropeana_searchwidget.html:9
-msgid "How to configure your search widget"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:591
-#, fuzzy
-msgid "How to configure your search widhet"
-msgstr "Europeanos logotipų"
-
-#: templates/static_pages/prop_file.html:602
-#: templates/static_pages/prop_file.html:603
-#, fuzzy
-msgid "Press Room"
-msgstr "Spaudos kambarys"
-
-#: templates/static_pages/prop_file.html:634
-#: templates/static_pages/prop_file.html:635
-msgid "Pinterest"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:642
-#: templates/static_pages/prop_file.html:643
-#: templates/static_pages/prop_file.html:648
-#, fuzzy
-msgid "Explore Europe's cultural collections"
-msgstr "Europeanos kolekcijos naujienas,"
-
-#: templates/static_pages/prop_file.html:646
-#: templates/static_pages/prop_file.html:647
-msgid "Access professional knowledge"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:649
-msgid "Social media activities"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:650
-msgid "From the blog"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:651
-#, fuzzy
-msgid "Filter your search"
-msgstr "Įveskite savo elektroninio pašto adresą"
-
-#: templates/static_pages/prop_file.html:652
-#, fuzzy
-msgid "Grid view"
-msgstr "Turinio pateikimas"
-
-#: templates/static_pages/prop_file.html:653
-msgid ""
-"We apologize; there was a problem retrieving the search results from the "
-"server. Please try again later"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:654
-#, fuzzy
-msgid "Similar items"
-msgstr "Nėra išsaugotų objektų"
-
-#: templates/static_pages/prop_file.html:655
-msgid "Loading ..."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:656
-#: templates/static_pages/usingeuropeana_results.html:42
-msgid "Translate details"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:657
-#, fuzzy
-msgid "Return to search results"
-msgstr "Rezultatai Europeanoje"
-
-#: templates/static_pages/prop_file.html:658
-#, fuzzy
-msgid "Next search result"
-msgstr "išplėstinės paieškos"
-
-#: templates/static_pages/prop_file.html:659
-msgid "Something went wrong!"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:660
-#, fuzzy
-msgid "An email has been sent to inform our technical staff"
-msgstr "Elektroninis laiškas išsiųstas šiuo adresu"
-
-#: templates/static_pages/prop_file.html:661
-#, fuzzy
-msgid "Please try another search"
-msgstr "Įveskite savo elektroninio pašto adresą"
-
-#: templates/static_pages/prop_file.html:662
-msgid "Saved search removed successfully"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:663
-#: templates/static_pages/prop_file.html:676
-msgid "Saved item removed successfully"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:664
-msgid "Saved tag removed successfully"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:665
-msgid "An error occurred"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:666
-#, fuzzy
-msgid "The item could not be removed"
-msgstr "El. laiškas neišsiųstas"
-
-#: templates/static_pages/prop_file.html:667
-msgid "Auto-generated tags"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:668
-#, fuzzy
-msgid "Request"
-msgstr "Registruotis dar kartą"
-
-#: templates/static_pages/prop_file.html:669
-#: templates/static_pages/prop_file.html:672
-#, fuzzy
-msgid "Legend"
-msgstr "Garso medžiaga"
-
-#: templates/static_pages/prop_file.html:670
-#, fuzzy
-msgid "See less"
-msgstr "Europeana - Skaitant Europą"
-
-#: templates/static_pages/prop_file.html:671
-#, fuzzy
-msgid "See more"
-msgstr "Europeana - Skaitant Europą"
-
-#: templates/static_pages/prop_file.html:673
-#, fuzzy
-msgid "Explore further"
-msgstr "Europeanos kolekcijos naujienas,"
-
-#: templates/static_pages/prop_file.html:674
-#, fuzzy
-msgid "Return to original language"
-msgstr "Laiko skalė"
-
-#: templates/static_pages/prop_file.html:675
-msgid "Attention: this item has been withdrawn by the provider."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:677
-msgid ""
-"We apologise; there was a problem retrieving the data from the server. "
-"Please try again later."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:678
-#, fuzzy
-msgid "Preview"
-msgstr "Turinio pateikimas"
-
-#: templates/static_pages/prop_file.html:679
-#, fuzzy
-msgid "Return to timeline"
-msgstr "Laiko skalė"
-
-#: templates/static_pages/prop_file.html:680
-msgid "This email address does not yet exist in our database"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:681
-msgid "Your password change has been successfully completed"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:682
-#, fuzzy
-msgid "Zoom"
-msgstr "nereiškia"
-
-#: templates/static_pages/prop_file.html:683
-#, fuzzy
-msgid "Zoom in"
-msgstr "nereiškia"
-
-#: templates/static_pages/prop_file.html:684
-#, fuzzy
-msgid "Zoom out"
-msgstr "nereiškia"
-
-#: templates/static_pages/prop_file.html:685
-msgid "Choose from different map types"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:686
-msgid ""
-"Navigate map: click and hold left mouse-button, then move mouse to change "
-"the view"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:687
-msgid ""
-"Select via freeform: add anchor points with left mouse-click, double click "
-"to finish the shape"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:688
-msgid "Google Satellite"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:689
-msgid "Google Hybrid"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:690
-msgid "Google Street"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:691
-msgid "Google Physical"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:693
-msgid "Tiles courtesy of"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:694
-msgid ""
-"This is your personal space on Europeana. With My Europeana, you can save "
-"your favourite items and searches, and add tags."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:695
-#: templates/static_pages/usingeuropeana_results.html:19
-msgid "3D"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:696
-msgid "Download"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:697
-#, fuzzy
-msgid "User contributed content"
-msgstr "Vartotojų sukurtas turinys"
-
-#: templates/static_pages/prop_file.html:698
-msgid "Play"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:699
-#, fuzzy
-msgid "Read"
-msgstr "Europeana - Skaitant Europą"
-
-#: templates/static_pages/prop_file.html:700
-#: templates/static_pages/usingeuropeana_results.html:34
-msgid "View"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:701
-msgid "View larger image"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:702
-msgid "Your search result contains no items that have map co-ordinates."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:703
-#, fuzzy
-msgid "Please try another search."
-msgstr "Įveskite savo elektroninio pašto adresą"
-
-#: templates/static_pages/prop_file.html:704
-msgid ""
-"The Europeana map search is still in development and currently doesn't work "
-"in Internet Explorer. We aim to support Internet Explorer in the future. "
-"Currently we recommend you to use Chrome or Firefox."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:708
-#, fuzzy
-msgid "Wikipedia Citation"
-msgstr "Migracija"
-
-#: templates/static_pages/prop_file.html:709
-msgid "Copy and paste the wiki-markup below:"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:716
-#: templates/static_pages/usingeuropeana_search.html:67
-msgid "Include content contributed by users"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:717
-msgid "The map only shows up to 1000 items relevant to your query."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:718
-msgid "No place name available"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:719
-msgid "The map only shows up to {0} items relevant to your query."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:720
-msgid "Search within current map view"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:721
-#: templates/static_pages/usingeuropeana_results.html:41
-#, fuzzy
-msgid "Citation"
-msgstr "Migracija"
-
-#: templates/static_pages/prop_file.html:722
-#: templates/static_pages/usingeuropeana_results.html:41
-msgid "Footnote"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:723
-msgid "Follow us on"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:724
-msgid "Unable to find content for this page."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:727
-msgid "Latest on"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:728
-#: templates/static_pages/prop_file.html:969
-#: templates/static_pages/usingeuropeana_search.html:69
-msgid "Share"
-msgstr "Dalytis"
-
-#: templates/static_pages/prop_file.html:729
-msgid "Share item on Facebook, Twitter, etc."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:730
-msgid "Follow us!"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:731
-msgid "Newsletter sign-up"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:732
-#: templates/static_pages/prop_file.html:733
-msgid "Sign-up here"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:734
-#: templates/static_pages/prop_file.html:990
-msgid "Name"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:735
-#, fuzzy
-msgid "Email Address"
-msgstr "Elektroninio pašto adresas"
-
-#: templates/static_pages/prop_file.html:736
-msgid ""
-"Sign-up to receive our bi-monthly newsletter, and occasional announcements."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:747
-#: templates/static_pages/prop_file.html:758
-#: templates/static_pages/prop_file.html:769
-#: templates/static_pages/prop_file.html:779
-#: templates/static_pages/prop_file.html:790
-#, fuzzy
-msgid "Featured partner"
-msgstr "Nėra išsaugotų objektų"
-
-#: templates/static_pages/prop_file.html:751
-msgid ""
-"Ateneum Art Museum is home to the largest and most important art collections "
-"in Finland. The museum governs over 20,000 works of art. The most "
-"significant of these is the Antell Collection, a testamentary donation by "
-"the collector H. F. Antell."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:762
-msgid ""
-"The National Gallery of Ireland houses the Irish national collection of "
-"Irish and European art. It is located in the centre of Dublin with one "
-"entrance on Merrion Square, beside Leinster House, and another on Clare "
-"Street. Due to ongoing renovations, the Clare Street entrance is the only "
-"one currently open. It was founded in 1854 and opened its doors ten years "
-"later. The Gallery has an extensive, representative collection of Irish "
-"painting and is also notable for its Italian Baroque and Dutch masters "
-"painting."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:773
-msgid ""
-"One of the oldest and the best museums of the Upper Volga Region, was "
-"founded in 1910. Now the museum houses more than 120 thousand exhibits: from "
-"saurian bones to paintings of famous artists."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:783
-msgid ""
-"Since its founding in 1952 the Hungarian Theatre Museum and Institute has "
-"been collecting the most valuable relics and data of the Hungarian theatre, "
-"bridging the distant beginnings centuries ago with-last night's "
-"performances. A dozen and a half of separate collections enclose the "
-"invaluable traces of the artform most susceptible to evanescence: paintings, "
-"photographs, stage and costume designs, posters, props, video recordingsâ"
-"€”and many more..."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:794
-msgid ""
-"Archive Eemland is the historical information centre of Amersfoort and the "
-"Eemland region. The archive manages approximately 3.5 kilometers of "
-"archives, an image collection of 40,000 photographs, a significant "
-"collection of maps, a growing audiovisual collection and a rich historical "
-"library."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:801
-#, fuzzy
-msgid "API function"
-msgstr "Abolicija"
-
-#: templates/static_pages/prop_file.html:802
-#, fuzzy
-msgid "Search parameters"
-msgstr "Paieška išsaugota"
-
-#: templates/static_pages/prop_file.html:803
-#, fuzzy
-msgid "Search term"
-msgstr "Paieška išsaugota"
-
-#: templates/static_pages/prop_file.html:804
-msgid "Refinement term(s)"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:805
-msgid "Profile"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:806
-msgid "Number of records to retrieve"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:807
-msgid "First record to retrieve"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:808
-#, fuzzy
-msgid "Record parameters"
-msgstr "Nėra išsaugotų objektų"
-
-#: templates/static_pages/prop_file.html:809
-msgid "Record id"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:810
-#, fuzzy
-msgid "Request URL"
-msgstr "Registruotis dar kartą"
-
-#: templates/static_pages/prop_file.html:811
-msgid "JSON response"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:813
-#, fuzzy
-msgid "Search also for:"
-msgstr "Paieška išsaugota"
-
-#: templates/static_pages/prop_file.html:815
-msgid "Who"
-msgstr "Kas"
-
-#: templates/static_pages/prop_file.html:816
-msgid "What"
-msgstr "Kas"
-
-#: templates/static_pages/prop_file.html:818
-#, fuzzy
-msgid "api-introduction.html"
-msgstr "Atribucija"
-
-#: templates/static_pages/prop_file.html:821
-#: templates/static_pages/prop_file.html:825
-#: templates/static_pages/prop_file.html:829
-#: templates/static_pages/prop_file.html:833
-msgid "_self"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:822
-msgid "rights/terms-and-policies.html"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:823
-#: templates/static_pages/prop_file.html:824
-#, fuzzy
-msgid "Terms of use &amp; Policies"
-msgstr "Treminai ir sąlygos"
-
-#: templates/static_pages/prop_file.html:826
-#, fuzzy
-msgid "contact.html"
-msgstr "Kontaktai"
-
-#: templates/static_pages/prop_file.html:830
-#, fuzzy
-msgid "sitemap.html"
-msgstr "Svetainės struktūra"
-
-#: templates/static_pages/prop_file.html:835
-#: templates/static_pages/usingeuropeana_myeuropeana.html:17
-#, fuzzy
-msgid "API keys"
-msgstr "Naudojimo sąlygos"
-
-#: templates/static_pages/prop_file.html:836
-#, fuzzy
-msgid "No API key"
-msgstr "Naudojimo sąlygos"
-
-#: templates/static_pages/prop_file.html:837
-#, fuzzy
-msgid "API key"
-msgstr "Naudojimo sąlygos"
-
-#: templates/static_pages/prop_file.html:838
-#, fuzzy
-msgid "Private key"
-msgstr "Privatumas"
-
-#: templates/static_pages/prop_file.html:839
-msgid "Usage limit"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:840
-msgid "Role"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:841
-msgid "Administrator's page"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:842
-#, fuzzy
-msgid "Remove API key"
-msgstr "Naudojimo sąlygos"
-
-#: templates/static_pages/prop_file.html:843
-msgid "Limit"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:844
-#, fuzzy
-msgid "Remove user"
-msgstr "Naudojimo sąlygos"
-
-#: templates/static_pages/prop_file.html:845
-msgid "Block user"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:846
-msgid "Export API keys to CSV"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:847
-msgid "Export users to CSV"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:848
-#, fuzzy
-msgid "User name"
-msgstr "Paskutinis pataisymas"
-
-#: templates/static_pages/prop_file.html:849
-#, fuzzy
-msgid "Registration"
-msgstr "Registruotis dar kartą"
-
-#: templates/static_pages/prop_file.html:851
-msgid "Visit the website of"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:852
-msgid "View the latest content from our partners"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:856
-#: templates/static_pages/prop_file.html:857
 #: templates/static_pages/sitemap.html:15
 #, fuzzy
 msgid "Other Europeana Sites"
 msgstr "Europos bibliotekos"
 
-#: templates/static_pages/prop_file.html:860
-#, fuzzy
-msgid "Europeana Exhibitions"
-msgstr "yra virtuali paroda, pristatanti"
-
-#: templates/static_pages/prop_file.html:868
 #: templates/static_pages/sitemap.html:19
 #, fuzzy
 msgid "Europeana 1914-1918"
 msgstr "Europeana - DUK"
 
-#: templates/static_pages/prop_file.html:873
-msgid "Remix"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:876
 #: templates/static_pages/sitemap.html:21
 msgid "Europeana Professional"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:877
-msgid "Professional"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:937
-msgid "Change limit for an API key"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:938
-#, fuzzy
-msgid "Company or Institution"
-msgstr "Tyrimų institucijos"
-
-#: templates/static_pages/prop_file.html:939
-msgid "Telephone contact"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:940
-#, fuzzy
-msgid "Address"
-msgstr "Elektroninio pašto adresas"
-
-#: templates/static_pages/prop_file.html:941
-msgid "I confirm that I have read and agree to the"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:942
-msgid "Next in sequence"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:943
-#, fuzzy
-msgid "Date of creation"
-msgstr "Duomenų apsauga"
-
-#: templates/static_pages/prop_file.html:944
-#, fuzzy
-msgid "Is part of"
-msgstr "naudokite šią formą"
-
-#: templates/static_pages/prop_file.html:955
-#, fuzzy
-msgid "Titles"
-msgstr "Pavadinimas"
-
-#: templates/static_pages/prop_file.html:956
-#, fuzzy
-msgid "Places"
-msgstr "Vaizdai"
-
-#: templates/static_pages/prop_file.html:957
-#, fuzzy
-msgid "Dates/Periods"
-msgstr "Paieška išsaugota"
-
-#: templates/static_pages/prop_file.html:958
-#, fuzzy
-msgid "Subjects"
-msgstr "Dalykas"
-
-#: templates/static_pages/prop_file.html:959
-#, fuzzy
-msgid "Creators"
-msgstr "Autorius"
-
-#: templates/static_pages/prop_file.html:960
-#, fuzzy
-msgid "All fields"
-msgstr "Paieška išsaugota"
-
-#: templates/static_pages/prop_file.html:961
-#, fuzzy
-msgid "Featured Item"
-msgstr "Nėra išsaugotų objektų"
-
-#: templates/static_pages/prop_file.html:962
-#: templates/static_pages/usingeuropeana_explore.html:15
-#, fuzzy
-msgid "Featured Partner"
-msgstr "Nėra išsaugotų objektų"
-
-#: templates/static_pages/prop_file.html:963
-#, fuzzy
-msgid "Click here for last page of results"
-msgstr "Spustelėkite, jei norite matyti kitą rezultatų puslapį"
-
-#: templates/static_pages/prop_file.html:964
-#: templates/static_pages/usingeuropeana_results.html:24
-#, fuzzy
-msgid "Results per page"
-msgstr "Rezultatai Europeanoje"
-
-#: templates/static_pages/prop_file.html:965
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid "Add more keywords"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:966
-msgid "+ Add"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:967
-msgid "Field of work"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:968
-msgid "Please, select"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:970
-#, fuzzy
-msgid "Please try another search later."
-msgstr "Įveskite savo elektroninio pašto adresą"
-
-#: templates/static_pages/prop_file.html:971
-msgid "Unable to find the requested page"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:972
-msgid "Alert:"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:973
-msgid "Unable to find the requested Europeana Record."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:974
-msgid "This item has been withdrawn by the provider."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:975
-msgid "Requested Europeana Record is not yet indexed."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:977
-#, fuzzy
-msgid "Please register your email again"
-msgstr "Prašome įrašyti veikiantį elektroninio pašto adresą"
-
-#: templates/static_pages/prop_file.html:978
-#, fuzzy
-msgid "to finish registration."
-msgstr "Baigti registraciją"
-
-#: templates/static_pages/prop_file.html:979
-msgid "Unable to fullfill your request due to malformed query parameters."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:980
-msgid "Unable to get a response from the Search Engine."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:981
-msgid "Unable to fulfill your request due to a malformed query syntax."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:982
-msgid "We are unable to change the interface to the requested language."
-msgstr ""
-
-#: templates/static_pages/prop_file.html:983
-#, fuzzy
-msgid "Please try another language from the dropdown list."
-msgstr "Įveskite savo elektroninio pašto adresą"
-
-#: templates/static_pages/prop_file.html:984
-msgid "Number of results shown on the page"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:991
-msgid "API-key"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:992
-msgid "Number of calls"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:994
-#: templates/static_pages/prop_file.html:995
-msgid "Can I use it?"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:996
-#, fuzzy
-msgid "Yes, with attribution"
-msgstr "Atribucija"
-
-#: templates/static_pages/prop_file.html:997
-#, fuzzy
-msgid "Yes, with restrictions"
-msgstr "Atribucija"
-
-#: templates/static_pages/prop_file.html:998
-msgid "Only with permission"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:1000
-msgid "Export API users to CSV"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:1001
-msgid "Export API users to Excel"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:1003
-msgid "It looks like your browser is set to"
-msgstr ""
-
-#: templates/static_pages/prop_file.html:1004
-msgid "would you like the interface to be in"
-msgstr ""
-
-#: templates/static_pages/sitemap.html:4
-#, fuzzy
-msgid "Europeana - Sitemap"
-msgstr "Europeana - E.naujienos"
-
 #: templates/static_pages/sitemap.html:27
 msgid "Searching in Europeana"
 msgstr "Paieška Europeanoje"
+
+#: templates/static_pages/sitemap.html:31
+#: templates/static_pages/usingeuropeana_searchwidget.html:9
+msgid "How to configure your search widget"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:36
+msgid "About us"
+msgstr "Apie mus"
 
 #: templates/static_pages/sitemap.html:39
 #, fuzzy
@@ -4476,6 +1723,15 @@ msgstr "Naudojimo sąlygos"
 msgid "Record"
 msgstr ""
 
+#: templates/static_pages/sitemap.html:65
+#: templates/static_pages/usingeuropeana_search.html:21
+#: templates/static_pages/usingeuropeana_search.html:25
+#: templates/static_pages/usingeuropeana_search.html:27
+#: templates/static_pages/usingeuropeana_search.html:45
+#, fuzzy
+msgid "Search"
+msgstr "Paieška išsaugota"
+
 #: templates/static_pages/sitemap.html:66
 #, fuzzy
 msgid "Suggestions"
@@ -4503,10 +1759,23 @@ msgstr "Europeana - DUK"
 msgid "API1-API2 compatability"
 msgstr ""
 
+#: templates/static_pages/sitemap.html:97
+#, fuzzy
+msgid "Terms of Use &amp; Policies"
+msgstr "Treminai ir sąlygos"
+
 #: templates/static_pages/sitemap.html:104
 #, fuzzy
 msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
 msgstr "Spustelėkite, jei norite grįžti į Europeanos pirmąjį puslapį"
+
+#: templates/static_pages/sitemap.html:107
+msgid "Language policy"
+msgstr "Kalbų politika"
+
+#: templates/static_pages/sitemap.html:113
+msgid "Rights"
+msgstr "Kitos teisės"
 
 #: templates/static_pages/sitemap.html:115
 #, fuzzy
@@ -4540,6 +1809,10 @@ msgstr ""
 msgid "Out of copyright - non commercial reuse"
 msgstr ""
 
+#: templates/static_pages/sitemap.html:126
+msgid "Contact"
+msgstr ""
+
 #: templates/static_pages/sitemap.html:127
 #, fuzzy
 msgid "Europeana Semantic Elements (ESE)"
@@ -4553,6 +1826,10 @@ msgstr "Kaip naudotis Europeana"
 #: templates/static_pages/storyline.html:4
 msgid "Europeana - Storyline and credits"
 msgstr "Europeana - Pagrindinė siužeto linija ir kūrėjai "
+
+#: templates/static_pages/storyline.html:11
+msgid "Storyline and credits"
+msgstr "Pagrindinė siužeto linija ir kūrėjai"
 
 #: templates/static_pages/storyline.html:13
 msgid "Descartes"
@@ -4971,6 +2248,16 @@ msgstr ""
 "ypač dėkingi Cit&eacute;\n"
 "de la Musique už leidimą panaudoti tai kaip mūsų garso takelio pagrindą."
 
+#: templates/static_pages/storyline.html:49
+#: templates/static_pages/usingeuropeana_search.html:32
+msgid "Title"
+msgstr "Pavadinimas"
+
+#: templates/static_pages/storyline.html:50
+#: templates/static_pages/usingeuropeana_search.html:31
+msgid "Creator"
+msgstr "Autorius"
+
 #: templates/static_pages/storyline.html:51
 msgid "Collection"
 msgstr "Kolekcija"
@@ -5112,6 +2399,11 @@ msgid "in the"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_explore.html:15
+#, fuzzy
+msgid "Featured Partner"
+msgstr "Nėra išsaugotų objektų"
+
+#: templates/static_pages/usingeuropeana_explore.html:15
 msgid "area"
 msgstr ""
 
@@ -5133,12 +2425,20 @@ msgid "and you can"
 msgstr "Ar turėjote omenyje?"
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:14
+msgid "Save this search"
+msgstr "Išsaugoti šią paiešką"
+
+#: templates/static_pages/usingeuropeana_myeuropeana.html:14
 msgid ""
 "Keep up to date on a particular topic in Europeana by saving a search, so "
 "you can easily perform it again in future."
 msgstr ""
 "išsaugoję paiešką, galėsite ją lengvai pakartoti ir atnaujinti informaciją "
 "apie konkretų Europeanos objektą."
+
+#: templates/static_pages/usingeuropeana_myeuropeana.html:15
+msgid "Add a tag"
+msgstr "Priskirti žymenį"
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:15
 #, fuzzy
@@ -5151,8 +2451,17 @@ msgstr ""
 "galėsite rūšiuoti objektus pagal pasirinktus reikšminius žodžius."
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:16
+msgid "Save to My Europeana"
+msgstr "Išsaugoti Mano Europeanoje"
+
+#: templates/static_pages/usingeuropeana_myeuropeana.html:16
 msgid "Store your favourite items for later viewing."
 msgstr "išsaugosite mėgiamiausius objektus vėlesnei peržiūrai."
+
+#: templates/static_pages/usingeuropeana_myeuropeana.html:17
+#, fuzzy
+msgid "API keys"
+msgstr "Naudojimo sąlygos"
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:17
 msgid ""
@@ -5214,9 +2523,17 @@ msgstr ""
 "natos"
 
 #: templates/static_pages/usingeuropeana_results.html:17
+msgid "Video"
+msgstr "Vaizdo medžiaga"
+
+#: templates/static_pages/usingeuropeana_results.html:17
 #, fuzzy
 msgid "films, news broadcasts and television programmes"
 msgstr "filmai, naujienų įrašai ir televizijos laidos."
+
+#: templates/static_pages/usingeuropeana_results.html:18
+msgid "Sound"
+msgstr "Garso medžiaga"
 
 #: templates/static_pages/usingeuropeana_results.html:18
 msgid ""
@@ -5224,6 +2541,10 @@ msgid ""
 msgstr ""
 "muzika ir garso įrašai iš fonografo volelių, juostų, plokštelių ir radijo "
 "laidų."
+
+#: templates/static_pages/usingeuropeana_results.html:19
+msgid "3D"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:19
 msgid "virtual 3D representations of objects, architecture or places."
@@ -5248,8 +2569,21 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:24
+#, fuzzy
+msgid "Results per page"
+msgstr "Rezultatai Europeanoje"
+
+#: templates/static_pages/usingeuropeana_results.html:24
 msgid "drop-down list either above or below the results. You can select"
 msgstr ""
+
+#: templates/static_pages/usingeuropeana_results.html:24
+#: templates/static_pages/usingeuropeana_results.html:25
+#: templates/static_pages/usingeuropeana_results.html:41
+#: templates/static_pages/usingeuropeana_results.html:49
+#: templates/static_pages/usingeuropeana_search.html:32
+msgid "or"
+msgstr "arba"
 
 #: templates/static_pages/usingeuropeana_results.html:25
 msgid ""
@@ -5296,6 +2630,10 @@ msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:34
 msgid "hit the magnifying glass"
+msgstr ""
+
+#: templates/static_pages/usingeuropeana_results.html:34
+msgid "View"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:34
@@ -5350,6 +2688,10 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:41
+msgid "Cite on Wikipedia"
+msgstr ""
+
+#: templates/static_pages/usingeuropeana_results.html:41
 msgid ""
 "this function will help you link to Europeana items and cite them in "
 "Wikipedia articles. The code you need is formatted for direct inclusion in "
@@ -5357,9 +2699,22 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:41
+#, fuzzy
+msgid "Citation"
+msgstr "Migracija"
+
+#: templates/static_pages/usingeuropeana_results.html:41
+msgid "Footnote"
+msgstr ""
+
+#: templates/static_pages/usingeuropeana_results.html:41
 msgid ""
 "and copy and paste the text provided. To close the citation window, hit the "
 "X in the top right corner."
+msgstr ""
+
+#: templates/static_pages/usingeuropeana_results.html:42
+msgid "Translate details"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:42
@@ -5386,6 +2741,16 @@ msgstr ""
 #: templates/static_pages/usingeuropeana_results.html:49
 msgid "To move to the previous or next item in your search results, hit the"
 msgstr ""
+
+#: templates/static_pages/usingeuropeana_results.html:49
+#, fuzzy
+msgid "Next"
+msgstr "Tekstai"
+
+#: templates/static_pages/usingeuropeana_results.html:49
+#, fuzzy
+msgid "Previous"
+msgstr "Turinio pateikimas"
 
 #: templates/static_pages/usingeuropeana_results.html:49
 #, fuzzy
@@ -5543,6 +2908,10 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:32
+msgid "Subject"
+msgstr "Dalykas"
+
+#: templates/static_pages/usingeuropeana_search.html:32
 msgid ""
 "followed by a type of item, a subject you are interested in or words from "
 "the title of the item you are looking for. Your search results will display "
@@ -5578,6 +2947,11 @@ msgid ""
 "objects created or held in Milan, excluding items on writer Milan Kundera "
 "from your search results."
 msgstr ""
+
+#: templates/static_pages/usingeuropeana_search.html:34
+#, fuzzy
+msgid "Date"
+msgstr "puslapyje"
 
 #: templates/static_pages/usingeuropeana_search.html:34
 msgid ""
@@ -5669,8 +3043,17 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:49
+msgid "Add more keywords"
+msgstr ""
+
+#: templates/static_pages/usingeuropeana_search.html:49
 msgid "field and hit"
 msgstr ""
+
+#: templates/static_pages/usingeuropeana_search.html:49
+#, fuzzy
+msgid "Add"
+msgstr "Elektroninio pašto adresas"
 
 #: templates/static_pages/usingeuropeana_search.html:49
 msgid "The keyword is displayed at the top of the pane, under"
@@ -5686,6 +3069,12 @@ msgid "To remove a keyword, hit the X icon next to the relevant keyword in the"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:51
+#: templates/static_pages/usingeuropeana_search.html:63
+#: templates/static_pages/usingeuropeana_search.html:65
+msgid "Matches for"
+msgstr "naudokite šią formą"
+
+#: templates/static_pages/usingeuropeana_search.html:51
 msgid "list."
 msgstr ""
 
@@ -5697,6 +3086,10 @@ msgstr ""
 #, fuzzy
 msgid "filter your search results:"
 msgstr "Įveskite savo elektroninio pašto adresą"
+
+#: templates/static_pages/usingeuropeana_search.html:55
+msgid "By media type"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:55
 msgid ""
@@ -5733,6 +3126,11 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:59
+#, fuzzy
+msgid "By copyright"
+msgstr "Kitos teisės"
+
+#: templates/static_pages/usingeuropeana_search.html:59
 msgid ""
 "will display objects labelled with the selected copyright label(s). This "
 "copyright label indicates how you may reuse the digital object, including "
@@ -5767,6 +3165,10 @@ msgid "You can also select to"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:67
+msgid "Include content contributed by users"
+msgstr ""
+
+#: templates/static_pages/usingeuropeana_search.html:67
 msgid ""
 "This means items that have not come from a cultural institution but from an "
 "individual user, for example, items contributed to the Europeana 1914-1918 "
@@ -5776,6 +3178,10 @@ msgstr ""
 #: templates/static_pages/usingeuropeana_search.html:69
 msgid "Share your search with friends by choosing"
 msgstr ""
+
+#: templates/static_pages/usingeuropeana_search.html:69
+msgid "Share"
+msgstr "Dalytis"
 
 #: templates/static_pages/usingeuropeana_search.html:69
 msgid ""
@@ -5901,6 +3307,11 @@ msgid ""
 "word and 'Places' as a type. Tap 'Change' next to 'All Fields' and select "
 "the option you need."
 msgstr ""
+
+#: templates/static_pages/usingeuropeana_searchwidget.html:30
+#, fuzzy
+msgid "Providers"
+msgstr "Turinio pateikimas"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:30
 msgid ""
@@ -6047,6 +3458,1242 @@ msgid ""
 "We would love to know how you are using this search widget, please tell us "
 "by dropping us an email at"
 msgstr ""
+
+#, fuzzy
+#~ msgid ""
+#~ "I understand that My Europeana gives me the opportunity to create tags "
+#~ "for any item I wish. I agree that I will not create any tags that could "
+#~ "be considered libelous, harmful, threatening, unlawful, defamatory,"
+#~ "infringing, abusive, inflammatory, harassing, pornographic, obscene, "
+#~ "fraudulent, invasive of privacy orpublicity rights, hateful, or racially, "
+#~ "ethnically or otherwise objectionable. By clicking this box I agreeto "
+#~ "abide by this agreement, and understand that if I don't my membership of "
+#~ "My Europeana will be terminated."
+#~ msgstr ""
+#~ "Suprantu, kad Mano Europeana man suteikia galimybę susikurti žymenis bet "
+#~ "kuriam norimam objektui. Sutinku nekurti žymenų, kurie būtų šmeižikiški, "
+#~ "žalingi, grasinantys, neteisėti, įžeidžiantys, pažeidžiantys įstatymus, "
+#~ "užgaulūs, kurstantys, pornografiniai, nepadorūs, apgaulingi, grobikiški "
+#~ "privačiųjų ar viešųjų teisių požiūriu,  skleidžiantys rasinę bei etninę  "
+#~ "neapykantą ar užgaulūs kitais požiūriais. Šio langelio spustelėjimu "
+#~ "išreiškiu sutikimą laikytis šio susitarimo ir suprantu, kad jei jo "
+#~ "nesilaikysiu, mano narystė Mano Europeanoje bus nutraukta."
+
+#~ msgid "You must agree to our code of conduct to register for My Europeana"
+#~ msgstr ""
+#~ "Registruojantis Mano Europeanoje privalote sutikti su mūsų elgesio "
+#~ "taisyklėmis"
+
+#~ msgid "I agree"
+#~ msgstr "Vaizdai"
+
+#~ msgid "Contributor"
+#~ msgstr "Turinio teikėjas"
+
+#~ msgid "Contributors"
+#~ msgstr "Turinio teikėjai"
+
+#~ msgid "Country"
+#~ msgstr "Šalis"
+
+#~ msgid "Sector"
+#~ msgstr "Sektorius"
+
+#~ msgid "Partner"
+#~ msgstr "Partneris"
+
+#~ msgid ""
+#~ "This is the network of partners who collaborated to make Europeana "
+#~ "happen, and who represent Europeana in their countries and professional "
+#~ "associations."
+#~ msgstr ""
+#~ "Tai partnerių, bendradarbiavusių kuriant Europeaną,  ir atstovaujančių "
+#~ "Europeanai savo valstybėse bei profesinėse asociacijose, tinklas."
+
+#, fuzzy
+#~ msgid ""
+#~ "These are the organisations that are contributing content - digitised "
+#~ "paintings, books, broadcasts etc. Some of these contributors are  "
+#~ "aggregators*, Culture.fr is the largest aggregator, providing content "
+#~ "from about 480 organisations in France, including the Louvre and the "
+#~ "MusÃ©e dâ€™Orsay. The number of organisations contributing to an "
+#~ "aggregator is shown in brackets after the aggregatorâ€™s name, e.g. "
+#~ "Videoactive (10)"
+#~ msgstr ""
+#~ "Tai organizacijos, kurios prisideda prie skaitmeninio turinio - piešinių, "
+#~ "knygų, radijo ir televizijos transliacijų ir pan. pateikimo. Kai kurie iš "
+#~ "šių turinio teikėjų yra agregatoriai*, Kultūra.fr yra stambiausias iš jų, "
+#~ "pateikiantis turinį iš daugiau nei 480 Prancūzijos organizacijų, "
+#~ "įskaitant Luvrą ir Orsi muziejų. Organizacijų, teikiančių turinį tokiam "
+#~ "agregatoriui, skaičius pateikiamas skliaustuose šalia agregatoriaus "
+#~ "pavadinimo, pvz., Videoactive (10)"
+
+#~ msgid ""
+#~ "*An aggregator collects material from a range of other contributors, "
+#~ "displays it on their own website and also channels it into Europeana."
+#~ msgstr ""
+#~ "Agregatorius surenka medžiagą iš daugelio turinio teikėjų, pateikia ją "
+#~ "savo svetainėje, o taip pat nukreipia ją į Europeaną."
+
+#~ msgid "This is a required field"
+#~ msgstr "Šį lauką būtina užpildyti"
+
+#~ msgid "Please enter a valid email address"
+#~ msgstr "Prašome įrašyti veikiantį elektroninio pašto adresą"
+
+#~ msgid "Logged in as"
+#~ msgstr "Prisijungta kaip"
+
+#, fuzzy
+#~ msgid "Saved items"
+#~ msgstr "Nėra išsaugotų objektų"
+
+#~ msgid "Saved searches"
+#~ msgstr "išplėstinės paieškos"
+
+#~ msgid "Saved tags"
+#~ msgstr "Nėra išsaugotų žymenų"
+
+#~ msgid "Saved notifications"
+#~ msgstr "Išsaugoti žymenys"
+
+#~ msgid "Login"
+#~ msgstr "Saitas"
+
+#~ msgid "Log out"
+#~ msgstr "nereiškia"
+
+#~ msgid ""
+#~ "Thank you very much for your feedback. If your feedback requires a "
+#~ "response a member of the Europeana team will get back to you as soon as "
+#~ "possible. For faster response feedback should be submitted in English."
+#~ msgstr ""
+#~ "Dėkojame už atsiliepimus. Jei pageidautumėte atsakymo, su  jumis "
+#~ "nedelsiant susisieks Europeanos komandos narys. Jei norite atsakymą gauti "
+#~ "kuo greičiau, rašykite angliškai."
+
+#~ msgid "Keep me in touch with new developments to Europeana"
+#~ msgstr "#EnewsOptin_t[Informuokite mane apie naujus Europeanos pasiekimus]"
+
+#~ msgid "User Conduct"
+#~ msgstr "vartotojo elgesio tvarka"
+
+#~ msgid ""
+#~ "I understand that My Europeana gives me the opportunity to create tags "
+#~ "for any item I wish. I agree that I will not create any tags that could "
+#~ "be considered libelous, harmful, threatening, unlawful, defamatory, "
+#~ "infringing, abusive, inflammatory, harassing, pornographic, obscene, "
+#~ "fraudulent, invasive of privacy or publicity rights, hateful, or "
+#~ "racially, ethnically or otherwise objectionable. By clicking this box I "
+#~ "agree to abide by this agreement, and understand that if I don't my "
+#~ "membership of My Europeana will be terminated. CLICK TO AGREE"
+#~ msgstr ""
+#~ "Suprantu, kad My Europeana man suteikia galimybę susikurti žymenis bet "
+#~ "kuriam norimam objektui. Sutinku, kad nekursiu tokių žymenų, kurie būtų "
+#~ "šmeižikiški, žalingi, grasinantys, neteisėti,įžeidžiantys, pažeidžiantys "
+#~ "įstatymus, užgaulūs, kurstantys, pornografiniai, nepadorūs, apgaulingi, "
+#~ "grobikiški privačiųjų ar viešųjų teisių požiūriu,  skleidžiantys rasinę "
+#~ "bei etninę  neapykantą ar užgaulūs kitais požiūriais. Šio langelio "
+#~ "spustelėjimu išreiškiu sutikimą laikytis šio susitarimo ir suprantu, kad "
+#~ "jei jo nesilaikysiu, mano narystė tinklalapyje Mano Europeana bus "
+#~ "nutraukta. SPUSTELĖKITE NORĖDAMI PATVIRTINTI SUTIKIMĄ"
+
+#~ msgid "First name"
+#~ msgstr "Paskutinis pataisymas"
+
+#~ msgid "Last name"
+#~ msgstr "Paskutinis pataisymas"
+
+#~ msgid ""
+#~ "To make optimal use of this website you need to have JavaScript activated"
+#~ msgstr "Norint naudotis šia svetaine, būtina turėti aktyvuotą JavaScript"
+
+#~ msgid "Check the FAQs - they may cover your feedback"
+#~ msgstr "Peržiūrėkite DUK skyrių - jame galite rasti rūpimą atsakymą"
+
+#~ msgid "Communities"
+#~ msgstr "Bendruomenės"
+
+#~ msgid "ThoughtLab"
+#~ msgstr "ThoughtLab"
+
+#~ msgid "Choose a language"
+#~ msgstr "Pasirinkite kalbą"
+
+#~ msgid "Select language"
+#~ msgstr "Pasirinkite kalbą"
+
+#~ msgid "This is Europeana"
+#~ msgstr "Kaip naudotis Europeana"
+
+#~ msgid ""
+#~ "a place for inspiration and ideas. Search through the cultural "
+#~ "collections of Europe, connect to other user pathways and share your "
+#~ "discoveries."
+#~ msgstr ""
+#~ "vieta mintims ir idėjoms. Ieškokite Europos kultūros ištekliuose, "
+#~ "susisiekite su kitu vartotoju ir ir pasidalinkite patirtimi."
+
+#~ msgid "Find out more"
+#~ msgstr "Daugiau"
+
+#~ msgid "Reset"
+#~ msgstr "Registruotis dar kartą"
+
+#~ msgid "Advanced search"
+#~ msgstr "Išplėstinė paieška"
+
+#~ msgid "Hide advanced search"
+#~ msgstr "išplėstinės paieškos"
+
+#~ msgid "and"
+#~ msgstr "Lenkija"
+
+#~ msgid "not"
+#~ msgstr "nereiškia"
+
+#, fuzzy
+#~ msgid "Any field"
+#~ msgstr "Paieška išsaugota"
+
+#~ msgid "Share your ideas"
+#~ msgstr "Pasidalinkite savo idėjomis"
+
+#~ msgid "Send us feedback"
+#~ msgstr "atsiųskite atsiliepimus,"
+
+#~ msgid "People are currently thinking about"
+#~ msgstr "Šiuo metu žmonės galvoja apie"
+
+#~ msgid "Timeline navigator"
+#~ msgstr "Laiko skalės navigatorius"
+
+#~ msgid "Browse through time"
+#~ msgstr "Paieška laike"
+
+#~ msgid ""
+#~ "From our partner museums, archives, libraries and audio-visual collections"
+#~ msgstr ""
+#~ "Iš mūsų partnerių muziejų, archyvų, bibliotekų ir garso-vaizdo kolekcijų"
+
+#~ msgid "Using Europeana"
+#~ msgstr "Kaip naudotis Europeana"
+
+#~ msgid "Terms and conditions"
+#~ msgstr "Treminai ir sąlygos"
+
+#, fuzzy
+#~ msgid "Contact us"
+#~ msgstr "Kontaktai"
+
+#~ msgid "co-funded by the European Union"
+#~ msgstr "Iš dalies finansavo Europos Sąjunga"
+
+#, fuzzy
+#~ msgid "Europeana think culture"
+#~ msgstr "pažinkite kultūrą"
+
+#~ msgid "Click here to return to the Europeana homepage"
+#~ msgstr "Spustelėkite, jei norite grįžti į Europeanos pirmąjį puslapį"
+
+#, fuzzy
+#~ msgid "Refine your results"
+#~ msgstr "Rezultatai Europeanoje"
+
+#, fuzzy
+#~ msgid "By providing country"
+#~ msgstr "Šalis"
+
+#~ msgid "By user tag"
+#~ msgstr "Pagal vartotojo žymenį"
+
+#, fuzzy
+#~ msgid "Actions"
+#~ msgstr "Abolicija"
+
+#~ msgid "Search saved"
+#~ msgstr "Paieška išsaugota"
+
+#~ msgid "Saving search failed"
+#~ msgstr "Paieškos išsaugoti nepavyko"
+
+#~ msgid "You have searched for"
+#~ msgstr "Ieškojote"
+
+#~ msgid "You are viewing related items"
+#~ msgstr "Žiūrite susijusius objektus"
+
+#~ msgid "Text"
+#~ msgstr "Tekstai"
+
+#~ msgid "Image"
+#~ msgstr "Vaizdai"
+
+#, fuzzy
+#~ msgid "List view"
+#~ msgstr "Turinio pateikimas"
+
+#, fuzzy
+#~ msgid "#Table view"
+#~ msgstr "Laiko skalė"
+
+#~ msgid "Page"
+#~ msgstr "puslapyje"
+
+#, fuzzy
+#~ msgid "Click here for previous page of results"
+#~ msgstr "Spustelėkite, jei norite matyti kitą rezultatų puslapį"
+
+#~ msgid "Click here for next page of results"
+#~ msgstr "Spustelėkite, jei norite matyti kitą rezultatų puslapį"
+
+#~ msgid "Print this page"
+#~ msgstr "Spausdinti šį puslapį"
+
+#~ msgid "Click for more information"
+#~ msgstr "Spustelėkite, jei norite daugiau informacijos"
+
+#~ msgid "No items found"
+#~ msgstr "Nerasta objektų"
+
+#~ msgid "Related content"
+#~ msgstr "Susijęs turinys"
+
+#~ msgid "See all related items"
+#~ msgstr "Žiūrėti visus susijusius objektus"
+
+#~ msgid "User tags"
+#~ msgstr "Naudokite"
+
+#~ msgid "Tag added"
+#~ msgstr "Žymens pridėti nepavyko"
+
+#~ msgid "Tag addition failed"
+#~ msgstr "Žymens pridėti nepavyko"
+
+#~ msgid "Share with a friend"
+#~ msgstr "Dalytis su draugu"
+
+#~ msgid "Email address"
+#~ msgstr "Elektroninio pašto adresas"
+
+#, fuzzy
+#~ msgid "Email sent"
+#~ msgstr "Elektroninio pašto adresas"
+
+#~ msgid "Email could not be sent"
+#~ msgstr "El. laiškas neišsiųstas"
+
+#~ msgid "Send"
+#~ msgstr "Garso medžiaga"
+
+#~ msgid "Item saved"
+#~ msgstr "Paieška išsaugota"
+
+#~ msgid "Save item failed"
+#~ msgstr "Išsaugoti nepavyko"
+
+#~ msgid "Error details"
+#~ msgstr "Daugiau informacijos"
+
+#, fuzzy
+#~ msgid "Return to results"
+#~ msgstr "Rezultatai Europeanoje"
+
+#~ msgid "More"
+#~ msgstr "arba"
+
+#~ msgid "Items"
+#~ msgstr "Paieška išsaugota"
+
+#, fuzzy
+#~ msgid "Item details"
+#~ msgstr "Pamatyti daugiau informacijos"
+
+#~ msgid "View with labels"
+#~ msgstr "Žiūrėti su etiketėmis"
+
+#~ msgid "View without labels"
+#~ msgstr "Žiūrėti be etikečių"
+
+#~ msgid "Opens in a new window"
+#~ msgstr "Atidaroma naujame lange"
+
+#~ msgid "View in original context"
+#~ msgstr "Žiūrėti originalų kontekstą"
+
+#~ msgid "Provider"
+#~ msgstr "Turinio pateikimas"
+
+#, fuzzy
+#~ msgid "Description"
+#~ msgstr "Registruotis dar kartą"
+
+#~ msgid "Delete"
+#~ msgstr "Dekartas"
+
+#~ msgid "No saved items"
+#~ msgstr "Nėra išsaugotų objektų"
+
+#~ msgid "No saved searches"
+#~ msgstr "išplėstinės paieškos"
+
+#, fuzzy
+#~ msgid "No saved tags"
+#~ msgstr "Nėra išsaugotų objektų"
+
+#~ msgid "No saved notifications"
+#~ msgstr "Išsaugoti žymenys"
+
+#~ msgid "Date saved"
+#~ msgstr "Paieška išsaugota"
+
+#, fuzzy
+#~ msgid "Remove"
+#~ msgstr "Naudojimo sąlygos"
+
+#, fuzzy
+#~ msgid "Welcome to MyEuropeana"
+#~ msgstr "Išsaugoti Mano Europeanoje"
+
+#~ msgid "Please click on the following link to confirm your registration"
+#~ msgstr "Jei norite patvirtinti registraciją, spustelėkite šią nuorodą"
+
+#, fuzzy
+#~ msgid "The Europeana Team"
+#~ msgstr "Europos bibliotekos"
+
+#, fuzzy
+#~ msgid "Results"
+#~ msgstr "Registruotis dar kartą"
+
+#~ msgid "Invalid query"
+#~ msgstr "Klaidinga užklausa"
+
+#~ msgid "This feature is currently disabled."
+#~ msgstr "Ši funkcija šiuo metu neveikia"
+
+#~ msgid "Password"
+#~ msgstr "Pakartoti slaptažodį"
+
+#~ msgid "Remember me on this computer"
+#~ msgstr "Įsidėmėti mane šiame kompiuteryje"
+
+#~ msgid "I forgot my password"
+#~ msgstr "Pamiršau savo slaptažodį"
+
+#~ msgid "Register"
+#~ msgstr "Registruotis dar kartą"
+
+#~ msgid "Register again"
+#~ msgstr "Registruotis dar kartą"
+
+#~ msgid ""
+#~ "An error occurred while trying to process your registration. Please try "
+#~ "again"
+#~ msgstr "Registracijos metu įvyko klaida. Bandykite dar kartą"
+
+#~ msgid "An email has been sent to the following address"
+#~ msgstr "Elektroninis laiškas išsiųstas šiuo adresu"
+
+#~ msgid ""
+#~ "Please follow the link provided in the email and finish the registration "
+#~ "process"
+#~ msgstr ""
+#~ "Užbaikite registraciją naudodami elektroniniame laiške pateiktą nuorodą"
+
+#~ msgid "Please make sure your email is correctly formatted and try again"
+#~ msgstr ""
+#~ "Įsitikinkite, kad elektroninio pašto adresas yra teisingas, ir bandykite "
+#~ "dar kartą"
+
+#~ msgid "This email is already registered"
+#~ msgstr "Šis elektroninio pašto adresas jau užregistruotas"
+
+#~ msgid "Create an account"
+#~ msgstr "Sukurti paskyrą"
+
+#~ msgid ""
+#~ "The link you used to complete registration is invalid or has expired."
+#~ msgstr "Registracijai užbaigti naudojama nuoroda klaidinga arba neveikianti"
+
+#~ msgid "Enter your email"
+#~ msgstr "Įveskite savo elektroninio pašto adresą"
+
+#~ msgid ""
+#~ "You will use your email together with your password to log into the site"
+#~ msgstr ""
+#~ "Jungdamiesi prie tinklalapio naudosite savo el. pašto adresą ir slaptažodį"
+
+#~ msgid "Your username will be displayed when you have logged in"
+#~ msgstr "Prisijungimo metu bus pateikiamas jūsų vartotojo vardas"
+
+#, fuzzy
+#~ msgid "Username"
+#~ msgstr "Paskutinis pataisymas"
+
+#~ msgid "is in use. Please choose another username"
+#~ msgstr "jau naudojamas. Pasirinkite kitą vartotojo vardą"
+
+#~ msgid "Choose a username"
+#~ msgstr "Pasirinkite vartotojo vardą"
+
+#, fuzzy
+#~ msgid "User information"
+#~ msgstr "naudokite šią formą"
+
+#~ msgid "Choose a password"
+#~ msgstr "Pasirinkite slaptažodį"
+
+#~ msgid "Passwords must be 6-30 characters in length"
+#~ msgstr "Slaptažodį turi sudaryti 6-30 ženklų"
+
+#~ msgid "Repeat password"
+#~ msgstr "Pakartoti slaptažodį"
+
+#~ msgid "Finish registration"
+#~ msgstr "Baigti registraciją"
+
+#~ msgid "You have successfully registered"
+#~ msgstr "Registracija baigta"
+
+#~ msgid "English (eng)"
+#~ msgstr "Anglų (eng)"
+
+#~ msgid "Croatian (hrv)"
+#~ msgstr "Kroatų (hrv)"
+
+#~ msgid "Czech (cze/cse)"
+#~ msgstr "Čekų (cze/cse)"
+
+#~ msgid "Greek (ell/gre)"
+#~ msgstr "Graikų (ell/gre)"
+
+#~ msgid "Estonian (est)"
+#~ msgstr "Estų (est)"
+
+#~ msgid "Danish (dan)"
+#~ msgstr "Danų (dan)"
+
+#~ msgid "Dutch (dut)"
+#~ msgstr "Olandų (dut)"
+
+#~ msgid "Finnish (fin)"
+#~ msgstr "Suomių (fin)"
+
+#~ msgid "French (fre)"
+#~ msgstr "Prancūzų (fre)"
+
+#~ msgid "German (deu)"
+#~ msgstr "Vokiečių (deu)"
+
+#~ msgid "Hungarian (hun)"
+#~ msgstr "Vengrų (hun)"
+
+#~ msgid "Italian (ita)"
+#~ msgstr "Italų (ita)"
+
+#~ msgid "Latvian (lav)"
+#~ msgstr "Latvių (lav)"
+
+#~ msgid "Lithuanian (lit)"
+#~ msgstr "Lietuva"
+
+#~ msgid "Luxemburgish (ltz)"
+#~ msgstr "Liuksemburgiečių"
+
+#~ msgid "Maltese (mlt)"
+#~ msgstr "Maltiečių"
+
+#~ msgid "Norwegian (nor)"
+#~ msgstr "Norvegų"
+
+#~ msgid "Polish (pol)"
+#~ msgstr "Lenkų (pol)"
+
+#~ msgid "Portuguese (por)"
+#~ msgstr "Portugalų (por)"
+
+#~ msgid "Romanian (rom)"
+#~ msgstr "Rumunų (rom)"
+
+#~ msgid "Russian (rus)"
+#~ msgstr "Rusų (rus)"
+
+#~ msgid "Serbian (scc)"
+#~ msgstr "Serbų (scc)"
+
+#~ msgid "Slovak (slo)"
+#~ msgstr "Slovakų (slo)"
+
+#~ msgid "Slovenian (slv)"
+#~ msgstr "Slovėnija"
+
+#~ msgid "Spanish (esp)"
+#~ msgstr "Ispanų (esp)"
+
+#~ msgid "Icelandic (ice)"
+#~ msgstr "Islandų (ice)"
+
+#~ msgid "Swedish (sve/swe)"
+#~ msgstr "Švedų (sve/swe)"
+
+#, fuzzy
+#~ msgid "Ukrainian (ukr)"
+#~ msgstr "Kroatų (hrv)"
+
+#, fuzzy
+#~ msgid "Yiddish (yid)"
+#~ msgstr "Suomių (fin)"
+
+#~ msgid "Other"
+#~ msgstr "Kiti"
+
+#~ msgid "Provenance"
+#~ msgstr "Prancūzija"
+
+#~ msgid "Is Part of"
+#~ msgstr "naudokite šią formą"
+
+#~ msgid "Has part"
+#~ msgstr "naudokite šią formą"
+
+#~ msgid "Replaces"
+#~ msgstr "Vaizdai"
+
+#, fuzzy
+#~ msgid "Requires"
+#~ msgstr "Registruotis dar kartą"
+
+#~ msgid "Has format"
+#~ msgstr "naudokite šią formą"
+
+#~ msgid "Is format of"
+#~ msgstr "naudokite šią formą"
+
+#~ msgid "Geographic coverage"
+#~ msgstr "Geografinė aprėptis"
+
+#, fuzzy
+#~ msgid "Publication date"
+#~ msgstr "Viešoji nuosavybė"
+
+#~ msgid "Author"
+#~ msgstr "Austrija"
+
+#~ msgid "Format"
+#~ msgstr "naudokite šią formą"
+
+#, fuzzy
+#~ msgid "Source"
+#~ msgstr "Luvras"
+
+#, fuzzy
+#~ msgid "Relation"
+#~ msgstr "Susijęs turinys"
+
+#~ msgid "Austria"
+#~ msgstr "Austrija"
+
+#~ msgid "Croatia"
+#~ msgstr "Latvija"
+
+#~ msgid "Denmark"
+#~ msgstr "Danija"
+
+#~ msgid "Finland"
+#~ msgstr "Suomija"
+
+#~ msgid "France"
+#~ msgstr "Prancūzija"
+
+#~ msgid "Germany"
+#~ msgstr "Vokietija"
+
+#~ msgid "Italy-Florence"
+#~ msgstr "Italija-Florencija"
+
+#~ msgid "Italy-Rome"
+#~ msgstr "Italija"
+
+#~ msgid "Ireland"
+#~ msgstr "Airija"
+
+#~ msgid "Netherlands"
+#~ msgstr "Nyderlandai"
+
+#~ msgid "Portugal"
+#~ msgstr "Portugalija"
+
+#~ msgid "Russia - Moscow"
+#~ msgstr "Rusija - Maskva"
+
+#~ msgid "Russia - Saint Petersburg"
+#~ msgstr "Rusija - Sankt Peterburgas"
+
+#~ msgid "Romania"
+#~ msgstr "Rumunija"
+
+#~ msgid "Former Yugoslav Republic Of Macedonia"
+#~ msgstr "Buvusioji Jugoslavijos Respublika Makedonija"
+
+#~ msgid "Ukraine"
+#~ msgstr "Prancūzija"
+
+#~ msgid "Georgia"
+#~ msgstr "Serbija"
+
+#~ msgid "Bosnia and Herzegovina"
+#~ msgstr "Bosnija ir Hercegovina"
+
+#~ msgid "Azerbaijan"
+#~ msgstr "Serbija"
+
+#~ msgid "Bulgaria"
+#~ msgstr "Bulgarija"
+
+#~ msgid "Serbia"
+#~ msgstr "Serbija"
+
+#~ msgid "Slovenia"
+#~ msgstr "Slovėnija"
+
+#~ msgid "Switzerland"
+#~ msgstr "Šveicarija"
+
+#~ msgid "United Kingdom"
+#~ msgstr "Jungtinė Karalystė"
+
+#~ msgid "Czech Republic"
+#~ msgstr "Čekijos Respublika"
+
+#~ msgid "Cyprus"
+#~ msgstr "Kipras"
+
+#~ msgid "Estonia"
+#~ msgstr "Estija"
+
+#~ msgid "Latvia"
+#~ msgstr "Latvija"
+
+#~ msgid "Lithuania"
+#~ msgstr "Lietuva"
+
+#~ msgid "Hungary"
+#~ msgstr "Vengrija"
+
+#~ msgid "Poland"
+#~ msgstr "Lenkija"
+
+#~ msgid "Slovakia"
+#~ msgstr "Slovakija"
+
+#~ msgid "Spain"
+#~ msgstr "Ispanija"
+
+#~ msgid "Belgium"
+#~ msgstr "Belgija"
+
+#~ msgid "Iceland"
+#~ msgstr "Islandija"
+
+#~ msgid "Norway"
+#~ msgstr "Norvegija"
+
+#~ msgid "Sweden"
+#~ msgstr "Švedija"
+
+#~ msgid "Luxembourg"
+#~ msgstr "Liuksemburgas"
+
+#~ msgid "Greece"
+#~ msgstr "Graikija"
+
+#~ msgid "Subject cloud"
+#~ msgstr "Dalykas"
+
+#~ msgid "Did you mean"
+#~ msgstr "Ar turėjote omenyje?"
+
+#~ msgid ""
+#~ "Paintings, music, films and books from Europe's galleries, libraries, "
+#~ "archives and museums."
+#~ msgstr ""
+#~ "Paveikslai, muzikos kūriniai, filmai ir knygos iš Europos galerijų, "
+#~ "bibliotekų, archyvų ir muziejų."
+
+#~ msgid "Data provider"
+#~ msgstr "Turinio pateikimas"
+
+#~ msgid "Europeana rights"
+#~ msgstr "Europeanos logotipų"
+
+#~ msgid "Terms of use"
+#~ msgstr "Naudojimo sąlygos"
+
+#~ msgid "Timeline view"
+#~ msgstr "Laiko skalė"
+
+#, fuzzy
+#~ msgid "Options"
+#~ msgstr "Abolicija"
+
+#, fuzzy
+#~ msgid "Create notification for this item"
+#~ msgstr "Išsaugoti žymenys"
+
+#, fuzzy
+#~ msgid ""
+#~ "By using the embed function you accept and agree to the Europeana Terms "
+#~ "of Use"
+#~ msgstr ""
+#~ "Naudodamiesi bet kuriomis teisėmis į Svetainę šių Naudojimo sąlygų "
+#~ "pagrindu, jūs priimate ir sutinkate su šiose Naudojimo sąlygose "
+#~ "numatytais apribojimais"
+
+#, fuzzy
+#~ msgid "orientation:"
+#~ msgstr "Susijęs turinys"
+
+#, fuzzy
+#~ msgid "Refine Search"
+#~ msgstr "patikslinta paieška"
+
+#, fuzzy
+#~ msgid "By Rights"
+#~ msgstr "Kitos teisės"
+
+#, fuzzy
+#~ msgid "Free Access"
+#~ msgstr "Europeana - teisės saugomos - ribota prieiga"
+
+#, fuzzy
+#~ msgid "Restricted Access"
+#~ msgstr "Europeana - teisės saugomos - ribota prieiga"
+
+#, fuzzy
+#~ msgid "Paid Access"
+#~ msgstr "Europeana - teisės saugomos - ribota prieiga"
+
+#~ msgid "Public Domain"
+#~ msgstr "Viešoji nuosavybė"
+
+#, fuzzy
+#~ msgid "Search term(s)"
+#~ msgstr "Paieška išsaugota"
+
+#, fuzzy
+#~ msgid "Search facet"
+#~ msgstr "Paieška išsaugota"
+
+#, fuzzy
+#~ msgid "Search operator"
+#~ msgstr "Paieška išsaugota"
+
+#, fuzzy
+#~ msgid "Click to search for this term in external services"
+#~ msgstr "Spustelėkite, jei norite matyti kitą rezultatų puslapį"
+
+#, fuzzy
+#~ msgid "Remote Search Widget"
+#~ msgstr "Europeanos logotipų"
+
+#, fuzzy
+#~ msgid "Europeana Search Widget"
+#~ msgstr "Europeanos logotipų"
+
+#, fuzzy
+#~ msgid "What is Europeana's remote search widget?"
+#~ msgstr "Europeanos logotipų"
+
+#, fuzzy
+#~ msgid "What is a plugin?"
+#~ msgstr "Kas yra Mano Europeana?"
+
+#, fuzzy
+#~ msgid "What will the plugin look like?"
+#~ msgstr "Kas yra Mano Europeana?"
+
+#, fuzzy
+#~ msgid "Click 'Generate Code'"
+#~ msgstr "Vartotojų sukurtas turinys"
+
+#, fuzzy
+#~ msgid "Background colour"
+#~ msgstr "Ištakos"
+
+#, fuzzy
+#~ msgid "Default language"
+#~ msgstr "Pasirinkite kalbą"
+
+#, fuzzy
+#~ msgid "Default search term"
+#~ msgstr "Paieška išsaugota"
+
+#, fuzzy
+#~ msgid "Europeana attribution"
+#~ msgstr "Europeanos logotipų"
+
+#, fuzzy
+#~ msgid "Generate Code"
+#~ msgstr "Vartotojų sukurtas turinys"
+
+#, fuzzy
+#~ msgid "Powered By Europeana"
+#~ msgstr "Mano Europeana"
+
+#, fuzzy
+#~ msgid "Europeana Blog"
+#~ msgstr "Europeanos logotipų"
+
+#, fuzzy
+#~ msgid "Virtual Exhibitions"
+#~ msgstr "yra virtuali paroda, pristatanti"
+
+#, fuzzy
+#~ msgid "Place Term"
+#~ msgstr "Turinio pateikimas"
+
+#, fuzzy
+#~ msgid "Place Label"
+#~ msgstr "Turinio pateikimas"
+
+#, fuzzy
+#~ msgid "Place Broader Term"
+#~ msgstr "Turinio pateikimas"
+
+#, fuzzy
+#~ msgid "Place Broader Label"
+#~ msgstr "Turinio pateikimas"
+
+#, fuzzy
+#~ msgid "Period Term"
+#~ msgstr "Turinio pateikimas"
+
+#, fuzzy
+#~ msgid "Period Label"
+#~ msgstr "Turinio pateikimas"
+
+#, fuzzy
+#~ msgid "Period Begin"
+#~ msgstr "Turinio pateikimas"
+
+#, fuzzy
+#~ msgid "Period End"
+#~ msgstr "Turinio pateikimas"
+
+#, fuzzy
+#~ msgid "Period Broader Term"
+#~ msgstr "Turinio pateikimas"
+
+#, fuzzy
+#~ msgid "Period Broader Label"
+#~ msgstr "Turinio pateikimas"
+
+#, fuzzy
+#~ msgid "Concept Term"
+#~ msgstr "Turinio pateikimas"
+
+#, fuzzy
+#~ msgid "Concept Label"
+#~ msgstr "Turinio pateikimas"
+
+#, fuzzy
+#~ msgid "Concept Broader Term"
+#~ msgstr "Turinio pateikimas"
+
+#, fuzzy
+#~ msgid "Concept Broader Label"
+#~ msgstr "Turinio pateikimas"
+
+#, fuzzy
+#~ msgid "Agent Term"
+#~ msgstr "Turinio pateikimas"
+
+#, fuzzy
+#~ msgid "Agent Label"
+#~ msgstr "Turinio pateikimas"
+
+#, fuzzy
+#~ msgid "Featured item"
+#~ msgstr "Nėra išsaugotų objektų"
+
+#, fuzzy
+#~ msgid "Visit exhibitions"
+#~ msgstr "yra virtuali paroda, pristatanti"
+
+#, fuzzy
+#~ msgid "Europeana Open Culture App"
+#~ msgstr "pažinkite kultūrą"
+
+#, fuzzy
+#~ msgid "Learn more"
+#~ msgstr "Europeana - Skaitant Europą"
+
+#~ msgid "Language Policy"
+#~ msgstr "Kalbų politika"
+
+#, fuzzy
+#~ msgid "How to configure your search widhet"
+#~ msgstr "Europeanos logotipų"
+
+#, fuzzy
+#~ msgid "Press Room"
+#~ msgstr "Spaudos kambarys"
+
+#, fuzzy
+#~ msgid "Explore Europe's cultural collections"
+#~ msgstr "Europeanos kolekcijos naujienas,"
+
+#, fuzzy
+#~ msgid "Filter your search"
+#~ msgstr "Įveskite savo elektroninio pašto adresą"
+
+#, fuzzy
+#~ msgid "Grid view"
+#~ msgstr "Turinio pateikimas"
+
+#, fuzzy
+#~ msgid "Similar items"
+#~ msgstr "Nėra išsaugotų objektų"
+
+#, fuzzy
+#~ msgid "Return to search results"
+#~ msgstr "Rezultatai Europeanoje"
+
+#, fuzzy
+#~ msgid "Next search result"
+#~ msgstr "išplėstinės paieškos"
+
+#, fuzzy
+#~ msgid "An email has been sent to inform our technical staff"
+#~ msgstr "Elektroninis laiškas išsiųstas šiuo adresu"
+
+#, fuzzy
+#~ msgid "Please try another search"
+#~ msgstr "Įveskite savo elektroninio pašto adresą"
+
+#, fuzzy
+#~ msgid "The item could not be removed"
+#~ msgstr "El. laiškas neišsiųstas"
+
+#, fuzzy
+#~ msgid "Request"
+#~ msgstr "Registruotis dar kartą"
+
+#, fuzzy
+#~ msgid "Legend"
+#~ msgstr "Garso medžiaga"
+
+#, fuzzy
+#~ msgid "See less"
+#~ msgstr "Europeana - Skaitant Europą"
+
+#, fuzzy
+#~ msgid "See more"
+#~ msgstr "Europeana - Skaitant Europą"
+
+#, fuzzy
+#~ msgid "Explore further"
+#~ msgstr "Europeanos kolekcijos naujienas,"
+
+#, fuzzy
+#~ msgid "Return to original language"
+#~ msgstr "Laiko skalė"
+
+#, fuzzy
+#~ msgid "Preview"
+#~ msgstr "Turinio pateikimas"
+
+#, fuzzy
+#~ msgid "Return to timeline"
+#~ msgstr "Laiko skalė"
+
+#, fuzzy
+#~ msgid "Zoom"
+#~ msgstr "nereiškia"
+
+#, fuzzy
+#~ msgid "Zoom in"
+#~ msgstr "nereiškia"
+
+#, fuzzy
+#~ msgid "Zoom out"
+#~ msgstr "nereiškia"
+
+#, fuzzy
+#~ msgid "User contributed content"
+#~ msgstr "Vartotojų sukurtas turinys"
+
+#, fuzzy
+#~ msgid "Read"
+#~ msgstr "Europeana - Skaitant Europą"
+
+#, fuzzy
+#~ msgid "Please try another search."
+#~ msgstr "Įveskite savo elektroninio pašto adresą"
+
+#, fuzzy
+#~ msgid "Wikipedia Citation"
+#~ msgstr "Migracija"
+
+#, fuzzy
+#~ msgid "Email Address"
+#~ msgstr "Elektroninio pašto adresas"
+
+#, fuzzy
+#~ msgid "Featured partner"
+#~ msgstr "Nėra išsaugotų objektų"
+
+#, fuzzy
+#~ msgid "API function"
+#~ msgstr "Abolicija"
+
+#, fuzzy
+#~ msgid "Search parameters"
+#~ msgstr "Paieška išsaugota"
+
+#, fuzzy
+#~ msgid "Search term"
+#~ msgstr "Paieška išsaugota"
+
+#, fuzzy
+#~ msgid "Record parameters"
+#~ msgstr "Nėra išsaugotų objektų"
+
+#, fuzzy
+#~ msgid "Request URL"
+#~ msgstr "Registruotis dar kartą"
+
+#, fuzzy
+#~ msgid "Search also for:"
+#~ msgstr "Paieška išsaugota"
+
+#~ msgid "Who"
+#~ msgstr "Kas"
+
+#~ msgid "What"
+#~ msgstr "Kas"
+
+#, fuzzy
+#~ msgid "api-introduction.html"
+#~ msgstr "Atribucija"
+
+#, fuzzy
+#~ msgid "Terms of use &amp; Policies"
+#~ msgstr "Treminai ir sąlygos"
+
+#, fuzzy
+#~ msgid "contact.html"
+#~ msgstr "Kontaktai"
+
+#, fuzzy
+#~ msgid "sitemap.html"
+#~ msgstr "Svetainės struktūra"
+
+#, fuzzy
+#~ msgid "No API key"
+#~ msgstr "Naudojimo sąlygos"
+
+#, fuzzy
+#~ msgid "API key"
+#~ msgstr "Naudojimo sąlygos"
+
+#, fuzzy
+#~ msgid "Private key"
+#~ msgstr "Privatumas"
+
+#, fuzzy
+#~ msgid "Remove API key"
+#~ msgstr "Naudojimo sąlygos"
+
+#, fuzzy
+#~ msgid "Remove user"
+#~ msgstr "Naudojimo sąlygos"
+
+#, fuzzy
+#~ msgid "User name"
+#~ msgstr "Paskutinis pataisymas"
+
+#, fuzzy
+#~ msgid "Registration"
+#~ msgstr "Registruotis dar kartą"
+
+#, fuzzy
+#~ msgid "Europeana Exhibitions"
+#~ msgstr "yra virtuali paroda, pristatanti"
+
+#, fuzzy
+#~ msgid "Company or Institution"
+#~ msgstr "Tyrimų institucijos"
+
+#, fuzzy
+#~ msgid "Address"
+#~ msgstr "Elektroninio pašto adresas"
+
+#, fuzzy
+#~ msgid "Date of creation"
+#~ msgstr "Duomenų apsauga"
+
+#, fuzzy
+#~ msgid "Is part of"
+#~ msgstr "naudokite šią formą"
+
+#, fuzzy
+#~ msgid "Titles"
+#~ msgstr "Pavadinimas"
+
+#, fuzzy
+#~ msgid "Places"
+#~ msgstr "Vaizdai"
+
+#, fuzzy
+#~ msgid "Dates/Periods"
+#~ msgstr "Paieška išsaugota"
+
+#, fuzzy
+#~ msgid "Subjects"
+#~ msgstr "Dalykas"
+
+#, fuzzy
+#~ msgid "Creators"
+#~ msgstr "Autorius"
+
+#, fuzzy
+#~ msgid "All fields"
+#~ msgstr "Paieška išsaugota"
+
+#, fuzzy
+#~ msgid "Featured Item"
+#~ msgstr "Nėra išsaugotų objektų"
+
+#, fuzzy
+#~ msgid "Click here for last page of results"
+#~ msgstr "Spustelėkite, jei norite matyti kitą rezultatų puslapį"
+
+#, fuzzy
+#~ msgid "Please try another search later."
+#~ msgstr "Įveskite savo elektroninio pašto adresą"
+
+#, fuzzy
+#~ msgid "Please register your email again"
+#~ msgstr "Prašome įrašyti veikiantį elektroninio pašto adresą"
+
+#, fuzzy
+#~ msgid "to finish registration."
+#~ msgstr "Baigti registraciją"
+
+#, fuzzy
+#~ msgid "Please try another language from the dropdown list."
+#~ msgstr "Įveskite savo elektroninio pašto adresą"
+
+#, fuzzy
+#~ msgid "Yes, with attribution"
+#~ msgstr "Atribucija"
+
+#, fuzzy
+#~ msgid "Yes, with restrictions"
+#~ msgstr "Atribucija"
 
 #, fuzzy
 #~ msgid "New &amp; Improved - Europeana 1914-1918"
