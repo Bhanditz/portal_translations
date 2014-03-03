@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-26 16:59+0100\n"
+"POT-Creation-Date: 2014-03-03 15:37+0100\n"
 "PO-Revision-Date: 2013-10-15 11:17\n"
 "Last-Translator: <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,26 +21,24 @@ msgstr ""
 #: templates/static_pages/prop_file.html:63
 #: templates/static_pages/prop_file.html:819
 #: templates/static_pages/prop_file.html:820
-#: templates/static_pages/sitemap.html:51
 msgid "Europeana API"
 msgstr "Europeana API"
 
 #: templates/api_leftmenu.html:6 templates/static_pages/prop_file.html:991
 #: templates/static_pages/prop_file.html:992
-#: templates/static_pages/sitemap.html:53
 msgid "Get an API-Key"
 msgstr "Få en API nøkkel"
 
-#: templates/api_leftmenu.html:7 templates/static_pages/sitemap.html:55
+#: templates/api_leftmenu.html:7
 msgid "API Console"
 msgstr "API konsoll"
 
-#: templates/api_leftmenu.html:11 templates/static_pages/sitemap.html:59
+#: templates/api_leftmenu.html:11
 #, fuzzy
 msgid "Search Widget Wizard"
 msgstr "Ekstern Søke Widget"
 
-#: templates/api_leftmenu.html:12 templates/static_pages/sitemap.html:60
+#: templates/api_leftmenu.html:12
 msgid "Europeana API Forum"
 msgstr "Europeana API Forum"
 
@@ -53,14 +51,12 @@ msgstr "Utforsk"
 #: templates/explore_leftmenu.html:5 templates/static_pages/prop_file.html:546
 #: templates/static_pages/prop_file.html:547
 #: templates/static_pages/prop_file.html:876
-#: templates/static_pages/sitemap.html:20
 msgid "Europeana Remix"
 msgstr "Europeana Remix"
 
 #: templates/explore_leftmenu.html:6 templates/static_pages/prop_file.html:550
 #: templates/static_pages/prop_file.html:551
 #: templates/static_pages/prop_file.html:865
-#: templates/static_pages/sitemap.html:17
 #: templates/static_pages/usingeuropeana_explore.html:14
 msgid "Exhibitions"
 msgstr "Utstillinger"
@@ -71,8 +67,6 @@ msgstr "Utstillinger"
 #: templates/static_pages/prop_file.html:555
 #: templates/static_pages/prop_file.html:914
 #: templates/static_pages/prop_file.html:915
-#: templates/static_pages/sitemap.html:38
-#: templates/static_pages/sitemap.html:87
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "New content"
 msgstr "Nytt innhold"
@@ -80,22 +74,18 @@ msgstr "Nytt innhold"
 #: templates/explore_leftmenu.html:9 templates/static_pages/prop_file.html:78
 #: templates/static_pages/prop_file.html:558
 #: templates/static_pages/prop_file.html:559
-#: templates/static_pages/sitemap.html:88
-#: templates/static_pages/usingeuropeana_search.html:60
 msgid "By provider"
 msgstr "etter tilbyder"
 
 #: templates/explore_leftmenu.html:10 templates/static_pages/prop_file.html:37
 #: templates/static_pages/prop_file.html:562
 #: templates/static_pages/prop_file.html:563
-#: templates/static_pages/sitemap.html:89
 msgid "Timeline"
 msgstr "Tidslinje"
 
 #: templates/explore_leftmenu.html:11
 #: templates/static_pages/prop_file.html:566
 #: templates/static_pages/prop_file.html:567
-#: templates/static_pages/sitemap.html:90
 msgid "Map"
 msgstr "Kart"
 
@@ -109,7 +99,6 @@ msgstr "Følg oss"
 #: templates/static_pages/prop_file.html:618
 #: templates/static_pages/prop_file.html:619
 #: templates/static_pages/prop_file.html:869
-#: templates/static_pages/sitemap.html:18
 msgid "Blog"
 msgstr "Blogg"
 
@@ -152,7 +141,6 @@ msgstr "etter tilbyder"
 #: templates/leftmenu.html:10 templates/static_pages/aboutus_enews.html:11
 #: templates/static_pages/prop_file.html:924
 #: templates/static_pages/prop_file.html:925
-#: templates/static_pages/sitemap.html:40
 msgid "Previous newsletters"
 msgstr "Tidligere nyhetsbrev"
 
@@ -202,25 +190,23 @@ msgid "Using our data"
 msgstr "Bruk av våre data"
 
 #: templates/terms_leftmenu.html:9 templates/rights/terms-and-policies.html:24
-#: templates/static_pages/sitemap.html:99
 msgid "Terms of Use"
 msgstr "Vilkår for bruk"
 
-#: templates/terms_leftmenu.html:10 templates/static_pages/sitemap.html:100
+#: templates/terms_leftmenu.html:10
 msgid "Usage Guidelines for Metadata"
 msgstr "Retningslinjer for bruk av metadata"
 
-#: templates/terms_leftmenu.html:11 templates/static_pages/sitemap.html:101
+#: templates/terms_leftmenu.html:11
 msgid "Public Domain Usage Guidelines"
 msgstr "Retningslinjer for bruk av materiale som ikke er rettighetsbelagt"
 
-#: templates/terms_leftmenu.html:12 templates/static_pages/sitemap.html:102
+#: templates/terms_leftmenu.html:12
 msgid "API Terms of Use"
 msgstr "Vilkår for bruk av API "
 
 #: templates/terms_leftmenu.html:13
 #: templates/rights/linked-data-sources.html:16
-#: templates/static_pages/sitemap.html:103
 msgid "Europeana Data Sources"
 msgstr "Europeana Datakilder"
 
@@ -232,7 +218,7 @@ msgstr "Bidrag av data til oss"
 msgid "Europeana Data Exchange Agreement"
 msgstr "Europeanas Datautvekslingsavtale"
 
-#: templates/terms_leftmenu.html:19 templates/static_pages/sitemap.html:105
+#: templates/terms_leftmenu.html:19
 msgid "Terms for User Contributions"
 msgstr "Vilkår for brukerbidrag"
 
@@ -246,7 +232,6 @@ msgstr "Våre "
 #: templates/static_pages/prop_file.html:68
 #: templates/static_pages/prop_file.html:526
 #: templates/static_pages/prop_file.html:527
-#: templates/static_pages/sitemap.html:106
 msgid "Privacy"
 msgstr "Personvern"
 
@@ -262,11 +247,10 @@ msgstr "Språk"
 #: templates/static_pages/prop_file.html:65
 #: templates/static_pages/prop_file.html:514
 #: templates/static_pages/prop_file.html:515
-#: templates/static_pages/sitemap.html:108
 msgid "Accessibility"
 msgstr "Tilgjengelighet"
 
-#: templates/terms_leftmenu.html:27 templates/static_pages/sitemap.html:109
+#: templates/terms_leftmenu.html:27
 msgid "Public Domain Charter"
 msgstr "Charter for rettighetsløst materiale"
 
@@ -276,7 +260,6 @@ msgstr "Charter for rettighetsløst materiale"
 #: templates/static_pages/prop_file.html:571
 #: templates/static_pages/prop_file.html:884
 #: templates/static_pages/prop_file.html:885
-#: templates/static_pages/sitemap.html:25
 #: templates/static_pages/usingeuropeana.html:9
 msgid "Help"
 msgstr "Hjelp"
@@ -288,8 +271,6 @@ msgstr "Hjelp"
 #: templates/static_pages/prop_file.html:889
 #: templates/static_pages/usingeuropeana.html:14
 #: templates/static_pages/usingeuropeana_results.html:22
-#: templates/static_pages/usingeuropeana_search.html:9
-#: templates/static_pages/usingeuropeana_search.html:13
 msgid "Searching Europeana"
 msgstr "Søke i Europeana"
 
@@ -299,10 +280,8 @@ msgstr "Søke i Europeana"
 #: templates/static_pages/prop_file.html:579
 #: templates/static_pages/prop_file.html:892
 #: templates/static_pages/prop_file.html:893
-#: templates/static_pages/sitemap.html:28
 #: templates/static_pages/usingeuropeana.html:16
 #: templates/static_pages/usingeuropeana_explore.html:9
-#: templates/static_pages/usingeuropeana_search.html:14
 msgid "Exploring Europeana"
 msgstr "Utforsk Europeana"
 
@@ -311,10 +290,8 @@ msgstr "Utforsk Europeana"
 #: templates/static_pages/prop_file.html:583
 #: templates/static_pages/prop_file.html:896
 #: templates/static_pages/prop_file.html:897
-#: templates/static_pages/sitemap.html:29
 #: templates/static_pages/usingeuropeana.html:19
 #: templates/static_pages/usingeuropeana_results.html:9
-#: templates/static_pages/usingeuropeana_search.html:15
 msgid "Results in Europeana"
 msgstr "Resultater i Europeana"
 
@@ -323,10 +300,7 @@ msgstr "Resultater i Europeana"
 #: templates/static_pages/prop_file.html:587
 #: templates/static_pages/prop_file.html:900
 #: templates/static_pages/prop_file.html:901
-#: templates/static_pages/sitemap.html:30
 #: templates/static_pages/usingeuropeana.html:21
-#: templates/static_pages/usingeuropeana_myeuropeana.html:9
-#: templates/static_pages/usingeuropeana_search.html:16
 msgid "Using My Europeana"
 msgstr "Bruke Mitt Europeana"
 
@@ -1779,10 +1753,6 @@ msgstr ""
 "oppdatert med vår nyeste utvikling, finn ut om hvem vi er og mer, med vårt "
 "nyhetsbrev, blogg, Twitter og Facebook sider."
 
-#: templates/static_pages/newcontent.html:3
-msgid "Europeana - New Content"
-msgstr "Europeana - Nytt innhold"
-
 #: templates/static_pages/prop_file.html:5
 msgid ""
 "I understand that My Europeana gives me the opportunity to create tags for "
@@ -1906,11 +1876,6 @@ msgstr "innebærer ikke"
 #: templates/static_pages/prop_file.html:639
 #: templates/static_pages/prop_file.html:957
 #: templates/static_pages/prop_file.html:958
-#: templates/static_pages/sitemap.html:12
-#: templates/static_pages/usingeuropeana_myeuropeana.html:10
-#: templates/static_pages/usingeuropeana_myeuropeana.html:11
-#: templates/static_pages/usingeuropeana_myeuropeana.html:20
-#: templates/static_pages/usingeuropeana_myeuropeana.html:21
 msgid "My Europeana"
 msgstr "Mitt Europeana"
 
@@ -1966,7 +1931,6 @@ msgid ""
 msgstr "Best bruk av dette nettstedet fordrer bruk av Javaskript"
 
 #: templates/static_pages/prop_file.html:33
-#: templates/static_pages/storyline.html:11
 msgid "Storyline and credits"
 msgstr "Storyline og kredittering"
 
@@ -2007,11 +1971,6 @@ msgid "Find out more"
 msgstr "Finn ut mere"
 
 #: templates/static_pages/prop_file.html:44
-#: templates/static_pages/sitemap.html:65
-#: templates/static_pages/usingeuropeana_search.html:21
-#: templates/static_pages/usingeuropeana_search.html:25
-#: templates/static_pages/usingeuropeana_search.html:27
-#: templates/static_pages/usingeuropeana_search.html:45
 msgid "Search"
 msgstr "Søk"
 
@@ -2047,7 +2006,6 @@ msgstr "Polen"
 #: templates/static_pages/usingeuropeana_results.html:25
 #: templates/static_pages/usingeuropeana_results.html:41
 #: templates/static_pages/usingeuropeana_results.html:49
-#: templates/static_pages/usingeuropeana_search.html:32
 msgid "or"
 msgstr "eller"
 
@@ -2092,7 +2050,6 @@ msgstr ""
 #: templates/static_pages/prop_file.html:62
 #: templates/static_pages/prop_file.html:909
 #: templates/static_pages/prop_file.html:910
-#: templates/static_pages/sitemap.html:36
 msgid "About us"
 msgstr "Om oss"
 
@@ -2105,7 +2062,6 @@ msgstr "Bruke Europeana"
 #: templates/static_pages/prop_file.html:519
 #: templates/static_pages/prop_file.html:831
 #: templates/static_pages/prop_file.html:832
-#: templates/static_pages/sitemap.html:8
 msgid "Sitemap"
 msgstr "Nettstedkart"
 
@@ -2115,7 +2071,6 @@ msgid "Terms and conditions"
 msgstr "Betingelser og vilkår"
 
 #: templates/static_pages/prop_file.html:69
-#: templates/static_pages/sitemap.html:107
 msgid "Language policy"
 msgstr "Språkpolitikk"
 
@@ -2162,7 +2117,6 @@ msgid "By type"
 msgstr "Etter type"
 
 #: templates/static_pages/prop_file.html:81
-#: templates/static_pages/usingeuropeana_search.html:55
 msgid "By media type"
 msgstr "Etter medietype"
 
@@ -2171,7 +2125,6 @@ msgid "Actions"
 msgstr "Handlinger"
 
 #: templates/static_pages/prop_file.html:83
-#: templates/static_pages/usingeuropeana_myeuropeana.html:14
 msgid "Save this search"
 msgstr "Lagre dette søket"
 
@@ -2188,9 +2141,6 @@ msgid "You have searched for"
 msgstr "Du har søkt på"
 
 #: templates/static_pages/prop_file.html:87
-#: templates/static_pages/usingeuropeana_search.html:51
-#: templates/static_pages/usingeuropeana_search.html:63
-#: templates/static_pages/usingeuropeana_search.html:65
 msgid "Matches for"
 msgstr "dette skjemaet"
 
@@ -2269,12 +2219,10 @@ msgid "User tags"
 msgstr "Bruk"
 
 #: templates/static_pages/prop_file.html:110
-#: templates/static_pages/usingeuropeana_myeuropeana.html:15
 msgid "Add a tag"
 msgstr "Legg til en tag"
 
 #: templates/static_pages/prop_file.html:111
-#: templates/static_pages/usingeuropeana_search.html:49
 msgid "Add"
 msgstr "Legg til"
 
@@ -2307,7 +2255,6 @@ msgid "Send"
 msgstr "Lyd"
 
 #: templates/static_pages/prop_file.html:119
-#: templates/static_pages/usingeuropeana_myeuropeana.html:16
 msgid "Save to My Europeana"
 msgstr "Lagre i Mitt Europeana"
 
@@ -2375,8 +2322,6 @@ msgstr "Bidra med innhold"
 #: templates/static_pages/prop_file.html:135
 #: templates/static_pages/prop_file.html:228
 #: templates/static_pages/prop_file.html:814
-#: templates/static_pages/storyline.html:49
-#: templates/static_pages/usingeuropeana_search.html:32
 msgid "Title"
 msgstr "Tittel"
 
@@ -2386,20 +2331,16 @@ msgid "Description"
 msgstr "Beskrivelse"
 
 #: templates/static_pages/prop_file.html:137
-#: templates/static_pages/storyline.html:50
-#: templates/static_pages/usingeuropeana_search.html:31
 msgid "Creator"
 msgstr "Skaper"
 
 #: templates/static_pages/prop_file.html:138
 #: templates/static_pages/prop_file.html:232
-#: templates/static_pages/usingeuropeana_search.html:34
 msgid "Date"
 msgstr "Dato"
 
 #: templates/static_pages/prop_file.html:139
 #: templates/static_pages/prop_file.html:234
-#: templates/static_pages/usingeuropeana_search.html:32
 msgid "Subject"
 msgstr "Tema"
 
@@ -2789,7 +2730,6 @@ msgid "Relation"
 msgstr "Relasjon"
 
 #: templates/static_pages/prop_file.html:241
-#: templates/static_pages/sitemap.html:113
 msgid "Rights"
 msgstr "Andre rettigheter"
 
@@ -3094,7 +3034,6 @@ msgid "By Rights"
 msgstr "Etter Rights"
 
 #: templates/static_pages/prop_file.html:312
-#: templates/static_pages/usingeuropeana_search.html:59
 msgid "By copyright"
 msgstr "Etter opphavsrett"
 
@@ -3312,7 +3251,6 @@ msgid "Media Types"
 msgstr "Medietyper"
 
 #: templates/static_pages/prop_file.html:359
-#: templates/static_pages/usingeuropeana_searchwidget.html:30
 msgid "Providers"
 msgstr "Tilbydere"
 
@@ -3566,7 +3504,6 @@ msgstr "Se flere"
 
 #: templates/static_pages/prop_file.html:522
 #: templates/static_pages/prop_file.html:523
-#: templates/static_pages/sitemap.html:97
 msgid "Terms of Use &amp; Policies"
 msgstr "Vilkår for bruk, Policies"
 
@@ -3577,7 +3514,6 @@ msgstr "Språkpolitikk"
 
 #: templates/static_pages/prop_file.html:534
 #: templates/static_pages/prop_file.html:535
-#: templates/static_pages/sitemap.html:126
 msgid "Contact"
 msgstr "Kontakt"
 
@@ -3585,15 +3521,13 @@ msgstr "Kontakt"
 #: templates/static_pages/prop_file.html:539
 #: templates/static_pages/prop_file.html:953
 #: templates/static_pages/prop_file.html:954
-#: templates/static_pages/sitemap.html:11
 msgid "Home"
 msgstr "Hjem"
 
 #: templates/static_pages/prop_file.html:590
-#: templates/static_pages/sitemap.html:31
-#: templates/static_pages/usingeuropeana_searchwidget.html:9
+#, fuzzy
 msgid "How to configure your search widget"
-msgstr ""
+msgstr "Hva er Europeanas  søke widget?"
 
 #: templates/static_pages/prop_file.html:591
 #, fuzzy
@@ -3873,7 +3807,6 @@ msgid "Copy and paste the wiki-markup below:"
 msgstr "Kopier og lim inn wiki-markupen under:"
 
 #: templates/static_pages/prop_file.html:716
-#: templates/static_pages/usingeuropeana_search.html:67
 msgid "Include content contributed by users"
 msgstr "Innkluder innhold bidratt av brukere"
 
@@ -3917,7 +3850,6 @@ msgstr "Senest på"
 
 #: templates/static_pages/prop_file.html:728
 #: templates/static_pages/prop_file.html:973
-#: templates/static_pages/usingeuropeana_search.html:69
 msgid "Share"
 msgstr "Dele"
 
@@ -4095,7 +4027,6 @@ msgid "sitemap.html"
 msgstr "sitemap.html"
 
 #: templates/static_pages/prop_file.html:835
-#: templates/static_pages/usingeuropeana_myeuropeana.html:17
 msgid "API keys"
 msgstr "API nøkler"
 
@@ -4179,7 +4110,6 @@ msgstr "Se det seneste innholdet fra våre partnere"
 
 #: templates/static_pages/prop_file.html:860
 #: templates/static_pages/prop_file.html:861
-#: templates/static_pages/sitemap.html:15
 msgid "Other Europeana Sites"
 msgstr "Andre Europeana sider"
 
@@ -4188,7 +4118,6 @@ msgid "Europeana Exhibitions"
 msgstr "Europeana utstillinger"
 
 #: templates/static_pages/prop_file.html:872
-#: templates/static_pages/sitemap.html:19
 msgid "Europeana 1914-1918"
 msgstr "Europeana 1914-1918"
 
@@ -4197,7 +4126,6 @@ msgid "Remix"
 msgstr "Remiks"
 
 #: templates/static_pages/prop_file.html:880
-#: templates/static_pages/sitemap.html:21
 msgid "Europeana Professional"
 msgstr "Europeana Profesjonell"
 
@@ -4280,7 +4208,6 @@ msgid "Results per page"
 msgstr "Resultater per side"
 
 #: templates/static_pages/prop_file.html:969
-#: templates/static_pages/usingeuropeana_search.html:49
 msgid "Add more keywords"
 msgstr "Legg til flere emneord"
 
@@ -4564,8 +4491,9 @@ msgid "Auto translate items into"
 msgstr "Oversett elementets detaljer"
 
 #: templates/static_pages/prop_file.html:1045
+#, fuzzy
 msgid "Automatically translate search keywords into:"
-msgstr ""
+msgstr "Automatisk tillagte semantiske tagger"
 
 #: templates/static_pages/prop_file.html:1046
 msgid ""
@@ -4577,558 +4505,37 @@ msgstr ""
 msgid "Submit"
 msgstr ""
 
-#: templates/static_pages/sitemap.html:4
-msgid "Europeana - Sitemap"
-msgstr "Europeana - Nettstedkart"
-
-#: templates/static_pages/sitemap.html:27
-msgid "Searching in Europeana"
-msgstr "Lagre i Mitt Europeana"
-
-#: templates/static_pages/sitemap.html:39
+#: templates/static_pages/prop_file.html:1048
 #, fuzzy
-msgid "All Providers"
-msgstr "Tilbydere"
+msgid "Incorrect password."
+msgstr "Glemt passord?"
 
-#: templates/static_pages/sitemap.html:41
-msgid "Press Centre (on Europeana Professional)"
-msgstr "Pressesenter (på Europeana Profesjonell)"
-
-#: templates/static_pages/sitemap.html:42
-msgid "Jobs (on Europeana Professional)"
-msgstr "Stillinger (på Europeana Profesjonell)"
-
-#: templates/static_pages/sitemap.html:43
-msgid "Partners (on Europeana Professional)"
-msgstr "Partnere (på Europeana Profesjonell) "
-
-#: templates/static_pages/sitemap.html:56
+#: templates/static_pages/prop_file.html:1049
 #, fuzzy
-msgid "Working with the API"
-msgstr "Arbeide med Europeana"
+msgid ""
+"Log into My Europeana to save your favourite items, searches, tags and "
+"translate search keywords into other languages."
+msgstr ""
+"du kan lagre dine favoritt-elementer og søk, og legge til tags i elementer "
+"for å hjelpe til med å skille dem inn i forskjellige kategorier."
 
-#: templates/static_pages/sitemap.html:57
+#: templates/static_pages/prop_file.html:1050
 #, fuzzy
-msgid "Latest changes"
-msgstr "Senest på"
+msgid "Please enter your username."
+msgstr "Vennligst registrer din email igjen"
 
-#: templates/static_pages/sitemap.html:58
-msgid "Sample Code and Libraries"
-msgstr ""
-
-#: templates/static_pages/sitemap.html:61
-msgid "API Methods"
-msgstr "API metoder"
-
-#: templates/static_pages/sitemap.html:64
+#: templates/static_pages/prop_file.html:1051
 #, fuzzy
-msgid "Record"
-msgstr "Post id"
+msgid "Please enter your password."
+msgstr "Vennligst registrer din email igjen"
 
-#: templates/static_pages/sitemap.html:66
-msgid "Suggestions"
-msgstr "Forslag"
-
-#: templates/static_pages/sitemap.html:67
-msgid "OpenSearch"
-msgstr "ÅpentSøk"
-
-#: templates/static_pages/sitemap.html:69
-msgid "Query Syntax"
-msgstr "Spørresyntax"
-
-#: templates/static_pages/sitemap.html:70
-msgid "Data structure"
-msgstr "Datastruktur"
-
-#: templates/static_pages/sitemap.html:72
-msgid "Europeana Fields"
-msgstr "Europeana felt"
-
-#: templates/static_pages/sitemap.html:74
-msgid "API1-API2 compatability"
-msgstr "API1-API2 kompabilitet"
-
-#: templates/static_pages/sitemap.html:104
-msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
-msgstr "Europeana Data Exchange Agreement (på Europeana Profesjonell)"
-
-#: templates/static_pages/sitemap.html:115
-#, fuzzy
-msgid "Free Access - no-reuse"
-msgstr "Gratis tilgang"
-
-#: templates/static_pages/sitemap.html:116
-#, fuzzy
-msgid "Rights Reserved - Restricted access"
-msgstr "Rettigheter - Begrenset tilgang"
-
-#: templates/static_pages/sitemap.html:117
-#, fuzzy
-msgid "Paid Access - no re-use"
-msgstr "Betalt tilgang"
-
-#: templates/static_pages/sitemap.html:118
-msgid "Unknown copyright status"
-msgstr "Ukjent opphavsrettstatus"
-
-#: templates/static_pages/sitemap.html:119
-#, fuzzy
-msgid "Orphan work - Free access"
-msgstr "Rettigheter - Gratis tilgang"
-
-#: templates/static_pages/sitemap.html:120
-msgid "Orphan work"
+#: templates/static_pages/prop_file.html:1052
+msgid "Registered users may choose a maximum of 6 options."
 msgstr ""
 
-#: templates/static_pages/sitemap.html:121
-msgid "Out of copyright - non commercial reuse"
+#: templates/static_pages/prop_file.html:1053
+msgid "Unregistered users may choose a maximum of 3 options."
 msgstr ""
-
-#: templates/static_pages/sitemap.html:127
-#, fuzzy
-msgid "Europeana Semantic Elements (ESE)"
-msgstr "Europeanas Søke Widget"
-
-#: templates/static_pages/sitemap.html:128
-#, fuzzy
-msgid "Europeana metadata schemas"
-msgstr "Europeana metadata"
-
-#: templates/static_pages/storyline.html:4
-msgid "Europeana - Storyline and credits"
-msgstr "Europeana - Storyline og kredittering"
-
-#: templates/static_pages/storyline.html:13
-msgid "Descartes"
-msgstr "Dato"
-
-#: templates/static_pages/storyline.html:14
-msgid "The best place to start is with"
-msgstr "Det beste stedet å begynne er med"
-
-#: templates/static_pages/storyline.html:14
-msgid "Rene Descartes"
-msgstr "Rene Descartes"
-
-#: templates/static_pages/storyline.html:14
-msgid ""
-"the man who made thinking central to our experience of the world. Cogito "
-"ergo sum wrote Descartes in 1644 in his Principia Philosophiae: I think, "
-"therefore I am. Descartes was the father of modern philosophy, and one of "
-"the great European thinkers of his time, writing in French and Latin, "
-"working and publishing in the Netherlands."
-msgstr ""
-"mannen som gjorde tenkning sentral for vår opplevelse av verden. Cogito ergo "
-"sum skrev Descartes i 1644 i hans Principia philosophiae: Jeg tenker, derfor "
-"er jeg. Descartes var far til moderne filosofi, og en av de store europeiske "
-"tenkere i sin tid, og skrev på fransk og latin, arbeidet og publiserte i "
-"Nederland."
-
-#: templates/static_pages/storyline.html:15
-msgid "Newton"
-msgstr "Newton"
-
-#: templates/static_pages/storyline.html:16
-msgid ""
-"He defined laws of reflection and refraction, worked on the structure of the "
-"brain, the new physics and mathematics. He was a major influence on"
-msgstr ""
-"Han definerte lover om refleksjon og brytning, jobbet med strukturen i "
-"hjernen, den nye fysikk og matematikk. Han hadde stor innflytelse på"
-
-#: templates/static_pages/storyline.html:16
-msgid "Isaac Newton"
-msgstr "Isaac Newton"
-
-#: templates/static_pages/storyline.html:16
-msgid ""
-"whose laws of gravity were famously inspired by watching an apple fall. "
-"Newton's three laws of motion were published in 1687 in his"
-msgstr ""
-"hans loven om gravitasjon var som kjent inspirert av å se et eple falle. "
-"Newtons tre lover om bevegelse ble utgitt i 1687 i hans"
-
-#: templates/static_pages/storyline.html:16
-msgid "Philosophiae Naturalis Principia Mathematica"
-msgstr "Philosophiae Naturalis Principia Mathematica"
-
-#: templates/static_pages/storyline.html:17
-msgid "Darwin"
-msgstr "Darwin"
-
-#: templates/static_pages/storyline.html:18
-msgid ""
-"The apple is the symbol of another fall; that of Adam and Eve, who on eating "
-"the fruit of the Tree of Knowledge of Good and Evil are banished from Eden. "
-"The fundamental challenge to the story of the Creation and the Fall is the "
-"Theory of Evolution, set out by"
-msgstr ""
-"Eplet er symbolet for et annet fall, at Adam og Eva, som ved å spise frukten "
-"på treet til kunnskap om godt og ondt ble forvist fra Eden. Den "
-"grunnleggende utfordringen til historien om skapelsen og fallet er "
-"Evoludjonsteorien, utviklet av"
-
-#: templates/static_pages/storyline.html:18
-msgid "Charles Darwin"
-msgstr "Charles Darwin"
-
-#: templates/static_pages/storyline.html:18
-msgid "in his famous 1859 book"
-msgstr "i hans berømte bok  fra 1859"
-
-#: templates/static_pages/storyline.html:18
-msgid "On the Origin of Species"
-msgstr "On the Origin of Species"
-
-#: templates/static_pages/storyline.html:18
-msgid ""
-"Darwin recognised that species were not static, but evolved to improve their "
-"chances of survival. His theories began to develop while he was the "
-"naturalist and geologist on board the ship Beagle, on a 5 year voyage "
-"surveying the coast of South America."
-msgstr ""
-"Darwin innså at artene er ikke statiske, men utviklet seg for å forbedre "
-"sine sjanser til å overleve. Hans begynte å utvikle sine teorier mens han "
-"var naturforsker og geolog ombord på skipet Beagle, på en 5 års reise med "
-"det mål å kartlegge  kysten av Sør-Amerika."
-
-#: templates/static_pages/storyline.html:19
-msgid "Wedgwood"
-msgstr "Wedgwood"
-
-#: templates/static_pages/storyline.html:20
-msgid ""
-"Darwin's genius was the product of an English family of talent and "
-"reputation. He was the grandson of"
-msgstr ""
-"Darwins geni var et produkt av en engelsk familie med talent og godt ry. Han "
-"var barnebarn av"
-
-#: templates/static_pages/storyline.html:20
-msgid "Josiah Wedgwood"
-msgstr "Josiah Wedgwood"
-
-#: templates/static_pages/storyline.html:20
-msgid ""
-"one of the great entrepreneurs of the industrial revolution. Taking "
-"inspiration from Greek, Etruscan and Roman styles, especially the Portland "
-"Vase, he created a range of neo-classical pottery that delighted the new "
-"English merchant classes, keen to display their sophistication with "
-"references to design classics. Wedgwood used scientific innovation, factory "
-"techniques of mass production and the new canal network of the UK to "
-"transport his fragile wares to the new consumers of the growing towns and "
-"cities."
-msgstr ""
-"en av de store gründere i den industrielle revolusjon. Med inspirasjon fra "
-"gresk, etruskisk og romersk stil, spesielt Portland Vasen, laget han en "
-"rekke neo-klassiske keramikkobjekter som gledet den nye engelske "
-"kjøpmannsklassen, opptatt av å vise sitt raffinement med referanser til "
-"klassisk design. Wedgwood bruker vitenskapelig innovasjon, fabrikkteknikker "
-"for masseproduksjon og det nye  nettverket av kanaler i Storbritannia for å "
-"transportere sine skjøre varer til de nye forbrukerne i de voksende byene."
-
-#: templates/static_pages/storyline.html:21
-msgid "Abolition"
-msgstr "Avskaffelse"
-
-#: templates/static_pages/storyline.html:22
-msgid "A philanthropic employer, Wedgwood was also an early support of"
-msgstr ""
-"Som en filantropisk arbeidsgiver, var Wedgwood også en tidlig støtte for"
-
-#: templates/static_pages/storyline.html:22
-msgid "abolition"
-msgstr "avskaffelse"
-
-#: templates/static_pages/storyline.html:22
-msgid ""
-"He was a founder member of the Society for the Abolition of the Slave Trade. "
-"His support was most memorably expressed in the cameos he produced in the "
-"1780s, showing a chained slave with the motto Am I not a Man and a Brother? "
-"Distributed in their thousands, these became the first protest fashion "
-"accessory."
-msgstr ""
-"Han var en av grunnleggerne av foreningen for avskaffelse av slavehandelen. "
-"Hans støtte var mest minneverdig uttrykt i medaljongen han produserte i 1780-"
-"årene, som viser en kjedet slave med mottoet Er jeg ikke et menneske og en "
-"bror? Distribuert i tusenvis, ble denne første protesten et moteobjekt."
-
-#: templates/static_pages/storyline.html:23
-#: templates/static_pages/storyline.html:24
-msgid "Migration"
-msgstr "Migrering"
-
-#: templates/static_pages/storyline.html:24
-msgid ""
-"The anti-slavery campaigners succeeded in abolishing the slave trade in 1807 "
-"and in the following years it was outlawed in the colonies of western "
-"Europe. But the ideal of equality on which it was founded continued to "
-"inspire. Over a century on, it fuelled the political aspirations that drove "
-"the colonial independence movements."
-msgstr ""
-"Antislaverikampanjen lyktes i å avskaffe slavehandelen i 1807, og i de "
-"følgende årene ble den forbudt i Vest-Europas kolonier . Men idealet om "
-"likestilling som kampanjen var grunnlagt på, fortsatte å inspirere. Over et "
-"århundre senere, formet  det de politiske aspirasjonene som drev bevegelser "
-"som kjempet for kolonienes uavhengighet."
-
-#: templates/static_pages/storyline.html:24
-msgid ""
-"from the former colonies in recent decades has pushed concern for equality "
-"of opportunity up the political agenda as Europe has become increasingly "
-"diverse."
-msgstr ""
-"fra de tidligere koloniene  har de siste tiårene  presset kravet for like "
-"muligheter for alle, opp på den politiske dagsorden etter som Europa har "
-"blitt stadig mer flerkulturelt."
-
-#: templates/static_pages/storyline.html:25
-msgid "Bridgetower"
-msgstr "Bridgetower"
-
-#: templates/static_pages/storyline.html:26
-msgid ""
-"Talented Europeans of African descent were making their mark in the capitals "
-"of Europe even as the abolition movement was gathering supporters."
-msgstr ""
-"Talentfulle europeere med afrikansk avstamning gjorde seg bemerket i "
-"hovedsteder i Europa selv da  bevegelsen for avskaffelsen av slaveriet "
-"samlet støtte.."
-
-#: templates/static_pages/storyline.html:26
-msgid "was the Polish-born son of a West Indian servant of the"
-msgstr "var den polskfødte sønnen til en vest-indisk tjener"
-
-#: templates/static_pages/storyline.html:26
-msgid "Prince Esterh&aacute;zy"
-msgstr "Prince Esterházy"
-
-#: templates/static_pages/storyline.html:26
-msgid ""
-"Joseph Haydn's Hungarian patron. He was a musical prodigy whose talent was "
-"quickly spotted, and he made his debut in Paris at the age of 9. One "
-"reviewer noted his talent is one of the best replies one can give to "
-"philosophers who wish to deprive people of his nation and his colour of the "
-"opportunity to distinguish themselves in the arts."
-msgstr ""
-"Joseph Haydns ungarske beskytter. Han var en musikalsk vidunderbarn hvis "
-"talent ble raskt oppdaget, og han gjorde sin debut i Paris i en alder av ni. "
-"En anmelder bemerket hans talent var et av de beste svarene man kan gi til "
-"filosofer som ønsker å frata folk sin nasjon og sin farge på muligheten til "
-"å skille seg i kunsten."
-
-#: templates/static_pages/storyline.html:27
-msgid "Beethoven"
-msgstr "Beethoven"
-
-#: templates/static_pages/storyline.html:28
-msgid "By 1803, Bridgetower was giving the premiere of"
-msgstr "I 1803 spilte Bridgetower påpremieren av"
-
-#: templates/static_pages/storyline.html:28
-msgid "Beethoven's Kreutzer sonata (Op.47)"
-msgstr "Beethovens Kreutzer sonate (Op.47)"
-
-#: templates/static_pages/storyline.html:28
-msgid ""
-"He played the violin part, Beethoven the piano. So delighted was Beethoven "
-"with the performance that he initially dedicated the sonata to Bridgetower "
-"and gave him his tuning fork."
-msgstr ""
-"Han spilte fiolindelen, Beethoven på piano. Så glad ble Beethoven med "
-"fremføringen om at han i utgangspunktet dedikerte sonaten til Bridgetower og "
-"ga ham sin stemmegaffel."
-
-#: templates/static_pages/storyline.html:29
-msgid "Ludwig van Beethoven"
-msgstr "Ludwig van Beethoven"
-
-#: templates/static_pages/storyline.html:29
-msgid "is the greatest of the Romantic composers: his Third Symphony, the "
-msgstr "er den største av de romantiske komponister: hans tredje symfoni, "
-
-#: templates/static_pages/storyline.html:29
-msgid "Eroica"
-msgstr "Eroica"
-
-#: templates/static_pages/storyline.html:29
-msgid "was originally dedicated to"
-msgstr "var opprinnelig dedikert til"
-
-#: templates/static_pages/storyline.html:29
-msgid "Napoleon"
-msgstr "Napoleon"
-
-#: templates/static_pages/storyline.html:29
-msgid ""
-"who he believed ushered in an age of democracy and republican ideals. When "
-"Napoleon fell short, Beethoven scratched the dedication from the manuscript "
-"so forcefully he tore a hole through the paper."
-msgstr ""
-"som han trodde innledet en alder av demokrati og republikanske idealer. Da "
-"Napoleon sviktet, skrapte Beethoven dedikasjonen fra manuskriptet så hardt "
-"at han rev et hull i papiret."
-
-#: templates/static_pages/storyline.html:30
-msgid "Rossini"
-msgstr "Rossini"
-
-#: templates/static_pages/storyline.html:31
-msgid ""
-"Beethoven's genius was felt across Europe and had a profound influence on "
-"the succeeding generation of composers, including"
-msgstr ""
-"Beethovens geni ble følt over hele Europa og hadde en dyp innflytelse på den "
-"etterfølgende generasjon av komponister, blant annet"
-
-#: templates/static_pages/storyline.html:31
-msgid "Gioachino Antonio Rossini"
-msgstr "Gioachino Antonio Rossini"
-
-#: templates/static_pages/storyline.html:31
-msgid ""
-"Rossini travelled to Vienna in 1822, where he met the master. His reverence "
-"was such that he asked for Beethoven's Funeral March to be played at his "
-"burial in Paris."
-msgstr ""
-"Rossini reiste til Wien i 1822, hvor han møtte mesteren. Hans ærefrykt var "
-"slik at han ba om at Beethovens Sørgemarsj skulle spilles på hans begravelse "
-"i Paris."
-
-#: templates/static_pages/storyline.html:32
-msgid ""
-"Rossini's popularity continued into the 20th century. The most famous diva "
-"of the time,"
-msgstr ""
-"Rossinis popularitet fortsatte inn i det 20. århundre. Den mest berømte diva "
-"fra den tiden,"
-
-#: templates/static_pages/storyline.html:32
-msgid "Maria Callas"
-msgstr "Maria Callas"
-
-#: templates/static_pages/storyline.html:32
-msgid ""
-"was one of his great interpreters; Una voce poco fa, Rosina's famous aria "
-"from"
-msgstr ""
-"var en av hans store tolkere, Una voce poco fa, Rossinis berømte arie fra"
-
-#: templates/static_pages/storyline.html:32
-msgid "The Barber of Seville"
-msgstr "Barbereren i Sevilla"
-
-#: templates/static_pages/storyline.html:32
-msgid ""
-"was a fixture in her concert repertoire. Rossini's speed for musical "
-"composition was legendary, particularly of"
-msgstr ""
-"var fast inventar i hennes konsertrepertoar. Rossinis tempo som  komponist "
-"var legendarisk, spesielt "
-
-#: templates/static_pages/storyline.html:32
-msgid "La Gazza Ladra - The Thieving Magpie"
-msgstr "La Gazza Ladra - Den tyvaktige C"
-
-#: templates/static_pages/storyline.html:33
-msgid "Magpies and mirrors"
-msgstr "Skjærer og speil"
-
-#: templates/static_pages/storyline.html:34
-msgid ""
-"The title refers to the magpie's eye for shining things; like Europeana, it "
-"gathers treasures."
-msgstr ""
-"Tittelen refererer til skjærenes øye for skinnende ting, som Europeana, "
-"samler de skatter."
-
-#: templates/static_pages/storyline.html:34
-msgid "The magpie"
-msgstr "Skjæren"
-
-#: templates/static_pages/storyline.html:34
-msgid ""
-"is also believed to be the only non-mammal that can recognise its reflection "
-"in a mirror; which brings us back to Descartes' interest in reflection and "
-"refraction. Artists through the ages have similarly been fascinated with the "
-"properties of light and perception as depicted in the vivid translucency of "
-"Renaissance and Baroque portraits; the perspective of"
-msgstr ""
-"er også antatt å være det eneste ikke-pattedyr som kan gjenkjenne sitt "
-"speilbilde i et speil, som bringer oss tilbake til Descartes interesse for "
-"refleksjon og refraksjon. Kunstnere har gjennom tidene  vært tilsvarende "
-"fascinert med egenskapene til lys og persepsjon som vist i den levende "
-"gjennomskinnelighet i renessanse og barokk portretter, et perspektiv av"
-
-#: templates/static_pages/storyline.html:34
-msgid "Johannes Vermeer"
-msgstr "Johannes Vermeer"
-
-#: templates/static_pages/storyline.html:34
-msgid ""
-"enthralled by the discoveries of the Scientific revolution; the technical "
-"virtuosity of 19th century Pointillists which led onto 20th century Cubism, "
-"where both objects and space merge."
-msgstr ""
-"trollbundet av funn fra den vitenskapelige revolusjonen, den tekniske "
-"virtuositet hos det 19. århundres Pointillists som førte til det 20. "
-"århundre kubisme, hvor både objekter og plass smelter sammen."
-
-#: templates/static_pages/storyline.html:35
-msgid ""
-"Most of all, the eyes, the faces, the ideas from the past invite us to think "
-"again: to take inspiration, to make new connections and to share new "
-"discoveries."
-msgstr ""
-"Mest av alt, øynene, ansiktene, ideene fra fortiden, inviterer oss til å "
-"tenke nytt:   hente inspirasjon, få nye forbindelser og å dele nye "
-"oppdagelser."
-
-#: templates/static_pages/storyline.html:36
-msgid "Credits: the music, the images and where they came from"
-msgstr "Kreditering: musikken, bildene og hvor de kom fra"
-
-#: templates/static_pages/storyline.html:38
-msgid ""
-"We are very grateful to all those who helped make the video, especially its "
-"creators"
-msgstr ""
-"Vi er svært takknemlig til alle som bidro til å lage denne videoen, særlig "
-"dens skapere"
-
-#: templates/static_pages/storyline.html:40
-msgid ""
-"Many of our partners gave us permission to use their images in the video. "
-"Thanks to our colleagues in the\n"
-"    organisations listed below."
-msgstr ""
-"Mange av våre partnere ga oss tillatelse til å bruke deres bilder i videoen. "
-"Takk til våre kolleger i de organisasjoner som er oppført nedenfor."
-
-#: templates/static_pages/storyline.html:43
-msgid "The music is primarily drawn from Irmin Schmidt's"
-msgstr "Musikken er hovedsakelig hentet fra Irmin Schmidts"
-
-#: templates/static_pages/storyline.html:43
-msgid "Those Fuzzy Things (out there)"
-msgstr "Those Fuzzy Things (out there)"
-
-#: templates/static_pages/storyline.html:43
-msgid ""
-"much appreciation to Cit&eacute;\n"
-"    de la Musique for enabling us to use it as the basis for our soundtrack."
-msgstr ""
-"mange takk til Cité de la Musique for at vi kan bruke den som grunnlag for "
-"lydsporet vår."
-
-#: templates/static_pages/storyline.html:51
-msgid "Collection"
-msgstr "Samling"
-
-#: templates/static_pages/storyline.html:52
-msgid "Link"
-msgstr "Lenke"
 
 #: templates/static_pages/usingeuropeana.html:11
 msgid ""
@@ -5147,13 +4554,10 @@ msgid "Refined search"
 msgstr "Begrenset søk"
 
 #: templates/static_pages/usingeuropeana.html:14
-#: templates/static_pages/usingeuropeana_search.html:39
-#: templates/static_pages/usingeuropeana_search.html:41
 msgid "Phrase search"
 msgstr "Frase søk"
 
 #: templates/static_pages/usingeuropeana.html:14
-#: templates/static_pages/usingeuropeana_search.html:43
 msgid "Exclude words"
 msgstr "Ekskluder ord"
 
@@ -5270,69 +4674,6 @@ msgstr "i"
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "area"
 msgstr "område"
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:3
-msgid "Europeana - Using My Europeana"
-msgstr "Europeana - Bruke Mitt Europeana"
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:10
-msgid "is your personal space on Europeana."
-msgstr "er din personlige plass på Europeana."
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:11
-msgid "Register for"
-msgstr "Registrer for"
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:11
-msgid "and you can"
-msgstr "og du kan"
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:14
-msgid ""
-"Keep up to date on a particular topic in Europeana by saving a search, so "
-"you can easily perform it again in future."
-msgstr ""
-"Hold deg oppdatert på et bestemt emne i Europeana ved å lagre et søk, slik "
-"at du enkelt kan utføre det igjen i fremtiden."
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:15
-msgid ""
-"Label your favourite items in Europeana with tags that mean something to "
-"you. You can then see all objects you have tagged, sorted by the keywords "
-"you have chosen, in the My Europeana interface."
-msgstr ""
-"Merk dine favorittelementer i Europeana med tagger som betyr noe for deg. Du "
-"kan deretter se alle objektene du har merket, sortert etter søkeordene du "
-"har valgt, i Mitt Europeana grensesnittet."
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:16
-msgid "Store your favourite items for later viewing."
-msgstr "Lagre din favorittelementer for senere visning."
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:17
-msgid ""
-"If you are a developer who has registered for one or more API keys, these "
-"will be shown on the API Keys tab."
-msgstr ""
-"Er du en utvikler som har registrert en eller flere API nåkler, vil disse "
-"vises i API nøkkel tab'en."
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:20
-msgid "To save a search, add a tag or save an item, simply login to"
-msgstr ""
-"For å lagre et søk, legge til en tag eller lagre et element, logg inn på"
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:20
-msgid "and click on the relevant action from the menu."
-msgstr "og klikk på den aktuelle handlingen fra menyen."
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:21
-msgid "To view your saved items, searches and tags, use the"
-msgstr "For å se dine lagrede objekter, søk og tagger, bruk"
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:21
-msgid "shortcuts in the header."
-msgstr "snarveiene i headeren"
 
 #: templates/static_pages/usingeuropeana_results.html:3
 msgid "Europeana - Results in Europeana"
@@ -5616,669 +4957,916 @@ msgstr ""
 "parentes, f.eks (33) viser antall resultater som hvert av disse søkene "
 "returnerer. Trykk ganske enkelt på lenken for å utføre søket."
 
-#: templates/static_pages/usingeuropeana_search.html:3
-msgid "Europeana - Searching Europeana"
-msgstr "Europeana - Søk i Europeana"
+#~ msgid "Europeana - New Content"
+#~ msgstr "Europeana - Nytt innhold"
 
-#: templates/static_pages/usingeuropeana_search.html:11
-msgid ""
-"Welcome to Europeana. This page describes some of the things that you can do "
-"while you are here. Learn more about:"
-msgstr ""
-"Velkommen til Europeana. Denne siden beskriver noen av de tingene som du kan "
-"gjøre mens du er her. Lær mer om:"
+#~ msgid "Europeana - Sitemap"
+#~ msgstr "Europeana - Nettstedkart"
 
-#: templates/static_pages/usingeuropeana_search.html:13
-msgid ""
-"Search tips, refined search, phrase search, exclude words, auto-completion, "
-"filter results, share your search."
-msgstr ""
-"Søketips, avgrensede søk, frase søk, ekskludere ord, auto-fullføring, "
-"filtrere resultater, dele dine søk."
+#~ msgid "Searching in Europeana"
+#~ msgstr "Lagre i Mitt Europeana"
 
-#: templates/static_pages/usingeuropeana_search.html:14
-msgid "exhibitions, new content."
-msgstr "utstillinger, nytt innhold."
-
-#: templates/static_pages/usingeuropeana_search.html:15
-msgid ""
-"Seeing further details, rights and licence information, translating details, "
-"searching on external services, related searches on Europeana, viewing item "
-"on provider's site, embedding, and citing."
-msgstr ""
-"Se ytterligere detaljer, rettigheter- og lisens informasjon, oversette "
-"detaljer, søk på eksterne tjenester, relaterte søk på Europeana, se "
-"elementet på leverandørens nettsted, embedding, og sitering"
-
-#: templates/static_pages/usingeuropeana_search.html:16
-msgid "Saving searches, saving items, and adding tags."
-msgstr "Lagre søk, lagre objekter, og legge til tagger."
-
-#: templates/static_pages/usingeuropeana_search.html:19
-msgid "General Search"
-msgstr "Generelt Søk"
-
-#: templates/static_pages/usingeuropeana_search.html:21
-msgid ""
-"Searching the millions of items in Europeana is simple. Just enter your "
-"search term and hit"
-msgstr ""
-"Å søke i millioner av objekter på Europeana er enkelt. Skriv inn ditt "
-"søkeord og klikk"
-
-#: templates/static_pages/usingeuropeana_search.html:23
-msgid "Specific search"
-msgstr "Spesifikt søk"
-
-#: templates/static_pages/usingeuropeana_search.html:25
-msgid "You can narrow your search with the arrow to the right of"
-msgstr "Du kan avgrense søket ved pila til høyre for"
-
-#: templates/static_pages/usingeuropeana_search.html:25
-msgid "Search All fields"
-msgstr "Søk i Alle felt"
-
-#: templates/static_pages/usingeuropeana_search.html:25
-msgid "and selecting a category"
-msgstr "og velg en kategori"
-
-#: templates/static_pages/usingeuropeana_search.html:25
-msgid "Titles, Creators, Subjects, Dates/Periods, Places"
-msgstr "Titler, Produsenter, Emner, Datoer/Perioder, Steder"
-
-#: templates/static_pages/usingeuropeana_search.html:25
-msgid "Then enter your search term and hit"
-msgstr "Så fyller du inn din søketerm og klikker"
-
-#: templates/static_pages/usingeuropeana_search.html:27
-msgid ""
-"Alternatively, just ask yourself who, what, where or when you are interested "
-"in and type these words into Europeana's search box followed by a colon (:). "
-"Then enter your search term and hit"
-msgstr ""
-"Alternativt kan du bare spørre deg selv hvem, hva, hvor og når du vil se på "
-"og så skrive inn disse ordene inn i Europeana søkeboks etterfulgt av et "
-"kolon (:). Deretter skriver du inn søkeordet og klikker"
-
-#: templates/static_pages/usingeuropeana_search.html:29
-msgid "For specific searches, you could:"
-msgstr "For spesifikke søk kan du:"
-
-#: templates/static_pages/usingeuropeana_search.html:31
-#: templates/static_pages/usingeuropeana_search.html:32
-#: templates/static_pages/usingeuropeana_search.html:33
-#: templates/static_pages/usingeuropeana_search.html:34
-msgid "Use the"
-msgstr "Bruk"
-
-#: templates/static_pages/usingeuropeana_search.html:31
-#: templates/static_pages/usingeuropeana_search.html:32
-#: templates/static_pages/usingeuropeana_search.html:33
-#: templates/static_pages/usingeuropeana_search.html:34
-msgid "filter or enter"
-msgstr "filtrer eller enter"
-
-#: templates/static_pages/usingeuropeana_search.html:31
-msgid ""
-"followed by a name of, for example, an actor, author or architect. Your "
-"results will display only items for which the name you entered is listed as "
-"the creator. For example, searching for"
-msgstr ""
-"etterfulgt av et navn, for eksempel en skuespiller, forfatter eller "
-"arkitekt. Resultatene dine vil bare vise poster hvor navnet du oppga er "
-"oppført som skaperen. For eksempel, å søke etter"
-
-#: templates/static_pages/usingeuropeana_search.html:31
-msgid ""
-"will narrow your results to van Gogh's works, excluding photographs of the "
-"artist or documentaries about him and his work."
-msgstr ""
-"vil begrense resultatene til van Goghs arbeider, eksklusive fotografier av "
-"kunstneren eller dokumentarer om ham og hans arbeid."
-
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid ""
-"followed by a type of item, a subject you are interested in or words from "
-"the title of the item you are looking for. Your search results will display "
-"only items of the requested type or subject or items whose title includes "
-"your search term. For example, searching for"
-msgstr ""
-"etterfulgt av et type element, et emne du er interessert i eller ord fra "
-"tittelen på elementet du leter etter. Søkeresultatene viser bare elementer "
-"av ønsket type eller emne eller elementer hvis tittel inneholder søkeordet "
-"ditt. For eksempel, å søke etter"
-
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid "will narrow your results to maps, or"
-msgstr "vil begrense resultatene til kart, eller"
-
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid ""
-"will display artworks, buildings and monuments done in the Art Nouveau style."
-msgstr "vil vise kunstverk, bygninger og monumenter gjort i jugendstil."
-
-#: templates/static_pages/usingeuropeana_search.html:33
-msgid "Place"
-msgstr "Sted"
-
-#: templates/static_pages/usingeuropeana_search.html:33
-msgid ""
-"followed by a name of a town, city or country within Europe or around the "
-"world. Your search results will display only items which were created in, "
-"published in or depict the place you are searching for. For example, "
-"searching for"
-msgstr ""
-"etterfulgt av et navn på en by, landsby eller land i Europa eller rundt om i "
-"verden . Søkeresultatene viser bare elementer som ble opprettet i, publisert "
-"i eller avbilder stedet du søker etter. For eksempel, å søke etter"
-
-#: templates/static_pages/usingeuropeana_search.html:33
-msgid ""
-"will help you differentiate your search when you are looking only for "
-"objects created or held in Milan, excluding items on writer Milan Kundera "
-"from your search results."
-msgstr ""
-"vil hjelpe deg å differensiere ditt søk når du bare vil se objekter som er "
-"opprettet eller befinner seg i Milano, med unntak av elementer om "
-"forfatteren Milan Kundera, fra søkeresultatene."
-
-#: templates/static_pages/usingeuropeana_search.html:34
-msgid ""
-"followed by a date (e.g. 1945) or a period (e.g. Roman or Medieval). Your "
-"search results will display only items for which the date is listed in the "
-"item's date field. For example, searching for"
-msgstr ""
-"etterfulgt av en dato (f.eks 1945) eller en periode (f.eks Roman eller "
-"Medieval). Søkeresultatene viser bare elementer der datoen er oppført i dato "
-"feltet. For eksempel, å søke etter"
-
-#: templates/static_pages/usingeuropeana_search.html:34
-msgid ""
-"will help you differentiate your search when you are looking only for items "
-"dated 1984, excluding items that have 1984 in their title or description, "
-"like George Orwell's novel."
-msgstr ""
-"vil hjelpe deg å differensiere ditt søk når du vil se objekter datert 1984, "
-"og ekskludere objekter dom har 1984 i tittelen eller beskrivelsen, som for "
-"eksempel George Orwells roman."
-
-#: templates/static_pages/usingeuropeana_search.html:37
-msgid ""
-"These search functions also have support for different spellings and "
-"languages. For example, when you search for"
-msgstr ""
-"Disse søkefunksjonene har også støtte for forskjellige stavemåter og språk. "
-"For eksempel, når du søker etter"
-
-#: templates/static_pages/usingeuropeana_search.html:37
-msgid ""
-"the results will also include items with Milano, Mailand or Milanas listed "
-"as their geographic coverage."
-msgstr ""
-"resultatene vil også inkludere elementer med Milano, Mailand eller Milanas "
-"oppført som deres geografiske dekning."
-
-#: templates/static_pages/usingeuropeana_search.html:41
-msgid "is also possible. Just put"
-msgstr "er også mulig. Bare sett"
-
-#: templates/static_pages/usingeuropeana_search.html:41
-msgid "quotation marks"
-msgstr "anførselstegn"
-
-#: templates/static_pages/usingeuropeana_search.html:41
-msgid "e.g."
-msgstr "f.eks."
-
-#: templates/static_pages/usingeuropeana_search.html:41
-msgid "around the phrase you want to find, or type"
-msgstr "rundt uttrykket du vil finne, eller skriv"
-
-#: templates/static_pages/usingeuropeana_search.html:41
-msgid "between the keywords (e.g."
-msgstr "mellom søkeord (f.eks"
-
-#: templates/static_pages/usingeuropeana_search.html:43
-msgid "by typing"
-msgstr "ved å skrive"
-
-#: templates/static_pages/usingeuropeana_search.html:43
-msgid "in capital letters, followed by the word you want to omit (e.g."
-msgstr "i store bokstaver, etterfulgt av ordet du vil utelate (f.eks"
-
-#: templates/static_pages/usingeuropeana_search.html:45
-msgid "Another helpful search feature is"
-msgstr "En annen nyttig søkefunksjon er"
-
-#: templates/static_pages/usingeuropeana_search.html:45
-msgid "Auto completion"
-msgstr "Autofullføring"
-
-#: templates/static_pages/usingeuropeana_search.html:45
-msgid ""
-"Start typing a search term. Europeana will suggest words that may match what "
-"you are thinking of. Just select the term you want and hit"
-msgstr ""
-"Begynn med å skrive inn et søkeord. Europeana vil foreslå ord som kan matche "
-"hva du tenker på. Bare velg ordet du vil og klikk på"
-
-#: templates/static_pages/usingeuropeana_search.html:47
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid "Refine your search"
-msgstr "Begrens søket"
-
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid ""
-"Once you have done an initial search, results can be narrowed down with the"
-msgstr "Når du har gjort en første søket, kan resultatene bli smalere ned med"
-
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid ""
-"functions. These are in the grey pane on the search results screen. You can "
-"add more keywords to your search, thereby narrowing the search results. Just "
-"type your keyword into the"
-msgstr ""
-"funksjoner. Disse er i den grå ruten på søkeresultatsiden . Du kan legge til "
-"flere søkeord i søket, og dermed innsnevre søkeresultatene. Bare skriv inn "
-"ditt søkeord i"
-
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid "field and hit"
-msgstr "felt og klikk på"
-
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid "The keyword is displayed at the top of the pane, under"
-msgstr "Emneordet vises øverst i ruten, under"
-
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid "Matches for."
-msgstr "Treff på"
-
-#: templates/static_pages/usingeuropeana_search.html:51
-msgid "To remove a keyword, hit the X icon next to the relevant keyword in the"
-msgstr ""
-"For å fjerne et emneord, klikk på Xen ved siden av det relevante emneordet i"
-
-#: templates/static_pages/usingeuropeana_search.html:51
-msgid "list."
-msgstr "lista."
-
-#: templates/static_pages/usingeuropeana_search.html:53
-msgid "You can also"
-msgstr "Du kan også"
-
-#: templates/static_pages/usingeuropeana_search.html:53
-msgid "filter your search results:"
-msgstr "filtrer dine søkeresultater:"
-
-#: templates/static_pages/usingeuropeana_search.html:55
-msgid ""
-"will display only objects of a selected media type (images, text, video, "
-"sound or 3D). "
-msgstr ""
-"vil bare vise ogjekter av den valgte medietypen (bilder, tekst, video, lyd "
-"eller 3D)."
-
-#: templates/static_pages/usingeuropeana_search.html:56
-msgid "By language"
-msgstr "Etter språk"
-
-#: templates/static_pages/usingeuropeana_search.html:56
-msgid ""
-"will display only objects with descriptions in selected languages, i.e. the "
-"language of the institution that provided the object to Europeana."
-msgstr ""
-"vil bare vise objekter med beskrivelser på det valgte språket i.e. språket "
-"brukt i den institusjonen som tilbyr objektet til Europeana."
-
-#: templates/static_pages/usingeuropeana_search.html:57
-msgid "By date"
-msgstr "Etter dato"
-
-#: templates/static_pages/usingeuropeana_search.html:57
-msgid "will display only objects with selected dates."
-msgstr "vil bare vise objekter med de valgte datoer."
-
-#: templates/static_pages/usingeuropeana_search.html:58
-msgid "By country"
-msgstr "Land"
-
-#: templates/static_pages/usingeuropeana_search.html:58
-msgid ""
-"will display only objects from selected countries, i.e. the country of the "
-"institution that provided the object to Europeana."
-msgstr ""
-"vil bare vise objekter fra de valgte land, i.e. det landet hvor "
-"institusjonen som tilbyr objektet til Europeana hører hjemme."
-
-#: templates/static_pages/usingeuropeana_search.html:59
-msgid ""
-"will display objects labelled with the selected copyright label(s). This "
-"copyright label indicates how you may reuse the digital object, including "
-"the preview."
-msgstr ""
-"vil vise objekter merket med den valgte rettighetsmerkingen(e). Denne "
-"rettighetsmerkingen indikerer hvordan du kan gjenbruke det digitale "
-"objektet, inkludert forhåndsvisningen."
-
-#: templates/static_pages/usingeuropeana_search.html:60
-msgid "will display only objects from selected institutions"
-msgstr "vil bare vise objekter fra utvalgte institusjoner"
-
-#: templates/static_pages/usingeuropeana_search.html:63
-msgid ""
-"Select the filter name, e.g. 'By language' to expand it. Then just use the "
-"check boxes for the categories you wish the search results to include. The "
-"results will refresh automatically. The filter will be added to the"
-msgstr ""
-"Velg filter etter navn, f.eks. \"Etter språk\" for å ekspandere Deretter er "
-"det bare å bruke avmerkingsboksene for de kategoriene du ønsker at "
-"søkeresultatene skal inkludere. Resultatene vil oppdateres automatisk. "
-"Filteret vil bli lagt til"
-
-#: templates/static_pages/usingeuropeana_search.html:63
-msgid "list at the top of the pane."
-msgstr "lista på toppen av vinduet"
-
-#: templates/static_pages/usingeuropeana_search.html:65
-msgid "To remove a filter, hit the X icon next to the item in the"
-msgstr "For å fjerne et filter, klikk på Xen ved siden av elementet i"
-
-#: templates/static_pages/usingeuropeana_search.html:65
-msgid "list, or de-select the check box next to the filter category."
-msgstr "lista, eller velg fra avmerkingsboksen ved siden av filterkategorien"
-
-#: templates/static_pages/usingeuropeana_search.html:67
-msgid "You can also select to"
-msgstr "Du kan også velge å"
-
-#: templates/static_pages/usingeuropeana_search.html:67
-msgid ""
-"This means items that have not come from a cultural institution but from an "
-"individual user, for example, items contributed to the Europeana 1914-1918 "
-"project."
-msgstr ""
-"Dette betyr objekter som ikke kommer fra en institusjon, men fra en "
-"individuell bruker, for eksempel objekter gitt som bidrag til Europeana "
-"1914-1918 prosjektet."
-
-#: templates/static_pages/usingeuropeana_search.html:69
-msgid "Share your search with friends by choosing"
-msgstr "Del ditt søk med venner gjennom å velge"
-
-#: templates/static_pages/usingeuropeana_search.html:69
-msgid ""
-"A full list of social media sharing options is presented. Just select one "
-"you want. This also includes print and email options."
-msgstr ""
-"En fullstendig liste over sosiale mediealternativer for deling presenteres. "
-"Bare velg det du ønsker. Dette inkluderer også utskriving og e-mail valg."
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:3
 #, fuzzy
-msgid "Europeana - How to configure your search widget"
-msgstr "Hva er Europeanas  søke widget?"
+#~ msgid "All Providers"
+#~ msgstr "Tilbydere"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:10
-msgid "You can add a Europeana search facility to your blog or website."
-msgstr ""
+#~ msgid "Press Centre (on Europeana Professional)"
+#~ msgstr "Pressesenter (på Europeana Profesjonell)"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:10
-msgid "Our simple wizard"
-msgstr ""
+#~ msgid "Jobs (on Europeana Professional)"
+#~ msgstr "Stillinger (på Europeana Profesjonell)"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:10
-msgid ""
-"takes you through the process step-by-step and gives you a snippet of code "
-"to embed."
-msgstr ""
+#~ msgid "Partners (on Europeana Professional)"
+#~ msgstr "Partnere (på Europeana Profesjonell) "
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:11
-msgid ""
-"Configure the widget to search all collections and data providers within "
-"Europeana, or refine it to suit your website, e.g. to search only within "
-"Public Domain or Creative Commons, or only licensed images from a specific "
-"country."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:12
 #, fuzzy
-msgid "The Europeana Search Widget works with..."
-msgstr "Europeanas Søke Widget"
+#~ msgid "Working with the API"
+#~ msgstr "Arbeide med Europeana"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:13
-msgid "Sites that you host yourself."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:18
 #, fuzzy
-msgid "The Europeana Search Widget doesn't work with..."
-msgstr "Europeanas Søke Widget"
+#~ msgid "Latest changes"
+#~ msgstr "Senest på"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:19
-msgid "Blogs hosted on Wordpress.com"
-msgstr ""
+#~ msgid "API Methods"
+#~ msgstr "API metoder"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:20
 #, fuzzy
-msgid "Set up your Europeana Search Widget:"
-msgstr "Europeanas Søke Widget"
+#~ msgid "Record"
+#~ msgstr "Post id"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:22
+#~ msgid "Suggestions"
+#~ msgstr "Forslag"
+
+#~ msgid "OpenSearch"
+#~ msgstr "ÅpentSøk"
+
+#~ msgid "Query Syntax"
+#~ msgstr "Spørresyntax"
+
+#~ msgid "Data structure"
+#~ msgstr "Datastruktur"
+
+#~ msgid "Europeana Fields"
+#~ msgstr "Europeana felt"
+
+#~ msgid "API1-API2 compatability"
+#~ msgstr "API1-API2 kompabilitet"
+
+#~ msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
+#~ msgstr "Europeana Data Exchange Agreement (på Europeana Profesjonell)"
+
 #, fuzzy
-msgid "Go to the search widget page."
-msgstr "noen av søketermene"
+#~ msgid "Free Access - no-reuse"
+#~ msgstr "Gratis tilgang"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:23
 #, fuzzy
-msgid "Introduction tab"
-msgstr "Introduksjon"
+#~ msgid "Rights Reserved - Restricted access"
+#~ msgstr "Rettigheter - Begrenset tilgang"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:23
-msgid ""
-"The Europeana Search widget is presented. A progress bar shows you how far "
-"you are through the process and a video takes you through the process step "
-"by step. To start configuring your widget, tap 'Next' or the 'Filter' tab "
-"heading."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:24
-msgid "Filter tab"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:24
-msgid ""
-"If you want your widget to include the entire Europeana dataset, you can go "
-"straight to the 'Style' tab. Tap 'Next' or the 'Style' tab heading."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:25
 #, fuzzy
-msgid "To tailor your search widget"
-msgstr "filtrer dine søkeresultater:"
+#~ msgid "Paid Access - no re-use"
+#~ msgstr "Betalt tilgang"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:27
+#~ msgid "Unknown copyright status"
+#~ msgstr "Ukjent opphavsrettstatus"
+
 #, fuzzy
-msgid "Keyword search"
-msgstr "Filtrere søket"
+#~ msgid "Orphan work - Free access"
+#~ msgstr "Rettigheter - Gratis tilgang"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:27
-msgid ""
-"By default, the widget searches the entire Europeana dataset. You can "
-"restrict the search to a key word or phrase. To do this, enter the key word"
-"(s) in the 'Search for' field. For example, if you are adding a widget to "
-"your First World War blog about military uniform, you might type 'uniform'."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:28
-msgid ""
-"All the normal search functions work in this field, for example, use double "
-"quotes for a phrase, e.g. &quot;military uniform&quot;, use 'AND' to include "
-"searches on two words or 'NOT' to hide results for a particular word, e.g. "
-"'uniform AND war' or 'uniform NOT school'."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:29
 #, fuzzy
-msgid "Search on types"
-msgstr "Søketips"
+#~ msgid "Europeana Semantic Elements (ESE)"
+#~ msgstr "Europeanas Søke Widget"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:29
-msgid ""
-"By default, the widget will search the entire Europeana dataset for your key "
-"words. You can restrict the search to 'Titles', 'Creators', 'Subjects', "
-"'Times/Periods', or 'Places'.  For example, you may wish to look only for "
-"results to do with 'Paris'. In which case, you would enter 'Paris' as a key "
-"word and 'Places' as a type. Tap 'Change' next to 'All Fields' and select "
-"the option you need."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:30
-msgid ""
-"By default, the widget returns results from all of Europeana's providers. "
-"You can restrict it to your chosen providers.  Tap 'Change' next to 'All  "
-"Providers' and select the providers you need. You can search for a provider "
-"using the search field above the list.  The providers are presented in order "
-"of the size of their contributions to Europeana. The number in brackets "
-"shows how many items from that provider are available. If the name of the "
-"provider is followed by an arrow, then they are a data aggregator, tap the "
-"arrow to see the institutions included in their collection. Note: you can "
-"select more than one."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:31
 #, fuzzy
-msgid "Countries"
-msgstr "Land"
+#~ msgid "Europeana metadata schemas"
+#~ msgstr "Europeana metadata"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:31
-msgid ""
-"By default, the widget returns results from all countries. You can restrict "
-"it to your chosen countries. Tap 'Change' next to 'All Providing Countries' "
-"and select the countries you need. The countries are presented in order of "
-"the size of their contributions to Europeana. The number in brackets shows "
-"how many items from that country are available. Note: you can select more "
-"than one. To clear your selection and start again, tap 'Clear'."
-msgstr ""
+#~ msgid "Europeana - Storyline and credits"
+#~ msgstr "Europeana - Storyline og kredittering"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:32
+#~ msgid "Descartes"
+#~ msgstr "Dato"
+
+#~ msgid "The best place to start is with"
+#~ msgstr "Det beste stedet å begynne er med"
+
+#~ msgid "Rene Descartes"
+#~ msgstr "Rene Descartes"
+
+#~ msgid ""
+#~ "the man who made thinking central to our experience of the world. Cogito "
+#~ "ergo sum wrote Descartes in 1644 in his Principia Philosophiae: I think, "
+#~ "therefore I am. Descartes was the father of modern philosophy, and one of "
+#~ "the great European thinkers of his time, writing in French and Latin, "
+#~ "working and publishing in the Netherlands."
+#~ msgstr ""
+#~ "mannen som gjorde tenkning sentral for vår opplevelse av verden. Cogito "
+#~ "ergo sum skrev Descartes i 1644 i hans Principia philosophiae: Jeg "
+#~ "tenker, derfor er jeg. Descartes var far til moderne filosofi, og en av "
+#~ "de store europeiske tenkere i sin tid, og skrev på fransk og latin, "
+#~ "arbeidet og publiserte i Nederland."
+
+#~ msgid "Newton"
+#~ msgstr "Newton"
+
+#~ msgid ""
+#~ "He defined laws of reflection and refraction, worked on the structure of "
+#~ "the brain, the new physics and mathematics. He was a major influence on"
+#~ msgstr ""
+#~ "Han definerte lover om refleksjon og brytning, jobbet med strukturen i "
+#~ "hjernen, den nye fysikk og matematikk. Han hadde stor innflytelse på"
+
+#~ msgid "Isaac Newton"
+#~ msgstr "Isaac Newton"
+
+#~ msgid ""
+#~ "whose laws of gravity were famously inspired by watching an apple fall. "
+#~ "Newton's three laws of motion were published in 1687 in his"
+#~ msgstr ""
+#~ "hans loven om gravitasjon var som kjent inspirert av å se et eple falle. "
+#~ "Newtons tre lover om bevegelse ble utgitt i 1687 i hans"
+
+#~ msgid "Philosophiae Naturalis Principia Mathematica"
+#~ msgstr "Philosophiae Naturalis Principia Mathematica"
+
+#~ msgid "Darwin"
+#~ msgstr "Darwin"
+
+#~ msgid ""
+#~ "The apple is the symbol of another fall; that of Adam and Eve, who on "
+#~ "eating the fruit of the Tree of Knowledge of Good and Evil are banished "
+#~ "from Eden. The fundamental challenge to the story of the Creation and the "
+#~ "Fall is the Theory of Evolution, set out by"
+#~ msgstr ""
+#~ "Eplet er symbolet for et annet fall, at Adam og Eva, som ved å spise "
+#~ "frukten på treet til kunnskap om godt og ondt ble forvist fra Eden. Den "
+#~ "grunnleggende utfordringen til historien om skapelsen og fallet er "
+#~ "Evoludjonsteorien, utviklet av"
+
+#~ msgid "Charles Darwin"
+#~ msgstr "Charles Darwin"
+
+#~ msgid "in his famous 1859 book"
+#~ msgstr "i hans berømte bok  fra 1859"
+
+#~ msgid "On the Origin of Species"
+#~ msgstr "On the Origin of Species"
+
+#~ msgid ""
+#~ "Darwin recognised that species were not static, but evolved to improve "
+#~ "their chances of survival. His theories began to develop while he was the "
+#~ "naturalist and geologist on board the ship Beagle, on a 5 year voyage "
+#~ "surveying the coast of South America."
+#~ msgstr ""
+#~ "Darwin innså at artene er ikke statiske, men utviklet seg for å forbedre "
+#~ "sine sjanser til å overleve. Hans begynte å utvikle sine teorier mens han "
+#~ "var naturforsker og geolog ombord på skipet Beagle, på en 5 års reise med "
+#~ "det mål å kartlegge  kysten av Sør-Amerika."
+
+#~ msgid "Wedgwood"
+#~ msgstr "Wedgwood"
+
+#~ msgid ""
+#~ "Darwin's genius was the product of an English family of talent and "
+#~ "reputation. He was the grandson of"
+#~ msgstr ""
+#~ "Darwins geni var et produkt av en engelsk familie med talent og godt ry. "
+#~ "Han var barnebarn av"
+
+#~ msgid "Josiah Wedgwood"
+#~ msgstr "Josiah Wedgwood"
+
+#~ msgid ""
+#~ "one of the great entrepreneurs of the industrial revolution. Taking "
+#~ "inspiration from Greek, Etruscan and Roman styles, especially the "
+#~ "Portland Vase, he created a range of neo-classical pottery that delighted "
+#~ "the new English merchant classes, keen to display their sophistication "
+#~ "with references to design classics. Wedgwood used scientific innovation, "
+#~ "factory techniques of mass production and the new canal network of the UK "
+#~ "to transport his fragile wares to the new consumers of the growing towns "
+#~ "and cities."
+#~ msgstr ""
+#~ "en av de store gründere i den industrielle revolusjon. Med inspirasjon "
+#~ "fra gresk, etruskisk og romersk stil, spesielt Portland Vasen, laget han "
+#~ "en rekke neo-klassiske keramikkobjekter som gledet den nye engelske "
+#~ "kjøpmannsklassen, opptatt av å vise sitt raffinement med referanser til "
+#~ "klassisk design. Wedgwood bruker vitenskapelig innovasjon, "
+#~ "fabrikkteknikker for masseproduksjon og det nye  nettverket av kanaler i "
+#~ "Storbritannia for å transportere sine skjøre varer til de nye forbrukerne "
+#~ "i de voksende byene."
+
+#~ msgid "Abolition"
+#~ msgstr "Avskaffelse"
+
+#~ msgid "A philanthropic employer, Wedgwood was also an early support of"
+#~ msgstr ""
+#~ "Som en filantropisk arbeidsgiver, var Wedgwood også en tidlig støtte for"
+
+#~ msgid "abolition"
+#~ msgstr "avskaffelse"
+
+#~ msgid ""
+#~ "He was a founder member of the Society for the Abolition of the Slave "
+#~ "Trade. His support was most memorably expressed in the cameos he produced "
+#~ "in the 1780s, showing a chained slave with the motto Am I not a Man and a "
+#~ "Brother? Distributed in their thousands, these became the first protest "
+#~ "fashion accessory."
+#~ msgstr ""
+#~ "Han var en av grunnleggerne av foreningen for avskaffelse av "
+#~ "slavehandelen. Hans støtte var mest minneverdig uttrykt i medaljongen han "
+#~ "produserte i 1780-årene, som viser en kjedet slave med mottoet Er jeg "
+#~ "ikke et menneske og en bror? Distribuert i tusenvis, ble denne første "
+#~ "protesten et moteobjekt."
+
+#~ msgid "Migration"
+#~ msgstr "Migrering"
+
+#~ msgid ""
+#~ "The anti-slavery campaigners succeeded in abolishing the slave trade in "
+#~ "1807 and in the following years it was outlawed in the colonies of "
+#~ "western Europe. But the ideal of equality on which it was founded "
+#~ "continued to inspire. Over a century on, it fuelled the political "
+#~ "aspirations that drove the colonial independence movements."
+#~ msgstr ""
+#~ "Antislaverikampanjen lyktes i å avskaffe slavehandelen i 1807, og i de "
+#~ "følgende årene ble den forbudt i Vest-Europas kolonier . Men idealet om "
+#~ "likestilling som kampanjen var grunnlagt på, fortsatte å inspirere. Over "
+#~ "et århundre senere, formet  det de politiske aspirasjonene som drev "
+#~ "bevegelser som kjempet for kolonienes uavhengighet."
+
+#~ msgid ""
+#~ "from the former colonies in recent decades has pushed concern for "
+#~ "equality of opportunity up the political agenda as Europe has become "
+#~ "increasingly diverse."
+#~ msgstr ""
+#~ "fra de tidligere koloniene  har de siste tiårene  presset kravet for like "
+#~ "muligheter for alle, opp på den politiske dagsorden etter som Europa har "
+#~ "blitt stadig mer flerkulturelt."
+
+#~ msgid "Bridgetower"
+#~ msgstr "Bridgetower"
+
+#~ msgid ""
+#~ "Talented Europeans of African descent were making their mark in the "
+#~ "capitals of Europe even as the abolition movement was gathering "
+#~ "supporters."
+#~ msgstr ""
+#~ "Talentfulle europeere med afrikansk avstamning gjorde seg bemerket i "
+#~ "hovedsteder i Europa selv da  bevegelsen for avskaffelsen av slaveriet "
+#~ "samlet støtte.."
+
+#~ msgid "was the Polish-born son of a West Indian servant of the"
+#~ msgstr "var den polskfødte sønnen til en vest-indisk tjener"
+
+#~ msgid "Prince Esterh&aacute;zy"
+#~ msgstr "Prince Esterházy"
+
+#~ msgid ""
+#~ "Joseph Haydn's Hungarian patron. He was a musical prodigy whose talent "
+#~ "was quickly spotted, and he made his debut in Paris at the age of 9. One "
+#~ "reviewer noted his talent is one of the best replies one can give to "
+#~ "philosophers who wish to deprive people of his nation and his colour of "
+#~ "the opportunity to distinguish themselves in the arts."
+#~ msgstr ""
+#~ "Joseph Haydns ungarske beskytter. Han var en musikalsk vidunderbarn hvis "
+#~ "talent ble raskt oppdaget, og han gjorde sin debut i Paris i en alder av "
+#~ "ni. En anmelder bemerket hans talent var et av de beste svarene man kan "
+#~ "gi til filosofer som ønsker å frata folk sin nasjon og sin farge på "
+#~ "muligheten til å skille seg i kunsten."
+
+#~ msgid "Beethoven"
+#~ msgstr "Beethoven"
+
+#~ msgid "By 1803, Bridgetower was giving the premiere of"
+#~ msgstr "I 1803 spilte Bridgetower påpremieren av"
+
+#~ msgid "Beethoven's Kreutzer sonata (Op.47)"
+#~ msgstr "Beethovens Kreutzer sonate (Op.47)"
+
+#~ msgid ""
+#~ "He played the violin part, Beethoven the piano. So delighted was "
+#~ "Beethoven with the performance that he initially dedicated the sonata to "
+#~ "Bridgetower and gave him his tuning fork."
+#~ msgstr ""
+#~ "Han spilte fiolindelen, Beethoven på piano. Så glad ble Beethoven med "
+#~ "fremføringen om at han i utgangspunktet dedikerte sonaten til Bridgetower "
+#~ "og ga ham sin stemmegaffel."
+
+#~ msgid "Ludwig van Beethoven"
+#~ msgstr "Ludwig van Beethoven"
+
+#~ msgid "is the greatest of the Romantic composers: his Third Symphony, the "
+#~ msgstr "er den største av de romantiske komponister: hans tredje symfoni, "
+
+#~ msgid "Eroica"
+#~ msgstr "Eroica"
+
+#~ msgid "was originally dedicated to"
+#~ msgstr "var opprinnelig dedikert til"
+
+#~ msgid "Napoleon"
+#~ msgstr "Napoleon"
+
+#~ msgid ""
+#~ "who he believed ushered in an age of democracy and republican ideals. "
+#~ "When Napoleon fell short, Beethoven scratched the dedication from the "
+#~ "manuscript so forcefully he tore a hole through the paper."
+#~ msgstr ""
+#~ "som han trodde innledet en alder av demokrati og republikanske idealer. "
+#~ "Da Napoleon sviktet, skrapte Beethoven dedikasjonen fra manuskriptet så "
+#~ "hardt at han rev et hull i papiret."
+
+#~ msgid "Rossini"
+#~ msgstr "Rossini"
+
+#~ msgid ""
+#~ "Beethoven's genius was felt across Europe and had a profound influence on "
+#~ "the succeeding generation of composers, including"
+#~ msgstr ""
+#~ "Beethovens geni ble følt over hele Europa og hadde en dyp innflytelse på "
+#~ "den etterfølgende generasjon av komponister, blant annet"
+
+#~ msgid "Gioachino Antonio Rossini"
+#~ msgstr "Gioachino Antonio Rossini"
+
+#~ msgid ""
+#~ "Rossini travelled to Vienna in 1822, where he met the master. His "
+#~ "reverence was such that he asked for Beethoven's Funeral March to be "
+#~ "played at his burial in Paris."
+#~ msgstr ""
+#~ "Rossini reiste til Wien i 1822, hvor han møtte mesteren. Hans ærefrykt "
+#~ "var slik at han ba om at Beethovens Sørgemarsj skulle spilles på hans "
+#~ "begravelse i Paris."
+
+#~ msgid ""
+#~ "Rossini's popularity continued into the 20th century. The most famous "
+#~ "diva of the time,"
+#~ msgstr ""
+#~ "Rossinis popularitet fortsatte inn i det 20. århundre. Den mest berømte "
+#~ "diva fra den tiden,"
+
+#~ msgid "Maria Callas"
+#~ msgstr "Maria Callas"
+
+#~ msgid ""
+#~ "was one of his great interpreters; Una voce poco fa, Rosina's famous aria "
+#~ "from"
+#~ msgstr ""
+#~ "var en av hans store tolkere, Una voce poco fa, Rossinis berømte arie fra"
+
+#~ msgid "The Barber of Seville"
+#~ msgstr "Barbereren i Sevilla"
+
+#~ msgid ""
+#~ "was a fixture in her concert repertoire. Rossini's speed for musical "
+#~ "composition was legendary, particularly of"
+#~ msgstr ""
+#~ "var fast inventar i hennes konsertrepertoar. Rossinis tempo som  "
+#~ "komponist var legendarisk, spesielt "
+
+#~ msgid "La Gazza Ladra - The Thieving Magpie"
+#~ msgstr "La Gazza Ladra - Den tyvaktige C"
+
+#~ msgid "Magpies and mirrors"
+#~ msgstr "Skjærer og speil"
+
+#~ msgid ""
+#~ "The title refers to the magpie's eye for shining things; like Europeana, "
+#~ "it gathers treasures."
+#~ msgstr ""
+#~ "Tittelen refererer til skjærenes øye for skinnende ting, som Europeana, "
+#~ "samler de skatter."
+
+#~ msgid "The magpie"
+#~ msgstr "Skjæren"
+
+#~ msgid ""
+#~ "is also believed to be the only non-mammal that can recognise its "
+#~ "reflection in a mirror; which brings us back to Descartes' interest in "
+#~ "reflection and refraction. Artists through the ages have similarly been "
+#~ "fascinated with the properties of light and perception as depicted in the "
+#~ "vivid translucency of Renaissance and Baroque portraits; the perspective "
+#~ "of"
+#~ msgstr ""
+#~ "er også antatt å være det eneste ikke-pattedyr som kan gjenkjenne sitt "
+#~ "speilbilde i et speil, som bringer oss tilbake til Descartes interesse "
+#~ "for refleksjon og refraksjon. Kunstnere har gjennom tidene  vært "
+#~ "tilsvarende fascinert med egenskapene til lys og persepsjon som vist i "
+#~ "den levende gjennomskinnelighet i renessanse og barokk portretter, et "
+#~ "perspektiv av"
+
+#~ msgid "Johannes Vermeer"
+#~ msgstr "Johannes Vermeer"
+
+#~ msgid ""
+#~ "enthralled by the discoveries of the Scientific revolution; the technical "
+#~ "virtuosity of 19th century Pointillists which led onto 20th century "
+#~ "Cubism, where both objects and space merge."
+#~ msgstr ""
+#~ "trollbundet av funn fra den vitenskapelige revolusjonen, den tekniske "
+#~ "virtuositet hos det 19. århundres Pointillists som førte til det 20. "
+#~ "århundre kubisme, hvor både objekter og plass smelter sammen."
+
+#~ msgid ""
+#~ "Most of all, the eyes, the faces, the ideas from the past invite us to "
+#~ "think again: to take inspiration, to make new connections and to share "
+#~ "new discoveries."
+#~ msgstr ""
+#~ "Mest av alt, øynene, ansiktene, ideene fra fortiden, inviterer oss til å "
+#~ "tenke nytt:   hente inspirasjon, få nye forbindelser og å dele nye "
+#~ "oppdagelser."
+
+#~ msgid "Credits: the music, the images and where they came from"
+#~ msgstr "Kreditering: musikken, bildene og hvor de kom fra"
+
+#~ msgid ""
+#~ "We are very grateful to all those who helped make the video, especially "
+#~ "its creators"
+#~ msgstr ""
+#~ "Vi er svært takknemlig til alle som bidro til å lage denne videoen, "
+#~ "særlig dens skapere"
+
+#~ msgid ""
+#~ "Many of our partners gave us permission to use their images in the video. "
+#~ "Thanks to our colleagues in the\n"
+#~ "    organisations listed below."
+#~ msgstr ""
+#~ "Mange av våre partnere ga oss tillatelse til å bruke deres bilder i "
+#~ "videoen. Takk til våre kolleger i de organisasjoner som er oppført "
+#~ "nedenfor."
+
+#~ msgid "The music is primarily drawn from Irmin Schmidt's"
+#~ msgstr "Musikken er hovedsakelig hentet fra Irmin Schmidts"
+
+#~ msgid "Those Fuzzy Things (out there)"
+#~ msgstr "Those Fuzzy Things (out there)"
+
+#~ msgid ""
+#~ "much appreciation to Cit&eacute;\n"
+#~ "    de la Musique for enabling us to use it as the basis for our "
+#~ "soundtrack."
+#~ msgstr ""
+#~ "mange takk til Cité de la Musique for at vi kan bruke den som grunnlag "
+#~ "for lydsporet vår."
+
+#~ msgid "Collection"
+#~ msgstr "Samling"
+
+#~ msgid "Link"
+#~ msgstr "Lenke"
+
+#~ msgid "Europeana - Using My Europeana"
+#~ msgstr "Europeana - Bruke Mitt Europeana"
+
+#~ msgid "is your personal space on Europeana."
+#~ msgstr "er din personlige plass på Europeana."
+
+#~ msgid "Register for"
+#~ msgstr "Registrer for"
+
+#~ msgid "and you can"
+#~ msgstr "og du kan"
+
+#~ msgid ""
+#~ "Keep up to date on a particular topic in Europeana by saving a search, so "
+#~ "you can easily perform it again in future."
+#~ msgstr ""
+#~ "Hold deg oppdatert på et bestemt emne i Europeana ved å lagre et søk, "
+#~ "slik at du enkelt kan utføre det igjen i fremtiden."
+
+#~ msgid ""
+#~ "Label your favourite items in Europeana with tags that mean something to "
+#~ "you. You can then see all objects you have tagged, sorted by the keywords "
+#~ "you have chosen, in the My Europeana interface."
+#~ msgstr ""
+#~ "Merk dine favorittelementer i Europeana med tagger som betyr noe for deg. "
+#~ "Du kan deretter se alle objektene du har merket, sortert etter søkeordene "
+#~ "du har valgt, i Mitt Europeana grensesnittet."
+
+#~ msgid "Store your favourite items for later viewing."
+#~ msgstr "Lagre din favorittelementer for senere visning."
+
+#~ msgid ""
+#~ "If you are a developer who has registered for one or more API keys, these "
+#~ "will be shown on the API Keys tab."
+#~ msgstr ""
+#~ "Er du en utvikler som har registrert en eller flere API nåkler, vil disse "
+#~ "vises i API nøkkel tab'en."
+
+#~ msgid "To save a search, add a tag or save an item, simply login to"
+#~ msgstr ""
+#~ "For å lagre et søk, legge til en tag eller lagre et element, logg inn på"
+
+#~ msgid "and click on the relevant action from the menu."
+#~ msgstr "og klikk på den aktuelle handlingen fra menyen."
+
+#~ msgid "To view your saved items, searches and tags, use the"
+#~ msgstr "For å se dine lagrede objekter, søk og tagger, bruk"
+
+#~ msgid "shortcuts in the header."
+#~ msgstr "snarveiene i headeren"
+
+#~ msgid "Europeana - Searching Europeana"
+#~ msgstr "Europeana - Søk i Europeana"
+
+#~ msgid ""
+#~ "Welcome to Europeana. This page describes some of the things that you can "
+#~ "do while you are here. Learn more about:"
+#~ msgstr ""
+#~ "Velkommen til Europeana. Denne siden beskriver noen av de tingene som du "
+#~ "kan gjøre mens du er her. Lær mer om:"
+
+#~ msgid ""
+#~ "Search tips, refined search, phrase search, exclude words, auto-"
+#~ "completion, filter results, share your search."
+#~ msgstr ""
+#~ "Søketips, avgrensede søk, frase søk, ekskludere ord, auto-fullføring, "
+#~ "filtrere resultater, dele dine søk."
+
+#~ msgid "exhibitions, new content."
+#~ msgstr "utstillinger, nytt innhold."
+
+#~ msgid ""
+#~ "Seeing further details, rights and licence information, translating "
+#~ "details, searching on external services, related searches on Europeana, "
+#~ "viewing item on provider's site, embedding, and citing."
+#~ msgstr ""
+#~ "Se ytterligere detaljer, rettigheter- og lisens informasjon, oversette "
+#~ "detaljer, søk på eksterne tjenester, relaterte søk på Europeana, se "
+#~ "elementet på leverandørens nettsted, embedding, og sitering"
+
+#~ msgid "Saving searches, saving items, and adding tags."
+#~ msgstr "Lagre søk, lagre objekter, og legge til tagger."
+
+#~ msgid "General Search"
+#~ msgstr "Generelt Søk"
+
+#~ msgid ""
+#~ "Searching the millions of items in Europeana is simple. Just enter your "
+#~ "search term and hit"
+#~ msgstr ""
+#~ "Å søke i millioner av objekter på Europeana er enkelt. Skriv inn ditt "
+#~ "søkeord og klikk"
+
+#~ msgid "Specific search"
+#~ msgstr "Spesifikt søk"
+
+#~ msgid "You can narrow your search with the arrow to the right of"
+#~ msgstr "Du kan avgrense søket ved pila til høyre for"
+
+#~ msgid "Search All fields"
+#~ msgstr "Søk i Alle felt"
+
+#~ msgid "and selecting a category"
+#~ msgstr "og velg en kategori"
+
+#~ msgid "Titles, Creators, Subjects, Dates/Periods, Places"
+#~ msgstr "Titler, Produsenter, Emner, Datoer/Perioder, Steder"
+
+#~ msgid "Then enter your search term and hit"
+#~ msgstr "Så fyller du inn din søketerm og klikker"
+
+#~ msgid ""
+#~ "Alternatively, just ask yourself who, what, where or when you are "
+#~ "interested in and type these words into Europeana's search box followed "
+#~ "by a colon (:). Then enter your search term and hit"
+#~ msgstr ""
+#~ "Alternativt kan du bare spørre deg selv hvem, hva, hvor og når du vil se "
+#~ "på og så skrive inn disse ordene inn i Europeana søkeboks etterfulgt av "
+#~ "et kolon (:). Deretter skriver du inn søkeordet og klikker"
+
+#~ msgid "For specific searches, you could:"
+#~ msgstr "For spesifikke søk kan du:"
+
+#~ msgid "Use the"
+#~ msgstr "Bruk"
+
+#~ msgid "filter or enter"
+#~ msgstr "filtrer eller enter"
+
+#~ msgid ""
+#~ "followed by a name of, for example, an actor, author or architect. Your "
+#~ "results will display only items for which the name you entered is listed "
+#~ "as the creator. For example, searching for"
+#~ msgstr ""
+#~ "etterfulgt av et navn, for eksempel en skuespiller, forfatter eller "
+#~ "arkitekt. Resultatene dine vil bare vise poster hvor navnet du oppga er "
+#~ "oppført som skaperen. For eksempel, å søke etter"
+
+#~ msgid ""
+#~ "will narrow your results to van Gogh's works, excluding photographs of "
+#~ "the artist or documentaries about him and his work."
+#~ msgstr ""
+#~ "vil begrense resultatene til van Goghs arbeider, eksklusive fotografier "
+#~ "av kunstneren eller dokumentarer om ham og hans arbeid."
+
+#~ msgid ""
+#~ "followed by a type of item, a subject you are interested in or words from "
+#~ "the title of the item you are looking for. Your search results will "
+#~ "display only items of the requested type or subject or items whose title "
+#~ "includes your search term. For example, searching for"
+#~ msgstr ""
+#~ "etterfulgt av et type element, et emne du er interessert i eller ord fra "
+#~ "tittelen på elementet du leter etter. Søkeresultatene viser bare "
+#~ "elementer av ønsket type eller emne eller elementer hvis tittel "
+#~ "inneholder søkeordet ditt. For eksempel, å søke etter"
+
+#~ msgid "will narrow your results to maps, or"
+#~ msgstr "vil begrense resultatene til kart, eller"
+
+#~ msgid ""
+#~ "will display artworks, buildings and monuments done in the Art Nouveau "
+#~ "style."
+#~ msgstr "vil vise kunstverk, bygninger og monumenter gjort i jugendstil."
+
+#~ msgid "Place"
+#~ msgstr "Sted"
+
+#~ msgid ""
+#~ "followed by a name of a town, city or country within Europe or around the "
+#~ "world. Your search results will display only items which were created in, "
+#~ "published in or depict the place you are searching for. For example, "
+#~ "searching for"
+#~ msgstr ""
+#~ "etterfulgt av et navn på en by, landsby eller land i Europa eller rundt "
+#~ "om i verden . Søkeresultatene viser bare elementer som ble opprettet i, "
+#~ "publisert i eller avbilder stedet du søker etter. For eksempel, å søke "
+#~ "etter"
+
+#~ msgid ""
+#~ "will help you differentiate your search when you are looking only for "
+#~ "objects created or held in Milan, excluding items on writer Milan Kundera "
+#~ "from your search results."
+#~ msgstr ""
+#~ "vil hjelpe deg å differensiere ditt søk når du bare vil se objekter som "
+#~ "er opprettet eller befinner seg i Milano, med unntak av elementer om "
+#~ "forfatteren Milan Kundera, fra søkeresultatene."
+
+#~ msgid ""
+#~ "followed by a date (e.g. 1945) or a period (e.g. Roman or Medieval). Your "
+#~ "search results will display only items for which the date is listed in "
+#~ "the item's date field. For example, searching for"
+#~ msgstr ""
+#~ "etterfulgt av en dato (f.eks 1945) eller en periode (f.eks Roman eller "
+#~ "Medieval). Søkeresultatene viser bare elementer der datoen er oppført i "
+#~ "dato feltet. For eksempel, å søke etter"
+
+#~ msgid ""
+#~ "will help you differentiate your search when you are looking only for "
+#~ "items dated 1984, excluding items that have 1984 in their title or "
+#~ "description, like George Orwell's novel."
+#~ msgstr ""
+#~ "vil hjelpe deg å differensiere ditt søk når du vil se objekter datert "
+#~ "1984, og ekskludere objekter dom har 1984 i tittelen eller beskrivelsen, "
+#~ "som for eksempel George Orwells roman."
+
+#~ msgid ""
+#~ "These search functions also have support for different spellings and "
+#~ "languages. For example, when you search for"
+#~ msgstr ""
+#~ "Disse søkefunksjonene har også støtte for forskjellige stavemåter og "
+#~ "språk. For eksempel, når du søker etter"
+
+#~ msgid ""
+#~ "the results will also include items with Milano, Mailand or Milanas "
+#~ "listed as their geographic coverage."
+#~ msgstr ""
+#~ "resultatene vil også inkludere elementer med Milano, Mailand eller "
+#~ "Milanas oppført som deres geografiske dekning."
+
+#~ msgid "is also possible. Just put"
+#~ msgstr "er også mulig. Bare sett"
+
+#~ msgid "quotation marks"
+#~ msgstr "anførselstegn"
+
+#~ msgid "e.g."
+#~ msgstr "f.eks."
+
+#~ msgid "around the phrase you want to find, or type"
+#~ msgstr "rundt uttrykket du vil finne, eller skriv"
+
+#~ msgid "between the keywords (e.g."
+#~ msgstr "mellom søkeord (f.eks"
+
+#~ msgid "by typing"
+#~ msgstr "ved å skrive"
+
+#~ msgid "in capital letters, followed by the word you want to omit (e.g."
+#~ msgstr "i store bokstaver, etterfulgt av ordet du vil utelate (f.eks"
+
+#~ msgid "Another helpful search feature is"
+#~ msgstr "En annen nyttig søkefunksjon er"
+
+#~ msgid "Auto completion"
+#~ msgstr "Autofullføring"
+
+#~ msgid ""
+#~ "Start typing a search term. Europeana will suggest words that may match "
+#~ "what you are thinking of. Just select the term you want and hit"
+#~ msgstr ""
+#~ "Begynn med å skrive inn et søkeord. Europeana vil foreslå ord som kan "
+#~ "matche hva du tenker på. Bare velg ordet du vil og klikk på"
+
+#~ msgid "Refine your search"
+#~ msgstr "Begrens søket"
+
+#~ msgid ""
+#~ "Once you have done an initial search, results can be narrowed down with "
+#~ "the"
+#~ msgstr ""
+#~ "Når du har gjort en første søket, kan resultatene bli smalere ned med"
+
+#~ msgid ""
+#~ "functions. These are in the grey pane on the search results screen. You "
+#~ "can add more keywords to your search, thereby narrowing the search "
+#~ "results. Just type your keyword into the"
+#~ msgstr ""
+#~ "funksjoner. Disse er i den grå ruten på søkeresultatsiden . Du kan legge "
+#~ "til flere søkeord i søket, og dermed innsnevre søkeresultatene. Bare "
+#~ "skriv inn ditt søkeord i"
+
+#~ msgid "field and hit"
+#~ msgstr "felt og klikk på"
+
+#~ msgid "The keyword is displayed at the top of the pane, under"
+#~ msgstr "Emneordet vises øverst i ruten, under"
+
+#~ msgid "Matches for."
+#~ msgstr "Treff på"
+
+#~ msgid ""
+#~ "To remove a keyword, hit the X icon next to the relevant keyword in the"
+#~ msgstr ""
+#~ "For å fjerne et emneord, klikk på Xen ved siden av det relevante "
+#~ "emneordet i"
+
+#~ msgid "list."
+#~ msgstr "lista."
+
+#~ msgid "You can also"
+#~ msgstr "Du kan også"
+
+#~ msgid "filter your search results:"
+#~ msgstr "filtrer dine søkeresultater:"
+
+#~ msgid ""
+#~ "will display only objects of a selected media type (images, text, video, "
+#~ "sound or 3D). "
+#~ msgstr ""
+#~ "vil bare vise ogjekter av den valgte medietypen (bilder, tekst, video, "
+#~ "lyd eller 3D)."
+
+#~ msgid "By language"
+#~ msgstr "Etter språk"
+
+#~ msgid ""
+#~ "will display only objects with descriptions in selected languages, i.e. "
+#~ "the language of the institution that provided the object to Europeana."
+#~ msgstr ""
+#~ "vil bare vise objekter med beskrivelser på det valgte språket i.e. "
+#~ "språket brukt i den institusjonen som tilbyr objektet til Europeana."
+
+#~ msgid "By date"
+#~ msgstr "Etter dato"
+
+#~ msgid "will display only objects with selected dates."
+#~ msgstr "vil bare vise objekter med de valgte datoer."
+
+#~ msgid "By country"
+#~ msgstr "Land"
+
+#~ msgid ""
+#~ "will display only objects from selected countries, i.e. the country of "
+#~ "the institution that provided the object to Europeana."
+#~ msgstr ""
+#~ "vil bare vise objekter fra de valgte land, i.e. det landet hvor "
+#~ "institusjonen som tilbyr objektet til Europeana hører hjemme."
+
+#~ msgid ""
+#~ "will display objects labelled with the selected copyright label(s). This "
+#~ "copyright label indicates how you may reuse the digital object, including "
+#~ "the preview."
+#~ msgstr ""
+#~ "vil vise objekter merket med den valgte rettighetsmerkingen(e). Denne "
+#~ "rettighetsmerkingen indikerer hvordan du kan gjenbruke det digitale "
+#~ "objektet, inkludert forhåndsvisningen."
+
+#~ msgid "will display only objects from selected institutions"
+#~ msgstr "vil bare vise objekter fra utvalgte institusjoner"
+
+#~ msgid ""
+#~ "Select the filter name, e.g. 'By language' to expand it. Then just use "
+#~ "the check boxes for the categories you wish the search results to "
+#~ "include. The results will refresh automatically. The filter will be added "
+#~ "to the"
+#~ msgstr ""
+#~ "Velg filter etter navn, f.eks. \"Etter språk\" for å ekspandere Deretter "
+#~ "er det bare å bruke avmerkingsboksene for de kategoriene du ønsker at "
+#~ "søkeresultatene skal inkludere. Resultatene vil oppdateres automatisk. "
+#~ "Filteret vil bli lagt til"
+
+#~ msgid "list at the top of the pane."
+#~ msgstr "lista på toppen av vinduet"
+
+#~ msgid "To remove a filter, hit the X icon next to the item in the"
+#~ msgstr "For å fjerne et filter, klikk på Xen ved siden av elementet i"
+
+#~ msgid "list, or de-select the check box next to the filter category."
+#~ msgstr ""
+#~ "lista, eller velg fra avmerkingsboksen ved siden av filterkategorien"
+
+#~ msgid "You can also select to"
+#~ msgstr "Du kan også velge å"
+
+#~ msgid ""
+#~ "This means items that have not come from a cultural institution but from "
+#~ "an individual user, for example, items contributed to the Europeana "
+#~ "1914-1918 project."
+#~ msgstr ""
+#~ "Dette betyr objekter som ikke kommer fra en institusjon, men fra en "
+#~ "individuell bruker, for eksempel objekter gitt som bidrag til Europeana "
+#~ "1914-1918 prosjektet."
+
+#~ msgid "Share your search with friends by choosing"
+#~ msgstr "Del ditt søk med venner gjennom å velge"
+
+#~ msgid ""
+#~ "A full list of social media sharing options is presented. Just select one "
+#~ "you want. This also includes print and email options."
+#~ msgstr ""
+#~ "En fullstendig liste over sosiale mediealternativer for deling "
+#~ "presenteres. Bare velg det du ønsker. Dette inkluderer også utskriving og "
+#~ "e-mail valg."
+
 #, fuzzy
-msgid "Media types"
-msgstr "Medietyper"
+#~ msgid "Europeana - How to configure your search widget"
+#~ msgstr "Hva er Europeanas  søke widget?"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:32
-msgid ""
-"By default, the widget returns results of all media types - image, text, "
-"sound, video and 3D. You can restrict it to only the media types you're "
-"interested in. Tap 'Change' next to 'All Media Types' and select the types "
-"you need. The media types are presented in order of size. The number in "
-"brackets shows how many items of that media type are available. Note: you "
-"can select more than one.  To clear your selection and start again, tap "
-"'Clear'."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:33
 #, fuzzy
-msgid "Copyright"
-msgstr "Etter opphavsrett"
+#~ msgid "The Europeana Search Widget works with..."
+#~ msgstr "Europeanas Søke Widget"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:33
-msgid ""
-"By default, the widget returns results with any copyright status. You can "
-"restrict this, for example, to only show re-usable content. Tap 'Change' "
-"next to 'All Copyrights' and select the statuses you need. The copyright "
-"statuses are presented in order of size. The number in brackets shows how "
-"many items of that status are available. Note: you can select more than one. "
-"To clear your selection and start again, tap 'Clear'."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:34
-msgid "More information on the CC licenses"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:35
 #, fuzzy
-msgid "More information on the Rights Reserved - Free Access label"
-msgstr "Europeana - Rettigheter - Gratis tilgang"
+#~ msgid "The Europeana Search Widget doesn't work with..."
+#~ msgstr "Europeanas Søke Widget"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:36
 #, fuzzy
-msgid "More information on the Rights Reserved - Restricted Access label"
-msgstr "Europeana - Rettigheter - Begrenset tilgang"
+#~ msgid "Set up your Europeana Search Widget:"
+#~ msgstr "Europeanas Søke Widget"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:37
 #, fuzzy
-msgid "More information on the Rights Reserved - Paid Access label"
-msgstr "Europeana - Rettigheter - Betalt tilgang"
+#~ msgid "Go to the search widget page."
+#~ msgstr "noen av søketermene"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:38
-msgid "More information on the Unknown rights label"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:39
 #, fuzzy
-msgid "Languages"
-msgstr "Språk"
+#~ msgid "Introduction tab"
+#~ msgstr "Introduksjon"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:39
-msgid ""
-"By default, the widget returns results in all languages. You can restrict it "
-"to your chosen languages. Tap 'Change' next to 'All Languages' and select "
-"the languages you need. The languages are presented in order of the size of "
-"their representation in Europeana. The number in brackets shows how many "
-"items of each language are available. Note: you can select more than one. To "
-"clear your selection and start again, tap 'Clear'."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:40
-msgid ""
-"When you have selected all your filters, tap 'Next' or the 'Style' tab "
-"heading."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:42
-msgid "Style tab"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:42
-msgid ""
-"You can choose a black or white widget and select to include thumbnails or "
-"not. Select the style you would like to use."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:43
-msgid "Tap 'Next' or the 'Preview' tab heading."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:44
 #, fuzzy
-msgid "Preview tab"
-msgstr "Forhåndsvisning"
+#~ msgid "To tailor your search widget"
+#~ msgstr "filtrer dine søkeresultater:"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:44
-msgid ""
-"Your widget will be displayed. Please note that the widget is responsive and "
-"so expands to fit the width of its container. For this reason, it may be a "
-"different size on the preview than it will be on your own web page."
-msgstr ""
+#, fuzzy
+#~ msgid "Keyword search"
+#~ msgstr "Filtrere søket"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:46
-msgid ""
-"If you wish to amend the widget's properties, just go back to the 'Search', "
-"'Filter' or 'Style' tab and make your changes."
-msgstr ""
+#, fuzzy
+#~ msgid "Search on types"
+#~ msgstr "Søketips"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:47
-msgid ""
-"If you are happy with your widget, simply copy the 'Embed' code displayed "
-"and paste this into your web page."
-msgstr ""
+#, fuzzy
+#~ msgid "Countries"
+#~ msgstr "Land"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:48
-msgid ""
-"We would love to know how you are using this search widget, please tell us "
-"by dropping us an email at"
-msgstr ""
+#, fuzzy
+#~ msgid "Media types"
+#~ msgstr "Medietyper"
+
+#, fuzzy
+#~ msgid "Copyright"
+#~ msgstr "Etter opphavsrett"
+
+#, fuzzy
+#~ msgid "More information on the Rights Reserved - Free Access label"
+#~ msgstr "Europeana - Rettigheter - Gratis tilgang"
+
+#, fuzzy
+#~ msgid "More information on the Rights Reserved - Restricted Access label"
+#~ msgstr "Europeana - Rettigheter - Begrenset tilgang"
+
+#, fuzzy
+#~ msgid "More information on the Rights Reserved - Paid Access label"
+#~ msgstr "Europeana - Rettigheter - Betalt tilgang"
+
+#, fuzzy
+#~ msgid "Languages"
+#~ msgstr "Språk"
+
+#, fuzzy
+#~ msgid "Preview tab"
+#~ msgstr "Forhåndsvisning"
 
 #, fuzzy
 #~ msgid "Rights Reserved - Free access"
@@ -6887,13 +6475,6 @@ msgstr ""
 
 #~ msgid "This is your personal space on Europeana. With"
 #~ msgstr "Dette er din personlige plass på Europeana. Med"
-
-#~ msgid ""
-#~ "you can save your favourite items and searches, and add tags to items to "
-#~ "help separate them into different categories."
-#~ msgstr ""
-#~ "du kan lagre dine favoritt-elementer og søk, og legge til tags i "
-#~ "elementer for å hjelpe til med å skille dem inn i forskjellige kategorier."
 
 #~ msgid "How can I change my email address, username or password?"
 #~ msgstr "Hvordan kan jeg endre min e-postadresse, brukernavn eller passord?"

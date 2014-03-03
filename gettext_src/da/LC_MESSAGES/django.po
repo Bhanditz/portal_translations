@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-26 17:03+0100\n"
+"POT-Creation-Date: 2014-03-03 15:39+0100\n"
 "PO-Revision-Date: 2013-11-21 16:17\n"
 "Last-Translator: Laura  Huff <laura.huff@kb.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3592,8 +3592,9 @@ msgstr "Tilbage til forsiden"
 #: templates/static_pages/prop_file.html:590
 #: templates/static_pages/sitemap.html:31
 #: templates/static_pages/usingeuropeana_searchwidget.html:9
+#, fuzzy
 msgid "How to configure your search widget"
-msgstr ""
+msgstr "Hvad er Europeanas funktion til ekstern søgning (rsw)?"
 
 #: templates/static_pages/prop_file.html:591
 #, fuzzy
@@ -4565,8 +4566,9 @@ msgid "Auto translate items into"
 msgstr "Oversæt tekst om emnet"
 
 #: templates/static_pages/prop_file.html:1045
+#, fuzzy
 msgid "Automatically translate search keywords into:"
-msgstr ""
+msgstr "Automatisk tilføjede, semantiske søgeord"
 
 #: templates/static_pages/prop_file.html:1046
 msgid ""
@@ -4576,6 +4578,38 @@ msgstr ""
 
 #: templates/static_pages/prop_file.html:1047
 msgid "Submit"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1048
+#, fuzzy
+msgid "Incorrect password."
+msgstr "Jeg har glemt mit password"
+
+#: templates/static_pages/prop_file.html:1049
+#, fuzzy
+msgid ""
+"Log into My Europeana to save your favourite items, searches, tags and "
+"translate search keywords into other languages."
+msgstr ""
+"kan du gemme dit foretrukne materiale og søgninger samt tilføje tags til "
+"materialet for at opdele det i forskellige kategorier. "
+
+#: templates/static_pages/prop_file.html:1050
+#, fuzzy
+msgid "Please enter your username."
+msgstr "Gentag mail-adresse"
+
+#: templates/static_pages/prop_file.html:1051
+#, fuzzy
+msgid "Please enter your password."
+msgstr "Gentag mail-adresse"
+
+#: templates/static_pages/prop_file.html:1052
+msgid "Registered users may choose a maximum of 6 options."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1053
+msgid "Unregistered users may choose a maximum of 3 options."
 msgstr ""
 
 #: templates/static_pages/sitemap.html:4
@@ -4683,7 +4717,7 @@ msgid "Orphan work"
 msgstr "Underlagt ophavsret - Fri adgang"
 
 #: templates/static_pages/sitemap.html:121
-msgid "Out of copyright - non commercial reuse"
+msgid "Out of copyright - non commercial re-use"
 msgstr ""
 
 #: templates/static_pages/sitemap.html:127
@@ -6208,8 +6242,9 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:34
+#, fuzzy
 msgid "More information on the CC licenses"
-msgstr ""
+msgstr "Europeana - Underlagt ophavsret - Adgang mod betaling"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:35
 #, fuzzy
@@ -6227,8 +6262,9 @@ msgid "More information on the Rights Reserved - Paid Access label"
 msgstr "Europeana - Underlagt ophavsret - Adgang mod betaling"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:38
+#, fuzzy
 msgid "More information on the Unknown rights label"
-msgstr ""
+msgstr "Europeana - Underlagt ophavsret - Fri adgang"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:39
 #, fuzzy
@@ -6905,13 +6941,6 @@ msgstr ""
 
 #~ msgid "This is your personal space on Europeana. With"
 #~ msgstr "Det er dit personlige rum i Europeana. Med"
-
-#~ msgid ""
-#~ "you can save your favourite items and searches, and add tags to items to "
-#~ "help separate them into different categories."
-#~ msgstr ""
-#~ "kan du gemme dit foretrukne materiale og søgninger samt tilføje tags til "
-#~ "materialet for at opdele det i forskellige kategorier. "
 
 #~ msgid "How can I change my email address, username or password?"
 #~ msgstr "Ændring af mail-adresse, brugernavn eller password."

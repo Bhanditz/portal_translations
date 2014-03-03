@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-26 17:03+0100\n"
+"POT-Creation-Date: 2014-03-03 15:39+0100\n"
 "PO-Revision-Date: 2014-01-17 14:22\n"
 "Last-Translator: Neil Bates <neil.bates@kb.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4657,8 +4657,9 @@ msgid "Auto translate items into"
 msgstr "Objekt-Details übersetzen"
 
 #: templates/static_pages/prop_file.html:1045
+#, fuzzy
 msgid "Automatically translate search keywords into:"
-msgstr ""
+msgstr "Automatisch vergebene semantische Tags"
 
 #: templates/static_pages/prop_file.html:1046
 msgid ""
@@ -4668,6 +4669,39 @@ msgstr ""
 
 #: templates/static_pages/prop_file.html:1047
 msgid "Submit"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1048
+#, fuzzy
+msgid "Incorrect password."
+msgstr "Ich habe mein Passwort vergessen"
+
+#: templates/static_pages/prop_file.html:1049
+#, fuzzy
+msgid ""
+"Log into My Europeana to save your favourite items, searches, tags and "
+"translate search keywords into other languages."
+msgstr ""
+"Sie können die Links zu Ihren Lieblingsobjekten und Ihre Suchanfragen "
+"speichern und Objekten Tags hinzufügen, um sie in verschiedene Kategorien zu "
+"sortieren."
+
+#: templates/static_pages/prop_file.html:1050
+#, fuzzy
+msgid "Please enter your username."
+msgstr "Bitte geben Sie Ihre E-Mail-Adresse noch einmal ein,"
+
+#: templates/static_pages/prop_file.html:1051
+#, fuzzy
+msgid "Please enter your password."
+msgstr "Bitte geben Sie Ihre E-Mail-Adresse noch einmal ein,"
+
+#: templates/static_pages/prop_file.html:1052
+msgid "Registered users may choose a maximum of 6 options."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1053
+msgid "Unregistered users may choose a maximum of 3 options."
 msgstr ""
 
 #: templates/static_pages/sitemap.html:4
@@ -4769,11 +4803,12 @@ msgid "Orphan work - Free access"
 msgstr "Europeana - Alle Rechte vorbehalten - Freier Zugang"
 
 #: templates/static_pages/sitemap.html:120
+#, fuzzy
 msgid "Orphan work"
-msgstr ""
+msgstr "Europeana - Alle Rechte vorbehalten - Freier Zugang"
 
 #: templates/static_pages/sitemap.html:121
-msgid "Out of copyright - non commercial reuse"
+msgid "Out of copyright - non commercial re-use"
 msgstr ""
 
 #: templates/static_pages/sitemap.html:127
@@ -6153,8 +6188,9 @@ msgstr ""
 "Weiterleitungsoptionen."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:3
+#, fuzzy
 msgid "Europeana - How to configure your search widget"
-msgstr ""
+msgstr "Was ist das Europeana Remote Search Widget?"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:10
 msgid "You can add a Europeana search facility to your blog or website."
@@ -6179,32 +6215,37 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:12
+#, fuzzy
 msgid "The Europeana Search Widget works with..."
-msgstr ""
+msgstr "Europeana Search Widget"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:13
 msgid "Sites that you host yourself."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:18
+#, fuzzy
 msgid "The Europeana Search Widget doesn't work with..."
-msgstr ""
+msgstr "Europeana Search Widget"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:19
 msgid "Blogs hosted on Wordpress.com"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:20
+#, fuzzy
 msgid "Set up your Europeana Search Widget:"
-msgstr ""
+msgstr "Europeana Search Widget"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:22
+#, fuzzy
 msgid "Go to the search widget page."
-msgstr ""
+msgstr "Remote Search Widget"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:23
+#, fuzzy
 msgid "Introduction tab"
-msgstr ""
+msgstr "Einführung"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:23
 msgid ""
@@ -6225,12 +6266,14 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:25
+#, fuzzy
 msgid "To tailor your search widget"
-msgstr ""
+msgstr "filtern Sie Ihre Suchergebnisse:"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:27
+#, fuzzy
 msgid "Keyword search"
-msgstr ""
+msgstr "Verfeinerte Suche"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:27
 msgid ""
@@ -6249,8 +6292,9 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:29
+#, fuzzy
 msgid "Search on types"
-msgstr ""
+msgstr "Suchtipps"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:29
 msgid ""
@@ -6276,8 +6320,9 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:31
+#, fuzzy
 msgid "Countries"
-msgstr ""
+msgstr "Land"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:31
 msgid ""
@@ -6290,8 +6335,9 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:32
+#, fuzzy
 msgid "Media types"
-msgstr ""
+msgstr "Medienart"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:32
 msgid ""
@@ -6305,8 +6351,9 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:33
+#, fuzzy
 msgid "Copyright"
-msgstr ""
+msgstr "nach Urheberrecht"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:33
 msgid ""
@@ -6327,20 +6374,23 @@ msgid "More information on the Rights Reserved - Free Access label"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:36
+#, fuzzy
 msgid "More information on the Rights Reserved - Restricted Access label"
-msgstr ""
+msgstr "Europeana - Alle Rechte vorbehalten - Eingeschränkter Zugang"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:37
+#, fuzzy
 msgid "More information on the Rights Reserved - Paid Access label"
-msgstr ""
+msgstr "Europeana - Alle Rechte vorbehalten - Kostenpflichtiger Zugang"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:38
 msgid "More information on the Unknown rights label"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:39
+#, fuzzy
 msgid "Languages"
-msgstr ""
+msgstr "Sprache"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:39
 msgid ""
@@ -6373,8 +6423,9 @@ msgid "Tap 'Next' or the 'Preview' tab heading."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:44
+#, fuzzy
 msgid "Preview tab"
-msgstr ""
+msgstr "Vorschau"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:44
 msgid ""
@@ -6400,10 +6451,6 @@ msgid ""
 "We would love to know how you are using this search widget, please tell us "
 "by dropping us an email at"
 msgstr ""
-
-#, fuzzy
-#~ msgid "Rights Reserved - Paid access"
-#~ msgstr "Europeana - Alle Rechte vorbehalten - Kostenpflichtiger Zugang"
 
 #, fuzzy
 #~ msgid "New &amp; Improved - Europeana 1914-1918"
@@ -7036,14 +7083,6 @@ msgstr ""
 
 #~ msgid "This is your personal space on Europeana. With"
 #~ msgstr "Dies ist Ihr persönlicher Bereich auf Europeana. Mit"
-
-#~ msgid ""
-#~ "you can save your favourite items and searches, and add tags to items to "
-#~ "help separate them into different categories."
-#~ msgstr ""
-#~ "Sie können die Links zu Ihren Lieblingsobjekten und Ihre Suchanfragen "
-#~ "speichern und Objekten Tags hinzufügen, um sie in verschiedene Kategorien "
-#~ "zu sortieren."
 
 #~ msgid "How can I change my email address, username or password?"
 #~ msgstr ""

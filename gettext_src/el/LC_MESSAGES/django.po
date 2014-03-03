@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-26 17:03+0100\n"
+"POT-Creation-Date: 2014-03-03 15:37+0100\n"
 "PO-Revision-Date: 2013-03-29 20:03\n"
 "Last-Translator: Greek  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -81,7 +81,6 @@ msgstr "Νέο περιεχόμενο"
 #: templates/static_pages/prop_file.html:558
 #: templates/static_pages/prop_file.html:559
 #: templates/static_pages/sitemap.html:88
-#: templates/static_pages/usingeuropeana_search.html:60
 msgid "By provider"
 msgstr "Ανά πάροχο"
 
@@ -288,8 +287,6 @@ msgstr "Βοήθεια"
 #: templates/static_pages/prop_file.html:889
 #: templates/static_pages/usingeuropeana.html:14
 #: templates/static_pages/usingeuropeana_results.html:22
-#: templates/static_pages/usingeuropeana_search.html:9
-#: templates/static_pages/usingeuropeana_search.html:13
 msgid "Searching Europeana"
 msgstr "Αναζήτηση στη Europeana"
 
@@ -302,7 +299,6 @@ msgstr "Αναζήτηση στη Europeana"
 #: templates/static_pages/sitemap.html:28
 #: templates/static_pages/usingeuropeana.html:16
 #: templates/static_pages/usingeuropeana_explore.html:9
-#: templates/static_pages/usingeuropeana_search.html:14
 msgid "Exploring Europeana"
 msgstr "Εξερεύνηση στη Europeana"
 
@@ -314,7 +310,6 @@ msgstr "Εξερεύνηση στη Europeana"
 #: templates/static_pages/sitemap.html:29
 #: templates/static_pages/usingeuropeana.html:19
 #: templates/static_pages/usingeuropeana_results.html:9
-#: templates/static_pages/usingeuropeana_search.html:15
 msgid "Results in Europeana"
 msgstr "Αποτελέσματα στη Europeana"
 
@@ -325,8 +320,6 @@ msgstr "Αποτελέσματα στη Europeana"
 #: templates/static_pages/prop_file.html:901
 #: templates/static_pages/sitemap.html:30
 #: templates/static_pages/usingeuropeana.html:21
-#: templates/static_pages/usingeuropeana_myeuropeana.html:9
-#: templates/static_pages/usingeuropeana_search.html:16
 msgid "Using My Europeana"
 msgstr "Χρήση του My Europeana"
 
@@ -1851,10 +1844,6 @@ msgstr ""
 "είμαστε και περισσότερα με το ενημερωτικό δελτίο μας, το ιστολόγιο και τις "
 "σελίδες στο Twitter και στο Facebook."
 
-#: templates/static_pages/newcontent.html:3
-msgid "Europeana - New Content"
-msgstr "Europeana - Νέο περιεχόμενο"
-
 #: templates/static_pages/prop_file.html:5
 msgid ""
 "I understand that My Europeana gives me the opportunity to create tags for "
@@ -1984,10 +1973,6 @@ msgstr "Αποσύνδεση"
 #: templates/static_pages/prop_file.html:957
 #: templates/static_pages/prop_file.html:958
 #: templates/static_pages/sitemap.html:12
-#: templates/static_pages/usingeuropeana_myeuropeana.html:10
-#: templates/static_pages/usingeuropeana_myeuropeana.html:11
-#: templates/static_pages/usingeuropeana_myeuropeana.html:20
-#: templates/static_pages/usingeuropeana_myeuropeana.html:21
 msgid "My Europeana"
 msgstr "Η Europeana μου"
 
@@ -2048,7 +2033,6 @@ msgstr ""
 "έχετε ενεργοποιήσει το JavaScript"
 
 #: templates/static_pages/prop_file.html:33
-#: templates/static_pages/storyline.html:11
 msgid "Storyline and credits"
 msgstr "Λωρίδα ιστοριών και ονόματα συντελεστών"
 
@@ -2091,10 +2075,6 @@ msgstr "Μάθετε περισσότερα"
 
 #: templates/static_pages/prop_file.html:44
 #: templates/static_pages/sitemap.html:65
-#: templates/static_pages/usingeuropeana_search.html:21
-#: templates/static_pages/usingeuropeana_search.html:25
-#: templates/static_pages/usingeuropeana_search.html:27
-#: templates/static_pages/usingeuropeana_search.html:45
 msgid "Search"
 msgstr "Αναζήτηση"
 
@@ -2130,7 +2110,6 @@ msgstr "και"
 #: templates/static_pages/usingeuropeana_results.html:25
 #: templates/static_pages/usingeuropeana_results.html:41
 #: templates/static_pages/usingeuropeana_results.html:49
-#: templates/static_pages/usingeuropeana_search.html:32
 msgid "or"
 msgstr "ή"
 
@@ -2246,7 +2225,6 @@ msgid "By type"
 msgstr "Κατά είδος"
 
 #: templates/static_pages/prop_file.html:81
-#: templates/static_pages/usingeuropeana_search.html:55
 msgid "By media type"
 msgstr "Κατά είδος μέσων ενημέρωσης"
 
@@ -2255,7 +2233,6 @@ msgid "Actions"
 msgstr "Ενέργειες"
 
 #: templates/static_pages/prop_file.html:83
-#: templates/static_pages/usingeuropeana_myeuropeana.html:14
 msgid "Save this search"
 msgstr "Αποθηκεύσουν αυτή την αναζήτηση"
 
@@ -2272,9 +2249,6 @@ msgid "You have searched for"
 msgstr "Έχετε κάνει αναζήτηση για"
 
 #: templates/static_pages/prop_file.html:87
-#: templates/static_pages/usingeuropeana_search.html:51
-#: templates/static_pages/usingeuropeana_search.html:63
-#: templates/static_pages/usingeuropeana_search.html:65
 msgid "Matches for"
 msgstr "Ταιριάζει με"
 
@@ -2353,12 +2327,10 @@ msgid "User tags"
 msgstr "Ετικέτες χρηστών"
 
 #: templates/static_pages/prop_file.html:110
-#: templates/static_pages/usingeuropeana_myeuropeana.html:15
 msgid "Add a tag"
 msgstr "Προσθέσουν ετικέτα"
 
 #: templates/static_pages/prop_file.html:111
-#: templates/static_pages/usingeuropeana_search.html:49
 msgid "Add"
 msgstr "Προσθήκη"
 
@@ -2391,7 +2363,6 @@ msgid "Send"
 msgstr "Αποστολή"
 
 #: templates/static_pages/prop_file.html:119
-#: templates/static_pages/usingeuropeana_myeuropeana.html:16
 msgid "Save to My Europeana"
 msgstr "Αποθηκεύσουν στην ενότητα Η Europeana μου"
 
@@ -2459,8 +2430,6 @@ msgstr "Πάροχος"
 #: templates/static_pages/prop_file.html:135
 #: templates/static_pages/prop_file.html:228
 #: templates/static_pages/prop_file.html:814
-#: templates/static_pages/storyline.html:49
-#: templates/static_pages/usingeuropeana_search.html:32
 msgid "Title"
 msgstr "Τίτλος"
 
@@ -2470,20 +2439,16 @@ msgid "Description"
 msgstr "Περιγραφή"
 
 #: templates/static_pages/prop_file.html:137
-#: templates/static_pages/storyline.html:50
-#: templates/static_pages/usingeuropeana_search.html:31
 msgid "Creator"
 msgstr "Δημιουργός"
 
 #: templates/static_pages/prop_file.html:138
 #: templates/static_pages/prop_file.html:232
-#: templates/static_pages/usingeuropeana_search.html:34
 msgid "Date"
 msgstr "Ημερομηνία"
 
 #: templates/static_pages/prop_file.html:139
 #: templates/static_pages/prop_file.html:234
-#: templates/static_pages/usingeuropeana_search.html:32
 msgid "Subject"
 msgstr "Θέμα"
 
@@ -3186,7 +3151,6 @@ msgid "By Rights"
 msgstr "Με Πνευματικά Δικαιώματα"
 
 #: templates/static_pages/prop_file.html:312
-#: templates/static_pages/usingeuropeana_search.html:59
 msgid "By copyright"
 msgstr "Σύμφωνα με τα πνευματικά δικαιώματα"
 
@@ -3418,7 +3382,6 @@ msgid "Media Types"
 msgstr "Είδη μέσων ενημέρωσης"
 
 #: templates/static_pages/prop_file.html:359
-#: templates/static_pages/usingeuropeana_searchwidget.html:30
 msgid "Providers"
 msgstr "Πάροχοι"
 
@@ -3699,9 +3662,9 @@ msgstr "Αρχική Σελίδα"
 
 #: templates/static_pages/prop_file.html:590
 #: templates/static_pages/sitemap.html:31
-#: templates/static_pages/usingeuropeana_searchwidget.html:9
+#, fuzzy
 msgid "How to configure your search widget"
-msgstr ""
+msgstr "Τι είναι η απομακρυσμένη αναζήτηση στοιχείου διεπαφής στη Europeana;"
 
 #: templates/static_pages/prop_file.html:591
 #, fuzzy
@@ -3989,7 +3952,6 @@ msgid "Copy and paste the wiki-markup below:"
 msgstr "Αντιγραφή και επικόλληση στην πιο κάτω επισήμανση του wiki:"
 
 #: templates/static_pages/prop_file.html:716
-#: templates/static_pages/usingeuropeana_search.html:67
 msgid "Include content contributed by users"
 msgstr "Περιλαμβάνει περιεχόμενο που δημιουργούν οι χρήστες"
 
@@ -4033,7 +3995,6 @@ msgstr "Τελευταίο στο"
 
 #: templates/static_pages/prop_file.html:728
 #: templates/static_pages/prop_file.html:973
-#: templates/static_pages/usingeuropeana_search.html:69
 msgid "Share"
 msgstr "Μοιραστείτε"
 
@@ -4211,7 +4172,6 @@ msgid "sitemap.html"
 msgstr "sitemap.html"
 
 #: templates/static_pages/prop_file.html:835
-#: templates/static_pages/usingeuropeana_myeuropeana.html:17
 msgid "API keys"
 msgstr "κλειδιά API"
 
@@ -4396,7 +4356,6 @@ msgid "Results per page"
 msgstr "Αποτελέσματα ανά σελίδα"
 
 #: templates/static_pages/prop_file.html:969
-#: templates/static_pages/usingeuropeana_search.html:49
 msgid "Add more keywords"
 msgstr "Προσθέσθε περισσότερες λέξεις κλειδιά"
 
@@ -4683,8 +4642,9 @@ msgid "Auto translate items into"
 msgstr "Μετάφραση των λεπτομερειών του αντικειμένου"
 
 #: templates/static_pages/prop_file.html:1045
+#, fuzzy
 msgid "Automatically translate search keywords into:"
-msgstr ""
+msgstr "Αυτόματη προσθήκη σημασιολογικών ετικετών"
 
 #: templates/static_pages/prop_file.html:1046
 msgid ""
@@ -4694,6 +4654,39 @@ msgstr ""
 
 #: templates/static_pages/prop_file.html:1047
 msgid "Submit"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1048
+#, fuzzy
+msgid "Incorrect password."
+msgstr "Ξέχασα τον κωδικό πρόσβασής μου"
+
+#: templates/static_pages/prop_file.html:1049
+#, fuzzy
+msgid ""
+"Log into My Europeana to save your favourite items, searches, tags and "
+"translate search keywords into other languages."
+msgstr ""
+"Μπορείτε να αποθηκεύετε τα αγαπημένα σας τεκμήρια και τις αναζητήσεις και να "
+"προσθέσετε ετικέτες σε τεκμήρια για να βοηθήσετε να χωριστούν σε "
+"διαφορετικές κατηγορίες."
+
+#: templates/static_pages/prop_file.html:1050
+#, fuzzy
+msgid "Please enter your username."
+msgstr " "
+
+#: templates/static_pages/prop_file.html:1051
+#, fuzzy
+msgid "Please enter your password."
+msgstr " "
+
+#: templates/static_pages/prop_file.html:1052
+msgid "Registered users may choose a maximum of 6 options."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1053
+msgid "Unregistered users may choose a maximum of 3 options."
 msgstr ""
 
 #: templates/static_pages/sitemap.html:4
@@ -4802,7 +4795,7 @@ msgid "Orphan work"
 msgstr "Κατοχυρωμένα Δικαιώματα - Ελεύθερη Πρόσβαση"
 
 #: templates/static_pages/sitemap.html:121
-msgid "Out of copyright - non commercial reuse"
+msgid "Out of copyright - non commercial re-use"
 msgstr ""
 
 #: templates/static_pages/sitemap.html:127
@@ -4814,456 +4807,6 @@ msgstr "Αναζήτηση Στοιχείου Διεπαφής στη Europeana"
 #, fuzzy
 msgid "Europeana metadata schemas"
 msgstr "μεταδεδομένα της Europeana"
-
-#: templates/static_pages/storyline.html:4
-msgid "Europeana - Storyline and credits"
-msgstr "Europeana - Λωρίδα ιστοριών και ονόματα συντελεστών"
-
-#: templates/static_pages/storyline.html:13
-msgid "Descartes"
-msgstr "Ντεκάρτ"
-
-#: templates/static_pages/storyline.html:14
-msgid "The best place to start is with"
-msgstr "Το καλύτερο μέρος για να ξεκινήσετε είναι με"
-
-#: templates/static_pages/storyline.html:14
-msgid "Rene Descartes"
-msgstr "Ρενέ Ντεκάρτ"
-
-#: templates/static_pages/storyline.html:14
-msgid ""
-"the man who made thinking central to our experience of the world. Cogito "
-"ergo sum wrote Descartes in 1644 in his Principia Philosophiae: I think, "
-"therefore I am. Descartes was the father of modern philosophy, and one of "
-"the great European thinkers of his time, writing in French and Latin, "
-"working and publishing in the Netherlands."
-msgstr ""
-"ο άνθρωπος που έφερε τη σκέψη στο επίκεντρο της εμπειρίας μας για τον κόσμο. "
-"Το 1644 ο Ντεκάρτ έγραψε το Cogito ergo sum: σκέπτομαι άρα υπάρχω στο "
-"Principia Philosophiae (Αρχές Φιλοσοφίας). Ο Ντεκάρτ ήταν ο πατέρας της "
-"σύγχρονης φιλοσοφίας και ένας από τους μεγάλους Ευρωπαίους στοχαστές της "
-"εποχής του, γράφοντας στα Γαλλικά και στα Λατινικά, εργαζόμενος και "
-"δημοσιεύοντας στην Ολλανδία."
-
-#: templates/static_pages/storyline.html:15
-msgid "Newton"
-msgstr "Νεύτωνας"
-
-#: templates/static_pages/storyline.html:16
-msgid ""
-"He defined laws of reflection and refraction, worked on the structure of the "
-"brain, the new physics and mathematics. He was a major influence on"
-msgstr ""
-"Όρισε τους νόμους της αντανάκλασης και της διάθλασης, εργάστηκε για τη δομή "
-"του εγκεφάλου, τη νέα φυσική και τα μαθηματικά. Είχε σημαντική επιρροή στον"
-
-#: templates/static_pages/storyline.html:16
-msgid "Isaac Newton"
-msgstr "Ισαάκ Νεύτων"
-
-#: templates/static_pages/storyline.html:16
-msgid ""
-"whose laws of gravity were famously inspired by watching an apple fall. "
-"Newton's three laws of motion were published in 1687 in his"
-msgstr ""
-"του οποίου οι νόμοι της βαρύτητας ήταν ως γνωστόν εμπνευσμένοι από την "
-"παρατήρηση της πτώσης του μήλου. Οι τρεις νόμοι του Νεύτωνα για την κίνηση "
-"δημοσιεύτηκαν το 1687 στο έργο του"
-
-#: templates/static_pages/storyline.html:16
-msgid "Philosophiae Naturalis Principia Mathematica"
-msgstr "Μαθηματικές Αρχές Φυσικής Φιλοσοφίας"
-
-#: templates/static_pages/storyline.html:17
-msgid "Darwin"
-msgstr "Δαρβίνος"
-
-#: templates/static_pages/storyline.html:18
-msgid ""
-"The apple is the symbol of another fall; that of Adam and Eve, who on eating "
-"the fruit of the Tree of Knowledge of Good and Evil are banished from Eden. "
-"The fundamental challenge to the story of the Creation and the Fall is the "
-"Theory of Evolution, set out by"
-msgstr ""
-"Το μήλο είναι το σύμβολο μιας άλλης πτώσης. Αυτής του Αδάμ και της Εύας, οι "
-"οποίοι επειδή έφαγαν τον καρπό από το Δέντρο της Γνώσης του Καλού και του "
-"Κακού εξορίστηκαν από τον Παράδεισο. Η βασική πρόκληση για την ιστορία της "
-"Δημιουργίας και του Προπατορικού Αμαρτήματος είναι η Θεωρία της Εξέλιξης, "
-"την οποία ξεκίνησε ο"
-
-#: templates/static_pages/storyline.html:18
-msgid "Charles Darwin"
-msgstr "Κάρολος Δαρβίνος"
-
-#: templates/static_pages/storyline.html:18
-msgid "in his famous 1859 book"
-msgstr "στο διάσημο βιβλίο του 1859"
-
-#: templates/static_pages/storyline.html:18
-msgid "On the Origin of Species"
-msgstr "Περί της Καταγωγής των Ειδών"
-
-#: templates/static_pages/storyline.html:18
-msgid ""
-"Darwin recognised that species were not static, but evolved to improve their "
-"chances of survival. His theories began to develop while he was the "
-"naturalist and geologist on board the ship Beagle, on a 5 year voyage "
-"surveying the coast of South America."
-msgstr ""
-"Ο Δαρβίνος αναγνώρισε ότι τα είδη δεν ήταν στατικά, αλλά εξελίχθηκαν για να "
-"βελτιώσουν τις πιθανότητες επιβίωσής τους. Οι θεωρίες του άρχισαν να "
-"αναπτύσσονται, ενώ βρισκόταν ως φυσιοδίφης και γεωλόγος εν πλω με το πλοίο "
-"Beagle, σε ένα ταξίδι 5 ετών για την τοπογράφηση των ακτών της Νότιας "
-"Αμερικής."
-
-#: templates/static_pages/storyline.html:19
-msgid "Wedgwood"
-msgstr "Ουέτζγουντ"
-
-#: templates/static_pages/storyline.html:20
-msgid ""
-"Darwin's genius was the product of an English family of talent and "
-"reputation. He was the grandson of"
-msgstr ""
-"Η μεγαλοφυΐα του Δαρβίνου ήταν το προϊόν μιας αγγλικής οικογένειας με "
-"ταλέντο και υπόληψη. Ήταν εγγονός του"
-
-#: templates/static_pages/storyline.html:20
-msgid "Josiah Wedgwood"
-msgstr "Τζόσια Ουέτζγουντ"
-
-#: templates/static_pages/storyline.html:20
-msgid ""
-"one of the great entrepreneurs of the industrial revolution. Taking "
-"inspiration from Greek, Etruscan and Roman styles, especially the Portland "
-"Vase, he created a range of neo-classical pottery that delighted the new "
-"English merchant classes, keen to display their sophistication with "
-"references to design classics. Wedgwood used scientific innovation, factory "
-"techniques of mass production and the new canal network of the UK to "
-"transport his fragile wares to the new consumers of the growing towns and "
-"cities."
-msgstr ""
-"ένας από τους μεγάλους επιχειρηματίες της βιομηχανικής επανάστασης. "
-"Εμπνεόμενος από ελληνικά, ετρουσκανά και ρωμαϊκά πρότυπα, ειδικά το Αγγείο "
-"Πόρτλαντ, δημιούργησε μια σειρά από νεοκλασικά κεραμικά που γοήτευσαν τις "
-"νέες αγγλικές εμπορικές τάξεις, που ενδιαφέρονταν να εκθέσουν την επιτήδευσή "
-"τους με αναφορές σε κλασικά σχέδια. Ο Ουέτζγουντ χρησιμοποίησε επιστημονική "
-"καινοτομία, εργοστασιακές τεχνικές μαζικής παραγωγής και το νέο κανάλι του "
-"Ηνωμένου Βασιλείου για τη μεταφορά των εύθραυστων αγγείων, στους νέους "
-"καταναλωτές των κωμοπόλεων και πόλεων, οι οποίες αυξάνονταν σε μέγεθος."
-
-#: templates/static_pages/storyline.html:21
-msgid "Abolition"
-msgstr "Κατάργηση της Δουλείας"
-
-#: templates/static_pages/storyline.html:22
-msgid "A philanthropic employer, Wedgwood was also an early support of"
-msgstr ""
-"Ένας φιλάνθρωπος εργοδότης, ο Ουέτζγουντ ήταν επίσης ο πρώιμος υποστηρικτής "
-"της"
-
-#: templates/static_pages/storyline.html:22
-msgid "abolition"
-msgstr "κατάργησης της δουλείας"
-
-#: templates/static_pages/storyline.html:22
-msgid ""
-"He was a founder member of the Society for the Abolition of the Slave Trade. "
-"His support was most memorably expressed in the cameos he produced in the "
-"1780s, showing a chained slave with the motto Am I not a Man and a Brother? "
-"Distributed in their thousands, these became the first protest fashion "
-"accessory."
-msgstr ""
-"Υπήρξε ιδρυτικό μέλος της Εταιρείας για την Κατάργηση του Δουλεμπορίου. Η "
-"υποστήριξή του εκφράστηκε με αξιομνημόνευτο τρόπο στις καμέες που παρήγαγε "
-"στη δεκαετία του 1780, παρουσιάζοντας έναν αλυσοδεμένο σκλάβο με το σύνθημα "
-"Δεν Είμαι Άνθρωπος και Αδελφός; Επειδή διανεμήθηκε κατά χιλιάδες, αυτές "
-"έγιναν τα πρώτα εξαρτήματα μόδας για διαμαρτυρίες."
-
-#: templates/static_pages/storyline.html:23
-#: templates/static_pages/storyline.html:24
-msgid "Migration"
-msgstr "Μετανάστευση"
-
-#: templates/static_pages/storyline.html:24
-msgid ""
-"The anti-slavery campaigners succeeded in abolishing the slave trade in 1807 "
-"and in the following years it was outlawed in the colonies of western "
-"Europe. But the ideal of equality on which it was founded continued to "
-"inspire. Over a century on, it fuelled the political aspirations that drove "
-"the colonial independence movements."
-msgstr ""
-"Η εκστρατεία κατά της δουλείας πέτυχε την κατάργηση του δουλεμπορίου το 1807 "
-"και τα επόμενα χρόνια ήταν εκτός νόμου στις αποικίες της Δυτικής Ευρώπης. "
-"Όμως, το ιδανικό της ισότητας πάνω στην οποία ιδρύθηκε, συνέχισε να εμπνέει. "
-"Για περισσότερο από έναν αιώνα, πυροδότησε τις πολιτικές φιλοδοξίες που "
-"οδήγησαν στις αποικιακές κινήσεις ανεξαρτησίας. Η"
-
-#: templates/static_pages/storyline.html:24
-msgid ""
-"from the former colonies in recent decades has pushed concern for equality "
-"of opportunity up the political agenda as Europe has become increasingly "
-"diverse."
-msgstr ""
-"από τις πρώην αποικίες των τελευταίων δεκαετιών έδωσε ώθηση στη μέριμνα για "
-"την ισότητα των ευκαιριών στην πολιτική ημερήσια διάταξη, καθώς η Ευρώπη "
-"γινόταν ολοένα και πιο πολύμορφη."
-
-#: templates/static_pages/storyline.html:25
-msgid "Bridgetower"
-msgstr "Μπριτζτάουερ"
-
-#: templates/static_pages/storyline.html:26
-msgid ""
-"Talented Europeans of African descent were making their mark in the capitals "
-"of Europe even as the abolition movement was gathering supporters."
-msgstr ""
-"Ταλαντούχοι Ευρωπαίοι αφρικανικής καταγωγής είχαν βάλει τη σφραγίδα τους "
-"στις πρωτεύουσες της Ευρώπης, ακόμη και όταν το κίνημα για την κατάργηση της "
-"δουλείας συγκέντρωνε υποστηρικτές οπαδούς. Ο"
-
-#: templates/static_pages/storyline.html:26
-msgid "was the Polish-born son of a West Indian servant of the"
-msgstr ""
-"ήταν ο γιος, γεννημένος στην Πολωνία, του υπηρέτη από τις Δυτικές Ινδίες του"
-
-#: templates/static_pages/storyline.html:26
-msgid "Prince Esterh&aacute;zy"
-msgstr "Πρίγκηπα Εστερχάζι"
-
-#: templates/static_pages/storyline.html:26
-msgid ""
-"Joseph Haydn's Hungarian patron. He was a musical prodigy whose talent was "
-"quickly spotted, and he made his debut in Paris at the age of 9. One "
-"reviewer noted his talent is one of the best replies one can give to "
-"philosophers who wish to deprive people of his nation and his colour of the "
-"opportunity to distinguish themselves in the arts."
-msgstr ""
-"του Ούγγρου προστάτη του Γιόζεφ Χάιντν. Ήταν μια μουσική ιδιοφυία, του "
-"οποίου το ταλέντο γρήγορα ξεχώρισε και  έκανε το ντεμπούτο του στο Παρίσι σε "
-"ηλικία 9 ετών. Ένας κριτικός σημείωσε ότι το ταλέντο του είναι μια από τις "
-"καλύτερες απαντήσεις που μπορεί κανείς να δώσει σε φιλοσόφους, οι οποίοι "
-"επιθυμούν να αποστερήσουν τους ανθρώπους του ιδίου έθνους και χρώματος με "
-"εκείνον από τη δυνατότητα να διακριθούν στις τέχνες."
-
-#: templates/static_pages/storyline.html:27
-msgid "Beethoven"
-msgstr "Μπετόβεν"
-
-#: templates/static_pages/storyline.html:28
-msgid "By 1803, Bridgetower was giving the premiere of"
-msgstr "Γύρω στο 1803, ο Μπριτζτάουερ έκανε την πρεμιέρα της"
-
-#: templates/static_pages/storyline.html:28
-msgid "Beethoven's Kreutzer sonata (Op.47)"
-msgstr "σονάτα Kreutzer του Μπετόβεν (Έργο 47)"
-
-#: templates/static_pages/storyline.html:28
-msgid ""
-"He played the violin part, Beethoven the piano. So delighted was Beethoven "
-"with the performance that he initially dedicated the sonata to Bridgetower "
-"and gave him his tuning fork."
-msgstr ""
-"Έπαιξε το ρόλο του βιολιού και ο Μπετόβεν του πιάνου. Τόσο πολύ γοητεύτηκε ο "
-"Μπετόβεν με την παράσταση, που αφιέρωσε αρχικά τη σονάτα στον Μπριτζτάουερ "
-"και του έδωσε το διαπασών του."
-
-#: templates/static_pages/storyline.html:29
-msgid "Ludwig van Beethoven"
-msgstr "Ο Λουντβίχ Βαν Μπετόβεν"
-
-#: templates/static_pages/storyline.html:29
-msgid "is the greatest of the Romantic composers: his Third Symphony, the "
-msgstr ""
-"είναι ο μεγαλύτερος από τους συνθέτες της Ρομαντικής Σχολής: η Τρίτη "
-"Συμφωνία του, η "
-
-#: templates/static_pages/storyline.html:29
-msgid "Eroica"
-msgstr "Ερόικα"
-
-#: templates/static_pages/storyline.html:29
-msgid "was originally dedicated to"
-msgstr "ήταν αρχικά αφιερωμένη στον"
-
-#: templates/static_pages/storyline.html:29
-msgid "Napoleon"
-msgstr "Ναπολέοντα"
-
-#: templates/static_pages/storyline.html:29
-msgid ""
-"who he believed ushered in an age of democracy and republican ideals. When "
-"Napoleon fell short, Beethoven scratched the dedication from the manuscript "
-"so forcefully he tore a hole through the paper."
-msgstr ""
-"ο οποίος πίστευε ότι μπαίνει στην εποχή της δημοκρατίας και των ιδανικών της "
-"δημοκρατίας. Όταν ο Ναπολέων αποδείχτηκε κατώτερος των περιστάσεων, ο "
-"Μπετόβεν διέγραψε την αφιέρωση από το χειρόγραφο τόσο έντονα που άνοιξε μια "
-"τρύπα στο χαρτί."
-
-#: templates/static_pages/storyline.html:30
-msgid "Rossini"
-msgstr "Ροσίνι"
-
-#: templates/static_pages/storyline.html:31
-msgid ""
-"Beethoven's genius was felt across Europe and had a profound influence on "
-"the succeeding generation of composers, including"
-msgstr ""
-"Η ιδιοφυΐα του Μπετόβεν έγινε αισθητή σε ολόκληρη την Ευρώπη και είχε βαθιά "
-"επίδραση στην επόμενη γενιά συνθετών, όπως ο"
-
-#: templates/static_pages/storyline.html:31
-msgid "Gioachino Antonio Rossini"
-msgstr "Τζιοακίνο Αντόνιο Ροσίνι"
-
-#: templates/static_pages/storyline.html:31
-msgid ""
-"Rossini travelled to Vienna in 1822, where he met the master. His reverence "
-"was such that he asked for Beethoven's Funeral March to be played at his "
-"burial in Paris."
-msgstr ""
-"Ο Ροσίνι ταξίδεψε στη Βιένη το 1822, όπου συνάντησε τον δάσκαλο. Η ευλάβειά "
-"του ήταν τέτοια που ο ίδιος ζήτησε να παιχθεί στην κηδεία Η Πένθιμη Συμφωνία "
-"του Μπετόβεν."
-
-#: templates/static_pages/storyline.html:32
-msgid ""
-"Rossini's popularity continued into the 20th century. The most famous diva "
-"of the time,"
-msgstr ""
-"Η δημοτικότητα του Ροσίνι συνεχίστηκε στον 20ο αιώνα. Η πιο διάσημη ντίβα "
-"της εποχής, η"
-
-#: templates/static_pages/storyline.html:32
-msgid "Maria Callas"
-msgstr "Μαρία Κάλλας"
-
-#: templates/static_pages/storyline.html:32
-msgid ""
-"was one of his great interpreters; Una voce poco fa, Rosina's famous aria "
-"from"
-msgstr ""
-"ήταν μία από τις μεγάλες ερμηνεύτριές του. Una voce poco fa, η φημισμένη "
-"άρια του Ροσίνι από την όπερα"
-
-#: templates/static_pages/storyline.html:32
-msgid "The Barber of Seville"
-msgstr "Ο Κουρέας της Σεβίλλης"
-
-#: templates/static_pages/storyline.html:32
-msgid ""
-"was a fixture in her concert repertoire. Rossini's speed for musical "
-"composition was legendary, particularly of"
-msgstr ""
-"ήταν ένα προσάρτημα στο συμφωνικό ρεπερτόριό της. Η ταχύτητα του Ροσίνι για "
-"μουσική σύνθεση ήταν θρυλική, ιδιαίτερα στο"
-
-#: templates/static_pages/storyline.html:32
-msgid "La Gazza Ladra - The Thieving Magpie"
-msgstr "La Ladra Gazza - Η κλέφτρα κίσσα"
-
-#: templates/static_pages/storyline.html:33
-msgid "Magpies and mirrors"
-msgstr "Κίσσες και καθρέφτες"
-
-#: templates/static_pages/storyline.html:34
-msgid ""
-"The title refers to the magpie's eye for shining things; like Europeana, it "
-"gathers treasures."
-msgstr ""
-"Ο τίτλος παραπέμπει στο μάτι της κίσσας για τα πράγματα που λάμπουν. Όπως η "
-"Europeana, συγκεντρώνει θησαυρούς."
-
-#: templates/static_pages/storyline.html:34
-msgid "The magpie"
-msgstr "Η κίσσα"
-
-#: templates/static_pages/storyline.html:34
-msgid ""
-"is also believed to be the only non-mammal that can recognise its reflection "
-"in a mirror; which brings us back to Descartes' interest in reflection and "
-"refraction. Artists through the ages have similarly been fascinated with the "
-"properties of light and perception as depicted in the vivid translucency of "
-"Renaissance and Baroque portraits; the perspective of"
-msgstr ""
-"πιστεύεται επίσης ότι είναι το μόνο μη θηλαστικό που μπορεί να αναγνωρίσει "
-"το είδωλό του στον καθρέφτη. Αυτό μας πάει πίσω στο ενδιαφέρον του Ντεκάρτ "
-"για την αντανάκλαση και τη διάθλαση. Δια μέσου των αιώνων οι καλλιτέχνες "
-"έχουν γοητευτεί με όμοιο τρόπο από τις ιδιότητες του φωτός και της "
-"αντίληψης, όπως απεικονίζεται το φως στη ζωντανή διαύγεια των πορτρέτων της "
-"Αναγέννησης και του Μπαρόκ, την προοπτική του"
-
-#: templates/static_pages/storyline.html:34
-msgid "Johannes Vermeer"
-msgstr "Γιοζάνες Βερμέερ"
-
-#: templates/static_pages/storyline.html:34
-msgid ""
-"enthralled by the discoveries of the Scientific revolution; the technical "
-"virtuosity of 19th century Pointillists which led onto 20th century Cubism, "
-"where both objects and space merge."
-msgstr ""
-"που συνάρπασε με τα ευρήματα της επιστημονικής επανάστασης, την τεχνική "
-"δεξιοτεχνία των Pointillists του 19ου αιώνα που οδήγησε στον κυβισμό του "
-"20ου αιώνα κυβισμού, όπου τα αντικείμενα συγχωνεύονται με το χώρο."
-
-#: templates/static_pages/storyline.html:35
-msgid ""
-"Most of all, the eyes, the faces, the ideas from the past invite us to think "
-"again: to take inspiration, to make new connections and to share new "
-"discoveries."
-msgstr ""
-"Πάνω από όλα, τα μάτια, τα πρόσωπα, οι ιδέες από το παρελθόν μάς προσκαλούν "
-"να σκεφτούμε ξανά: να εμπνευστούμε, να κάνουμε νέες επαφές και να "
-"μοιραστούμε νέες ανακαλύψεις."
-
-#: templates/static_pages/storyline.html:36
-msgid "Credits: the music, the images and where they came from"
-msgstr "Συντελεστές: η μουσική, οι εικόνες και ο τρόπος προέλευσης"
-
-#: templates/static_pages/storyline.html:38
-msgid ""
-"We are very grateful to all those who helped make the video, especially its "
-"creators"
-msgstr ""
-"Είμαστε ευγνώμονες σε όλους όσοι βοήθησαν να γίνει το βίντεο, ιδιαίτερα "
-"στους δημιουργούς του"
-
-#: templates/static_pages/storyline.html:40
-msgid ""
-"Many of our partners gave us permission to use their images in the video. "
-"Thanks to our colleagues in the\n"
-"    organisations listed below."
-msgstr ""
-"Πολλοί από τους εταίρους μας, μάς έδωσαν την άδεια να χρησιμοποιήσουμε τις "
-"εικόνες τους στο βίντεο. Ευχαριστίες στους συναδέλφους μας, στους "
-"οργανισμούς που αναφέρονται πιο κάτω."
-
-#: templates/static_pages/storyline.html:43
-msgid "The music is primarily drawn from Irmin Schmidt's"
-msgstr "Η μουσική κατά κύριο λόγο προέρχεται από το έργο του Irmin Schmidt"
-
-#: templates/static_pages/storyline.html:43
-msgid "Those Fuzzy Things (out there)"
-msgstr "Αυτά τα Θαμπά Πράγματα (εκεί έξω)"
-
-#: templates/static_pages/storyline.html:43
-msgid ""
-"much appreciation to Cit&eacute;\n"
-"    de la Musique for enabling us to use it as the basis for our soundtrack."
-msgstr ""
-"πολλές ευχαριστίες στο Cité de la Musique που μας έδωσε τη δυνατότητα να το "
-"χρησιμοποιήσουμε ως βάση για την ηχητική απόδοση της ταινίας μας."
-
-#: templates/static_pages/storyline.html:51
-msgid "Collection"
-msgstr "Συλλογή"
-
-#: templates/static_pages/storyline.html:52
-msgid "Link"
-msgstr "Σύνδεσμος"
 
 #: templates/static_pages/usingeuropeana.html:11
 msgid ""
@@ -5282,13 +4825,10 @@ msgid "Refined search"
 msgstr "Επαναπροσδιορισμένη αναζήτηση"
 
 #: templates/static_pages/usingeuropeana.html:14
-#: templates/static_pages/usingeuropeana_search.html:39
-#: templates/static_pages/usingeuropeana_search.html:41
 msgid "Phrase search"
 msgstr "Αναζήτηση με φράση"
 
 #: templates/static_pages/usingeuropeana.html:14
-#: templates/static_pages/usingeuropeana_search.html:43
 msgid "Exclude words"
 msgstr "Αποκλεισμός λέξεων"
 
@@ -5405,74 +4945,6 @@ msgstr "στην επιλογή"
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "area"
 msgstr "περιοχή"
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:3
-msgid "Europeana - Using My Europeana"
-msgstr "Europeana - Χρήση της 'Η Europeana μου'"
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:10
-msgid "is your personal space on Europeana."
-msgstr "είναι ο προσωπικός σας χώρος στη Europeana."
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:11
-msgid "Register for"
-msgstr "Εγγραφή για"
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:11
-msgid "and you can"
-msgstr "και μπορείτε"
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:14
-msgid ""
-"Keep up to date on a particular topic in Europeana by saving a search, so "
-"you can easily perform it again in future."
-msgstr ""
-"Παραμείνετε ενημερωμένοι για ένα  συγκεκριμένο θέμα της Europeana με την "
-"αποθήκευση της αναζήτησης, ώστε να μπορείτε να την επαναλάβετε εύκολα και "
-"πάλι στο μέλλον."
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:15
-msgid ""
-"Label your favourite items in Europeana with tags that mean something to "
-"you. You can then see all objects you have tagged, sorted by the keywords "
-"you have chosen, in the My Europeana interface."
-msgstr ""
-"Τοποθετήστε ετικέτα στα αγαπημένα σας αντικείμενα στη Europeana με ετικέτες "
-"που σημαίνουν κάτι για σας. Μετά μπορείτε να δείτε όλα τα αντικείμενα στα "
-"οποία έχετε τοποθετήσει ετικέτες, ταξινομημένα σύμφωνα με τις λέξεις κλειδιά "
-"που έχετε επιλέξει, στη διεπαφή My Europeana."
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:16
-msgid "Store your favourite items for later viewing."
-msgstr "Αποθηκεύσετε τα αγαπημένα σας τεκμήρια για να τα δείτε αργότερα."
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:17
-msgid ""
-"If you are a developer who has registered for one or more API keys, these "
-"will be shown on the API Keys tab."
-msgstr ""
-"Αν είστε ο προγραμματιστής που έχει εγγραφεί για ένα ή πιο πολλά κλειδιά "
-"API, αυτά θα εμφανιστούν στην καρτέλα Κλειδιά API."
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:20
-msgid "To save a search, add a tag or save an item, simply login to"
-msgstr ""
-"Για να αποθηκεύσετε μιαν αναζήτηση, να προσθέσετε μιαν ετικέτα ή να "
-"αποθηκεύσετε ένα τεκμήριο, απλώς συνδεθείτε στο"
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:20
-msgid "and click on the relevant action from the menu."
-msgstr "και πατήστε το πλήκτρο για τη σχετική ενέργεια από το μενού."
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:21
-msgid "To view your saved items, searches and tags, use the"
-msgstr ""
-"Για να δείτε τα αποθηκευμένα τεκμήριά σας, αναζητήσεις και ετικέτες, "
-"χρησιμοποιήστε τα"
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:21
-msgid "shortcuts in the header."
-msgstr "συντομεύσεις στην επικεφαλίδα."
 
 #: templates/static_pages/usingeuropeana_results.html:3
 msgid "Europeana - Results in Europeana"
@@ -5775,688 +5247,872 @@ msgstr ""
 "αριθμός σε παρενθέσεις, π.χ. (33), δείχνει τον αριθμό των αποτελεσμάτων σε "
 "κάθε αναζήτηση. Απλώς πατήστε το σύνδεσμο για να εκτελέσει την αναζήτηση."
 
-#: templates/static_pages/usingeuropeana_search.html:3
-msgid "Europeana - Searching Europeana"
-msgstr "Europeana - Αναζήτηση στη Europeana"
-
-#: templates/static_pages/usingeuropeana_search.html:11
-msgid ""
-"Welcome to Europeana. This page describes some of the things that you can do "
-"while you are here. Learn more about:"
-msgstr ""
-"Καλώς ήρθατε στη Europeana. Αυτή η σελίδα περιγράφει μερικά από τα πράγματα "
-"που μπορείτε να κάνετε εδώ. Μάθετε περισσότερα για:"
-
-#: templates/static_pages/usingeuropeana_search.html:13
-msgid ""
-"Search tips, refined search, phrase search, exclude words, auto-completion, "
-"filter results, share your search."
-msgstr ""
-"Συμβουλές αναζήτησης, επαναπροσδιορισμένη αναζήτηση, αναζήτηση με φράση, "
-"αποκλειόμενες λέξεις, αυτο-συμπλήρωση, αποτελέσματα με φίλτρα, μοίρασμα "
-"έρευνας."
-
-#: templates/static_pages/usingeuropeana_search.html:14
-msgid "exhibitions, new content."
-msgstr "εκθέσεις, νέο περιεχόμενο."
-
-#: templates/static_pages/usingeuropeana_search.html:15
-msgid ""
-"Seeing further details, rights and licence information, translating details, "
-"searching on external services, related searches on Europeana, viewing item "
-"on provider's site, embedding, and citing."
-msgstr ""
-"Εμφάνιση περαιτέρω λεπτομερειών, πληροφοριών για πνευματικά δικαιώματα και "
-"αδειοδότηση, μετάφραση λεπτομερειών, αναζήτηση εξωτερικών υπηρεσιών και "
-"σχετικών αναζητήσεων στη Europeana, επισκόπηση τεκμηρίου στο δικτυακό τόπο "
-"του παρόχου, ενσωμάτωση και παραπομπή."
-
-#: templates/static_pages/usingeuropeana_search.html:16
-msgid "Saving searches, saving items, and adding tags."
-msgstr "Αποθήκευση αναζητήσεων, τεκμηρίων και προσθήκη ετικετών."
-
-#: templates/static_pages/usingeuropeana_search.html:19
-msgid "General Search"
-msgstr "Γενική αναζήτηση"
-
-#: templates/static_pages/usingeuropeana_search.html:21
-msgid ""
-"Searching the millions of items in Europeana is simple. Just enter your "
-"search term and hit"
-msgstr ""
-"Η αναζήτηση εκατομμυρίων αντικειμένων στη Europeana είναι απλή. Απλώς "
-"εισάγετε τον όρο αναζήτησης και πατήστε"
-
-#: templates/static_pages/usingeuropeana_search.html:23
-msgid "Specific search"
-msgstr "Ειδική αναζήτηση"
-
-#: templates/static_pages/usingeuropeana_search.html:25
-msgid "You can narrow your search with the arrow to the right of"
-msgstr "Μπορείτε να περιορίσετε την έρευνά σας με το τόξο δεξιά του"
-
-#: templates/static_pages/usingeuropeana_search.html:25
-msgid "Search All fields"
-msgstr "Αναζήτηση Όλων των Πεδίων"
-
-#: templates/static_pages/usingeuropeana_search.html:25
-msgid "and selecting a category"
-msgstr "και επιλογή μιας κατηγορίας"
-
-#: templates/static_pages/usingeuropeana_search.html:25
-msgid "Titles, Creators, Subjects, Dates/Periods, Places"
-msgstr "Τίτλοι, Δημιουργοί, Θέματα, Ημερομηνίες/Περίοδοι, Τοποθεσίες"
-
-#: templates/static_pages/usingeuropeana_search.html:25
-msgid "Then enter your search term and hit"
-msgstr "Μετά εισάγετε τον όρο αναζήτησης και πατήστε"
-
-#: templates/static_pages/usingeuropeana_search.html:27
-msgid ""
-"Alternatively, just ask yourself who, what, where or when you are interested "
-"in and type these words into Europeana's search box followed by a colon (:). "
-"Then enter your search term and hit"
-msgstr ""
-"Εναλλακτικά, απλώς διερωτηθείτε για ποιόν, τί, πού ή πότε ενδιαφέρεστε και "
-"πληκτρολογήστε αυτές τις λέξεις στο τετράγωνο αναζήτησης στη Europeana "
-"τοποθετώντας άνω κάτω τελεία (:). Μετά εισάγετε τον όρο αναζήτησης και "
-"πατήστε"
-
-#: templates/static_pages/usingeuropeana_search.html:29
-msgid "For specific searches, you could:"
-msgstr "Για ειδικές αναζητήσεις μπορείτε να:"
-
-#: templates/static_pages/usingeuropeana_search.html:31
-#: templates/static_pages/usingeuropeana_search.html:32
-#: templates/static_pages/usingeuropeana_search.html:33
-#: templates/static_pages/usingeuropeana_search.html:34
-msgid "Use the"
-msgstr "Χρησιμοποιήσετε το"
-
-#: templates/static_pages/usingeuropeana_search.html:31
-#: templates/static_pages/usingeuropeana_search.html:32
-#: templates/static_pages/usingeuropeana_search.html:33
-#: templates/static_pages/usingeuropeana_search.html:34
-msgid "filter or enter"
-msgstr "φίλτρο ή εισάγετε"
-
-#: templates/static_pages/usingeuropeana_search.html:31
-msgid ""
-"followed by a name of, for example, an actor, author or architect. Your "
-"results will display only items for which the name you entered is listed as "
-"the creator. For example, searching for"
-msgstr ""
-"ακολουθούμενο από το όνομα, για παράδειγμα, ενός ηθοποιού ή αρχιτέκτονα. Στα "
-"αποτελέσματά σας θα εμφανιστούν μόνο τεκμήρια για τα οποία το όνομα που "
-"εισάγατε καταγράφεται ως ο δημιουργός. Για παράδειγμα, η αναζήτηση για"
-
-#: templates/static_pages/usingeuropeana_search.html:31
-msgid ""
-"will narrow your results to van Gogh's works, excluding photographs of the "
-"artist or documentaries about him and his work."
-msgstr ""
-"θα περιορίσει τα αποτελέσματά σας στα έργα του Βαν Γκογκ, εκτός από "
-"φωτογραφίες του καλλιτέχνη ή ντοκιμαντέρ γι 'αυτόν και το έργο του."
-
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid ""
-"followed by a type of item, a subject you are interested in or words from "
-"the title of the item you are looking for. Your search results will display "
-"only items of the requested type or subject or items whose title includes "
-"your search term. For example, searching for"
-msgstr ""
-"ακολουθούμενο από ένα είδος τεκμηρίου, ένα θέμα που σας ενδιαφέρει ή λέξεις "
-"από τον τίτλο ενός τεκμηρίου που αναζητείτε. Στα αποτελέσματα της αναζήτησής "
-"σας θα εμφανιστούν μόνο τεκμήρια του αιτούμενου είδους ή θέματος ή τεκμήρια "
-"των οποίων ο τίτλος περιλαμβάνει τον όρο αναζήτησης.  Για παράδειγμα, η "
-"αναζήτηση για"
-
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid "will narrow your results to maps, or"
-msgstr "θα περιορίσει τα αποτελέσματά σας σε χάρτες, ή"
-
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid ""
-"will display artworks, buildings and monuments done in the Art Nouveau style."
-msgstr ""
-"θα εμφανίσει έργα τέχνης, κτήρια και μνημεία που έχουν κατασκευαστεί στο "
-"στυλ Αρ Νουβώ."
-
-#: templates/static_pages/usingeuropeana_search.html:33
-msgid "Place"
-msgstr "Τοποθεσία"
-
-#: templates/static_pages/usingeuropeana_search.html:33
-msgid ""
-"followed by a name of a town, city or country within Europe or around the "
-"world. Your search results will display only items which were created in, "
-"published in or depict the place you are searching for. For example, "
-"searching for"
-msgstr ""
-"ακολουθούμενο από ένα όνομα κωμόπολης, πόλης ή χώρας της Ευρώπης ή του "
-"κόσμου. Στα αποτελέσματα της αναζήτησής σας θα εμφανιστούν μόνο τεκμήρια που "
-"δημιουργήθηκαν, δημοσιεύτηκαν ή αναπαριστούν την τοποθεσία που αναζητείτε. "
-"Για παράδειγμα, η αναζήτηση για"
-
-#: templates/static_pages/usingeuropeana_search.html:33
-msgid ""
-"will help you differentiate your search when you are looking only for "
-"objects created or held in Milan, excluding items on writer Milan Kundera "
-"from your search results."
-msgstr ""
-"θα σας βοηθήσει να διαφοροποιήσετε την αναζήτησή σας όταν ψάχνετε μόνο για "
-"αντικείμενα που δημιουργήθηκαν ή βρίσκονται στο Μιλάνο, αποκλείοντας "
-"τεκμήρια του συγγραφέα Μίλαν Κούντερα από τα αποτελέσματα της αναζήτησής σας."
-
-#: templates/static_pages/usingeuropeana_search.html:34
-msgid ""
-"followed by a date (e.g. 1945) or a period (e.g. Roman or Medieval). Your "
-"search results will display only items for which the date is listed in the "
-"item's date field. For example, searching for"
-msgstr ""
-"ακολουθούμενο από τη χρονολογία (π.χ. 1945) ή την περίοδο (π.χ. Ρωμαϊκή ή "
-"Μεσαιωνική). Στα αποτελέσματα της αναζήτησή σας θα εμφανιστούν μόνο τεκμήρια "
-"για τα οποία καταγράφεται η χρονολογία στο πεδίο χρονολογίας του τεκμηρίου. "
-"Για παράδειγμα, η αναζήτηση για"
-
-#: templates/static_pages/usingeuropeana_search.html:34
-msgid ""
-"will help you differentiate your search when you are looking only for items "
-"dated 1984, excluding items that have 1984 in their title or description, "
-"like George Orwell's novel."
-msgstr ""
-"θα σας βοηθήσει να διαφοροποιήσετε την αναζήτησή σας όταν ψάχνετε μόνο για "
-"τεκμήρια που χρονολογούνται το 1984, αποκλείοντας τεκμήρια που έχουν το 1984 "
-"στον τίτλο ή στην περιγραφή, όπως το μυθιστόρημα του George Orwell."
-
-#: templates/static_pages/usingeuropeana_search.html:37
-msgid ""
-"These search functions also have support for different spellings and "
-"languages. For example, when you search for"
-msgstr ""
-"Επίσης αυτές οι λειτουργίες αναζήτησης υποστηρίζουν διαφορετική ορθογραφία "
-"και γλώσσες. Για παράδειγμα, όταν αναζητείτε για"
-
-#: templates/static_pages/usingeuropeana_search.html:37
-msgid ""
-"the results will also include items with Milano, Mailand or Milanas listed "
-"as their geographic coverage."
-msgstr ""
-"τα αποτελέσματα θα περιλαμβάνουν επίσης στοιχεία με Milano, Μιλάνο ή Milanas "
-"που αναφέρονται ως η γεωγραφική κάλυψη τους."
-
-#: templates/static_pages/usingeuropeana_search.html:41
-msgid "is also possible. Just put"
-msgstr "είναι επίσης δυνατή. Απλά βάλτε"
-
-#: templates/static_pages/usingeuropeana_search.html:41
-msgid "quotation marks"
-msgstr "εισαγωγικά"
-
-#: templates/static_pages/usingeuropeana_search.html:41
-msgid "e.g."
-msgstr "π.χ."
-
-#: templates/static_pages/usingeuropeana_search.html:41
-msgid "around the phrase you want to find, or type"
-msgstr "γύρω από τη φράση που θέλετε να βρείτε, ή πληκτρολογήσετε"
-
-#: templates/static_pages/usingeuropeana_search.html:41
-msgid "between the keywords (e.g."
-msgstr "μεταξύ των λέξεων-κλειδιών (π.χ."
-
-#: templates/static_pages/usingeuropeana_search.html:43
-msgid "by typing"
-msgstr "πληκτρολογώντας"
-
-#: templates/static_pages/usingeuropeana_search.html:43
-msgid "in capital letters, followed by the word you want to omit (e.g."
-msgstr ""
-"με κεφαλαία γράμματα, ακολουθούμενη από τη λέξη που θέλετε να παραλείψετε (π."
-"χ."
-
-#: templates/static_pages/usingeuropeana_search.html:45
-msgid "Another helpful search feature is"
-msgstr "Άλλο χρήσιμο χαρακτηριστικό αναζήτησης είναι"
-
-#: templates/static_pages/usingeuropeana_search.html:45
-msgid "Auto completion"
-msgstr "Αυτόματη συμπλήρωση"
-
-#: templates/static_pages/usingeuropeana_search.html:45
-msgid ""
-"Start typing a search term. Europeana will suggest words that may match what "
-"you are thinking of. Just select the term you want and hit"
-msgstr ""
-"Αρχίστε να πληκτρολογείτε έναν όρο αναζήτησης. Η Europeana θα προτείνει "
-"λέξεις που ίσως ταιριάζουν με αυτό που σκέπτεστε. Απλώς επιλέξτε τον όρο που "
-"επιθυμείτε και πατήστε"
-
-#: templates/static_pages/usingeuropeana_search.html:47
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid "Refine your search"
-msgstr "Επαναπροσδιορισμός αναζήτησης"
-
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid ""
-"Once you have done an initial search, results can be narrowed down with the"
-msgstr ""
-"Αφού έχετε διενεργήσει την αρχική αναζήτηση, τα αποτελέσματα μπορούν να "
-"περιοριστούν με"
-
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid ""
-"functions. These are in the grey pane on the search results screen. You can "
-"add more keywords to your search, thereby narrowing the search results. Just "
-"type your keyword into the"
-msgstr ""
-"λειτουργίες. Αυτές εμφανίζονται σε γκρίζα επιλογή στην οθόνη αποτελεσμάτων "
-"αναζήτησης. Μπορείτε να προσθέσετε πιο πολλές λέξεις κλειδιά στην αναζήτησή "
-"σας για να περιορίσετε τα αποτελέσματα αναζήτησης. Απλώς πληκτρολογήστε τη "
-"λέξη κλειδί στο"
-
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid "field and hit"
-msgstr "πεδίο και πατήστε"
-
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid "The keyword is displayed at the top of the pane, under"
-msgstr "Η λέξη κλειδί παρουσιάζεται στην κορυφή της επιλογής, κάτω"
-
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid "Matches for."
-msgstr "Ταιριάζει για."
-
-#: templates/static_pages/usingeuropeana_search.html:51
-msgid "To remove a keyword, hit the X icon next to the relevant keyword in the"
-msgstr ""
-"Για να αφαιρέσετε μία λέξη κλειδί, πατήστε το εικονίδιο Χ δίπλα στη σχετική "
-"λέξη κλειδί στο"
-
-#: templates/static_pages/usingeuropeana_search.html:51
-msgid "list."
-msgstr "κατάλογο."
-
-#: templates/static_pages/usingeuropeana_search.html:53
-msgid "You can also"
-msgstr "Μπορείτε επίσης να"
-
-#: templates/static_pages/usingeuropeana_search.html:53
-msgid "filter your search results:"
-msgstr "να φιλτράρετε τα αποτελέσματα αναζήτησης:"
-
-#: templates/static_pages/usingeuropeana_search.html:55
-msgid ""
-"will display only objects of a selected media type (images, text, video, "
-"sound or 3D). "
-msgstr ""
-"θα εμφανίσει μόνο τα αντικείμενα ενός επιλεγμένου τύπου μέσων (εικόνες, "
-"κείμενο, βίντεο, ήχος ή τρισδιάστατο)."
-
-#: templates/static_pages/usingeuropeana_search.html:56
-msgid "By language"
-msgstr "Κατά γλώσσα"
-
-#: templates/static_pages/usingeuropeana_search.html:56
-msgid ""
-"will display only objects with descriptions in selected languages, i.e. the "
-"language of the institution that provided the object to Europeana."
-msgstr ""
-"θα εμφανίσει μόνο αντικείμενα με περιγραφές σε επιλεγμένες γλώσσες, π.χ. η "
-"γλώσσα ενός ιδρύματος το οποίο παρέχει το αντικείμενο στη Europeana."
-
-#: templates/static_pages/usingeuropeana_search.html:57
-msgid "By date"
-msgstr "Με ημερομηνία"
-
-#: templates/static_pages/usingeuropeana_search.html:57
-msgid "will display only objects with selected dates."
-msgstr "θα εμφανίσει μόνο αντικείμενα με επιλεγμένες χρονολογίες."
-
-#: templates/static_pages/usingeuropeana_search.html:58
-msgid "By country"
-msgstr "Κατά χώρα"
-
-#: templates/static_pages/usingeuropeana_search.html:58
-msgid ""
-"will display only objects from selected countries, i.e. the country of the "
-"institution that provided the object to Europeana."
-msgstr ""
-"θα εμφανίσει μόνο αντικείμενα από επιλεγμένες χώρες, π.χ. η χώρα του "
-"ιδρύματος, το οποίο παρέχει το αντικείμενο στη Europeana."
-
-#: templates/static_pages/usingeuropeana_search.html:59
-msgid ""
-"will display objects labelled with the selected copyright label(s). This "
-"copyright label indicates how you may reuse the digital object, including "
-"the preview."
-msgstr ""
-"θα εμφανίσει αντικείμενα που τιτλοφορούνται με την επιλεγμένη ετικέτα "
-"πνευματικών δικαιωμάτων. Η ετικέτα πνευματικών δικαιωμάτων δηλώνει πώς "
-"μπορείτε να επαναχρησιμοποιήσετε το ψηφιακό αντικείμενο, περιλαμβάνοντας την "
-"προεπισκόπηση."
-
-#: templates/static_pages/usingeuropeana_search.html:60
-msgid "will display only objects from selected institutions"
-msgstr "θα εμφανίσει μόνο αντικείμενα από επιλεγμένα ιδρύματα"
-
-#: templates/static_pages/usingeuropeana_search.html:63
-msgid ""
-"Select the filter name, e.g. 'By language' to expand it. Then just use the "
-"check boxes for the categories you wish the search results to include. The "
-"results will refresh automatically. The filter will be added to the"
-msgstr ""
-"Επιλέξτε το όνομα του φίλτρου, π.χ. 'κατά γλώσσα' για να επεκτείνετε. Μετά "
-"απλώς χρησιμοποιήστε το τετραγωνίδιο ελέγχου για τις κατηγορίες που "
-"επιθυμείτε να περιλαμβάνουν αποτελέσματα αναζήτησης. Τα αποτελέσματα θα "
-"φρεσκαριστούν αυτόματα. Το φίλτρο θα προστεθεί στον"
-
-#: templates/static_pages/usingeuropeana_search.html:63
-msgid "list at the top of the pane."
-msgstr "κατάλογο στην κορυφή της επιλογής."
-
-#: templates/static_pages/usingeuropeana_search.html:65
-msgid "To remove a filter, hit the X icon next to the item in the"
-msgstr ""
-"Για να αφαιρέσετε ένα φίλτρο, πατήστε το εικονίδιο Χ δίπλα στο τεκμήριο στο"
-
-#: templates/static_pages/usingeuropeana_search.html:65
-msgid "list, or de-select the check box next to the filter category."
-msgstr ""
-"κατάλογο, ή αποεπιλέξτε το τετραγωνίδιο ελέγχου δίπλα στην κατηγορία φίλτρου."
-
-#: templates/static_pages/usingeuropeana_search.html:67
-msgid "You can also select to"
-msgstr "Επίσης μπορείτε να επιλέξετε τε"
-
-#: templates/static_pages/usingeuropeana_search.html:67
-msgid ""
-"This means items that have not come from a cultural institution but from an "
-"individual user, for example, items contributed to the Europeana 1914-1918 "
-"project."
-msgstr ""
-"Αυτό σημαίνει τεκμήρια που δεν προέρχονται από πολιτιστικό ίδρυμα αλλά από "
-"ατομικό χρήστη, για παράδειγμα, τεκμήρια που συνεισφέρονται στο έργο "
-"Europeana 1914-1918."
-
-#: templates/static_pages/usingeuropeana_search.html:69
-msgid "Share your search with friends by choosing"
-msgstr "Μοιραστείτε την αναζήτησή σας με φίλους επιλέγοντας"
-
-#: templates/static_pages/usingeuropeana_search.html:69
-msgid ""
-"A full list of social media sharing options is presented. Just select one "
-"you want. This also includes print and email options."
-msgstr ""
-"Παρουσιάζεται πλήρης κατάλογος επιλογών μοιράσματος κοινωνικών μέσων. Απλώς "
-"επιλέξτε αυτό που θέλετε. Αυτό επίσης περιλαμβάνει επιλογές για εκτύπωση και "
-"ηλ.-ταχυδρομείο."
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:3
+#~ msgid "Europeana - New Content"
+#~ msgstr "Europeana - Νέο περιεχόμενο"
+
+#~ msgid "Europeana - Storyline and credits"
+#~ msgstr "Europeana - Λωρίδα ιστοριών και ονόματα συντελεστών"
+
+#~ msgid "Descartes"
+#~ msgstr "Ντεκάρτ"
+
+#~ msgid "The best place to start is with"
+#~ msgstr "Το καλύτερο μέρος για να ξεκινήσετε είναι με"
+
+#~ msgid "Rene Descartes"
+#~ msgstr "Ρενέ Ντεκάρτ"
+
+#~ msgid ""
+#~ "the man who made thinking central to our experience of the world. Cogito "
+#~ "ergo sum wrote Descartes in 1644 in his Principia Philosophiae: I think, "
+#~ "therefore I am. Descartes was the father of modern philosophy, and one of "
+#~ "the great European thinkers of his time, writing in French and Latin, "
+#~ "working and publishing in the Netherlands."
+#~ msgstr ""
+#~ "ο άνθρωπος που έφερε τη σκέψη στο επίκεντρο της εμπειρίας μας για τον "
+#~ "κόσμο. Το 1644 ο Ντεκάρτ έγραψε το Cogito ergo sum: σκέπτομαι άρα υπάρχω "
+#~ "στο Principia Philosophiae (Αρχές Φιλοσοφίας). Ο Ντεκάρτ ήταν ο πατέρας "
+#~ "της σύγχρονης φιλοσοφίας και ένας από τους μεγάλους Ευρωπαίους στοχαστές "
+#~ "της εποχής του, γράφοντας στα Γαλλικά και στα Λατινικά, εργαζόμενος και "
+#~ "δημοσιεύοντας στην Ολλανδία."
+
+#~ msgid "Newton"
+#~ msgstr "Νεύτωνας"
+
+#~ msgid ""
+#~ "He defined laws of reflection and refraction, worked on the structure of "
+#~ "the brain, the new physics and mathematics. He was a major influence on"
+#~ msgstr ""
+#~ "Όρισε τους νόμους της αντανάκλασης και της διάθλασης, εργάστηκε για τη "
+#~ "δομή του εγκεφάλου, τη νέα φυσική και τα μαθηματικά. Είχε σημαντική "
+#~ "επιρροή στον"
+
+#~ msgid "Isaac Newton"
+#~ msgstr "Ισαάκ Νεύτων"
+
+#~ msgid ""
+#~ "whose laws of gravity were famously inspired by watching an apple fall. "
+#~ "Newton's three laws of motion were published in 1687 in his"
+#~ msgstr ""
+#~ "του οποίου οι νόμοι της βαρύτητας ήταν ως γνωστόν εμπνευσμένοι από την "
+#~ "παρατήρηση της πτώσης του μήλου. Οι τρεις νόμοι του Νεύτωνα για την "
+#~ "κίνηση δημοσιεύτηκαν το 1687 στο έργο του"
+
+#~ msgid "Philosophiae Naturalis Principia Mathematica"
+#~ msgstr "Μαθηματικές Αρχές Φυσικής Φιλοσοφίας"
+
+#~ msgid "Darwin"
+#~ msgstr "Δαρβίνος"
+
+#~ msgid ""
+#~ "The apple is the symbol of another fall; that of Adam and Eve, who on "
+#~ "eating the fruit of the Tree of Knowledge of Good and Evil are banished "
+#~ "from Eden. The fundamental challenge to the story of the Creation and the "
+#~ "Fall is the Theory of Evolution, set out by"
+#~ msgstr ""
+#~ "Το μήλο είναι το σύμβολο μιας άλλης πτώσης. Αυτής του Αδάμ και της Εύας, "
+#~ "οι οποίοι επειδή έφαγαν τον καρπό από το Δέντρο της Γνώσης του Καλού και "
+#~ "του Κακού εξορίστηκαν από τον Παράδεισο. Η βασική πρόκληση για την "
+#~ "ιστορία της Δημιουργίας και του Προπατορικού Αμαρτήματος είναι η Θεωρία "
+#~ "της Εξέλιξης, την οποία ξεκίνησε ο"
+
+#~ msgid "Charles Darwin"
+#~ msgstr "Κάρολος Δαρβίνος"
+
+#~ msgid "in his famous 1859 book"
+#~ msgstr "στο διάσημο βιβλίο του 1859"
+
+#~ msgid "On the Origin of Species"
+#~ msgstr "Περί της Καταγωγής των Ειδών"
+
+#~ msgid ""
+#~ "Darwin recognised that species were not static, but evolved to improve "
+#~ "their chances of survival. His theories began to develop while he was the "
+#~ "naturalist and geologist on board the ship Beagle, on a 5 year voyage "
+#~ "surveying the coast of South America."
+#~ msgstr ""
+#~ "Ο Δαρβίνος αναγνώρισε ότι τα είδη δεν ήταν στατικά, αλλά εξελίχθηκαν για "
+#~ "να βελτιώσουν τις πιθανότητες επιβίωσής τους. Οι θεωρίες του άρχισαν να "
+#~ "αναπτύσσονται, ενώ βρισκόταν ως φυσιοδίφης και γεωλόγος εν πλω με το "
+#~ "πλοίο Beagle, σε ένα ταξίδι 5 ετών για την τοπογράφηση των ακτών της "
+#~ "Νότιας Αμερικής."
+
+#~ msgid "Wedgwood"
+#~ msgstr "Ουέτζγουντ"
+
+#~ msgid ""
+#~ "Darwin's genius was the product of an English family of talent and "
+#~ "reputation. He was the grandson of"
+#~ msgstr ""
+#~ "Η μεγαλοφυΐα του Δαρβίνου ήταν το προϊόν μιας αγγλικής οικογένειας με "
+#~ "ταλέντο και υπόληψη. Ήταν εγγονός του"
+
+#~ msgid "Josiah Wedgwood"
+#~ msgstr "Τζόσια Ουέτζγουντ"
+
+#~ msgid ""
+#~ "one of the great entrepreneurs of the industrial revolution. Taking "
+#~ "inspiration from Greek, Etruscan and Roman styles, especially the "
+#~ "Portland Vase, he created a range of neo-classical pottery that delighted "
+#~ "the new English merchant classes, keen to display their sophistication "
+#~ "with references to design classics. Wedgwood used scientific innovation, "
+#~ "factory techniques of mass production and the new canal network of the UK "
+#~ "to transport his fragile wares to the new consumers of the growing towns "
+#~ "and cities."
+#~ msgstr ""
+#~ "ένας από τους μεγάλους επιχειρηματίες της βιομηχανικής επανάστασης. "
+#~ "Εμπνεόμενος από ελληνικά, ετρουσκανά και ρωμαϊκά πρότυπα, ειδικά το "
+#~ "Αγγείο Πόρτλαντ, δημιούργησε μια σειρά από νεοκλασικά κεραμικά που "
+#~ "γοήτευσαν τις νέες αγγλικές εμπορικές τάξεις, που ενδιαφέρονταν να "
+#~ "εκθέσουν την επιτήδευσή τους με αναφορές σε κλασικά σχέδια. Ο Ουέτζγουντ "
+#~ "χρησιμοποίησε επιστημονική καινοτομία, εργοστασιακές τεχνικές μαζικής "
+#~ "παραγωγής και το νέο κανάλι του Ηνωμένου Βασιλείου για τη μεταφορά των "
+#~ "εύθραυστων αγγείων, στους νέους καταναλωτές των κωμοπόλεων και πόλεων, οι "
+#~ "οποίες αυξάνονταν σε μέγεθος."
+
+#~ msgid "Abolition"
+#~ msgstr "Κατάργηση της Δουλείας"
+
+#~ msgid "A philanthropic employer, Wedgwood was also an early support of"
+#~ msgstr ""
+#~ "Ένας φιλάνθρωπος εργοδότης, ο Ουέτζγουντ ήταν επίσης ο πρώιμος "
+#~ "υποστηρικτής της"
+
+#~ msgid "abolition"
+#~ msgstr "κατάργησης της δουλείας"
+
+#~ msgid ""
+#~ "He was a founder member of the Society for the Abolition of the Slave "
+#~ "Trade. His support was most memorably expressed in the cameos he produced "
+#~ "in the 1780s, showing a chained slave with the motto Am I not a Man and a "
+#~ "Brother? Distributed in their thousands, these became the first protest "
+#~ "fashion accessory."
+#~ msgstr ""
+#~ "Υπήρξε ιδρυτικό μέλος της Εταιρείας για την Κατάργηση του Δουλεμπορίου. Η "
+#~ "υποστήριξή του εκφράστηκε με αξιομνημόνευτο τρόπο στις καμέες που "
+#~ "παρήγαγε στη δεκαετία του 1780, παρουσιάζοντας έναν αλυσοδεμένο σκλάβο με "
+#~ "το σύνθημα Δεν Είμαι Άνθρωπος και Αδελφός; Επειδή διανεμήθηκε κατά "
+#~ "χιλιάδες, αυτές έγιναν τα πρώτα εξαρτήματα μόδας για διαμαρτυρίες."
+
+#~ msgid "Migration"
+#~ msgstr "Μετανάστευση"
+
+#~ msgid ""
+#~ "The anti-slavery campaigners succeeded in abolishing the slave trade in "
+#~ "1807 and in the following years it was outlawed in the colonies of "
+#~ "western Europe. But the ideal of equality on which it was founded "
+#~ "continued to inspire. Over a century on, it fuelled the political "
+#~ "aspirations that drove the colonial independence movements."
+#~ msgstr ""
+#~ "Η εκστρατεία κατά της δουλείας πέτυχε την κατάργηση του δουλεμπορίου το "
+#~ "1807 και τα επόμενα χρόνια ήταν εκτός νόμου στις αποικίες της Δυτικής "
+#~ "Ευρώπης. Όμως, το ιδανικό της ισότητας πάνω στην οποία ιδρύθηκε, συνέχισε "
+#~ "να εμπνέει. Για περισσότερο από έναν αιώνα, πυροδότησε τις πολιτικές "
+#~ "φιλοδοξίες που οδήγησαν στις αποικιακές κινήσεις ανεξαρτησίας. Η"
+
+#~ msgid ""
+#~ "from the former colonies in recent decades has pushed concern for "
+#~ "equality of opportunity up the political agenda as Europe has become "
+#~ "increasingly diverse."
+#~ msgstr ""
+#~ "από τις πρώην αποικίες των τελευταίων δεκαετιών έδωσε ώθηση στη μέριμνα "
+#~ "για την ισότητα των ευκαιριών στην πολιτική ημερήσια διάταξη, καθώς η "
+#~ "Ευρώπη γινόταν ολοένα και πιο πολύμορφη."
+
+#~ msgid "Bridgetower"
+#~ msgstr "Μπριτζτάουερ"
+
+#~ msgid ""
+#~ "Talented Europeans of African descent were making their mark in the "
+#~ "capitals of Europe even as the abolition movement was gathering "
+#~ "supporters."
+#~ msgstr ""
+#~ "Ταλαντούχοι Ευρωπαίοι αφρικανικής καταγωγής είχαν βάλει τη σφραγίδα τους "
+#~ "στις πρωτεύουσες της Ευρώπης, ακόμη και όταν το κίνημα για την κατάργηση "
+#~ "της δουλείας συγκέντρωνε υποστηρικτές οπαδούς. Ο"
+
+#~ msgid "was the Polish-born son of a West Indian servant of the"
+#~ msgstr ""
+#~ "ήταν ο γιος, γεννημένος στην Πολωνία, του υπηρέτη από τις Δυτικές Ινδίες "
+#~ "του"
+
+#~ msgid "Prince Esterh&aacute;zy"
+#~ msgstr "Πρίγκηπα Εστερχάζι"
+
+#~ msgid ""
+#~ "Joseph Haydn's Hungarian patron. He was a musical prodigy whose talent "
+#~ "was quickly spotted, and he made his debut in Paris at the age of 9. One "
+#~ "reviewer noted his talent is one of the best replies one can give to "
+#~ "philosophers who wish to deprive people of his nation and his colour of "
+#~ "the opportunity to distinguish themselves in the arts."
+#~ msgstr ""
+#~ "του Ούγγρου προστάτη του Γιόζεφ Χάιντν. Ήταν μια μουσική ιδιοφυία, του "
+#~ "οποίου το ταλέντο γρήγορα ξεχώρισε και  έκανε το ντεμπούτο του στο Παρίσι "
+#~ "σε ηλικία 9 ετών. Ένας κριτικός σημείωσε ότι το ταλέντο του είναι μια από "
+#~ "τις καλύτερες απαντήσεις που μπορεί κανείς να δώσει σε φιλοσόφους, οι "
+#~ "οποίοι επιθυμούν να αποστερήσουν τους ανθρώπους του ιδίου έθνους και "
+#~ "χρώματος με εκείνον από τη δυνατότητα να διακριθούν στις τέχνες."
+
+#~ msgid "Beethoven"
+#~ msgstr "Μπετόβεν"
+
+#~ msgid "By 1803, Bridgetower was giving the premiere of"
+#~ msgstr "Γύρω στο 1803, ο Μπριτζτάουερ έκανε την πρεμιέρα της"
+
+#~ msgid "Beethoven's Kreutzer sonata (Op.47)"
+#~ msgstr "σονάτα Kreutzer του Μπετόβεν (Έργο 47)"
+
+#~ msgid ""
+#~ "He played the violin part, Beethoven the piano. So delighted was "
+#~ "Beethoven with the performance that he initially dedicated the sonata to "
+#~ "Bridgetower and gave him his tuning fork."
+#~ msgstr ""
+#~ "Έπαιξε το ρόλο του βιολιού και ο Μπετόβεν του πιάνου. Τόσο πολύ "
+#~ "γοητεύτηκε ο Μπετόβεν με την παράσταση, που αφιέρωσε αρχικά τη σονάτα "
+#~ "στον Μπριτζτάουερ και του έδωσε το διαπασών του."
+
+#~ msgid "Ludwig van Beethoven"
+#~ msgstr "Ο Λουντβίχ Βαν Μπετόβεν"
+
+#~ msgid "is the greatest of the Romantic composers: his Third Symphony, the "
+#~ msgstr ""
+#~ "είναι ο μεγαλύτερος από τους συνθέτες της Ρομαντικής Σχολής: η Τρίτη "
+#~ "Συμφωνία του, η "
+
+#~ msgid "Eroica"
+#~ msgstr "Ερόικα"
+
+#~ msgid "was originally dedicated to"
+#~ msgstr "ήταν αρχικά αφιερωμένη στον"
+
+#~ msgid "Napoleon"
+#~ msgstr "Ναπολέοντα"
+
+#~ msgid ""
+#~ "who he believed ushered in an age of democracy and republican ideals. "
+#~ "When Napoleon fell short, Beethoven scratched the dedication from the "
+#~ "manuscript so forcefully he tore a hole through the paper."
+#~ msgstr ""
+#~ "ο οποίος πίστευε ότι μπαίνει στην εποχή της δημοκρατίας και των ιδανικών "
+#~ "της δημοκρατίας. Όταν ο Ναπολέων αποδείχτηκε κατώτερος των περιστάσεων, ο "
+#~ "Μπετόβεν διέγραψε την αφιέρωση από το χειρόγραφο τόσο έντονα που άνοιξε "
+#~ "μια τρύπα στο χαρτί."
+
+#~ msgid "Rossini"
+#~ msgstr "Ροσίνι"
+
+#~ msgid ""
+#~ "Beethoven's genius was felt across Europe and had a profound influence on "
+#~ "the succeeding generation of composers, including"
+#~ msgstr ""
+#~ "Η ιδιοφυΐα του Μπετόβεν έγινε αισθητή σε ολόκληρη την Ευρώπη και είχε "
+#~ "βαθιά επίδραση στην επόμενη γενιά συνθετών, όπως ο"
+
+#~ msgid "Gioachino Antonio Rossini"
+#~ msgstr "Τζιοακίνο Αντόνιο Ροσίνι"
+
+#~ msgid ""
+#~ "Rossini travelled to Vienna in 1822, where he met the master. His "
+#~ "reverence was such that he asked for Beethoven's Funeral March to be "
+#~ "played at his burial in Paris."
+#~ msgstr ""
+#~ "Ο Ροσίνι ταξίδεψε στη Βιένη το 1822, όπου συνάντησε τον δάσκαλο. Η "
+#~ "ευλάβειά του ήταν τέτοια που ο ίδιος ζήτησε να παιχθεί στην κηδεία Η "
+#~ "Πένθιμη Συμφωνία του Μπετόβεν."
+
+#~ msgid ""
+#~ "Rossini's popularity continued into the 20th century. The most famous "
+#~ "diva of the time,"
+#~ msgstr ""
+#~ "Η δημοτικότητα του Ροσίνι συνεχίστηκε στον 20ο αιώνα. Η πιο διάσημη ντίβα "
+#~ "της εποχής, η"
+
+#~ msgid "Maria Callas"
+#~ msgstr "Μαρία Κάλλας"
+
+#~ msgid ""
+#~ "was one of his great interpreters; Una voce poco fa, Rosina's famous aria "
+#~ "from"
+#~ msgstr ""
+#~ "ήταν μία από τις μεγάλες ερμηνεύτριές του. Una voce poco fa, η φημισμένη "
+#~ "άρια του Ροσίνι από την όπερα"
+
+#~ msgid "The Barber of Seville"
+#~ msgstr "Ο Κουρέας της Σεβίλλης"
+
+#~ msgid ""
+#~ "was a fixture in her concert repertoire. Rossini's speed for musical "
+#~ "composition was legendary, particularly of"
+#~ msgstr ""
+#~ "ήταν ένα προσάρτημα στο συμφωνικό ρεπερτόριό της. Η ταχύτητα του Ροσίνι "
+#~ "για μουσική σύνθεση ήταν θρυλική, ιδιαίτερα στο"
+
+#~ msgid "La Gazza Ladra - The Thieving Magpie"
+#~ msgstr "La Ladra Gazza - Η κλέφτρα κίσσα"
+
+#~ msgid "Magpies and mirrors"
+#~ msgstr "Κίσσες και καθρέφτες"
+
+#~ msgid ""
+#~ "The title refers to the magpie's eye for shining things; like Europeana, "
+#~ "it gathers treasures."
+#~ msgstr ""
+#~ "Ο τίτλος παραπέμπει στο μάτι της κίσσας για τα πράγματα που λάμπουν. Όπως "
+#~ "η Europeana, συγκεντρώνει θησαυρούς."
+
+#~ msgid "The magpie"
+#~ msgstr "Η κίσσα"
+
+#~ msgid ""
+#~ "is also believed to be the only non-mammal that can recognise its "
+#~ "reflection in a mirror; which brings us back to Descartes' interest in "
+#~ "reflection and refraction. Artists through the ages have similarly been "
+#~ "fascinated with the properties of light and perception as depicted in the "
+#~ "vivid translucency of Renaissance and Baroque portraits; the perspective "
+#~ "of"
+#~ msgstr ""
+#~ "πιστεύεται επίσης ότι είναι το μόνο μη θηλαστικό που μπορεί να "
+#~ "αναγνωρίσει το είδωλό του στον καθρέφτη. Αυτό μας πάει πίσω στο "
+#~ "ενδιαφέρον του Ντεκάρτ για την αντανάκλαση και τη διάθλαση. Δια μέσου των "
+#~ "αιώνων οι καλλιτέχνες έχουν γοητευτεί με όμοιο τρόπο από τις ιδιότητες "
+#~ "του φωτός και της αντίληψης, όπως απεικονίζεται το φως στη ζωντανή "
+#~ "διαύγεια των πορτρέτων της Αναγέννησης και του Μπαρόκ, την προοπτική του"
+
+#~ msgid "Johannes Vermeer"
+#~ msgstr "Γιοζάνες Βερμέερ"
+
+#~ msgid ""
+#~ "enthralled by the discoveries of the Scientific revolution; the technical "
+#~ "virtuosity of 19th century Pointillists which led onto 20th century "
+#~ "Cubism, where both objects and space merge."
+#~ msgstr ""
+#~ "που συνάρπασε με τα ευρήματα της επιστημονικής επανάστασης, την τεχνική "
+#~ "δεξιοτεχνία των Pointillists του 19ου αιώνα που οδήγησε στον κυβισμό του "
+#~ "20ου αιώνα κυβισμού, όπου τα αντικείμενα συγχωνεύονται με το χώρο."
+
+#~ msgid ""
+#~ "Most of all, the eyes, the faces, the ideas from the past invite us to "
+#~ "think again: to take inspiration, to make new connections and to share "
+#~ "new discoveries."
+#~ msgstr ""
+#~ "Πάνω από όλα, τα μάτια, τα πρόσωπα, οι ιδέες από το παρελθόν μάς "
+#~ "προσκαλούν να σκεφτούμε ξανά: να εμπνευστούμε, να κάνουμε νέες επαφές και "
+#~ "να μοιραστούμε νέες ανακαλύψεις."
+
+#~ msgid "Credits: the music, the images and where they came from"
+#~ msgstr "Συντελεστές: η μουσική, οι εικόνες και ο τρόπος προέλευσης"
+
+#~ msgid ""
+#~ "We are very grateful to all those who helped make the video, especially "
+#~ "its creators"
+#~ msgstr ""
+#~ "Είμαστε ευγνώμονες σε όλους όσοι βοήθησαν να γίνει το βίντεο, ιδιαίτερα "
+#~ "στους δημιουργούς του"
+
+#~ msgid ""
+#~ "Many of our partners gave us permission to use their images in the video. "
+#~ "Thanks to our colleagues in the\n"
+#~ "    organisations listed below."
+#~ msgstr ""
+#~ "Πολλοί από τους εταίρους μας, μάς έδωσαν την άδεια να χρησιμοποιήσουμε "
+#~ "τις εικόνες τους στο βίντεο. Ευχαριστίες στους συναδέλφους μας, στους "
+#~ "οργανισμούς που αναφέρονται πιο κάτω."
+
+#~ msgid "The music is primarily drawn from Irmin Schmidt's"
+#~ msgstr "Η μουσική κατά κύριο λόγο προέρχεται από το έργο του Irmin Schmidt"
+
+#~ msgid "Those Fuzzy Things (out there)"
+#~ msgstr "Αυτά τα Θαμπά Πράγματα (εκεί έξω)"
+
+#~ msgid ""
+#~ "much appreciation to Cit&eacute;\n"
+#~ "    de la Musique for enabling us to use it as the basis for our "
+#~ "soundtrack."
+#~ msgstr ""
+#~ "πολλές ευχαριστίες στο Cité de la Musique που μας έδωσε τη δυνατότητα να "
+#~ "το χρησιμοποιήσουμε ως βάση για την ηχητική απόδοση της ταινίας μας."
+
+#~ msgid "Collection"
+#~ msgstr "Συλλογή"
+
+#~ msgid "Link"
+#~ msgstr "Σύνδεσμος"
+
+#~ msgid "Europeana - Using My Europeana"
+#~ msgstr "Europeana - Χρήση της 'Η Europeana μου'"
+
+#~ msgid "is your personal space on Europeana."
+#~ msgstr "είναι ο προσωπικός σας χώρος στη Europeana."
+
+#~ msgid "Register for"
+#~ msgstr "Εγγραφή για"
+
+#~ msgid "and you can"
+#~ msgstr "και μπορείτε"
+
+#~ msgid ""
+#~ "Keep up to date on a particular topic in Europeana by saving a search, so "
+#~ "you can easily perform it again in future."
+#~ msgstr ""
+#~ "Παραμείνετε ενημερωμένοι για ένα  συγκεκριμένο θέμα της Europeana με την "
+#~ "αποθήκευση της αναζήτησης, ώστε να μπορείτε να την επαναλάβετε εύκολα και "
+#~ "πάλι στο μέλλον."
+
+#~ msgid ""
+#~ "Label your favourite items in Europeana with tags that mean something to "
+#~ "you. You can then see all objects you have tagged, sorted by the keywords "
+#~ "you have chosen, in the My Europeana interface."
+#~ msgstr ""
+#~ "Τοποθετήστε ετικέτα στα αγαπημένα σας αντικείμενα στη Europeana με "
+#~ "ετικέτες που σημαίνουν κάτι για σας. Μετά μπορείτε να δείτε όλα τα "
+#~ "αντικείμενα στα οποία έχετε τοποθετήσει ετικέτες, ταξινομημένα σύμφωνα με "
+#~ "τις λέξεις κλειδιά που έχετε επιλέξει, στη διεπαφή My Europeana."
+
+#~ msgid "Store your favourite items for later viewing."
+#~ msgstr "Αποθηκεύσετε τα αγαπημένα σας τεκμήρια για να τα δείτε αργότερα."
+
+#~ msgid ""
+#~ "If you are a developer who has registered for one or more API keys, these "
+#~ "will be shown on the API Keys tab."
+#~ msgstr ""
+#~ "Αν είστε ο προγραμματιστής που έχει εγγραφεί για ένα ή πιο πολλά κλειδιά "
+#~ "API, αυτά θα εμφανιστούν στην καρτέλα Κλειδιά API."
+
+#~ msgid "To save a search, add a tag or save an item, simply login to"
+#~ msgstr ""
+#~ "Για να αποθηκεύσετε μιαν αναζήτηση, να προσθέσετε μιαν ετικέτα ή να "
+#~ "αποθηκεύσετε ένα τεκμήριο, απλώς συνδεθείτε στο"
+
+#~ msgid "and click on the relevant action from the menu."
+#~ msgstr "και πατήστε το πλήκτρο για τη σχετική ενέργεια από το μενού."
+
+#~ msgid "To view your saved items, searches and tags, use the"
+#~ msgstr ""
+#~ "Για να δείτε τα αποθηκευμένα τεκμήριά σας, αναζητήσεις και ετικέτες, "
+#~ "χρησιμοποιήστε τα"
+
+#~ msgid "shortcuts in the header."
+#~ msgstr "συντομεύσεις στην επικεφαλίδα."
+
+#~ msgid "Europeana - Searching Europeana"
+#~ msgstr "Europeana - Αναζήτηση στη Europeana"
+
+#~ msgid ""
+#~ "Welcome to Europeana. This page describes some of the things that you can "
+#~ "do while you are here. Learn more about:"
+#~ msgstr ""
+#~ "Καλώς ήρθατε στη Europeana. Αυτή η σελίδα περιγράφει μερικά από τα "
+#~ "πράγματα που μπορείτε να κάνετε εδώ. Μάθετε περισσότερα για:"
+
+#~ msgid ""
+#~ "Search tips, refined search, phrase search, exclude words, auto-"
+#~ "completion, filter results, share your search."
+#~ msgstr ""
+#~ "Συμβουλές αναζήτησης, επαναπροσδιορισμένη αναζήτηση, αναζήτηση με φράση, "
+#~ "αποκλειόμενες λέξεις, αυτο-συμπλήρωση, αποτελέσματα με φίλτρα, μοίρασμα "
+#~ "έρευνας."
+
+#~ msgid "exhibitions, new content."
+#~ msgstr "εκθέσεις, νέο περιεχόμενο."
+
+#~ msgid ""
+#~ "Seeing further details, rights and licence information, translating "
+#~ "details, searching on external services, related searches on Europeana, "
+#~ "viewing item on provider's site, embedding, and citing."
+#~ msgstr ""
+#~ "Εμφάνιση περαιτέρω λεπτομερειών, πληροφοριών για πνευματικά δικαιώματα "
+#~ "και αδειοδότηση, μετάφραση λεπτομερειών, αναζήτηση εξωτερικών υπηρεσιών "
+#~ "και σχετικών αναζητήσεων στη Europeana, επισκόπηση τεκμηρίου στο δικτυακό "
+#~ "τόπο του παρόχου, ενσωμάτωση και παραπομπή."
+
+#~ msgid "Saving searches, saving items, and adding tags."
+#~ msgstr "Αποθήκευση αναζητήσεων, τεκμηρίων και προσθήκη ετικετών."
+
+#~ msgid "General Search"
+#~ msgstr "Γενική αναζήτηση"
+
+#~ msgid ""
+#~ "Searching the millions of items in Europeana is simple. Just enter your "
+#~ "search term and hit"
+#~ msgstr ""
+#~ "Η αναζήτηση εκατομμυρίων αντικειμένων στη Europeana είναι απλή. Απλώς "
+#~ "εισάγετε τον όρο αναζήτησης και πατήστε"
+
+#~ msgid "Specific search"
+#~ msgstr "Ειδική αναζήτηση"
+
+#~ msgid "You can narrow your search with the arrow to the right of"
+#~ msgstr "Μπορείτε να περιορίσετε την έρευνά σας με το τόξο δεξιά του"
+
+#~ msgid "Search All fields"
+#~ msgstr "Αναζήτηση Όλων των Πεδίων"
+
+#~ msgid "and selecting a category"
+#~ msgstr "και επιλογή μιας κατηγορίας"
+
+#~ msgid "Titles, Creators, Subjects, Dates/Periods, Places"
+#~ msgstr "Τίτλοι, Δημιουργοί, Θέματα, Ημερομηνίες/Περίοδοι, Τοποθεσίες"
+
+#~ msgid "Then enter your search term and hit"
+#~ msgstr "Μετά εισάγετε τον όρο αναζήτησης και πατήστε"
+
+#~ msgid ""
+#~ "Alternatively, just ask yourself who, what, where or when you are "
+#~ "interested in and type these words into Europeana's search box followed "
+#~ "by a colon (:). Then enter your search term and hit"
+#~ msgstr ""
+#~ "Εναλλακτικά, απλώς διερωτηθείτε για ποιόν, τί, πού ή πότε ενδιαφέρεστε "
+#~ "και πληκτρολογήστε αυτές τις λέξεις στο τετράγωνο αναζήτησης στη "
+#~ "Europeana τοποθετώντας άνω κάτω τελεία (:). Μετά εισάγετε τον όρο "
+#~ "αναζήτησης και πατήστε"
+
+#~ msgid "For specific searches, you could:"
+#~ msgstr "Για ειδικές αναζητήσεις μπορείτε να:"
+
+#~ msgid "Use the"
+#~ msgstr "Χρησιμοποιήσετε το"
+
+#~ msgid "filter or enter"
+#~ msgstr "φίλτρο ή εισάγετε"
+
+#~ msgid ""
+#~ "followed by a name of, for example, an actor, author or architect. Your "
+#~ "results will display only items for which the name you entered is listed "
+#~ "as the creator. For example, searching for"
+#~ msgstr ""
+#~ "ακολουθούμενο από το όνομα, για παράδειγμα, ενός ηθοποιού ή αρχιτέκτονα. "
+#~ "Στα αποτελέσματά σας θα εμφανιστούν μόνο τεκμήρια για τα οποία το όνομα "
+#~ "που εισάγατε καταγράφεται ως ο δημιουργός. Για παράδειγμα, η αναζήτηση για"
+
+#~ msgid ""
+#~ "will narrow your results to van Gogh's works, excluding photographs of "
+#~ "the artist or documentaries about him and his work."
+#~ msgstr ""
+#~ "θα περιορίσει τα αποτελέσματά σας στα έργα του Βαν Γκογκ, εκτός από "
+#~ "φωτογραφίες του καλλιτέχνη ή ντοκιμαντέρ γι 'αυτόν και το έργο του."
+
+#~ msgid ""
+#~ "followed by a type of item, a subject you are interested in or words from "
+#~ "the title of the item you are looking for. Your search results will "
+#~ "display only items of the requested type or subject or items whose title "
+#~ "includes your search term. For example, searching for"
+#~ msgstr ""
+#~ "ακολουθούμενο από ένα είδος τεκμηρίου, ένα θέμα που σας ενδιαφέρει ή "
+#~ "λέξεις από τον τίτλο ενός τεκμηρίου που αναζητείτε. Στα αποτελέσματα της "
+#~ "αναζήτησής σας θα εμφανιστούν μόνο τεκμήρια του αιτούμενου είδους ή "
+#~ "θέματος ή τεκμήρια των οποίων ο τίτλος περιλαμβάνει τον όρο αναζήτησης.  "
+#~ "Για παράδειγμα, η αναζήτηση για"
+
+#~ msgid "will narrow your results to maps, or"
+#~ msgstr "θα περιορίσει τα αποτελέσματά σας σε χάρτες, ή"
+
+#~ msgid ""
+#~ "will display artworks, buildings and monuments done in the Art Nouveau "
+#~ "style."
+#~ msgstr ""
+#~ "θα εμφανίσει έργα τέχνης, κτήρια και μνημεία που έχουν κατασκευαστεί στο "
+#~ "στυλ Αρ Νουβώ."
+
+#~ msgid "Place"
+#~ msgstr "Τοποθεσία"
+
+#~ msgid ""
+#~ "followed by a name of a town, city or country within Europe or around the "
+#~ "world. Your search results will display only items which were created in, "
+#~ "published in or depict the place you are searching for. For example, "
+#~ "searching for"
+#~ msgstr ""
+#~ "ακολουθούμενο από ένα όνομα κωμόπολης, πόλης ή χώρας της Ευρώπης ή του "
+#~ "κόσμου. Στα αποτελέσματα της αναζήτησής σας θα εμφανιστούν μόνο τεκμήρια "
+#~ "που δημιουργήθηκαν, δημοσιεύτηκαν ή αναπαριστούν την τοποθεσία που "
+#~ "αναζητείτε. Για παράδειγμα, η αναζήτηση για"
+
+#~ msgid ""
+#~ "will help you differentiate your search when you are looking only for "
+#~ "objects created or held in Milan, excluding items on writer Milan Kundera "
+#~ "from your search results."
+#~ msgstr ""
+#~ "θα σας βοηθήσει να διαφοροποιήσετε την αναζήτησή σας όταν ψάχνετε μόνο "
+#~ "για αντικείμενα που δημιουργήθηκαν ή βρίσκονται στο Μιλάνο, αποκλείοντας "
+#~ "τεκμήρια του συγγραφέα Μίλαν Κούντερα από τα αποτελέσματα της αναζήτησής "
+#~ "σας."
+
+#~ msgid ""
+#~ "followed by a date (e.g. 1945) or a period (e.g. Roman or Medieval). Your "
+#~ "search results will display only items for which the date is listed in "
+#~ "the item's date field. For example, searching for"
+#~ msgstr ""
+#~ "ακολουθούμενο από τη χρονολογία (π.χ. 1945) ή την περίοδο (π.χ. Ρωμαϊκή ή "
+#~ "Μεσαιωνική). Στα αποτελέσματα της αναζήτησή σας θα εμφανιστούν μόνο "
+#~ "τεκμήρια για τα οποία καταγράφεται η χρονολογία στο πεδίο χρονολογίας του "
+#~ "τεκμηρίου. Για παράδειγμα, η αναζήτηση για"
+
+#~ msgid ""
+#~ "will help you differentiate your search when you are looking only for "
+#~ "items dated 1984, excluding items that have 1984 in their title or "
+#~ "description, like George Orwell's novel."
+#~ msgstr ""
+#~ "θα σας βοηθήσει να διαφοροποιήσετε την αναζήτησή σας όταν ψάχνετε μόνο "
+#~ "για τεκμήρια που χρονολογούνται το 1984, αποκλείοντας τεκμήρια που έχουν "
+#~ "το 1984 στον τίτλο ή στην περιγραφή, όπως το μυθιστόρημα του George "
+#~ "Orwell."
+
+#~ msgid ""
+#~ "These search functions also have support for different spellings and "
+#~ "languages. For example, when you search for"
+#~ msgstr ""
+#~ "Επίσης αυτές οι λειτουργίες αναζήτησης υποστηρίζουν διαφορετική "
+#~ "ορθογραφία και γλώσσες. Για παράδειγμα, όταν αναζητείτε για"
+
+#~ msgid ""
+#~ "the results will also include items with Milano, Mailand or Milanas "
+#~ "listed as their geographic coverage."
+#~ msgstr ""
+#~ "τα αποτελέσματα θα περιλαμβάνουν επίσης στοιχεία με Milano, Μιλάνο ή "
+#~ "Milanas που αναφέρονται ως η γεωγραφική κάλυψη τους."
+
+#~ msgid "is also possible. Just put"
+#~ msgstr "είναι επίσης δυνατή. Απλά βάλτε"
+
+#~ msgid "quotation marks"
+#~ msgstr "εισαγωγικά"
+
+#~ msgid "e.g."
+#~ msgstr "π.χ."
+
+#~ msgid "around the phrase you want to find, or type"
+#~ msgstr "γύρω από τη φράση που θέλετε να βρείτε, ή πληκτρολογήσετε"
+
+#~ msgid "between the keywords (e.g."
+#~ msgstr "μεταξύ των λέξεων-κλειδιών (π.χ."
+
+#~ msgid "by typing"
+#~ msgstr "πληκτρολογώντας"
+
+#~ msgid "in capital letters, followed by the word you want to omit (e.g."
+#~ msgstr ""
+#~ "με κεφαλαία γράμματα, ακολουθούμενη από τη λέξη που θέλετε να παραλείψετε "
+#~ "(π.χ."
+
+#~ msgid "Another helpful search feature is"
+#~ msgstr "Άλλο χρήσιμο χαρακτηριστικό αναζήτησης είναι"
+
+#~ msgid "Auto completion"
+#~ msgstr "Αυτόματη συμπλήρωση"
+
+#~ msgid ""
+#~ "Start typing a search term. Europeana will suggest words that may match "
+#~ "what you are thinking of. Just select the term you want and hit"
+#~ msgstr ""
+#~ "Αρχίστε να πληκτρολογείτε έναν όρο αναζήτησης. Η Europeana θα προτείνει "
+#~ "λέξεις που ίσως ταιριάζουν με αυτό που σκέπτεστε. Απλώς επιλέξτε τον όρο "
+#~ "που επιθυμείτε και πατήστε"
+
+#~ msgid "Refine your search"
+#~ msgstr "Επαναπροσδιορισμός αναζήτησης"
+
+#~ msgid ""
+#~ "Once you have done an initial search, results can be narrowed down with "
+#~ "the"
+#~ msgstr ""
+#~ "Αφού έχετε διενεργήσει την αρχική αναζήτηση, τα αποτελέσματα μπορούν να "
+#~ "περιοριστούν με"
+
+#~ msgid ""
+#~ "functions. These are in the grey pane on the search results screen. You "
+#~ "can add more keywords to your search, thereby narrowing the search "
+#~ "results. Just type your keyword into the"
+#~ msgstr ""
+#~ "λειτουργίες. Αυτές εμφανίζονται σε γκρίζα επιλογή στην οθόνη "
+#~ "αποτελεσμάτων αναζήτησης. Μπορείτε να προσθέσετε πιο πολλές λέξεις "
+#~ "κλειδιά στην αναζήτησή σας για να περιορίσετε τα αποτελέσματα αναζήτησης. "
+#~ "Απλώς πληκτρολογήστε τη λέξη κλειδί στο"
+
+#~ msgid "field and hit"
+#~ msgstr "πεδίο και πατήστε"
+
+#~ msgid "The keyword is displayed at the top of the pane, under"
+#~ msgstr "Η λέξη κλειδί παρουσιάζεται στην κορυφή της επιλογής, κάτω"
+
+#~ msgid "Matches for."
+#~ msgstr "Ταιριάζει για."
+
+#~ msgid ""
+#~ "To remove a keyword, hit the X icon next to the relevant keyword in the"
+#~ msgstr ""
+#~ "Για να αφαιρέσετε μία λέξη κλειδί, πατήστε το εικονίδιο Χ δίπλα στη "
+#~ "σχετική λέξη κλειδί στο"
+
+#~ msgid "list."
+#~ msgstr "κατάλογο."
+
+#~ msgid "You can also"
+#~ msgstr "Μπορείτε επίσης να"
+
+#~ msgid "filter your search results:"
+#~ msgstr "να φιλτράρετε τα αποτελέσματα αναζήτησης:"
+
+#~ msgid ""
+#~ "will display only objects of a selected media type (images, text, video, "
+#~ "sound or 3D). "
+#~ msgstr ""
+#~ "θα εμφανίσει μόνο τα αντικείμενα ενός επιλεγμένου τύπου μέσων (εικόνες, "
+#~ "κείμενο, βίντεο, ήχος ή τρισδιάστατο)."
+
+#~ msgid "By language"
+#~ msgstr "Κατά γλώσσα"
+
+#~ msgid ""
+#~ "will display only objects with descriptions in selected languages, i.e. "
+#~ "the language of the institution that provided the object to Europeana."
+#~ msgstr ""
+#~ "θα εμφανίσει μόνο αντικείμενα με περιγραφές σε επιλεγμένες γλώσσες, π.χ. "
+#~ "η γλώσσα ενός ιδρύματος το οποίο παρέχει το αντικείμενο στη Europeana."
+
+#~ msgid "By date"
+#~ msgstr "Με ημερομηνία"
+
+#~ msgid "will display only objects with selected dates."
+#~ msgstr "θα εμφανίσει μόνο αντικείμενα με επιλεγμένες χρονολογίες."
+
+#~ msgid "By country"
+#~ msgstr "Κατά χώρα"
+
+#~ msgid ""
+#~ "will display only objects from selected countries, i.e. the country of "
+#~ "the institution that provided the object to Europeana."
+#~ msgstr ""
+#~ "θα εμφανίσει μόνο αντικείμενα από επιλεγμένες χώρες, π.χ. η χώρα του "
+#~ "ιδρύματος, το οποίο παρέχει το αντικείμενο στη Europeana."
+
+#~ msgid ""
+#~ "will display objects labelled with the selected copyright label(s). This "
+#~ "copyright label indicates how you may reuse the digital object, including "
+#~ "the preview."
+#~ msgstr ""
+#~ "θα εμφανίσει αντικείμενα που τιτλοφορούνται με την επιλεγμένη ετικέτα "
+#~ "πνευματικών δικαιωμάτων. Η ετικέτα πνευματικών δικαιωμάτων δηλώνει πώς "
+#~ "μπορείτε να επαναχρησιμοποιήσετε το ψηφιακό αντικείμενο, περιλαμβάνοντας "
+#~ "την προεπισκόπηση."
+
+#~ msgid "will display only objects from selected institutions"
+#~ msgstr "θα εμφανίσει μόνο αντικείμενα από επιλεγμένα ιδρύματα"
+
+#~ msgid ""
+#~ "Select the filter name, e.g. 'By language' to expand it. Then just use "
+#~ "the check boxes for the categories you wish the search results to "
+#~ "include. The results will refresh automatically. The filter will be added "
+#~ "to the"
+#~ msgstr ""
+#~ "Επιλέξτε το όνομα του φίλτρου, π.χ. 'κατά γλώσσα' για να επεκτείνετε. "
+#~ "Μετά απλώς χρησιμοποιήστε το τετραγωνίδιο ελέγχου για τις κατηγορίες που "
+#~ "επιθυμείτε να περιλαμβάνουν αποτελέσματα αναζήτησης. Τα αποτελέσματα θα "
+#~ "φρεσκαριστούν αυτόματα. Το φίλτρο θα προστεθεί στον"
+
+#~ msgid "list at the top of the pane."
+#~ msgstr "κατάλογο στην κορυφή της επιλογής."
+
+#~ msgid "To remove a filter, hit the X icon next to the item in the"
+#~ msgstr ""
+#~ "Για να αφαιρέσετε ένα φίλτρο, πατήστε το εικονίδιο Χ δίπλα στο τεκμήριο "
+#~ "στο"
+
+#~ msgid "list, or de-select the check box next to the filter category."
+#~ msgstr ""
+#~ "κατάλογο, ή αποεπιλέξτε το τετραγωνίδιο ελέγχου δίπλα στην κατηγορία "
+#~ "φίλτρου."
+
+#~ msgid "You can also select to"
+#~ msgstr "Επίσης μπορείτε να επιλέξετε τε"
+
+#~ msgid ""
+#~ "This means items that have not come from a cultural institution but from "
+#~ "an individual user, for example, items contributed to the Europeana "
+#~ "1914-1918 project."
+#~ msgstr ""
+#~ "Αυτό σημαίνει τεκμήρια που δεν προέρχονται από πολιτιστικό ίδρυμα αλλά "
+#~ "από ατομικό χρήστη, για παράδειγμα, τεκμήρια που συνεισφέρονται στο έργο "
+#~ "Europeana 1914-1918."
+
+#~ msgid "Share your search with friends by choosing"
+#~ msgstr "Μοιραστείτε την αναζήτησή σας με φίλους επιλέγοντας"
+
+#~ msgid ""
+#~ "A full list of social media sharing options is presented. Just select one "
+#~ "you want. This also includes print and email options."
+#~ msgstr ""
+#~ "Παρουσιάζεται πλήρης κατάλογος επιλογών μοιράσματος κοινωνικών μέσων. "
+#~ "Απλώς επιλέξτε αυτό που θέλετε. Αυτό επίσης περιλαμβάνει επιλογές για "
+#~ "εκτύπωση και ηλ.-ταχυδρομείο."
+
 #, fuzzy
-msgid "Europeana - How to configure your search widget"
-msgstr "Τι είναι η απομακρυσμένη αναζήτηση στοιχείου διεπαφής στη Europeana;"
+#~ msgid "Europeana - How to configure your search widget"
+#~ msgstr ""
+#~ "Τι είναι η απομακρυσμένη αναζήτηση στοιχείου διεπαφής στη Europeana;"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:10
-msgid "You can add a Europeana search facility to your blog or website."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:10
-msgid "Our simple wizard"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:10
-msgid ""
-"takes you through the process step-by-step and gives you a snippet of code "
-"to embed."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:11
-msgid ""
-"Configure the widget to search all collections and data providers within "
-"Europeana, or refine it to suit your website, e.g. to search only within "
-"Public Domain or Creative Commons, or only licensed images from a specific "
-"country."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:12
 #, fuzzy
-msgid "The Europeana Search Widget works with..."
-msgstr "Αναζήτηση Στοιχείου Διεπαφής στη Europeana"
+#~ msgid "The Europeana Search Widget works with..."
+#~ msgstr "Αναζήτηση Στοιχείου Διεπαφής στη Europeana"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:13
-msgid "Sites that you host yourself."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:18
 #, fuzzy
-msgid "The Europeana Search Widget doesn't work with..."
-msgstr "Αναζήτηση Στοιχείου Διεπαφής στη Europeana"
+#~ msgid "The Europeana Search Widget doesn't work with..."
+#~ msgstr "Αναζήτηση Στοιχείου Διεπαφής στη Europeana"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:19
-msgid "Blogs hosted on Wordpress.com"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:20
 #, fuzzy
-msgid "Set up your Europeana Search Widget:"
-msgstr "Αναζήτηση Στοιχείου Διεπαφής στη Europeana"
+#~ msgid "Set up your Europeana Search Widget:"
+#~ msgstr "Αναζήτηση Στοιχείου Διεπαφής στη Europeana"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:22
 #, fuzzy
-msgid "Go to the search widget page."
-msgstr "ορισμένους από τους όρους έρευνας"
+#~ msgid "Go to the search widget page."
+#~ msgstr "ορισμένους από τους όρους έρευνας"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:23
 #, fuzzy
-msgid "Introduction tab"
-msgstr "Εισαγωγή"
+#~ msgid "Introduction tab"
+#~ msgstr "Εισαγωγή"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:23
-msgid ""
-"The Europeana Search widget is presented. A progress bar shows you how far "
-"you are through the process and a video takes you through the process step "
-"by step. To start configuring your widget, tap 'Next' or the 'Filter' tab "
-"heading."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:24
-msgid "Filter tab"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:24
-msgid ""
-"If you want your widget to include the entire Europeana dataset, you can go "
-"straight to the 'Style' tab. Tap 'Next' or the 'Style' tab heading."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:25
 #, fuzzy
-msgid "To tailor your search widget"
-msgstr "να φιλτράρετε τα αποτελέσματα αναζήτησης:"
+#~ msgid "To tailor your search widget"
+#~ msgstr "να φιλτράρετε τα αποτελέσματα αναζήτησης:"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:27
 #, fuzzy
-msgid "Keyword search"
-msgstr "Φιλτράρετε την έρευνά σας"
+#~ msgid "Keyword search"
+#~ msgstr "Φιλτράρετε την έρευνά σας"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:27
-msgid ""
-"By default, the widget searches the entire Europeana dataset. You can "
-"restrict the search to a key word or phrase. To do this, enter the key word"
-"(s) in the 'Search for' field. For example, if you are adding a widget to "
-"your First World War blog about military uniform, you might type 'uniform'."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:28
-msgid ""
-"All the normal search functions work in this field, for example, use double "
-"quotes for a phrase, e.g. &quot;military uniform&quot;, use 'AND' to include "
-"searches on two words or 'NOT' to hide results for a particular word, e.g. "
-"'uniform AND war' or 'uniform NOT school'."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:29
 #, fuzzy
-msgid "Search on types"
-msgstr "Συμβουλές αναζήτησης"
+#~ msgid "Search on types"
+#~ msgstr "Συμβουλές αναζήτησης"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:29
-msgid ""
-"By default, the widget will search the entire Europeana dataset for your key "
-"words. You can restrict the search to 'Titles', 'Creators', 'Subjects', "
-"'Times/Periods', or 'Places'.  For example, you may wish to look only for "
-"results to do with 'Paris'. In which case, you would enter 'Paris' as a key "
-"word and 'Places' as a type. Tap 'Change' next to 'All Fields' and select "
-"the option you need."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:30
-msgid ""
-"By default, the widget returns results from all of Europeana's providers. "
-"You can restrict it to your chosen providers.  Tap 'Change' next to 'All  "
-"Providers' and select the providers you need. You can search for a provider "
-"using the search field above the list.  The providers are presented in order "
-"of the size of their contributions to Europeana. The number in brackets "
-"shows how many items from that provider are available. If the name of the "
-"provider is followed by an arrow, then they are a data aggregator, tap the "
-"arrow to see the institutions included in their collection. Note: you can "
-"select more than one."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:31
 #, fuzzy
-msgid "Countries"
-msgstr "Χώρα"
+#~ msgid "Countries"
+#~ msgstr "Χώρα"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:31
-msgid ""
-"By default, the widget returns results from all countries. You can restrict "
-"it to your chosen countries. Tap 'Change' next to 'All Providing Countries' "
-"and select the countries you need. The countries are presented in order of "
-"the size of their contributions to Europeana. The number in brackets shows "
-"how many items from that country are available. Note: you can select more "
-"than one. To clear your selection and start again, tap 'Clear'."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:32
 #, fuzzy
-msgid "Media types"
-msgstr "Είδη μέσων ενημέρωσης"
+#~ msgid "Media types"
+#~ msgstr "Είδη μέσων ενημέρωσης"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:32
-msgid ""
-"By default, the widget returns results of all media types - image, text, "
-"sound, video and 3D. You can restrict it to only the media types you're "
-"interested in. Tap 'Change' next to 'All Media Types' and select the types "
-"you need. The media types are presented in order of size. The number in "
-"brackets shows how many items of that media type are available. Note: you "
-"can select more than one.  To clear your selection and start again, tap "
-"'Clear'."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:33
 #, fuzzy
-msgid "Copyright"
-msgstr "Σύμφωνα με τα πνευματικά δικαιώματα"
+#~ msgid "Copyright"
+#~ msgstr "Σύμφωνα με τα πνευματικά δικαιώματα"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:33
-msgid ""
-"By default, the widget returns results with any copyright status. You can "
-"restrict this, for example, to only show re-usable content. Tap 'Change' "
-"next to 'All Copyrights' and select the statuses you need. The copyright "
-"statuses are presented in order of size. The number in brackets shows how "
-"many items of that status are available. Note: you can select more than one. "
-"To clear your selection and start again, tap 'Clear'."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:34
-msgid "More information on the CC licenses"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:35
 #, fuzzy
-msgid "More information on the Rights Reserved - Free Access label"
-msgstr "Europeana - Κατοχυρωμένα Δικαιώματα - Ελεύθερη Πρόσβαση"
+#~ msgid "More information on the Rights Reserved - Free Access label"
+#~ msgstr "Europeana - Κατοχυρωμένα Δικαιώματα - Ελεύθερη Πρόσβαση"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:36
 #, fuzzy
-msgid "More information on the Rights Reserved - Restricted Access label"
-msgstr "Europeana - Κατοχυρωμένα Δικαιώματα - Περιορισμένη Πρόσβαση"
+#~ msgid "More information on the Rights Reserved - Restricted Access label"
+#~ msgstr "Europeana - Κατοχυρωμένα Δικαιώματα - Περιορισμένη Πρόσβαση"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:37
 #, fuzzy
-msgid "More information on the Rights Reserved - Paid Access label"
-msgstr "Europeana - Κατοχυρωμένα Δικαιώματα - Πληρωμένη Πρόσβαση"
+#~ msgid "More information on the Rights Reserved - Paid Access label"
+#~ msgstr "Europeana - Κατοχυρωμένα Δικαιώματα - Πληρωμένη Πρόσβαση"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:38
-msgid "More information on the Unknown rights label"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:39
 #, fuzzy
-msgid "Languages"
-msgstr "Επιλογή γλώσσας"
+#~ msgid "Languages"
+#~ msgstr "Επιλογή γλώσσας"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:39
-msgid ""
-"By default, the widget returns results in all languages. You can restrict it "
-"to your chosen languages. Tap 'Change' next to 'All Languages' and select "
-"the languages you need. The languages are presented in order of the size of "
-"their representation in Europeana. The number in brackets shows how many "
-"items of each language are available. Note: you can select more than one. To "
-"clear your selection and start again, tap 'Clear'."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:40
-msgid ""
-"When you have selected all your filters, tap 'Next' or the 'Style' tab "
-"heading."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:42
-msgid "Style tab"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:42
-msgid ""
-"You can choose a black or white widget and select to include thumbnails or "
-"not. Select the style you would like to use."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:43
-msgid "Tap 'Next' or the 'Preview' tab heading."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:44
 #, fuzzy
-msgid "Preview tab"
-msgstr "Προεπισκόπηση"
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:44
-msgid ""
-"Your widget will be displayed. Please note that the widget is responsive and "
-"so expands to fit the width of its container. For this reason, it may be a "
-"different size on the preview than it will be on your own web page."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:46
-msgid ""
-"If you wish to amend the widget's properties, just go back to the 'Search', "
-"'Filter' or 'Style' tab and make your changes."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:47
-msgid ""
-"If you are happy with your widget, simply copy the 'Embed' code displayed "
-"and paste this into your web page."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:48
-msgid ""
-"We would love to know how you are using this search widget, please tell us "
-"by dropping us an email at"
-msgstr ""
+#~ msgid "Preview tab"
+#~ msgstr "Προεπισκόπηση"
 
 #, fuzzy
 #~ msgid "Rights Reserved - Free access"
@@ -7094,14 +6750,6 @@ msgstr ""
 
 #~ msgid "This is your personal space on Europeana. With"
 #~ msgstr "Αυτός είναι ο προσωπικό σας χώρος στη Europeana. Με"
-
-#~ msgid ""
-#~ "you can save your favourite items and searches, and add tags to items to "
-#~ "help separate them into different categories."
-#~ msgstr ""
-#~ "Μπορείτε να αποθηκεύετε τα αγαπημένα σας τεκμήρια και τις αναζητήσεις και "
-#~ "να προσθέσετε ετικέτες σε τεκμήρια για να βοηθήσετε να χωριστούν σε "
-#~ "διαφορετικές κατηγορίες."
 
 #~ msgid "How can I change my email address, username or password?"
 #~ msgstr ""
