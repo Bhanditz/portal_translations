@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-26 16:58+0100\n"
+"POT-Creation-Date: 2014-03-03 15:37+0100\n"
 "PO-Revision-Date: 2012-02-21 15:20\n"
 "Last-Translator: <jacob.lundqvist@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,27 +21,25 @@ msgstr ""
 #: templates/static_pages/prop_file.html:63
 #: templates/static_pages/prop_file.html:819
 #: templates/static_pages/prop_file.html:820
-#: templates/static_pages/sitemap.html:51
 #, fuzzy
 msgid "Europeana API"
 msgstr "Ag úsáid Europeana"
 
 #: templates/api_leftmenu.html:6 templates/static_pages/prop_file.html:991
 #: templates/static_pages/prop_file.html:992
-#: templates/static_pages/sitemap.html:53
 msgid "Get an API-Key"
 msgstr ""
 
-#: templates/api_leftmenu.html:7 templates/static_pages/sitemap.html:55
+#: templates/api_leftmenu.html:7
 msgid "API Console"
 msgstr ""
 
-#: templates/api_leftmenu.html:11 templates/static_pages/sitemap.html:59
+#: templates/api_leftmenu.html:11
 #, fuzzy
 msgid "Search Widget Wizard"
 msgstr "My Europeana"
 
-#: templates/api_leftmenu.html:12 templates/static_pages/sitemap.html:60
+#: templates/api_leftmenu.html:12
 #, fuzzy
 msgid "Europeana API Forum"
 msgstr "Europeana - Téarmaí úsáide"
@@ -55,14 +53,12 @@ msgstr ""
 #: templates/explore_leftmenu.html:5 templates/static_pages/prop_file.html:546
 #: templates/static_pages/prop_file.html:547
 #: templates/static_pages/prop_file.html:876
-#: templates/static_pages/sitemap.html:20
 msgid "Europeana Remix"
 msgstr ""
 
 #: templates/explore_leftmenu.html:6 templates/static_pages/prop_file.html:550
 #: templates/static_pages/prop_file.html:551
 #: templates/static_pages/prop_file.html:865
-#: templates/static_pages/sitemap.html:17
 #: templates/static_pages/usingeuropeana_explore.html:14
 msgid "Exhibitions"
 msgstr ""
@@ -73,8 +69,6 @@ msgstr ""
 #: templates/static_pages/prop_file.html:555
 #: templates/static_pages/prop_file.html:914
 #: templates/static_pages/prop_file.html:915
-#: templates/static_pages/sitemap.html:38
-#: templates/static_pages/sitemap.html:87
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "New content"
 msgstr "Ábhar gaolmhar"
@@ -82,22 +76,18 @@ msgstr "Ábhar gaolmhar"
 #: templates/explore_leftmenu.html:9 templates/static_pages/prop_file.html:78
 #: templates/static_pages/prop_file.html:558
 #: templates/static_pages/prop_file.html:559
-#: templates/static_pages/sitemap.html:88
-#: templates/static_pages/usingeuropeana_search.html:60
 msgid "By provider"
 msgstr ""
 
 #: templates/explore_leftmenu.html:10 templates/static_pages/prop_file.html:37
 #: templates/static_pages/prop_file.html:562
 #: templates/static_pages/prop_file.html:563
-#: templates/static_pages/sitemap.html:89
 msgid "Timeline"
 msgstr "Amlíne"
 
 #: templates/explore_leftmenu.html:11
 #: templates/static_pages/prop_file.html:566
 #: templates/static_pages/prop_file.html:567
-#: templates/static_pages/sitemap.html:90
 msgid "Map"
 msgstr ""
 
@@ -111,7 +101,6 @@ msgstr ""
 #: templates/static_pages/prop_file.html:618
 #: templates/static_pages/prop_file.html:619
 #: templates/static_pages/prop_file.html:869
-#: templates/static_pages/sitemap.html:18
 msgid "Blog"
 msgstr ""
 
@@ -154,7 +143,6 @@ msgstr "Ábhar a sholáthar"
 #: templates/leftmenu.html:10 templates/static_pages/aboutus_enews.html:11
 #: templates/static_pages/prop_file.html:924
 #: templates/static_pages/prop_file.html:925
-#: templates/static_pages/sitemap.html:40
 #, fuzzy
 msgid "Previous newsletters"
 msgstr "Nuachtlitreacha roime seo"
@@ -209,29 +197,27 @@ msgid "Using our data"
 msgstr "Ag úsáid Europeana"
 
 #: templates/terms_leftmenu.html:9 templates/rights/terms-and-policies.html:24
-#: templates/static_pages/sitemap.html:99
 #, fuzzy
 msgid "Terms of Use"
 msgstr "Téarmaí úsáide"
 
-#: templates/terms_leftmenu.html:10 templates/static_pages/sitemap.html:100
+#: templates/terms_leftmenu.html:10
 #, fuzzy
 msgid "Usage Guidelines for Metadata"
 msgstr "Treoirlínte úsáide Europeana do shaothair ar an bhfearann poiblí"
 
-#: templates/terms_leftmenu.html:11 templates/static_pages/sitemap.html:101
+#: templates/terms_leftmenu.html:11
 #, fuzzy
 msgid "Public Domain Usage Guidelines"
 msgstr "Cliceáil anseo chun filleadh ar leathanch baile Europeana"
 
-#: templates/terms_leftmenu.html:12 templates/static_pages/sitemap.html:102
+#: templates/terms_leftmenu.html:12
 #, fuzzy
 msgid "API Terms of Use"
 msgstr "Téarmaí úsáide"
 
 #: templates/terms_leftmenu.html:13
 #: templates/rights/linked-data-sources.html:16
-#: templates/static_pages/sitemap.html:103
 #, fuzzy
 msgid "Europeana Data Sources"
 msgstr "cliceáil anseo le haghaidh an chéad leathanaigh torthaí eile"
@@ -246,7 +232,7 @@ msgstr "Sábháil chuig My Europeana"
 msgid "Europeana Data Exchange Agreement"
 msgstr "Cliceáil anseo chun filleadh ar leathanch baile Europeana"
 
-#: templates/terms_leftmenu.html:19 templates/static_pages/sitemap.html:105
+#: templates/terms_leftmenu.html:19
 #, fuzzy
 msgid "Terms for User Contributions"
 msgstr "Europeana - Léamh ar an Eoraip"
@@ -262,7 +248,6 @@ msgstr "Téarmaí agus coinníollacha"
 #: templates/static_pages/prop_file.html:68
 #: templates/static_pages/prop_file.html:526
 #: templates/static_pages/prop_file.html:527
-#: templates/static_pages/sitemap.html:106
 msgid "Privacy"
 msgstr "Príobháideacht"
 
@@ -279,11 +264,10 @@ msgstr "Beartas teanga"
 #: templates/static_pages/prop_file.html:65
 #: templates/static_pages/prop_file.html:514
 #: templates/static_pages/prop_file.html:515
-#: templates/static_pages/sitemap.html:108
 msgid "Accessibility"
 msgstr "Inrochtain"
 
-#: templates/terms_leftmenu.html:27 templates/static_pages/sitemap.html:109
+#: templates/terms_leftmenu.html:27
 #, fuzzy
 msgid "Public Domain Charter"
 msgstr "Fearann Poiblí"
@@ -294,7 +278,6 @@ msgstr "Fearann Poiblí"
 #: templates/static_pages/prop_file.html:571
 #: templates/static_pages/prop_file.html:884
 #: templates/static_pages/prop_file.html:885
-#: templates/static_pages/sitemap.html:25
 #: templates/static_pages/usingeuropeana.html:9
 msgid "Help"
 msgstr ""
@@ -306,8 +289,6 @@ msgstr ""
 #: templates/static_pages/prop_file.html:889
 #: templates/static_pages/usingeuropeana.html:14
 #: templates/static_pages/usingeuropeana_results.html:22
-#: templates/static_pages/usingeuropeana_search.html:9
-#: templates/static_pages/usingeuropeana_search.html:13
 msgid "Searching Europeana"
 msgstr ""
 
@@ -317,10 +298,8 @@ msgstr ""
 #: templates/static_pages/prop_file.html:579
 #: templates/static_pages/prop_file.html:892
 #: templates/static_pages/prop_file.html:893
-#: templates/static_pages/sitemap.html:28
 #: templates/static_pages/usingeuropeana.html:16
 #: templates/static_pages/usingeuropeana_explore.html:9
-#: templates/static_pages/usingeuropeana_search.html:14
 msgid "Exploring Europeana"
 msgstr ""
 
@@ -329,10 +308,8 @@ msgstr ""
 #: templates/static_pages/prop_file.html:583
 #: templates/static_pages/prop_file.html:896
 #: templates/static_pages/prop_file.html:897
-#: templates/static_pages/sitemap.html:29
 #: templates/static_pages/usingeuropeana.html:19
 #: templates/static_pages/usingeuropeana_results.html:9
-#: templates/static_pages/usingeuropeana_search.html:15
 msgid "Results in Europeana"
 msgstr "Ag úsáid Europeana"
 
@@ -341,10 +318,7 @@ msgstr "Ag úsáid Europeana"
 #: templates/static_pages/prop_file.html:587
 #: templates/static_pages/prop_file.html:900
 #: templates/static_pages/prop_file.html:901
-#: templates/static_pages/sitemap.html:30
 #: templates/static_pages/usingeuropeana.html:21
-#: templates/static_pages/usingeuropeana_myeuropeana.html:9
-#: templates/static_pages/usingeuropeana_search.html:16
 msgid "Using My Europeana"
 msgstr ""
 
@@ -1728,10 +1702,6 @@ msgid ""
 "newsletter, blog, Twitter and Facebook pages."
 msgstr ""
 
-#: templates/static_pages/newcontent.html:3
-msgid "Europeana - New Content"
-msgstr "My Europeana"
-
 #: templates/static_pages/prop_file.html:5
 #, fuzzy
 msgid ""
@@ -1860,11 +1830,6 @@ msgstr "Ba cheart an méid seo a rá mar gheall ar naisc sheachtracha"
 #: templates/static_pages/prop_file.html:639
 #: templates/static_pages/prop_file.html:957
 #: templates/static_pages/prop_file.html:958
-#: templates/static_pages/sitemap.html:12
-#: templates/static_pages/usingeuropeana_myeuropeana.html:10
-#: templates/static_pages/usingeuropeana_myeuropeana.html:11
-#: templates/static_pages/usingeuropeana_myeuropeana.html:20
-#: templates/static_pages/usingeuropeana_myeuropeana.html:21
 msgid "My Europeana"
 msgstr "Sábháil chuig My Europeana"
 
@@ -1922,7 +1887,6 @@ msgstr ""
 "To make optimal use of this website you need to have JavaScript activated"
 
 #: templates/static_pages/prop_file.html:33
-#: templates/static_pages/storyline.html:11
 msgid "Storyline and credits"
 msgstr "Snaithe scéil agus creidiúintí"
 
@@ -1963,11 +1927,6 @@ msgid "Find out more"
 msgstr "Tuilleadh eolais"
 
 #: templates/static_pages/prop_file.html:44
-#: templates/static_pages/sitemap.html:65
-#: templates/static_pages/usingeuropeana_search.html:21
-#: templates/static_pages/usingeuropeana_search.html:25
-#: templates/static_pages/usingeuropeana_search.html:27
-#: templates/static_pages/usingeuropeana_search.html:45
 #, fuzzy
 msgid "Search"
 msgstr "Cuardach sábháilte"
@@ -2007,7 +1966,6 @@ msgstr "An Pholainn"
 #: templates/static_pages/usingeuropeana_results.html:25
 #: templates/static_pages/usingeuropeana_results.html:41
 #: templates/static_pages/usingeuropeana_results.html:49
-#: templates/static_pages/usingeuropeana_search.html:32
 msgid "or"
 msgstr "nó"
 
@@ -2054,7 +2012,6 @@ msgstr ""
 #: templates/static_pages/prop_file.html:62
 #: templates/static_pages/prop_file.html:909
 #: templates/static_pages/prop_file.html:910
-#: templates/static_pages/sitemap.html:36
 msgid "About us"
 msgstr "Sábháil chuig  My Europeana"
 
@@ -2067,7 +2024,6 @@ msgstr "Ag úsáid Europeana"
 #: templates/static_pages/prop_file.html:519
 #: templates/static_pages/prop_file.html:831
 #: templates/static_pages/prop_file.html:832
-#: templates/static_pages/sitemap.html:8
 msgid "Sitemap"
 msgstr "Léarscáil an tSuímh"
 
@@ -2077,7 +2033,6 @@ msgid "Terms and conditions"
 msgstr "Téarmaí agus coinníollacha"
 
 #: templates/static_pages/prop_file.html:69
-#: templates/static_pages/sitemap.html:107
 msgid "Language policy"
 msgstr "Beartas teanga"
 
@@ -2128,7 +2083,6 @@ msgid "By type"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:81
-#: templates/static_pages/usingeuropeana_search.html:55
 msgid "By media type"
 msgstr ""
 
@@ -2138,7 +2092,6 @@ msgid "Actions"
 msgstr "Díothú"
 
 #: templates/static_pages/prop_file.html:83
-#: templates/static_pages/usingeuropeana_myeuropeana.html:14
 msgid "Save this search"
 msgstr "Sábháil an cuardach seo"
 
@@ -2155,9 +2108,6 @@ msgid "You have searched for"
 msgstr "Chuardaigh tú"
 
 #: templates/static_pages/prop_file.html:87
-#: templates/static_pages/usingeuropeana_search.html:51
-#: templates/static_pages/usingeuropeana_search.html:63
-#: templates/static_pages/usingeuropeana_search.html:65
 msgid "Matches for"
 msgstr "an fhoirm seo"
 
@@ -2239,12 +2189,10 @@ msgid "User tags"
 msgstr "Úsáid an"
 
 #: templates/static_pages/prop_file.html:110
-#: templates/static_pages/usingeuropeana_myeuropeana.html:15
 msgid "Add a tag"
 msgstr "Cuir clib leis seo"
 
 #: templates/static_pages/prop_file.html:111
-#: templates/static_pages/usingeuropeana_search.html:49
 #, fuzzy
 msgid "Add"
 msgstr "Seoladh r-phoist"
@@ -2280,7 +2228,6 @@ msgid "Send"
 msgstr "Fuaim"
 
 #: templates/static_pages/prop_file.html:119
-#: templates/static_pages/usingeuropeana_myeuropeana.html:16
 msgid "Save to My Europeana"
 msgstr "Sábháil chuig My Europeana"
 
@@ -2352,8 +2299,6 @@ msgstr "Ábhar a sholáthar"
 #: templates/static_pages/prop_file.html:135
 #: templates/static_pages/prop_file.html:228
 #: templates/static_pages/prop_file.html:814
-#: templates/static_pages/storyline.html:49
-#: templates/static_pages/usingeuropeana_search.html:32
 msgid "Title"
 msgstr "Teideal"
 
@@ -2364,21 +2309,17 @@ msgid "Description"
 msgstr "Cláraigh arís"
 
 #: templates/static_pages/prop_file.html:137
-#: templates/static_pages/storyline.html:50
-#: templates/static_pages/usingeuropeana_search.html:31
 msgid "Creator"
 msgstr "Cumadóir"
 
 #: templates/static_pages/prop_file.html:138
 #: templates/static_pages/prop_file.html:232
-#: templates/static_pages/usingeuropeana_search.html:34
 #, fuzzy
 msgid "Date"
 msgstr "leathanach"
 
 #: templates/static_pages/prop_file.html:139
 #: templates/static_pages/prop_file.html:234
-#: templates/static_pages/usingeuropeana_search.html:32
 msgid "Subject"
 msgstr "Ábhar"
 
@@ -2772,8 +2713,9 @@ msgid "Format"
 msgstr "an fhoirm seo"
 
 #: templates/static_pages/prop_file.html:236
+#, fuzzy
 msgid "Publisher"
-msgstr ""
+msgstr "Polainnis (pol)"
 
 #: templates/static_pages/prop_file.html:237
 msgid "Identifier"
@@ -2790,7 +2732,6 @@ msgid "Relation"
 msgstr "Ábhar gaolmhar"
 
 #: templates/static_pages/prop_file.html:241
-#: templates/static_pages/sitemap.html:113
 msgid "Rights"
 msgstr "Cearta Eile"
 
@@ -2935,8 +2876,9 @@ msgid "Hungary"
 msgstr "An Ungáir"
 
 #: templates/static_pages/prop_file.html:277
+#, fuzzy
 msgid "Malta"
-msgstr ""
+msgstr "Máltais (mlt)"
 
 #: templates/static_pages/prop_file.html:278
 msgid "Poland"
@@ -3093,7 +3035,6 @@ msgid "By Rights"
 msgstr "Cearta Eile"
 
 #: templates/static_pages/prop_file.html:312
-#: templates/static_pages/usingeuropeana_search.html:59
 #, fuzzy
 msgid "By copyright"
 msgstr "Cearta Eile"
@@ -3309,7 +3250,6 @@ msgid "Media Types"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:359
-#: templates/static_pages/usingeuropeana_searchwidget.html:30
 #, fuzzy
 msgid "Providers"
 msgstr "Ábhar a sholáthar"
@@ -3586,7 +3526,6 @@ msgstr "Ceart ar Cosaint - Rochtain Srianta"
 
 #: templates/static_pages/prop_file.html:522
 #: templates/static_pages/prop_file.html:523
-#: templates/static_pages/sitemap.html:97
 #, fuzzy
 msgid "Terms of Use &amp; Policies"
 msgstr "Téarmaí agus coinníollacha"
@@ -3598,7 +3537,6 @@ msgstr "Beartas teanga"
 
 #: templates/static_pages/prop_file.html:534
 #: templates/static_pages/prop_file.html:535
-#: templates/static_pages/sitemap.html:126
 #, fuzzy
 msgid "Contact"
 msgstr "Teagmhálacha"
@@ -3607,15 +3545,13 @@ msgstr "Teagmhálacha"
 #: templates/static_pages/prop_file.html:539
 #: templates/static_pages/prop_file.html:953
 #: templates/static_pages/prop_file.html:954
-#: templates/static_pages/sitemap.html:11
 msgid "Home"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:590
-#: templates/static_pages/sitemap.html:31
-#: templates/static_pages/usingeuropeana_searchwidget.html:9
+#, fuzzy
 msgid "How to configure your search widget"
-msgstr ""
+msgstr "My Europeana"
 
 #: templates/static_pages/prop_file.html:591
 #, fuzzy
@@ -3907,7 +3843,6 @@ msgid "Copy and paste the wiki-markup below:"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:716
-#: templates/static_pages/usingeuropeana_search.html:67
 msgid "Include content contributed by users"
 msgstr ""
 
@@ -3952,7 +3887,6 @@ msgstr ""
 
 #: templates/static_pages/prop_file.html:728
 #: templates/static_pages/prop_file.html:973
-#: templates/static_pages/usingeuropeana_search.html:69
 msgid "Share"
 msgstr "Roinnt"
 
@@ -4140,7 +4074,6 @@ msgid "sitemap.html"
 msgstr "Léarscáil an tSuímh"
 
 #: templates/static_pages/prop_file.html:835
-#: templates/static_pages/usingeuropeana_myeuropeana.html:17
 #, fuzzy
 msgid "API keys"
 msgstr "Téarmaí úsáide"
@@ -4232,7 +4165,6 @@ msgstr ""
 
 #: templates/static_pages/prop_file.html:860
 #: templates/static_pages/prop_file.html:861
-#: templates/static_pages/sitemap.html:15
 #, fuzzy
 msgid "Other Europeana Sites"
 msgstr "Leabharlann na hEorpa"
@@ -4243,7 +4175,6 @@ msgid "Europeana Exhibitions"
 msgstr "taispeántas fíorúil is ea e ar a bhfuil"
 
 #: templates/static_pages/prop_file.html:872
-#: templates/static_pages/sitemap.html:19
 #, fuzzy
 msgid "Europeana 1914-1918"
 msgstr "Ag úsáid Europeana"
@@ -4253,7 +4184,6 @@ msgid "Remix"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:880
-#: templates/static_pages/sitemap.html:21
 #, fuzzy
 msgid "Europeana Professional"
 msgstr "My Europeana"
@@ -4352,7 +4282,6 @@ msgid "Results per page"
 msgstr "Ag úsáid Europeana"
 
 #: templates/static_pages/prop_file.html:969
-#: templates/static_pages/usingeuropeana_search.html:49
 msgid "Add more keywords"
 msgstr ""
 
@@ -4648,566 +4577,34 @@ msgstr ""
 msgid "Submit"
 msgstr ""
 
-#: templates/static_pages/sitemap.html:4
-msgid "Europeana - Sitemap"
-msgstr "My Europeana"
-
-#: templates/static_pages/sitemap.html:27
-msgid "Searching in Europeana"
-msgstr "Ag úsáid Europeana"
-
-#: templates/static_pages/sitemap.html:39
+#: templates/static_pages/prop_file.html:1048
 #, fuzzy
-msgid "All Providers"
-msgstr "Ábhar a sholáthar"
+msgid "Incorrect password."
+msgstr "Rinne mé dearmad ar mo phasfhocal"
 
-#: templates/static_pages/sitemap.html:41
+#: templates/static_pages/prop_file.html:1049
+msgid ""
+"Log into My Europeana to save your favourite items, searches, tags and "
+"translate search keywords into other languages."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1050
 #, fuzzy
-msgid "Press Centre (on Europeana Professional)"
-msgstr "Cliceáil anseo chun filleadh ar leathanch baile Europeana"
+msgid "Please enter your username."
+msgstr "Cuir isteach seoladh r-phoist bailí le do thoil"
 
-#: templates/static_pages/sitemap.html:42
+#: templates/static_pages/prop_file.html:1051
 #, fuzzy
-msgid "Jobs (on Europeana Professional)"
-msgstr "Cliceáil anseo chun filleadh ar leathanch baile Europeana"
+msgid "Please enter your password."
+msgstr "Cuir isteach seoladh r-phoist bailí le do thoil"
 
-#: templates/static_pages/sitemap.html:43
-#, fuzzy
-msgid "Partners (on Europeana Professional)"
-msgstr "Cliceáil anseo chun filleadh ar leathanch baile Europeana"
-
-#: templates/static_pages/sitemap.html:56
-#, fuzzy
-msgid "Working with the API"
-msgstr "Ag obair le Europeana"
-
-#: templates/static_pages/sitemap.html:57
-msgid "Latest changes"
+#: templates/static_pages/prop_file.html:1052
+msgid "Registered users may choose a maximum of 6 options."
 msgstr ""
 
-#: templates/static_pages/sitemap.html:58
-msgid "Sample Code and Libraries"
+#: templates/static_pages/prop_file.html:1053
+msgid "Unregistered users may choose a maximum of 3 options."
 msgstr ""
-
-#: templates/static_pages/sitemap.html:61
-#, fuzzy
-msgid "API Methods"
-msgstr "Téarmaí úsáide"
-
-#: templates/static_pages/sitemap.html:64
-msgid "Record"
-msgstr ""
-
-#: templates/static_pages/sitemap.html:66
-#, fuzzy
-msgid "Suggestions"
-msgstr "Moltaí litrithe"
-
-#: templates/static_pages/sitemap.html:67
-#, fuzzy
-msgid "OpenSearch"
-msgstr "Cuardach sábháilte"
-
-#: templates/static_pages/sitemap.html:69
-msgid "Query Syntax"
-msgstr ""
-
-#: templates/static_pages/sitemap.html:70
-msgid "Data structure"
-msgstr ""
-
-#: templates/static_pages/sitemap.html:72
-#, fuzzy
-msgid "Europeana Fields"
-msgstr "Ag úsáid Europeana"
-
-#: templates/static_pages/sitemap.html:74
-msgid "API1-API2 compatability"
-msgstr ""
-
-#: templates/static_pages/sitemap.html:104
-#, fuzzy
-msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
-msgstr "Cliceáil anseo chun filleadh ar leathanch baile Europeana"
-
-#: templates/static_pages/sitemap.html:115
-#, fuzzy
-msgid "Free Access - no-reuse"
-msgstr "Ceart ar Cosaint - Rochtain Srianta"
-
-#: templates/static_pages/sitemap.html:116
-#, fuzzy
-msgid "Rights Reserved - Restricted access"
-msgstr "Ceart ar Cosaint - Rochtain Srianta"
-
-#: templates/static_pages/sitemap.html:117
-#, fuzzy
-msgid "Paid Access - no re-use"
-msgstr "Ceart ar Cosaint - Rochtain Srianta"
-
-#: templates/static_pages/sitemap.html:118
-msgid "Unknown copyright status"
-msgstr "Stádas cóipchirt anaithnid"
-
-#: templates/static_pages/sitemap.html:119
-#, fuzzy
-msgid "Orphan work - Free access"
-msgstr "Gach Ceart ar Cosaint - Rochtain Shaor"
-
-#: templates/static_pages/sitemap.html:120
-msgid "Orphan work"
-msgstr ""
-
-#: templates/static_pages/sitemap.html:121
-msgid "Out of copyright - non commercial reuse"
-msgstr ""
-
-#: templates/static_pages/sitemap.html:127
-#, fuzzy
-msgid "Europeana Semantic Elements (ESE)"
-msgstr "My Europeana"
-
-#: templates/static_pages/sitemap.html:128
-#, fuzzy
-msgid "Europeana metadata schemas"
-msgstr "Ag úsáid Europeana"
-
-#: templates/static_pages/storyline.html:4
-msgid "Europeana - Storyline and credits"
-msgstr "My Europeana"
-
-#: templates/static_pages/storyline.html:13
-msgid "Descartes"
-msgstr ""
-
-#: templates/static_pages/storyline.html:14
-msgid "The best place to start is with"
-msgstr "Is é an áit is fearr chun tosú ná le"
-
-#: templates/static_pages/storyline.html:14
-msgid "Rene Descartes"
-msgstr "René Descartes"
-
-#: templates/static_pages/storyline.html:14
-msgid ""
-"the man who made thinking central to our experience of the world. Cogito "
-"ergo sum wrote Descartes in 1644 in his Principia Philosophiae: I think, "
-"therefore I am. Descartes was the father of modern philosophy, and one of "
-"the great European thinkers of his time, writing in French and Latin, "
-"working and publishing in the Netherlands."
-msgstr ""
-"an fear a thug áit lárnach do mhachnamh inár n-eispéíreas ar an domhanl "
-"Cogito ergo sum a scríobh Decartes i 1644 ina Principia Philosphiae: "
-"Smaoiním, mar sin táim ann. Athair ar an bhfealsúnacht ab ea Descartes, agus "
-"é ar na smaointeoirí tábhachtacha Eorpacha ag an am. Scríobh sé as Fraincis "
-"agus as Laidin agus é ag obair agus ag foilsiú san Isiltír."
-
-#: templates/static_pages/storyline.html:15
-msgid "Newton"
-msgstr "Newton"
-
-#: templates/static_pages/storyline.html:16
-msgid ""
-"He defined laws of reflection and refraction, worked on the structure of the "
-"brain, the new physics and mathematics. He was a major influence on"
-msgstr ""
-"Shainnigh sé dlithe an fhrithchaithimh agus an athraonta, rinne obair ar "
-"struchtúr na hinchinne, an fhisic agus an mhatamaitic nua. Tionchar mór ab "
-"ea é ar"
-
-#: templates/static_pages/storyline.html:16
-msgid "Isaac Newton"
-msgstr "Isaac Newton"
-
-#: templates/static_pages/storyline.html:16
-msgid ""
-"whose laws of gravity were famously inspired by watching an apple fall. "
-"Newton's three laws of motion were published in 1687 in his"
-msgstr ""
-"a fuair an spreagadh dá dhlithe domhantarraingthe tar éis dó úll a fheiceáil "
-"ag titim. Foilsíodh a thrí dhlí gluaisne i 1687 ina leabhar "
-
-#: templates/static_pages/storyline.html:16
-msgid "Philosophiae Naturalis Principia Mathematica"
-msgstr "Philosophiae Naturalis Principia Mathematica"
-
-#: templates/static_pages/storyline.html:17
-msgid "Darwin"
-msgstr "Darwin"
-
-#: templates/static_pages/storyline.html:18
-msgid ""
-"The apple is the symbol of another fall; that of Adam and Eve, who on eating "
-"the fruit of the Tree of Knowledge of Good and Evil are banished from Eden. "
-"The fundamental challenge to the story of the Creation and the Fall is the "
-"Theory of Evolution, set out by"
-msgstr ""
-"Úsáidter an t-úll mar shiombal ar thitim eile; titim Ádhaim agus Éabha, a "
-"díbríodh ó Éidin tar éis dóibh toradh ó chrann na haithne a ithe. Is é an "
-"bundúshlán don scéal seo ar Chruthú an Domhain agus ar Thitim an Duine na "
-"Teoiric na hÉabhlóide atá leagtha amach ag"
-
-#: templates/static_pages/storyline.html:18
-msgid "Charles Darwin"
-msgstr "Charles Darwin"
-
-#: templates/static_pages/storyline.html:18
-msgid "in his famous 1859 book"
-msgstr "ina leabhar cáiliúil  sa bhliain 1859 dar teideal"
-
-#: templates/static_pages/storyline.html:18
-msgid "On the Origin of Species"
-msgstr "On the Origin of Species"
-
-#: templates/static_pages/storyline.html:18
-msgid ""
-"Darwin recognised that species were not static, but evolved to improve their "
-"chances of survival. His theories began to develop while he was the "
-"naturalist and geologist on board the ship Beagle, on a 5 year voyage "
-"surveying the coast of South America."
-msgstr ""
-"D'aithin  Darwin nach rud statach a bhí sna spéicis, ach gur éabhlóidigh "
-"siad chun a gcuid deiseanna maireachtála a fheabhsú. Thosaigh sé ag forbair "
-"na dteoiricí seo nuair a bhí sé ina nádúaí agus ina gheolaí ar bhád darbh "
-"ainm Beagel, agus é ar thuras 5 bliana ag féachaint ar chósta Mheiriceá "
-"Theas."
-
-#: templates/static_pages/storyline.html:19
-msgid "Wedgwood"
-msgstr "Wedgwood"
-
-#: templates/static_pages/storyline.html:20
-msgid ""
-"Darwin's genius was the product of an English family of talent and "
-"reputation. He was the grandson of"
-msgstr ""
-"Bhí éirim Darwin mar thoradh ar theaghlach cáiliúin a raibh buanna acu. "
-"Iarmhac "
-
-#: templates/static_pages/storyline.html:20
-msgid "Josiah Wedgwood"
-msgstr "Josiah Wedgwood"
-
-#: templates/static_pages/storyline.html:20
-msgid ""
-"one of the great entrepreneurs of the industrial revolution. Taking "
-"inspiration from Greek, Etruscan and Roman styles, especially the Portland "
-"Vase, he created a range of neo-classical pottery that delighted the new "
-"English merchant classes, keen to display their sophistication with "
-"references to design classics. Wedgwood used scientific innovation, factory "
-"techniques of mass production and the new canal network of the UK to "
-"transport his fragile wares to the new consumers of the growing towns and "
-"cities."
-msgstr ""
-"ab ea é, duine de mhórfhiontraithe na réabhlóide tionsclaí. Spreag stíleanna "
-"na Gréige, na nÉatrúscach agus na Róimhe e, go háirithe Vása Portland, agus "
-"chruthaigh sé potadóireacht nuachlaisiceach a raibh an-éileamh uirthi i "
-"measc aicmena gCeannaitheoirí Sasanacha. Theastaigh uathasan a léiriú go "
-"raibh siad sofaisticiúil. Bhain Wedgewood úsáid as nuálaíocht eolaíochta, as "
-"modhanna olltáirgeachta monarchan agus as an ngréasán canálacha sa Ríocht "
-"Aontaithe chun a chuid earraí sobhriste a thabhairt go dtí tomhaltóirí na "
-"gcathracha agus na mbailte a bhí ag fás ag an am."
-
-#: templates/static_pages/storyline.html:21
-msgid "Abolition"
-msgstr "Díothú"
-
-#: templates/static_pages/storyline.html:22
-msgid "A philanthropic employer, Wedgwood was also an early support of"
-msgstr "Fostóir daonchairdiúil ab ea Wedgewood agus thacaigh sé le"
-
-#: templates/static_pages/storyline.html:22
-msgid "abolition"
-msgstr "díothú"
-
-#: templates/static_pages/storyline.html:22
-msgid ""
-"He was a founder member of the Society for the Abolition of the Slave Trade. "
-"His support was most memorably expressed in the cameos he produced in the "
-"1780s, showing a chained slave with the motto Am I not a Man and a Brother? "
-"Distributed in their thousands, these became the first protest fashion "
-"accessory."
-msgstr ""
-"Ball bunmaidh den Chumnann um Dhíothú Trádáil Sclábhaithe ab ea é. Tá cáil "
-"air as an tacaíocht a léiríodh ina chaimeonna sna 1780í, mar a raibh "
-"sclábhaí agus slabhra air agus an mana scríte An Fear mé agus an Deartháir "
-"mé? Dáileadh na mílte díobh seo agus ba é seo an chéad uair gur úsáideadh "
-"faisean chun agóid a dhéanamh."
-
-#: templates/static_pages/storyline.html:23
-#: templates/static_pages/storyline.html:24
-msgid "Migration"
-msgstr "Imirce"
-
-#: templates/static_pages/storyline.html:24
-msgid ""
-"The anti-slavery campaigners succeeded in abolishing the slave trade in 1807 "
-"and in the following years it was outlawed in the colonies of western "
-"Europe. But the ideal of equality on which it was founded continued to "
-"inspire. Over a century on, it fuelled the political aspirations that drove "
-"the colonial independence movements."
-msgstr ""
-"D'éirigh le lucht feachtais i gcoinne na sclábhaíochta an trádáil "
-"sclábhaithe a dhíothú i 1807 agus sna blianta ina dhiaidh sin eisreachtaíodh "
-"í i gcoilíneachtaí Iarthar na hEorpa. Ach lean an t-idéal den chomhionannas "
-"ar aghaidh. Níos mó ná céad bliain ina dhiaidh sin bhí sé fós mar bhonn ag "
-"gluaiseachtaí a bhí ag lorg neamhspleáchais do na coilíneachtaí."
-
-#: templates/static_pages/storyline.html:24
-msgid ""
-"from the former colonies in recent decades has pushed concern for equality "
-"of opportunity up the political agenda as Europe has become increasingly "
-"diverse."
-msgstr ""
-"ó na hiarchoilíneachtaí le blianta beaga anuas is cúis leis an gcomhionannas "
-"deiseanna i gcúrsaí polaitíochta agus an Eoraip ag éirí níos iolchineálaí."
-
-#: templates/static_pages/storyline.html:25
-msgid "Bridgetower"
-msgstr "Bridgetower"
-
-#: templates/static_pages/storyline.html:26
-msgid ""
-"Talented Europeans of African descent were making their mark in the capitals "
-"of Europe even as the abolition movement was gathering supporters."
-msgstr ""
-"Bhí teist ar Eorpaigh de shliocht na hAifrice i bpríomhchathracha na hEorpa "
-"fiú i laethanta tosaigh ghluaiseachta an díothaithe."
-
-#: templates/static_pages/storyline.html:26
-msgid "was the Polish-born son of a West Indian servant of the"
-msgstr "mac Polannach de shearbhóna Iarthar India"
-
-#: templates/static_pages/storyline.html:26
-msgid "Prince Esterh&aacute;zy"
-msgstr "Prince Esterházy"
-
-#: templates/static_pages/storyline.html:26
-msgid ""
-"Joseph Haydn's Hungarian patron. He was a musical prodigy whose talent was "
-"quickly spotted, and he made his debut in Paris at the age of 9. One "
-"reviewer noted his talent is one of the best replies one can give to "
-"philosophers who wish to deprive people of his nation and his colour of the "
-"opportunity to distinguish themselves in the arts."
-msgstr ""
-"patrún Ungárach Joseph Haydn. Bhí bua an cheoil aige rud a tugadh faoi deara "
-"go han-luath ina shaol agus a rinna a chéad ligean i bPáras nuair nach raibh "
-"se ach 9 mbliana d'aois. Dúirt léirmheastóir amháin go ndeachaidh a bhua i "
-"gcoinne na bhfeaslúnaithe atá ag iarraidh an deis a bhaint de dhaoine as an "
-"tir chéanna agus a bhfuil an dath céanna acu ar a gcraiceann a bheith "
-"cáilíúil sna healaíona."
-
-#: templates/static_pages/storyline.html:27
-msgid "Beethoven"
-msgstr "Beethoven"
-
-#: templates/static_pages/storyline.html:28
-msgid "By 1803, Bridgetower was giving the premiere of"
-msgstr "Faoi 1803, bhí an chéad prémiere á thabhairt ag Bridgewater de"
-
-#: templates/static_pages/storyline.html:28
-msgid "Beethoven's Kreutzer sonata (Op.47)"
-msgstr "Shonáid Kreutzer Beethoven (Op. 47)"
-
-#: templates/static_pages/storyline.html:28
-msgid ""
-"He played the violin part, Beethoven the piano. So delighted was Beethoven "
-"with the performance that he initially dedicated the sonata to Bridgetower "
-"and gave him his tuning fork."
-msgstr ""
-"Sheinn seisean an veidhlín agus sheinn Beethoven an pianó. Bhí Beethoven an-"
-"tógtha leis an gceolchoirm agus thiomnaigh se an tsonáid do Bridgewater agus "
-"thug a ghabhlóg thiúnta dó."
-
-#: templates/static_pages/storyline.html:29
-msgid "Ludwig van Beethoven"
-msgstr "Ludwig van Beethoven"
-
-#: templates/static_pages/storyline.html:29
-msgid "is the greatest of the Romantic composers: his Third Symphony, the "
-msgstr "ar na cumadóirí Rómánsacha is fearr: i dtosach thiomnaigh sé a "
-
-#: templates/static_pages/storyline.html:29
-msgid "Eroica"
-msgstr "Eroica"
-
-#: templates/static_pages/storyline.html:29
-msgid "was originally dedicated to"
-msgstr "Thríú Siansa do "
-
-#: templates/static_pages/storyline.html:29
-msgid "Napoleon"
-msgstr "Napoleon"
-
-#: templates/static_pages/storyline.html:29
-msgid ""
-"who he believed ushered in an age of democracy and republican ideals. When "
-"Napoleon fell short, Beethoven scratched the dedication from the manuscript "
-"so forcefully he tore a hole through the paper."
-msgstr ""
-"mar mheas sé go raibh idéil an daonlathais agus an phbolachtánachais aige. "
-"Nuair a thuig sé nárbh ea, bhain Beethoven an tiomnú den lámhscríbhinn agus "
-"chuir poll tríd an bpáipéar."
-
-#: templates/static_pages/storyline.html:30
-msgid "Rossini"
-msgstr "Rossini"
-
-#: templates/static_pages/storyline.html:31
-msgid ""
-"Beethoven's genius was felt across Europe and had a profound influence on "
-"the succeeding generation of composers, including"
-msgstr ""
-"Bhí bua an cheoil ag Beethoven agus é aitheanta ar fud na hEorpa. Bhí "
-"tionchar nach beag aige ar an gcéad ghlúin eile de chumadóirí. Orthu seo bhí"
-
-#: templates/static_pages/storyline.html:31
-msgid "Gioachino Antonio Rossini"
-msgstr "Gioachino Antonio Rossini"
-
-#: templates/static_pages/storyline.html:31
-msgid ""
-"Rossini travelled to Vienna in 1822, where he met the master. His reverence "
-"was such that he asked for Beethoven's Funeral March to be played at his "
-"burial in Paris."
-msgstr ""
-"Chuaigh Rossini go dtí Vín i 1822 mar ar bhuail sé leis an máistir. Bhí omós "
-"chomh mór sin aige air gur iarr sé go seinnfi Ceol Sochraide Beethoven ag a "
-"shochraid féin i bPáras."
-
-#: templates/static_pages/storyline.html:32
-msgid ""
-"Rossini's popularity continued into the 20th century. The most famous diva "
-"of the time,"
-msgstr "Bhí cáil fós ar Rossini sa 20ú aois agus bhí an t-amhránaí"
-
-#: templates/static_pages/storyline.html:32
-msgid "Maria Callas"
-msgstr "Maria Callas"
-
-#: templates/static_pages/storyline.html:32
-msgid ""
-"was one of his great interpreters; Una voce poco fa, Rosina's famous aria "
-"from"
-msgstr ""
-"an-tógtha leis; Una voce poco fa,agus bhíodh áiria clúiteach de chuid "
-"Rossini ó"
-
-#: templates/static_pages/storyline.html:32
-msgid "The Barber of Seville"
-msgstr "The Barber of Seville"
-
-#: templates/static_pages/storyline.html:32
-msgid ""
-"was a fixture in her concert repertoire. Rossini's speed for musical "
-"composition was legendary, particularly of"
-msgstr ""
-"mar amhán ina gceolchoirmeacha go minic. Bhí teist ar Rossini mar go raibh "
-"sé chomh tapaidh sin ag cumad ceoil go háirithe"
-
-#: templates/static_pages/storyline.html:32
-msgid "La Gazza Ladra - The Thieving Magpie"
-msgstr "Ladra Gazza La - An Snag Breac Bradach"
-
-#: templates/static_pages/storyline.html:33
-msgid "Magpies and mirrors"
-msgstr "Snaganna breaca agus scátháin"
-
-#: templates/static_pages/storyline.html:34
-msgid ""
-"The title refers to the magpie's eye for shining things; like Europeana, it "
-"gathers treasures."
-msgstr ""
-"Tagraíonn an teideal do dhúil an tsnaga bhric do rithe glioscarnacha; mar a "
-"dhéanann Europeana, bailíonn sé seoda/"
-
-#: templates/static_pages/storyline.html:34
-msgid "The magpie"
-msgstr "Meastar gurb é an snag breac "
-
-#: templates/static_pages/storyline.html:34
-msgid ""
-"is also believed to be the only non-mammal that can recognise its reflection "
-"in a mirror; which brings us back to Descartes' interest in reflection and "
-"refraction. Artists through the ages have similarly been fascinated with the "
-"properties of light and perception as depicted in the vivid translucency of "
-"Renaissance and Baroque portraits; the perspective of"
-msgstr ""
-"an t-aon neamh-mhamach a aithníonn é féin i scáthán; rud a chuireann i "
-"gcuimhne dúinn go raibh spéis ag Descartes i bhfithchaitheamh agus in "
-"athraonadh. Bhí suim ag ealaíontóiri riamh in airíonna an tsolais agus na "
-"haireachtála mar a léirítear i bportráidí ildaite, tréshoilseacha "
-"Renaissance agus Barócacha; peirspictíocht "
-
-#: templates/static_pages/storyline.html:34
-msgid "Johannes Vermeer"
-msgstr "Johannes Vermeer"
-
-#: templates/static_pages/storyline.html:34
-msgid ""
-"enthralled by the discoveries of the Scientific revolution; the technical "
-"virtuosity of 19th century Pointillists which led onto 20th century Cubism, "
-"where both objects and space merge."
-msgstr ""
-"a raibh suim nach beag aige i bhfionnachtana na réabhlóide eolaíochta; "
-"rímháistreacht Phóintíligh an 19ú haois a bhí mar bhonn do Chiúbachas an 20ú "
-"aois, mar a thagann míreanna agus spás le chéile."
-
-#: templates/static_pages/storyline.html:35
-msgid ""
-"Most of all, the eyes, the faces, the ideas from the past invite us to think "
-"again: to take inspiration, to make new connections and to share new "
-"discoveries."
-msgstr ""
-"Go háirithe, cúis athmhacnaimh dúinn is ea súile, aghaidheanna agus smaoine "
-"na seanaimsire; a bheith spreagtha, agus chun naisc nua a chruthúa agus "
-"fionnachtana nua a roinnt."
-
-#: templates/static_pages/storyline.html:36
-msgid "Credits: the music, the images and where they came from"
-msgstr "Creidiúintí: an ceol, na híomhánna agus cad as ar tháinig siad"
-
-#: templates/static_pages/storyline.html:38
-msgid ""
-"We are very grateful to all those who helped make the video, especially its "
-"creators"
-msgstr ""
-"Táimid an-bhuíoch díobh siúd a chabhraigh leis an bhfís, go háirithe an iad "
-"siúd a chruthaigh í"
-
-#: templates/static_pages/storyline.html:40
-msgid ""
-"Many of our partners gave us permission to use their images in the video. "
-"Thanks to our colleagues in the\n"
-"    organisations listed below."
-msgstr ""
-"Thug roinn mhaith comhpháirtithe dár gcuid cead dúinn a gcuid íomhánna a "
-"úsáid san fhís. Gabhaimid buíochas leis na heagraíóchtaí atá liostaithe "
-"anseo thíos."
-
-#: templates/static_pages/storyline.html:43
-msgid "The music is primarily drawn from Irmin Schmidt's"
-msgstr "Is ó Irmin Schimdt a fuarthas an chuid ba mhó den cheol"
-
-#: templates/static_pages/storyline.html:43
-msgid "Those Fuzzy Things (out there)"
-msgstr ""
-
-#: templates/static_pages/storyline.html:43
-msgid ""
-"much appreciation to Cit&eacute;\n"
-"    de la Musique for enabling us to use it as the basis for our soundtrack."
-msgstr ""
-"Táimid buíoch le Cité de la Musique as cead a thabhairt dúinn é a úsáid mar "
-"bhonn dár bhfuaimrian"
-
-#: templates/static_pages/storyline.html:51
-msgid "Collection"
-msgstr "Bailiúchán"
-
-#: templates/static_pages/storyline.html:52
-msgid "Link"
-msgstr "Nasc"
 
 #: templates/static_pages/usingeuropeana.html:11
 msgid ""
@@ -5227,13 +4624,10 @@ msgid "Refined search"
 msgstr "Cuardach casta"
 
 #: templates/static_pages/usingeuropeana.html:14
-#: templates/static_pages/usingeuropeana_search.html:39
-#: templates/static_pages/usingeuropeana_search.html:41
 msgid "Phrase search"
 msgstr "Cuardach casta"
 
 #: templates/static_pages/usingeuropeana.html:14
-#: templates/static_pages/usingeuropeana_search.html:43
 msgid "Exclude words"
 msgstr "Fág amach na focail"
 
@@ -5344,70 +4738,6 @@ msgstr ""
 
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "area"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:3
-msgid "Europeana - Using My Europeana"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:10
-msgid "is your personal space on Europeana."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:11
-msgid "Register for"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:11
-#, fuzzy
-msgid "and you can"
-msgstr "An é seo a bhí i gceist agat?"
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:14
-msgid ""
-"Keep up to date on a particular topic in Europeana by saving a search, so "
-"you can easily perform it again in future."
-msgstr ""
-"Bíodh an t-eolas is úire agat mar gheall ar thopaic in Europeana trí "
-"chuardach a shábháil, i dtreo is go mbeidh sé éasca duit an cuardach céanna "
-"a dhéanamh sa todhchaí."
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:15
-#, fuzzy
-msgid ""
-"Label your favourite items in Europeana with tags that mean something to "
-"you. You can then see all objects you have tagged, sorted by the keywords "
-"you have chosen, in the My Europeana interface."
-msgstr ""
-"Cuir lipeád ar na míreanna is fearr leat ar Europeana le clibeanna a "
-"dhéanann ciall duitse. Ina dhiaidh sin is féidir leat na míreanna, a bhfuil "
-"clib curtha agat orthu, a fheiceáil, agus iad scagtha de réir na n-"
-"eocharfhocal atá roghnaithe agatsa ar chomhéadan MyEuropeana."
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:16
-msgid "Store your favourite items for later viewing."
-msgstr "Stóráil na míreanna is fearr leat chun féachaint orthu níos déanaí."
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:17
-msgid ""
-"If you are a developer who has registered for one or more API keys, these "
-"will be shown on the API Keys tab."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:20
-msgid "To save a search, add a tag or save an item, simply login to"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:20
-msgid "and click on the relevant action from the menu."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:21
-msgid "To view your saved items, searches and tags, use the"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:21
-msgid "shortcuts in the header."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:3
@@ -5656,634 +4986,624 @@ msgid ""
 "returns. Simply hit the link to perform the search."
 msgstr ""
 
-#: templates/static_pages/usingeuropeana_search.html:3
+#~ msgid "Europeana - New Content"
+#~ msgstr "My Europeana"
+
+#~ msgid "Europeana - Sitemap"
+#~ msgstr "My Europeana"
+
+#~ msgid "Searching in Europeana"
+#~ msgstr "Ag úsáid Europeana"
+
 #, fuzzy
-msgid "Europeana - Searching Europeana"
-msgstr "My Europeana"
+#~ msgid "All Providers"
+#~ msgstr "Ábhar a sholáthar"
 
-#: templates/static_pages/usingeuropeana_search.html:11
 #, fuzzy
-msgid ""
-"Welcome to Europeana. This page describes some of the things that you can do "
-"while you are here. Learn more about:"
-msgstr ""
-"Fáilte go dtí Europeana. Cuirtear síos sa leathanach seo ar chuid de na "
-"rudaí is féidir leat a dhéanamh fad is atá tú anseo. Foghlaim níos mó mar "
-"gheall ar"
+#~ msgid "Press Centre (on Europeana Professional)"
+#~ msgstr "Cliceáil anseo chun filleadh ar leathanch baile Europeana"
 
-#: templates/static_pages/usingeuropeana_search.html:13
-msgid ""
-"Search tips, refined search, phrase search, exclude words, auto-completion, "
-"filter results, share your search."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:14
-msgid "exhibitions, new content."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:15
-msgid ""
-"Seeing further details, rights and licence information, translating details, "
-"searching on external services, related searches on Europeana, viewing item "
-"on provider's site, embedding, and citing."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:16
-msgid "Saving searches, saving items, and adding tags."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:19
 #, fuzzy
-msgid "General Search"
-msgstr "Cuardach casta"
+#~ msgid "Jobs (on Europeana Professional)"
+#~ msgstr "Cliceáil anseo chun filleadh ar leathanch baile Europeana"
 
-#: templates/static_pages/usingeuropeana_search.html:21
 #, fuzzy
-msgid ""
-"Searching the millions of items in Europeana is simple. Just enter your "
-"search term and hit"
-msgstr ""
-"Is furasta na milliúin mír atá in Europeana a chuardach. Níl le déanamh ach "
-"ceisteanna chur ort féin agus na focail a cur i mbosca cuardaigh Europeana. "
-"D'fhéadfá triail a bhaint as"
+#~ msgid "Partners (on Europeana Professional)"
+#~ msgstr "Cliceáil anseo chun filleadh ar leathanch baile Europeana"
 
-#: templates/static_pages/usingeuropeana_search.html:23
 #, fuzzy
-msgid "Specific search"
-msgstr "Cuardach casta"
+#~ msgid "Working with the API"
+#~ msgstr "Ag obair le Europeana"
 
-#: templates/static_pages/usingeuropeana_search.html:25
-msgid "You can narrow your search with the arrow to the right of"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:25
 #, fuzzy
-msgid "Search All fields"
-msgstr "Cuardach sábháilte"
+#~ msgid "API Methods"
+#~ msgstr "Téarmaí úsáide"
 
-#: templates/static_pages/usingeuropeana_search.html:25
-msgid "and selecting a category"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:25
-msgid "Titles, Creators, Subjects, Dates/Periods, Places"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:25
-msgid "Then enter your search term and hit"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:27
 #, fuzzy
-msgid ""
-"Alternatively, just ask yourself who, what, where or when you are interested "
-"in and type these words into Europeana's search box followed by a colon (:). "
-"Then enter your search term and hit"
-msgstr ""
-"Is furasta na milliúin mír atá in Europeana a chuardach. Níl le déanamh ach "
-"ceisteanna chur ort féin agus na focail a cur i mbosca cuardaigh Europeana. "
-"D'fhéadfá triail a bhaint as"
+#~ msgid "Suggestions"
+#~ msgstr "Moltaí litrithe"
 
-#: templates/static_pages/usingeuropeana_search.html:29
-msgid "For specific searches, you could:"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:31
-#: templates/static_pages/usingeuropeana_search.html:32
-#: templates/static_pages/usingeuropeana_search.html:33
-#: templates/static_pages/usingeuropeana_search.html:34
-msgid "Use the"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:31
-#: templates/static_pages/usingeuropeana_search.html:32
-#: templates/static_pages/usingeuropeana_search.html:33
-#: templates/static_pages/usingeuropeana_search.html:34
 #, fuzzy
-msgid "filter or enter"
-msgstr "Cuir isteach do r-phost"
+#~ msgid "OpenSearch"
+#~ msgstr "Cuardach sábháilte"
 
-#: templates/static_pages/usingeuropeana_search.html:31
-msgid ""
-"followed by a name of, for example, an actor, author or architect. Your "
-"results will display only items for which the name you entered is listed as "
-"the creator. For example, searching for"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:31
-msgid ""
-"will narrow your results to van Gogh's works, excluding photographs of the "
-"artist or documentaries about him and his work."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid ""
-"followed by a type of item, a subject you are interested in or words from "
-"the title of the item you are looking for. Your search results will display "
-"only items of the requested type or subject or items whose title includes "
-"your search term. For example, searching for"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid "will narrow your results to maps, or"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid ""
-"will display artworks, buildings and monuments done in the Art Nouveau style."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:33
 #, fuzzy
-msgid "Place"
-msgstr "leathanaigh"
+#~ msgid "Europeana Fields"
+#~ msgstr "Ag úsáid Europeana"
 
-#: templates/static_pages/usingeuropeana_search.html:33
-msgid ""
-"followed by a name of a town, city or country within Europe or around the "
-"world. Your search results will display only items which were created in, "
-"published in or depict the place you are searching for. For example, "
-"searching for"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:33
-msgid ""
-"will help you differentiate your search when you are looking only for "
-"objects created or held in Milan, excluding items on writer Milan Kundera "
-"from your search results."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:34
-msgid ""
-"followed by a date (e.g. 1945) or a period (e.g. Roman or Medieval). Your "
-"search results will display only items for which the date is listed in the "
-"item's date field. For example, searching for"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:34
-msgid ""
-"will help you differentiate your search when you are looking only for items "
-"dated 1984, excluding items that have 1984 in their title or description, "
-"like George Orwell's novel."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:37
-msgid ""
-"These search functions also have support for different spellings and "
-"languages. For example, when you search for"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:37
-msgid ""
-"the results will also include items with Milano, Mailand or Milanas listed "
-"as their geographic coverage."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:41
-msgid "is also possible. Just put"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:41
-msgid "quotation marks"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:41
-msgid "e.g."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:41
-msgid "around the phrase you want to find, or type"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:41
-msgid "between the keywords (e.g."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:43
-msgid "by typing"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:43
-msgid "in capital letters, followed by the word you want to omit (e.g."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:45
-msgid "Another helpful search feature is"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:45
-msgid "Auto completion"
-msgstr "Cur i gcrích uathoibríoch"
-
-#: templates/static_pages/usingeuropeana_search.html:45
 #, fuzzy
-msgid ""
-"Start typing a search term. Europeana will suggest words that may match what "
-"you are thinking of. Just select the term you want and hit"
-msgstr ""
-"Tosaigh leat ag clóscríobh téarma. Déanfaidh Europeana focail a mholadh duit "
-"agus d'fhéadfadh sé go meaitseálfaidís an focal atá sa cheann agat. Brúigh "
-"ar an saighead síos chun teacht ar an téarma a theasaíonn uait agus brúig ar "
-"'enter' chun cuardach a dhéanmh leis an téarma sin."
+#~ msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
+#~ msgstr "Cliceáil anseo chun filleadh ar leathanch baile Europeana"
 
-#: templates/static_pages/usingeuropeana_search.html:47
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid "Refine your search"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid ""
-"Once you have done an initial search, results can be narrowed down with the"
-msgstr ""
-"Nuair a bheidh do chéad chuardach déanta agat, is féidr na torthaí a scagadh "
-"leis an"
-
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid ""
-"functions. These are in the grey pane on the search results screen. You can "
-"add more keywords to your search, thereby narrowing the search results. Just "
-"type your keyword into the"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid "field and hit"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid "The keyword is displayed at the top of the pane, under"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:49
 #, fuzzy
-msgid "Matches for."
-msgstr "an fhoirm seo"
+#~ msgid "Free Access - no-reuse"
+#~ msgstr "Ceart ar Cosaint - Rochtain Srianta"
 
-#: templates/static_pages/usingeuropeana_search.html:51
-msgid "To remove a keyword, hit the X icon next to the relevant keyword in the"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:51
-msgid "list."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:53
-msgid "You can also"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:53
 #, fuzzy
-msgid "filter your search results:"
-msgstr "Cuir isteach do r-phost"
+#~ msgid "Rights Reserved - Restricted access"
+#~ msgstr "Ceart ar Cosaint - Rochtain Srianta"
 
-#: templates/static_pages/usingeuropeana_search.html:55
-msgid ""
-"will display only objects of a selected media type (images, text, video, "
-"sound or 3D). "
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:56
-msgid "By language"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:56
-msgid ""
-"will display only objects with descriptions in selected languages, i.e. the "
-"language of the institution that provided the object to Europeana."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:57
-msgid "By date"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:57
-msgid "will display only objects with selected dates."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:58
-msgid "By country"
-msgstr "Tír"
-
-#: templates/static_pages/usingeuropeana_search.html:58
-msgid ""
-"will display only objects from selected countries, i.e. the country of the "
-"institution that provided the object to Europeana."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:59
-msgid ""
-"will display objects labelled with the selected copyright label(s). This "
-"copyright label indicates how you may reuse the digital object, including "
-"the preview."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:60
-msgid "will display only objects from selected institutions"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:63
-msgid ""
-"Select the filter name, e.g. 'By language' to expand it. Then just use the "
-"check boxes for the categories you wish the search results to include. The "
-"results will refresh automatically. The filter will be added to the"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:63
-msgid "list at the top of the pane."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:65
-msgid "To remove a filter, hit the X icon next to the item in the"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:65
-msgid "list, or de-select the check box next to the filter category."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:67
-msgid "You can also select to"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:67
-msgid ""
-"This means items that have not come from a cultural institution but from an "
-"individual user, for example, items contributed to the Europeana 1914-1918 "
-"project."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:69
-msgid "Share your search with friends by choosing"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:69
-msgid ""
-"A full list of social media sharing options is presented. Just select one "
-"you want. This also includes print and email options."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:3
 #, fuzzy
-msgid "Europeana - How to configure your search widget"
-msgstr "My Europeana"
+#~ msgid "Paid Access - no re-use"
+#~ msgstr "Ceart ar Cosaint - Rochtain Srianta"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:10
-msgid "You can add a Europeana search facility to your blog or website."
-msgstr ""
+#~ msgid "Unknown copyright status"
+#~ msgstr "Stádas cóipchirt anaithnid"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:10
-msgid "Our simple wizard"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:10
-msgid ""
-"takes you through the process step-by-step and gives you a snippet of code "
-"to embed."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:11
-msgid ""
-"Configure the widget to search all collections and data providers within "
-"Europeana, or refine it to suit your website, e.g. to search only within "
-"Public Domain or Creative Commons, or only licensed images from a specific "
-"country."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:12
 #, fuzzy
-msgid "The Europeana Search Widget works with..."
-msgstr "My Europeana"
+#~ msgid "Orphan work - Free access"
+#~ msgstr "Gach Ceart ar Cosaint - Rochtain Shaor"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:13
-msgid "Sites that you host yourself."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:18
 #, fuzzy
-msgid "The Europeana Search Widget doesn't work with..."
-msgstr "My Europeana"
+#~ msgid "Europeana Semantic Elements (ESE)"
+#~ msgstr "My Europeana"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:19
-msgid "Blogs hosted on Wordpress.com"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:20
 #, fuzzy
-msgid "Set up your Europeana Search Widget:"
-msgstr "My Europeana"
+#~ msgid "Europeana metadata schemas"
+#~ msgstr "Ag úsáid Europeana"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:22
+#~ msgid "Europeana - Storyline and credits"
+#~ msgstr "My Europeana"
+
+#~ msgid "The best place to start is with"
+#~ msgstr "Is é an áit is fearr chun tosú ná le"
+
+#~ msgid "Rene Descartes"
+#~ msgstr "René Descartes"
+
+#~ msgid ""
+#~ "the man who made thinking central to our experience of the world. Cogito "
+#~ "ergo sum wrote Descartes in 1644 in his Principia Philosophiae: I think, "
+#~ "therefore I am. Descartes was the father of modern philosophy, and one of "
+#~ "the great European thinkers of his time, writing in French and Latin, "
+#~ "working and publishing in the Netherlands."
+#~ msgstr ""
+#~ "an fear a thug áit lárnach do mhachnamh inár n-eispéíreas ar an domhanl "
+#~ "Cogito ergo sum a scríobh Decartes i 1644 ina Principia Philosphiae: "
+#~ "Smaoiním, mar sin táim ann. Athair ar an bhfealsúnacht ab ea Descartes, "
+#~ "agus é ar na smaointeoirí tábhachtacha Eorpacha ag an am. Scríobh sé as "
+#~ "Fraincis agus as Laidin agus é ag obair agus ag foilsiú san Isiltír."
+
+#~ msgid "Newton"
+#~ msgstr "Newton"
+
+#~ msgid ""
+#~ "He defined laws of reflection and refraction, worked on the structure of "
+#~ "the brain, the new physics and mathematics. He was a major influence on"
+#~ msgstr ""
+#~ "Shainnigh sé dlithe an fhrithchaithimh agus an athraonta, rinne obair ar "
+#~ "struchtúr na hinchinne, an fhisic agus an mhatamaitic nua. Tionchar mór "
+#~ "ab ea é ar"
+
+#~ msgid "Isaac Newton"
+#~ msgstr "Isaac Newton"
+
+#~ msgid ""
+#~ "whose laws of gravity were famously inspired by watching an apple fall. "
+#~ "Newton's three laws of motion were published in 1687 in his"
+#~ msgstr ""
+#~ "a fuair an spreagadh dá dhlithe domhantarraingthe tar éis dó úll a "
+#~ "fheiceáil ag titim. Foilsíodh a thrí dhlí gluaisne i 1687 ina leabhar "
+
+#~ msgid "Philosophiae Naturalis Principia Mathematica"
+#~ msgstr "Philosophiae Naturalis Principia Mathematica"
+
+#~ msgid "Darwin"
+#~ msgstr "Darwin"
+
+#~ msgid ""
+#~ "The apple is the symbol of another fall; that of Adam and Eve, who on "
+#~ "eating the fruit of the Tree of Knowledge of Good and Evil are banished "
+#~ "from Eden. The fundamental challenge to the story of the Creation and the "
+#~ "Fall is the Theory of Evolution, set out by"
+#~ msgstr ""
+#~ "Úsáidter an t-úll mar shiombal ar thitim eile; titim Ádhaim agus Éabha, a "
+#~ "díbríodh ó Éidin tar éis dóibh toradh ó chrann na haithne a ithe. Is é an "
+#~ "bundúshlán don scéal seo ar Chruthú an Domhain agus ar Thitim an Duine na "
+#~ "Teoiric na hÉabhlóide atá leagtha amach ag"
+
+#~ msgid "Charles Darwin"
+#~ msgstr "Charles Darwin"
+
+#~ msgid "in his famous 1859 book"
+#~ msgstr "ina leabhar cáiliúil  sa bhliain 1859 dar teideal"
+
+#~ msgid "On the Origin of Species"
+#~ msgstr "On the Origin of Species"
+
+#~ msgid ""
+#~ "Darwin recognised that species were not static, but evolved to improve "
+#~ "their chances of survival. His theories began to develop while he was the "
+#~ "naturalist and geologist on board the ship Beagle, on a 5 year voyage "
+#~ "surveying the coast of South America."
+#~ msgstr ""
+#~ "D'aithin  Darwin nach rud statach a bhí sna spéicis, ach gur éabhlóidigh "
+#~ "siad chun a gcuid deiseanna maireachtála a fheabhsú. Thosaigh sé ag "
+#~ "forbair na dteoiricí seo nuair a bhí sé ina nádúaí agus ina gheolaí ar "
+#~ "bhád darbh ainm Beagel, agus é ar thuras 5 bliana ag féachaint ar chósta "
+#~ "Mheiriceá Theas."
+
+#~ msgid "Wedgwood"
+#~ msgstr "Wedgwood"
+
+#~ msgid ""
+#~ "Darwin's genius was the product of an English family of talent and "
+#~ "reputation. He was the grandson of"
+#~ msgstr ""
+#~ "Bhí éirim Darwin mar thoradh ar theaghlach cáiliúin a raibh buanna acu. "
+#~ "Iarmhac "
+
+#~ msgid "Josiah Wedgwood"
+#~ msgstr "Josiah Wedgwood"
+
+#~ msgid ""
+#~ "one of the great entrepreneurs of the industrial revolution. Taking "
+#~ "inspiration from Greek, Etruscan and Roman styles, especially the "
+#~ "Portland Vase, he created a range of neo-classical pottery that delighted "
+#~ "the new English merchant classes, keen to display their sophistication "
+#~ "with references to design classics. Wedgwood used scientific innovation, "
+#~ "factory techniques of mass production and the new canal network of the UK "
+#~ "to transport his fragile wares to the new consumers of the growing towns "
+#~ "and cities."
+#~ msgstr ""
+#~ "ab ea é, duine de mhórfhiontraithe na réabhlóide tionsclaí. Spreag "
+#~ "stíleanna na Gréige, na nÉatrúscach agus na Róimhe e, go háirithe Vása "
+#~ "Portland, agus chruthaigh sé potadóireacht nuachlaisiceach a raibh an-"
+#~ "éileamh uirthi i measc aicmena gCeannaitheoirí Sasanacha. Theastaigh "
+#~ "uathasan a léiriú go raibh siad sofaisticiúil. Bhain Wedgewood úsáid as "
+#~ "nuálaíocht eolaíochta, as modhanna olltáirgeachta monarchan agus as an "
+#~ "ngréasán canálacha sa Ríocht Aontaithe chun a chuid earraí sobhriste a "
+#~ "thabhairt go dtí tomhaltóirí na gcathracha agus na mbailte a bhí ag fás "
+#~ "ag an am."
+
+#~ msgid "Abolition"
+#~ msgstr "Díothú"
+
+#~ msgid "A philanthropic employer, Wedgwood was also an early support of"
+#~ msgstr "Fostóir daonchairdiúil ab ea Wedgewood agus thacaigh sé le"
+
+#~ msgid "abolition"
+#~ msgstr "díothú"
+
+#~ msgid ""
+#~ "He was a founder member of the Society for the Abolition of the Slave "
+#~ "Trade. His support was most memorably expressed in the cameos he produced "
+#~ "in the 1780s, showing a chained slave with the motto Am I not a Man and a "
+#~ "Brother? Distributed in their thousands, these became the first protest "
+#~ "fashion accessory."
+#~ msgstr ""
+#~ "Ball bunmaidh den Chumnann um Dhíothú Trádáil Sclábhaithe ab ea é. Tá "
+#~ "cáil air as an tacaíocht a léiríodh ina chaimeonna sna 1780í, mar a raibh "
+#~ "sclábhaí agus slabhra air agus an mana scríte An Fear mé agus an "
+#~ "Deartháir mé? Dáileadh na mílte díobh seo agus ba é seo an chéad uair gur "
+#~ "úsáideadh faisean chun agóid a dhéanamh."
+
+#~ msgid "Migration"
+#~ msgstr "Imirce"
+
+#~ msgid ""
+#~ "The anti-slavery campaigners succeeded in abolishing the slave trade in "
+#~ "1807 and in the following years it was outlawed in the colonies of "
+#~ "western Europe. But the ideal of equality on which it was founded "
+#~ "continued to inspire. Over a century on, it fuelled the political "
+#~ "aspirations that drove the colonial independence movements."
+#~ msgstr ""
+#~ "D'éirigh le lucht feachtais i gcoinne na sclábhaíochta an trádáil "
+#~ "sclábhaithe a dhíothú i 1807 agus sna blianta ina dhiaidh sin "
+#~ "eisreachtaíodh í i gcoilíneachtaí Iarthar na hEorpa. Ach lean an t-idéal "
+#~ "den chomhionannas ar aghaidh. Níos mó ná céad bliain ina dhiaidh sin bhí "
+#~ "sé fós mar bhonn ag gluaiseachtaí a bhí ag lorg neamhspleáchais do na "
+#~ "coilíneachtaí."
+
+#~ msgid ""
+#~ "from the former colonies in recent decades has pushed concern for "
+#~ "equality of opportunity up the political agenda as Europe has become "
+#~ "increasingly diverse."
+#~ msgstr ""
+#~ "ó na hiarchoilíneachtaí le blianta beaga anuas is cúis leis an "
+#~ "gcomhionannas deiseanna i gcúrsaí polaitíochta agus an Eoraip ag éirí "
+#~ "níos iolchineálaí."
+
+#~ msgid "Bridgetower"
+#~ msgstr "Bridgetower"
+
+#~ msgid ""
+#~ "Talented Europeans of African descent were making their mark in the "
+#~ "capitals of Europe even as the abolition movement was gathering "
+#~ "supporters."
+#~ msgstr ""
+#~ "Bhí teist ar Eorpaigh de shliocht na hAifrice i bpríomhchathracha na "
+#~ "hEorpa fiú i laethanta tosaigh ghluaiseachta an díothaithe."
+
+#~ msgid "was the Polish-born son of a West Indian servant of the"
+#~ msgstr "mac Polannach de shearbhóna Iarthar India"
+
+#~ msgid "Prince Esterh&aacute;zy"
+#~ msgstr "Prince Esterházy"
+
+#~ msgid ""
+#~ "Joseph Haydn's Hungarian patron. He was a musical prodigy whose talent "
+#~ "was quickly spotted, and he made his debut in Paris at the age of 9. One "
+#~ "reviewer noted his talent is one of the best replies one can give to "
+#~ "philosophers who wish to deprive people of his nation and his colour of "
+#~ "the opportunity to distinguish themselves in the arts."
+#~ msgstr ""
+#~ "patrún Ungárach Joseph Haydn. Bhí bua an cheoil aige rud a tugadh faoi "
+#~ "deara go han-luath ina shaol agus a rinna a chéad ligean i bPáras nuair "
+#~ "nach raibh se ach 9 mbliana d'aois. Dúirt léirmheastóir amháin go "
+#~ "ndeachaidh a bhua i gcoinne na bhfeaslúnaithe atá ag iarraidh an deis a "
+#~ "bhaint de dhaoine as an tir chéanna agus a bhfuil an dath céanna acu ar a "
+#~ "gcraiceann a bheith cáilíúil sna healaíona."
+
+#~ msgid "Beethoven"
+#~ msgstr "Beethoven"
+
+#~ msgid "By 1803, Bridgetower was giving the premiere of"
+#~ msgstr "Faoi 1803, bhí an chéad prémiere á thabhairt ag Bridgewater de"
+
+#~ msgid "Beethoven's Kreutzer sonata (Op.47)"
+#~ msgstr "Shonáid Kreutzer Beethoven (Op. 47)"
+
+#~ msgid ""
+#~ "He played the violin part, Beethoven the piano. So delighted was "
+#~ "Beethoven with the performance that he initially dedicated the sonata to "
+#~ "Bridgetower and gave him his tuning fork."
+#~ msgstr ""
+#~ "Sheinn seisean an veidhlín agus sheinn Beethoven an pianó. Bhí Beethoven "
+#~ "an-tógtha leis an gceolchoirm agus thiomnaigh se an tsonáid do "
+#~ "Bridgewater agus thug a ghabhlóg thiúnta dó."
+
+#~ msgid "Ludwig van Beethoven"
+#~ msgstr "Ludwig van Beethoven"
+
+#~ msgid "is the greatest of the Romantic composers: his Third Symphony, the "
+#~ msgstr "ar na cumadóirí Rómánsacha is fearr: i dtosach thiomnaigh sé a "
+
+#~ msgid "Eroica"
+#~ msgstr "Eroica"
+
+#~ msgid "was originally dedicated to"
+#~ msgstr "Thríú Siansa do "
+
+#~ msgid "Napoleon"
+#~ msgstr "Napoleon"
+
+#~ msgid ""
+#~ "who he believed ushered in an age of democracy and republican ideals. "
+#~ "When Napoleon fell short, Beethoven scratched the dedication from the "
+#~ "manuscript so forcefully he tore a hole through the paper."
+#~ msgstr ""
+#~ "mar mheas sé go raibh idéil an daonlathais agus an phbolachtánachais "
+#~ "aige. Nuair a thuig sé nárbh ea, bhain Beethoven an tiomnú den "
+#~ "lámhscríbhinn agus chuir poll tríd an bpáipéar."
+
+#~ msgid "Rossini"
+#~ msgstr "Rossini"
+
+#~ msgid ""
+#~ "Beethoven's genius was felt across Europe and had a profound influence on "
+#~ "the succeeding generation of composers, including"
+#~ msgstr ""
+#~ "Bhí bua an cheoil ag Beethoven agus é aitheanta ar fud na hEorpa. Bhí "
+#~ "tionchar nach beag aige ar an gcéad ghlúin eile de chumadóirí. Orthu seo "
+#~ "bhí"
+
+#~ msgid "Gioachino Antonio Rossini"
+#~ msgstr "Gioachino Antonio Rossini"
+
+#~ msgid ""
+#~ "Rossini travelled to Vienna in 1822, where he met the master. His "
+#~ "reverence was such that he asked for Beethoven's Funeral March to be "
+#~ "played at his burial in Paris."
+#~ msgstr ""
+#~ "Chuaigh Rossini go dtí Vín i 1822 mar ar bhuail sé leis an máistir. Bhí "
+#~ "omós chomh mór sin aige air gur iarr sé go seinnfi Ceol Sochraide "
+#~ "Beethoven ag a shochraid féin i bPáras."
+
+#~ msgid ""
+#~ "Rossini's popularity continued into the 20th century. The most famous "
+#~ "diva of the time,"
+#~ msgstr "Bhí cáil fós ar Rossini sa 20ú aois agus bhí an t-amhránaí"
+
+#~ msgid "Maria Callas"
+#~ msgstr "Maria Callas"
+
+#~ msgid ""
+#~ "was one of his great interpreters; Una voce poco fa, Rosina's famous aria "
+#~ "from"
+#~ msgstr ""
+#~ "an-tógtha leis; Una voce poco fa,agus bhíodh áiria clúiteach de chuid "
+#~ "Rossini ó"
+
+#~ msgid "The Barber of Seville"
+#~ msgstr "The Barber of Seville"
+
+#~ msgid ""
+#~ "was a fixture in her concert repertoire. Rossini's speed for musical "
+#~ "composition was legendary, particularly of"
+#~ msgstr ""
+#~ "mar amhán ina gceolchoirmeacha go minic. Bhí teist ar Rossini mar go "
+#~ "raibh sé chomh tapaidh sin ag cumad ceoil go háirithe"
+
+#~ msgid "La Gazza Ladra - The Thieving Magpie"
+#~ msgstr "Ladra Gazza La - An Snag Breac Bradach"
+
+#~ msgid "Magpies and mirrors"
+#~ msgstr "Snaganna breaca agus scátháin"
+
+#~ msgid ""
+#~ "The title refers to the magpie's eye for shining things; like Europeana, "
+#~ "it gathers treasures."
+#~ msgstr ""
+#~ "Tagraíonn an teideal do dhúil an tsnaga bhric do rithe glioscarnacha; mar "
+#~ "a dhéanann Europeana, bailíonn sé seoda/"
+
+#~ msgid "The magpie"
+#~ msgstr "Meastar gurb é an snag breac "
+
+#~ msgid ""
+#~ "is also believed to be the only non-mammal that can recognise its "
+#~ "reflection in a mirror; which brings us back to Descartes' interest in "
+#~ "reflection and refraction. Artists through the ages have similarly been "
+#~ "fascinated with the properties of light and perception as depicted in the "
+#~ "vivid translucency of Renaissance and Baroque portraits; the perspective "
+#~ "of"
+#~ msgstr ""
+#~ "an t-aon neamh-mhamach a aithníonn é féin i scáthán; rud a chuireann i "
+#~ "gcuimhne dúinn go raibh spéis ag Descartes i bhfithchaitheamh agus in "
+#~ "athraonadh. Bhí suim ag ealaíontóiri riamh in airíonna an tsolais agus na "
+#~ "haireachtála mar a léirítear i bportráidí ildaite, tréshoilseacha "
+#~ "Renaissance agus Barócacha; peirspictíocht "
+
+#~ msgid "Johannes Vermeer"
+#~ msgstr "Johannes Vermeer"
+
+#~ msgid ""
+#~ "enthralled by the discoveries of the Scientific revolution; the technical "
+#~ "virtuosity of 19th century Pointillists which led onto 20th century "
+#~ "Cubism, where both objects and space merge."
+#~ msgstr ""
+#~ "a raibh suim nach beag aige i bhfionnachtana na réabhlóide eolaíochta; "
+#~ "rímháistreacht Phóintíligh an 19ú haois a bhí mar bhonn do Chiúbachas an "
+#~ "20ú aois, mar a thagann míreanna agus spás le chéile."
+
+#~ msgid ""
+#~ "Most of all, the eyes, the faces, the ideas from the past invite us to "
+#~ "think again: to take inspiration, to make new connections and to share "
+#~ "new discoveries."
+#~ msgstr ""
+#~ "Go háirithe, cúis athmhacnaimh dúinn is ea súile, aghaidheanna agus "
+#~ "smaoine na seanaimsire; a bheith spreagtha, agus chun naisc nua a "
+#~ "chruthúa agus fionnachtana nua a roinnt."
+
+#~ msgid "Credits: the music, the images and where they came from"
+#~ msgstr "Creidiúintí: an ceol, na híomhánna agus cad as ar tháinig siad"
+
+#~ msgid ""
+#~ "We are very grateful to all those who helped make the video, especially "
+#~ "its creators"
+#~ msgstr ""
+#~ "Táimid an-bhuíoch díobh siúd a chabhraigh leis an bhfís, go háirithe an "
+#~ "iad siúd a chruthaigh í"
+
+#~ msgid ""
+#~ "Many of our partners gave us permission to use their images in the video. "
+#~ "Thanks to our colleagues in the\n"
+#~ "    organisations listed below."
+#~ msgstr ""
+#~ "Thug roinn mhaith comhpháirtithe dár gcuid cead dúinn a gcuid íomhánna a "
+#~ "úsáid san fhís. Gabhaimid buíochas leis na heagraíóchtaí atá liostaithe "
+#~ "anseo thíos."
+
+#~ msgid "The music is primarily drawn from Irmin Schmidt's"
+#~ msgstr "Is ó Irmin Schimdt a fuarthas an chuid ba mhó den cheol"
+
+#~ msgid ""
+#~ "much appreciation to Cit&eacute;\n"
+#~ "    de la Musique for enabling us to use it as the basis for our "
+#~ "soundtrack."
+#~ msgstr ""
+#~ "Táimid buíoch le Cité de la Musique as cead a thabhairt dúinn é a úsáid "
+#~ "mar bhonn dár bhfuaimrian"
+
+#~ msgid "Collection"
+#~ msgstr "Bailiúchán"
+
+#~ msgid "Link"
+#~ msgstr "Nasc"
+
 #, fuzzy
-msgid "Go to the search widget page."
-msgstr "My Europeana"
+#~ msgid "and you can"
+#~ msgstr "An é seo a bhí i gceist agat?"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:23
+#~ msgid ""
+#~ "Keep up to date on a particular topic in Europeana by saving a search, so "
+#~ "you can easily perform it again in future."
+#~ msgstr ""
+#~ "Bíodh an t-eolas is úire agat mar gheall ar thopaic in Europeana trí "
+#~ "chuardach a shábháil, i dtreo is go mbeidh sé éasca duit an cuardach "
+#~ "céanna a dhéanamh sa todhchaí."
+
 #, fuzzy
-msgid "Introduction tab"
-msgstr "Aitreabúideacht"
+#~ msgid ""
+#~ "Label your favourite items in Europeana with tags that mean something to "
+#~ "you. You can then see all objects you have tagged, sorted by the keywords "
+#~ "you have chosen, in the My Europeana interface."
+#~ msgstr ""
+#~ "Cuir lipeád ar na míreanna is fearr leat ar Europeana le clibeanna a "
+#~ "dhéanann ciall duitse. Ina dhiaidh sin is féidir leat na míreanna, a "
+#~ "bhfuil clib curtha agat orthu, a fheiceáil, agus iad scagtha de réir na n-"
+#~ "eocharfhocal atá roghnaithe agatsa ar chomhéadan MyEuropeana."
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:23
-msgid ""
-"The Europeana Search widget is presented. A progress bar shows you how far "
-"you are through the process and a video takes you through the process step "
-"by step. To start configuring your widget, tap 'Next' or the 'Filter' tab "
-"heading."
-msgstr ""
+#~ msgid "Store your favourite items for later viewing."
+#~ msgstr "Stóráil na míreanna is fearr leat chun féachaint orthu níos déanaí."
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:24
-msgid "Filter tab"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:24
-msgid ""
-"If you want your widget to include the entire Europeana dataset, you can go "
-"straight to the 'Style' tab. Tap 'Next' or the 'Style' tab heading."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:25
 #, fuzzy
-msgid "To tailor your search widget"
-msgstr "Cuir isteach do r-phost"
+#~ msgid "Europeana - Searching Europeana"
+#~ msgstr "My Europeana"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:27
 #, fuzzy
-msgid "Keyword search"
-msgstr "Cuir isteach do r-phost"
+#~ msgid ""
+#~ "Welcome to Europeana. This page describes some of the things that you can "
+#~ "do while you are here. Learn more about:"
+#~ msgstr ""
+#~ "Fáilte go dtí Europeana. Cuirtear síos sa leathanach seo ar chuid de na "
+#~ "rudaí is féidir leat a dhéanamh fad is atá tú anseo. Foghlaim níos mó mar "
+#~ "gheall ar"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:27
-msgid ""
-"By default, the widget searches the entire Europeana dataset. You can "
-"restrict the search to a key word or phrase. To do this, enter the key word"
-"(s) in the 'Search for' field. For example, if you are adding a widget to "
-"your First World War blog about military uniform, you might type 'uniform'."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:28
-msgid ""
-"All the normal search functions work in this field, for example, use double "
-"quotes for a phrase, e.g. &quot;military uniform&quot;, use 'AND' to include "
-"searches on two words or 'NOT' to hide results for a particular word, e.g. "
-"'uniform AND war' or 'uniform NOT school'."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:29
 #, fuzzy
-msgid "Search on types"
-msgstr "Cuardach sábháilte"
+#~ msgid "General Search"
+#~ msgstr "Cuardach casta"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:29
-msgid ""
-"By default, the widget will search the entire Europeana dataset for your key "
-"words. You can restrict the search to 'Titles', 'Creators', 'Subjects', "
-"'Times/Periods', or 'Places'.  For example, you may wish to look only for "
-"results to do with 'Paris'. In which case, you would enter 'Paris' as a key "
-"word and 'Places' as a type. Tap 'Change' next to 'All Fields' and select "
-"the option you need."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:30
-msgid ""
-"By default, the widget returns results from all of Europeana's providers. "
-"You can restrict it to your chosen providers.  Tap 'Change' next to 'All  "
-"Providers' and select the providers you need. You can search for a provider "
-"using the search field above the list.  The providers are presented in order "
-"of the size of their contributions to Europeana. The number in brackets "
-"shows how many items from that provider are available. If the name of the "
-"provider is followed by an arrow, then they are a data aggregator, tap the "
-"arrow to see the institutions included in their collection. Note: you can "
-"select more than one."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:31
 #, fuzzy
-msgid "Countries"
-msgstr "Tír"
+#~ msgid ""
+#~ "Searching the millions of items in Europeana is simple. Just enter your "
+#~ "search term and hit"
+#~ msgstr ""
+#~ "Is furasta na milliúin mír atá in Europeana a chuardach. Níl le déanamh "
+#~ "ach ceisteanna chur ort féin agus na focail a cur i mbosca cuardaigh "
+#~ "Europeana. D'fhéadfá triail a bhaint as"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:31
-msgid ""
-"By default, the widget returns results from all countries. You can restrict "
-"it to your chosen countries. Tap 'Change' next to 'All Providing Countries' "
-"and select the countries you need. The countries are presented in order of "
-"the size of their contributions to Europeana. The number in brackets shows "
-"how many items from that country are available. Note: you can select more "
-"than one. To clear your selection and start again, tap 'Clear'."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:32
-msgid "Media types"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:32
-msgid ""
-"By default, the widget returns results of all media types - image, text, "
-"sound, video and 3D. You can restrict it to only the media types you're "
-"interested in. Tap 'Change' next to 'All Media Types' and select the types "
-"you need. The media types are presented in order of size. The number in "
-"brackets shows how many items of that media type are available. Note: you "
-"can select more than one.  To clear your selection and start again, tap "
-"'Clear'."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:33
 #, fuzzy
-msgid "Copyright"
-msgstr "Cearta Eile"
+#~ msgid "Specific search"
+#~ msgstr "Cuardach casta"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:33
-msgid ""
-"By default, the widget returns results with any copyright status. You can "
-"restrict this, for example, to only show re-usable content. Tap 'Change' "
-"next to 'All Copyrights' and select the statuses you need. The copyright "
-"statuses are presented in order of size. The number in brackets shows how "
-"many items of that status are available. Note: you can select more than one. "
-"To clear your selection and start again, tap 'Clear'."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:34
-msgid "More information on the CC licenses"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:35
 #, fuzzy
-msgid "More information on the Rights Reserved - Free Access label"
-msgstr "Europeana - Gach Ceart ar Cosaint - Rochtain Shaor"
+#~ msgid "Search All fields"
+#~ msgstr "Cuardach sábháilte"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:36
 #, fuzzy
-msgid "More information on the Rights Reserved - Restricted Access label"
-msgstr "Europeana - Ceart ar Cosaint - Rochtain Srianta"
+#~ msgid ""
+#~ "Alternatively, just ask yourself who, what, where or when you are "
+#~ "interested in and type these words into Europeana's search box followed "
+#~ "by a colon (:). Then enter your search term and hit"
+#~ msgstr ""
+#~ "Is furasta na milliúin mír atá in Europeana a chuardach. Níl le déanamh "
+#~ "ach ceisteanna chur ort féin agus na focail a cur i mbosca cuardaigh "
+#~ "Europeana. D'fhéadfá triail a bhaint as"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:37
 #, fuzzy
-msgid "More information on the Rights Reserved - Paid Access label"
-msgstr "Europeana - Gach Ceart ar Cosaint - Rochtain Íoctha"
+#~ msgid "filter or enter"
+#~ msgstr "Cuir isteach do r-phost"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:38
-msgid "More information on the Unknown rights label"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:39
 #, fuzzy
-msgid "Languages"
-msgstr "Beartas teanga"
+#~ msgid "Place"
+#~ msgstr "leathanaigh"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:39
-msgid ""
-"By default, the widget returns results in all languages. You can restrict it "
-"to your chosen languages. Tap 'Change' next to 'All Languages' and select "
-"the languages you need. The languages are presented in order of the size of "
-"their representation in Europeana. The number in brackets shows how many "
-"items of each language are available. Note: you can select more than one. To "
-"clear your selection and start again, tap 'Clear'."
-msgstr ""
+#~ msgid "Auto completion"
+#~ msgstr "Cur i gcrích uathoibríoch"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:40
-msgid ""
-"When you have selected all your filters, tap 'Next' or the 'Style' tab "
-"heading."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:42
-msgid "Style tab"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:42
-msgid ""
-"You can choose a black or white widget and select to include thumbnails or "
-"not. Select the style you would like to use."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:43
-msgid "Tap 'Next' or the 'Preview' tab heading."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:44
 #, fuzzy
-msgid "Preview tab"
-msgstr "Ábhar a sholáthar"
+#~ msgid ""
+#~ "Start typing a search term. Europeana will suggest words that may match "
+#~ "what you are thinking of. Just select the term you want and hit"
+#~ msgstr ""
+#~ "Tosaigh leat ag clóscríobh téarma. Déanfaidh Europeana focail a mholadh "
+#~ "duit agus d'fhéadfadh sé go meaitseálfaidís an focal atá sa cheann agat. "
+#~ "Brúigh ar an saighead síos chun teacht ar an téarma a theasaíonn uait "
+#~ "agus brúig ar 'enter' chun cuardach a dhéanmh leis an téarma sin."
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:44
-msgid ""
-"Your widget will be displayed. Please note that the widget is responsive and "
-"so expands to fit the width of its container. For this reason, it may be a "
-"different size on the preview than it will be on your own web page."
-msgstr ""
+#~ msgid ""
+#~ "Once you have done an initial search, results can be narrowed down with "
+#~ "the"
+#~ msgstr ""
+#~ "Nuair a bheidh do chéad chuardach déanta agat, is féidr na torthaí a "
+#~ "scagadh leis an"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:46
-msgid ""
-"If you wish to amend the widget's properties, just go back to the 'Search', "
-"'Filter' or 'Style' tab and make your changes."
-msgstr ""
+#, fuzzy
+#~ msgid "Matches for."
+#~ msgstr "an fhoirm seo"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:47
-msgid ""
-"If you are happy with your widget, simply copy the 'Embed' code displayed "
-"and paste this into your web page."
-msgstr ""
+#, fuzzy
+#~ msgid "filter your search results:"
+#~ msgstr "Cuir isteach do r-phost"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:48
-msgid ""
-"We would love to know how you are using this search widget, please tell us "
-"by dropping us an email at"
-msgstr ""
+#~ msgid "By country"
+#~ msgstr "Tír"
+
+#, fuzzy
+#~ msgid "Europeana - How to configure your search widget"
+#~ msgstr "My Europeana"
+
+#, fuzzy
+#~ msgid "The Europeana Search Widget works with..."
+#~ msgstr "My Europeana"
+
+#, fuzzy
+#~ msgid "The Europeana Search Widget doesn't work with..."
+#~ msgstr "My Europeana"
+
+#, fuzzy
+#~ msgid "Set up your Europeana Search Widget:"
+#~ msgstr "My Europeana"
+
+#, fuzzy
+#~ msgid "Go to the search widget page."
+#~ msgstr "My Europeana"
+
+#, fuzzy
+#~ msgid "Introduction tab"
+#~ msgstr "Aitreabúideacht"
+
+#, fuzzy
+#~ msgid "To tailor your search widget"
+#~ msgstr "Cuir isteach do r-phost"
+
+#, fuzzy
+#~ msgid "Keyword search"
+#~ msgstr "Cuir isteach do r-phost"
+
+#, fuzzy
+#~ msgid "Search on types"
+#~ msgstr "Cuardach sábháilte"
+
+#, fuzzy
+#~ msgid "Countries"
+#~ msgstr "Tír"
+
+#, fuzzy
+#~ msgid "Copyright"
+#~ msgstr "Cearta Eile"
+
+#, fuzzy
+#~ msgid "More information on the Rights Reserved - Free Access label"
+#~ msgstr "Europeana - Gach Ceart ar Cosaint - Rochtain Shaor"
+
+#, fuzzy
+#~ msgid "More information on the Rights Reserved - Restricted Access label"
+#~ msgstr "Europeana - Ceart ar Cosaint - Rochtain Srianta"
+
+#, fuzzy
+#~ msgid "More information on the Rights Reserved - Paid Access label"
+#~ msgstr "Europeana - Gach Ceart ar Cosaint - Rochtain Íoctha"
+
+#, fuzzy
+#~ msgid "Languages"
+#~ msgstr "Beartas teanga"
+
+#, fuzzy
+#~ msgid "Preview tab"
+#~ msgstr "Ábhar a sholáthar"
 
 #, fuzzy
 #~ msgid "Rights Reserved - Free access"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-26 17:03+0100\n"
+"POT-Creation-Date: 2014-03-03 15:39+0100\n"
 "PO-Revision-Date: 2013-11-21 15:32\n"
 "Last-Translator: Laura  Huff <laura.huff@kb.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4657,6 +4657,38 @@ msgstr ""
 msgid "Submit"
 msgstr ""
 
+#: templates/static_pages/prop_file.html:1048
+#, fuzzy
+msgid "Incorrect password."
+msgstr "He oblidat la meva contrasenya"
+
+#: templates/static_pages/prop_file.html:1049
+#, fuzzy
+msgid ""
+"Log into My Europeana to save your favourite items, searches, tags and "
+"translate search keywords into other languages."
+msgstr ""
+"podeu guardar els vostres ítems i cerques preferits, i afegir-n'hi etiquetes "
+"que us ajudaran a separar-los en diferentscategories."
+
+#: templates/static_pages/prop_file.html:1050
+#, fuzzy
+msgid "Please enter your username."
+msgstr "Si us plau, registreu el vostre correu electrònic un altre cop."
+
+#: templates/static_pages/prop_file.html:1051
+#, fuzzy
+msgid "Please enter your password."
+msgstr "Si us plau, registreu el vostre correu electrònic un altre cop."
+
+#: templates/static_pages/prop_file.html:1052
+msgid "Registered users may choose a maximum of 6 options."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1053
+msgid "Unregistered users may choose a maximum of 3 options."
+msgstr ""
+
 #: templates/static_pages/sitemap.html:4
 msgid "Europeana - Sitemap"
 msgstr "Europeana - Mapa del web"
@@ -4757,7 +4789,7 @@ msgid "Orphan work"
 msgstr "Obra orfe - Accés lliure"
 
 #: templates/static_pages/sitemap.html:121
-msgid "Out of copyright - non commercial reuse"
+msgid "Out of copyright - non commercial re-use"
 msgstr ""
 
 #: templates/static_pages/sitemap.html:127
@@ -7223,13 +7255,6 @@ msgstr ""
 
 #~ msgid "This is your personal space on Europeana. With"
 #~ msgstr "Aquest és el vostre espai personal a Europeana. Amb"
-
-#~ msgid ""
-#~ "you can save your favourite items and searches, and add tags to items to "
-#~ "help separate them into different categories."
-#~ msgstr ""
-#~ "podeu guardar els vostres ítems i cerques preferits, i afegir-n'hi "
-#~ "etiquetes que us ajudaran a separar-los en diferentscategories."
 
 #~ msgid "How can I change my email address, username or password?"
 #~ msgstr ""

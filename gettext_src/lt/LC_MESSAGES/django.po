@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-26 16:59+0100\n"
+"POT-Creation-Date: 2014-03-03 15:37+0100\n"
 "PO-Revision-Date: 2012-02-21 15:19\n"
 "Last-Translator: <jacob.lundqvist@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,27 +21,25 @@ msgstr ""
 #: templates/static_pages/prop_file.html:63
 #: templates/static_pages/prop_file.html:819
 #: templates/static_pages/prop_file.html:820
-#: templates/static_pages/sitemap.html:51
 #, fuzzy
 msgid "Europeana API"
 msgstr "Europeana - DUK"
 
 #: templates/api_leftmenu.html:6 templates/static_pages/prop_file.html:991
 #: templates/static_pages/prop_file.html:992
-#: templates/static_pages/sitemap.html:53
 msgid "Get an API-Key"
 msgstr ""
 
-#: templates/api_leftmenu.html:7 templates/static_pages/sitemap.html:55
+#: templates/api_leftmenu.html:7
 msgid "API Console"
 msgstr ""
 
-#: templates/api_leftmenu.html:11 templates/static_pages/sitemap.html:59
+#: templates/api_leftmenu.html:11
 #, fuzzy
 msgid "Search Widget Wizard"
 msgstr "Europeanos logotipų"
 
-#: templates/api_leftmenu.html:12 templates/static_pages/sitemap.html:60
+#: templates/api_leftmenu.html:12
 #, fuzzy
 msgid "Europeana API Forum"
 msgstr "Europeana - Naudojimo sąlygos"
@@ -55,14 +53,12 @@ msgstr ""
 #: templates/explore_leftmenu.html:5 templates/static_pages/prop_file.html:546
 #: templates/static_pages/prop_file.html:547
 #: templates/static_pages/prop_file.html:876
-#: templates/static_pages/sitemap.html:20
 msgid "Europeana Remix"
 msgstr ""
 
 #: templates/explore_leftmenu.html:6 templates/static_pages/prop_file.html:550
 #: templates/static_pages/prop_file.html:551
 #: templates/static_pages/prop_file.html:865
-#: templates/static_pages/sitemap.html:17
 #: templates/static_pages/usingeuropeana_explore.html:14
 msgid "Exhibitions"
 msgstr ""
@@ -73,8 +69,6 @@ msgstr ""
 #: templates/static_pages/prop_file.html:555
 #: templates/static_pages/prop_file.html:914
 #: templates/static_pages/prop_file.html:915
-#: templates/static_pages/sitemap.html:38
-#: templates/static_pages/sitemap.html:87
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "New content"
 msgstr "Naujas turinys"
@@ -82,22 +76,18 @@ msgstr "Naujas turinys"
 #: templates/explore_leftmenu.html:9 templates/static_pages/prop_file.html:78
 #: templates/static_pages/prop_file.html:558
 #: templates/static_pages/prop_file.html:559
-#: templates/static_pages/sitemap.html:88
-#: templates/static_pages/usingeuropeana_search.html:60
 msgid "By provider"
 msgstr "Turinio pateikimas"
 
 #: templates/explore_leftmenu.html:10 templates/static_pages/prop_file.html:37
 #: templates/static_pages/prop_file.html:562
 #: templates/static_pages/prop_file.html:563
-#: templates/static_pages/sitemap.html:89
 msgid "Timeline"
 msgstr "Laiko skalė"
 
 #: templates/explore_leftmenu.html:11
 #: templates/static_pages/prop_file.html:566
 #: templates/static_pages/prop_file.html:567
-#: templates/static_pages/sitemap.html:90
 msgid "Map"
 msgstr ""
 
@@ -111,7 +101,6 @@ msgstr ""
 #: templates/static_pages/prop_file.html:618
 #: templates/static_pages/prop_file.html:619
 #: templates/static_pages/prop_file.html:869
-#: templates/static_pages/sitemap.html:18
 msgid "Blog"
 msgstr ""
 
@@ -154,7 +143,6 @@ msgstr "Turinio pateikimas"
 #: templates/leftmenu.html:10 templates/static_pages/aboutus_enews.html:11
 #: templates/static_pages/prop_file.html:924
 #: templates/static_pages/prop_file.html:925
-#: templates/static_pages/sitemap.html:40
 #, fuzzy
 msgid "Previous newsletters"
 msgstr "Ankstesni informaciniai biuleteniai"
@@ -209,29 +197,27 @@ msgid "Using our data"
 msgstr "Kaip naudotis Europeana"
 
 #: templates/terms_leftmenu.html:9 templates/rights/terms-and-policies.html:24
-#: templates/static_pages/sitemap.html:99
 #, fuzzy
 msgid "Terms of Use"
 msgstr "Naudojimo sąlygos"
 
-#: templates/terms_leftmenu.html:10 templates/static_pages/sitemap.html:100
+#: templates/terms_leftmenu.html:10
 #, fuzzy
 msgid "Usage Guidelines for Metadata"
 msgstr "Spustelėkite, jei norite grįžti į Europeanos pirmąjį puslapį"
 
-#: templates/terms_leftmenu.html:11 templates/static_pages/sitemap.html:101
+#: templates/terms_leftmenu.html:11
 #, fuzzy
 msgid "Public Domain Usage Guidelines"
 msgstr "Spustelėkite, jei norite grįžti į Europeanos pirmąjį puslapį"
 
-#: templates/terms_leftmenu.html:12 templates/static_pages/sitemap.html:102
+#: templates/terms_leftmenu.html:12
 #, fuzzy
 msgid "API Terms of Use"
 msgstr "Naudojimo sąlygos"
 
 #: templates/terms_leftmenu.html:13
 #: templates/rights/linked-data-sources.html:16
-#: templates/static_pages/sitemap.html:103
 #, fuzzy
 msgid "Europeana Data Sources"
 msgstr "Spustelėkite, jei norite matyti kitą rezultatų puslapį"
@@ -246,7 +232,7 @@ msgstr "Europeanos turinys"
 msgid "Europeana Data Exchange Agreement"
 msgstr "Spustelėkite, jei norite grįžti į Europeanos pirmąjį puslapį"
 
-#: templates/terms_leftmenu.html:19 templates/static_pages/sitemap.html:105
+#: templates/terms_leftmenu.html:19
 #, fuzzy
 msgid "Terms for User Contributions"
 msgstr "Europeana - Skaitant Europą"
@@ -262,7 +248,6 @@ msgstr "Treminai ir sąlygos"
 #: templates/static_pages/prop_file.html:68
 #: templates/static_pages/prop_file.html:526
 #: templates/static_pages/prop_file.html:527
-#: templates/static_pages/sitemap.html:106
 msgid "Privacy"
 msgstr "Privatumas"
 
@@ -279,11 +264,10 @@ msgstr "Kalbų politika"
 #: templates/static_pages/prop_file.html:65
 #: templates/static_pages/prop_file.html:514
 #: templates/static_pages/prop_file.html:515
-#: templates/static_pages/sitemap.html:108
 msgid "Accessibility"
 msgstr "Prieinamumas"
 
-#: templates/terms_leftmenu.html:27 templates/static_pages/sitemap.html:109
+#: templates/terms_leftmenu.html:27
 #, fuzzy
 msgid "Public Domain Charter"
 msgstr "Viešoji nuosavybė"
@@ -294,7 +278,6 @@ msgstr "Viešoji nuosavybė"
 #: templates/static_pages/prop_file.html:571
 #: templates/static_pages/prop_file.html:884
 #: templates/static_pages/prop_file.html:885
-#: templates/static_pages/sitemap.html:25
 #: templates/static_pages/usingeuropeana.html:9
 msgid "Help"
 msgstr ""
@@ -306,8 +289,6 @@ msgstr ""
 #: templates/static_pages/prop_file.html:889
 #: templates/static_pages/usingeuropeana.html:14
 #: templates/static_pages/usingeuropeana_results.html:22
-#: templates/static_pages/usingeuropeana_search.html:9
-#: templates/static_pages/usingeuropeana_search.html:13
 msgid "Searching Europeana"
 msgstr ""
 
@@ -317,10 +298,8 @@ msgstr ""
 #: templates/static_pages/prop_file.html:579
 #: templates/static_pages/prop_file.html:892
 #: templates/static_pages/prop_file.html:893
-#: templates/static_pages/sitemap.html:28
 #: templates/static_pages/usingeuropeana.html:16
 #: templates/static_pages/usingeuropeana_explore.html:9
-#: templates/static_pages/usingeuropeana_search.html:14
 msgid "Exploring Europeana"
 msgstr ""
 
@@ -329,10 +308,8 @@ msgstr ""
 #: templates/static_pages/prop_file.html:583
 #: templates/static_pages/prop_file.html:896
 #: templates/static_pages/prop_file.html:897
-#: templates/static_pages/sitemap.html:29
 #: templates/static_pages/usingeuropeana.html:19
 #: templates/static_pages/usingeuropeana_results.html:9
-#: templates/static_pages/usingeuropeana_search.html:15
 msgid "Results in Europeana"
 msgstr "Rezultatai Europeanoje"
 
@@ -341,10 +318,7 @@ msgstr "Rezultatai Europeanoje"
 #: templates/static_pages/prop_file.html:587
 #: templates/static_pages/prop_file.html:900
 #: templates/static_pages/prop_file.html:901
-#: templates/static_pages/sitemap.html:30
 #: templates/static_pages/usingeuropeana.html:21
-#: templates/static_pages/usingeuropeana_myeuropeana.html:9
-#: templates/static_pages/usingeuropeana_search.html:16
 msgid "Using My Europeana"
 msgstr ""
 
@@ -1718,10 +1692,6 @@ msgid ""
 "newsletter, blog, Twitter and Facebook pages."
 msgstr ""
 
-#: templates/static_pages/newcontent.html:3
-msgid "Europeana - New Content"
-msgstr "Europeana - Naujas turinys"
-
 #: templates/static_pages/prop_file.html:5
 #, fuzzy
 msgid ""
@@ -1850,11 +1820,6 @@ msgstr "nereiškia"
 #: templates/static_pages/prop_file.html:639
 #: templates/static_pages/prop_file.html:957
 #: templates/static_pages/prop_file.html:958
-#: templates/static_pages/sitemap.html:12
-#: templates/static_pages/usingeuropeana_myeuropeana.html:10
-#: templates/static_pages/usingeuropeana_myeuropeana.html:11
-#: templates/static_pages/usingeuropeana_myeuropeana.html:20
-#: templates/static_pages/usingeuropeana_myeuropeana.html:21
 msgid "My Europeana"
 msgstr "Mano Europeana"
 
@@ -1911,7 +1876,6 @@ msgid ""
 msgstr "Norint naudotis šia svetaine, būtina turėti aktyvuotą JavaScript"
 
 #: templates/static_pages/prop_file.html:33
-#: templates/static_pages/storyline.html:11
 msgid "Storyline and credits"
 msgstr "Pagrindinė siužeto linija ir kūrėjai"
 
@@ -1952,11 +1916,6 @@ msgid "Find out more"
 msgstr "Daugiau"
 
 #: templates/static_pages/prop_file.html:44
-#: templates/static_pages/sitemap.html:65
-#: templates/static_pages/usingeuropeana_search.html:21
-#: templates/static_pages/usingeuropeana_search.html:25
-#: templates/static_pages/usingeuropeana_search.html:27
-#: templates/static_pages/usingeuropeana_search.html:45
 #, fuzzy
 msgid "Search"
 msgstr "Paieška išsaugota"
@@ -1995,7 +1954,6 @@ msgstr "Lenkija"
 #: templates/static_pages/usingeuropeana_results.html:25
 #: templates/static_pages/usingeuropeana_results.html:41
 #: templates/static_pages/usingeuropeana_results.html:49
-#: templates/static_pages/usingeuropeana_search.html:32
 msgid "or"
 msgstr "arba"
 
@@ -2041,7 +1999,6 @@ msgstr ""
 #: templates/static_pages/prop_file.html:62
 #: templates/static_pages/prop_file.html:909
 #: templates/static_pages/prop_file.html:910
-#: templates/static_pages/sitemap.html:36
 msgid "About us"
 msgstr "Apie mus"
 
@@ -2054,7 +2011,6 @@ msgstr "Kaip naudotis Europeana"
 #: templates/static_pages/prop_file.html:519
 #: templates/static_pages/prop_file.html:831
 #: templates/static_pages/prop_file.html:832
-#: templates/static_pages/sitemap.html:8
 msgid "Sitemap"
 msgstr "Svetainės struktūra"
 
@@ -2064,7 +2020,6 @@ msgid "Terms and conditions"
 msgstr "Treminai ir sąlygos"
 
 #: templates/static_pages/prop_file.html:69
-#: templates/static_pages/sitemap.html:107
 msgid "Language policy"
 msgstr "Kalbų politika"
 
@@ -2115,7 +2070,6 @@ msgid "By type"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:81
-#: templates/static_pages/usingeuropeana_search.html:55
 msgid "By media type"
 msgstr ""
 
@@ -2125,7 +2079,6 @@ msgid "Actions"
 msgstr "Abolicija"
 
 #: templates/static_pages/prop_file.html:83
-#: templates/static_pages/usingeuropeana_myeuropeana.html:14
 msgid "Save this search"
 msgstr "Išsaugoti šią paiešką"
 
@@ -2142,9 +2095,6 @@ msgid "You have searched for"
 msgstr "Ieškojote"
 
 #: templates/static_pages/prop_file.html:87
-#: templates/static_pages/usingeuropeana_search.html:51
-#: templates/static_pages/usingeuropeana_search.html:63
-#: templates/static_pages/usingeuropeana_search.html:65
 msgid "Matches for"
 msgstr "naudokite šią formą"
 
@@ -2226,12 +2176,10 @@ msgid "User tags"
 msgstr "Naudokite"
 
 #: templates/static_pages/prop_file.html:110
-#: templates/static_pages/usingeuropeana_myeuropeana.html:15
 msgid "Add a tag"
 msgstr "Priskirti žymenį"
 
 #: templates/static_pages/prop_file.html:111
-#: templates/static_pages/usingeuropeana_search.html:49
 #, fuzzy
 msgid "Add"
 msgstr "Elektroninio pašto adresas"
@@ -2266,7 +2214,6 @@ msgid "Send"
 msgstr "Garso medžiaga"
 
 #: templates/static_pages/prop_file.html:119
-#: templates/static_pages/usingeuropeana_myeuropeana.html:16
 msgid "Save to My Europeana"
 msgstr "Išsaugoti Mano Europeanoje"
 
@@ -2336,8 +2283,6 @@ msgstr "Turinio pateikimas"
 #: templates/static_pages/prop_file.html:135
 #: templates/static_pages/prop_file.html:228
 #: templates/static_pages/prop_file.html:814
-#: templates/static_pages/storyline.html:49
-#: templates/static_pages/usingeuropeana_search.html:32
 msgid "Title"
 msgstr "Pavadinimas"
 
@@ -2348,21 +2293,17 @@ msgid "Description"
 msgstr "Registruotis dar kartą"
 
 #: templates/static_pages/prop_file.html:137
-#: templates/static_pages/storyline.html:50
-#: templates/static_pages/usingeuropeana_search.html:31
 msgid "Creator"
 msgstr "Autorius"
 
 #: templates/static_pages/prop_file.html:138
 #: templates/static_pages/prop_file.html:232
-#: templates/static_pages/usingeuropeana_search.html:34
 #, fuzzy
 msgid "Date"
 msgstr "puslapyje"
 
 #: templates/static_pages/prop_file.html:139
 #: templates/static_pages/prop_file.html:234
-#: templates/static_pages/usingeuropeana_search.html:32
 msgid "Subject"
 msgstr "Dalykas"
 
@@ -2745,8 +2686,9 @@ msgid "Format"
 msgstr "naudokite šią formą"
 
 #: templates/static_pages/prop_file.html:236
+#, fuzzy
 msgid "Publisher"
-msgstr ""
+msgstr "Lenkų (pol)"
 
 #: templates/static_pages/prop_file.html:237
 msgid "Identifier"
@@ -2763,7 +2705,6 @@ msgid "Relation"
 msgstr "Susijęs turinys"
 
 #: templates/static_pages/prop_file.html:241
-#: templates/static_pages/sitemap.html:113
 msgid "Rights"
 msgstr "Kitos teisės"
 
@@ -2908,8 +2849,9 @@ msgid "Hungary"
 msgstr "Vengrija"
 
 #: templates/static_pages/prop_file.html:277
+#, fuzzy
 msgid "Malta"
-msgstr ""
+msgstr "Maltiečių"
 
 #: templates/static_pages/prop_file.html:278
 msgid "Poland"
@@ -3065,7 +3007,6 @@ msgid "By Rights"
 msgstr "Kitos teisės"
 
 #: templates/static_pages/prop_file.html:312
-#: templates/static_pages/usingeuropeana_search.html:59
 #, fuzzy
 msgid "By copyright"
 msgstr "Kitos teisės"
@@ -3281,7 +3222,6 @@ msgid "Media Types"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:359
-#: templates/static_pages/usingeuropeana_searchwidget.html:30
 #, fuzzy
 msgid "Providers"
 msgstr "Turinio pateikimas"
@@ -3558,7 +3498,6 @@ msgstr "Europeana - Skaitant Europą"
 
 #: templates/static_pages/prop_file.html:522
 #: templates/static_pages/prop_file.html:523
-#: templates/static_pages/sitemap.html:97
 #, fuzzy
 msgid "Terms of Use &amp; Policies"
 msgstr "Treminai ir sąlygos"
@@ -3570,23 +3509,21 @@ msgstr "Kalbų politika"
 
 #: templates/static_pages/prop_file.html:534
 #: templates/static_pages/prop_file.html:535
-#: templates/static_pages/sitemap.html:126
+#, fuzzy
 msgid "Contact"
-msgstr ""
+msgstr "Kontaktai"
 
 #: templates/static_pages/prop_file.html:538
 #: templates/static_pages/prop_file.html:539
 #: templates/static_pages/prop_file.html:953
 #: templates/static_pages/prop_file.html:954
-#: templates/static_pages/sitemap.html:11
 msgid "Home"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:590
-#: templates/static_pages/sitemap.html:31
-#: templates/static_pages/usingeuropeana_searchwidget.html:9
+#, fuzzy
 msgid "How to configure your search widget"
-msgstr ""
+msgstr "Europeanos logotipų"
 
 #: templates/static_pages/prop_file.html:591
 #, fuzzy
@@ -3878,7 +3815,6 @@ msgid "Copy and paste the wiki-markup below:"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:716
-#: templates/static_pages/usingeuropeana_search.html:67
 msgid "Include content contributed by users"
 msgstr ""
 
@@ -3923,7 +3859,6 @@ msgstr ""
 
 #: templates/static_pages/prop_file.html:728
 #: templates/static_pages/prop_file.html:973
-#: templates/static_pages/usingeuropeana_search.html:69
 msgid "Share"
 msgstr "Dalytis"
 
@@ -4110,7 +4045,6 @@ msgid "sitemap.html"
 msgstr "Svetainės struktūra"
 
 #: templates/static_pages/prop_file.html:835
-#: templates/static_pages/usingeuropeana_myeuropeana.html:17
 #, fuzzy
 msgid "API keys"
 msgstr "Naudojimo sąlygos"
@@ -4202,7 +4136,6 @@ msgstr ""
 
 #: templates/static_pages/prop_file.html:860
 #: templates/static_pages/prop_file.html:861
-#: templates/static_pages/sitemap.html:15
 #, fuzzy
 msgid "Other Europeana Sites"
 msgstr "Europos bibliotekos"
@@ -4213,7 +4146,6 @@ msgid "Europeana Exhibitions"
 msgstr "yra virtuali paroda, pristatanti"
 
 #: templates/static_pages/prop_file.html:872
-#: templates/static_pages/sitemap.html:19
 #, fuzzy
 msgid "Europeana 1914-1918"
 msgstr "Europeana - DUK"
@@ -4223,9 +4155,9 @@ msgid "Remix"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:880
-#: templates/static_pages/sitemap.html:21
+#, fuzzy
 msgid "Europeana Professional"
-msgstr ""
+msgstr "Spustelėkite, jei norite grįžti į Europeanos pirmąjį puslapį"
 
 #: templates/static_pages/prop_file.html:881
 msgid "Professional"
@@ -4320,7 +4252,6 @@ msgid "Results per page"
 msgstr "Rezultatai Europeanoje"
 
 #: templates/static_pages/prop_file.html:969
-#: templates/static_pages/usingeuropeana_search.html:49
 msgid "Add more keywords"
 msgstr ""
 
@@ -4616,559 +4547,34 @@ msgstr ""
 msgid "Submit"
 msgstr ""
 
-#: templates/static_pages/sitemap.html:4
+#: templates/static_pages/prop_file.html:1048
 #, fuzzy
-msgid "Europeana - Sitemap"
-msgstr "Europeana - E.naujienos"
+msgid "Incorrect password."
+msgstr "Pamiršau savo slaptažodį"
 
-#: templates/static_pages/sitemap.html:27
-msgid "Searching in Europeana"
-msgstr "Paieška Europeanoje"
+#: templates/static_pages/prop_file.html:1049
+msgid ""
+"Log into My Europeana to save your favourite items, searches, tags and "
+"translate search keywords into other languages."
+msgstr ""
 
-#: templates/static_pages/sitemap.html:39
+#: templates/static_pages/prop_file.html:1050
 #, fuzzy
-msgid "All Providers"
-msgstr "Turinio pateikimas"
+msgid "Please enter your username."
+msgstr "Prašome įrašyti veikiantį elektroninio pašto adresą"
 
-#: templates/static_pages/sitemap.html:41
+#: templates/static_pages/prop_file.html:1051
 #, fuzzy
-msgid "Press Centre (on Europeana Professional)"
-msgstr "Spustelėkite, jei norite grįžti į Europeanos pirmąjį puslapį"
+msgid "Please enter your password."
+msgstr "Prašome įrašyti veikiantį elektroninio pašto adresą"
 
-#: templates/static_pages/sitemap.html:42
-#, fuzzy
-msgid "Jobs (on Europeana Professional)"
-msgstr "Spustelėkite, jei norite grįžti į Europeanos pirmąjį puslapį"
-
-#: templates/static_pages/sitemap.html:43
-#, fuzzy
-msgid "Partners (on Europeana Professional)"
-msgstr "Spustelėkite, jei norite grįžti į Europeanos pirmąjį puslapį"
-
-#: templates/static_pages/sitemap.html:56
-#, fuzzy
-msgid "Working with the API"
-msgstr "Bendradarbiavimas su Europeana"
-
-#: templates/static_pages/sitemap.html:57
-msgid "Latest changes"
+#: templates/static_pages/prop_file.html:1052
+msgid "Registered users may choose a maximum of 6 options."
 msgstr ""
 
-#: templates/static_pages/sitemap.html:58
-msgid "Sample Code and Libraries"
+#: templates/static_pages/prop_file.html:1053
+msgid "Unregistered users may choose a maximum of 3 options."
 msgstr ""
-
-#: templates/static_pages/sitemap.html:61
-#, fuzzy
-msgid "API Methods"
-msgstr "Naudojimo sąlygos"
-
-#: templates/static_pages/sitemap.html:64
-msgid "Record"
-msgstr ""
-
-#: templates/static_pages/sitemap.html:66
-#, fuzzy
-msgid "Suggestions"
-msgstr "Rašybos patarimai"
-
-#: templates/static_pages/sitemap.html:67
-#, fuzzy
-msgid "OpenSearch"
-msgstr "Paieška išsaugota"
-
-#: templates/static_pages/sitemap.html:69
-msgid "Query Syntax"
-msgstr ""
-
-#: templates/static_pages/sitemap.html:70
-msgid "Data structure"
-msgstr ""
-
-#: templates/static_pages/sitemap.html:72
-#, fuzzy
-msgid "Europeana Fields"
-msgstr "Europeana - DUK"
-
-#: templates/static_pages/sitemap.html:74
-msgid "API1-API2 compatability"
-msgstr ""
-
-#: templates/static_pages/sitemap.html:104
-#, fuzzy
-msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
-msgstr "Spustelėkite, jei norite grįžti į Europeanos pirmąjį puslapį"
-
-#: templates/static_pages/sitemap.html:115
-#, fuzzy
-msgid "Free Access - no-reuse"
-msgstr "Europeana - teisės saugomos - ribota prieiga"
-
-#: templates/static_pages/sitemap.html:116
-#, fuzzy
-msgid "Rights Reserved - Restricted access"
-msgstr "Europeana - teisės saugomos - ribota prieiga"
-
-#: templates/static_pages/sitemap.html:117
-#, fuzzy
-msgid "Paid Access - no re-use"
-msgstr "Europeana - teisės saugomos - ribota prieiga"
-
-#: templates/static_pages/sitemap.html:118
-msgid "Unknown copyright status"
-msgstr "Nežinomas autorių teisių statusas"
-
-#: templates/static_pages/sitemap.html:119
-#, fuzzy
-msgid "Orphan work - Free access"
-msgstr "teisės saugomos - nemokama prieiga"
-
-#: templates/static_pages/sitemap.html:120
-msgid "Orphan work"
-msgstr ""
-
-#: templates/static_pages/sitemap.html:121
-msgid "Out of copyright - non commercial reuse"
-msgstr ""
-
-#: templates/static_pages/sitemap.html:127
-#, fuzzy
-msgid "Europeana Semantic Elements (ESE)"
-msgstr "Europeanos logotipų"
-
-#: templates/static_pages/sitemap.html:128
-#, fuzzy
-msgid "Europeana metadata schemas"
-msgstr "Kaip naudotis Europeana"
-
-#: templates/static_pages/storyline.html:4
-msgid "Europeana - Storyline and credits"
-msgstr "Europeana - Pagrindinė siužeto linija ir kūrėjai "
-
-#: templates/static_pages/storyline.html:13
-msgid "Descartes"
-msgstr ""
-
-#: templates/static_pages/storyline.html:14
-msgid "The best place to start is with"
-msgstr "Geriausia pradėti yra nuo"
-
-#: templates/static_pages/storyline.html:14
-msgid "Rene Descartes"
-msgstr "Renė Dekarto,"
-
-#: templates/static_pages/storyline.html:14
-msgid ""
-"the man who made thinking central to our experience of the world. Cogito "
-"ergo sum wrote Descartes in 1644 in his Principia Philosophiae: I think, "
-"therefore I am. Descartes was the father of modern philosophy, and one of "
-"the great European thinkers of his time, writing in French and Latin, "
-"working and publishing in the Netherlands."
-msgstr ""
-"žmogaus, kuris pavertė mąstymą mūsų pasaulio pažinimo centru. Cogito ergo "
-"sum, rašė Dekartas 1644 m. savo Principia Philosophiae: mąstau, vadinasi "
-"esu. Dekartas buvo moderniosios filosofijos tėvas, vienas didžiausių to "
-"laiko Europos mąstytojų, rašęs prancūziškai ir lotyniškai, dirbęs ir skelbęs "
-"savo darbus Nyderlanduose."
-
-#: templates/static_pages/storyline.html:15
-msgid "Newton"
-msgstr "Niutonas"
-
-#: templates/static_pages/storyline.html:16
-msgid ""
-"He defined laws of reflection and refraction, worked on the structure of the "
-"brain, the new physics and mathematics. He was a major influence on"
-msgstr ""
-"Jis suformulavo atspindžio ir lūžio dėsnius, tyrinėjo smegenų struktūrą, "
-"fizikos ir matematikos naujoves. Jis turėjo labai didelę įtaką"
-
-#: templates/static_pages/storyline.html:16
-msgid "Isaac Newton"
-msgstr "Izaokui Niutonui,"
-
-#: templates/static_pages/storyline.html:16
-msgid ""
-"whose laws of gravity were famously inspired by watching an apple fall. "
-"Newton's three laws of motion were published in 1687 in his"
-msgstr ""
-"kurio traukos dėsnius, kaip visi žinome, įkvėpė žvilgsnis į krintantį "
-"obuolį. Trys Niutono judėjimo dėsniai buvo paskelbti 1687 m. jo"
-
-#: templates/static_pages/storyline.html:16
-msgid "Philosophiae Naturalis Principia Mathematica"
-msgstr "Matematiniuose gamtos filosofijos pagrinduose"
-
-#: templates/static_pages/storyline.html:17
-msgid "Darwin"
-msgstr "Darvinas"
-
-#: templates/static_pages/storyline.html:18
-msgid ""
-"The apple is the symbol of another fall; that of Adam and Eve, who on eating "
-"the fruit of the Tree of Knowledge of Good and Evil are banished from Eden. "
-"The fundamental challenge to the story of the Creation and the Fall is the "
-"Theory of Evolution, set out by"
-msgstr ""
-"Obuolys yra ir kito kritimo simbolis - to, kur Adomas ir Ieva už gėrio ir "
-"blogio pažinimo medžio vaisių valgymą buvo išvaryti iš Rojaus. Svarbiausiu "
-"iššūkiu Sutvėrimo ir Išvarymo istorijai yra evoliucijos teorija, paskelbta"
-
-#: templates/static_pages/storyline.html:18
-msgid "Charles Darwin"
-msgstr "Čarlzo Darvino"
-
-#: templates/static_pages/storyline.html:18
-msgid "in his famous 1859 book"
-msgstr "jo garsiojoje 1859 m. knygoje"
-
-#: templates/static_pages/storyline.html:18
-msgid "On the Origin of Species"
-msgstr "Rūšių atsiradimas"
-
-#: templates/static_pages/storyline.html:18
-msgid ""
-"Darwin recognised that species were not static, but evolved to improve their "
-"chances of survival. His theories began to develop while he was the "
-"naturalist and geologist on board the ship Beagle, on a 5 year voyage "
-"surveying the coast of South America."
-msgstr ""
-"Darvinas suprato, kad rūšys nėra nekintamos, bet evoliucionuoja, kad "
-"pagerintų savo išgyvenimo galimybes. Jo teorijos pradėjo vystytis, jam "
-"dirbant gamtininku ir geologu laive \"Biglis\", penkerių metų kelionėje "
-"tiriant Pietų Amerikos pakrantes."
-
-#: templates/static_pages/storyline.html:19
-msgid "Wedgwood"
-msgstr "Wedgwoodas"
-
-#: templates/static_pages/storyline.html:20
-msgid ""
-"Darwin's genius was the product of an English family of talent and "
-"reputation. He was the grandson of"
-msgstr ""
-"Darvino genijus prasiskleidė talentingoje ir puikios reputacijos anglų "
-"šeimoje. Jis buvo"
-
-#: templates/static_pages/storyline.html:20
-msgid "Josiah Wedgwood"
-msgstr "Josiah Wedgwood'o"
-
-#: templates/static_pages/storyline.html:20
-msgid ""
-"one of the great entrepreneurs of the industrial revolution. Taking "
-"inspiration from Greek, Etruscan and Roman styles, especially the Portland "
-"Vase, he created a range of neo-classical pottery that delighted the new "
-"English merchant classes, keen to display their sophistication with "
-"references to design classics. Wedgwood used scientific innovation, factory "
-"techniques of mass production and the new canal network of the UK to "
-"transport his fragile wares to the new consumers of the growing towns and "
-"cities."
-msgstr ""
-"vieno iš garsių pramoninės revoliucijos laikotarpio verslininkų, anūkas. "
-"Įkvėptas graikų, etruskų ir romėnų stilių, ypač Portlando vazų, Wedgwoodas "
-"sukūrė neoklasikinės keramikos liniją, žavėjusią naująsias anglų pirklių "
-"klases, troškusias pademonstruoti savo rafinuotumą per meilę klasikiniam "
-"dizainui. Wedgwoodas naudojosi mokslo inovacijomis, fabrikinėmis masinės "
-"gamybos technologijomis ir naujuoju JK kanalų tinklu, kad saugiai gabentų "
-"savo trapius gaminius naujiems klientams augančiuose miestuose ir "
-"didmiesčiuose."
-
-#: templates/static_pages/storyline.html:21
-msgid "Abolition"
-msgstr "Abolicija"
-
-#: templates/static_pages/storyline.html:22
-msgid "A philanthropic employer, Wedgwood was also an early support of"
-msgstr "Filantropiškas darbdavys, Wedgwoodas nuo pat pradžių rėmė"
-
-#: templates/static_pages/storyline.html:22
-msgid "abolition"
-msgstr "aboliciją"
-
-#: templates/static_pages/storyline.html:22
-msgid ""
-"He was a founder member of the Society for the Abolition of the Slave Trade. "
-"His support was most memorably expressed in the cameos he produced in the "
-"1780s, showing a chained slave with the motto Am I not a Man and a Brother? "
-"Distributed in their thousands, these became the first protest fashion "
-"accessory."
-msgstr ""
-"Jis buvo draugijos, kovojančios už vergijos panaikinimą, narys-steigėjas. "
-"Savo nuostatas jis ypač įsidėmėtinai išreiškė 1780 m. pagamintose kamėjose, "
-"vaizduojančiose surakintą vergą, su užrašu: Ar aš ne Žmogus ir Brolis? "
-"Pasklidus jų tūkstančiams, šios kamėjos tapo pirmuoju madingu aksesuaru "
-"protestui išreikšti."
-
-#: templates/static_pages/storyline.html:23
-#: templates/static_pages/storyline.html:24
-msgid "Migration"
-msgstr "Migracija"
-
-#: templates/static_pages/storyline.html:24
-msgid ""
-"The anti-slavery campaigners succeeded in abolishing the slave trade in 1807 "
-"and in the following years it was outlawed in the colonies of western "
-"Europe. But the ideal of equality on which it was founded continued to "
-"inspire. Over a century on, it fuelled the political aspirations that drove "
-"the colonial independence movements."
-msgstr ""
-"Kovotojams prieš vergovę 1807 m. pavyko panaikinti prekybą vergais, ir per "
-"ateinančius metus ji buvo paskelbta už įstatymo ribų Vakarų Europos "
-"kolonijose. Tačiau lygybės idealai, kuriais rėmėsi kovotojai, ir toliau "
-"įkvėpė žmones. Ištisą amžių jie kurstė politinius siekius, kurie skatino "
-"kolonijų nepriklausomybės judėjimus."
-
-#: templates/static_pages/storyline.html:24
-msgid ""
-"from the former colonies in recent decades has pushed concern for equality "
-"of opportunity up the political agenda as Europe has become increasingly "
-"diverse."
-msgstr ""
-"iš buvusių kolonijų davė postūmį lygių galimybių klausimui atsirasti "
-"politinėje darbotvarkėje, vis didėjant įvairovei Europoje. "
-
-#: templates/static_pages/storyline.html:25
-msgid "Bridgetower"
-msgstr "Bridgetoweris"
-
-#: templates/static_pages/storyline.html:26
-msgid ""
-"Talented Europeans of African descent were making their mark in the capitals "
-"of Europe even as the abolition movement was gathering supporters."
-msgstr ""
-"Talentingi europiečiai, kilę iš Afrikos paliko savo žymes Europos sostinėse "
-"kaip tik tada, kai abolicijos judėjimas būrė savo rėmėjus."
-
-#: templates/static_pages/storyline.html:26
-msgid "was the Polish-born son of a West Indian servant of the"
-msgstr "buvo lenkų-afrikiečių kilmės, Vest Indijos tarnautojo, dirbusio"
-
-#: templates/static_pages/storyline.html:26
-msgid "Prince Esterh&aacute;zy"
-msgstr "kunigaikščiui Esterhaziui"
-
-#: templates/static_pages/storyline.html:26
-msgid ""
-"Joseph Haydn's Hungarian patron. He was a musical prodigy whose talent was "
-"quickly spotted, and he made his debut in Paris at the age of 9. One "
-"reviewer noted his talent is one of the best replies one can give to "
-"philosophers who wish to deprive people of his nation and his colour of the "
-"opportunity to distinguish themselves in the arts."
-msgstr ""
-"Jozefo Haidno vengriškajam patronui, sūnus. Jo nepaprastas muzikinis "
-"talentas buvo greitai pastebėtas, ir jis debiutavo Paryžiuje, būdamas "
-"devynerių. Vienas apžvalgininkas pastebėjo, kad jo talentas yra vienas "
-"geriausių atsakymų tiems filosofams, kurie nori atimti jo tautybės ir "
-"spalvos žmonėms galimybę pasižymėti menų srityje."
-
-#: templates/static_pages/storyline.html:27
-msgid "Beethoven"
-msgstr "Bethovenas"
-
-#: templates/static_pages/storyline.html:28
-msgid "By 1803, Bridgetower was giving the premiere of"
-msgstr "1803 m. Bridgetoweris dalyvavo"
-
-#: templates/static_pages/storyline.html:28
-msgid "Beethoven's Kreutzer sonata (Op.47)"
-msgstr "Bethoveno Kreicerio sonatos (Op.47)"
-
-#: templates/static_pages/storyline.html:28
-msgid ""
-"He played the violin part, Beethoven the piano. So delighted was Beethoven "
-"with the performance that he initially dedicated the sonata to Bridgetower "
-"and gave him his tuning fork."
-msgstr ""
-"premjeroje. Jis grojo smuiko partiją, Bethovenas - fortepijono. Bethovenui "
-"taip patiko atlikimas, kad jis nuo pat pradžios dedikavo sonatą "
-"Bridgetoweriui ir davė jam savo kamertoną."
-
-#: templates/static_pages/storyline.html:29
-msgid "Ludwig van Beethoven"
-msgstr "Liudvikas van Bethovenas"
-
-#: templates/static_pages/storyline.html:29
-msgid "is the greatest of the Romantic composers: his Third Symphony, the "
-msgstr "yra didžiausias iš kompozitorių romantikų. Jo Trečioji simfonija,"
-
-#: templates/static_pages/storyline.html:29
-msgid "Eroica"
-msgstr "Heroica"
-
-#: templates/static_pages/storyline.html:29
-msgid "was originally dedicated to"
-msgstr "iš pradžių buvo dedikuota"
-
-#: templates/static_pages/storyline.html:29
-msgid "Napoleon"
-msgstr "Napoleonui"
-
-#: templates/static_pages/storyline.html:29
-msgid ""
-"who he believed ushered in an age of democracy and republican ideals. When "
-"Napoleon fell short, Beethoven scratched the dedication from the manuscript "
-"so forcefully he tore a hole through the paper."
-msgstr ""
-"kurį tikėjo esant demokratijos amžiaus ir respublikoniškų idealų apreiškėju. "
-"Kai Napoleonas nepasiekė tikslo, Bethovenas su tokia jėga drėskė dedikaciją "
-"nuo rankraščio, kad padarė popieriuje skylę."
-
-#: templates/static_pages/storyline.html:30
-msgid "Rossini"
-msgstr "Rosinis"
-
-#: templates/static_pages/storyline.html:31
-msgid ""
-"Beethoven's genius was felt across Europe and had a profound influence on "
-"the succeeding generation of composers, including"
-msgstr ""
-"Bethoveno genialumą juto visa Europa; jis padarė gilią įtaką paskesnei "
-"kompozitorių kartai, įskaitant"
-
-#: templates/static_pages/storyline.html:31
-msgid "Gioachino Antonio Rossini"
-msgstr "Džoakiną Antonijų Rosinį"
-
-#: templates/static_pages/storyline.html:31
-msgid ""
-"Rossini travelled to Vienna in 1822, where he met the master. His reverence "
-"was such that he asked for Beethoven's Funeral March to be played at his "
-"burial in Paris."
-msgstr ""
-"Rosinis 1822 m. keliavo į Vieną, kur sutiko didįjį menininką. Jis juto tokią "
-"pagarbą, kad paprašė, jog Bethoveno Laidotuvių maršas būtų grojamas per jo "
-"laidotuves Paryžiuje."
-
-#: templates/static_pages/storyline.html:32
-msgid ""
-"Rossini's popularity continued into the 20th century. The most famous diva "
-"of the time,"
-msgstr "Rosinio populiarumas tęsėsi ir 20 a. Garsiausia to laiko primadona"
-
-#: templates/static_pages/storyline.html:32
-msgid "Maria Callas"
-msgstr "Maria Callas"
-
-#: templates/static_pages/storyline.html:32
-msgid ""
-"was one of his great interpreters; Una voce poco fa, Rosina's famous aria "
-"from"
-msgstr ""
-"buvo viena iš jo didžiųjų interpretuotojų; Una voce poco fa, garsi Rozinos "
-"arija iš"
-
-#: templates/static_pages/storyline.html:32
-msgid "The Barber of Seville"
-msgstr "Sevilijos kirpėjo"
-
-#: templates/static_pages/storyline.html:32
-msgid ""
-"was a fixture in her concert repertoire. Rossini's speed for musical "
-"composition was legendary, particularly of"
-msgstr ""
-"nuolat buvo jos koncertiniame repertuare. Sklido legendos, kad Rosinis rašė "
-"muziką labai greitai, ypač"
-
-#: templates/static_pages/storyline.html:32
-msgid "La Gazza Ladra - The Thieving Magpie"
-msgstr "La Gazza Ladra - Šarką vagilę"
-
-#: templates/static_pages/storyline.html:33
-msgid "Magpies and mirrors"
-msgstr "Šarkos ir veidrodžiai"
-
-#: templates/static_pages/storyline.html:34
-msgid ""
-"The title refers to the magpie's eye for shining things; like Europeana, it "
-"gathers treasures."
-msgstr ""
-"Pavadinime minimas šarkos polinkis į blizgančius daiktus; kaip Europeana, ji "
-"renka lobius. Tikima, kad"
-
-#: templates/static_pages/storyline.html:34
-msgid "The magpie"
-msgstr "šarka"
-
-#: templates/static_pages/storyline.html:34
-msgid ""
-"is also believed to be the only non-mammal that can recognise its reflection "
-"in a mirror; which brings us back to Descartes' interest in reflection and "
-"refraction. Artists through the ages have similarly been fascinated with the "
-"properties of light and perception as depicted in the vivid translucency of "
-"Renaissance and Baroque portraits; the perspective of"
-msgstr ""
-"yra vienintelė tarp nežinduolių, kuri gali atpažinti savo atspindį "
-"veidrodyje; tai sugrąžina mus prie Dekarto domėjimosi atspindžiu ir "
-"refrakcija. Lygiai taip pat menininkus per amžius žavėjo šviesos savybės ir "
-"suvokimas, kas atsispindi ryškiame Renesanso ir Baroko portretų skaidrume;"
-
-#: templates/static_pages/storyline.html:34
-msgid "Johannes Vermeer"
-msgstr "Johanas Vermejeris"
-
-#: templates/static_pages/storyline.html:34
-msgid ""
-"enthralled by the discoveries of the Scientific revolution; the technical "
-"virtuosity of 19th century Pointillists which led onto 20th century Cubism, "
-"where both objects and space merge."
-msgstr ""
-"perspektyva, atsiradusi iš susižavėjimo mokslo revoliucijos atradimais; 19 "
-"a. puantilistų techninis virtuoziškumas, atvedęs į 20 a. kubizmą, kur "
-"objektai susilieja su erdve."
-
-#: templates/static_pages/storyline.html:35
-msgid ""
-"Most of all, the eyes, the faces, the ideas from the past invite us to think "
-"again: to take inspiration, to make new connections and to share new "
-"discoveries."
-msgstr ""
-"Taip akys, veidai, idėjos iš praeities vėl kviečia mus galvoti: pasisemti "
-"įkvėpimo, rasti naujus sąryšius ir dalytis naujais atradimais."
-
-#: templates/static_pages/storyline.html:36
-msgid "Credits: the music, the images and where they came from"
-msgstr "Kūrėjai: muzikos ir vaizdų teikėjų sąrašas"
-
-#: templates/static_pages/storyline.html:38
-msgid ""
-"We are very grateful to all those who helped make the video, especially its "
-"creators"
-msgstr ""
-"Esame dėkingi visiems, kurie padėjo paruošti vaizdo įrašą, ypač jo kūrėjams"
-
-#: templates/static_pages/storyline.html:40
-msgid ""
-"Many of our partners gave us permission to use their images in the video. "
-"Thanks to our colleagues in the\n"
-"    organisations listed below."
-msgstr ""
-"Daugelis mūsų partnerių leido mums naudoti jų paveikslus vaizdo medžiagoje. "
-"Dėkojame mūsų kolegoms iš žemiau išvardytų organizacijų."
-
-#: templates/static_pages/storyline.html:43
-msgid "The music is primarily drawn from Irmin Schmidt's"
-msgstr "Muzikos motyvas paimtas iš Irmin Schmidt'o kūrinio "
-
-#: templates/static_pages/storyline.html:43
-msgid "Those Fuzzy Things (out there)"
-msgstr ""
-
-#: templates/static_pages/storyline.html:43
-msgid ""
-"much appreciation to Cit&eacute;\n"
-"    de la Musique for enabling us to use it as the basis for our soundtrack."
-msgstr ""
-"ypač dėkingi Cit&eacute;\n"
-"de la Musique už leidimą panaudoti tai kaip mūsų garso takelio pagrindą."
-
-#: templates/static_pages/storyline.html:51
-msgid "Collection"
-msgstr "Kolekcija"
-
-#: templates/static_pages/storyline.html:52
-msgid "Link"
-msgstr "Saitas"
 
 #: templates/static_pages/usingeuropeana.html:11
 msgid ""
@@ -5187,13 +4593,10 @@ msgid "Refined search"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana.html:14
-#: templates/static_pages/usingeuropeana_search.html:39
-#: templates/static_pages/usingeuropeana_search.html:41
 msgid "Phrase search"
 msgstr "Frazės paieška"
 
 #: templates/static_pages/usingeuropeana.html:14
-#: templates/static_pages/usingeuropeana_search.html:43
 msgid "Exclude words"
 msgstr "Pašalinti žodžius"
 
@@ -5304,67 +4707,6 @@ msgstr ""
 
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "area"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:3
-msgid "Europeana - Using My Europeana"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:10
-msgid "is your personal space on Europeana."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:11
-msgid "Register for"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:11
-#, fuzzy
-msgid "and you can"
-msgstr "Ar turėjote omenyje?"
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:14
-msgid ""
-"Keep up to date on a particular topic in Europeana by saving a search, so "
-"you can easily perform it again in future."
-msgstr ""
-"išsaugoję paiešką, galėsite ją lengvai pakartoti ir atnaujinti informaciją "
-"apie konkretų Europeanos objektą."
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:15
-#, fuzzy
-msgid ""
-"Label your favourite items in Europeana with tags that mean something to "
-"you. You can then see all objects you have tagged, sorted by the keywords "
-"you have chosen, in the My Europeana interface."
-msgstr ""
-"priskyrę Europeanos objektams norimus žymenis, Mano Europeana sąsajoje "
-"galėsite rūšiuoti objektus pagal pasirinktus reikšminius žodžius."
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:16
-msgid "Store your favourite items for later viewing."
-msgstr "išsaugosite mėgiamiausius objektus vėlesnei peržiūrai."
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:17
-msgid ""
-"If you are a developer who has registered for one or more API keys, these "
-"will be shown on the API Keys tab."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:20
-msgid "To save a search, add a tag or save an item, simply login to"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:20
-msgid "and click on the relevant action from the menu."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:21
-msgid "To view your saved items, searches and tags, use the"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:21
-msgid "shortcuts in the header."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:3
@@ -5614,630 +4956,605 @@ msgid ""
 "returns. Simply hit the link to perform the search."
 msgstr ""
 
-#: templates/static_pages/usingeuropeana_search.html:3
+#~ msgid "Europeana - New Content"
+#~ msgstr "Europeana - Naujas turinys"
+
 #, fuzzy
-msgid "Europeana - Searching Europeana"
-msgstr "Europeana - Kaip naudotis Europeana"
+#~ msgid "Europeana - Sitemap"
+#~ msgstr "Europeana - E.naujienos"
 
-#: templates/static_pages/usingeuropeana_search.html:11
+#~ msgid "Searching in Europeana"
+#~ msgstr "Paieška Europeanoje"
+
 #, fuzzy
-msgid ""
-"Welcome to Europeana. This page describes some of the things that you can do "
-"while you are here. Learn more about:"
-msgstr ""
-"Sveiki atvykę į Europeaną. Šiame puslapyje aprašomi kai kurie veiksmai, "
-"kuriuos galite atlikti mūsų portale. Sužinokite apie"
+#~ msgid "All Providers"
+#~ msgstr "Turinio pateikimas"
 
-#: templates/static_pages/usingeuropeana_search.html:13
-msgid ""
-"Search tips, refined search, phrase search, exclude words, auto-completion, "
-"filter results, share your search."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:14
-msgid "exhibitions, new content."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:15
-msgid ""
-"Seeing further details, rights and licence information, translating details, "
-"searching on external services, related searches on Europeana, viewing item "
-"on provider's site, embedding, and citing."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:16
-msgid "Saving searches, saving items, and adding tags."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:19
 #, fuzzy
-msgid "General Search"
-msgstr "patikslinta paieška"
+#~ msgid "Press Centre (on Europeana Professional)"
+#~ msgstr "Spustelėkite, jei norite grįžti į Europeanos pirmąjį puslapį"
 
-#: templates/static_pages/usingeuropeana_search.html:21
 #, fuzzy
-msgid ""
-"Searching the millions of items in Europeana is simple. Just enter your "
-"search term and hit"
-msgstr ""
-"Naudodami nesudėtingą paiešką galite lengvai rasti milijonus Europeanos "
-"objektų. Tiesiog pagalvokite, kas jus domina, ką ir kur norėtumėte rasti ir "
-"įrašykite žodžius į Europeanos paieškos lauką. pvz.:"
+#~ msgid "Partners (on Europeana Professional)"
+#~ msgstr "Spustelėkite, jei norite grįžti į Europeanos pirmąjį puslapį"
 
-#: templates/static_pages/usingeuropeana_search.html:23
 #, fuzzy
-msgid "Specific search"
-msgstr "patikslinta paieška"
+#~ msgid "Working with the API"
+#~ msgstr "Bendradarbiavimas su Europeana"
 
-#: templates/static_pages/usingeuropeana_search.html:25
-msgid "You can narrow your search with the arrow to the right of"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:25
 #, fuzzy
-msgid "Search All fields"
-msgstr "Paieška išsaugota"
+#~ msgid "API Methods"
+#~ msgstr "Naudojimo sąlygos"
 
-#: templates/static_pages/usingeuropeana_search.html:25
-msgid "and selecting a category"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:25
-msgid "Titles, Creators, Subjects, Dates/Periods, Places"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:25
-msgid "Then enter your search term and hit"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:27
 #, fuzzy
-msgid ""
-"Alternatively, just ask yourself who, what, where or when you are interested "
-"in and type these words into Europeana's search box followed by a colon (:). "
-"Then enter your search term and hit"
-msgstr ""
-"Naudodami nesudėtingą paiešką galite lengvai rasti milijonus Europeanos "
-"objektų. Tiesiog pagalvokite, kas jus domina, ką ir kur norėtumėte rasti ir "
-"įrašykite žodžius į Europeanos paieškos lauką. pvz.:"
+#~ msgid "Suggestions"
+#~ msgstr "Rašybos patarimai"
 
-#: templates/static_pages/usingeuropeana_search.html:29
-msgid "For specific searches, you could:"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:31
-#: templates/static_pages/usingeuropeana_search.html:32
-#: templates/static_pages/usingeuropeana_search.html:33
-#: templates/static_pages/usingeuropeana_search.html:34
-msgid "Use the"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:31
-#: templates/static_pages/usingeuropeana_search.html:32
-#: templates/static_pages/usingeuropeana_search.html:33
-#: templates/static_pages/usingeuropeana_search.html:34
 #, fuzzy
-msgid "filter or enter"
-msgstr "Įveskite savo elektroninio pašto adresą"
+#~ msgid "OpenSearch"
+#~ msgstr "Paieška išsaugota"
 
-#: templates/static_pages/usingeuropeana_search.html:31
-msgid ""
-"followed by a name of, for example, an actor, author or architect. Your "
-"results will display only items for which the name you entered is listed as "
-"the creator. For example, searching for"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:31
-msgid ""
-"will narrow your results to van Gogh's works, excluding photographs of the "
-"artist or documentaries about him and his work."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid ""
-"followed by a type of item, a subject you are interested in or words from "
-"the title of the item you are looking for. Your search results will display "
-"only items of the requested type or subject or items whose title includes "
-"your search term. For example, searching for"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid "will narrow your results to maps, or"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid ""
-"will display artworks, buildings and monuments done in the Art Nouveau style."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:33
 #, fuzzy
-msgid "Place"
-msgstr "Vaizdai"
+#~ msgid "Europeana Fields"
+#~ msgstr "Europeana - DUK"
 
-#: templates/static_pages/usingeuropeana_search.html:33
-msgid ""
-"followed by a name of a town, city or country within Europe or around the "
-"world. Your search results will display only items which were created in, "
-"published in or depict the place you are searching for. For example, "
-"searching for"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:33
-msgid ""
-"will help you differentiate your search when you are looking only for "
-"objects created or held in Milan, excluding items on writer Milan Kundera "
-"from your search results."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:34
-msgid ""
-"followed by a date (e.g. 1945) or a period (e.g. Roman or Medieval). Your "
-"search results will display only items for which the date is listed in the "
-"item's date field. For example, searching for"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:34
-msgid ""
-"will help you differentiate your search when you are looking only for items "
-"dated 1984, excluding items that have 1984 in their title or description, "
-"like George Orwell's novel."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:37
-msgid ""
-"These search functions also have support for different spellings and "
-"languages. For example, when you search for"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:37
-msgid ""
-"the results will also include items with Milano, Mailand or Milanas listed "
-"as their geographic coverage."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:41
-msgid "is also possible. Just put"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:41
-msgid "quotation marks"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:41
-msgid "e.g."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:41
-msgid "around the phrase you want to find, or type"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:41
-msgid "between the keywords (e.g."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:43
-msgid "by typing"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:43
-msgid "in capital letters, followed by the word you want to omit (e.g."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:45
-msgid "Another helpful search feature is"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:45
-msgid "Auto completion"
-msgstr "Automatinis užbaigimas"
-
-#: templates/static_pages/usingeuropeana_search.html:45
 #, fuzzy
-msgid ""
-"Start typing a search term. Europeana will suggest words that may match what "
-"you are thinking of. Just select the term you want and hit"
-msgstr ""
-"Pradėkite rašyti ieškomą terminą. Europeana pasiūlys žodžius, kurie gali "
-"atitikti jūsų mintį. Naudodami rodyklę pereikite prie norimo termino ir "
-"paspauskite Enter, kad prasidėtų jo paieška."
+#~ msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
+#~ msgstr "Spustelėkite, jei norite grįžti į Europeanos pirmąjį puslapį"
 
-#: templates/static_pages/usingeuropeana_search.html:47
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid "Refine your search"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid ""
-"Once you have done an initial search, results can be narrowed down with the"
-msgstr "Atlikus pradinę paiešką, rezultatus galima susiaurinti naudojant"
-
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid ""
-"functions. These are in the grey pane on the search results screen. You can "
-"add more keywords to your search, thereby narrowing the search results. Just "
-"type your keyword into the"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid "field and hit"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid "The keyword is displayed at the top of the pane, under"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:49
 #, fuzzy
-msgid "Matches for."
-msgstr "naudokite šią formą"
+#~ msgid "Free Access - no-reuse"
+#~ msgstr "Europeana - teisės saugomos - ribota prieiga"
 
-#: templates/static_pages/usingeuropeana_search.html:51
-msgid "To remove a keyword, hit the X icon next to the relevant keyword in the"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:51
-msgid "list."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:53
-msgid "You can also"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:53
 #, fuzzy
-msgid "filter your search results:"
-msgstr "Įveskite savo elektroninio pašto adresą"
+#~ msgid "Rights Reserved - Restricted access"
+#~ msgstr "Europeana - teisės saugomos - ribota prieiga"
 
-#: templates/static_pages/usingeuropeana_search.html:55
-msgid ""
-"will display only objects of a selected media type (images, text, video, "
-"sound or 3D). "
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:56
-msgid "By language"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:56
-msgid ""
-"will display only objects with descriptions in selected languages, i.e. the "
-"language of the institution that provided the object to Europeana."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:57
-msgid "By date"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:57
-msgid "will display only objects with selected dates."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:58
-msgid "By country"
-msgstr "Šalis"
-
-#: templates/static_pages/usingeuropeana_search.html:58
-msgid ""
-"will display only objects from selected countries, i.e. the country of the "
-"institution that provided the object to Europeana."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:59
-msgid ""
-"will display objects labelled with the selected copyright label(s). This "
-"copyright label indicates how you may reuse the digital object, including "
-"the preview."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:60
-msgid "will display only objects from selected institutions"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:63
-msgid ""
-"Select the filter name, e.g. 'By language' to expand it. Then just use the "
-"check boxes for the categories you wish the search results to include. The "
-"results will refresh automatically. The filter will be added to the"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:63
-msgid "list at the top of the pane."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:65
-msgid "To remove a filter, hit the X icon next to the item in the"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:65
-msgid "list, or de-select the check box next to the filter category."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:67
-msgid "You can also select to"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:67
-msgid ""
-"This means items that have not come from a cultural institution but from an "
-"individual user, for example, items contributed to the Europeana 1914-1918 "
-"project."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:69
-msgid "Share your search with friends by choosing"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:69
-msgid ""
-"A full list of social media sharing options is presented. Just select one "
-"you want. This also includes print and email options."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:3
 #, fuzzy
-msgid "Europeana - How to configure your search widget"
-msgstr "Europeanos logotipų"
+#~ msgid "Paid Access - no re-use"
+#~ msgstr "Europeana - teisės saugomos - ribota prieiga"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:10
-msgid "You can add a Europeana search facility to your blog or website."
-msgstr ""
+#~ msgid "Unknown copyright status"
+#~ msgstr "Nežinomas autorių teisių statusas"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:10
-msgid "Our simple wizard"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:10
-msgid ""
-"takes you through the process step-by-step and gives you a snippet of code "
-"to embed."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:11
-msgid ""
-"Configure the widget to search all collections and data providers within "
-"Europeana, or refine it to suit your website, e.g. to search only within "
-"Public Domain or Creative Commons, or only licensed images from a specific "
-"country."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:12
 #, fuzzy
-msgid "The Europeana Search Widget works with..."
-msgstr "Europeanos logotipų"
+#~ msgid "Orphan work - Free access"
+#~ msgstr "teisės saugomos - nemokama prieiga"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:13
-msgid "Sites that you host yourself."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:18
 #, fuzzy
-msgid "The Europeana Search Widget doesn't work with..."
-msgstr "Europeanos logotipų"
+#~ msgid "Europeana Semantic Elements (ESE)"
+#~ msgstr "Europeanos logotipų"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:19
-msgid "Blogs hosted on Wordpress.com"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:20
 #, fuzzy
-msgid "Set up your Europeana Search Widget:"
-msgstr "Europeanos logotipų"
+#~ msgid "Europeana metadata schemas"
+#~ msgstr "Kaip naudotis Europeana"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:22
+#~ msgid "Europeana - Storyline and credits"
+#~ msgstr "Europeana - Pagrindinė siužeto linija ir kūrėjai "
+
+#~ msgid "The best place to start is with"
+#~ msgstr "Geriausia pradėti yra nuo"
+
+#~ msgid "Rene Descartes"
+#~ msgstr "Renė Dekarto,"
+
+#~ msgid ""
+#~ "the man who made thinking central to our experience of the world. Cogito "
+#~ "ergo sum wrote Descartes in 1644 in his Principia Philosophiae: I think, "
+#~ "therefore I am. Descartes was the father of modern philosophy, and one of "
+#~ "the great European thinkers of his time, writing in French and Latin, "
+#~ "working and publishing in the Netherlands."
+#~ msgstr ""
+#~ "žmogaus, kuris pavertė mąstymą mūsų pasaulio pažinimo centru. Cogito ergo "
+#~ "sum, rašė Dekartas 1644 m. savo Principia Philosophiae: mąstau, vadinasi "
+#~ "esu. Dekartas buvo moderniosios filosofijos tėvas, vienas didžiausių to "
+#~ "laiko Europos mąstytojų, rašęs prancūziškai ir lotyniškai, dirbęs ir "
+#~ "skelbęs savo darbus Nyderlanduose."
+
+#~ msgid "Newton"
+#~ msgstr "Niutonas"
+
+#~ msgid ""
+#~ "He defined laws of reflection and refraction, worked on the structure of "
+#~ "the brain, the new physics and mathematics. He was a major influence on"
+#~ msgstr ""
+#~ "Jis suformulavo atspindžio ir lūžio dėsnius, tyrinėjo smegenų struktūrą, "
+#~ "fizikos ir matematikos naujoves. Jis turėjo labai didelę įtaką"
+
+#~ msgid "Isaac Newton"
+#~ msgstr "Izaokui Niutonui,"
+
+#~ msgid ""
+#~ "whose laws of gravity were famously inspired by watching an apple fall. "
+#~ "Newton's three laws of motion were published in 1687 in his"
+#~ msgstr ""
+#~ "kurio traukos dėsnius, kaip visi žinome, įkvėpė žvilgsnis į krintantį "
+#~ "obuolį. Trys Niutono judėjimo dėsniai buvo paskelbti 1687 m. jo"
+
+#~ msgid "Philosophiae Naturalis Principia Mathematica"
+#~ msgstr "Matematiniuose gamtos filosofijos pagrinduose"
+
+#~ msgid "Darwin"
+#~ msgstr "Darvinas"
+
+#~ msgid ""
+#~ "The apple is the symbol of another fall; that of Adam and Eve, who on "
+#~ "eating the fruit of the Tree of Knowledge of Good and Evil are banished "
+#~ "from Eden. The fundamental challenge to the story of the Creation and the "
+#~ "Fall is the Theory of Evolution, set out by"
+#~ msgstr ""
+#~ "Obuolys yra ir kito kritimo simbolis - to, kur Adomas ir Ieva už gėrio ir "
+#~ "blogio pažinimo medžio vaisių valgymą buvo išvaryti iš Rojaus. "
+#~ "Svarbiausiu iššūkiu Sutvėrimo ir Išvarymo istorijai yra evoliucijos "
+#~ "teorija, paskelbta"
+
+#~ msgid "Charles Darwin"
+#~ msgstr "Čarlzo Darvino"
+
+#~ msgid "in his famous 1859 book"
+#~ msgstr "jo garsiojoje 1859 m. knygoje"
+
+#~ msgid "On the Origin of Species"
+#~ msgstr "Rūšių atsiradimas"
+
+#~ msgid ""
+#~ "Darwin recognised that species were not static, but evolved to improve "
+#~ "their chances of survival. His theories began to develop while he was the "
+#~ "naturalist and geologist on board the ship Beagle, on a 5 year voyage "
+#~ "surveying the coast of South America."
+#~ msgstr ""
+#~ "Darvinas suprato, kad rūšys nėra nekintamos, bet evoliucionuoja, kad "
+#~ "pagerintų savo išgyvenimo galimybes. Jo teorijos pradėjo vystytis, jam "
+#~ "dirbant gamtininku ir geologu laive \"Biglis\", penkerių metų kelionėje "
+#~ "tiriant Pietų Amerikos pakrantes."
+
+#~ msgid "Wedgwood"
+#~ msgstr "Wedgwoodas"
+
+#~ msgid ""
+#~ "Darwin's genius was the product of an English family of talent and "
+#~ "reputation. He was the grandson of"
+#~ msgstr ""
+#~ "Darvino genijus prasiskleidė talentingoje ir puikios reputacijos anglų "
+#~ "šeimoje. Jis buvo"
+
+#~ msgid "Josiah Wedgwood"
+#~ msgstr "Josiah Wedgwood'o"
+
+#~ msgid ""
+#~ "one of the great entrepreneurs of the industrial revolution. Taking "
+#~ "inspiration from Greek, Etruscan and Roman styles, especially the "
+#~ "Portland Vase, he created a range of neo-classical pottery that delighted "
+#~ "the new English merchant classes, keen to display their sophistication "
+#~ "with references to design classics. Wedgwood used scientific innovation, "
+#~ "factory techniques of mass production and the new canal network of the UK "
+#~ "to transport his fragile wares to the new consumers of the growing towns "
+#~ "and cities."
+#~ msgstr ""
+#~ "vieno iš garsių pramoninės revoliucijos laikotarpio verslininkų, anūkas. "
+#~ "Įkvėptas graikų, etruskų ir romėnų stilių, ypač Portlando vazų, "
+#~ "Wedgwoodas sukūrė neoklasikinės keramikos liniją, žavėjusią naująsias "
+#~ "anglų pirklių klases, troškusias pademonstruoti savo rafinuotumą per "
+#~ "meilę klasikiniam dizainui. Wedgwoodas naudojosi mokslo inovacijomis, "
+#~ "fabrikinėmis masinės gamybos technologijomis ir naujuoju JK kanalų "
+#~ "tinklu, kad saugiai gabentų savo trapius gaminius naujiems klientams "
+#~ "augančiuose miestuose ir didmiesčiuose."
+
+#~ msgid "Abolition"
+#~ msgstr "Abolicija"
+
+#~ msgid "A philanthropic employer, Wedgwood was also an early support of"
+#~ msgstr "Filantropiškas darbdavys, Wedgwoodas nuo pat pradžių rėmė"
+
+#~ msgid "abolition"
+#~ msgstr "aboliciją"
+
+#~ msgid ""
+#~ "He was a founder member of the Society for the Abolition of the Slave "
+#~ "Trade. His support was most memorably expressed in the cameos he produced "
+#~ "in the 1780s, showing a chained slave with the motto Am I not a Man and a "
+#~ "Brother? Distributed in their thousands, these became the first protest "
+#~ "fashion accessory."
+#~ msgstr ""
+#~ "Jis buvo draugijos, kovojančios už vergijos panaikinimą, narys-steigėjas. "
+#~ "Savo nuostatas jis ypač įsidėmėtinai išreiškė 1780 m. pagamintose "
+#~ "kamėjose, vaizduojančiose surakintą vergą, su užrašu: Ar aš ne Žmogus ir "
+#~ "Brolis? Pasklidus jų tūkstančiams, šios kamėjos tapo pirmuoju madingu "
+#~ "aksesuaru protestui išreikšti."
+
+#~ msgid "Migration"
+#~ msgstr "Migracija"
+
+#~ msgid ""
+#~ "The anti-slavery campaigners succeeded in abolishing the slave trade in "
+#~ "1807 and in the following years it was outlawed in the colonies of "
+#~ "western Europe. But the ideal of equality on which it was founded "
+#~ "continued to inspire. Over a century on, it fuelled the political "
+#~ "aspirations that drove the colonial independence movements."
+#~ msgstr ""
+#~ "Kovotojams prieš vergovę 1807 m. pavyko panaikinti prekybą vergais, ir "
+#~ "per ateinančius metus ji buvo paskelbta už įstatymo ribų Vakarų Europos "
+#~ "kolonijose. Tačiau lygybės idealai, kuriais rėmėsi kovotojai, ir toliau "
+#~ "įkvėpė žmones. Ištisą amžių jie kurstė politinius siekius, kurie skatino "
+#~ "kolonijų nepriklausomybės judėjimus."
+
+#~ msgid ""
+#~ "from the former colonies in recent decades has pushed concern for "
+#~ "equality of opportunity up the political agenda as Europe has become "
+#~ "increasingly diverse."
+#~ msgstr ""
+#~ "iš buvusių kolonijų davė postūmį lygių galimybių klausimui atsirasti "
+#~ "politinėje darbotvarkėje, vis didėjant įvairovei Europoje. "
+
+#~ msgid "Bridgetower"
+#~ msgstr "Bridgetoweris"
+
+#~ msgid ""
+#~ "Talented Europeans of African descent were making their mark in the "
+#~ "capitals of Europe even as the abolition movement was gathering "
+#~ "supporters."
+#~ msgstr ""
+#~ "Talentingi europiečiai, kilę iš Afrikos paliko savo žymes Europos "
+#~ "sostinėse kaip tik tada, kai abolicijos judėjimas būrė savo rėmėjus."
+
+#~ msgid "was the Polish-born son of a West Indian servant of the"
+#~ msgstr "buvo lenkų-afrikiečių kilmės, Vest Indijos tarnautojo, dirbusio"
+
+#~ msgid "Prince Esterh&aacute;zy"
+#~ msgstr "kunigaikščiui Esterhaziui"
+
+#~ msgid ""
+#~ "Joseph Haydn's Hungarian patron. He was a musical prodigy whose talent "
+#~ "was quickly spotted, and he made his debut in Paris at the age of 9. One "
+#~ "reviewer noted his talent is one of the best replies one can give to "
+#~ "philosophers who wish to deprive people of his nation and his colour of "
+#~ "the opportunity to distinguish themselves in the arts."
+#~ msgstr ""
+#~ "Jozefo Haidno vengriškajam patronui, sūnus. Jo nepaprastas muzikinis "
+#~ "talentas buvo greitai pastebėtas, ir jis debiutavo Paryžiuje, būdamas "
+#~ "devynerių. Vienas apžvalgininkas pastebėjo, kad jo talentas yra vienas "
+#~ "geriausių atsakymų tiems filosofams, kurie nori atimti jo tautybės ir "
+#~ "spalvos žmonėms galimybę pasižymėti menų srityje."
+
+#~ msgid "Beethoven"
+#~ msgstr "Bethovenas"
+
+#~ msgid "By 1803, Bridgetower was giving the premiere of"
+#~ msgstr "1803 m. Bridgetoweris dalyvavo"
+
+#~ msgid "Beethoven's Kreutzer sonata (Op.47)"
+#~ msgstr "Bethoveno Kreicerio sonatos (Op.47)"
+
+#~ msgid ""
+#~ "He played the violin part, Beethoven the piano. So delighted was "
+#~ "Beethoven with the performance that he initially dedicated the sonata to "
+#~ "Bridgetower and gave him his tuning fork."
+#~ msgstr ""
+#~ "premjeroje. Jis grojo smuiko partiją, Bethovenas - fortepijono. "
+#~ "Bethovenui taip patiko atlikimas, kad jis nuo pat pradžios dedikavo "
+#~ "sonatą Bridgetoweriui ir davė jam savo kamertoną."
+
+#~ msgid "Ludwig van Beethoven"
+#~ msgstr "Liudvikas van Bethovenas"
+
+#~ msgid "is the greatest of the Romantic composers: his Third Symphony, the "
+#~ msgstr "yra didžiausias iš kompozitorių romantikų. Jo Trečioji simfonija,"
+
+#~ msgid "Eroica"
+#~ msgstr "Heroica"
+
+#~ msgid "was originally dedicated to"
+#~ msgstr "iš pradžių buvo dedikuota"
+
+#~ msgid "Napoleon"
+#~ msgstr "Napoleonui"
+
+#~ msgid ""
+#~ "who he believed ushered in an age of democracy and republican ideals. "
+#~ "When Napoleon fell short, Beethoven scratched the dedication from the "
+#~ "manuscript so forcefully he tore a hole through the paper."
+#~ msgstr ""
+#~ "kurį tikėjo esant demokratijos amžiaus ir respublikoniškų idealų "
+#~ "apreiškėju. Kai Napoleonas nepasiekė tikslo, Bethovenas su tokia jėga "
+#~ "drėskė dedikaciją nuo rankraščio, kad padarė popieriuje skylę."
+
+#~ msgid "Rossini"
+#~ msgstr "Rosinis"
+
+#~ msgid ""
+#~ "Beethoven's genius was felt across Europe and had a profound influence on "
+#~ "the succeeding generation of composers, including"
+#~ msgstr ""
+#~ "Bethoveno genialumą juto visa Europa; jis padarė gilią įtaką paskesnei "
+#~ "kompozitorių kartai, įskaitant"
+
+#~ msgid "Gioachino Antonio Rossini"
+#~ msgstr "Džoakiną Antonijų Rosinį"
+
+#~ msgid ""
+#~ "Rossini travelled to Vienna in 1822, where he met the master. His "
+#~ "reverence was such that he asked for Beethoven's Funeral March to be "
+#~ "played at his burial in Paris."
+#~ msgstr ""
+#~ "Rosinis 1822 m. keliavo į Vieną, kur sutiko didįjį menininką. Jis juto "
+#~ "tokią pagarbą, kad paprašė, jog Bethoveno Laidotuvių maršas būtų grojamas "
+#~ "per jo laidotuves Paryžiuje."
+
+#~ msgid ""
+#~ "Rossini's popularity continued into the 20th century. The most famous "
+#~ "diva of the time,"
+#~ msgstr "Rosinio populiarumas tęsėsi ir 20 a. Garsiausia to laiko primadona"
+
+#~ msgid "Maria Callas"
+#~ msgstr "Maria Callas"
+
+#~ msgid ""
+#~ "was one of his great interpreters; Una voce poco fa, Rosina's famous aria "
+#~ "from"
+#~ msgstr ""
+#~ "buvo viena iš jo didžiųjų interpretuotojų; Una voce poco fa, garsi "
+#~ "Rozinos arija iš"
+
+#~ msgid "The Barber of Seville"
+#~ msgstr "Sevilijos kirpėjo"
+
+#~ msgid ""
+#~ "was a fixture in her concert repertoire. Rossini's speed for musical "
+#~ "composition was legendary, particularly of"
+#~ msgstr ""
+#~ "nuolat buvo jos koncertiniame repertuare. Sklido legendos, kad Rosinis "
+#~ "rašė muziką labai greitai, ypač"
+
+#~ msgid "La Gazza Ladra - The Thieving Magpie"
+#~ msgstr "La Gazza Ladra - Šarką vagilę"
+
+#~ msgid "Magpies and mirrors"
+#~ msgstr "Šarkos ir veidrodžiai"
+
+#~ msgid ""
+#~ "The title refers to the magpie's eye for shining things; like Europeana, "
+#~ "it gathers treasures."
+#~ msgstr ""
+#~ "Pavadinime minimas šarkos polinkis į blizgančius daiktus; kaip Europeana, "
+#~ "ji renka lobius. Tikima, kad"
+
+#~ msgid "The magpie"
+#~ msgstr "šarka"
+
+#~ msgid ""
+#~ "is also believed to be the only non-mammal that can recognise its "
+#~ "reflection in a mirror; which brings us back to Descartes' interest in "
+#~ "reflection and refraction. Artists through the ages have similarly been "
+#~ "fascinated with the properties of light and perception as depicted in the "
+#~ "vivid translucency of Renaissance and Baroque portraits; the perspective "
+#~ "of"
+#~ msgstr ""
+#~ "yra vienintelė tarp nežinduolių, kuri gali atpažinti savo atspindį "
+#~ "veidrodyje; tai sugrąžina mus prie Dekarto domėjimosi atspindžiu ir "
+#~ "refrakcija. Lygiai taip pat menininkus per amžius žavėjo šviesos savybės "
+#~ "ir suvokimas, kas atsispindi ryškiame Renesanso ir Baroko portretų "
+#~ "skaidrume;"
+
+#~ msgid "Johannes Vermeer"
+#~ msgstr "Johanas Vermejeris"
+
+#~ msgid ""
+#~ "enthralled by the discoveries of the Scientific revolution; the technical "
+#~ "virtuosity of 19th century Pointillists which led onto 20th century "
+#~ "Cubism, where both objects and space merge."
+#~ msgstr ""
+#~ "perspektyva, atsiradusi iš susižavėjimo mokslo revoliucijos atradimais; "
+#~ "19 a. puantilistų techninis virtuoziškumas, atvedęs į 20 a. kubizmą, kur "
+#~ "objektai susilieja su erdve."
+
+#~ msgid ""
+#~ "Most of all, the eyes, the faces, the ideas from the past invite us to "
+#~ "think again: to take inspiration, to make new connections and to share "
+#~ "new discoveries."
+#~ msgstr ""
+#~ "Taip akys, veidai, idėjos iš praeities vėl kviečia mus galvoti: pasisemti "
+#~ "įkvėpimo, rasti naujus sąryšius ir dalytis naujais atradimais."
+
+#~ msgid "Credits: the music, the images and where they came from"
+#~ msgstr "Kūrėjai: muzikos ir vaizdų teikėjų sąrašas"
+
+#~ msgid ""
+#~ "We are very grateful to all those who helped make the video, especially "
+#~ "its creators"
+#~ msgstr ""
+#~ "Esame dėkingi visiems, kurie padėjo paruošti vaizdo įrašą, ypač jo "
+#~ "kūrėjams"
+
+#~ msgid ""
+#~ "Many of our partners gave us permission to use their images in the video. "
+#~ "Thanks to our colleagues in the\n"
+#~ "    organisations listed below."
+#~ msgstr ""
+#~ "Daugelis mūsų partnerių leido mums naudoti jų paveikslus vaizdo "
+#~ "medžiagoje. Dėkojame mūsų kolegoms iš žemiau išvardytų organizacijų."
+
+#~ msgid "The music is primarily drawn from Irmin Schmidt's"
+#~ msgstr "Muzikos motyvas paimtas iš Irmin Schmidt'o kūrinio "
+
+#~ msgid ""
+#~ "much appreciation to Cit&eacute;\n"
+#~ "    de la Musique for enabling us to use it as the basis for our "
+#~ "soundtrack."
+#~ msgstr ""
+#~ "ypač dėkingi Cit&eacute;\n"
+#~ "de la Musique už leidimą panaudoti tai kaip mūsų garso takelio pagrindą."
+
+#~ msgid "Collection"
+#~ msgstr "Kolekcija"
+
+#~ msgid "Link"
+#~ msgstr "Saitas"
+
 #, fuzzy
-msgid "Go to the search widget page."
-msgstr "Europeanos logotipų"
+#~ msgid "and you can"
+#~ msgstr "Ar turėjote omenyje?"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:23
+#~ msgid ""
+#~ "Keep up to date on a particular topic in Europeana by saving a search, so "
+#~ "you can easily perform it again in future."
+#~ msgstr ""
+#~ "išsaugoję paiešką, galėsite ją lengvai pakartoti ir atnaujinti "
+#~ "informaciją apie konkretų Europeanos objektą."
+
 #, fuzzy
-msgid "Introduction tab"
-msgstr "Atribucija"
+#~ msgid ""
+#~ "Label your favourite items in Europeana with tags that mean something to "
+#~ "you. You can then see all objects you have tagged, sorted by the keywords "
+#~ "you have chosen, in the My Europeana interface."
+#~ msgstr ""
+#~ "priskyrę Europeanos objektams norimus žymenis, Mano Europeana sąsajoje "
+#~ "galėsite rūšiuoti objektus pagal pasirinktus reikšminius žodžius."
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:23
-msgid ""
-"The Europeana Search widget is presented. A progress bar shows you how far "
-"you are through the process and a video takes you through the process step "
-"by step. To start configuring your widget, tap 'Next' or the 'Filter' tab "
-"heading."
-msgstr ""
+#~ msgid "Store your favourite items for later viewing."
+#~ msgstr "išsaugosite mėgiamiausius objektus vėlesnei peržiūrai."
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:24
-msgid "Filter tab"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:24
-msgid ""
-"If you want your widget to include the entire Europeana dataset, you can go "
-"straight to the 'Style' tab. Tap 'Next' or the 'Style' tab heading."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:25
 #, fuzzy
-msgid "To tailor your search widget"
-msgstr "Įveskite savo elektroninio pašto adresą"
+#~ msgid "Europeana - Searching Europeana"
+#~ msgstr "Europeana - Kaip naudotis Europeana"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:27
 #, fuzzy
-msgid "Keyword search"
-msgstr "Įveskite savo elektroninio pašto adresą"
+#~ msgid ""
+#~ "Welcome to Europeana. This page describes some of the things that you can "
+#~ "do while you are here. Learn more about:"
+#~ msgstr ""
+#~ "Sveiki atvykę į Europeaną. Šiame puslapyje aprašomi kai kurie veiksmai, "
+#~ "kuriuos galite atlikti mūsų portale. Sužinokite apie"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:27
-msgid ""
-"By default, the widget searches the entire Europeana dataset. You can "
-"restrict the search to a key word or phrase. To do this, enter the key word"
-"(s) in the 'Search for' field. For example, if you are adding a widget to "
-"your First World War blog about military uniform, you might type 'uniform'."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:28
-msgid ""
-"All the normal search functions work in this field, for example, use double "
-"quotes for a phrase, e.g. &quot;military uniform&quot;, use 'AND' to include "
-"searches on two words or 'NOT' to hide results for a particular word, e.g. "
-"'uniform AND war' or 'uniform NOT school'."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:29
 #, fuzzy
-msgid "Search on types"
-msgstr "Paieška išsaugota"
+#~ msgid "General Search"
+#~ msgstr "patikslinta paieška"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:29
-msgid ""
-"By default, the widget will search the entire Europeana dataset for your key "
-"words. You can restrict the search to 'Titles', 'Creators', 'Subjects', "
-"'Times/Periods', or 'Places'.  For example, you may wish to look only for "
-"results to do with 'Paris'. In which case, you would enter 'Paris' as a key "
-"word and 'Places' as a type. Tap 'Change' next to 'All Fields' and select "
-"the option you need."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:30
-msgid ""
-"By default, the widget returns results from all of Europeana's providers. "
-"You can restrict it to your chosen providers.  Tap 'Change' next to 'All  "
-"Providers' and select the providers you need. You can search for a provider "
-"using the search field above the list.  The providers are presented in order "
-"of the size of their contributions to Europeana. The number in brackets "
-"shows how many items from that provider are available. If the name of the "
-"provider is followed by an arrow, then they are a data aggregator, tap the "
-"arrow to see the institutions included in their collection. Note: you can "
-"select more than one."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:31
 #, fuzzy
-msgid "Countries"
-msgstr "Šalis"
+#~ msgid ""
+#~ "Searching the millions of items in Europeana is simple. Just enter your "
+#~ "search term and hit"
+#~ msgstr ""
+#~ "Naudodami nesudėtingą paiešką galite lengvai rasti milijonus Europeanos "
+#~ "objektų. Tiesiog pagalvokite, kas jus domina, ką ir kur norėtumėte rasti "
+#~ "ir įrašykite žodžius į Europeanos paieškos lauką. pvz.:"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:31
-msgid ""
-"By default, the widget returns results from all countries. You can restrict "
-"it to your chosen countries. Tap 'Change' next to 'All Providing Countries' "
-"and select the countries you need. The countries are presented in order of "
-"the size of their contributions to Europeana. The number in brackets shows "
-"how many items from that country are available. Note: you can select more "
-"than one. To clear your selection and start again, tap 'Clear'."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:32
-msgid "Media types"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:32
-msgid ""
-"By default, the widget returns results of all media types - image, text, "
-"sound, video and 3D. You can restrict it to only the media types you're "
-"interested in. Tap 'Change' next to 'All Media Types' and select the types "
-"you need. The media types are presented in order of size. The number in "
-"brackets shows how many items of that media type are available. Note: you "
-"can select more than one.  To clear your selection and start again, tap "
-"'Clear'."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:33
 #, fuzzy
-msgid "Copyright"
-msgstr "Kitos teisės"
+#~ msgid "Specific search"
+#~ msgstr "patikslinta paieška"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:33
-msgid ""
-"By default, the widget returns results with any copyright status. You can "
-"restrict this, for example, to only show re-usable content. Tap 'Change' "
-"next to 'All Copyrights' and select the statuses you need. The copyright "
-"statuses are presented in order of size. The number in brackets shows how "
-"many items of that status are available. Note: you can select more than one. "
-"To clear your selection and start again, tap 'Clear'."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:34
-msgid "More information on the CC licenses"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:35
 #, fuzzy
-msgid "More information on the Rights Reserved - Free Access label"
-msgstr "Europeana - teisės saugomos - nemokama prieiga"
+#~ msgid "Search All fields"
+#~ msgstr "Paieška išsaugota"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:36
 #, fuzzy
-msgid "More information on the Rights Reserved - Restricted Access label"
-msgstr "Europeana - teisės saugomos - ribota prieiga"
+#~ msgid ""
+#~ "Alternatively, just ask yourself who, what, where or when you are "
+#~ "interested in and type these words into Europeana's search box followed "
+#~ "by a colon (:). Then enter your search term and hit"
+#~ msgstr ""
+#~ "Naudodami nesudėtingą paiešką galite lengvai rasti milijonus Europeanos "
+#~ "objektų. Tiesiog pagalvokite, kas jus domina, ką ir kur norėtumėte rasti "
+#~ "ir įrašykite žodžius į Europeanos paieškos lauką. pvz.:"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:37
 #, fuzzy
-msgid "More information on the Rights Reserved - Paid Access label"
-msgstr "Europeana - teisės saugomos - mokama prieiga"
+#~ msgid "filter or enter"
+#~ msgstr "Įveskite savo elektroninio pašto adresą"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:38
-msgid "More information on the Unknown rights label"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:39
 #, fuzzy
-msgid "Languages"
-msgstr "Kalbų politika"
+#~ msgid "Place"
+#~ msgstr "Vaizdai"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:39
-msgid ""
-"By default, the widget returns results in all languages. You can restrict it "
-"to your chosen languages. Tap 'Change' next to 'All Languages' and select "
-"the languages you need. The languages are presented in order of the size of "
-"their representation in Europeana. The number in brackets shows how many "
-"items of each language are available. Note: you can select more than one. To "
-"clear your selection and start again, tap 'Clear'."
-msgstr ""
+#~ msgid "Auto completion"
+#~ msgstr "Automatinis užbaigimas"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:40
-msgid ""
-"When you have selected all your filters, tap 'Next' or the 'Style' tab "
-"heading."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:42
-msgid "Style tab"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:42
-msgid ""
-"You can choose a black or white widget and select to include thumbnails or "
-"not. Select the style you would like to use."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:43
-msgid "Tap 'Next' or the 'Preview' tab heading."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:44
 #, fuzzy
-msgid "Preview tab"
-msgstr "Turinio pateikimas"
+#~ msgid ""
+#~ "Start typing a search term. Europeana will suggest words that may match "
+#~ "what you are thinking of. Just select the term you want and hit"
+#~ msgstr ""
+#~ "Pradėkite rašyti ieškomą terminą. Europeana pasiūlys žodžius, kurie gali "
+#~ "atitikti jūsų mintį. Naudodami rodyklę pereikite prie norimo termino ir "
+#~ "paspauskite Enter, kad prasidėtų jo paieška."
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:44
-msgid ""
-"Your widget will be displayed. Please note that the widget is responsive and "
-"so expands to fit the width of its container. For this reason, it may be a "
-"different size on the preview than it will be on your own web page."
-msgstr ""
+#~ msgid ""
+#~ "Once you have done an initial search, results can be narrowed down with "
+#~ "the"
+#~ msgstr "Atlikus pradinę paiešką, rezultatus galima susiaurinti naudojant"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:46
-msgid ""
-"If you wish to amend the widget's properties, just go back to the 'Search', "
-"'Filter' or 'Style' tab and make your changes."
-msgstr ""
+#, fuzzy
+#~ msgid "Matches for."
+#~ msgstr "naudokite šią formą"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:47
-msgid ""
-"If you are happy with your widget, simply copy the 'Embed' code displayed "
-"and paste this into your web page."
-msgstr ""
+#, fuzzy
+#~ msgid "filter your search results:"
+#~ msgstr "Įveskite savo elektroninio pašto adresą"
 
-#: templates/static_pages/usingeuropeana_searchwidget.html:48
-msgid ""
-"We would love to know how you are using this search widget, please tell us "
-"by dropping us an email at"
-msgstr ""
+#~ msgid "By country"
+#~ msgstr "Šalis"
+
+#, fuzzy
+#~ msgid "Europeana - How to configure your search widget"
+#~ msgstr "Europeanos logotipų"
+
+#, fuzzy
+#~ msgid "The Europeana Search Widget works with..."
+#~ msgstr "Europeanos logotipų"
+
+#, fuzzy
+#~ msgid "The Europeana Search Widget doesn't work with..."
+#~ msgstr "Europeanos logotipų"
+
+#, fuzzy
+#~ msgid "Set up your Europeana Search Widget:"
+#~ msgstr "Europeanos logotipų"
+
+#, fuzzy
+#~ msgid "Go to the search widget page."
+#~ msgstr "Europeanos logotipų"
+
+#, fuzzy
+#~ msgid "Introduction tab"
+#~ msgstr "Atribucija"
+
+#, fuzzy
+#~ msgid "To tailor your search widget"
+#~ msgstr "Įveskite savo elektroninio pašto adresą"
+
+#, fuzzy
+#~ msgid "Keyword search"
+#~ msgstr "Įveskite savo elektroninio pašto adresą"
+
+#, fuzzy
+#~ msgid "Search on types"
+#~ msgstr "Paieška išsaugota"
+
+#, fuzzy
+#~ msgid "Countries"
+#~ msgstr "Šalis"
+
+#, fuzzy
+#~ msgid "Copyright"
+#~ msgstr "Kitos teisės"
+
+#, fuzzy
+#~ msgid "More information on the Rights Reserved - Free Access label"
+#~ msgstr "Europeana - teisės saugomos - nemokama prieiga"
+
+#, fuzzy
+#~ msgid "More information on the Rights Reserved - Restricted Access label"
+#~ msgstr "Europeana - teisės saugomos - ribota prieiga"
+
+#, fuzzy
+#~ msgid "More information on the Rights Reserved - Paid Access label"
+#~ msgstr "Europeana - teisės saugomos - mokama prieiga"
+
+#, fuzzy
+#~ msgid "Languages"
+#~ msgstr "Kalbų politika"
+
+#, fuzzy
+#~ msgid "Preview tab"
+#~ msgstr "Turinio pateikimas"
 
 #, fuzzy
 #~ msgid "Rights Reserved - Free access"
@@ -6643,9 +5960,6 @@ msgstr ""
 #, fuzzy
 #~ msgid "aboutus.html"
 #~ msgstr "Apie mus"
-
-#~ msgid "Contacts"
-#~ msgstr "Kontaktai"
 
 #, fuzzy
 #~ msgid ""

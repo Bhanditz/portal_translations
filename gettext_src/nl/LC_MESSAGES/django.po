@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-26 16:59+0100\n"
+"POT-Creation-Date: 2014-03-03 15:37+0100\n"
 "PO-Revision-Date: 2014-01-31 10:13\n"
 "Last-Translator: <dean.birkett@kb.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,25 +21,23 @@ msgstr ""
 #: templates/static_pages/prop_file.html:63
 #: templates/static_pages/prop_file.html:819
 #: templates/static_pages/prop_file.html:820
-#: templates/static_pages/sitemap.html:51
 msgid "Europeana API"
 msgstr "Europeana API"
 
 #: templates/api_leftmenu.html:6 templates/static_pages/prop_file.html:991
 #: templates/static_pages/prop_file.html:992
-#: templates/static_pages/sitemap.html:53
 msgid "Get an API-Key"
 msgstr "Vraag een API-sleutel aan"
 
-#: templates/api_leftmenu.html:7 templates/static_pages/sitemap.html:55
+#: templates/api_leftmenu.html:7
 msgid "API Console"
 msgstr "API console"
 
-#: templates/api_leftmenu.html:11 templates/static_pages/sitemap.html:59
+#: templates/api_leftmenu.html:11
 msgid "Search Widget Wizard"
 msgstr ""
 
-#: templates/api_leftmenu.html:12 templates/static_pages/sitemap.html:60
+#: templates/api_leftmenu.html:12
 msgid "Europeana API Forum"
 msgstr "Europeana API forum"
 
@@ -52,14 +50,12 @@ msgstr "Onderzoek"
 #: templates/explore_leftmenu.html:5 templates/static_pages/prop_file.html:546
 #: templates/static_pages/prop_file.html:547
 #: templates/static_pages/prop_file.html:876
-#: templates/static_pages/sitemap.html:20
 msgid "Europeana Remix"
 msgstr "Europeana Remix"
 
 #: templates/explore_leftmenu.html:6 templates/static_pages/prop_file.html:550
 #: templates/static_pages/prop_file.html:551
 #: templates/static_pages/prop_file.html:865
-#: templates/static_pages/sitemap.html:17
 #: templates/static_pages/usingeuropeana_explore.html:14
 msgid "Exhibitions"
 msgstr "Tentoonstellingen"
@@ -70,8 +66,6 @@ msgstr "Tentoonstellingen"
 #: templates/static_pages/prop_file.html:555
 #: templates/static_pages/prop_file.html:914
 #: templates/static_pages/prop_file.html:915
-#: templates/static_pages/sitemap.html:38
-#: templates/static_pages/sitemap.html:87
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "New content"
 msgstr "Nieuwe content"
@@ -79,22 +73,18 @@ msgstr "Nieuwe content"
 #: templates/explore_leftmenu.html:9 templates/static_pages/prop_file.html:78
 #: templates/static_pages/prop_file.html:558
 #: templates/static_pages/prop_file.html:559
-#: templates/static_pages/sitemap.html:88
-#: templates/static_pages/usingeuropeana_search.html:60
 msgid "By provider"
 msgstr "Op aanbieder"
 
 #: templates/explore_leftmenu.html:10 templates/static_pages/prop_file.html:37
 #: templates/static_pages/prop_file.html:562
 #: templates/static_pages/prop_file.html:563
-#: templates/static_pages/sitemap.html:89
 msgid "Timeline"
 msgstr "Tijdlijn"
 
 #: templates/explore_leftmenu.html:11
 #: templates/static_pages/prop_file.html:566
 #: templates/static_pages/prop_file.html:567
-#: templates/static_pages/sitemap.html:90
 msgid "Map"
 msgstr "Kaart"
 
@@ -108,7 +98,6 @@ msgstr "Volg ons"
 #: templates/static_pages/prop_file.html:618
 #: templates/static_pages/prop_file.html:619
 #: templates/static_pages/prop_file.html:869
-#: templates/static_pages/sitemap.html:18
 msgid "Blog"
 msgstr "Blog"
 
@@ -150,7 +139,6 @@ msgstr ""
 #: templates/leftmenu.html:10 templates/static_pages/aboutus_enews.html:11
 #: templates/static_pages/prop_file.html:924
 #: templates/static_pages/prop_file.html:925
-#: templates/static_pages/sitemap.html:40
 msgid "Previous newsletters"
 msgstr "Eerdere nieuwsbrieven"
 
@@ -200,25 +188,23 @@ msgid "Using our data"
 msgstr "Gebruik van onze data"
 
 #: templates/terms_leftmenu.html:9 templates/rights/terms-and-policies.html:24
-#: templates/static_pages/sitemap.html:99
 msgid "Terms of Use"
 msgstr "Gebruiksvoorwaarden"
 
-#: templates/terms_leftmenu.html:10 templates/static_pages/sitemap.html:100
+#: templates/terms_leftmenu.html:10
 msgid "Usage Guidelines for Metadata"
 msgstr "Gebruiksrichtlijnen voor metadata"
 
-#: templates/terms_leftmenu.html:11 templates/static_pages/sitemap.html:101
+#: templates/terms_leftmenu.html:11
 msgid "Public Domain Usage Guidelines"
 msgstr "Gebruiksrichtlijnen Publiek Domein"
 
-#: templates/terms_leftmenu.html:12 templates/static_pages/sitemap.html:102
+#: templates/terms_leftmenu.html:12
 msgid "API Terms of Use"
 msgstr "API gebruiksvoorwaarden"
 
 #: templates/terms_leftmenu.html:13
 #: templates/rights/linked-data-sources.html:16
-#: templates/static_pages/sitemap.html:103
 msgid "Europeana Data Sources"
 msgstr "Europeana databronnen"
 
@@ -230,7 +216,7 @@ msgstr "Bijdragen data"
 msgid "Europeana Data Exchange Agreement"
 msgstr "Europeana data exchange agreement"
 
-#: templates/terms_leftmenu.html:19 templates/static_pages/sitemap.html:105
+#: templates/terms_leftmenu.html:19
 msgid "Terms for User Contributions"
 msgstr "Voorwaarden gebruikersbijdragen"
 
@@ -244,7 +230,6 @@ msgstr "Ons beleid"
 #: templates/static_pages/prop_file.html:68
 #: templates/static_pages/prop_file.html:526
 #: templates/static_pages/prop_file.html:527
-#: templates/static_pages/sitemap.html:106
 msgid "Privacy"
 msgstr "Privacy"
 
@@ -260,11 +245,10 @@ msgstr "Taal"
 #: templates/static_pages/prop_file.html:65
 #: templates/static_pages/prop_file.html:514
 #: templates/static_pages/prop_file.html:515
-#: templates/static_pages/sitemap.html:108
 msgid "Accessibility"
 msgstr "Toegankelijkheid"
 
-#: templates/terms_leftmenu.html:27 templates/static_pages/sitemap.html:109
+#: templates/terms_leftmenu.html:27
 msgid "Public Domain Charter"
 msgstr "Handvest Publiek Domein"
 
@@ -274,7 +258,6 @@ msgstr "Handvest Publiek Domein"
 #: templates/static_pages/prop_file.html:571
 #: templates/static_pages/prop_file.html:884
 #: templates/static_pages/prop_file.html:885
-#: templates/static_pages/sitemap.html:25
 #: templates/static_pages/usingeuropeana.html:9
 msgid "Help"
 msgstr "Help"
@@ -286,8 +269,6 @@ msgstr "Help"
 #: templates/static_pages/prop_file.html:889
 #: templates/static_pages/usingeuropeana.html:14
 #: templates/static_pages/usingeuropeana_results.html:22
-#: templates/static_pages/usingeuropeana_search.html:9
-#: templates/static_pages/usingeuropeana_search.html:13
 msgid "Searching Europeana"
 msgstr "Zoeken in Europeana"
 
@@ -297,10 +278,8 @@ msgstr "Zoeken in Europeana"
 #: templates/static_pages/prop_file.html:579
 #: templates/static_pages/prop_file.html:892
 #: templates/static_pages/prop_file.html:893
-#: templates/static_pages/sitemap.html:28
 #: templates/static_pages/usingeuropeana.html:16
 #: templates/static_pages/usingeuropeana_explore.html:9
-#: templates/static_pages/usingeuropeana_search.html:14
 msgid "Exploring Europeana"
 msgstr "Europeana ontdekken"
 
@@ -309,10 +288,8 @@ msgstr "Europeana ontdekken"
 #: templates/static_pages/prop_file.html:583
 #: templates/static_pages/prop_file.html:896
 #: templates/static_pages/prop_file.html:897
-#: templates/static_pages/sitemap.html:29
 #: templates/static_pages/usingeuropeana.html:19
 #: templates/static_pages/usingeuropeana_results.html:9
-#: templates/static_pages/usingeuropeana_search.html:15
 msgid "Results in Europeana"
 msgstr "Resultaten in Europeana"
 
@@ -321,10 +298,7 @@ msgstr "Resultaten in Europeana"
 #: templates/static_pages/prop_file.html:587
 #: templates/static_pages/prop_file.html:900
 #: templates/static_pages/prop_file.html:901
-#: templates/static_pages/sitemap.html:30
 #: templates/static_pages/usingeuropeana.html:21
-#: templates/static_pages/usingeuropeana_myeuropeana.html:9
-#: templates/static_pages/usingeuropeana_search.html:16
 msgid "Using My Europeana"
 msgstr "Mijn Europeana gebruiken"
 
@@ -1587,8 +1561,9 @@ msgid "See the storyline and image credits for the Europeana video (above)"
 msgstr "Bekijk de Europeana video (bovenaan) voor een impressie"
 
 #: templates/static_pages/aboutus_enews.html:4
+#, fuzzy
 msgid "Europeana newsletters"
-msgstr ""
+msgstr "Europeana - eNieuws"
 
 #: templates/static_pages/aboutus_enews.html:15
 #: templates/static_pages/aboutus_enews.html:27
@@ -1608,8 +1583,9 @@ msgid "January"
 msgstr "Januari"
 
 #: templates/static_pages/aboutus_enews.html:16
+#, fuzzy
 msgid "Europeana Open Culture app now bigger and better!"
-msgstr ""
+msgstr "Europeana denk cultuur"
 
 #: templates/static_pages/aboutus_enews.html:22
 #: templates/static_pages/aboutus_enews.html:32
@@ -1634,8 +1610,9 @@ msgid "Europe's culture - collected for you"
 msgstr "Ontdek Europa's culturele collecties"
 
 #: templates/static_pages/aboutus_enews.html:24
+#, fuzzy
 msgid "Discover Europeana's hand-picked collections"
-msgstr ""
+msgstr "Ontdek Europa's culturele collecties"
 
 #: templates/static_pages/aboutus_enews.html:25
 #: templates/static_pages/aboutus_enews.html:35
@@ -1797,10 +1774,6 @@ msgstr ""
 "de laatste ontwikkelingen, lees meer over wie wij zijn en meer via de "
 "nieuwsbrief, ons blog, Twitter en Facebook."
 
-#: templates/static_pages/newcontent.html:3
-msgid "Europeana - New Content"
-msgstr "Europeana - Nieuwe content"
-
 #: templates/static_pages/prop_file.html:5
 msgid ""
 "I understand that My Europeana gives me the opportunity to create tags for "
@@ -1929,11 +1902,6 @@ msgstr "Log uit"
 #: templates/static_pages/prop_file.html:639
 #: templates/static_pages/prop_file.html:957
 #: templates/static_pages/prop_file.html:958
-#: templates/static_pages/sitemap.html:12
-#: templates/static_pages/usingeuropeana_myeuropeana.html:10
-#: templates/static_pages/usingeuropeana_myeuropeana.html:11
-#: templates/static_pages/usingeuropeana_myeuropeana.html:20
-#: templates/static_pages/usingeuropeana_myeuropeana.html:21
 msgid "My Europeana"
 msgstr "Mijn Europeana"
 
@@ -1993,7 +1961,6 @@ msgstr ""
 "computer geactiveerd te zijn."
 
 #: templates/static_pages/prop_file.html:33
-#: templates/static_pages/storyline.html:11
 msgid "Storyline and credits"
 msgstr "Storyline en credits"
 
@@ -2035,11 +2002,6 @@ msgid "Find out more"
 msgstr "Ontdek meer"
 
 #: templates/static_pages/prop_file.html:44
-#: templates/static_pages/sitemap.html:65
-#: templates/static_pages/usingeuropeana_search.html:21
-#: templates/static_pages/usingeuropeana_search.html:25
-#: templates/static_pages/usingeuropeana_search.html:27
-#: templates/static_pages/usingeuropeana_search.html:45
 msgid "Search"
 msgstr "Zoek"
 
@@ -2075,7 +2037,6 @@ msgstr "en"
 #: templates/static_pages/usingeuropeana_results.html:25
 #: templates/static_pages/usingeuropeana_results.html:41
 #: templates/static_pages/usingeuropeana_results.html:49
-#: templates/static_pages/usingeuropeana_search.html:32
 msgid "or"
 msgstr "of"
 
@@ -2121,7 +2082,6 @@ msgstr ""
 #: templates/static_pages/prop_file.html:62
 #: templates/static_pages/prop_file.html:909
 #: templates/static_pages/prop_file.html:910
-#: templates/static_pages/sitemap.html:36
 msgid "About us"
 msgstr "Over ons"
 
@@ -2134,7 +2094,6 @@ msgstr "Europeana gebruiken"
 #: templates/static_pages/prop_file.html:519
 #: templates/static_pages/prop_file.html:831
 #: templates/static_pages/prop_file.html:832
-#: templates/static_pages/sitemap.html:8
 msgid "Sitemap"
 msgstr "Sitemap"
 
@@ -2144,7 +2103,6 @@ msgid "Terms and conditions"
 msgstr "Bepalingen en voorwaarden"
 
 #: templates/static_pages/prop_file.html:69
-#: templates/static_pages/sitemap.html:107
 msgid "Language policy"
 msgstr "Taalbeleid"
 
@@ -2191,7 +2149,6 @@ msgid "By type"
 msgstr "Op type"
 
 #: templates/static_pages/prop_file.html:81
-#: templates/static_pages/usingeuropeana_search.html:55
 msgid "By media type"
 msgstr "Op mediatype"
 
@@ -2200,7 +2157,6 @@ msgid "Actions"
 msgstr "Acties"
 
 #: templates/static_pages/prop_file.html:83
-#: templates/static_pages/usingeuropeana_myeuropeana.html:14
 msgid "Save this search"
 msgstr "Deze zoekopdracht opslaan"
 
@@ -2217,9 +2173,6 @@ msgid "You have searched for"
 msgstr "U heeft gezocht naar"
 
 #: templates/static_pages/prop_file.html:87
-#: templates/static_pages/usingeuropeana_search.html:51
-#: templates/static_pages/usingeuropeana_search.html:63
-#: templates/static_pages/usingeuropeana_search.html:65
 msgid "Matches for"
 msgstr "Resultaten voor"
 
@@ -2298,12 +2251,10 @@ msgid "User tags"
 msgstr "Gebruikerstags"
 
 #: templates/static_pages/prop_file.html:110
-#: templates/static_pages/usingeuropeana_myeuropeana.html:15
 msgid "Add a tag"
 msgstr "Een tag toevoegen"
 
 #: templates/static_pages/prop_file.html:111
-#: templates/static_pages/usingeuropeana_search.html:49
 msgid "Add"
 msgstr "Toevoegen"
 
@@ -2336,7 +2287,6 @@ msgid "Send"
 msgstr "Verzenden"
 
 #: templates/static_pages/prop_file.html:119
-#: templates/static_pages/usingeuropeana_myeuropeana.html:16
 msgid "Save to My Europeana"
 msgstr "Opslaan in Mijn Europeana"
 
@@ -2404,8 +2354,6 @@ msgstr "Leverancier"
 #: templates/static_pages/prop_file.html:135
 #: templates/static_pages/prop_file.html:228
 #: templates/static_pages/prop_file.html:814
-#: templates/static_pages/storyline.html:49
-#: templates/static_pages/usingeuropeana_search.html:32
 msgid "Title"
 msgstr "Titel"
 
@@ -2415,20 +2363,16 @@ msgid "Description"
 msgstr "Beschrijving"
 
 #: templates/static_pages/prop_file.html:137
-#: templates/static_pages/storyline.html:50
-#: templates/static_pages/usingeuropeana_search.html:31
 msgid "Creator"
 msgstr "Maker"
 
 #: templates/static_pages/prop_file.html:138
 #: templates/static_pages/prop_file.html:232
-#: templates/static_pages/usingeuropeana_search.html:34
 msgid "Date"
 msgstr "Datum"
 
 #: templates/static_pages/prop_file.html:139
 #: templates/static_pages/prop_file.html:234
-#: templates/static_pages/usingeuropeana_search.html:32
 msgid "Subject"
 msgstr "Onderwerp"
 
@@ -2816,7 +2760,6 @@ msgid "Relation"
 msgstr "Relatie"
 
 #: templates/static_pages/prop_file.html:241
-#: templates/static_pages/sitemap.html:113
 msgid "Rights"
 msgstr "Rechten"
 
@@ -3119,7 +3062,6 @@ msgid "By Rights"
 msgstr "Op rechten"
 
 #: templates/static_pages/prop_file.html:312
-#: templates/static_pages/usingeuropeana_search.html:59
 msgid "By copyright"
 msgstr "Op copyright"
 
@@ -3339,7 +3281,6 @@ msgid "Media Types"
 msgstr "Mediatypes"
 
 #: templates/static_pages/prop_file.html:359
-#: templates/static_pages/usingeuropeana_searchwidget.html:30
 msgid "Providers"
 msgstr "Providers"
 
@@ -3593,7 +3534,6 @@ msgstr "Zie meer"
 
 #: templates/static_pages/prop_file.html:522
 #: templates/static_pages/prop_file.html:523
-#: templates/static_pages/sitemap.html:97
 msgid "Terms of Use &amp; Policies"
 msgstr "Gebruiksvoorwaarden & beleid"
 
@@ -3604,7 +3544,6 @@ msgstr "Taalbeleid"
 
 #: templates/static_pages/prop_file.html:534
 #: templates/static_pages/prop_file.html:535
-#: templates/static_pages/sitemap.html:126
 msgid "Contact"
 msgstr "Contact"
 
@@ -3612,13 +3551,10 @@ msgstr "Contact"
 #: templates/static_pages/prop_file.html:539
 #: templates/static_pages/prop_file.html:953
 #: templates/static_pages/prop_file.html:954
-#: templates/static_pages/sitemap.html:11
 msgid "Home"
 msgstr "Home"
 
 #: templates/static_pages/prop_file.html:590
-#: templates/static_pages/sitemap.html:31
-#: templates/static_pages/usingeuropeana_searchwidget.html:9
 msgid "How to configure your search widget"
 msgstr ""
 
@@ -3906,7 +3842,6 @@ msgid "Copy and paste the wiki-markup below:"
 msgstr "Kopieer en plak onderstaande wiki-markup:"
 
 #: templates/static_pages/prop_file.html:716
-#: templates/static_pages/usingeuropeana_search.html:67
 msgid "Include content contributed by users"
 msgstr "Toevoegen van door gebruikers aangeleverde content"
 
@@ -3950,7 +3885,6 @@ msgstr "Laatste op"
 
 #: templates/static_pages/prop_file.html:728
 #: templates/static_pages/prop_file.html:973
-#: templates/static_pages/usingeuropeana_search.html:69
 msgid "Share"
 msgstr "Deel"
 
@@ -4128,7 +4062,6 @@ msgid "sitemap.html"
 msgstr "sitemap.html"
 
 #: templates/static_pages/prop_file.html:835
-#: templates/static_pages/usingeuropeana_myeuropeana.html:17
 msgid "API keys"
 msgstr "API-sleutels"
 
@@ -4212,7 +4145,6 @@ msgstr "Bekijk de laatste content van onze partners"
 
 #: templates/static_pages/prop_file.html:860
 #: templates/static_pages/prop_file.html:861
-#: templates/static_pages/sitemap.html:15
 msgid "Other Europeana Sites"
 msgstr "Andere Europeana sites"
 
@@ -4221,7 +4153,6 @@ msgid "Europeana Exhibitions"
 msgstr "Europeana tentoonstellingen"
 
 #: templates/static_pages/prop_file.html:872
-#: templates/static_pages/sitemap.html:19
 msgid "Europeana 1914-1918"
 msgstr "Europeana 1914-1918"
 
@@ -4230,7 +4161,6 @@ msgid "Remix"
 msgstr "Remix"
 
 #: templates/static_pages/prop_file.html:880
-#: templates/static_pages/sitemap.html:21
 msgid "Europeana Professional"
 msgstr "Europeana Professional"
 
@@ -4313,7 +4243,6 @@ msgid "Results per page"
 msgstr "Resultaten per pagina"
 
 #: templates/static_pages/prop_file.html:969
-#: templates/static_pages/usingeuropeana_search.html:49
 msgid "Add more keywords"
 msgstr "Toevoegen trefwoorden"
 
@@ -4404,8 +4333,9 @@ msgid "Yes, with attribution"
 msgstr "Europeana bronvermelding"
 
 #: templates/static_pages/prop_file.html:1001
+#, fuzzy
 msgid "Yes, with restrictions"
-msgstr ""
+msgstr "Europeana bronvermelding"
 
 #: templates/static_pages/prop_file.html:1002
 msgid "Only with permission"
@@ -4595,8 +4525,9 @@ msgid "Auto translate items into"
 msgstr "Details object vertalen"
 
 #: templates/static_pages/prop_file.html:1045
+#, fuzzy
 msgid "Automatically translate search keywords into:"
-msgstr ""
+msgstr "Automatisch toegevoegde semantische tags"
 
 #: templates/static_pages/prop_file.html:1046
 msgid ""
@@ -4608,560 +4539,37 @@ msgstr ""
 msgid "Submit"
 msgstr ""
 
-#: templates/static_pages/sitemap.html:4
-msgid "Europeana - Sitemap"
-msgstr "Europeana - Sitemap"
-
-#: templates/static_pages/sitemap.html:27
-msgid "Searching in Europeana"
-msgstr "Zoeken in Europeana"
-
-#: templates/static_pages/sitemap.html:39
-msgid "All Providers"
-msgstr ""
-
-#: templates/static_pages/sitemap.html:41
-msgid "Press Centre (on Europeana Professional)"
-msgstr "Voor de pers (Europeana Professional)"
-
-#: templates/static_pages/sitemap.html:42
-msgid "Jobs (on Europeana Professional)"
-msgstr "Vacatures (Europeana Professional)"
-
-#: templates/static_pages/sitemap.html:43
-msgid "Partners (on Europeana Professional)"
-msgstr "Partners (Europeana Professional)"
-
-#: templates/static_pages/sitemap.html:56
-msgid "Working with the API"
-msgstr ""
-
-#: templates/static_pages/sitemap.html:57
-msgid "Latest changes"
-msgstr ""
-
-#: templates/static_pages/sitemap.html:58
-msgid "Sample Code and Libraries"
-msgstr ""
-
-#: templates/static_pages/sitemap.html:61
-msgid "API Methods"
-msgstr ""
-
-#: templates/static_pages/sitemap.html:64
-msgid "Record"
-msgstr ""
-
-#: templates/static_pages/sitemap.html:66
-msgid "Suggestions"
-msgstr ""
-
-#: templates/static_pages/sitemap.html:67
-msgid "OpenSearch"
-msgstr ""
-
-#: templates/static_pages/sitemap.html:69
-msgid "Query Syntax"
-msgstr ""
-
-#: templates/static_pages/sitemap.html:70
-msgid "Data structure"
-msgstr ""
-
-#: templates/static_pages/sitemap.html:72
-msgid "Europeana Fields"
-msgstr ""
-
-#: templates/static_pages/sitemap.html:74
-msgid "API1-API2 compatability"
-msgstr ""
-
-#: templates/static_pages/sitemap.html:104
-msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
-msgstr "Europeana Data Exchange Agreement (Europeana Professional)"
-
-#: templates/static_pages/sitemap.html:115
+#: templates/static_pages/prop_file.html:1048
 #, fuzzy
-msgid "Free Access - no-reuse"
-msgstr "Gratis toegang"
+msgid "Incorrect password."
+msgstr "Ik ben mijn wachtwoord vergeten"
 
-#: templates/static_pages/sitemap.html:116
-msgid "Rights Reserved - Restricted access"
-msgstr ""
-
-#: templates/static_pages/sitemap.html:117
+#: templates/static_pages/prop_file.html:1049
 #, fuzzy
-msgid "Paid Access - no re-use"
-msgstr "Betaalde toegang"
-
-#: templates/static_pages/sitemap.html:118
-msgid "Unknown copyright status"
-msgstr "Onbekende status auteursrecht"
-
-#: templates/static_pages/sitemap.html:119
-msgid "Orphan work - Free access"
-msgstr ""
-
-#: templates/static_pages/sitemap.html:120
-msgid "Orphan work"
-msgstr ""
-
-#: templates/static_pages/sitemap.html:121
-msgid "Out of copyright - non commercial reuse"
-msgstr ""
-
-#: templates/static_pages/sitemap.html:127
-msgid "Europeana Semantic Elements (ESE)"
-msgstr ""
-
-#: templates/static_pages/sitemap.html:128
-msgid "Europeana metadata schemas"
-msgstr ""
-
-#: templates/static_pages/storyline.html:4
-msgid "Europeana - Storyline and credits"
-msgstr "Europeana - Storyline en credits"
-
-#: templates/static_pages/storyline.html:13
-msgid "Descartes"
-msgstr "Descartes"
-
-#: templates/static_pages/storyline.html:14
-msgid "The best place to start is with"
-msgstr "Het beste punt om te beginnen is bij"
-
-#: templates/static_pages/storyline.html:14
-msgid "Rene Descartes"
-msgstr "Rene Descartes"
-
-#: templates/static_pages/storyline.html:14
 msgid ""
-"the man who made thinking central to our experience of the world. Cogito "
-"ergo sum wrote Descartes in 1644 in his Principia Philosophiae: I think, "
-"therefore I am. Descartes was the father of modern philosophy, and one of "
-"the great European thinkers of his time, writing in French and Latin, "
-"working and publishing in the Netherlands."
+"Log into My Europeana to save your favourite items, searches, tags and "
+"translate search keywords into other languages."
 msgstr ""
-"de man die het denken centraal stelde in onze beleving van de wereld. Cogito "
-"ergo sum schreef Descartes in 1644 in zijn Principia Philosophiae: Ik denk, "
-"dus ik ben. Descartes was de grondlegger van de moderne filosofie en een van "
-"de grote Europese denkers van zijn tijd. Hij schreef in het Frans en het "
-"Latijn en werkte en publiceerde in Nederland."
+"kunt u uw favoriete objecten en zoekopdrachten opslaan, en objecten voorzien "
+"van tags, om deze onder te verdelen in verschillende categorieën."
 
-#: templates/static_pages/storyline.html:15
-msgid "Newton"
-msgstr "Newton"
+#: templates/static_pages/prop_file.html:1050
+#, fuzzy
+msgid "Please enter your username."
+msgstr "Registreer nogmaals uw e-mail"
 
-#: templates/static_pages/storyline.html:16
-msgid ""
-"He defined laws of reflection and refraction, worked on the structure of the "
-"brain, the new physics and mathematics. He was a major influence on"
+#: templates/static_pages/prop_file.html:1051
+#, fuzzy
+msgid "Please enter your password."
+msgstr "Registreer nogmaals uw e-mail"
+
+#: templates/static_pages/prop_file.html:1052
+msgid "Registered users may choose a maximum of 6 options."
 msgstr ""
-"Hij formuleerde de reflectie- en brekingswet, bestudeerde de structuur van "
-"de hersenen, de nieuwe natuurkunde en de wiskunde. Hij had grote invloed op"
 
-#: templates/static_pages/storyline.html:16
-msgid "Isaac Newton"
-msgstr "Isaac Newton"
-
-#: templates/static_pages/storyline.html:16
-msgid ""
-"whose laws of gravity were famously inspired by watching an apple fall. "
-"Newton's three laws of motion were published in 1687 in his"
+#: templates/static_pages/prop_file.html:1053
+msgid "Unregistered users may choose a maximum of 3 options."
 msgstr ""
-"wiens wetten van zwaartekracht werden ingegeven door het kijken naar een "
-"vallende appel. Newtons drie bewegingswetten werden gepubliceerd in 1687 in "
-"zijn"
-
-#: templates/static_pages/storyline.html:16
-msgid "Philosophiae Naturalis Principia Mathematica"
-msgstr "Philosophiae Naturalis Principia Mathematica"
-
-#: templates/static_pages/storyline.html:17
-msgid "Darwin"
-msgstr "Darwin"
-
-#: templates/static_pages/storyline.html:18
-msgid ""
-"The apple is the symbol of another fall; that of Adam and Eve, who on eating "
-"the fruit of the Tree of Knowledge of Good and Evil are banished from Eden. "
-"The fundamental challenge to the story of the Creation and the Fall is the "
-"Theory of Evolution, set out by"
-msgstr ""
-"De appel is het symbool van een andere val; die van Adam en Eva die na het "
-"eten van het fruit van de boom van de kennis van goed en kwaad worden "
-"verdreven uit Eden. Het verhaal van de Zondeval wordt ernstig op de proef "
-"gesteld door de evolutietheorie, die werd uiteengezet door "
-
-#: templates/static_pages/storyline.html:18
-msgid "Charles Darwin"
-msgstr "Charles Darwin "
-
-#: templates/static_pages/storyline.html:18
-msgid "in his famous 1859 book"
-msgstr "in zijn beroemde boek uit 1859"
-
-#: templates/static_pages/storyline.html:18
-msgid "On the Origin of Species"
-msgstr "'Het ontstaan der soorten'"
-
-#: templates/static_pages/storyline.html:18
-msgid ""
-"Darwin recognised that species were not static, but evolved to improve their "
-"chances of survival. His theories began to develop while he was the "
-"naturalist and geologist on board the ship Beagle, on a 5 year voyage "
-"surveying the coast of South America."
-msgstr ""
-"Darwin merkte op dat soorten niet stilstonden, maar evolueerden om hun "
-"overlevingskans te vergroten. Zijn theorieën begonnen zich te ontwikkelen "
-"toen hij natuurwetenschapper en geoloog was aan boord van het schip de "
-"Beagle, tijdens een vijfjarige reis waarbij de kust van Zuid-Amerika "
-"onderzocht werd."
-
-#: templates/static_pages/storyline.html:19
-msgid "Wedgwood"
-msgstr "Wedgwood"
-
-#: templates/static_pages/storyline.html:20
-msgid ""
-"Darwin's genius was the product of an English family of talent and "
-"reputation. He was the grandson of"
-msgstr ""
-"Darwin's genie was het product van een Engelse familie vol talent en faam. "
-"Hij was de kleinzoon van"
-
-#: templates/static_pages/storyline.html:20
-msgid "Josiah Wedgwood"
-msgstr "Josiah Wedgwood"
-
-#: templates/static_pages/storyline.html:20
-msgid ""
-"one of the great entrepreneurs of the industrial revolution. Taking "
-"inspiration from Greek, Etruscan and Roman styles, especially the Portland "
-"Vase, he created a range of neo-classical pottery that delighted the new "
-"English merchant classes, keen to display their sophistication with "
-"references to design classics. Wedgwood used scientific innovation, factory "
-"techniques of mass production and the new canal network of the UK to "
-"transport his fragile wares to the new consumers of the growing towns and "
-"cities."
-msgstr ""
-"een van de belangrijkste ondernemers van de industriële revolutie. "
-"Geïnspireerd door Griekse, Etrurische en Romeinse stijlen, in het bijzonder "
-"de Portlandvaas ontwierp hij een collectie neoklassiek aardewerk dat de "
-"nieuwe Engelse koopmansklasse in verrukking bracht. Zij vertoonden gretig "
-"hun geraffineerdheid, verwijzend naar klassieke ontwerpen. Wedgwood "
-"gebruikte wetenschappelijke vernieuwingen toe, fabriekstechnieken voor "
-"massaproductie en de nieuwe kanaalverbindingen in het Verenigd Koninkrijk om "
-"zijn breekbare waar te transporteren naar de nieuwe consument in de "
-"groeiende dorpen en steden."
-
-#: templates/static_pages/storyline.html:21
-msgid "Abolition"
-msgstr "Abolitie"
-
-#: templates/static_pages/storyline.html:22
-msgid "A philanthropic employer, Wedgwood was also an early support of"
-msgstr ""
-"Wedgwood was een filantropische werkgever en hij ondersteunde al vroeg de "
-
-#: templates/static_pages/storyline.html:22
-msgid "abolition"
-msgstr "abolitie"
-
-#: templates/static_pages/storyline.html:22
-msgid ""
-"He was a founder member of the Society for the Abolition of the Slave Trade. "
-"His support was most memorably expressed in the cameos he produced in the "
-"1780s, showing a chained slave with the motto Am I not a Man and a Brother? "
-"Distributed in their thousands, these became the first protest fashion "
-"accessory."
-msgstr ""
-"Hij was oprichtend lid van de Vereniging ter verwezenlijking van de "
-"afschaffing van de slavernij. Zijn steun was het gedenkwaardigst door de "
-"cameeën die hij in de jaren 1780 vervaardigde, met een afbeelding van een "
-"geketende slaaf en het motto \"Ben ik geen man en broer?\" te zien waren. Er "
-"werden er duizenden verspreid en het werd de eerste modeaccessoire waarmee "
-"actie werd gevoerd."
-
-#: templates/static_pages/storyline.html:23
-#: templates/static_pages/storyline.html:24
-msgid "Migration"
-msgstr "Migratie"
-
-#: templates/static_pages/storyline.html:24
-msgid ""
-"The anti-slavery campaigners succeeded in abolishing the slave trade in 1807 "
-"and in the following years it was outlawed in the colonies of western "
-"Europe. But the ideal of equality on which it was founded continued to "
-"inspire. Over a century on, it fuelled the political aspirations that drove "
-"the colonial independence movements."
-msgstr ""
-"In 1807 slaagden antislavernij-activisten erin de slavenhandel af te "
-"schaffen en in de jaren erna werd deze verbannen uit de West-Europese "
-"koloniën. Maar het ideaal van gelijkheid waarop deze was gebaseerd bleef "
-"inspireren. Meer dan een eeuw later voedde het politieke ambities en was het "
-"de drijfkracht voor koloniale onafhankelijkheidsbewegingen. "
-
-#: templates/static_pages/storyline.html:24
-msgid ""
-"from the former colonies in recent decades has pushed concern for equality "
-"of opportunity up the political agenda as Europe has become increasingly "
-"diverse."
-msgstr ""
-"Migratie uit de vroegere koloniën in de afgelopen decennia heeft het belang "
-"van gelijkheid van kansen op de politieke agenda gezet, naarmate de "
-"diversiteit van Europa groeide."
-
-#: templates/static_pages/storyline.html:25
-msgid "Bridgetower"
-msgstr "Bridgetower"
-
-#: templates/static_pages/storyline.html:26
-msgid ""
-"Talented Europeans of African descent were making their mark in the capitals "
-"of Europe even as the abolition movement was gathering supporters."
-msgstr ""
-"Getalenteerde Europeanen van Afrikaanse afkomst deden van zich spreken in de "
-"Europese hoofdsteden, zelfs al toen de abolitiebeweging nog aanhangers "
-"verzamelde."
-
-#: templates/static_pages/storyline.html:26
-msgid "was the Polish-born son of a West Indian servant of the"
-msgstr "was de in Polen geboren zoon van een West-Indische knecht van "
-
-#: templates/static_pages/storyline.html:26
-msgid "Prince Esterh&aacute;zy"
-msgstr "Graaf Esterh&aacute;zy"
-
-#: templates/static_pages/storyline.html:26
-msgid ""
-"Joseph Haydn's Hungarian patron. He was a musical prodigy whose talent was "
-"quickly spotted, and he made his debut in Paris at the age of 9. One "
-"reviewer noted his talent is one of the best replies one can give to "
-"philosophers who wish to deprive people of his nation and his colour of the "
-"opportunity to distinguish themselves in the arts."
-msgstr ""
-"de Hongaarse broodheer van Joseph Haydn. Hij was een muzikaal wonderkind "
-"wiens talent snel werd opgemerkt en die debuteerde in Parijs op negenjarige "
-"leeftijd. Een recensent merkte op dat zijn talent een van de beste "
-"weerwoorden is die men kan geven aan filosofen die mensen van zijn afkomst "
-"en huidskleur de kans willen ontnemen zich te onderscheiden in de "
-"kunstwereld."
-
-#: templates/static_pages/storyline.html:27
-msgid "Beethoven"
-msgstr "Beethoven"
-
-#: templates/static_pages/storyline.html:28
-msgid "By 1803, Bridgetower was giving the premiere of"
-msgstr "Tegen 1803 gaf Bridgetower de première van de "
-
-#: templates/static_pages/storyline.html:28
-msgid "Beethoven's Kreutzer sonata (Op.47)"
-msgstr "Kreutzersonate (Op.47) van Beethoven."
-
-#: templates/static_pages/storyline.html:28
-msgid ""
-"He played the violin part, Beethoven the piano. So delighted was Beethoven "
-"with the performance that he initially dedicated the sonata to Bridgetower "
-"and gave him his tuning fork."
-msgstr ""
-"Hij speelde de vioolpartij, met Beethoven op piano. Beethoven was zo verrukt "
-"van het optreden dat hij aanvankelijk de sonate opdroeg aan Bridgetower en "
-"hem zijn stemvork gaf."
-
-#: templates/static_pages/storyline.html:29
-msgid "Ludwig van Beethoven"
-msgstr "Ludwig van Beethoven"
-
-#: templates/static_pages/storyline.html:29
-msgid "is the greatest of the Romantic composers: his Third Symphony, the "
-msgstr "was de belangrijkste Romantische componist: zijn derde symfonie de "
-
-#: templates/static_pages/storyline.html:29
-msgid "Eroica"
-msgstr "Eroïca"
-
-#: templates/static_pages/storyline.html:29
-msgid "was originally dedicated to"
-msgstr "droeg hij aanvankelijk op aan"
-
-#: templates/static_pages/storyline.html:29
-msgid "Napoleon"
-msgstr "Napoleon"
-
-#: templates/static_pages/storyline.html:29
-msgid ""
-"who he believed ushered in an age of democracy and republican ideals. When "
-"Napoleon fell short, Beethoven scratched the dedication from the manuscript "
-"so forcefully he tore a hole through the paper."
-msgstr ""
-"die volgens hem een tijdperk van democratie en republikeinse idealen "
-"inluidde. Toen Napoleon tekortschoot, kraste Beethoven met zoveel kracht de "
-"opdracht uit het manuscript dat hij een gat in het papier scheurde."
-
-#: templates/static_pages/storyline.html:30
-msgid "Rossini"
-msgstr "Rossini"
-
-#: templates/static_pages/storyline.html:31
-msgid ""
-"Beethoven's genius was felt across Europe and had a profound influence on "
-"the succeeding generation of composers, including"
-msgstr ""
-"Beethovens genie was overal in Europa merkbaar en had een grote invloed op "
-"de volgende generatie componisten, waaronder"
-
-#: templates/static_pages/storyline.html:31
-msgid "Gioachino Antonio Rossini"
-msgstr "Gioachino Antonio Rossini"
-
-#: templates/static_pages/storyline.html:31
-msgid ""
-"Rossini travelled to Vienna in 1822, where he met the master. His reverence "
-"was such that he asked for Beethoven's Funeral March to be played at his "
-"burial in Paris."
-msgstr ""
-"Rossini reisde in 1822 naar Wenen, waar hij de meester ontmoette. Zijn "
-"bewondering was zo groot dat hij aangaf dat Beethovens Begrafenismars zou "
-"worden gespeeld bij zijn begrafenis in Parijs."
-
-#: templates/static_pages/storyline.html:32
-msgid ""
-"Rossini's popularity continued into the 20th century. The most famous diva "
-"of the time,"
-msgstr ""
-"De populariteit van Rossini duurde tot in de 20e eeuw. De meest beroemde "
-"diva uit die tijd,"
-
-#: templates/static_pages/storyline.html:32
-msgid "Maria Callas"
-msgstr "Maria Callas"
-
-#: templates/static_pages/storyline.html:32
-msgid ""
-"was one of his great interpreters; Una voce poco fa, Rosina's famous aria "
-"from"
-msgstr ""
-"was een van zijn belangrijke vertolkers; 'Una voce poco fa', Rossini's "
-"beroemde aria uit"
-
-#: templates/static_pages/storyline.html:32
-msgid "The Barber of Seville"
-msgstr "De Barbier van Sevilla"
-
-#: templates/static_pages/storyline.html:32
-msgid ""
-"was a fixture in her concert repertoire. Rossini's speed for musical "
-"composition was legendary, particularly of"
-msgstr ""
-"was een vast repertoirestuk bij haar concerten. De snelheid waarmee Rossini "
-"componeerde was legendarisch, vooral waar het ging om "
-
-#: templates/static_pages/storyline.html:32
-msgid "La Gazza Ladra - The Thieving Magpie"
-msgstr "La Gazza Ladra - de stelende ekster"
-
-#: templates/static_pages/storyline.html:33
-msgid "Magpies and mirrors"
-msgstr "Eksters en spiegels"
-
-#: templates/static_pages/storyline.html:34
-msgid ""
-"The title refers to the magpie's eye for shining things; like Europeana, it "
-"gathers treasures."
-msgstr ""
-"De titel verwijst naar het oog van de ekster voor glimmende dingen; net als "
-"Europeana verzamelt hij schatten."
-
-#: templates/static_pages/storyline.html:34
-msgid "The magpie"
-msgstr "De ekster"
-
-#: templates/static_pages/storyline.html:34
-msgid ""
-"is also believed to be the only non-mammal that can recognise its reflection "
-"in a mirror; which brings us back to Descartes' interest in reflection and "
-"refraction. Artists through the ages have similarly been fascinated with the "
-"properties of light and perception as depicted in the vivid translucency of "
-"Renaissance and Baroque portraits; the perspective of"
-msgstr ""
-"is ook het enige niet-zoogdier waarvan gedacht wordt dat het zijn "
-"spiegelbeeld kan herkennen; wat ons terugbrengt bij Descartes' interesse in "
-"reflectie en breking. Door de eeuwen heen zijn kunstenaars gefascineerd door "
-"de eigenschappen van licht en waarneming, zoals weergegeven in de "
-"levensechte helderheid van portretten uit de renaissance en barokperiode; "
-"het perspectief van"
-
-#: templates/static_pages/storyline.html:34
-msgid "Johannes Vermeer"
-msgstr "Johannes Vermeer"
-
-#: templates/static_pages/storyline.html:34
-msgid ""
-"enthralled by the discoveries of the Scientific revolution; the technical "
-"virtuosity of 19th century Pointillists which led onto 20th century Cubism, "
-"where both objects and space merge."
-msgstr ""
-"betoverd door de ontdekkingen van de wetenschappelijke revolutie; het "
-"technische meesterschap van 19e-eeuwse pointillisten, dat leidde tot het "
-"cubisme van de 20e eeuw, waarbij objecten en ruimte versmelten."
-
-#: templates/static_pages/storyline.html:35
-msgid ""
-"Most of all, the eyes, the faces, the ideas from the past invite us to think "
-"again: to take inspiration, to make new connections and to share new "
-"discoveries."
-msgstr ""
-"Bovenal nodigen de ogen, de gezichten en de ideeën uit het verleden ons uit "
-"om weer te gaan denken: om inspiratie te krijgen, nieuwe verbanden te leggen "
-"en nieuwe ontdekkingen te delen."
-
-#: templates/static_pages/storyline.html:36
-msgid "Credits: the music, the images and where they came from"
-msgstr "Credits: de muziek, de afbeeldingen en waar ze vandaan kwamen"
-
-#: templates/static_pages/storyline.html:38
-msgid ""
-"We are very grateful to all those who helped make the video, especially its "
-"creators"
-msgstr ""
-"Wij zijn veel dank verschuldigd aan iedereen die heeft geholpen met het "
-"maken van de video, in het bijzonder de makers"
-
-#: templates/static_pages/storyline.html:40
-msgid ""
-"Many of our partners gave us permission to use their images in the video. "
-"Thanks to our colleagues in the\n"
-"    organisations listed below."
-msgstr ""
-"Veel van onze partners gaven toestemming om hun afbeeldingen te gebruiken in "
-"de video. Hartelijk dank aan onze collega's van de organisaties die "
-"hieronder worden vermeld."
-
-#: templates/static_pages/storyline.html:43
-msgid "The music is primarily drawn from Irmin Schmidt's"
-msgstr "De muziek is voornamelijk afkomstig van Irmin Schmidts"
-
-#: templates/static_pages/storyline.html:43
-msgid "Those Fuzzy Things (out there)"
-msgstr "Those Fuzzy Things (out there)"
-
-#: templates/static_pages/storyline.html:43
-msgid ""
-"much appreciation to Cit&eacute;\n"
-"    de la Musique for enabling us to use it as the basis for our soundtrack."
-msgstr ""
-"wij zijn Cit&eacute; de la Musique erkentelijk omdat ze het mogelijk maakten "
-"het stuk te gebruiken als basis voor onze soundtrack."
-
-#: templates/static_pages/storyline.html:51
-msgid "Collection"
-msgstr "Collectie"
-
-#: templates/static_pages/storyline.html:52
-msgid "Link"
-msgstr "Link"
 
 #: templates/static_pages/usingeuropeana.html:11
 msgid ""
@@ -5180,13 +4588,10 @@ msgid "Refined search"
 msgstr "Verfijnde zoekopdracht"
 
 #: templates/static_pages/usingeuropeana.html:14
-#: templates/static_pages/usingeuropeana_search.html:39
-#: templates/static_pages/usingeuropeana_search.html:41
 msgid "Phrase search"
 msgstr "Zoeken met woordgroepen"
 
 #: templates/static_pages/usingeuropeana.html:14
-#: templates/static_pages/usingeuropeana_search.html:43
 msgid "Exclude words"
 msgstr "Woorden uitsluiten"
 
@@ -5303,72 +4708,6 @@ msgstr "in de"
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "area"
 msgstr "gebied"
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:3
-msgid "Europeana - Using My Europeana"
-msgstr "Europeana - Mijn Europeana gebruiken"
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:10
-msgid "is your personal space on Europeana."
-msgstr "is uw persoonlijke omgeving binnen Europeana."
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:11
-msgid "Register for"
-msgstr "Registreren voor"
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:11
-msgid "and you can"
-msgstr "en u kunt"
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:14
-msgid ""
-"Keep up to date on a particular topic in Europeana by saving a search, so "
-"you can easily perform it again in future."
-msgstr ""
-"Blijf op de hoogte blijven van een bepaald onderwerp in Europeana door een "
-"zoekopdracht op te slaan, zodat u deze in de toekomst eenvoudig opnieuw uit "
-"kunt voeren."
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:15
-msgid ""
-"Label your favourite items in Europeana with tags that mean something to "
-"you. You can then see all objects you have tagged, sorted by the keywords "
-"you have chosen, in the My Europeana interface."
-msgstr ""
-"Label uw favoriete objecten in Europeana met tags die iets voor u betekenen. "
-"U kunt dan alle door u getagde objecten, gesorteerd op zelfgekozendoor "
-"trefwoorden bekijken via Mijn Europeana."
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:16
-msgid "Store your favourite items for later viewing."
-msgstr "Sla uw favoriete items op zodat u ze later nog eens kunt bekijken."
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:17
-msgid ""
-"If you are a developer who has registered for one or more API keys, these "
-"will be shown on the API Keys tab."
-msgstr ""
-"Als u een ontwikkelaar bent, en geregistreerd voor een of meer API-sleutels, "
-"dan worden deze getoond op de tab API-sleutels."
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:20
-msgid "To save a search, add a tag or save an item, simply login to"
-msgstr ""
-"Om een zoekopdracht op te slaan, een tag toe te voegen of een item op te "
-"slaan kunt u inloggen op"
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:20
-msgid "and click on the relevant action from the menu."
-msgstr "en klik op de relevante actie in het menu."
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:21
-msgid "To view your saved items, searches and tags, use the"
-msgstr ""
-"Om de door u opgeslagen objecten, zoekacties en tags te bekijken, gebruik de"
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:21
-msgid "shortcuts in the header."
-msgstr "shortcuts in de header."
 
 #: templates/static_pages/usingeuropeana_results.html:3
 msgid "Europeana - Results in Europeana"
@@ -5658,659 +4997,810 @@ msgstr ""
 "haakjes, bijvoorbeeld (33) toont het aantal treffers per zoekopdracht. Klik "
 "eenvoudigweg op de link om de zoekopdracht uit te voeren."
 
-#: templates/static_pages/usingeuropeana_search.html:3
-msgid "Europeana - Searching Europeana"
-msgstr "Europeana - Europeana doorzoeken"
-
-#: templates/static_pages/usingeuropeana_search.html:11
-msgid ""
-"Welcome to Europeana. This page describes some of the things that you can do "
-"while you are here. Learn more about:"
-msgstr ""
-"Welkom bij Europeana. Deze pagina beschrijft een deel van wat u kunt doen "
-"terwijl u hier bent. Lees meer over:"
-
-#: templates/static_pages/usingeuropeana_search.html:13
-msgid ""
-"Search tips, refined search, phrase search, exclude words, auto-completion, "
-"filter results, share your search."
-msgstr ""
-"zoektips, verfijnd zoeken, zoeken op zinsdelen, woorden uitsluiten, "
-"automatisch aanvullen, het filteren van resultaten en het delen van uw "
-"zoekopdracht."
-
-#: templates/static_pages/usingeuropeana_search.html:14
-msgid "exhibitions, new content."
-msgstr "tentoonstellingen, nieuwe content"
-
-#: templates/static_pages/usingeuropeana_search.html:15
-msgid ""
-"Seeing further details, rights and licence information, translating details, "
-"searching on external services, related searches on Europeana, viewing item "
-"on provider's site, embedding, and citing."
-msgstr ""
-"meer informatie bekijken, informatie over rechten en licenties, vertalingen, "
-"zoeken in externe diensten, gerelateerde zoekopdrachten in Europeana, "
-"objecten bekijken op site leverancier, embedden en citeren."
-
-#: templates/static_pages/usingeuropeana_search.html:16
-msgid "Saving searches, saving items, and adding tags."
-msgstr "opslaan zoekopdrachten, opslaan objecten en toevoegen tags"
-
-#: templates/static_pages/usingeuropeana_search.html:19
-msgid "General Search"
-msgstr "Algemeen zoeken"
-
-#: templates/static_pages/usingeuropeana_search.html:21
-msgid ""
-"Searching the millions of items in Europeana is simple. Just enter your "
-"search term and hit"
-msgstr ""
-"Het doorzoeken van de miljoenen objecten in Europeana is eenvoudig. Voer "
-"gewoon uw zoekterm in en klik op"
-
-#: templates/static_pages/usingeuropeana_search.html:23
-msgid "Specific search"
-msgstr "Specifiek zoeken"
-
-#: templates/static_pages/usingeuropeana_search.html:25
-msgid "You can narrow your search with the arrow to the right of"
-msgstr "U kunt uw zoekvraag verfijnen met de pijl rechts naast"
-
-#: templates/static_pages/usingeuropeana_search.html:25
-msgid "Search All fields"
-msgstr "Zoek in alle velden"
-
-#: templates/static_pages/usingeuropeana_search.html:25
-msgid "and selecting a category"
-msgstr "en het selecteren van een categorie"
-
-#: templates/static_pages/usingeuropeana_search.html:25
-msgid "Titles, Creators, Subjects, Dates/Periods, Places"
-msgstr "Tiels, Makers, Onderwerpen, Data/Periodes, Plaatsen"
-
-#: templates/static_pages/usingeuropeana_search.html:25
-msgid "Then enter your search term and hit"
-msgstr "Voer vervolgens uw zoekterm in en klik"
-
-#: templates/static_pages/usingeuropeana_search.html:27
-msgid ""
-"Alternatively, just ask yourself who, what, where or when you are interested "
-"in and type these words into Europeana's search box followed by a colon (:). "
-"Then enter your search term and hit"
-msgstr ""
-"Of bedenk eenvoudigweg in wie, wat, waar of wanneer u geïnteresseerd bent in "
-"en typ die woorden in Europeana-zoekvenster, gevolgd door een dubbele punt "
-"(:). Voer vervolgens uw zoekterm in en klik"
-
-#: templates/static_pages/usingeuropeana_search.html:29
-msgid "For specific searches, you could:"
-msgstr "Voor specifieke zoekopdrachten kunt u:"
-
-#: templates/static_pages/usingeuropeana_search.html:31
-#: templates/static_pages/usingeuropeana_search.html:32
-#: templates/static_pages/usingeuropeana_search.html:33
-#: templates/static_pages/usingeuropeana_search.html:34
-msgid "Use the"
-msgstr "het filter"
-
-#: templates/static_pages/usingeuropeana_search.html:31
-#: templates/static_pages/usingeuropeana_search.html:32
-#: templates/static_pages/usingeuropeana_search.html:33
-#: templates/static_pages/usingeuropeana_search.html:34
-msgid "filter or enter"
-msgstr "gebruiken of"
-
-#: templates/static_pages/usingeuropeana_search.html:31
-msgid ""
-"followed by a name of, for example, an actor, author or architect. Your "
-"results will display only items for which the name you entered is listed as "
-"the creator. For example, searching for"
-msgstr ""
-"invoeren, gevolgd door de naam van bijvoorbeeld een acteur, schrijver of "
-"architect. De zoekresultaten geven dan alleen de objecten waarbij de "
-"ingevoerde naam is opgenomen als maker. Voorbeeld: zoeken naar"
-
-#: templates/static_pages/usingeuropeana_search.html:31
-msgid ""
-"will narrow your results to van Gogh's works, excluding photographs of the "
-"artist or documentaries about him and his work."
-msgstr ""
-"zal uw resultaten beperken tot Van Gogh's werken, en foto's van de "
-"kunstenaar of documentaires over hem of zijn werk weglaten."
-
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid ""
-"followed by a type of item, a subject you are interested in or words from "
-"the title of the item you are looking for. Your search results will display "
-"only items of the requested type or subject or items whose title includes "
-"your search term. For example, searching for"
-msgstr ""
-"invoeren, gevolgd door een objecttype, een onderwerp dat u interesseert of "
-"woorden uit de titel van het gezochte object. De zoekresultaten geven dan "
-"alleen de objecten van het gevraagde type, of met het onderwerp dan wel de "
-"titelwoorden uit uw zoekvraag. Voorbeeld: zoeken naar"
-
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid "will narrow your results to maps, or"
-msgstr "zal uw resultaten beperken tot kaarten, of"
-
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid ""
-"will display artworks, buildings and monuments done in the Art Nouveau style."
-msgstr ""
-"zal kunstwerken, gebouwen en monumenten tonen gemaakt in de Art Nouveau-"
-"stijl."
-
-#: templates/static_pages/usingeuropeana_search.html:33
-msgid "Place"
-msgstr "Plaats"
-
-#: templates/static_pages/usingeuropeana_search.html:33
-msgid ""
-"followed by a name of a town, city or country within Europe or around the "
-"world. Your search results will display only items which were created in, "
-"published in or depict the place you are searching for. For example, "
-"searching for"
-msgstr ""
-"invoeren, gevolgd door de naam van een land of stad in of buiten Europa. De "
-"zoekresultaten geven dan alleen de objecten die dat land of die stad "
-"afbeelden, dan wel daar gemaakt of gepubliceerd zijn. Voorbeeld: zoeken naar"
-
-#: templates/static_pages/usingeuropeana_search.html:33
-msgid ""
-"will help you differentiate your search when you are looking only for "
-"objects created or held in Milan, excluding items on writer Milan Kundera "
-"from your search results."
-msgstr ""
-"helpt u uw zoekopdracht te beperken als u alleen zoekt naar objecten gemaakt "
-"of bewaard in Milan (Milaan); items over de schrijver Milan Kundera worden "
-"niet getoond."
-
-#: templates/static_pages/usingeuropeana_search.html:34
-msgid ""
-"followed by a date (e.g. 1945) or a period (e.g. Roman or Medieval). Your "
-"search results will display only items for which the date is listed in the "
-"item's date field. For example, searching for"
-msgstr ""
-"gevolgd door een datum (bijv. 1945) of periode (bijv. Romeins of "
-"Middeleeuwen). De zoekresultaten geven dan alleen de objecten waarbij de "
-"ingevoerde datum/periode is opgenomen in het datumveld van het object. "
-"Voorbeeld: zoeken naar"
-
-#: templates/static_pages/usingeuropeana_search.html:34
-msgid ""
-"will help you differentiate your search when you are looking only for items "
-"dated 1984, excluding items that have 1984 in their title or description, "
-"like George Orwell's novel."
-msgstr ""
-"helpt u uw zoekopdracht te beperken als u alleen zoekt naar objecten "
-"gedateerd 1984; items met 1984 in de titel of beschrijving (zoals de roman "
-"van George Orwell) worden niet getoond."
-
-#: templates/static_pages/usingeuropeana_search.html:37
-msgid ""
-"These search functions also have support for different spellings and "
-"languages. For example, when you search for"
-msgstr ""
-"Deze zoekfuncties bieden ook ondersteuning voor verschillende spellingen en "
-"talen. Voorbeeld: als u zoekt naar"
-
-#: templates/static_pages/usingeuropeana_search.html:37
-msgid ""
-"the results will also include items with Milano, Mailand or Milanas listed "
-"as their geographic coverage."
-msgstr ""
-"omvatten de zoekresultaten ook objecten waarbij Milano, Mailand of Milanas "
-"zijn opgenomen als geografische aanduiding."
-
-#: templates/static_pages/usingeuropeana_search.html:41
-msgid "is also possible. Just put"
-msgstr "is ook mogelijk. Plaats hiervoor"
-
-#: templates/static_pages/usingeuropeana_search.html:41
-msgid "quotation marks"
-msgstr "aanhalingstekens"
-
-#: templates/static_pages/usingeuropeana_search.html:41
-msgid "e.g."
-msgstr "bijv."
-
-#: templates/static_pages/usingeuropeana_search.html:41
-msgid "around the phrase you want to find, or type"
-msgstr "rond de term die u wilt vinden, of typ"
-
-#: templates/static_pages/usingeuropeana_search.html:41
-msgid "between the keywords (e.g."
-msgstr "tussen de trefwoorden (bijv."
-
-#: templates/static_pages/usingeuropeana_search.html:43
-msgid "by typing"
-msgstr "door het typen van"
-
-#: templates/static_pages/usingeuropeana_search.html:43
-msgid "in capital letters, followed by the word you want to omit (e.g."
-msgstr "in hoofdletters, gevolgd door het woord dat u uit wilt sluiten (bijv."
-
-#: templates/static_pages/usingeuropeana_search.html:45
-msgid "Another helpful search feature is"
-msgstr "Een andere handige zoekfunctie is"
-
-#: templates/static_pages/usingeuropeana_search.html:45
-msgid "Auto completion"
-msgstr "Automatisch aanvullen"
-
-#: templates/static_pages/usingeuropeana_search.html:45
-msgid ""
-"Start typing a search term. Europeana will suggest words that may match what "
-"you are thinking of. Just select the term you want and hit"
-msgstr ""
-"Begin een zoekterm te typen. Europeana geeft dan suggesties voor woorden die "
-"mogelijk overeenkomen met wat u bedoelt. Selecteer vervolgens de gewenste "
-"term die u wilt en klik"
-
-#: templates/static_pages/usingeuropeana_search.html:47
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid "Refine your search"
-msgstr "Verfijn uw zoekopdracht"
-
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid ""
-"Once you have done an initial search, results can be narrowed down with the"
-msgstr ""
-"Als u een eerste zoekactie heeft uitgevoerd, kunnen de resultaten beperkt "
-"worden met de"
-
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid ""
-"functions. These are in the grey pane on the search results screen. You can "
-"add more keywords to your search, thereby narrowing the search results. Just "
-"type your keyword into the"
-msgstr ""
-"opties. Deze vindt u zijn in het grijze venster op het resultatenscherm. U "
-"kunt extra termen toevoegen aan uw zoekvraag, en zo het aantal treffers "
-"verkleinen. Typ eenvoudigweg uw trefwoord in het"
-
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid "field and hit"
-msgstr "veld en klik"
-
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid "The keyword is displayed at the top of the pane, under"
-msgstr "Het trefwoord wordt bovenaan het venster weergegeven, onder"
-
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid "Matches for."
-msgstr "Resultaten voor."
-
-#: templates/static_pages/usingeuropeana_search.html:51
-msgid "To remove a keyword, hit the X icon next to the relevant keyword in the"
-msgstr ""
-"Klik om een trefwoord te verwijderen de X, naast het betreffende trefwoord "
-"in de"
-
-#: templates/static_pages/usingeuropeana_search.html:51
-msgid "list."
-msgstr "lijst."
-
-#: templates/static_pages/usingeuropeana_search.html:53
-msgid "You can also"
-msgstr "U kunt ook"
-
-#: templates/static_pages/usingeuropeana_search.html:53
-msgid "filter your search results:"
-msgstr "uw zoekresultaten filteren:"
-
-#: templates/static_pages/usingeuropeana_search.html:55
-msgid ""
-"will display only objects of a selected media type (images, text, video, "
-"sound or 3D). "
-msgstr ""
-"geeft alleen de objecten van een geselecteerd mediatype (afbeeldingen, "
-"tekst, video, geluid of 3D)."
-
-#: templates/static_pages/usingeuropeana_search.html:56
-msgid "By language"
-msgstr "Op taal"
-
-#: templates/static_pages/usingeuropeana_search.html:56
-msgid ""
-"will display only objects with descriptions in selected languages, i.e. the "
-"language of the institution that provided the object to Europeana."
-msgstr ""
-"geeft alleen de objecten met beschrijvingen in geselecteerde talen, nl. de "
-"taal van de instelling die het object aan Europeana heeft geleverd."
-
-#: templates/static_pages/usingeuropeana_search.html:57
-msgid "By date"
-msgstr "Op datum"
-
-#: templates/static_pages/usingeuropeana_search.html:57
-msgid "will display only objects with selected dates."
-msgstr "geeft alleen de objecten met geselecteerde data."
-
-#: templates/static_pages/usingeuropeana_search.html:58
-msgid "By country"
-msgstr "Op land"
-
-#: templates/static_pages/usingeuropeana_search.html:58
-msgid ""
-"will display only objects from selected countries, i.e. the country of the "
-"institution that provided the object to Europeana."
-msgstr ""
-"geeft alleen de objecten uit geselecteerde landen, nl. het land van de "
-"instelling die het object aan Europeana heeft geleverd."
-
-#: templates/static_pages/usingeuropeana_search.html:59
-msgid ""
-"will display objects labelled with the selected copyright label(s). This "
-"copyright label indicates how you may reuse the digital object, including "
-"the preview."
-msgstr ""
-"geeft alleen de objecten met de geselecteerde copyrightlabels. Deze labels "
-"geven aan hoe u het digitale object en de preview mag hergebruiken."
-
-#: templates/static_pages/usingeuropeana_search.html:60
-msgid "will display only objects from selected institutions"
-msgstr "toont alleen objecten van geselecteerde instellingen"
-
-#: templates/static_pages/usingeuropeana_search.html:63
-msgid ""
-"Select the filter name, e.g. 'By language' to expand it. Then just use the "
-"check boxes for the categories you wish the search results to include. The "
-"results will refresh automatically. The filter will be added to the"
-msgstr ""
-"Selecteer de filternaam, bijv. 'Op taal' om meer te zien. Gebruik vervolgens "
-"de selectievakjes voor de categorieën die u op wilt nemen in de "
-"zoekresultaten. De resultaten worden dan automatisch ververst. Het filter "
-"wordt toegevoegd aan de"
-
-#: templates/static_pages/usingeuropeana_search.html:63
-msgid "list at the top of the pane."
-msgstr "lijst bovenaan het venster."
-
-#: templates/static_pages/usingeuropeana_search.html:65
-msgid "To remove a filter, hit the X icon next to the item in the"
-msgstr "Klik om een filter te verwijderen de X, naast het object in de"
-
-#: templates/static_pages/usingeuropeana_search.html:65
-msgid "list, or de-select the check box next to the filter category."
-msgstr "lijst, of deselecteer het selectievakje naast de filter-categorie."
-
-#: templates/static_pages/usingeuropeana_search.html:67
-msgid "You can also select to"
-msgstr "Een andere selectie-optie is het"
-
-#: templates/static_pages/usingeuropeana_search.html:67
-msgid ""
-"This means items that have not come from a cultural institution but from an "
-"individual user, for example, items contributed to the Europeana 1914-1918 "
-"project."
-msgstr ""
-"Hierbij gaat het om objecten die niet afkomstig zijn van een culturele "
-"instelling, maar van een individuele gebruiker, zoals de bijgedragen aan het "
-"project Europeana 1914-1918."
-
-#: templates/static_pages/usingeuropeana_search.html:69
-msgid "Share your search with friends by choosing"
-msgstr "Deel uw zoekopdracht met vrienden met de functie"
-
-#: templates/static_pages/usingeuropeana_search.html:69
-msgid ""
-"A full list of social media sharing options is presented. Just select one "
-"you want. This also includes print and email options."
-msgstr ""
-"Een volledige lijst van sociale media wordt hiervoor getoond, evenals print "
-"en e-mail opties. Maak hieruit eenvoudigweg uw keuze. "
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:3
-msgid "Europeana - How to configure your search widget"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:10
-msgid "You can add a Europeana search facility to your blog or website."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:10
-msgid "Our simple wizard"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:10
-msgid ""
-"takes you through the process step-by-step and gives you a snippet of code "
-"to embed."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:11
-msgid ""
-"Configure the widget to search all collections and data providers within "
-"Europeana, or refine it to suit your website, e.g. to search only within "
-"Public Domain or Creative Commons, or only licensed images from a specific "
-"country."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:12
-msgid "The Europeana Search Widget works with..."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:13
-msgid "Sites that you host yourself."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:18
-msgid "The Europeana Search Widget doesn't work with..."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:19
-msgid "Blogs hosted on Wordpress.com"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:20
-msgid "Set up your Europeana Search Widget:"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:22
-msgid "Go to the search widget page."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:23
-msgid "Introduction tab"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:23
-msgid ""
-"The Europeana Search widget is presented. A progress bar shows you how far "
-"you are through the process and a video takes you through the process step "
-"by step. To start configuring your widget, tap 'Next' or the 'Filter' tab "
-"heading."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:24
-msgid "Filter tab"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:24
-msgid ""
-"If you want your widget to include the entire Europeana dataset, you can go "
-"straight to the 'Style' tab. Tap 'Next' or the 'Style' tab heading."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:25
-msgid "To tailor your search widget"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:27
-msgid "Keyword search"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:27
-msgid ""
-"By default, the widget searches the entire Europeana dataset. You can "
-"restrict the search to a key word or phrase. To do this, enter the key word"
-"(s) in the 'Search for' field. For example, if you are adding a widget to "
-"your First World War blog about military uniform, you might type 'uniform'."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:28
-msgid ""
-"All the normal search functions work in this field, for example, use double "
-"quotes for a phrase, e.g. &quot;military uniform&quot;, use 'AND' to include "
-"searches on two words or 'NOT' to hide results for a particular word, e.g. "
-"'uniform AND war' or 'uniform NOT school'."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:29
-msgid "Search on types"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:29
-msgid ""
-"By default, the widget will search the entire Europeana dataset for your key "
-"words. You can restrict the search to 'Titles', 'Creators', 'Subjects', "
-"'Times/Periods', or 'Places'.  For example, you may wish to look only for "
-"results to do with 'Paris'. In which case, you would enter 'Paris' as a key "
-"word and 'Places' as a type. Tap 'Change' next to 'All Fields' and select "
-"the option you need."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:30
-msgid ""
-"By default, the widget returns results from all of Europeana's providers. "
-"You can restrict it to your chosen providers.  Tap 'Change' next to 'All  "
-"Providers' and select the providers you need. You can search for a provider "
-"using the search field above the list.  The providers are presented in order "
-"of the size of their contributions to Europeana. The number in brackets "
-"shows how many items from that provider are available. If the name of the "
-"provider is followed by an arrow, then they are a data aggregator, tap the "
-"arrow to see the institutions included in their collection. Note: you can "
-"select more than one."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:31
-msgid "Countries"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:31
-msgid ""
-"By default, the widget returns results from all countries. You can restrict "
-"it to your chosen countries. Tap 'Change' next to 'All Providing Countries' "
-"and select the countries you need. The countries are presented in order of "
-"the size of their contributions to Europeana. The number in brackets shows "
-"how many items from that country are available. Note: you can select more "
-"than one. To clear your selection and start again, tap 'Clear'."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:32
-msgid "Media types"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:32
-msgid ""
-"By default, the widget returns results of all media types - image, text, "
-"sound, video and 3D. You can restrict it to only the media types you're "
-"interested in. Tap 'Change' next to 'All Media Types' and select the types "
-"you need. The media types are presented in order of size. The number in "
-"brackets shows how many items of that media type are available. Note: you "
-"can select more than one.  To clear your selection and start again, tap "
-"'Clear'."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:33
-msgid "Copyright"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:33
-msgid ""
-"By default, the widget returns results with any copyright status. You can "
-"restrict this, for example, to only show re-usable content. Tap 'Change' "
-"next to 'All Copyrights' and select the statuses you need. The copyright "
-"statuses are presented in order of size. The number in brackets shows how "
-"many items of that status are available. Note: you can select more than one. "
-"To clear your selection and start again, tap 'Clear'."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:34
-msgid "More information on the CC licenses"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:35
-msgid "More information on the Rights Reserved - Free Access label"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:36
-msgid "More information on the Rights Reserved - Restricted Access label"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:37
-msgid "More information on the Rights Reserved - Paid Access label"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:38
-msgid "More information on the Unknown rights label"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:39
-msgid "Languages"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:39
-msgid ""
-"By default, the widget returns results in all languages. You can restrict it "
-"to your chosen languages. Tap 'Change' next to 'All Languages' and select "
-"the languages you need. The languages are presented in order of the size of "
-"their representation in Europeana. The number in brackets shows how many "
-"items of each language are available. Note: you can select more than one. To "
-"clear your selection and start again, tap 'Clear'."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:40
-msgid ""
-"When you have selected all your filters, tap 'Next' or the 'Style' tab "
-"heading."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:42
-msgid "Style tab"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:42
-msgid ""
-"You can choose a black or white widget and select to include thumbnails or "
-"not. Select the style you would like to use."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:43
-msgid "Tap 'Next' or the 'Preview' tab heading."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:44
-msgid "Preview tab"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:44
-msgid ""
-"Your widget will be displayed. Please note that the widget is responsive and "
-"so expands to fit the width of its container. For this reason, it may be a "
-"different size on the preview than it will be on your own web page."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:46
-msgid ""
-"If you wish to amend the widget's properties, just go back to the 'Search', "
-"'Filter' or 'Style' tab and make your changes."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:47
-msgid ""
-"If you are happy with your widget, simply copy the 'Embed' code displayed "
-"and paste this into your web page."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:48
-msgid ""
-"We would love to know how you are using this search widget, please tell us "
-"by dropping us an email at"
-msgstr ""
+#~ msgid "Europeana - New Content"
+#~ msgstr "Europeana - Nieuwe content"
+
+#~ msgid "Europeana - Sitemap"
+#~ msgstr "Europeana - Sitemap"
+
+#~ msgid "Searching in Europeana"
+#~ msgstr "Zoeken in Europeana"
+
+#~ msgid "Press Centre (on Europeana Professional)"
+#~ msgstr "Voor de pers (Europeana Professional)"
+
+#~ msgid "Jobs (on Europeana Professional)"
+#~ msgstr "Vacatures (Europeana Professional)"
+
+#~ msgid "Partners (on Europeana Professional)"
+#~ msgstr "Partners (Europeana Professional)"
+
+#~ msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
+#~ msgstr "Europeana Data Exchange Agreement (Europeana Professional)"
+
+#, fuzzy
+#~ msgid "Free Access - no-reuse"
+#~ msgstr "Gratis toegang"
+
+#, fuzzy
+#~ msgid "Paid Access - no re-use"
+#~ msgstr "Betaalde toegang"
+
+#~ msgid "Unknown copyright status"
+#~ msgstr "Onbekende status auteursrecht"
+
+#~ msgid "Europeana - Storyline and credits"
+#~ msgstr "Europeana - Storyline en credits"
+
+#~ msgid "Descartes"
+#~ msgstr "Descartes"
+
+#~ msgid "The best place to start is with"
+#~ msgstr "Het beste punt om te beginnen is bij"
+
+#~ msgid "Rene Descartes"
+#~ msgstr "Rene Descartes"
+
+#~ msgid ""
+#~ "the man who made thinking central to our experience of the world. Cogito "
+#~ "ergo sum wrote Descartes in 1644 in his Principia Philosophiae: I think, "
+#~ "therefore I am. Descartes was the father of modern philosophy, and one of "
+#~ "the great European thinkers of his time, writing in French and Latin, "
+#~ "working and publishing in the Netherlands."
+#~ msgstr ""
+#~ "de man die het denken centraal stelde in onze beleving van de wereld. "
+#~ "Cogito ergo sum schreef Descartes in 1644 in zijn Principia Philosophiae: "
+#~ "Ik denk, dus ik ben. Descartes was de grondlegger van de moderne "
+#~ "filosofie en een van de grote Europese denkers van zijn tijd. Hij schreef "
+#~ "in het Frans en het Latijn en werkte en publiceerde in Nederland."
+
+#~ msgid "Newton"
+#~ msgstr "Newton"
+
+#~ msgid ""
+#~ "He defined laws of reflection and refraction, worked on the structure of "
+#~ "the brain, the new physics and mathematics. He was a major influence on"
+#~ msgstr ""
+#~ "Hij formuleerde de reflectie- en brekingswet, bestudeerde de structuur "
+#~ "van de hersenen, de nieuwe natuurkunde en de wiskunde. Hij had grote "
+#~ "invloed op"
+
+#~ msgid "Isaac Newton"
+#~ msgstr "Isaac Newton"
+
+#~ msgid ""
+#~ "whose laws of gravity were famously inspired by watching an apple fall. "
+#~ "Newton's three laws of motion were published in 1687 in his"
+#~ msgstr ""
+#~ "wiens wetten van zwaartekracht werden ingegeven door het kijken naar een "
+#~ "vallende appel. Newtons drie bewegingswetten werden gepubliceerd in 1687 "
+#~ "in zijn"
+
+#~ msgid "Philosophiae Naturalis Principia Mathematica"
+#~ msgstr "Philosophiae Naturalis Principia Mathematica"
+
+#~ msgid "Darwin"
+#~ msgstr "Darwin"
+
+#~ msgid ""
+#~ "The apple is the symbol of another fall; that of Adam and Eve, who on "
+#~ "eating the fruit of the Tree of Knowledge of Good and Evil are banished "
+#~ "from Eden. The fundamental challenge to the story of the Creation and the "
+#~ "Fall is the Theory of Evolution, set out by"
+#~ msgstr ""
+#~ "De appel is het symbool van een andere val; die van Adam en Eva die na "
+#~ "het eten van het fruit van de boom van de kennis van goed en kwaad worden "
+#~ "verdreven uit Eden. Het verhaal van de Zondeval wordt ernstig op de proef "
+#~ "gesteld door de evolutietheorie, die werd uiteengezet door "
+
+#~ msgid "Charles Darwin"
+#~ msgstr "Charles Darwin "
+
+#~ msgid "in his famous 1859 book"
+#~ msgstr "in zijn beroemde boek uit 1859"
+
+#~ msgid "On the Origin of Species"
+#~ msgstr "'Het ontstaan der soorten'"
+
+#~ msgid ""
+#~ "Darwin recognised that species were not static, but evolved to improve "
+#~ "their chances of survival. His theories began to develop while he was the "
+#~ "naturalist and geologist on board the ship Beagle, on a 5 year voyage "
+#~ "surveying the coast of South America."
+#~ msgstr ""
+#~ "Darwin merkte op dat soorten niet stilstonden, maar evolueerden om hun "
+#~ "overlevingskans te vergroten. Zijn theorieën begonnen zich te ontwikkelen "
+#~ "toen hij natuurwetenschapper en geoloog was aan boord van het schip de "
+#~ "Beagle, tijdens een vijfjarige reis waarbij de kust van Zuid-Amerika "
+#~ "onderzocht werd."
+
+#~ msgid "Wedgwood"
+#~ msgstr "Wedgwood"
+
+#~ msgid ""
+#~ "Darwin's genius was the product of an English family of talent and "
+#~ "reputation. He was the grandson of"
+#~ msgstr ""
+#~ "Darwin's genie was het product van een Engelse familie vol talent en "
+#~ "faam. Hij was de kleinzoon van"
+
+#~ msgid "Josiah Wedgwood"
+#~ msgstr "Josiah Wedgwood"
+
+#~ msgid ""
+#~ "one of the great entrepreneurs of the industrial revolution. Taking "
+#~ "inspiration from Greek, Etruscan and Roman styles, especially the "
+#~ "Portland Vase, he created a range of neo-classical pottery that delighted "
+#~ "the new English merchant classes, keen to display their sophistication "
+#~ "with references to design classics. Wedgwood used scientific innovation, "
+#~ "factory techniques of mass production and the new canal network of the UK "
+#~ "to transport his fragile wares to the new consumers of the growing towns "
+#~ "and cities."
+#~ msgstr ""
+#~ "een van de belangrijkste ondernemers van de industriële revolutie. "
+#~ "Geïnspireerd door Griekse, Etrurische en Romeinse stijlen, in het "
+#~ "bijzonder de Portlandvaas ontwierp hij een collectie neoklassiek "
+#~ "aardewerk dat de nieuwe Engelse koopmansklasse in verrukking bracht. Zij "
+#~ "vertoonden gretig hun geraffineerdheid, verwijzend naar klassieke "
+#~ "ontwerpen. Wedgwood gebruikte wetenschappelijke vernieuwingen toe, "
+#~ "fabriekstechnieken voor massaproductie en de nieuwe kanaalverbindingen in "
+#~ "het Verenigd Koninkrijk om zijn breekbare waar te transporteren naar de "
+#~ "nieuwe consument in de groeiende dorpen en steden."
+
+#~ msgid "Abolition"
+#~ msgstr "Abolitie"
+
+#~ msgid "A philanthropic employer, Wedgwood was also an early support of"
+#~ msgstr ""
+#~ "Wedgwood was een filantropische werkgever en hij ondersteunde al vroeg de "
+
+#~ msgid "abolition"
+#~ msgstr "abolitie"
+
+#~ msgid ""
+#~ "He was a founder member of the Society for the Abolition of the Slave "
+#~ "Trade. His support was most memorably expressed in the cameos he produced "
+#~ "in the 1780s, showing a chained slave with the motto Am I not a Man and a "
+#~ "Brother? Distributed in their thousands, these became the first protest "
+#~ "fashion accessory."
+#~ msgstr ""
+#~ "Hij was oprichtend lid van de Vereniging ter verwezenlijking van de "
+#~ "afschaffing van de slavernij. Zijn steun was het gedenkwaardigst door de "
+#~ "cameeën die hij in de jaren 1780 vervaardigde, met een afbeelding van een "
+#~ "geketende slaaf en het motto \"Ben ik geen man en broer?\" te zien waren. "
+#~ "Er werden er duizenden verspreid en het werd de eerste modeaccessoire "
+#~ "waarmee actie werd gevoerd."
+
+#~ msgid "Migration"
+#~ msgstr "Migratie"
+
+#~ msgid ""
+#~ "The anti-slavery campaigners succeeded in abolishing the slave trade in "
+#~ "1807 and in the following years it was outlawed in the colonies of "
+#~ "western Europe. But the ideal of equality on which it was founded "
+#~ "continued to inspire. Over a century on, it fuelled the political "
+#~ "aspirations that drove the colonial independence movements."
+#~ msgstr ""
+#~ "In 1807 slaagden antislavernij-activisten erin de slavenhandel af te "
+#~ "schaffen en in de jaren erna werd deze verbannen uit de West-Europese "
+#~ "koloniën. Maar het ideaal van gelijkheid waarop deze was gebaseerd bleef "
+#~ "inspireren. Meer dan een eeuw later voedde het politieke ambities en was "
+#~ "het de drijfkracht voor koloniale onafhankelijkheidsbewegingen. "
+
+#~ msgid ""
+#~ "from the former colonies in recent decades has pushed concern for "
+#~ "equality of opportunity up the political agenda as Europe has become "
+#~ "increasingly diverse."
+#~ msgstr ""
+#~ "Migratie uit de vroegere koloniën in de afgelopen decennia heeft het "
+#~ "belang van gelijkheid van kansen op de politieke agenda gezet, naarmate "
+#~ "de diversiteit van Europa groeide."
+
+#~ msgid "Bridgetower"
+#~ msgstr "Bridgetower"
+
+#~ msgid ""
+#~ "Talented Europeans of African descent were making their mark in the "
+#~ "capitals of Europe even as the abolition movement was gathering "
+#~ "supporters."
+#~ msgstr ""
+#~ "Getalenteerde Europeanen van Afrikaanse afkomst deden van zich spreken in "
+#~ "de Europese hoofdsteden, zelfs al toen de abolitiebeweging nog aanhangers "
+#~ "verzamelde."
+
+#~ msgid "was the Polish-born son of a West Indian servant of the"
+#~ msgstr "was de in Polen geboren zoon van een West-Indische knecht van "
+
+#~ msgid "Prince Esterh&aacute;zy"
+#~ msgstr "Graaf Esterh&aacute;zy"
+
+#~ msgid ""
+#~ "Joseph Haydn's Hungarian patron. He was a musical prodigy whose talent "
+#~ "was quickly spotted, and he made his debut in Paris at the age of 9. One "
+#~ "reviewer noted his talent is one of the best replies one can give to "
+#~ "philosophers who wish to deprive people of his nation and his colour of "
+#~ "the opportunity to distinguish themselves in the arts."
+#~ msgstr ""
+#~ "de Hongaarse broodheer van Joseph Haydn. Hij was een muzikaal wonderkind "
+#~ "wiens talent snel werd opgemerkt en die debuteerde in Parijs op "
+#~ "negenjarige leeftijd. Een recensent merkte op dat zijn talent een van de "
+#~ "beste weerwoorden is die men kan geven aan filosofen die mensen van zijn "
+#~ "afkomst en huidskleur de kans willen ontnemen zich te onderscheiden in de "
+#~ "kunstwereld."
+
+#~ msgid "Beethoven"
+#~ msgstr "Beethoven"
+
+#~ msgid "By 1803, Bridgetower was giving the premiere of"
+#~ msgstr "Tegen 1803 gaf Bridgetower de première van de "
+
+#~ msgid "Beethoven's Kreutzer sonata (Op.47)"
+#~ msgstr "Kreutzersonate (Op.47) van Beethoven."
+
+#~ msgid ""
+#~ "He played the violin part, Beethoven the piano. So delighted was "
+#~ "Beethoven with the performance that he initially dedicated the sonata to "
+#~ "Bridgetower and gave him his tuning fork."
+#~ msgstr ""
+#~ "Hij speelde de vioolpartij, met Beethoven op piano. Beethoven was zo "
+#~ "verrukt van het optreden dat hij aanvankelijk de sonate opdroeg aan "
+#~ "Bridgetower en hem zijn stemvork gaf."
+
+#~ msgid "Ludwig van Beethoven"
+#~ msgstr "Ludwig van Beethoven"
+
+#~ msgid "is the greatest of the Romantic composers: his Third Symphony, the "
+#~ msgstr "was de belangrijkste Romantische componist: zijn derde symfonie de "
+
+#~ msgid "Eroica"
+#~ msgstr "Eroïca"
+
+#~ msgid "was originally dedicated to"
+#~ msgstr "droeg hij aanvankelijk op aan"
+
+#~ msgid "Napoleon"
+#~ msgstr "Napoleon"
+
+#~ msgid ""
+#~ "who he believed ushered in an age of democracy and republican ideals. "
+#~ "When Napoleon fell short, Beethoven scratched the dedication from the "
+#~ "manuscript so forcefully he tore a hole through the paper."
+#~ msgstr ""
+#~ "die volgens hem een tijdperk van democratie en republikeinse idealen "
+#~ "inluidde. Toen Napoleon tekortschoot, kraste Beethoven met zoveel kracht "
+#~ "de opdracht uit het manuscript dat hij een gat in het papier scheurde."
+
+#~ msgid "Rossini"
+#~ msgstr "Rossini"
+
+#~ msgid ""
+#~ "Beethoven's genius was felt across Europe and had a profound influence on "
+#~ "the succeeding generation of composers, including"
+#~ msgstr ""
+#~ "Beethovens genie was overal in Europa merkbaar en had een grote invloed "
+#~ "op de volgende generatie componisten, waaronder"
+
+#~ msgid "Gioachino Antonio Rossini"
+#~ msgstr "Gioachino Antonio Rossini"
+
+#~ msgid ""
+#~ "Rossini travelled to Vienna in 1822, where he met the master. His "
+#~ "reverence was such that he asked for Beethoven's Funeral March to be "
+#~ "played at his burial in Paris."
+#~ msgstr ""
+#~ "Rossini reisde in 1822 naar Wenen, waar hij de meester ontmoette. Zijn "
+#~ "bewondering was zo groot dat hij aangaf dat Beethovens Begrafenismars zou "
+#~ "worden gespeeld bij zijn begrafenis in Parijs."
+
+#~ msgid ""
+#~ "Rossini's popularity continued into the 20th century. The most famous "
+#~ "diva of the time,"
+#~ msgstr ""
+#~ "De populariteit van Rossini duurde tot in de 20e eeuw. De meest beroemde "
+#~ "diva uit die tijd,"
+
+#~ msgid "Maria Callas"
+#~ msgstr "Maria Callas"
+
+#~ msgid ""
+#~ "was one of his great interpreters; Una voce poco fa, Rosina's famous aria "
+#~ "from"
+#~ msgstr ""
+#~ "was een van zijn belangrijke vertolkers; 'Una voce poco fa', Rossini's "
+#~ "beroemde aria uit"
+
+#~ msgid "The Barber of Seville"
+#~ msgstr "De Barbier van Sevilla"
+
+#~ msgid ""
+#~ "was a fixture in her concert repertoire. Rossini's speed for musical "
+#~ "composition was legendary, particularly of"
+#~ msgstr ""
+#~ "was een vast repertoirestuk bij haar concerten. De snelheid waarmee "
+#~ "Rossini componeerde was legendarisch, vooral waar het ging om "
+
+#~ msgid "La Gazza Ladra - The Thieving Magpie"
+#~ msgstr "La Gazza Ladra - de stelende ekster"
+
+#~ msgid "Magpies and mirrors"
+#~ msgstr "Eksters en spiegels"
+
+#~ msgid ""
+#~ "The title refers to the magpie's eye for shining things; like Europeana, "
+#~ "it gathers treasures."
+#~ msgstr ""
+#~ "De titel verwijst naar het oog van de ekster voor glimmende dingen; net "
+#~ "als Europeana verzamelt hij schatten."
+
+#~ msgid "The magpie"
+#~ msgstr "De ekster"
+
+#~ msgid ""
+#~ "is also believed to be the only non-mammal that can recognise its "
+#~ "reflection in a mirror; which brings us back to Descartes' interest in "
+#~ "reflection and refraction. Artists through the ages have similarly been "
+#~ "fascinated with the properties of light and perception as depicted in the "
+#~ "vivid translucency of Renaissance and Baroque portraits; the perspective "
+#~ "of"
+#~ msgstr ""
+#~ "is ook het enige niet-zoogdier waarvan gedacht wordt dat het zijn "
+#~ "spiegelbeeld kan herkennen; wat ons terugbrengt bij Descartes' interesse "
+#~ "in reflectie en breking. Door de eeuwen heen zijn kunstenaars "
+#~ "gefascineerd door de eigenschappen van licht en waarneming, zoals "
+#~ "weergegeven in de levensechte helderheid van portretten uit de "
+#~ "renaissance en barokperiode; het perspectief van"
+
+#~ msgid "Johannes Vermeer"
+#~ msgstr "Johannes Vermeer"
+
+#~ msgid ""
+#~ "enthralled by the discoveries of the Scientific revolution; the technical "
+#~ "virtuosity of 19th century Pointillists which led onto 20th century "
+#~ "Cubism, where both objects and space merge."
+#~ msgstr ""
+#~ "betoverd door de ontdekkingen van de wetenschappelijke revolutie; het "
+#~ "technische meesterschap van 19e-eeuwse pointillisten, dat leidde tot het "
+#~ "cubisme van de 20e eeuw, waarbij objecten en ruimte versmelten."
+
+#~ msgid ""
+#~ "Most of all, the eyes, the faces, the ideas from the past invite us to "
+#~ "think again: to take inspiration, to make new connections and to share "
+#~ "new discoveries."
+#~ msgstr ""
+#~ "Bovenal nodigen de ogen, de gezichten en de ideeën uit het verleden ons "
+#~ "uit om weer te gaan denken: om inspiratie te krijgen, nieuwe verbanden te "
+#~ "leggen en nieuwe ontdekkingen te delen."
+
+#~ msgid "Credits: the music, the images and where they came from"
+#~ msgstr "Credits: de muziek, de afbeeldingen en waar ze vandaan kwamen"
+
+#~ msgid ""
+#~ "We are very grateful to all those who helped make the video, especially "
+#~ "its creators"
+#~ msgstr ""
+#~ "Wij zijn veel dank verschuldigd aan iedereen die heeft geholpen met het "
+#~ "maken van de video, in het bijzonder de makers"
+
+#~ msgid ""
+#~ "Many of our partners gave us permission to use their images in the video. "
+#~ "Thanks to our colleagues in the\n"
+#~ "    organisations listed below."
+#~ msgstr ""
+#~ "Veel van onze partners gaven toestemming om hun afbeeldingen te gebruiken "
+#~ "in de video. Hartelijk dank aan onze collega's van de organisaties die "
+#~ "hieronder worden vermeld."
+
+#~ msgid "The music is primarily drawn from Irmin Schmidt's"
+#~ msgstr "De muziek is voornamelijk afkomstig van Irmin Schmidts"
+
+#~ msgid "Those Fuzzy Things (out there)"
+#~ msgstr "Those Fuzzy Things (out there)"
+
+#~ msgid ""
+#~ "much appreciation to Cit&eacute;\n"
+#~ "    de la Musique for enabling us to use it as the basis for our "
+#~ "soundtrack."
+#~ msgstr ""
+#~ "wij zijn Cit&eacute; de la Musique erkentelijk omdat ze het mogelijk "
+#~ "maakten het stuk te gebruiken als basis voor onze soundtrack."
+
+#~ msgid "Collection"
+#~ msgstr "Collectie"
+
+#~ msgid "Link"
+#~ msgstr "Link"
+
+#~ msgid "Europeana - Using My Europeana"
+#~ msgstr "Europeana - Mijn Europeana gebruiken"
+
+#~ msgid "is your personal space on Europeana."
+#~ msgstr "is uw persoonlijke omgeving binnen Europeana."
+
+#~ msgid "Register for"
+#~ msgstr "Registreren voor"
+
+#~ msgid "and you can"
+#~ msgstr "en u kunt"
+
+#~ msgid ""
+#~ "Keep up to date on a particular topic in Europeana by saving a search, so "
+#~ "you can easily perform it again in future."
+#~ msgstr ""
+#~ "Blijf op de hoogte blijven van een bepaald onderwerp in Europeana door "
+#~ "een zoekopdracht op te slaan, zodat u deze in de toekomst eenvoudig "
+#~ "opnieuw uit kunt voeren."
+
+#~ msgid ""
+#~ "Label your favourite items in Europeana with tags that mean something to "
+#~ "you. You can then see all objects you have tagged, sorted by the keywords "
+#~ "you have chosen, in the My Europeana interface."
+#~ msgstr ""
+#~ "Label uw favoriete objecten in Europeana met tags die iets voor u "
+#~ "betekenen. U kunt dan alle door u getagde objecten, gesorteerd op "
+#~ "zelfgekozendoor trefwoorden bekijken via Mijn Europeana."
+
+#~ msgid "Store your favourite items for later viewing."
+#~ msgstr "Sla uw favoriete items op zodat u ze later nog eens kunt bekijken."
+
+#~ msgid ""
+#~ "If you are a developer who has registered for one or more API keys, these "
+#~ "will be shown on the API Keys tab."
+#~ msgstr ""
+#~ "Als u een ontwikkelaar bent, en geregistreerd voor een of meer API-"
+#~ "sleutels, dan worden deze getoond op de tab API-sleutels."
+
+#~ msgid "To save a search, add a tag or save an item, simply login to"
+#~ msgstr ""
+#~ "Om een zoekopdracht op te slaan, een tag toe te voegen of een item op te "
+#~ "slaan kunt u inloggen op"
+
+#~ msgid "and click on the relevant action from the menu."
+#~ msgstr "en klik op de relevante actie in het menu."
+
+#~ msgid "To view your saved items, searches and tags, use the"
+#~ msgstr ""
+#~ "Om de door u opgeslagen objecten, zoekacties en tags te bekijken, gebruik "
+#~ "de"
+
+#~ msgid "shortcuts in the header."
+#~ msgstr "shortcuts in de header."
+
+#~ msgid "Europeana - Searching Europeana"
+#~ msgstr "Europeana - Europeana doorzoeken"
+
+#~ msgid ""
+#~ "Welcome to Europeana. This page describes some of the things that you can "
+#~ "do while you are here. Learn more about:"
+#~ msgstr ""
+#~ "Welkom bij Europeana. Deze pagina beschrijft een deel van wat u kunt doen "
+#~ "terwijl u hier bent. Lees meer over:"
+
+#~ msgid ""
+#~ "Search tips, refined search, phrase search, exclude words, auto-"
+#~ "completion, filter results, share your search."
+#~ msgstr ""
+#~ "zoektips, verfijnd zoeken, zoeken op zinsdelen, woorden uitsluiten, "
+#~ "automatisch aanvullen, het filteren van resultaten en het delen van uw "
+#~ "zoekopdracht."
+
+#~ msgid "exhibitions, new content."
+#~ msgstr "tentoonstellingen, nieuwe content"
+
+#~ msgid ""
+#~ "Seeing further details, rights and licence information, translating "
+#~ "details, searching on external services, related searches on Europeana, "
+#~ "viewing item on provider's site, embedding, and citing."
+#~ msgstr ""
+#~ "meer informatie bekijken, informatie over rechten en licenties, "
+#~ "vertalingen, zoeken in externe diensten, gerelateerde zoekopdrachten in "
+#~ "Europeana, objecten bekijken op site leverancier, embedden en citeren."
+
+#~ msgid "Saving searches, saving items, and adding tags."
+#~ msgstr "opslaan zoekopdrachten, opslaan objecten en toevoegen tags"
+
+#~ msgid "General Search"
+#~ msgstr "Algemeen zoeken"
+
+#~ msgid ""
+#~ "Searching the millions of items in Europeana is simple. Just enter your "
+#~ "search term and hit"
+#~ msgstr ""
+#~ "Het doorzoeken van de miljoenen objecten in Europeana is eenvoudig. Voer "
+#~ "gewoon uw zoekterm in en klik op"
+
+#~ msgid "Specific search"
+#~ msgstr "Specifiek zoeken"
+
+#~ msgid "You can narrow your search with the arrow to the right of"
+#~ msgstr "U kunt uw zoekvraag verfijnen met de pijl rechts naast"
+
+#~ msgid "Search All fields"
+#~ msgstr "Zoek in alle velden"
+
+#~ msgid "and selecting a category"
+#~ msgstr "en het selecteren van een categorie"
+
+#~ msgid "Titles, Creators, Subjects, Dates/Periods, Places"
+#~ msgstr "Tiels, Makers, Onderwerpen, Data/Periodes, Plaatsen"
+
+#~ msgid "Then enter your search term and hit"
+#~ msgstr "Voer vervolgens uw zoekterm in en klik"
+
+#~ msgid ""
+#~ "Alternatively, just ask yourself who, what, where or when you are "
+#~ "interested in and type these words into Europeana's search box followed "
+#~ "by a colon (:). Then enter your search term and hit"
+#~ msgstr ""
+#~ "Of bedenk eenvoudigweg in wie, wat, waar of wanneer u geïnteresseerd bent "
+#~ "in en typ die woorden in Europeana-zoekvenster, gevolgd door een dubbele "
+#~ "punt (:). Voer vervolgens uw zoekterm in en klik"
+
+#~ msgid "For specific searches, you could:"
+#~ msgstr "Voor specifieke zoekopdrachten kunt u:"
+
+#~ msgid "Use the"
+#~ msgstr "het filter"
+
+#~ msgid "filter or enter"
+#~ msgstr "gebruiken of"
+
+#~ msgid ""
+#~ "followed by a name of, for example, an actor, author or architect. Your "
+#~ "results will display only items for which the name you entered is listed "
+#~ "as the creator. For example, searching for"
+#~ msgstr ""
+#~ "invoeren, gevolgd door de naam van bijvoorbeeld een acteur, schrijver of "
+#~ "architect. De zoekresultaten geven dan alleen de objecten waarbij de "
+#~ "ingevoerde naam is opgenomen als maker. Voorbeeld: zoeken naar"
+
+#~ msgid ""
+#~ "will narrow your results to van Gogh's works, excluding photographs of "
+#~ "the artist or documentaries about him and his work."
+#~ msgstr ""
+#~ "zal uw resultaten beperken tot Van Gogh's werken, en foto's van de "
+#~ "kunstenaar of documentaires over hem of zijn werk weglaten."
+
+#~ msgid ""
+#~ "followed by a type of item, a subject you are interested in or words from "
+#~ "the title of the item you are looking for. Your search results will "
+#~ "display only items of the requested type or subject or items whose title "
+#~ "includes your search term. For example, searching for"
+#~ msgstr ""
+#~ "invoeren, gevolgd door een objecttype, een onderwerp dat u interesseert "
+#~ "of woorden uit de titel van het gezochte object. De zoekresultaten geven "
+#~ "dan alleen de objecten van het gevraagde type, of met het onderwerp dan "
+#~ "wel de titelwoorden uit uw zoekvraag. Voorbeeld: zoeken naar"
+
+#~ msgid "will narrow your results to maps, or"
+#~ msgstr "zal uw resultaten beperken tot kaarten, of"
+
+#~ msgid ""
+#~ "will display artworks, buildings and monuments done in the Art Nouveau "
+#~ "style."
+#~ msgstr ""
+#~ "zal kunstwerken, gebouwen en monumenten tonen gemaakt in de Art Nouveau-"
+#~ "stijl."
+
+#~ msgid "Place"
+#~ msgstr "Plaats"
+
+#~ msgid ""
+#~ "followed by a name of a town, city or country within Europe or around the "
+#~ "world. Your search results will display only items which were created in, "
+#~ "published in or depict the place you are searching for. For example, "
+#~ "searching for"
+#~ msgstr ""
+#~ "invoeren, gevolgd door de naam van een land of stad in of buiten Europa. "
+#~ "De zoekresultaten geven dan alleen de objecten die dat land of die stad "
+#~ "afbeelden, dan wel daar gemaakt of gepubliceerd zijn. Voorbeeld: zoeken "
+#~ "naar"
+
+#~ msgid ""
+#~ "will help you differentiate your search when you are looking only for "
+#~ "objects created or held in Milan, excluding items on writer Milan Kundera "
+#~ "from your search results."
+#~ msgstr ""
+#~ "helpt u uw zoekopdracht te beperken als u alleen zoekt naar objecten "
+#~ "gemaakt of bewaard in Milan (Milaan); items over de schrijver Milan "
+#~ "Kundera worden niet getoond."
+
+#~ msgid ""
+#~ "followed by a date (e.g. 1945) or a period (e.g. Roman or Medieval). Your "
+#~ "search results will display only items for which the date is listed in "
+#~ "the item's date field. For example, searching for"
+#~ msgstr ""
+#~ "gevolgd door een datum (bijv. 1945) of periode (bijv. Romeins of "
+#~ "Middeleeuwen). De zoekresultaten geven dan alleen de objecten waarbij de "
+#~ "ingevoerde datum/periode is opgenomen in het datumveld van het object. "
+#~ "Voorbeeld: zoeken naar"
+
+#~ msgid ""
+#~ "will help you differentiate your search when you are looking only for "
+#~ "items dated 1984, excluding items that have 1984 in their title or "
+#~ "description, like George Orwell's novel."
+#~ msgstr ""
+#~ "helpt u uw zoekopdracht te beperken als u alleen zoekt naar objecten "
+#~ "gedateerd 1984; items met 1984 in de titel of beschrijving (zoals de "
+#~ "roman van George Orwell) worden niet getoond."
+
+#~ msgid ""
+#~ "These search functions also have support for different spellings and "
+#~ "languages. For example, when you search for"
+#~ msgstr ""
+#~ "Deze zoekfuncties bieden ook ondersteuning voor verschillende spellingen "
+#~ "en talen. Voorbeeld: als u zoekt naar"
+
+#~ msgid ""
+#~ "the results will also include items with Milano, Mailand or Milanas "
+#~ "listed as their geographic coverage."
+#~ msgstr ""
+#~ "omvatten de zoekresultaten ook objecten waarbij Milano, Mailand of "
+#~ "Milanas zijn opgenomen als geografische aanduiding."
+
+#~ msgid "is also possible. Just put"
+#~ msgstr "is ook mogelijk. Plaats hiervoor"
+
+#~ msgid "quotation marks"
+#~ msgstr "aanhalingstekens"
+
+#~ msgid "e.g."
+#~ msgstr "bijv."
+
+#~ msgid "around the phrase you want to find, or type"
+#~ msgstr "rond de term die u wilt vinden, of typ"
+
+#~ msgid "between the keywords (e.g."
+#~ msgstr "tussen de trefwoorden (bijv."
+
+#~ msgid "by typing"
+#~ msgstr "door het typen van"
+
+#~ msgid "in capital letters, followed by the word you want to omit (e.g."
+#~ msgstr ""
+#~ "in hoofdletters, gevolgd door het woord dat u uit wilt sluiten (bijv."
+
+#~ msgid "Another helpful search feature is"
+#~ msgstr "Een andere handige zoekfunctie is"
+
+#~ msgid "Auto completion"
+#~ msgstr "Automatisch aanvullen"
+
+#~ msgid ""
+#~ "Start typing a search term. Europeana will suggest words that may match "
+#~ "what you are thinking of. Just select the term you want and hit"
+#~ msgstr ""
+#~ "Begin een zoekterm te typen. Europeana geeft dan suggesties voor woorden "
+#~ "die mogelijk overeenkomen met wat u bedoelt. Selecteer vervolgens de "
+#~ "gewenste term die u wilt en klik"
+
+#~ msgid "Refine your search"
+#~ msgstr "Verfijn uw zoekopdracht"
+
+#~ msgid ""
+#~ "Once you have done an initial search, results can be narrowed down with "
+#~ "the"
+#~ msgstr ""
+#~ "Als u een eerste zoekactie heeft uitgevoerd, kunnen de resultaten beperkt "
+#~ "worden met de"
+
+#~ msgid ""
+#~ "functions. These are in the grey pane on the search results screen. You "
+#~ "can add more keywords to your search, thereby narrowing the search "
+#~ "results. Just type your keyword into the"
+#~ msgstr ""
+#~ "opties. Deze vindt u zijn in het grijze venster op het resultatenscherm. "
+#~ "U kunt extra termen toevoegen aan uw zoekvraag, en zo het aantal treffers "
+#~ "verkleinen. Typ eenvoudigweg uw trefwoord in het"
+
+#~ msgid "field and hit"
+#~ msgstr "veld en klik"
+
+#~ msgid "The keyword is displayed at the top of the pane, under"
+#~ msgstr "Het trefwoord wordt bovenaan het venster weergegeven, onder"
+
+#~ msgid "Matches for."
+#~ msgstr "Resultaten voor."
+
+#~ msgid ""
+#~ "To remove a keyword, hit the X icon next to the relevant keyword in the"
+#~ msgstr ""
+#~ "Klik om een trefwoord te verwijderen de X, naast het betreffende "
+#~ "trefwoord in de"
+
+#~ msgid "list."
+#~ msgstr "lijst."
+
+#~ msgid "You can also"
+#~ msgstr "U kunt ook"
+
+#~ msgid "filter your search results:"
+#~ msgstr "uw zoekresultaten filteren:"
+
+#~ msgid ""
+#~ "will display only objects of a selected media type (images, text, video, "
+#~ "sound or 3D). "
+#~ msgstr ""
+#~ "geeft alleen de objecten van een geselecteerd mediatype (afbeeldingen, "
+#~ "tekst, video, geluid of 3D)."
+
+#~ msgid "By language"
+#~ msgstr "Op taal"
+
+#~ msgid ""
+#~ "will display only objects with descriptions in selected languages, i.e. "
+#~ "the language of the institution that provided the object to Europeana."
+#~ msgstr ""
+#~ "geeft alleen de objecten met beschrijvingen in geselecteerde talen, nl. "
+#~ "de taal van de instelling die het object aan Europeana heeft geleverd."
+
+#~ msgid "By date"
+#~ msgstr "Op datum"
+
+#~ msgid "will display only objects with selected dates."
+#~ msgstr "geeft alleen de objecten met geselecteerde data."
+
+#~ msgid "By country"
+#~ msgstr "Op land"
+
+#~ msgid ""
+#~ "will display only objects from selected countries, i.e. the country of "
+#~ "the institution that provided the object to Europeana."
+#~ msgstr ""
+#~ "geeft alleen de objecten uit geselecteerde landen, nl. het land van de "
+#~ "instelling die het object aan Europeana heeft geleverd."
+
+#~ msgid ""
+#~ "will display objects labelled with the selected copyright label(s). This "
+#~ "copyright label indicates how you may reuse the digital object, including "
+#~ "the preview."
+#~ msgstr ""
+#~ "geeft alleen de objecten met de geselecteerde copyrightlabels. Deze "
+#~ "labels geven aan hoe u het digitale object en de preview mag hergebruiken."
+
+#~ msgid "will display only objects from selected institutions"
+#~ msgstr "toont alleen objecten van geselecteerde instellingen"
+
+#~ msgid ""
+#~ "Select the filter name, e.g. 'By language' to expand it. Then just use "
+#~ "the check boxes for the categories you wish the search results to "
+#~ "include. The results will refresh automatically. The filter will be added "
+#~ "to the"
+#~ msgstr ""
+#~ "Selecteer de filternaam, bijv. 'Op taal' om meer te zien. Gebruik "
+#~ "vervolgens de selectievakjes voor de categorieën die u op wilt nemen in "
+#~ "de zoekresultaten. De resultaten worden dan automatisch ververst. Het "
+#~ "filter wordt toegevoegd aan de"
+
+#~ msgid "list at the top of the pane."
+#~ msgstr "lijst bovenaan het venster."
+
+#~ msgid "To remove a filter, hit the X icon next to the item in the"
+#~ msgstr "Klik om een filter te verwijderen de X, naast het object in de"
+
+#~ msgid "list, or de-select the check box next to the filter category."
+#~ msgstr "lijst, of deselecteer het selectievakje naast de filter-categorie."
+
+#~ msgid "You can also select to"
+#~ msgstr "Een andere selectie-optie is het"
+
+#~ msgid ""
+#~ "This means items that have not come from a cultural institution but from "
+#~ "an individual user, for example, items contributed to the Europeana "
+#~ "1914-1918 project."
+#~ msgstr ""
+#~ "Hierbij gaat het om objecten die niet afkomstig zijn van een culturele "
+#~ "instelling, maar van een individuele gebruiker, zoals de bijgedragen aan "
+#~ "het project Europeana 1914-1918."
+
+#~ msgid "Share your search with friends by choosing"
+#~ msgstr "Deel uw zoekopdracht met vrienden met de functie"
+
+#~ msgid ""
+#~ "A full list of social media sharing options is presented. Just select one "
+#~ "you want. This also includes print and email options."
+#~ msgstr ""
+#~ "Een volledige lijst van sociale media wordt hiervoor getoond, evenals "
+#~ "print en e-mail opties. Maak hieruit eenvoudigweg uw keuze. "
 
 #, fuzzy
 #~ msgid "New &amp; Improved - Europeana 1914-1918"
@@ -6453,9 +5943,6 @@ msgstr ""
 
 #~ msgid "Previous Newsletters"
 #~ msgstr "Eerdere nieuwsbrieven"
-
-#~ msgid "Europeana - eNews"
-#~ msgstr "Europeana - eNieuws"
 
 #~ msgid ""
 #~ "Europeana produces a newsletter in English and releases important "
@@ -6944,13 +6431,6 @@ msgstr ""
 
 #~ msgid "This is your personal space on Europeana. With"
 #~ msgstr "Dit is uw persoonlijke omgeving binnen Europeana. Met"
-
-#~ msgid ""
-#~ "you can save your favourite items and searches, and add tags to items to "
-#~ "help separate them into different categories."
-#~ msgstr ""
-#~ "kunt u uw favoriete objecten en zoekopdrachten opslaan, en objecten "
-#~ "voorzien van tags, om deze onder te verdelen in verschillende categorieën."
 
 #~ msgid "How can I change my email address, username or password?"
 #~ msgstr "Hoe kan ik mijn e-mailadres, gebruikersnaam of wachtwoord wijzigen?"
