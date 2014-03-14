@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-03-12 12:01+0100\n"
+"POT-Creation-Date: 2014-03-14 14:51+0100\n"
 "PO-Revision-Date: 2014-02-11 14:46\n"
 "Last-Translator: Slovkian  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1455,12 +1455,14 @@ msgid "November"
 msgstr "November"
 
 #: templates/static_pages/aboutus_enews.html:23
+#, fuzzy
 msgid "Europe's culture - collected for you"
-msgstr ""
+msgstr "Za povratek na domačo stran Europeane kliknite tukaj"
 
 #: templates/static_pages/aboutus_enews.html:24
+#, fuzzy
 msgid "Discover Europeana's hand-picked collections"
-msgstr ""
+msgstr "Za povratek na domačo stran Europeane kliknite tukaj"
 
 #: templates/static_pages/aboutus_enews.html:25
 #: templates/static_pages/aboutus_enews.html:35
@@ -4472,6 +4474,11 @@ msgstr ""
 #: templates/static_pages/prop_file.html:1057
 msgid "Unregistered users may choose a maximum of 3 options."
 msgstr ""
+
+#: templates/static_pages/prop_file.html:1058
+#, fuzzy
+msgid "Request passsword"
+msgstr "Ponovno vnesite geslo"
 
 #: templates/static_pages/sitemap.html:4
 #, fuzzy
