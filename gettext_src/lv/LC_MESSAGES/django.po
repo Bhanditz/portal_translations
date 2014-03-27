@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-03-14 14:52+0100\n"
-"PO-Revision-Date: 2013-05-02 09:39\n"
+"POT-Creation-Date: 2014-03-27 10:59+0100\n"
+"PO-Revision-Date: 2014-03-25 09:28\n"
 "Last-Translator: Latvian  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -19,14 +19,14 @@ msgstr ""
 
 #: templates/api_leftmenu.html:3 templates/static_pages/europeana-api.html:4
 #: templates/static_pages/prop_file.html:63
-#: templates/static_pages/prop_file.html:823
 #: templates/static_pages/prop_file.html:824
+#: templates/static_pages/prop_file.html:825
 #: templates/static_pages/sitemap.html:51
 msgid "Europeana API"
 msgstr "Europeana API"
 
-#: templates/api_leftmenu.html:6 templates/static_pages/prop_file.html:995
-#: templates/static_pages/prop_file.html:996
+#: templates/api_leftmenu.html:6 templates/static_pages/prop_file.html:996
+#: templates/static_pages/prop_file.html:997
 #: templates/static_pages/sitemap.html:53
 msgid "Get an API-Key"
 msgstr "Dabūt API atslēgu"
@@ -36,9 +36,8 @@ msgid "API Console"
 msgstr "API konsole"
 
 #: templates/api_leftmenu.html:11 templates/static_pages/sitemap.html:59
-#, fuzzy
 msgid "Search Widget Wizard"
-msgstr "Attālinātās meklēšanas logrīks"
+msgstr "Meklēšanas vidžeta iestatīšanas vednis"
 
 #: templates/api_leftmenu.html:12 templates/static_pages/sitemap.html:60
 msgid "Europeana API Forum"
@@ -52,14 +51,14 @@ msgstr "Pārlūkot"
 
 #: templates/explore_leftmenu.html:5 templates/static_pages/prop_file.html:550
 #: templates/static_pages/prop_file.html:551
-#: templates/static_pages/prop_file.html:880
+#: templates/static_pages/prop_file.html:881
 #: templates/static_pages/sitemap.html:20
 msgid "Europeana Remix"
 msgstr "Europeana Remix"
 
 #: templates/explore_leftmenu.html:6 templates/static_pages/prop_file.html:554
 #: templates/static_pages/prop_file.html:555
-#: templates/static_pages/prop_file.html:869
+#: templates/static_pages/prop_file.html:870
 #: templates/static_pages/sitemap.html:17
 #: templates/static_pages/usingeuropeana_explore.html:14
 msgid "Exhibitions"
@@ -69,8 +68,8 @@ msgstr "Izstādes"
 #: templates/static_pages/prop_file.html:60
 #: templates/static_pages/prop_file.html:558
 #: templates/static_pages/prop_file.html:559
-#: templates/static_pages/prop_file.html:918
 #: templates/static_pages/prop_file.html:919
+#: templates/static_pages/prop_file.html:920
 #: templates/static_pages/sitemap.html:38
 #: templates/static_pages/sitemap.html:87
 #: templates/static_pages/usingeuropeana_explore.html:15
@@ -108,7 +107,7 @@ msgstr "Seko mums"
 #: templates/followus_leftmenu.html:5
 #: templates/static_pages/prop_file.html:622
 #: templates/static_pages/prop_file.html:623
-#: templates/static_pages/prop_file.html:873
+#: templates/static_pages/prop_file.html:874
 #: templates/static_pages/sitemap.html:18
 msgid "Blog"
 msgstr "Blogs"
@@ -143,28 +142,27 @@ msgstr "Par mums"
 msgid "Background"
 msgstr "Par projektu"
 
-#: templates/leftmenu.html:9 templates/static_pages/prop_file.html:923
-#: templates/static_pages/prop_file.html:924
-#, fuzzy
+#: templates/leftmenu.html:9 templates/static_pages/prop_file.html:924
+#: templates/static_pages/prop_file.html:925
 msgid "All providers"
-msgstr "Pēc saturu piegādātāja"
+msgstr "Visi piegādātāji"
 
 #: templates/leftmenu.html:10 templates/static_pages/aboutus_enews.html:11
-#: templates/static_pages/prop_file.html:928
 #: templates/static_pages/prop_file.html:929
+#: templates/static_pages/prop_file.html:930
 #: templates/static_pages/sitemap.html:40
 msgid "Previous newsletters"
 msgstr "Iepriekšējie informatīvie izdevumi"
 
 #: templates/leftmenu.html:12 templates/NOT/leftmenu_old.html:8
-#: templates/static_pages/prop_file.html:933
 #: templates/static_pages/prop_file.html:934
+#: templates/static_pages/prop_file.html:935
 msgid "Press Centre"
 msgstr "Preses centrs"
 
 #: templates/leftmenu.html:13 templates/NOT/leftmenu_old.html:9
-#: templates/static_pages/prop_file.html:938
 #: templates/static_pages/prop_file.html:939
+#: templates/static_pages/prop_file.html:940
 msgid "Jobs"
 msgstr "Darbi"
 
@@ -274,8 +272,8 @@ msgstr "Publiskā domēna līgums"
 #: templates/static_pages/prop_file.html:334
 #: templates/static_pages/prop_file.html:574
 #: templates/static_pages/prop_file.html:575
-#: templates/static_pages/prop_file.html:888
 #: templates/static_pages/prop_file.html:889
+#: templates/static_pages/prop_file.html:890
 #: templates/static_pages/sitemap.html:25
 #: templates/static_pages/usingeuropeana.html:9
 msgid "Help"
@@ -284,21 +282,21 @@ msgstr "Palīdzība"
 #: templates/usingeuropeana_leftmenu.html:5
 #: templates/static_pages/prop_file.html:578
 #: templates/static_pages/prop_file.html:579
-#: templates/static_pages/prop_file.html:892
 #: templates/static_pages/prop_file.html:893
+#: templates/static_pages/prop_file.html:894
 #: templates/static_pages/usingeuropeana.html:14
 #: templates/static_pages/usingeuropeana_results.html:22
 #: templates/static_pages/usingeuropeana_search.html:9
 #: templates/static_pages/usingeuropeana_search.html:13
 msgid "Searching Europeana"
-msgstr "Meklēšana Europeana"
+msgstr "Europeana meklēšana "
 
 #: templates/usingeuropeana_leftmenu.html:6
 #: templates/static_pages/prop_file.html:288
 #: templates/static_pages/prop_file.html:582
 #: templates/static_pages/prop_file.html:583
-#: templates/static_pages/prop_file.html:896
 #: templates/static_pages/prop_file.html:897
+#: templates/static_pages/prop_file.html:898
 #: templates/static_pages/sitemap.html:28
 #: templates/static_pages/usingeuropeana.html:16
 #: templates/static_pages/usingeuropeana_explore.html:9
@@ -309,8 +307,8 @@ msgstr "Europeana pārlūkošana"
 #: templates/usingeuropeana_leftmenu.html:8
 #: templates/static_pages/prop_file.html:586
 #: templates/static_pages/prop_file.html:587
-#: templates/static_pages/prop_file.html:900
 #: templates/static_pages/prop_file.html:901
+#: templates/static_pages/prop_file.html:902
 #: templates/static_pages/sitemap.html:29
 #: templates/static_pages/usingeuropeana.html:19
 #: templates/static_pages/usingeuropeana_results.html:9
@@ -321,8 +319,8 @@ msgstr "Europeana rezultāti"
 #: templates/usingeuropeana_leftmenu.html:9
 #: templates/static_pages/prop_file.html:590
 #: templates/static_pages/prop_file.html:591
-#: templates/static_pages/prop_file.html:904
 #: templates/static_pages/prop_file.html:905
+#: templates/static_pages/prop_file.html:906
 #: templates/static_pages/sitemap.html:30
 #: templates/static_pages/usingeuropeana.html:21
 #: templates/static_pages/usingeuropeana_myeuropeana.html:9
@@ -331,11 +329,10 @@ msgid "Using My Europeana"
 msgstr "Mana Europeana lietošana"
 
 #: templates/usingeuropeana_leftmenu.html:10
-#: templates/static_pages/prop_file.html:908
 #: templates/static_pages/prop_file.html:909
-#, fuzzy
+#: templates/static_pages/prop_file.html:910
 msgid "Configure your search widget"
-msgstr "filtrēt meklēšanas rezultātus:"
+msgstr "Konfigurēt jūsu meklēšanas vidžetu"
 
 #: templates/NOT/leftmenu_old.html:11
 msgid "eNews"
@@ -1576,18 +1573,16 @@ msgid "February"
 msgstr "Februāris"
 
 #: templates/static_pages/aboutus_enews.html:15
-#, fuzzy
 msgid "New digital resources on the First World War"
-msgstr "Izstāde: Pirmā Pasaules kara neizstāstītie stāsti"
+msgstr "Jauni digitālie resursi par Pirmo pasaules karu"
 
 #: templates/static_pages/aboutus_enews.html:16
 msgid "January"
-msgstr "janvāris"
+msgstr "Janvāris"
 
 #: templates/static_pages/aboutus_enews.html:16
-#, fuzzy
 msgid "Europeana Open Culture app now bigger and better!"
-msgstr "Europeana think culture"
+msgstr "'Europeana Open Culture' aplikācija tagad vēl lielāka un labāka!"
 
 #: templates/static_pages/aboutus_enews.html:22
 #: templates/static_pages/aboutus_enews.html:32
@@ -1599,7 +1594,7 @@ msgstr "Decembris"
 
 #: templates/static_pages/aboutus_enews.html:22
 msgid "Discover a virtual museum and a year of culture"
-msgstr ""
+msgstr "Atklāj virtuālo muzeju un kultūras gadu"
 
 #: templates/static_pages/aboutus_enews.html:23
 #: templates/static_pages/aboutus_enews.html:33
@@ -1612,9 +1607,8 @@ msgid "Europe's culture - collected for you"
 msgstr "Eiropas kultūra - apkopota tieši tev"
 
 #: templates/static_pages/aboutus_enews.html:24
-#, fuzzy
 msgid "Discover Europeana's hand-picked collections"
-msgstr "Jauniem objektiem Europeana kolekcijā"
+msgstr "Atklāj Europeana rūpīgi atlasītās kolekcijas"
 
 #: templates/static_pages/aboutus_enews.html:25
 #: templates/static_pages/aboutus_enews.html:35
@@ -1627,6 +1621,8 @@ msgstr "Jūnijs"
 msgid ""
 "Download free iPad app, explore great new content &amp; join Europeana 1989"
 msgstr ""
+"Lejupielādē bezmaksas iPad aplikāciju, iepazīsties ar lielisku jaunu saturu "
+"un pievienojies Europeana 1989"
 
 #: templates/static_pages/aboutus_enews.html:26
 #: templates/static_pages/aboutus_enews.html:36
@@ -1637,7 +1633,7 @@ msgstr "Aprīlis"
 
 #: templates/static_pages/aboutus_enews.html:26
 msgid "New look Europeana, Lithuania's buried secrets"
-msgstr ""
+msgstr "Jauna izskata Europeana, Lietuvas pazemes noslēpumi"
 
 #: templates/static_pages/aboutus_enews.html:42
 msgid "October"
@@ -1652,9 +1648,9 @@ msgstr "Europeana - Palīdzība"
 msgid "FAQs"
 msgstr "Biežāk uzdotie jautājumi"
 
-#: templates/static_pages/api-fields.html:23
+#: templates/static_pages/api-fields.html:30
 msgid "Return to API introduction page"
-msgstr ""
+msgstr "Atgriezties uz API ievadlapu"
 
 #: templates/static_pages/disclaimer.html:4
 msgid "Europeana - External links disclaimer"
@@ -1670,7 +1666,7 @@ msgid ""
 "Europeana's mission: to help our users discover and share in the inspiring "
 "diversity of Europe's cultural and scientific heritage."
 msgstr ""
-"Europeana vietnē jūs nereti atradīsit saites uz ārējām tīmekļa vietnēm, kas "
+"Europeana vietnē jūs nereti atradīsiet saites uz ārējām tīmekļa vietnēm, kas "
 "atbilst Europeana misijai – palīdzēt lietotājiem atklāt un kopīgi lietot "
 "Eiropas kultūras un zinātnes mantojuma iedvesmojošo dažādību."
 
@@ -1839,7 +1835,6 @@ msgstr ""
 "Europeanu savās valstīs un profesionālajās apvienībās."
 
 #: templates/static_pages/prop_file.html:14
-#, fuzzy
 msgid ""
 "These are the organisations that are contributing content - digitised "
 "paintings, books, broadcasts etc. Some of these contributors are  "
@@ -1848,12 +1843,12 @@ msgid ""
 "€™Orsay. The number of organisations contributing to an aggregator is shown "
 "in brackets after the aggregatorâ€™s name, e.g. Videoactive (10)"
 msgstr ""
-"Šīs ir tās organizācijas, kas piegādā saturu - digitalizētas gleznas, "
-"grāmatas, apraides u.c. Daži no šiem piegādātājiem ir agregatori*; lielākais "
-"no tiem ir Culture.fr, kas apkopo saturu no aptuveni 480  organizācijām "
-"Francijā, tajā skaitā - Luvras un d'Orsay muzeja. Organizāciju skaits, kuru "
-"saturu apkopo agregators, ir norādīts iekavās pēc agregatora nosaukuma, "
-"piemēram, Videoactive (10)."
+"Tās ir organizācijas, kas ir piegādājušas saturu - digitalizētas gleznas, "
+"grāmatas, TV un radio raidījumus, u.tml. Daži no piegādātājiem ir "
+"agregatori*, piemēram, Culture.fr ir lielākais agregators, kurš piegādā "
+"saturu no apmēram 480 organizācijām Francijā, to skaitā Luvra (Louvre) un "
+"Orsē muzeja (Musée d'Orsay). Agregatora aptverto organizāciju skaits ir "
+"redzams iekavās aiz agregatora nosaukuma, piemēram, Videoactive (10)"
 
 #: templates/static_pages/prop_file.html:15
 msgid ""
@@ -1902,8 +1897,8 @@ msgstr "Iziet"
 #: templates/static_pages/prop_file.html:25
 #: templates/static_pages/prop_file.html:642
 #: templates/static_pages/prop_file.html:643
-#: templates/static_pages/prop_file.html:961
 #: templates/static_pages/prop_file.html:962
+#: templates/static_pages/prop_file.html:963
 #: templates/static_pages/sitemap.html:12
 #: templates/static_pages/usingeuropeana_myeuropeana.html:10
 #: templates/static_pages/usingeuropeana_myeuropeana.html:11
@@ -2093,8 +2088,8 @@ msgstr ""
 "kolekcijām"
 
 #: templates/static_pages/prop_file.html:62
-#: templates/static_pages/prop_file.html:913
 #: templates/static_pages/prop_file.html:914
+#: templates/static_pages/prop_file.html:915
 #: templates/static_pages/sitemap.html:36
 msgid "About us"
 msgstr "Par mums"
@@ -2106,8 +2101,8 @@ msgstr "Europeana lietošana"
 #: templates/static_pages/prop_file.html:66
 #: templates/static_pages/prop_file.html:522
 #: templates/static_pages/prop_file.html:523
-#: templates/static_pages/prop_file.html:835
 #: templates/static_pages/prop_file.html:836
+#: templates/static_pages/prop_file.html:837
 #: templates/static_pages/sitemap.html:8
 msgid "Sitemap"
 msgstr "Lapas karte"
@@ -2123,8 +2118,8 @@ msgid "Language policy"
 msgstr "Valodu politika"
 
 #: templates/static_pages/prop_file.html:70
-#: templates/static_pages/prop_file.html:831
 #: templates/static_pages/prop_file.html:832
+#: templates/static_pages/prop_file.html:833
 msgid "Contact us"
 msgstr "Sazinieties ar mums"
 
@@ -2150,7 +2145,7 @@ msgstr "Pēc apraksta valodas"
 
 #: templates/static_pages/prop_file.html:76
 msgid "By providing country"
-msgstr "Pēc iesniedzējvalsts"
+msgstr "Pēc piegādātājvalsts"
 
 #: templates/static_pages/prop_file.html:77
 msgid "By year"
@@ -2371,13 +2366,13 @@ msgid "View in original context"
 msgstr "Skatīt oriģinālajā kontekstā"
 
 #: templates/static_pages/prop_file.html:134
-#: templates/static_pages/prop_file.html:821
+#: templates/static_pages/prop_file.html:822
 msgid "Provider"
 msgstr "Piegādātājs"
 
 #: templates/static_pages/prop_file.html:135
 #: templates/static_pages/prop_file.html:228
-#: templates/static_pages/prop_file.html:818
+#: templates/static_pages/prop_file.html:819
 #: templates/static_pages/storyline.html:49
 #: templates/static_pages/usingeuropeana_search.html:32
 msgid "Title"
@@ -2515,7 +2510,7 @@ msgid "Create an account"
 msgstr "Izveidot kontu"
 
 #: templates/static_pages/prop_file.html:166
-#: templates/static_pages/prop_file.html:984
+#: templates/static_pages/prop_file.html:985
 msgid "The link you used to complete registration is invalid or has expired."
 msgstr ""
 "Saite, ko lietojāt reģistrācijas pabeigšanai, nav derīga vai tās derīguma "
@@ -2712,7 +2707,7 @@ msgid "Is Part of"
 msgstr "Ir daļa no"
 
 #: templates/static_pages/prop_file.html:216
-#: templates/static_pages/prop_file.html:953
+#: templates/static_pages/prop_file.html:954
 msgid "Has part"
 msgstr "Ietverta daļa"
 
@@ -3333,7 +3328,7 @@ msgid "Powered By Europeana"
 msgstr "Nodrošina Europeana"
 
 #: templates/static_pages/prop_file.html:365
-#: templates/static_pages/prop_file.html:872
+#: templates/static_pages/prop_file.html:873
 msgid "Europeana Blog"
 msgstr "Europeana blogs"
 
@@ -3537,9 +3532,8 @@ msgstr ""
 
 #: templates/static_pages/prop_file.html:492
 #: templates/static_pages/prop_file.html:501
-#, fuzzy
 msgid "New &amp; Improved - Europeana 1914-1918"
-msgstr "Pārlūko Europeana 1914-1918"
+msgstr "Europeana 1914-1918 - jauns saturs un uzlabots izskats"
 
 #: templates/static_pages/prop_file.html:502
 msgid ""
@@ -3547,21 +3541,25 @@ msgid ""
 "the most important pan-European collection of original First World War "
 "source material."
 msgstr ""
+"Apskati jauno un uzlaboto Europeana 1914-1918 tīmekļa vietni un pārlūko "
+"nozīmīgāko paneiropeisko kolekciju par Pirmā pasaules kara oriģinālajiem "
+"materiāliem."
 
 #: templates/static_pages/prop_file.html:503
 msgid "Browse website"
-msgstr ""
+msgstr "Pārlūko tīmekļa vietni"
 
 #: templates/static_pages/prop_file.html:512
 msgid ""
 "Explore 13 unique curated exhibitions highlighting some of Europe's biggest "
 "cultural treasures."
 msgstr ""
+"Iepazīsti 13 unikālas izstādes par dažiem lielākajiem Eiropas kultūras "
+"dārgumiem."
 
 #: templates/static_pages/prop_file.html:513
-#, fuzzy
 msgid "Visit exhibitions"
-msgstr "virtuālās izstādes"
+msgstr "Apmeklē izstādes"
 
 #: templates/static_pages/prop_file.html:526
 #: templates/static_pages/prop_file.html:527
@@ -3582,8 +3580,8 @@ msgstr "Kontakti"
 
 #: templates/static_pages/prop_file.html:542
 #: templates/static_pages/prop_file.html:543
-#: templates/static_pages/prop_file.html:957
 #: templates/static_pages/prop_file.html:958
+#: templates/static_pages/prop_file.html:959
 #: templates/static_pages/sitemap.html:11
 msgid "Home"
 msgstr "Sākums"
@@ -3591,14 +3589,12 @@ msgstr "Sākums"
 #: templates/static_pages/prop_file.html:594
 #: templates/static_pages/sitemap.html:31
 #: templates/static_pages/usingeuropeana_searchwidget.html:9
-#, fuzzy
 msgid "How to configure your search widget"
-msgstr "Kas ir Europeana attālinātās meklēšanas logrīks?"
+msgstr "Kā konfigurēt meklēšanas vidžetu"
 
 #: templates/static_pages/prop_file.html:595
-#, fuzzy
 msgid "How to configure your search widhet"
-msgstr "Kas ir Europeana attālinātās meklēšanas logrīks?"
+msgstr "Kā konfigurēt meklēšanas vidžetu"
 
 #: templates/static_pages/prop_file.html:606
 #: templates/static_pages/prop_file.html:607
@@ -3826,9 +3822,8 @@ msgid "Download"
 msgstr "Lejuplādēt"
 
 #: templates/static_pages/prop_file.html:701
-#, fuzzy
 msgid "User contributed content"
-msgstr "Lietotāju radīts saturs"
+msgstr "Lietotāju sagatavotais saturs"
 
 #: templates/static_pages/prop_file.html:702
 msgid "Play"
@@ -3917,7 +3912,7 @@ msgid "Latest on"
 msgstr "Jaunākais no"
 
 #: templates/static_pages/prop_file.html:732
-#: templates/static_pages/prop_file.html:977
+#: templates/static_pages/prop_file.html:978
 #: templates/static_pages/usingeuropeana_search.html:69
 msgid "Share"
 msgstr "Koplietot"
@@ -3940,7 +3935,7 @@ msgid "Sign-up here"
 msgstr "Parakstīties šeit"
 
 #: templates/static_pages/prop_file.html:738
-#: templates/static_pages/prop_file.html:998
+#: templates/static_pages/prop_file.html:999
 msgid "Name"
 msgstr "Vārds"
 
@@ -4054,571 +4049,541 @@ msgstr "Pieprasīt URL"
 msgid "JSON response"
 msgstr "JSON atbilde"
 
-#: templates/static_pages/prop_file.html:817
+#: templates/static_pages/prop_file.html:816
+msgid "Additional parameters"
+msgstr "Papildu parametri"
+
+#: templates/static_pages/prop_file.html:818
 msgid "Search also for:"
 msgstr "Meklēt arī:"
 
-#: templates/static_pages/prop_file.html:819
+#: templates/static_pages/prop_file.html:820
 msgid "Who"
 msgstr "Kurš"
 
-#: templates/static_pages/prop_file.html:820
+#: templates/static_pages/prop_file.html:821
 msgid "What"
 msgstr "Kas"
 
-#: templates/static_pages/prop_file.html:822
-#, fuzzy
+#: templates/static_pages/prop_file.html:823
 msgid "api-introduction.html"
-msgstr "Ievads"
-
-#: templates/static_pages/prop_file.html:825
-#: templates/static_pages/prop_file.html:829
-#: templates/static_pages/prop_file.html:833
-#: templates/static_pages/prop_file.html:837
-msgid "_self"
-msgstr ""
+msgstr "api-introduction.html"
 
 #: templates/static_pages/prop_file.html:826
-msgid "rights/terms-and-policies.html"
-msgstr ""
+#: templates/static_pages/prop_file.html:830
+#: templates/static_pages/prop_file.html:834
+#: templates/static_pages/prop_file.html:838
+msgid "_self"
+msgstr "_self"
 
 #: templates/static_pages/prop_file.html:827
+msgid "rights/terms-and-policies.html"
+msgstr "rights/terms-and-policies.html"
+
 #: templates/static_pages/prop_file.html:828
+#: templates/static_pages/prop_file.html:829
 msgid "Terms of use &amp; Policies"
 msgstr "Lietošanas noteikumi & politika"
 
-#: templates/static_pages/prop_file.html:830
-#, fuzzy
+#: templates/static_pages/prop_file.html:831
 msgid "contact.html"
-msgstr "kontaktformu"
+msgstr "contact.html"
 
-#: templates/static_pages/prop_file.html:834
-#, fuzzy
+#: templates/static_pages/prop_file.html:835
 msgid "sitemap.html"
-msgstr "Lapas karte"
+msgstr "sitemap.html"
 
-#: templates/static_pages/prop_file.html:839
+#: templates/static_pages/prop_file.html:840
 #: templates/static_pages/usingeuropeana_myeuropeana.html:17
 msgid "API keys"
 msgstr "API atslēgas"
 
-#: templates/static_pages/prop_file.html:840
+#: templates/static_pages/prop_file.html:841
 msgid "No API key"
 msgstr "Nav API atslēgas"
 
-#: templates/static_pages/prop_file.html:841
+#: templates/static_pages/prop_file.html:842
 msgid "API key"
 msgstr "API atslēga"
 
-#: templates/static_pages/prop_file.html:842
+#: templates/static_pages/prop_file.html:843
 msgid "Private key"
 msgstr "Privātā atslēga"
 
-#: templates/static_pages/prop_file.html:843
+#: templates/static_pages/prop_file.html:844
 msgid "Usage limit"
 msgstr "Izmantošanas ierobežojums"
 
-#: templates/static_pages/prop_file.html:844
+#: templates/static_pages/prop_file.html:845
 msgid "Role"
 msgstr "Loma"
 
-#: templates/static_pages/prop_file.html:845
+#: templates/static_pages/prop_file.html:846
 msgid "Administrator's page"
 msgstr "Administratora lapa"
 
-#: templates/static_pages/prop_file.html:846
-msgid "Congratulations! You are now registered for Europeana's API."
-msgstr ""
-
 #: templates/static_pages/prop_file.html:847
-#, fuzzy
-msgid "Your API key is"
-msgstr "Nav API atslēgas"
+msgid "Congratulations! You are now registered for Europeana's API."
+msgstr "Apsveicam, Jūs tagad esat reģistrējies Europeana API."
 
 #: templates/static_pages/prop_file.html:848
-#, fuzzy
-msgid "Your private key is"
-msgstr "Privātā atslēga"
+msgid "Your API key is"
+msgstr "Jūsu API atslēga ir "
 
-#: templates/static_pages/prop_file.html:850
+#: templates/static_pages/prop_file.html:849
+msgid "Your private key is"
+msgstr "Jūsu privātā atslēga ir"
+
+#: templates/static_pages/prop_file.html:851
 msgid "Remove API key"
 msgstr "Aizvākt API atslēgu"
 
-#: templates/static_pages/prop_file.html:851
+#: templates/static_pages/prop_file.html:852
 msgid "Limit"
 msgstr "Ierobežojums"
 
-#: templates/static_pages/prop_file.html:852
+#: templates/static_pages/prop_file.html:853
 msgid "Remove user"
 msgstr "Aizvākt lietotāju"
 
-#: templates/static_pages/prop_file.html:853
+#: templates/static_pages/prop_file.html:854
 msgid "Block user"
 msgstr "Bloķēt lietotāju"
 
-#: templates/static_pages/prop_file.html:854
+#: templates/static_pages/prop_file.html:855
 msgid "Export API keys to CSV"
 msgstr "Eksportēt API atslēgas uz CSV"
 
-#: templates/static_pages/prop_file.html:855
+#: templates/static_pages/prop_file.html:856
 msgid "Export users to CSV"
 msgstr "Eksportēt lietotājus uz CSV"
 
-#: templates/static_pages/prop_file.html:856
+#: templates/static_pages/prop_file.html:857
 msgid "User name"
 msgstr "Lietotājvārds"
 
-#: templates/static_pages/prop_file.html:857
+#: templates/static_pages/prop_file.html:858
 msgid "Registration"
 msgstr "Reģistrācija"
 
-#: templates/static_pages/prop_file.html:859
+#: templates/static_pages/prop_file.html:860
 msgid "Visit the website of"
 msgstr "Apmeklē tīmekļa vietni"
 
-#: templates/static_pages/prop_file.html:860
+#: templates/static_pages/prop_file.html:861
 msgid "View the latest content from our partners"
 msgstr "Apskati jaunāko saturu no mūsu partneriem"
 
-#: templates/static_pages/prop_file.html:864
 #: templates/static_pages/prop_file.html:865
+#: templates/static_pages/prop_file.html:866
 #: templates/static_pages/sitemap.html:15
 msgid "Other Europeana Sites"
 msgstr "Citas Europeana vietnes"
 
-#: templates/static_pages/prop_file.html:868
+#: templates/static_pages/prop_file.html:869
 msgid "Europeana Exhibitions"
 msgstr "Europeana izstādes"
 
-#: templates/static_pages/prop_file.html:876
+#: templates/static_pages/prop_file.html:877
 #: templates/static_pages/sitemap.html:19
 msgid "Europeana 1914-1918"
 msgstr "Europeana 1914-1918"
 
-#: templates/static_pages/prop_file.html:881
+#: templates/static_pages/prop_file.html:882
 msgid "Remix"
 msgstr "Remix"
 
-#: templates/static_pages/prop_file.html:884
+#: templates/static_pages/prop_file.html:885
 #: templates/static_pages/sitemap.html:21
 msgid "Europeana Professional"
 msgstr "Profesionālā Europeana"
 
-#: templates/static_pages/prop_file.html:885
+#: templates/static_pages/prop_file.html:886
 msgid "Professional"
 msgstr "Profesionālā"
 
-#: templates/static_pages/prop_file.html:945
+#: templates/static_pages/prop_file.html:946
 msgid "Change limit for an API key"
 msgstr "Mainīt API atslēgas limitu"
 
-#: templates/static_pages/prop_file.html:946
+#: templates/static_pages/prop_file.html:947
 msgid "Company or Institution"
 msgstr "Kompānija vai institūcija"
 
-#: templates/static_pages/prop_file.html:947
+#: templates/static_pages/prop_file.html:948
 msgid "Telephone contact"
 msgstr "Tālrunis"
 
-#: templates/static_pages/prop_file.html:948
+#: templates/static_pages/prop_file.html:949
 msgid "Address"
 msgstr "Adrese"
 
-#: templates/static_pages/prop_file.html:949
+#: templates/static_pages/prop_file.html:950
 msgid "I confirm that I have read and agree to the"
 msgstr "Es apstiprinu, ka esmu izlasījis un piekrītu"
 
-#: templates/static_pages/prop_file.html:950
+#: templates/static_pages/prop_file.html:951
 msgid "Next in sequence"
 msgstr "Nākamais"
 
-#: templates/static_pages/prop_file.html:951
+#: templates/static_pages/prop_file.html:952
 msgid "Date of creation"
 msgstr "Radīšanas datējums"
 
-#: templates/static_pages/prop_file.html:952
+#: templates/static_pages/prop_file.html:953
 msgid "Is part of"
 msgstr "Ir daļa no"
 
-#: templates/static_pages/prop_file.html:963
+#: templates/static_pages/prop_file.html:964
 msgid "Titles"
 msgstr "Nosaukumi"
 
-#: templates/static_pages/prop_file.html:964
+#: templates/static_pages/prop_file.html:965
 msgid "Places"
 msgstr "Vietas"
 
-#: templates/static_pages/prop_file.html:965
+#: templates/static_pages/prop_file.html:966
 msgid "Dates/Periods"
 msgstr "Datējumi/periodi"
 
-#: templates/static_pages/prop_file.html:966
+#: templates/static_pages/prop_file.html:967
 msgid "Subjects"
 msgstr "Priekšmeti"
 
-#: templates/static_pages/prop_file.html:967
+#: templates/static_pages/prop_file.html:968
 msgid "Creators"
 msgstr "Radītāji"
 
-#: templates/static_pages/prop_file.html:968
+#: templates/static_pages/prop_file.html:969
 msgid "All fields"
 msgstr "Visi lauki"
 
-#: templates/static_pages/prop_file.html:969
+#: templates/static_pages/prop_file.html:970
 msgid "Featured Item"
 msgstr "Ieteiktais objekts"
 
-#: templates/static_pages/prop_file.html:970
+#: templates/static_pages/prop_file.html:971
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "Featured Partner"
 msgstr "Ieteiktais partneris"
 
-#: templates/static_pages/prop_file.html:971
+#: templates/static_pages/prop_file.html:972
 msgid "Click here for last page of results"
 msgstr "Klikšķini šeit, lai iegūtu rezultātu pēdējo lapu"
 
-#: templates/static_pages/prop_file.html:972
+#: templates/static_pages/prop_file.html:973
 #: templates/static_pages/usingeuropeana_results.html:24
 msgid "Results per page"
 msgstr "Rezultātu skaits lapā"
 
-#: templates/static_pages/prop_file.html:973
+#: templates/static_pages/prop_file.html:974
 #: templates/static_pages/usingeuropeana_search.html:49
 msgid "Add more keywords"
 msgstr "Pievienot vēl atslēgvārdus"
 
-#: templates/static_pages/prop_file.html:974
+#: templates/static_pages/prop_file.html:975
 msgid "+ Add"
 msgstr "+ Pievienot"
 
-#: templates/static_pages/prop_file.html:975
+#: templates/static_pages/prop_file.html:976
 msgid "Field of work"
 msgstr "Darba lauks"
 
-#: templates/static_pages/prop_file.html:976
+#: templates/static_pages/prop_file.html:977
 msgid "Please, select"
 msgstr "Lūdzu, atzīmē"
 
-#: templates/static_pages/prop_file.html:978
+#: templates/static_pages/prop_file.html:979
 msgid "Please try another search later."
 msgstr "Lūdzu mēģiniet atkārtot meklēšanu vēlāk."
 
-#: templates/static_pages/prop_file.html:979
+#: templates/static_pages/prop_file.html:980
 msgid "Unable to find the requested page"
 msgstr "Pieprasīto lapu nevarēja atrast"
 
-#: templates/static_pages/prop_file.html:980
+#: templates/static_pages/prop_file.html:981
 msgid "Alert:"
 msgstr "Paziņojums:"
 
-#: templates/static_pages/prop_file.html:981
+#: templates/static_pages/prop_file.html:982
 msgid "Unable to find the requested Europeana Record."
 msgstr "Pieprasīto Europeana ierakstu nevarēja atrast."
 
-#: templates/static_pages/prop_file.html:982
+#: templates/static_pages/prop_file.html:983
 msgid "This item has been withdrawn by the provider."
 msgstr "Šo vienību piegādātājs ir atsaucis."
 
-#: templates/static_pages/prop_file.html:983
+#: templates/static_pages/prop_file.html:984
 msgid "Requested Europeana Record is not yet indexed."
 msgstr "Pieprasītais Europeana ieraksts vēl nav noindeksēts."
 
-#: templates/static_pages/prop_file.html:985
+#: templates/static_pages/prop_file.html:986
 msgid "Please register your email again"
 msgstr "Lūdzu ierakstiet savu e-pastu vēlreiz"
 
-#: templates/static_pages/prop_file.html:986
+#: templates/static_pages/prop_file.html:987
 msgid "to finish registration."
 msgstr "lai pabeigtu reģistrāciju"
 
-#: templates/static_pages/prop_file.html:987
+#: templates/static_pages/prop_file.html:988
 msgid "Unable to fullfill your request due to malformed query parameters."
 msgstr ""
 "Pieprasījumu nevarēja izpildīt, jo pieprasījuma parametri ir ievadīti "
 "nepareizi."
 
-#: templates/static_pages/prop_file.html:988
+#: templates/static_pages/prop_file.html:989
 msgid "Unable to get a response from the Search Engine."
 msgstr "Meklētājs neatbild."
 
-#: templates/static_pages/prop_file.html:989
+#: templates/static_pages/prop_file.html:990
 msgid "Unable to fulfill your request due to a malformed query syntax."
 msgstr ""
 "Pieprasījumu nevarēja izpildīt, jo pieprasījumam ir nepareiza sintakse."
 
-#: templates/static_pages/prop_file.html:990
+#: templates/static_pages/prop_file.html:991
 msgid "We are unable to change the interface to the requested language."
 msgstr "Saskarnei nav tulkojuma pieprasītajā valodā."
 
-#: templates/static_pages/prop_file.html:991
+#: templates/static_pages/prop_file.html:992
 msgid "Please try another language from the dropdown list."
 msgstr "Lūdzu no saraksta izvēlieties citu valodu."
 
-#: templates/static_pages/prop_file.html:992
+#: templates/static_pages/prop_file.html:993
 msgid "Number of results shown on the page"
 msgstr "Lapā atrādāmo rezultātu skaits"
 
-#: templates/static_pages/prop_file.html:999
-msgid "API-key"
-msgstr ""
-
 #: templates/static_pages/prop_file.html:1000
+msgid "API-key"
+msgstr "API atslēga"
+
+#: templates/static_pages/prop_file.html:1001
 msgid "Number of calls"
-msgstr ""
+msgstr "Izsaukumu skaits"
 
-#: templates/static_pages/prop_file.html:1002
 #: templates/static_pages/prop_file.html:1003
-msgid "Can I use it?"
-msgstr ""
-
 #: templates/static_pages/prop_file.html:1004
-#, fuzzy
-msgid "Yes, with attribution"
-msgstr "Atsauce"
+msgid "Can I use it?"
+msgstr "Vai es varu to izmantot?"
 
 #: templates/static_pages/prop_file.html:1005
-#, fuzzy
-msgid "Yes, with restrictions"
-msgstr "Atsauce"
+msgid "Yes, with attribution"
+msgstr "Jā, ar atsauci"
 
 #: templates/static_pages/prop_file.html:1006
-msgid "Only with permission"
-msgstr ""
+msgid "Yes, with restrictions"
+msgstr "Jā, ar ierobežojumiem"
 
-#: templates/static_pages/prop_file.html:1008
-#, fuzzy
-msgid "Export API users to CSV"
-msgstr "Eksportēt lietotājus uz CSV"
+#: templates/static_pages/prop_file.html:1007
+msgid "Only with permission"
+msgstr "Tikai ar atļauju"
 
 #: templates/static_pages/prop_file.html:1009
-#, fuzzy
-msgid "Export API users to Excel"
-msgstr "Eksportēt lietotājus uz CSV"
+msgid "Export API users to CSV"
+msgstr "Eksportēt API lietotājus uz CSV"
 
-#: templates/static_pages/prop_file.html:1011
-msgid "It looks like your browser is set to"
-msgstr ""
+#: templates/static_pages/prop_file.html:1010
+msgid "Export API users to Excel"
+msgstr "Eksportēt API lietotājus uz Excel"
 
 #: templates/static_pages/prop_file.html:1012
-msgid "would you like the interface to be in"
-msgstr ""
+msgid "It looks like your browser is set to"
+msgstr "Izskatās, ka Jūsu pārlūkprogramma ir iestatīta uz"
 
 #: templates/static_pages/prop_file.html:1013
-#, fuzzy
-msgid "English"
-msgstr "angļu (eng)"
+msgid "would you like the interface to be in"
+msgstr "vai vēlaties, lai saskarne būtu "
 
 #: templates/static_pages/prop_file.html:1014
-msgid "Basque"
-msgstr ""
+msgid "English"
+msgstr "Angļu"
 
 #: templates/static_pages/prop_file.html:1015
-#, fuzzy
-msgid "Bulgarian"
-msgstr "Bulgārija"
+msgid "Basque"
+msgstr "Basku"
 
 #: templates/static_pages/prop_file.html:1016
-msgid "Catalan"
-msgstr ""
+msgid "Bulgarian"
+msgstr "Bulgāru"
 
 #: templates/static_pages/prop_file.html:1017
-msgid "Czech"
-msgstr ""
+msgid "Catalan"
+msgstr "Katalāņu"
 
 #: templates/static_pages/prop_file.html:1018
-#, fuzzy
-msgid "Danish"
-msgstr "dāņu (dan)"
+msgid "Czech"
+msgstr "Čehu"
 
 #: templates/static_pages/prop_file.html:1019
-#, fuzzy
-msgid "German"
-msgstr "Vācija"
+msgid "Danish"
+msgstr "Dāņu"
 
 #: templates/static_pages/prop_file.html:1020
-#, fuzzy
-msgid "Greek"
-msgstr "Grieķija"
+msgid "German"
+msgstr "Vācu"
 
 #: templates/static_pages/prop_file.html:1021
-#, fuzzy
-msgid "Spanish"
-msgstr "spāņu (esp)"
+msgid "Greek"
+msgstr "Grieķu"
 
 #: templates/static_pages/prop_file.html:1022
-#, fuzzy
-msgid "Estonian"
-msgstr "Igaunija"
+msgid "Spanish"
+msgstr "Spāņu"
 
 #: templates/static_pages/prop_file.html:1023
-#, fuzzy
-msgid "French"
-msgstr "franču (fre)"
+msgid "Estonian"
+msgstr "Igauņu"
 
 #: templates/static_pages/prop_file.html:1024
-msgid "Irish"
-msgstr ""
+msgid "French"
+msgstr "Franču"
 
 #: templates/static_pages/prop_file.html:1025
-#, fuzzy
-msgid "Croatian"
-msgstr "Horvātija"
+msgid "Irish"
+msgstr "Īru"
 
 #: templates/static_pages/prop_file.html:1026
-#, fuzzy
-msgid "Icelandic"
-msgstr "Islande"
+msgid "Croatian"
+msgstr "Horvātu"
 
 #: templates/static_pages/prop_file.html:1027
-#, fuzzy
-msgid "Italian"
-msgstr "itāliešu (ita)"
+msgid "Icelandic"
+msgstr "Islandiešu"
 
 #: templates/static_pages/prop_file.html:1028
-#, fuzzy
-msgid "Lithuanian"
-msgstr "Lietuva"
+msgid "Italian"
+msgstr "Itāliešu"
 
 #: templates/static_pages/prop_file.html:1029
-#, fuzzy
-msgid "Latvian"
-msgstr "Latvija"
+msgid "Lithuanian"
+msgstr "Lietuviešu"
 
 #: templates/static_pages/prop_file.html:1030
-#, fuzzy
-msgid "Hungarian"
-msgstr "ungāru (hun)"
+msgid "Latvian"
+msgstr "Latviešu"
 
 #: templates/static_pages/prop_file.html:1031
-#, fuzzy
-msgid "Maltese"
-msgstr "maltiešu (mlt)"
+msgid "Hungarian"
+msgstr "Ungāru"
 
 #: templates/static_pages/prop_file.html:1032
-#, fuzzy
-msgid "Dutch"
-msgstr "holandiešu (dut)"
+msgid "Maltese"
+msgstr "Maltiešu"
 
 #: templates/static_pages/prop_file.html:1033
-#, fuzzy
-msgid "Norwegian"
-msgstr "norvēģu (nor)"
+msgid "Dutch"
+msgstr "Holandiešu"
 
 #: templates/static_pages/prop_file.html:1034
-#, fuzzy
-msgid "Polish"
-msgstr "poļu (pol)"
+msgid "Norwegian"
+msgstr "Norvēģu"
 
 #: templates/static_pages/prop_file.html:1035
-#, fuzzy
-msgid "Romanian"
-msgstr "Rumānija"
+msgid "Polish"
+msgstr "Poļu"
 
 #: templates/static_pages/prop_file.html:1036
-#, fuzzy
-msgid "Russian"
-msgstr "krievu (rus)"
+msgid "Romanian"
+msgstr "Rumāņu"
 
 #: templates/static_pages/prop_file.html:1037
-#, fuzzy
-msgid "Slovene"
-msgstr "Slovēnija"
+msgid "Russian"
+msgstr "Krievu"
 
 #: templates/static_pages/prop_file.html:1038
-#, fuzzy
-msgid "Slovak"
-msgstr "Slovākija"
+msgid "Slovene"
+msgstr "Slovēņu"
 
 #: templates/static_pages/prop_file.html:1039
-#, fuzzy
-msgid "Finnish"
-msgstr "somu (fin)"
+msgid "Slovak"
+msgstr "Slovaku"
 
 #: templates/static_pages/prop_file.html:1040
-#, fuzzy
-msgid "Swedish"
-msgstr "Zviedrija"
+msgid "Finnish"
+msgstr "Somu"
 
 #: templates/static_pages/prop_file.html:1041
-#, fuzzy
-msgid "Ukranian"
-msgstr "Ukraina"
+msgid "Swedish"
+msgstr "Zviedru"
 
-#: templates/static_pages/prop_file.html:1043
-#, fuzzy
-msgid "no"
-msgstr "ne"
+#: templates/static_pages/prop_file.html:1042
+msgid "Ukranian"
+msgstr "Ukraiņu"
 
 #: templates/static_pages/prop_file.html:1044
-msgid "yes"
-msgstr ""
+msgid "no"
+msgstr "nē"
 
-#: templates/static_pages/prop_file.html:1046
-#, fuzzy
-msgid "Language settings"
-msgstr "Valoda"
+#: templates/static_pages/prop_file.html:1045
+msgid "yes"
+msgstr "jā"
 
 #: templates/static_pages/prop_file.html:1047
-#, fuzzy
-msgid "Automatically translate item pages into:"
-msgstr "Automātiski pievienoti semantiskie tagi"
+msgid "Language settings"
+msgstr "Valodas uzstādījumi"
 
 #: templates/static_pages/prop_file.html:1048
-#, fuzzy
-msgid "Auto translate items into"
-msgstr "Tulkot vienības detaļas"
+msgid "Automatically translate item pages into:"
+msgstr "Automātiski tulkot vienības lapas uz:"
 
 #: templates/static_pages/prop_file.html:1049
-#, fuzzy
-msgid "Automatically translate search keywords into:"
-msgstr "Automātiski pievienoti semantiskie tagi"
+msgid "Auto translate items into"
+msgstr "Automātiski tulkot vienības uz"
 
 #: templates/static_pages/prop_file.html:1050
+msgid "Automatically translate search keywords into:"
+msgstr "Automātiski tulkot meklēšanas atslēgvārdus uz:"
+
+#: templates/static_pages/prop_file.html:1051
 msgid ""
 "For registered users, you can choose a maximum of 6 options. For "
 "unregistered users, you can choose a maximum of 3 options."
 msgstr ""
-
-#: templates/static_pages/prop_file.html:1051
-msgid "Submit"
-msgstr ""
+"Reģistrētiem lietotājiem ir pieejamas maksimums 6 izvēles. Nereģistrētiem "
+"lietotājiem ir pieejamas maksimums 3 izvēles."
 
 #: templates/static_pages/prop_file.html:1052
-#, fuzzy
-msgid "Incorrect password."
-msgstr "Aizmirsu paroli"
+msgid "Submit"
+msgstr "Iesniegt"
 
 #: templates/static_pages/prop_file.html:1053
-#, fuzzy
+msgid "Incorrect password."
+msgstr "Nepareiza parole."
+
+#: templates/static_pages/prop_file.html:1054
 msgid ""
 "Log into My Europeana to save your favourite items, searches, tags and "
 "translate search keywords into other languages."
 msgstr ""
-"jūs varat saglabāt sevis izvēlētus objektus un meklēšanas pieprasījumus un "
-"pievienot tiem tagus, lai sašķirotu tos dažādās kategorijās."
-
-#: templates/static_pages/prop_file.html:1054
-#, fuzzy
-msgid "Please enter your username."
-msgstr "Lūdzu ierakstiet savu e-pastu vēlreiz"
+"Pieslēdzieties 'Mana Europeana', lai saglabātu iepatikušās vienības, "
+"meklējumus, tagus un tulkotu meklēšanas atslēgvārdus citās valodās."
 
 #: templates/static_pages/prop_file.html:1055
-#, fuzzy
-msgid "Please enter your password."
-msgstr "Lūdzu ierakstiet savu e-pastu vēlreiz"
+msgid "Please enter your username."
+msgstr "Lūdzu ievadiet savu lietotājvārdu."
 
 #: templates/static_pages/prop_file.html:1056
-msgid "Registered users may choose a maximum of 6 options."
-msgstr ""
+msgid "Please enter your password."
+msgstr "Lūdzu ievadiet savu paroli."
 
 #: templates/static_pages/prop_file.html:1057
-msgid "Unregistered users may choose a maximum of 3 options."
-msgstr ""
+msgid "Registered users may choose a maximum of 6 options."
+msgstr "Reģistrētiem lietotājiem ir pieejamas maksimums 6 izvēles."
 
 #: templates/static_pages/prop_file.html:1058
-#, fuzzy
+msgid "Unregistered users may choose a maximum of 3 options."
+msgstr "Nereģistrētiem lietotājiem ir pieejamas maksimums 3 izvēles."
+
+#: templates/static_pages/prop_file.html:1059
+msgid "Clear selection"
+msgstr "Notīrīt izvēli"
+
+#: templates/static_pages/prop_file.html:1060
 msgid "Request passsword"
-msgstr "Atkārtot paroli"
+msgstr "Pieprasīt paroli"
+
+#: templates/static_pages/prop_file.html:1061
+msgid "Invalid credentials"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:4
 msgid "Europeana - Sitemap"
@@ -4629,9 +4594,8 @@ msgid "Searching in Europeana"
 msgstr "Meklēšana Europeana"
 
 #: templates/static_pages/sitemap.html:39
-#, fuzzy
 msgid "All Providers"
-msgstr "Piegādātāji"
+msgstr "Visi piegādātāji"
 
 #: templates/static_pages/sitemap.html:41
 msgid "Press Centre (on Europeana Professional)"
@@ -4646,18 +4610,16 @@ msgid "Partners (on Europeana Professional)"
 msgstr "Partneri (Profesionālā Europeana)"
 
 #: templates/static_pages/sitemap.html:56
-#, fuzzy
 msgid "Working with the API"
-msgstr "Sadarbība ar Europeana"
+msgstr "Strādā ar API"
 
 #: templates/static_pages/sitemap.html:57
-#, fuzzy
 msgid "Latest changes"
-msgstr "Jaunākais no"
+msgstr "Pēdējās izmaiņas"
 
 #: templates/static_pages/sitemap.html:58
 msgid "Sample Code and Libraries"
-msgstr ""
+msgstr "Parauga kods un bibliotēkas"
 
 #: templates/static_pages/sitemap.html:61
 msgid "API Methods"
@@ -4696,47 +4658,40 @@ msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
 msgstr "Vienošanās par Europeana datu apmaiņu (Profesionālā Europeana)"
 
 #: templates/static_pages/sitemap.html:115
-#, fuzzy
 msgid "Free Access - no-reuse"
-msgstr "Brīva piekļuve"
+msgstr "Brīva pieeja - Bez atkārtotas izmantošanas"
 
 #: templates/static_pages/sitemap.html:116
-#, fuzzy
 msgid "Rights Reserved - Restricted access"
-msgstr "Visas tiesības aizsargātas - Ierobežota piekļuve"
+msgstr "Tiesības rezervētas - Ierobežota pieeja"
 
 #: templates/static_pages/sitemap.html:117
-#, fuzzy
 msgid "Paid Access - no re-use"
-msgstr "Maksas piekļuve"
+msgstr "Maksas pieeja - Bez atkārtotas izmantošanas"
 
 #: templates/static_pages/sitemap.html:118
 msgid "Unknown copyright status"
 msgstr "Nezināms autortiesību statuss"
 
 #: templates/static_pages/sitemap.html:119
-#, fuzzy
 msgid "Orphan work - Free access"
-msgstr "Visas tiesības aizsargātas - Brīvpieeja"
+msgstr "Bāreņdarbs - Brīva pieeja"
 
 #: templates/static_pages/sitemap.html:120
-#, fuzzy
 msgid "Orphan work"
-msgstr "Visas tiesības aizsargātas - Brīvpieeja"
+msgstr "Bāreņdarbs"
 
 #: templates/static_pages/sitemap.html:121
 msgid "Out of copyright - non commercial re-use"
-msgstr ""
+msgstr "Autortiesības beigušās - Nekomerciālai atkārtotai izmantošanai"
 
 #: templates/static_pages/sitemap.html:127
-#, fuzzy
 msgid "Europeana Semantic Elements (ESE)"
-msgstr "Europeana meklēšanas logrīks"
+msgstr "Europeana semantiskie elementi (ESE)"
 
 #: templates/static_pages/sitemap.html:128
-#, fuzzy
 msgid "Europeana metadata schemas"
-msgstr "Europeana metadatiem"
+msgstr "Europeana metadatu shēmas"
 
 #: templates/static_pages/storyline.html:4
 msgid "Europeana - Storyline and credits"
@@ -6060,23 +6015,25 @@ msgstr ""
 "izvēlies vēlamo. Tas ietver arī drukas un nosūtīšanas uz e-pastu iespējas."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:3
-#, fuzzy
 msgid "Europeana - How to configure your search widget"
-msgstr "Kas ir Europeana attālinātās meklēšanas logrīks?"
+msgstr "Europeana - Kā konfigurēt meklēšanas vidžetu"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:10
 msgid "You can add a Europeana search facility to your blog or website."
 msgstr ""
+"Jūs varat pievienot Europeana meklēšanas rīku savam blogam vai tīmekļa "
+"vietnei."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:10
 msgid "Our simple wizard"
-msgstr ""
+msgstr "Mūsu vienkāršais iestatīšanas vednis"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:10
 msgid ""
 "takes you through the process step-by-step and gives you a snippet of code "
 "to embed."
 msgstr ""
+"soli pa solim palīdzēs Jums izveidot iegulšanai paredzēto koda fragmentu."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:11
 msgid ""
@@ -6085,39 +6042,38 @@ msgid ""
 "Public Domain or Creative Commons, or only licensed images from a specific "
 "country."
 msgstr ""
+"Konfigurējiet vidžetu meklēšanai visās Europeana kolekcijās un visu datu "
+"piegādātāju saturā, vai precizējiet meklēšanu atbilstoši savas tīmekļa "
+"vietnes vajadzībām, piemēram, meklēt tikai publiskā domēna vai Creative "
+"Commons licenču saturā, vai tikai kādas konkrētas valsts licencētos attēlos."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:12
-#, fuzzy
 msgid "The Europeana Search Widget works with..."
-msgstr "Europeana meklēšanas logrīks"
+msgstr "Europeana meklēšanas vidžets strādā ar..."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:13
 msgid "Sites that you host yourself."
-msgstr ""
+msgstr "Vietnēm, kuras jūs uzturat paši."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:18
-#, fuzzy
 msgid "The Europeana Search Widget doesn't work with..."
-msgstr "Europeana meklēšanas logrīks"
+msgstr "Europeana meklēšanas vidžets nestrādā ar..."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:19
 msgid "Blogs hosted on Wordpress.com"
-msgstr ""
+msgstr "Blogiem, kas izvietoti uz Wordpress.com"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:20
-#, fuzzy
 msgid "Set up your Europeana Search Widget:"
-msgstr "Europeana meklēšanas logrīks"
+msgstr "Izveidot savu Europeana meklēšanas vidžetu:"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:22
-#, fuzzy
 msgid "Go to the search widget page."
-msgstr "no meklētā"
+msgstr "Doties uz meklēšanas vidžeta lapu."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:23
-#, fuzzy
 msgid "Introduction tab"
-msgstr "Ievads"
+msgstr "Ievada cilnis"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:23
 msgid ""
@@ -6126,26 +6082,30 @@ msgid ""
 "by step. To start configuring your widget, tap 'Next' or the 'Filter' tab "
 "heading."
 msgstr ""
+"Europeana meklēšanas vidžets. Progresa joslā ir redzams, kurā izveides "
+"procesa solī Jūs atrodaties, savukārt video atspoguļots viss process soli pa "
+"solim. Lai sāktu sava vidžeta konfigurēšanu, spiediet 'Nākamais' vai cilni "
+"'Filtrs'."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:24
 msgid "Filter tab"
-msgstr ""
+msgstr "Filtra cilnis"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:24
 msgid ""
 "If you want your widget to include the entire Europeana dataset, you can go "
 "straight to the 'Style' tab. Tap 'Next' or the 'Style' tab heading."
 msgstr ""
+"Ja Jūs vēlaties savā vidžetā iekļaut visu Europeana datu kopumu, Jūs varat "
+"doties uzreiz uz cilni 'Stils'. Spiediet 'Nākamais' vai cilni 'Stils'."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:25
-#, fuzzy
 msgid "To tailor your search widget"
-msgstr "filtrēt meklēšanas rezultātus:"
+msgstr "Pielāgot savu meklēšanas vidžetu"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:27
-#, fuzzy
 msgid "Keyword search"
-msgstr "Filtrēt meklēšanu"
+msgstr "Atslēgvārda meklēšana"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:27
 msgid ""
@@ -6154,6 +6114,11 @@ msgid ""
 "(s) in the 'Search for' field. For example, if you are adding a widget to "
 "your First World War blog about military uniform, you might type 'uniform'."
 msgstr ""
+"Vidžets pēc noklusējuma ir uzstādīts meklēt visā Europeana datu kopumā. Jūs "
+"varat ierobežot meklēšanu ar atslēgvārdu vai frāzi. Lai to izdarītu, "
+"ievadiet atslēgvārdu(s) laukā 'Meklēt'. Piemēram, ja vidžets paredzēts Pirmā "
+"pasaules kara blogam par militārajiem formastērpiem, Jūs varat ierakstīt "
+"'formastērps'."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:28
 msgid ""
@@ -6162,11 +6127,15 @@ msgid ""
 "searches on two words or 'NOT' to hide results for a particular word, e.g. "
 "'uniform AND war' or 'uniform NOT school'."
 msgstr ""
+"Šajā laukā darbojas parastās meklēšanas funkcijas, piemēram, dubultās "
+"pēdiņas frāzes meklēšanai (piemēra, \"militārie formastērpi\"), izmantojiet "
+"operatoru 'AND', lai saistītu divus atslēgvārdus, vai 'NOT' lai rezultātos "
+"netiktu iekļauts kāds konkrēts vārds (piemēram, 'formastērpi AND kara' vai "
+"'uniformas NOT skolas'."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:29
-#, fuzzy
 msgid "Search on types"
-msgstr "Meklēšanas kritēriji"
+msgstr "Meklēt pēc veida"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:29
 msgid ""
@@ -6177,6 +6146,12 @@ msgid ""
 "word and 'Places' as a type. Tap 'Change' next to 'All Fields' and select "
 "the option you need."
 msgstr ""
+"Vidžets pēc noklusējuma ir uzstādīts meklēt visā Europeana datu kopumā pēc "
+"Jūsu norādītajiem atslēgvārdiem. Jūs varat ierobežot meklēšanu pēc "
+"'Nosaukuma', 'Radītāja', 'Priekšmeta', 'Laika/Perioda' vai 'Vietas'. "
+"Piemēram, Jūs varat izvēlēties meklēt tikai tos rezultātus, kas saistīti ar "
+"'Paris'. Šajā gadījumā Jums jānorāda 'Paris' kā atslēgvārds un 'Vieta' kā "
+"tips. Spiediet 'Mainīt' blakus 'Visi lauki' un izvēlieties vajadzīgo opciju."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:30
 msgid ""
@@ -6190,11 +6165,20 @@ msgid ""
 "arrow to see the institutions included in their collection. Note: you can "
 "select more than one."
 msgstr ""
+"Vidžets pēc noklusējuma atrādīs visu Europeana datu piegādātāju rezultātus. "
+"Jūs varat ierobežot rezultātus, norādot kādus konkrētus piegādātājus pēc "
+"savas izvēles. Spiediet 'Mainīt' blakus 'Visi piegādātāji' un izvēlieties "
+"tos piegādātājus, kurus vēlaties norādīt. Blakus sarakstam ir pieejams "
+"meklēšanas lauks, kuru var izmantot piegādātāja meklēšanai. Piegādātāji "
+"sarakstā ir kārtoti pēc to Europeana piegādātā satura daudzuma. Skaitlis "
+"iekavās parāda cik daudz vienības no konkrētā piegādātāja ir pieejamas. Ja "
+"aiz piegādātāja nosaukuma ir bultiņa, tas nozīmē, ka tas ir datu agregators. "
+"Spiediet uz bultiņas, lai redzētu institūciju sarakstu, kuras veido šo "
+"kolekciju. Piezīme: ir iespējams izvēlēties vairākus piegādātājus."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:31
-#, fuzzy
 msgid "Countries"
-msgstr "Valsts"
+msgstr "Valstis"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:31
 msgid ""
@@ -6205,9 +6189,15 @@ msgid ""
 "how many items from that country are available. Note: you can select more "
 "than one. To clear your selection and start again, tap 'Clear'."
 msgstr ""
+"Vidžets pēc noklusējuma atrādīs rezultātus no visām valstīm. Jūs varat "
+"ierobežot rezultātus, norādot kādas konkrētas valstis pēc savas izvēles. "
+"Spiediet 'Mainīt' blakus 'Visas piegādātājvalstis' un izvēlieties tās "
+"valstis, kuras vēlaties norādīt. Valstis sarakstā ir kārtotas pēc to "
+"Europeana piegādātā satura daudzuma. Skaitlis iekavās parāda cik daudz "
+"vienības no konkrētās valsts ir pieejamas. Piezīme: ir iespējams izvēlēties "
+"vairākas valstis. Lai notīrītu atlasi un sāktu no jauna, spiediet 'Notīrīt'."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:32
-#, fuzzy
 msgid "Media types"
 msgstr "Mediju tipi"
 
@@ -6221,11 +6211,17 @@ msgid ""
 "can select more than one.  To clear your selection and start again, tap "
 "'Clear'."
 msgstr ""
+"Vidžets pēc noklusējuma atrādīs visu mediju tipu rezultātus - attēlus, "
+"tekstu, skaņu, video un 3D. Jūs varat ierobežot rezultātus tikai ar tiem "
+"mediju tipiem, kuros esat ieinteresēti. Spiediet 'Mainīt' blakus 'Visi "
+"mediju tipi' un atzīmējiet nepieciešamos tipus. Mediju tipi sarakstā ir "
+"kārtoti pēc to daudzuma. Skaitlis iekavās parāda cik daudz konkrētā mediju "
+"tipa vienības ir pieejamas. Piezīme: ir iespējams izvēlēties vairākas mediju "
+"tipus. Lai notīrītu atlasi un sāktu no jauna, spiediet 'Notīrīt'."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:33
-#, fuzzy
 msgid "Copyright"
-msgstr "Pēc autortiesībām"
+msgstr "Autortiesības"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:33
 msgid ""
@@ -6236,36 +6232,38 @@ msgid ""
 "many items of that status are available. Note: you can select more than one. "
 "To clear your selection and start again, tap 'Clear'."
 msgstr ""
+"Vidžets pēc noklusējuma atrādīs rezultātus ar visu veidu autortiesību "
+"statusiem. Jūs varat ierobežot rezultātus, liekot rādīt, piemēram, tikai to "
+"saturu, kas ir atkārtoti izmantojams. Spiediet 'Mainīt' blakus 'Visas "
+"autortiesības' un izvēlieties vajadzīgos statusus. Autortiesību statusi "
+"sarakstā ir kārtoti pēc to daudzuma. Skaitlis iekavās parāda cik daudz "
+"konkrētā autortiesību statusa vienības ir pieejamas. Piezīme: ir iespējams "
+"izvēlēties vairākus autortiesību statusus. Lai notīrītu atlasi un sāktu no "
+"jauna, spiediet 'Notīrīt'."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:34
-#, fuzzy
 msgid "More information on the CC licenses"
-msgstr "Europeana - Visas tiesības aizsargātas - Maksas pieeja"
+msgstr "Papildinformācija par CC licencēm"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:35
-#, fuzzy
 msgid "More information on the Rights Reserved - Free Access label"
-msgstr "Europeana - Visas tiesības aizsargātas - Brīvpieeja"
+msgstr "Papildinformācija par rezervētajām tiesībām - Brīva pieeja"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:36
-#, fuzzy
 msgid "More information on the Rights Reserved - Restricted Access label"
-msgstr "Europeana - Visas tiesības aizsargātas - Ierobežota piekļuve"
+msgstr "Papildinformācija par rezervētajām tiesībām - Ierobežota pieeja"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:37
-#, fuzzy
 msgid "More information on the Rights Reserved - Paid Access label"
-msgstr "Europeana - Visas tiesības aizsargātas - Maksas pieeja"
+msgstr "Papildinformācija par rezervētajām tiesībām - Maksas pieeja"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:38
-#, fuzzy
 msgid "More information on the Unknown rights label"
-msgstr "Europeana - Visas tiesības aizsargātas - Brīvpieeja"
+msgstr "Papildinformācija par nezināmām tiesībām"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:39
-#, fuzzy
 msgid "Languages"
-msgstr "Valoda"
+msgstr "Valodas"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:39
 msgid ""
@@ -6276,31 +6274,40 @@ msgid ""
 "items of each language are available. Note: you can select more than one. To "
 "clear your selection and start again, tap 'Clear'."
 msgstr ""
+"Vidžets pēc noklusējuma atrādīs rezultātus visās valodās. Jūs varat "
+"ierobežot rezultātus tikai ar tām valodām, kurās esat ieinteresēti. Spiediet "
+"'Mainīt' blakus 'Visas valodas' un izvēlieties vajadzīgās valodas. Valodas "
+"sarakstā ir kārtotas pēc to daudzuma Europeana. Skaitlis iekavās parāda cik "
+"daudz konkrētās valodas vienības ir pieejamas. Piezīme: ir iespējams "
+"izvēlēties vairākas valodas. Lai notīrītu atlasi un sāktu no jauna, spiediet "
+"'Notīrīt'."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:40
 msgid ""
 "When you have selected all your filters, tap 'Next' or the 'Style' tab "
 "heading."
 msgstr ""
+"Kad esat izvēlējies visus filtrus, spiediet 'Nākamais' vai cilni 'Stils'."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:42
 msgid "Style tab"
-msgstr ""
+msgstr "Stila cilnis"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:42
 msgid ""
 "You can choose a black or white widget and select to include thumbnails or "
 "not. Select the style you would like to use."
 msgstr ""
+"Ir iespējams izvēlēties melnu vai baltu vidžetu, kā arī norādīt, vai atrādīt "
+"sīktēlus vai nē. Izvēlieties stilu, kuru vēlaties izmantot."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:43
 msgid "Tap 'Next' or the 'Preview' tab heading."
-msgstr ""
+msgstr "Spiediet 'Nākamais' vai cilni 'Priekšskatījums'."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:44
-#, fuzzy
 msgid "Preview tab"
-msgstr "Iepriekšējais"
+msgstr "Priekšskatījuma cilnis"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:44
 msgid ""
@@ -6308,46 +6315,49 @@ msgid ""
 "so expands to fit the width of its container. For this reason, it may be a "
 "different size on the preview than it will be on your own web page."
 msgstr ""
+"Jūsu vidžets. Lūdzu ņemiet vērā, ka vidžets ir elastīgs un paplašinās līdz "
+"tā konteinera platumam. Šī iemesla dēļ vidžets ievietots Jūsu tīmekļa lapā "
+"var atšķirties no vidžeta izskata priekšskatījumā."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:46
 msgid ""
 "If you wish to amend the widget's properties, just go back to the 'Search', "
 "'Filter' or 'Style' tab and make your changes."
 msgstr ""
+"Ja vēlaties mainīt vidžeta uzstādījumus, viekārši atgriezieties uz "
+"'Meklēšana', 'Filtrs'  vai 'Stils' cilnēm un veiciet savas izmaiņas. "
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:47
 msgid ""
 "If you are happy with your widget, simply copy the 'Embed' code displayed "
 "and paste this into your web page."
 msgstr ""
+"Ja Jūs apmierina izveidotais vidžets, vienkārši nokopējiet 'Iegult' redzamo "
+"kodu un ielīmējiet to savā tīmekļa lapā."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:48
 msgid ""
 "We would love to know how you are using this search widget, please tell us "
 "by dropping us an email at"
 msgstr ""
+"Mēs labprāt vēlētos uzzināt, kā Jūs izmantojat šo meklēšanas vidžetu. Lūdzu "
+"pastāstiet mums par to, atsūtot e-pastu uz"
 
-#, fuzzy
 #~ msgid "Europeana Open Culture App"
 #~ msgstr "Europeana think culture"
 
-#, fuzzy
 #~ msgid "Learn more"
 #~ msgstr "Skatīt vairāk"
 
-#, fuzzy
 #~ msgid "Rights Reserved - Free access"
 #~ msgstr "Visas tiesības aizsargātas - Brīvpieeja"
 
-#, fuzzy
 #~ msgid "Rights Reserved - Paid access"
 #~ msgstr "Visas tiesības aizsargātas - Maksas pieeja"
 
-#, fuzzy
 #~ msgid "Europe's culture - collected for you."
 #~ msgstr "Eiropas kultūra - apkopota tieši tev"
 
-#, fuzzy
 #~ msgid ""
 #~ "Explore more than 30 million items from a range of Europe's leading "
 #~ "galleries, libraries, archives and museums."
