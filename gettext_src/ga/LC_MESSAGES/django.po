@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-03-27 10:59+0100\n"
+"POT-Creation-Date: 2014-03-31 10:43+0200\n"
 "PO-Revision-Date: 2012-02-21 15:20\n"
 "Last-Translator: <jacob.lundqvist@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4374,8 +4374,9 @@ msgid "Field of work"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:977
+#, fuzzy
 msgid "Please, select"
-msgstr ""
+msgstr "Bailiúchán"
 
 #: templates/static_pages/prop_file.html:979
 #, fuzzy
@@ -4698,6 +4699,20 @@ msgstr "Athscríobh an pasfhocal"
 
 #: templates/static_pages/prop_file.html:1061
 msgid "Invalid credentials"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1062
+#, fuzzy
+msgid "Save settings"
+msgstr "Beartas teanga"
+
+#: templates/static_pages/prop_file.html:1063
+msgid "Settings have been saved."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1064
+msgid ""
+"Sorry, there was a problem saving your settings. Please try again later."
 msgstr ""
 
 #: templates/static_pages/sitemap.html:4
