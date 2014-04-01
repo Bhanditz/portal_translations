@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-03-31 10:43+0200\n"
+"POT-Creation-Date: 2014-04-01 19:19+0200\n"
 "PO-Revision-Date: 2013-03-29 20:03\n"
 "Last-Translator: Greek  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,8 +19,6 @@ msgstr ""
 
 #: templates/api_leftmenu.html:3 templates/static_pages/europeana-api.html:4
 #: templates/static_pages/prop_file.html:63
-#: templates/static_pages/prop_file.html:824
-#: templates/static_pages/prop_file.html:825
 #: templates/static_pages/sitemap.html:51
 msgid "Europeana API"
 msgstr "API της Europeana"
@@ -4187,9 +4185,14 @@ msgid "What"
 msgstr "Τι"
 
 #: templates/static_pages/prop_file.html:823
+msgid "http://labs.europeana.eu/api/"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:824
+#: templates/static_pages/prop_file.html:825
 #, fuzzy
-msgid "api-introduction.html"
-msgstr "Εισαγωγή"
+msgid "Europeana APIs"
+msgstr "API της Europeana"
 
 #: templates/static_pages/prop_file.html:826
 #: templates/static_pages/prop_file.html:830
@@ -6529,6 +6532,10 @@ msgid ""
 "We would love to know how you are using this search widget, please tell us "
 "by dropping us an email at"
 msgstr ""
+
+#, fuzzy
+#~ msgid "api-introduction.html"
+#~ msgstr "Εισαγωγή"
 
 #, fuzzy
 #~ msgid "Europeana Open Culture App"

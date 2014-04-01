@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-03-27 11:00+0100\n"
+"POT-Creation-Date: 2014-04-01 19:17+0200\n"
 "PO-Revision-Date: 2014-02-23 01:21\n"
 "Last-Translator: Ukrainian  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4040,9 +4040,8 @@ msgid "What"
 msgstr "Що"
 
 #: templates/static_pages/prop_file.html:823
-#, fuzzy
-msgid "api-introduction.html"
-msgstr "Знайомство"
+msgid "http://labs.europeana.eu/api/"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:826
 #: templates/static_pages/prop_file.html:830
@@ -4597,6 +4596,23 @@ msgstr "Повторіть пароль"
 #: templates/static_pages/prop_file.html:1061
 msgid "Invalid credentials"
 msgstr ""
+
+#: templates/static_pages/prop_file.html:1062
+#, fuzzy
+msgid "Save settings"
+msgstr "Мови"
+
+#: templates/static_pages/prop_file.html:1063
+msgid "Settings have been saved."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1064
+#, fuzzy
+msgid ""
+"Sorry, there was a problem saving your settings. Please try again later."
+msgstr ""
+"Просимо вибачити - є проблеми із отриманням даних із сервера. Будьте "
+"ласкаві, спробуйте пізніше."
 
 #: templates/static_pages/sitemap.html:4
 msgid "Europeana - Sitemap"
@@ -6346,6 +6362,10 @@ msgid ""
 msgstr ""
 "Ми із радістю дізнаємось, ваш досвід використання цього пошукового віджету, "
 "будьте ласкаві надішліть нам повідомлення про це електронною поштою до "
+
+#, fuzzy
+#~ msgid "api-introduction.html"
+#~ msgstr "Знайомство"
 
 #, fuzzy
 #~ msgid "Europeana Open Culture App"

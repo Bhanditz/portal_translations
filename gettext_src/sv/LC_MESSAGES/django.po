@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-03-27 10:59+0100\n"
+"POT-Creation-Date: 2014-04-01 19:17+0200\n"
 "PO-Revision-Date: 2013-08-28 15:05\n"
 "Last-Translator: <jacob.lundqvist@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3921,9 +3921,8 @@ msgid "What"
 msgstr "Vad"
 
 #: templates/static_pages/prop_file.html:823
-#, fuzzy
-msgid "api-introduction.html"
-msgstr "Introduktion"
+msgid "http://labs.europeana.eu/api/"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:826
 #: templates/static_pages/prop_file.html:830
@@ -4477,6 +4476,23 @@ msgstr "Upprepa lösenordet"
 #: templates/static_pages/prop_file.html:1061
 msgid "Invalid credentials"
 msgstr ""
+
+#: templates/static_pages/prop_file.html:1062
+#, fuzzy
+msgid "Save settings"
+msgstr "Språk"
+
+#: templates/static_pages/prop_file.html:1063
+msgid "Settings have been saved."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1064
+#, fuzzy
+msgid ""
+"Sorry, there was a problem saving your settings. Please try again later."
+msgstr ""
+"Ett fel uppstod i sökningen. Vi ber om ursäkt och ber dig att försöka göra "
+"om sökningen."
 
 #: templates/static_pages/sitemap.html:4
 msgid "Europeana - Sitemap"
@@ -6088,6 +6104,10 @@ msgid ""
 "We would love to know how you are using this search widget, please tell us "
 "by dropping us an email at"
 msgstr ""
+
+#, fuzzy
+#~ msgid "api-introduction.html"
+#~ msgstr "Introduktion"
 
 #, fuzzy
 #~ msgid "Europeana Open Culture App"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-03-27 10:59+0100\n"
+"POT-Creation-Date: 2014-04-01 19:17+0200\n"
 "PO-Revision-Date: 2014-02-11 14:46\n"
 "Last-Translator: Slovkian  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3937,9 +3937,8 @@ msgid "What"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:823
-#, fuzzy
-msgid "api-introduction.html"
-msgstr "Predstavitev"
+msgid "http://labs.europeana.eu/api/"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:826
 #: templates/static_pages/prop_file.html:830
@@ -4492,6 +4491,20 @@ msgstr "Ponovno vnesite geslo"
 
 #: templates/static_pages/prop_file.html:1061
 msgid "Invalid credentials"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1062
+#, fuzzy
+msgid "Save settings"
+msgstr "Jeziki"
+
+#: templates/static_pages/prop_file.html:1063
+msgid "Settings have been saved."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1064
+msgid ""
+"Sorry, there was a problem saving your settings. Please try again later."
 msgstr ""
 
 #: templates/static_pages/sitemap.html:4
@@ -5987,6 +6000,10 @@ msgid ""
 "We would love to know how you are using this search widget, please tell us "
 "by dropping us an email at"
 msgstr ""
+
+#, fuzzy
+#~ msgid "api-introduction.html"
+#~ msgstr "Predstavitev"
 
 #, fuzzy
 #~ msgid "Europeana Open Culture App"

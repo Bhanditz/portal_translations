@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-03-31 10:43+0200\n"
+"POT-Creation-Date: 2014-04-01 19:18+0200\n"
 "PO-Revision-Date: 2013-11-21 15:32\n"
 "Last-Translator: Laura  Huff <laura.huff@kb.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,8 +19,6 @@ msgstr ""
 
 #: templates/api_leftmenu.html:3 templates/static_pages/europeana-api.html:4
 #: templates/static_pages/prop_file.html:63
-#: templates/static_pages/prop_file.html:824
-#: templates/static_pages/prop_file.html:825
 #: templates/static_pages/sitemap.html:51
 msgid "Europeana API"
 msgstr "API d'Europeana"
@@ -4150,8 +4148,14 @@ msgid "What"
 msgstr "What"
 
 #: templates/static_pages/prop_file.html:823
-msgid "api-introduction.html"
-msgstr "api-introduction.html"
+msgid "http://labs.europeana.eu/api/"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:824
+#: templates/static_pages/prop_file.html:825
+#, fuzzy
+msgid "Europeana APIs"
+msgstr "API d'Europeana"
 
 #: templates/static_pages/prop_file.html:826
 #: templates/static_pages/prop_file.html:830
@@ -6503,6 +6507,9 @@ msgid ""
 msgstr ""
 "Ens agradaria saber com utilitzeu el giny de cerca, si us plau, digueu-nos-"
 "ho enviant-nos un correu electrònic a"
+
+#~ msgid "api-introduction.html"
+#~ msgstr "api-introduction.html"
 
 #, fuzzy
 #~ msgid "Europeana Open Culture App"

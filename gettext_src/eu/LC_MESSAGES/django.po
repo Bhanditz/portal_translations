@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-03-31 10:43+0200\n"
+"POT-Creation-Date: 2014-04-01 19:19+0200\n"
 "PO-Revision-Date: 2013-11-21 09:59\n"
 "Last-Translator: Laura  Huff <laura.huff@kb.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,8 +19,6 @@ msgstr ""
 
 #: templates/api_leftmenu.html:3 templates/static_pages/europeana-api.html:4
 #: templates/static_pages/prop_file.html:63
-#: templates/static_pages/prop_file.html:824
-#: templates/static_pages/prop_file.html:825
 #: templates/static_pages/sitemap.html:51
 msgid "Europeana API"
 msgstr ""
@@ -4051,8 +4049,14 @@ msgid "What"
 msgstr "Zer"
 
 #: templates/static_pages/prop_file.html:823
-msgid "api-introduction.html"
+msgid "http://labs.europeana.eu/api/"
 msgstr ""
+
+#: templates/static_pages/prop_file.html:824
+#: templates/static_pages/prop_file.html:825
+#, fuzzy
+msgid "Europeana APIs"
+msgstr "Europeana - Galdera ohikoenak (FAQ)"
 
 #: templates/static_pages/prop_file.html:826
 #: templates/static_pages/prop_file.html:830
@@ -6760,9 +6764,6 @@ msgstr ""
 
 #~ msgid "Technical Documentation"
 #~ msgstr "Arazo Teknikoak"
-
-#~ msgid "Europeana API 2"
-#~ msgstr "Europeana - Galdera ohikoenak (FAQ)"
 
 #~ msgid "register for a Europeana API key online"
 #~ msgstr "Hemen klik egizu Europeanaren hasierako orrira itzultzeko"
