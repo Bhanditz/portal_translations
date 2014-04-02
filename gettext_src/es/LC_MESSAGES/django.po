@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-02 13:15+0200\n"
+"POT-Creation-Date: 2014-04-02 13:24+0200\n"
 "PO-Revision-Date: 2014-01-17 15:38\n"
 "Last-Translator: Neil Bates <neil.bates@kb.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,13 +19,13 @@ msgstr ""
 
 #: templates/api_leftmenu.html:3 templates/static_pages/europeana-api.html:4
 #: templates/static_pages/prop_file.html:63
-#: templates/static_pages/prop_file.html:824
+#: templates/static_pages/prop_file.html:825
 #: templates/static_pages/sitemap.html:51
 msgid "Europeana API"
 msgstr "API de Europeana"
 
-#: templates/api_leftmenu.html:6 templates/static_pages/prop_file.html:995
-#: templates/static_pages/prop_file.html:996
+#: templates/api_leftmenu.html:6 templates/static_pages/prop_file.html:996
+#: templates/static_pages/prop_file.html:997
 #: templates/static_pages/sitemap.html:53
 msgid "Get an API-Key"
 msgstr "Conseguir una clave para el API"
@@ -50,14 +50,14 @@ msgstr "Explorar"
 
 #: templates/explore_leftmenu.html:5 templates/static_pages/prop_file.html:550
 #: templates/static_pages/prop_file.html:551
-#: templates/static_pages/prop_file.html:880
+#: templates/static_pages/prop_file.html:881
 #: templates/static_pages/sitemap.html:20
 msgid "Europeana Remix"
 msgstr "Europeana Remix"
 
 #: templates/explore_leftmenu.html:6 templates/static_pages/prop_file.html:554
 #: templates/static_pages/prop_file.html:555
-#: templates/static_pages/prop_file.html:869
+#: templates/static_pages/prop_file.html:870
 #: templates/static_pages/sitemap.html:17
 #: templates/static_pages/usingeuropeana_explore.html:14
 msgid "Exhibitions"
@@ -67,8 +67,8 @@ msgstr "Exposiciones"
 #: templates/static_pages/prop_file.html:60
 #: templates/static_pages/prop_file.html:558
 #: templates/static_pages/prop_file.html:559
-#: templates/static_pages/prop_file.html:918
 #: templates/static_pages/prop_file.html:919
+#: templates/static_pages/prop_file.html:920
 #: templates/static_pages/sitemap.html:38
 #: templates/static_pages/sitemap.html:87
 #: templates/static_pages/usingeuropeana_explore.html:15
@@ -106,7 +106,7 @@ msgstr "Síguenos"
 #: templates/followus_leftmenu.html:5
 #: templates/static_pages/prop_file.html:622
 #: templates/static_pages/prop_file.html:623
-#: templates/static_pages/prop_file.html:873
+#: templates/static_pages/prop_file.html:874
 #: templates/static_pages/sitemap.html:18
 msgid "Blog"
 msgstr "Blog"
@@ -141,27 +141,27 @@ msgstr "Acerca de Nosotros"
 msgid "Background"
 msgstr "Antecedentes"
 
-#: templates/leftmenu.html:9 templates/static_pages/prop_file.html:923
-#: templates/static_pages/prop_file.html:924
+#: templates/leftmenu.html:9 templates/static_pages/prop_file.html:924
+#: templates/static_pages/prop_file.html:925
 msgid "All providers"
 msgstr ""
 
 #: templates/leftmenu.html:10 templates/static_pages/aboutus_enews.html:11
-#: templates/static_pages/prop_file.html:928
 #: templates/static_pages/prop_file.html:929
+#: templates/static_pages/prop_file.html:930
 #: templates/static_pages/sitemap.html:40
 msgid "Previous newsletters"
 msgstr "Boletines anteriores"
 
 #: templates/leftmenu.html:12 templates/NOT/leftmenu_old.html:8
-#: templates/static_pages/prop_file.html:933
 #: templates/static_pages/prop_file.html:934
+#: templates/static_pages/prop_file.html:935
 msgid "Press Centre"
 msgstr "Sala de prensa"
 
 #: templates/leftmenu.html:13 templates/NOT/leftmenu_old.html:9
-#: templates/static_pages/prop_file.html:938
 #: templates/static_pages/prop_file.html:939
+#: templates/static_pages/prop_file.html:940
 msgid "Jobs"
 msgstr "Ofertas de empleo"
 
@@ -271,8 +271,8 @@ msgstr "Carta sobre el dominio público"
 #: templates/static_pages/prop_file.html:334
 #: templates/static_pages/prop_file.html:574
 #: templates/static_pages/prop_file.html:575
-#: templates/static_pages/prop_file.html:888
 #: templates/static_pages/prop_file.html:889
+#: templates/static_pages/prop_file.html:890
 #: templates/static_pages/sitemap.html:25
 #: templates/static_pages/usingeuropeana.html:9
 msgid "Help"
@@ -281,8 +281,8 @@ msgstr "Ayuda"
 #: templates/usingeuropeana_leftmenu.html:5
 #: templates/static_pages/prop_file.html:578
 #: templates/static_pages/prop_file.html:579
-#: templates/static_pages/prop_file.html:892
 #: templates/static_pages/prop_file.html:893
+#: templates/static_pages/prop_file.html:894
 #: templates/static_pages/usingeuropeana.html:14
 #: templates/static_pages/usingeuropeana_results.html:22
 #: templates/static_pages/usingeuropeana_search.html:9
@@ -294,8 +294,8 @@ msgstr "Buscar en Europeana"
 #: templates/static_pages/prop_file.html:288
 #: templates/static_pages/prop_file.html:582
 #: templates/static_pages/prop_file.html:583
-#: templates/static_pages/prop_file.html:896
 #: templates/static_pages/prop_file.html:897
+#: templates/static_pages/prop_file.html:898
 #: templates/static_pages/sitemap.html:28
 #: templates/static_pages/usingeuropeana.html:16
 #: templates/static_pages/usingeuropeana_explore.html:9
@@ -306,8 +306,8 @@ msgstr "Explorar Europeana"
 #: templates/usingeuropeana_leftmenu.html:8
 #: templates/static_pages/prop_file.html:586
 #: templates/static_pages/prop_file.html:587
-#: templates/static_pages/prop_file.html:900
 #: templates/static_pages/prop_file.html:901
+#: templates/static_pages/prop_file.html:902
 #: templates/static_pages/sitemap.html:29
 #: templates/static_pages/usingeuropeana.html:19
 #: templates/static_pages/usingeuropeana_results.html:9
@@ -318,8 +318,8 @@ msgstr "Resultados en Europeana"
 #: templates/usingeuropeana_leftmenu.html:9
 #: templates/static_pages/prop_file.html:590
 #: templates/static_pages/prop_file.html:591
-#: templates/static_pages/prop_file.html:904
 #: templates/static_pages/prop_file.html:905
+#: templates/static_pages/prop_file.html:906
 #: templates/static_pages/sitemap.html:30
 #: templates/static_pages/usingeuropeana.html:21
 #: templates/static_pages/usingeuropeana_myeuropeana.html:9
@@ -328,8 +328,8 @@ msgid "Using My Europeana"
 msgstr "Uso de Mi Europeana"
 
 #: templates/usingeuropeana_leftmenu.html:10
-#: templates/static_pages/prop_file.html:908
 #: templates/static_pages/prop_file.html:909
+#: templates/static_pages/prop_file.html:910
 msgid "Configure your search widget"
 msgstr ""
 
@@ -1961,8 +1961,8 @@ msgstr "Salir"
 #: templates/static_pages/prop_file.html:25
 #: templates/static_pages/prop_file.html:642
 #: templates/static_pages/prop_file.html:643
-#: templates/static_pages/prop_file.html:961
 #: templates/static_pages/prop_file.html:962
+#: templates/static_pages/prop_file.html:963
 #: templates/static_pages/sitemap.html:12
 #: templates/static_pages/usingeuropeana_myeuropeana.html:10
 #: templates/static_pages/usingeuropeana_myeuropeana.html:11
@@ -2150,8 +2150,8 @@ msgstr ""
 "audiovisuales "
 
 #: templates/static_pages/prop_file.html:62
-#: templates/static_pages/prop_file.html:913
 #: templates/static_pages/prop_file.html:914
+#: templates/static_pages/prop_file.html:915
 #: templates/static_pages/sitemap.html:36
 msgid "About us"
 msgstr "Acerca de Nosotros"
@@ -2163,8 +2163,8 @@ msgstr "Uso de Europeana"
 #: templates/static_pages/prop_file.html:66
 #: templates/static_pages/prop_file.html:522
 #: templates/static_pages/prop_file.html:523
-#: templates/static_pages/prop_file.html:835
 #: templates/static_pages/prop_file.html:836
+#: templates/static_pages/prop_file.html:837
 #: templates/static_pages/sitemap.html:8
 msgid "Sitemap"
 msgstr "Mapa del Sitio"
@@ -2180,8 +2180,8 @@ msgid "Language policy"
 msgstr "Política lingüística"
 
 #: templates/static_pages/prop_file.html:70
-#: templates/static_pages/prop_file.html:831
 #: templates/static_pages/prop_file.html:832
+#: templates/static_pages/prop_file.html:833
 msgid "Contact us"
 msgstr "Contacte con nosotros"
 
@@ -2577,7 +2577,7 @@ msgid "Create an account"
 msgstr "Crear una cuenta"
 
 #: templates/static_pages/prop_file.html:166
-#: templates/static_pages/prop_file.html:984
+#: templates/static_pages/prop_file.html:985
 msgid "The link you used to complete registration is invalid or has expired."
 msgstr ""
 "El enlace que utilizó para completar el registro no es válido o ha caducado."
@@ -2775,7 +2775,7 @@ msgid "Is Part of"
 msgstr "Es parte de"
 
 #: templates/static_pages/prop_file.html:216
-#: templates/static_pages/prop_file.html:953
+#: templates/static_pages/prop_file.html:954
 msgid "Has part"
 msgstr "Tiene parte"
 
@@ -3403,7 +3403,7 @@ msgid "Powered By Europeana"
 msgstr "Impulsado por Europeana"
 
 #: templates/static_pages/prop_file.html:365
-#: templates/static_pages/prop_file.html:872
+#: templates/static_pages/prop_file.html:873
 msgid "Europeana Blog"
 msgstr "Blog de Europeana"
 
@@ -3652,8 +3652,8 @@ msgstr "Contacto"
 
 #: templates/static_pages/prop_file.html:542
 #: templates/static_pages/prop_file.html:543
-#: templates/static_pages/prop_file.html:957
 #: templates/static_pages/prop_file.html:958
+#: templates/static_pages/prop_file.html:959
 #: templates/static_pages/sitemap.html:11
 msgid "Home"
 msgstr "Inicio"
@@ -3992,7 +3992,7 @@ msgid "Latest on"
 msgstr "Lo último en"
 
 #: templates/static_pages/prop_file.html:732
-#: templates/static_pages/prop_file.html:977
+#: templates/static_pages/prop_file.html:978
 #: templates/static_pages/usingeuropeana_search.html:69
 msgid "Share"
 msgstr "Compartir"
@@ -4015,7 +4015,7 @@ msgid "Sign-up here"
 msgstr "Suscríbase aquí"
 
 #: templates/static_pages/prop_file.html:738
-#: templates/static_pages/prop_file.html:998
+#: templates/static_pages/prop_file.html:999
 msgid "Name"
 msgstr "Nombre"
 
@@ -4145,521 +4145,521 @@ msgstr "Quién"
 msgid "What"
 msgstr "Qué"
 
-#: templates/static_pages/prop_file.html:825
-#: templates/static_pages/prop_file.html:829
-#: templates/static_pages/prop_file.html:833
-#: templates/static_pages/prop_file.html:837
+#: templates/static_pages/prop_file.html:826
+#: templates/static_pages/prop_file.html:830
+#: templates/static_pages/prop_file.html:834
+#: templates/static_pages/prop_file.html:838
 msgid "_self"
 msgstr "_self"
 
-#: templates/static_pages/prop_file.html:826
+#: templates/static_pages/prop_file.html:827
 msgid "rights/terms-and-policies.html"
 msgstr "derechos/condiciones-y-politicas.html"
 
-#: templates/static_pages/prop_file.html:827
 #: templates/static_pages/prop_file.html:828
+#: templates/static_pages/prop_file.html:829
 msgid "Terms of use &amp; Policies"
 msgstr "Condiciones de uso, políticas"
 
-#: templates/static_pages/prop_file.html:830
+#: templates/static_pages/prop_file.html:831
 msgid "contact.html"
 msgstr "contacto.html"
 
-#: templates/static_pages/prop_file.html:834
+#: templates/static_pages/prop_file.html:835
 msgid "sitemap.html"
 msgstr "mapadelsitio.html"
 
-#: templates/static_pages/prop_file.html:839
+#: templates/static_pages/prop_file.html:840
 #: templates/static_pages/usingeuropeana_myeuropeana.html:17
 msgid "API keys"
 msgstr "Claves de API"
 
-#: templates/static_pages/prop_file.html:840
+#: templates/static_pages/prop_file.html:841
 msgid "No API key"
 msgstr "No clave de API"
 
-#: templates/static_pages/prop_file.html:841
+#: templates/static_pages/prop_file.html:842
 msgid "API key"
 msgstr "Clave de API"
 
-#: templates/static_pages/prop_file.html:842
+#: templates/static_pages/prop_file.html:843
 msgid "Private key"
 msgstr "Clave privada"
 
-#: templates/static_pages/prop_file.html:843
+#: templates/static_pages/prop_file.html:844
 msgid "Usage limit"
 msgstr "Límite de uso"
 
-#: templates/static_pages/prop_file.html:844
+#: templates/static_pages/prop_file.html:845
 msgid "Role"
 msgstr "Papel"
 
-#: templates/static_pages/prop_file.html:845
+#: templates/static_pages/prop_file.html:846
 msgid "Administrator's page"
 msgstr "Página de administrador"
 
-#: templates/static_pages/prop_file.html:846
+#: templates/static_pages/prop_file.html:847
 msgid "Congratulations! You are now registered for Europeana's API."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:847
+#: templates/static_pages/prop_file.html:848
 #, fuzzy
 msgid "Your API key is"
 msgstr "No clave de API"
 
-#: templates/static_pages/prop_file.html:848
+#: templates/static_pages/prop_file.html:849
 #, fuzzy
 msgid "Your private key is"
 msgstr "Clave privada"
 
-#: templates/static_pages/prop_file.html:850
+#: templates/static_pages/prop_file.html:851
 msgid "Remove API key"
 msgstr "Eliminar clave de API"
 
-#: templates/static_pages/prop_file.html:851
+#: templates/static_pages/prop_file.html:852
 msgid "Limit"
 msgstr "Límite"
 
-#: templates/static_pages/prop_file.html:852
+#: templates/static_pages/prop_file.html:853
 msgid "Remove user"
 msgstr "Eliminar usuario"
 
-#: templates/static_pages/prop_file.html:853
+#: templates/static_pages/prop_file.html:854
 msgid "Block user"
 msgstr "Bloquear usuario"
 
-#: templates/static_pages/prop_file.html:854
+#: templates/static_pages/prop_file.html:855
 msgid "Export API keys to CSV"
 msgstr "Exportar claves de API a un CSV"
 
-#: templates/static_pages/prop_file.html:855
+#: templates/static_pages/prop_file.html:856
 msgid "Export users to CSV"
 msgstr "Exportar usuarios a un CSV"
 
-#: templates/static_pages/prop_file.html:856
+#: templates/static_pages/prop_file.html:857
 msgid "User name"
 msgstr "Nombre de usuario"
 
-#: templates/static_pages/prop_file.html:857
+#: templates/static_pages/prop_file.html:858
 msgid "Registration"
 msgstr "Registro"
 
-#: templates/static_pages/prop_file.html:859
+#: templates/static_pages/prop_file.html:860
 msgid "Visit the website of"
 msgstr "Visite el sitio web de"
 
-#: templates/static_pages/prop_file.html:860
+#: templates/static_pages/prop_file.html:861
 msgid "View the latest content from our partners"
 msgstr "Con el contenido más actualizado de nuestros socios"
 
-#: templates/static_pages/prop_file.html:864
 #: templates/static_pages/prop_file.html:865
+#: templates/static_pages/prop_file.html:866
 #: templates/static_pages/sitemap.html:15
 msgid "Other Europeana Sites"
 msgstr "Otros sitios de Europeana"
 
-#: templates/static_pages/prop_file.html:868
+#: templates/static_pages/prop_file.html:869
 msgid "Europeana Exhibitions"
 msgstr "Exposiciones de Europeana"
 
-#: templates/static_pages/prop_file.html:876
+#: templates/static_pages/prop_file.html:877
 #: templates/static_pages/sitemap.html:19
 msgid "Europeana 1914-1918"
 msgstr "Europeana 1914-1918"
 
-#: templates/static_pages/prop_file.html:881
+#: templates/static_pages/prop_file.html:882
 msgid "Remix"
 msgstr "Remix"
 
-#: templates/static_pages/prop_file.html:884
+#: templates/static_pages/prop_file.html:885
 #: templates/static_pages/sitemap.html:21
 msgid "Europeana Professional"
 msgstr "Europeana profesional"
 
-#: templates/static_pages/prop_file.html:885
+#: templates/static_pages/prop_file.html:886
 msgid "Professional"
 msgstr "Profesional"
 
-#: templates/static_pages/prop_file.html:945
+#: templates/static_pages/prop_file.html:946
 msgid "Change limit for an API key"
 msgstr "Cambiar el límite de una clave API"
 
-#: templates/static_pages/prop_file.html:946
+#: templates/static_pages/prop_file.html:947
 msgid "Company or Institution"
 msgstr "Compañía o institución"
 
-#: templates/static_pages/prop_file.html:947
+#: templates/static_pages/prop_file.html:948
 msgid "Telephone contact"
 msgstr "Teléfono de contacto"
 
-#: templates/static_pages/prop_file.html:948
+#: templates/static_pages/prop_file.html:949
 msgid "Address"
 msgstr "Dirección "
 
-#: templates/static_pages/prop_file.html:949
+#: templates/static_pages/prop_file.html:950
 msgid "I confirm that I have read and agree to the"
 msgstr "Confirmo que he leído y acepto "
 
-#: templates/static_pages/prop_file.html:950
+#: templates/static_pages/prop_file.html:951
 msgid "Next in sequence"
 msgstr "Siguiente en la secuencia"
 
-#: templates/static_pages/prop_file.html:951
+#: templates/static_pages/prop_file.html:952
 msgid "Date of creation"
 msgstr "Fecha de creación"
 
-#: templates/static_pages/prop_file.html:952
+#: templates/static_pages/prop_file.html:953
 msgid "Is part of"
 msgstr "Es parte de "
 
-#: templates/static_pages/prop_file.html:963
+#: templates/static_pages/prop_file.html:964
 msgid "Titles"
 msgstr "Títulos"
 
-#: templates/static_pages/prop_file.html:964
+#: templates/static_pages/prop_file.html:965
 msgid "Places"
 msgstr "Lugares"
 
-#: templates/static_pages/prop_file.html:965
+#: templates/static_pages/prop_file.html:966
 msgid "Dates/Periods"
 msgstr "Fechas/periodos"
 
-#: templates/static_pages/prop_file.html:966
+#: templates/static_pages/prop_file.html:967
 msgid "Subjects"
 msgstr "Materias"
 
-#: templates/static_pages/prop_file.html:967
+#: templates/static_pages/prop_file.html:968
 msgid "Creators"
 msgstr "Creadores"
 
-#: templates/static_pages/prop_file.html:968
+#: templates/static_pages/prop_file.html:969
 msgid "All fields"
 msgstr "Todos los campos"
 
-#: templates/static_pages/prop_file.html:969
+#: templates/static_pages/prop_file.html:970
 msgid "Featured Item"
 msgstr "Objeto destacado"
 
-#: templates/static_pages/prop_file.html:970
+#: templates/static_pages/prop_file.html:971
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "Featured Partner"
 msgstr "Socio destacado"
 
-#: templates/static_pages/prop_file.html:971
+#: templates/static_pages/prop_file.html:972
 msgid "Click here for last page of results"
 msgstr "Haga clic aquí para ver la última página de resultados"
 
-#: templates/static_pages/prop_file.html:972
+#: templates/static_pages/prop_file.html:973
 #: templates/static_pages/usingeuropeana_results.html:24
 msgid "Results per page"
 msgstr "Resultados por página"
 
-#: templates/static_pages/prop_file.html:973
+#: templates/static_pages/prop_file.html:974
 #: templates/static_pages/usingeuropeana_search.html:49
 msgid "Add more keywords"
 msgstr "Añadir más palabras clave"
 
-#: templates/static_pages/prop_file.html:974
+#: templates/static_pages/prop_file.html:975
 msgid "+ Add"
 msgstr "Añadir +"
 
-#: templates/static_pages/prop_file.html:975
+#: templates/static_pages/prop_file.html:976
 msgid "Field of work"
 msgstr "Campo de trabajo"
 
-#: templates/static_pages/prop_file.html:976
+#: templates/static_pages/prop_file.html:977
 msgid "Please, select"
 msgstr "Por favor, seleccione"
 
-#: templates/static_pages/prop_file.html:978
+#: templates/static_pages/prop_file.html:979
 msgid "Please try another search later."
 msgstr "Por favor, intente otra búsqueda más tarde"
 
-#: templates/static_pages/prop_file.html:979
+#: templates/static_pages/prop_file.html:980
 msgid "Unable to find the requested page"
 msgstr "No se puede encontrar la página solicitada"
 
-#: templates/static_pages/prop_file.html:980
+#: templates/static_pages/prop_file.html:981
 msgid "Alert:"
 msgstr "Atención:"
 
-#: templates/static_pages/prop_file.html:981
+#: templates/static_pages/prop_file.html:982
 msgid "Unable to find the requested Europeana Record."
 msgstr "No se puede encontrar el registro de Europeana solicitado."
 
-#: templates/static_pages/prop_file.html:982
+#: templates/static_pages/prop_file.html:983
 msgid "This item has been withdrawn by the provider."
 msgstr "El proveedor ha retirado este objeto."
 
-#: templates/static_pages/prop_file.html:983
+#: templates/static_pages/prop_file.html:984
 msgid "Requested Europeana Record is not yet indexed."
 msgstr "El registro de Europeana solicitado todavía no se ha indexado."
 
-#: templates/static_pages/prop_file.html:985
+#: templates/static_pages/prop_file.html:986
 msgid "Please register your email again"
 msgstr "Por favor, vuelva a registrar su dirección de correo electrónico"
 
-#: templates/static_pages/prop_file.html:986
+#: templates/static_pages/prop_file.html:987
 msgid "to finish registration."
 msgstr "para finalizar su registro."
 
-#: templates/static_pages/prop_file.html:987
+#: templates/static_pages/prop_file.html:988
 msgid "Unable to fullfill your request due to malformed query parameters."
 msgstr ""
 "No se puede resolver su consulta ya que los parámetros de su consulta no "
 "están bien formados."
 
-#: templates/static_pages/prop_file.html:988
+#: templates/static_pages/prop_file.html:989
 msgid "Unable to get a response from the Search Engine."
 msgstr "No se puede obtener una respuesta del motor de búsqueda"
 
-#: templates/static_pages/prop_file.html:989
+#: templates/static_pages/prop_file.html:990
 msgid "Unable to fulfill your request due to a malformed query syntax."
 msgstr "No se puede resolver su consulta por una mala sintaxis en su consulta."
 
-#: templates/static_pages/prop_file.html:990
+#: templates/static_pages/prop_file.html:991
 msgid "We are unable to change the interface to the requested language."
 msgstr "No se puede cambiar el interfaz al idioma seleccionado."
 
-#: templates/static_pages/prop_file.html:991
+#: templates/static_pages/prop_file.html:992
 msgid "Please try another language from the dropdown list."
 msgstr "Por favor, intente otro idioma de la lista desplegable"
 
-#: templates/static_pages/prop_file.html:992
+#: templates/static_pages/prop_file.html:993
 msgid "Number of results shown on the page"
 msgstr "Número de resultados mostrados en la página"
 
-#: templates/static_pages/prop_file.html:999
+#: templates/static_pages/prop_file.html:1000
 msgid "API-key"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1000
+#: templates/static_pages/prop_file.html:1001
 msgid "Number of calls"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1002
 #: templates/static_pages/prop_file.html:1003
+#: templates/static_pages/prop_file.html:1004
 msgid "Can I use it?"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1004
+#: templates/static_pages/prop_file.html:1005
 #, fuzzy
 msgid "Yes, with attribution"
 msgstr "Atribución Europeana"
 
-#: templates/static_pages/prop_file.html:1005
+#: templates/static_pages/prop_file.html:1006
 #, fuzzy
 msgid "Yes, with restrictions"
 msgstr "Atribución Europeana"
 
-#: templates/static_pages/prop_file.html:1006
+#: templates/static_pages/prop_file.html:1007
 msgid "Only with permission"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1008
+#: templates/static_pages/prop_file.html:1009
 #, fuzzy
 msgid "Export API users to CSV"
 msgstr "Exportar usuarios a un CSV"
 
-#: templates/static_pages/prop_file.html:1009
+#: templates/static_pages/prop_file.html:1010
 #, fuzzy
 msgid "Export API users to Excel"
 msgstr "Exportar usuarios a un CSV"
 
-#: templates/static_pages/prop_file.html:1011
+#: templates/static_pages/prop_file.html:1012
 msgid "It looks like your browser is set to"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1012
+#: templates/static_pages/prop_file.html:1013
 msgid "would you like the interface to be in"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1013
+#: templates/static_pages/prop_file.html:1014
 #, fuzzy
 msgid "English"
 msgstr "Inglés (eng)"
 
-#: templates/static_pages/prop_file.html:1014
+#: templates/static_pages/prop_file.html:1015
 msgid "Basque"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1015
+#: templates/static_pages/prop_file.html:1016
 #, fuzzy
 msgid "Bulgarian"
 msgstr "Bulgaria"
 
-#: templates/static_pages/prop_file.html:1016
+#: templates/static_pages/prop_file.html:1017
 msgid "Catalan"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1017
+#: templates/static_pages/prop_file.html:1018
 msgid "Czech"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1018
+#: templates/static_pages/prop_file.html:1019
 #, fuzzy
 msgid "Danish"
 msgstr "Danés (dan)"
 
-#: templates/static_pages/prop_file.html:1019
+#: templates/static_pages/prop_file.html:1020
 #, fuzzy
 msgid "German"
 msgstr "Alemania"
 
-#: templates/static_pages/prop_file.html:1020
+#: templates/static_pages/prop_file.html:1021
 #, fuzzy
 msgid "Greek"
 msgstr "Grecia"
 
-#: templates/static_pages/prop_file.html:1021
+#: templates/static_pages/prop_file.html:1022
 #, fuzzy
 msgid "Spanish"
 msgstr "Español"
 
-#: templates/static_pages/prop_file.html:1022
+#: templates/static_pages/prop_file.html:1023
 #, fuzzy
 msgid "Estonian"
 msgstr "Estonia"
 
-#: templates/static_pages/prop_file.html:1023
+#: templates/static_pages/prop_file.html:1024
 #, fuzzy
 msgid "French"
 msgstr "Francés (fre)"
 
-#: templates/static_pages/prop_file.html:1024
+#: templates/static_pages/prop_file.html:1025
 msgid "Irish"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1025
+#: templates/static_pages/prop_file.html:1026
 #, fuzzy
 msgid "Croatian"
 msgstr "Croacia"
 
-#: templates/static_pages/prop_file.html:1026
+#: templates/static_pages/prop_file.html:1027
 #, fuzzy
 msgid "Icelandic"
 msgstr "Islandia"
 
-#: templates/static_pages/prop_file.html:1027
+#: templates/static_pages/prop_file.html:1028
 #, fuzzy
 msgid "Italian"
 msgstr "Italiano (ita)"
 
-#: templates/static_pages/prop_file.html:1028
+#: templates/static_pages/prop_file.html:1029
 #, fuzzy
 msgid "Lithuanian"
 msgstr "Lituania"
 
-#: templates/static_pages/prop_file.html:1029
+#: templates/static_pages/prop_file.html:1030
 #, fuzzy
 msgid "Latvian"
 msgstr "Latvia"
 
-#: templates/static_pages/prop_file.html:1030
+#: templates/static_pages/prop_file.html:1031
 #, fuzzy
 msgid "Hungarian"
 msgstr "Húngaro (hun)"
 
-#: templates/static_pages/prop_file.html:1031
+#: templates/static_pages/prop_file.html:1032
 #, fuzzy
 msgid "Maltese"
 msgstr "Maltés (mlt)"
 
-#: templates/static_pages/prop_file.html:1032
+#: templates/static_pages/prop_file.html:1033
 #, fuzzy
 msgid "Dutch"
 msgstr "Holandés (dut)"
 
-#: templates/static_pages/prop_file.html:1033
+#: templates/static_pages/prop_file.html:1034
 #, fuzzy
 msgid "Norwegian"
 msgstr "Noruego (nor)"
 
-#: templates/static_pages/prop_file.html:1034
+#: templates/static_pages/prop_file.html:1035
 #, fuzzy
 msgid "Polish"
 msgstr "Polaco (pol)"
 
-#: templates/static_pages/prop_file.html:1035
+#: templates/static_pages/prop_file.html:1036
 #, fuzzy
 msgid "Romanian"
 msgstr "Rumanía"
 
-#: templates/static_pages/prop_file.html:1036
+#: templates/static_pages/prop_file.html:1037
 #, fuzzy
 msgid "Russian"
 msgstr "Ruso (rus)"
 
-#: templates/static_pages/prop_file.html:1037
+#: templates/static_pages/prop_file.html:1038
 #, fuzzy
 msgid "Slovene"
 msgstr "Eslovenia"
 
-#: templates/static_pages/prop_file.html:1038
+#: templates/static_pages/prop_file.html:1039
 #, fuzzy
 msgid "Slovak"
 msgstr "Eslovaquia"
 
-#: templates/static_pages/prop_file.html:1039
+#: templates/static_pages/prop_file.html:1040
 #, fuzzy
 msgid "Finnish"
 msgstr "Finés (fin)"
 
-#: templates/static_pages/prop_file.html:1040
+#: templates/static_pages/prop_file.html:1041
 #, fuzzy
 msgid "Swedish"
 msgstr "Suecia"
 
-#: templates/static_pages/prop_file.html:1041
+#: templates/static_pages/prop_file.html:1042
 #, fuzzy
 msgid "Ukranian"
 msgstr "Francia"
 
-#: templates/static_pages/prop_file.html:1043
+#: templates/static_pages/prop_file.html:1044
 #, fuzzy
 msgid "no"
 msgstr "no"
 
-#: templates/static_pages/prop_file.html:1044
+#: templates/static_pages/prop_file.html:1045
 msgid "yes"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1046
+#: templates/static_pages/prop_file.html:1047
 #, fuzzy
 msgid "Language settings"
 msgstr "Política lingüística"
 
-#: templates/static_pages/prop_file.html:1047
+#: templates/static_pages/prop_file.html:1048
 #, fuzzy
 msgid "Automatically translate item pages into:"
 msgstr "Añadir etiquetas semánticas automáticamente"
 
-#: templates/static_pages/prop_file.html:1048
+#: templates/static_pages/prop_file.html:1049
 #, fuzzy
 msgid "Auto translate items into"
 msgstr "Traducir los detalles del objeto"
 
-#: templates/static_pages/prop_file.html:1049
+#: templates/static_pages/prop_file.html:1050
 #, fuzzy
 msgid "Automatically translate search keywords into:"
 msgstr "Añadir etiquetas semánticas automáticamente"
 
-#: templates/static_pages/prop_file.html:1050
+#: templates/static_pages/prop_file.html:1051
 msgid ""
 "For registered users, you can choose a maximum of 6 options. For "
 "unregistered users, you can choose a maximum of 3 options."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1051
+#: templates/static_pages/prop_file.html:1052
 msgid "Submit"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1052
+#: templates/static_pages/prop_file.html:1053
 #, fuzzy
 msgid "Incorrect password."
 msgstr "He olvidado mi contraseña"
 
-#: templates/static_pages/prop_file.html:1053
+#: templates/static_pages/prop_file.html:1054
 #, fuzzy
 msgid ""
 "Log into My Europeana to save your favourite items, searches, tags and "
@@ -4668,48 +4668,48 @@ msgstr ""
 "puede guardar sus objetos y búsquedas favoritas, y añadir etiquetas a los "
 "objetos para ayudarle a clasificarlos en diferentes categorías."
 
-#: templates/static_pages/prop_file.html:1054
+#: templates/static_pages/prop_file.html:1055
 #, fuzzy
 msgid "Please enter your username."
 msgstr "Por favor, vuelva a registrar su dirección de correo electrónico"
 
-#: templates/static_pages/prop_file.html:1055
+#: templates/static_pages/prop_file.html:1056
 #, fuzzy
 msgid "Please enter your password."
 msgstr "Por favor, vuelva a registrar su dirección de correo electrónico"
 
-#: templates/static_pages/prop_file.html:1056
+#: templates/static_pages/prop_file.html:1057
 msgid "Registered users may choose a maximum of 6 options."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1057
+#: templates/static_pages/prop_file.html:1058
 msgid "Unregistered users may choose a maximum of 3 options."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1058
+#: templates/static_pages/prop_file.html:1059
 #, fuzzy
 msgid "Clear selection"
 msgstr "Colección"
 
-#: templates/static_pages/prop_file.html:1059
+#: templates/static_pages/prop_file.html:1060
 #, fuzzy
 msgid "Request passsword"
 msgstr "Repetir la contraseña"
 
-#: templates/static_pages/prop_file.html:1060
+#: templates/static_pages/prop_file.html:1061
 msgid "Invalid credentials"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1061
+#: templates/static_pages/prop_file.html:1062
 #, fuzzy
 msgid "Save settings"
 msgstr "Política lingüística"
 
-#: templates/static_pages/prop_file.html:1062
+#: templates/static_pages/prop_file.html:1063
 msgid "Settings have been saved."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1063
+#: templates/static_pages/prop_file.html:1064
 #, fuzzy
 msgid ""
 "Sorry, there was a problem saving your settings. Please try again later."

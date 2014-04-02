@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-02 13:15+0200\n"
+"POT-Creation-Date: 2014-04-02 13:16+0200\n"
 "PO-Revision-Date: 2013-10-15 11:17\n"
 "Last-Translator: <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,11 +18,15 @@ msgstr ""
 "X-Translated-Using: django-rosetta 0.5.6\n"
 
 #: templates/api_leftmenu.html:3 templates/static_pages/europeana-api.html:4
+#: templates/static_pages/prop_file.html:63
+#: templates/static_pages/prop_file.html:824
 #: templates/static_pages/sitemap.html:51
 msgid "Europeana API"
 msgstr "Europeana API"
 
-#: templates/api_leftmenu.html:6 templates/static_pages/sitemap.html:53
+#: templates/api_leftmenu.html:6 templates/static_pages/prop_file.html:995
+#: templates/static_pages/prop_file.html:996
+#: templates/static_pages/sitemap.html:53
 msgid "Get an API-Key"
 msgstr "Få en API nøkkel"
 
@@ -40,89 +44,135 @@ msgid "Europeana API Forum"
 msgstr "Europeana API Forum"
 
 #: templates/explore_leftmenu.html:3 templates/static_pages/explore.html:9
+#: templates/static_pages/prop_file.html:546
+#: templates/static_pages/prop_file.html:547
 msgid "Explore"
 msgstr "Utforsk"
 
-#: templates/explore_leftmenu.html:5 templates/static_pages/sitemap.html:20
+#: templates/explore_leftmenu.html:5 templates/static_pages/prop_file.html:550
+#: templates/static_pages/prop_file.html:551
+#: templates/static_pages/prop_file.html:880
+#: templates/static_pages/sitemap.html:20
 msgid "Europeana Remix"
 msgstr "Europeana Remix"
 
-#: templates/explore_leftmenu.html:6 templates/static_pages/sitemap.html:17
+#: templates/explore_leftmenu.html:6 templates/static_pages/prop_file.html:554
+#: templates/static_pages/prop_file.html:555
+#: templates/static_pages/prop_file.html:869
+#: templates/static_pages/sitemap.html:17
 #: templates/static_pages/usingeuropeana_explore.html:14
 msgid "Exhibitions"
 msgstr "Utstillinger"
 
 #: templates/explore_leftmenu.html:7 templates/leftmenu.html:8
+#: templates/static_pages/prop_file.html:60
+#: templates/static_pages/prop_file.html:558
+#: templates/static_pages/prop_file.html:559
+#: templates/static_pages/prop_file.html:918
+#: templates/static_pages/prop_file.html:919
 #: templates/static_pages/sitemap.html:38
 #: templates/static_pages/sitemap.html:87
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "New content"
 msgstr "Nytt innhold"
 
-#: templates/explore_leftmenu.html:9 templates/static_pages/sitemap.html:88
+#: templates/explore_leftmenu.html:9 templates/static_pages/prop_file.html:78
+#: templates/static_pages/prop_file.html:562
+#: templates/static_pages/prop_file.html:563
+#: templates/static_pages/sitemap.html:88
 #: templates/static_pages/usingeuropeana_search.html:60
 msgid "By provider"
 msgstr "etter tilbyder"
 
-#: templates/explore_leftmenu.html:10 templates/static_pages/sitemap.html:89
+#: templates/explore_leftmenu.html:10 templates/static_pages/prop_file.html:37
+#: templates/static_pages/prop_file.html:566
+#: templates/static_pages/prop_file.html:567
+#: templates/static_pages/sitemap.html:89
 msgid "Timeline"
 msgstr "Tidslinje"
 
-#: templates/explore_leftmenu.html:11 templates/static_pages/sitemap.html:90
+#: templates/explore_leftmenu.html:11
+#: templates/static_pages/prop_file.html:570
+#: templates/static_pages/prop_file.html:571
+#: templates/static_pages/sitemap.html:90
 msgid "Map"
 msgstr "Kart"
 
 #: templates/followus_leftmenu.html:3 templates/static_pages/followus.html:9
+#: templates/static_pages/prop_file.html:618
+#: templates/static_pages/prop_file.html:619
 msgid "Follow Us"
 msgstr "Følg oss"
 
-#: templates/followus_leftmenu.html:5 templates/static_pages/sitemap.html:18
+#: templates/followus_leftmenu.html:5
+#: templates/static_pages/prop_file.html:622
+#: templates/static_pages/prop_file.html:623
+#: templates/static_pages/prop_file.html:873
+#: templates/static_pages/sitemap.html:18
 msgid "Blog"
 msgstr "Blogg"
 
 #: templates/followus_leftmenu.html:6
+#: templates/static_pages/prop_file.html:626
+#: templates/static_pages/prop_file.html:627
 msgid "Newsletter"
 msgstr "Nyhetsbrev"
 
 #: templates/followus_leftmenu.html:8
+#: templates/static_pages/prop_file.html:630
+#: templates/static_pages/prop_file.html:631
 msgid "Facebook"
 msgstr "Facebook"
 
 #: templates/followus_leftmenu.html:9
+#: templates/static_pages/prop_file.html:634
+#: templates/static_pages/prop_file.html:635
 msgid "Twitter"
 msgstr "Twitter"
 
 #: templates/leftmenu.html:3 templates/NOT/leftmenu1_old.html:3
-#: templates/NOT/leftmenu_old.html:3
+#: templates/NOT/leftmenu_old.html:3 templates/static_pages/prop_file.html:598
+#: templates/static_pages/prop_file.html:599
 msgid "About Us"
 msgstr "Om oss"
 
 #: templates/leftmenu.html:6 templates/NOT/leftmenu1_old.html:6
-#: templates/NOT/leftmenu_old.html:6
+#: templates/NOT/leftmenu_old.html:6 templates/static_pages/prop_file.html:602
+#: templates/static_pages/prop_file.html:603
 msgid "Background"
 msgstr "Bakgrunn"
 
-#: templates/leftmenu.html:9
+#: templates/leftmenu.html:9 templates/static_pages/prop_file.html:923
+#: templates/static_pages/prop_file.html:924
 #, fuzzy
 msgid "All providers"
 msgstr "etter tilbyder"
 
 #: templates/leftmenu.html:10 templates/static_pages/aboutus_enews.html:11
+#: templates/static_pages/prop_file.html:928
+#: templates/static_pages/prop_file.html:929
 #: templates/static_pages/sitemap.html:40
 msgid "Previous newsletters"
 msgstr "Tidligere nyhetsbrev"
 
 #: templates/leftmenu.html:12 templates/NOT/leftmenu_old.html:8
+#: templates/static_pages/prop_file.html:933
+#: templates/static_pages/prop_file.html:934
 msgid "Press Centre"
 msgstr "Pressesenter"
 
 #: templates/leftmenu.html:13 templates/NOT/leftmenu_old.html:9
+#: templates/static_pages/prop_file.html:938
+#: templates/static_pages/prop_file.html:939
 msgid "Jobs"
 msgstr "Jobber"
 
 #: templates/leftmenu.html:14 templates/leftmenu.html.py:17
 #: templates/NOT/leftmenu1_old.html:9 templates/NOT/leftmenu1_old.html:12
 #: templates/NOT/leftmenu_old.html:10 templates/NOT/leftmenu_old.html.py:14
+#: templates/static_pages/prop_file.html:36
+#: templates/static_pages/prop_file.html:614
+#: templates/static_pages/prop_file.html:615
 msgid "Partners"
 msgstr "Partnere"
 
@@ -133,6 +183,8 @@ msgstr "Presserom"
 
 #: templates/leftmenu.html:16 templates/NOT/leftmenu1_old.html:8
 #: templates/NOT/leftmenu1_old.html:11 templates/NOT/leftmenu_old.html:13
+#: templates/static_pages/prop_file.html:610
+#: templates/static_pages/prop_file.html:611
 msgid "Job opportunities"
 msgstr "Jobbmuligheter"
 
@@ -190,17 +242,25 @@ msgstr "Våre "
 
 #: templates/terms_leftmenu.html:24 templates/rights/privacy.html:15
 #: templates/rights/terms-and-policies.html:37
+#: templates/static_pages/prop_file.html:68
+#: templates/static_pages/prop_file.html:530
+#: templates/static_pages/prop_file.html:531
 #: templates/static_pages/sitemap.html:106
 msgid "Privacy"
 msgstr "Personvern"
 
 #: templates/terms_leftmenu.html:25 templates/rights/languagepolicy.html:15
 #: templates/rights/terms-and-policies.html:37
+#: templates/static_pages/prop_file.html:180
+#: templates/static_pages/prop_file.html:239
 msgid "Language"
 msgstr "Språk"
 
 #: templates/terms_leftmenu.html:26 templates/rights/accessibility.html:15
 #: templates/rights/terms-and-policies.html:37
+#: templates/static_pages/prop_file.html:65
+#: templates/static_pages/prop_file.html:518
+#: templates/static_pages/prop_file.html:519
 #: templates/static_pages/sitemap.html:108
 msgid "Accessibility"
 msgstr "Tilgjengelighet"
@@ -210,12 +270,21 @@ msgid "Public Domain Charter"
 msgstr "Charter for rettighetsløst materiale"
 
 #: templates/usingeuropeana_leftmenu.html:3
+#: templates/static_pages/prop_file.html:334
+#: templates/static_pages/prop_file.html:574
+#: templates/static_pages/prop_file.html:575
+#: templates/static_pages/prop_file.html:888
+#: templates/static_pages/prop_file.html:889
 #: templates/static_pages/sitemap.html:25
 #: templates/static_pages/usingeuropeana.html:9
 msgid "Help"
 msgstr "Hjelp"
 
 #: templates/usingeuropeana_leftmenu.html:5
+#: templates/static_pages/prop_file.html:578
+#: templates/static_pages/prop_file.html:579
+#: templates/static_pages/prop_file.html:892
+#: templates/static_pages/prop_file.html:893
 #: templates/static_pages/usingeuropeana.html:14
 #: templates/static_pages/usingeuropeana_results.html:22
 #: templates/static_pages/usingeuropeana_search.html:9
@@ -224,6 +293,11 @@ msgid "Searching Europeana"
 msgstr "Søke i Europeana"
 
 #: templates/usingeuropeana_leftmenu.html:6
+#: templates/static_pages/prop_file.html:288
+#: templates/static_pages/prop_file.html:582
+#: templates/static_pages/prop_file.html:583
+#: templates/static_pages/prop_file.html:896
+#: templates/static_pages/prop_file.html:897
 #: templates/static_pages/sitemap.html:28
 #: templates/static_pages/usingeuropeana.html:16
 #: templates/static_pages/usingeuropeana_explore.html:9
@@ -232,6 +306,10 @@ msgid "Exploring Europeana"
 msgstr "Utforsk Europeana"
 
 #: templates/usingeuropeana_leftmenu.html:8
+#: templates/static_pages/prop_file.html:586
+#: templates/static_pages/prop_file.html:587
+#: templates/static_pages/prop_file.html:900
+#: templates/static_pages/prop_file.html:901
 #: templates/static_pages/sitemap.html:29
 #: templates/static_pages/usingeuropeana.html:19
 #: templates/static_pages/usingeuropeana_results.html:9
@@ -240,6 +318,10 @@ msgid "Results in Europeana"
 msgstr "Resultater i Europeana"
 
 #: templates/usingeuropeana_leftmenu.html:9
+#: templates/static_pages/prop_file.html:590
+#: templates/static_pages/prop_file.html:591
+#: templates/static_pages/prop_file.html:904
+#: templates/static_pages/prop_file.html:905
 #: templates/static_pages/sitemap.html:30
 #: templates/static_pages/usingeuropeana.html:21
 #: templates/static_pages/usingeuropeana_myeuropeana.html:9
@@ -248,6 +330,8 @@ msgid "Using My Europeana"
 msgstr "Bruke Mitt Europeana"
 
 #: templates/usingeuropeana_leftmenu.html:10
+#: templates/static_pages/prop_file.html:908
+#: templates/static_pages/prop_file.html:909
 #, fuzzy
 msgid "Configure your search widget"
 msgstr "filtrer dine søkeresultater:"
@@ -1359,6 +1443,7 @@ msgstr ""
 "Disse inkluderer"
 
 #: templates/static_pages/aboutus.html:28
+#: templates/static_pages/prop_file.html:91
 #: templates/static_pages/usingeuropeana_results.html:16
 msgid "Images"
 msgstr "Bilder"
@@ -1368,6 +1453,7 @@ msgid "paintings, drawings, maps, photos and pictures of museum objects"
 msgstr "malerier, tegninger, kart, fotografier og bilder av museumsobjekter"
 
 #: templates/static_pages/aboutus.html:29
+#: templates/static_pages/prop_file.html:90
 #: templates/static_pages/usingeuropeana_results.html:15
 msgid "Texts"
 msgstr "Tekster"
@@ -1377,6 +1463,7 @@ msgid "books, newspapers, letters, diaries and archival papers"
 msgstr "bøker, aviser, brev, dagbøker og arkivdokumenter"
 
 #: templates/static_pages/aboutus.html:30
+#: templates/static_pages/prop_file.html:93
 msgid "Sounds"
 msgstr "Lyder"
 
@@ -1385,6 +1472,7 @@ msgid "music and spoken word from cylinders, tapes, discs and radio broadcasts"
 msgstr "musikk og tale fra sylindre, lydbånd, plater og radiosendinger"
 
 #: templates/static_pages/aboutus.html:31
+#: templates/static_pages/prop_file.html:92
 msgid "Videos"
 msgstr "Videoer"
 
@@ -1694,18 +1782,129 @@ msgstr ""
 msgid "Europeana - New Content"
 msgstr "Europeana - Nytt innhold"
 
-#: templates/static_pages/sitemap.html:4
-msgid "Europeana - Sitemap"
-msgstr "Europeana - Nettstedkart"
+#: templates/static_pages/prop_file.html:5
+msgid ""
+"I understand that My Europeana gives me the opportunity to create tags for "
+"any item I wish. I agree that I will not create any tags that could be "
+"considered libelous, harmful, threatening, unlawful, defamatory,infringing, "
+"abusive, inflammatory, harassing, pornographic, obscene, fraudulent, "
+"invasive of privacy orpublicity rights, hateful, or racially, ethnically or "
+"otherwise objectionable. By clicking this box I agreeto abide by this "
+"agreement, and understand that if I don't my membership of My Europeana will "
+"be terminated."
+msgstr ""
+"Jeg forstår at Mitt Europeana gir meg muligheten til å tagge et hvilket som "
+"helst element jeg ønsker. Jeg godtar at jeg ikke vil lage noen tags som kan "
+"anses som injurierende, skadelig, truende, ulovlig, ærekrenkende, "
+"fornærmende, provoserende, støtende, pornografisk, uanstendig, uredelig, "
+"krenkende for personvern or publisering rettigheter, hatefullt, rasistisk, "
+"etnisk eller ellers upassende. Ved å klikke på denne boksen bekrefter jeg at "
+"jeg vil overholde denne avtalen, og forstår at hvis jeg bryter reglene vil "
+"mitt medlemskap i Mitt Europeana bli avsluttet."
 
-#: templates/static_pages/sitemap.html:8
-msgid "Sitemap"
-msgstr "Nettstedkart"
+#: templates/static_pages/prop_file.html:6
+msgid "You must agree to our code of conduct to register for My Europeana"
+msgstr ""
+"Du må godta reglene for oppførsel for å registrere deg til Mitt Europeana"
 
-#: templates/static_pages/sitemap.html:11
-msgid "Home"
-msgstr "Hjem"
+#: templates/static_pages/prop_file.html:7
+msgid "I agree"
+msgstr "Bilder"
 
+#: templates/static_pages/prop_file.html:8
+#: templates/static_pages/prop_file.html:230
+msgid "Contributor"
+msgstr "Bidragsyter"
+
+#: templates/static_pages/prop_file.html:9
+msgid "Contributors"
+msgstr "Bidragsytere"
+
+#: templates/static_pages/prop_file.html:10
+msgid "Country"
+msgstr "Land"
+
+#: templates/static_pages/prop_file.html:11
+msgid "Sector"
+msgstr "Sektor"
+
+#: templates/static_pages/prop_file.html:12
+msgid "Partner"
+msgstr "Partner"
+
+#: templates/static_pages/prop_file.html:13
+msgid ""
+"This is the network of partners who collaborated to make Europeana happen, "
+"and who represent Europeana in their countries and professional associations."
+msgstr ""
+"Dette er pertnernettverket som saamarbeidet for å virkeliggjøre Europeana, "
+"og som representerer Europeana i deres land og profesjonelle institusjoner."
+
+#: templates/static_pages/prop_file.html:14
+#, fuzzy
+msgid ""
+"These are the organisations that are contributing content - digitised "
+"paintings, books, broadcasts etc. Some of these contributors are  "
+"aggregators*, Culture.fr is the largest aggregator, providing content from "
+"about 480 organisations in France, including the Louvre and the MusÃ©e dâ"
+"€™Orsay. The number of organisations contributing to an aggregator is shown "
+"in brackets after the aggregatorâ€™s name, e.g. Videoactive (10)"
+msgstr ""
+"Dette er organisasjonene som bidrar med innhold, digitale malerier, bøker, "
+"kringkastet materiale etc. Noen av disse er samlingsportaler. Culture.fr er "
+"den største portalen som bidrar med innhold fra 480 institusjoner i "
+"Frankrike, inkludert Louvre og Musée d'Orsay. Antallet organiasjoner som "
+"bidrar til en portal vises i parantes, f.eks Videoactive (10)"
+
+#: templates/static_pages/prop_file.html:15
+msgid ""
+"*An aggregator collects material from a range of other contributors, "
+"displays it on their own website and also channels it into Europeana."
+msgstr ""
+"En portal samler materiale fra en rekke andre bidragsytere, viser det på "
+"egne nettsteder og kanaliserer det inn i Europeana."
+
+#: templates/static_pages/prop_file.html:16
+msgid "This is a required field"
+msgstr "Dette er et obligatorisk felt"
+
+#: templates/static_pages/prop_file.html:17
+msgid "Please enter a valid email address"
+msgstr "Vær vennlig å skriv inn en gyldig emailadresse"
+
+#: templates/static_pages/prop_file.html:18
+msgid "Logged in as"
+msgstr "Logget inn som"
+
+#: templates/static_pages/prop_file.html:19
+msgid "Saved items"
+msgstr "Lagrede elementer"
+
+#: templates/static_pages/prop_file.html:20
+msgid "Saved searches"
+msgstr "Avansert søk"
+
+#: templates/static_pages/prop_file.html:21
+msgid "Saved tags"
+msgstr "Lagrede tagger"
+
+#: templates/static_pages/prop_file.html:22
+msgid "Saved notifications"
+msgstr "Lagrede tags"
+
+#: templates/static_pages/prop_file.html:23
+msgid "Login"
+msgstr "Lenke"
+
+#: templates/static_pages/prop_file.html:24
+msgid "Log out"
+msgstr "innebærer ikke"
+
+#: templates/static_pages/prop_file.html:25
+#: templates/static_pages/prop_file.html:642
+#: templates/static_pages/prop_file.html:643
+#: templates/static_pages/prop_file.html:961
+#: templates/static_pages/prop_file.html:962
 #: templates/static_pages/sitemap.html:12
 #: templates/static_pages/usingeuropeana_myeuropeana.html:10
 #: templates/static_pages/usingeuropeana_myeuropeana.html:11
@@ -1714,31 +1913,2740 @@ msgstr "Hjem"
 msgid "My Europeana"
 msgstr "Mitt Europeana"
 
-#: templates/static_pages/sitemap.html:15
-msgid "Other Europeana Sites"
-msgstr "Andre Europeana sider"
+#: templates/static_pages/prop_file.html:26
+msgid ""
+"Thank you very much for your feedback. If your feedback requires a response "
+"a member of the Europeana team will get back to you as soon as possible. For "
+"faster response feedback should be submitted in English."
+msgstr ""
+"Tusen takk for tilbakemeldingen din. Hvis din tilbakemelding krever en "
+"respons vil et medlem av Europeana-teamet komme tilbake til deg så snart som "
+"mulig. For rask respons skal tilbakemelding sendes på engelsk.]"
 
-#: templates/static_pages/sitemap.html:19
-msgid "Europeana 1914-1918"
-msgstr "Europeana 1914-1918"
+#: templates/static_pages/prop_file.html:27
+msgid "Keep me in touch with new developments to Europeana"
+msgstr "Oppdater meg på ny utvikling av Europeana"
 
-#: templates/static_pages/sitemap.html:21
-msgid "Europeana Professional"
-msgstr "Europeana Profesjonell"
+#: templates/static_pages/prop_file.html:28
+msgid "User Conduct"
+msgstr "Brukeroppførsel"
 
-#: templates/static_pages/sitemap.html:27
-msgid "Searching in Europeana"
+#: templates/static_pages/prop_file.html:29
+msgid ""
+"I understand that My Europeana gives me the opportunity to create tags for "
+"any item I wish. I agree that I will not create any tags that could be "
+"considered libelous, harmful, threatening, unlawful, defamatory, infringing, "
+"abusive, inflammatory, harassing, pornographic, obscene, fraudulent, "
+"invasive of privacy or publicity rights, hateful, or racially, ethnically or "
+"otherwise objectionable. By clicking this box I agree to abide by this "
+"agreement, and understand that if I don't my membership of My Europeana will "
+"be terminated. CLICK TO AGREE"
+msgstr ""
+"Jeg er inneforstått med at Mitt Europeana gir meg muligheter til å tagge et "
+"hvert objekt. Jeg vil ikke generere noen tag som kan oppfattes som "
+"injurierende, skadelige, truende, ulovlige, nedsettende, støtende, "
+"oppviglerske, pornografiske, obskøne, svindlende, invaderende i "
+"privatrettslig eller offentlig forstand, hatefulle, eller rasistiske, "
+"etniske eller på annet vis anstøtende. Gjennom å klikke på denne boksen sier "
+"jeg meg enig i å følge disse reglren, og er inneforståått med at brudd kan "
+"avslutte mitt medlemskap i Mitt uropeana. KLIKK FOR Å GODTA"
+
+#: templates/static_pages/prop_file.html:30
+msgid "First name"
+msgstr "Fornavn"
+
+#: templates/static_pages/prop_file.html:31
+msgid "Last name"
+msgstr "Siste endring"
+
+#: templates/static_pages/prop_file.html:32
+msgid ""
+"To make optimal use of this website you need to have JavaScript activated"
+msgstr "Best bruk av dette nettstedet fordrer bruk av Javaskript"
+
+#: templates/static_pages/prop_file.html:33
+#: templates/static_pages/storyline.html:11
+msgid "Storyline and credits"
+msgstr "Storyline og kredittering"
+
+#: templates/static_pages/prop_file.html:34
+msgid "Check the FAQs - they may cover your feedback"
+msgstr "Sjekk FAQ - dine spørsmål kan være besvart der"
+
+#: templates/static_pages/prop_file.html:35
+msgid "Communities"
+msgstr "Fellesskap"
+
+#: templates/static_pages/prop_file.html:38
+msgid "ThoughtLab"
+msgstr "ThoughtLab"
+
+#: templates/static_pages/prop_file.html:39
+msgid "Choose a language"
+msgstr "Velg språk"
+
+#: templates/static_pages/prop_file.html:40
+msgid "Select language"
+msgstr "Velg språk"
+
+#: templates/static_pages/prop_file.html:41
+msgid "This is Europeana"
+msgstr "Bruke Europeana"
+
+#: templates/static_pages/prop_file.html:42
+msgid ""
+"a place for inspiration and ideas. Search through the cultural collections "
+"of Europe, connect to other user pathways and share your discoveries."
+msgstr ""
+"et sted for inspirasjon og ideer. Søk i de kulturelle samlingene i Europa, "
+"finn nye brukerveier og del dine funn"
+
+#: templates/static_pages/prop_file.html:43
+msgid "Find out more"
+msgstr "Finn ut mere"
+
+#: templates/static_pages/prop_file.html:44
+#: templates/static_pages/sitemap.html:65
+#: templates/static_pages/usingeuropeana_search.html:21
+#: templates/static_pages/usingeuropeana_search.html:25
+#: templates/static_pages/usingeuropeana_search.html:27
+#: templates/static_pages/usingeuropeana_search.html:45
+msgid "Search"
+msgstr "Søk"
+
+#: templates/static_pages/prop_file.html:45
+#: templates/static_pages/prop_file.html:335
+msgid "Reset"
+msgstr "Reset"
+
+#: templates/static_pages/prop_file.html:46
+#: templates/static_pages/usingeuropeana_results.html:49
+msgid "Previous"
+msgstr "Forrige"
+
+#: templates/static_pages/prop_file.html:47
+#: templates/static_pages/usingeuropeana_results.html:49
+msgid "Next"
+msgstr "Neste"
+
+#: templates/static_pages/prop_file.html:48
+msgid "Advanced search"
+msgstr "Avansert søk"
+
+#: templates/static_pages/prop_file.html:49
+msgid "Hide advanced search"
+msgstr "Avansert søk"
+
+#: templates/static_pages/prop_file.html:50
+msgid "and"
+msgstr "Polen"
+
+#: templates/static_pages/prop_file.html:51
+#: templates/static_pages/usingeuropeana_results.html:24
+#: templates/static_pages/usingeuropeana_results.html:25
+#: templates/static_pages/usingeuropeana_results.html:41
+#: templates/static_pages/usingeuropeana_results.html:49
+#: templates/static_pages/usingeuropeana_search.html:32
+msgid "or"
+msgstr "eller"
+
+#: templates/static_pages/prop_file.html:52
+msgid "not"
+msgstr "innebærer ikke"
+
+#: templates/static_pages/prop_file.html:53
+msgid "Any field"
+msgstr "Alle felt"
+
+#: templates/static_pages/prop_file.html:54
+msgid "Share your ideas"
+msgstr "Del dine ideer"
+
+#: templates/static_pages/prop_file.html:55
+msgid "Tagging"
+msgstr "Tagging"
+
+#: templates/static_pages/prop_file.html:56
+msgid "Send us feedback"
+msgstr "send oss tilbakemelding"
+
+#: templates/static_pages/prop_file.html:57
+msgid "People are currently thinking about"
+msgstr "Folk tenker for tiden på"
+
+#: templates/static_pages/prop_file.html:58
+msgid "Timeline navigator"
+msgstr "Tidslinjenavigator"
+
+#: templates/static_pages/prop_file.html:59
+msgid "Browse through time"
+msgstr "Browse i tidslinje"
+
+#: templates/static_pages/prop_file.html:61
+msgid ""
+"From our partner museums, archives, libraries and audio-visual collections"
+msgstr ""
+"Fra våre partner-museer, -arkiver, -biblioteker og -audiovisuelle samlinger"
+
+#: templates/static_pages/prop_file.html:62
+#: templates/static_pages/prop_file.html:913
+#: templates/static_pages/prop_file.html:914
+#: templates/static_pages/sitemap.html:36
+msgid "About us"
+msgstr "Om oss"
+
+#: templates/static_pages/prop_file.html:64
+msgid "Using Europeana"
+msgstr "Bruke Europeana"
+
+#: templates/static_pages/prop_file.html:66
+#: templates/static_pages/prop_file.html:522
+#: templates/static_pages/prop_file.html:523
+#: templates/static_pages/prop_file.html:835
+#: templates/static_pages/prop_file.html:836
+#: templates/static_pages/sitemap.html:8
+msgid "Sitemap"
+msgstr "Nettstedkart"
+
+#: templates/static_pages/prop_file.html:67
+#: templates/static_pages/prop_file.html:362
+msgid "Terms and conditions"
+msgstr "Betingelser og vilkår"
+
+#: templates/static_pages/prop_file.html:69
+#: templates/static_pages/sitemap.html:107
+msgid "Language policy"
+msgstr "Språkpolitikk"
+
+#: templates/static_pages/prop_file.html:70
+#: templates/static_pages/prop_file.html:831
+#: templates/static_pages/prop_file.html:832
+msgid "Contact us"
+msgstr "Kontakt oss"
+
+#: templates/static_pages/prop_file.html:71
+msgid "co-funded by the European Union"
+msgstr "del-finansiert av Den Europeiske Union"
+
+#: templates/static_pages/prop_file.html:72
+msgid "Europeana think culture"
+msgstr "Europeana tenk kultur"
+
+#: templates/static_pages/prop_file.html:73
+msgid "Click here to return to the Europeana homepage"
+msgstr "Klikk her for å gå tilbake til Europeanas hjemmeside"
+
+#: templates/static_pages/prop_file.html:74
+msgid "Refine your results"
+msgstr "Avgrens resultatene"
+
+#: templates/static_pages/prop_file.html:75
+msgid "By language of description"
+msgstr "med beskrivelsens språk"
+
+#: templates/static_pages/prop_file.html:76
+msgid "By providing country"
+msgstr "med tilbyderland"
+
+#: templates/static_pages/prop_file.html:77
+msgid "By year"
+msgstr "med år"
+
+#: templates/static_pages/prop_file.html:79
+msgid "By user tag"
+msgstr "via brukertags"
+
+#: templates/static_pages/prop_file.html:80
+msgid "By type"
+msgstr "Etter type"
+
+#: templates/static_pages/prop_file.html:81
+#: templates/static_pages/usingeuropeana_search.html:55
+msgid "By media type"
+msgstr "Etter medietype"
+
+#: templates/static_pages/prop_file.html:82
+msgid "Actions"
+msgstr "Handlinger"
+
+#: templates/static_pages/prop_file.html:83
+#: templates/static_pages/usingeuropeana_myeuropeana.html:14
+msgid "Save this search"
+msgstr "Lagre dette søket"
+
+#: templates/static_pages/prop_file.html:84
+msgid "Search saved"
+msgstr "Søk lagret"
+
+#: templates/static_pages/prop_file.html:85
+msgid "Saving search failed"
+msgstr "Lagring av søk feilet"
+
+#: templates/static_pages/prop_file.html:86
+msgid "You have searched for"
+msgstr "Du har søkt på"
+
+#: templates/static_pages/prop_file.html:87
+#: templates/static_pages/usingeuropeana_search.html:51
+#: templates/static_pages/usingeuropeana_search.html:63
+#: templates/static_pages/usingeuropeana_search.html:65
+msgid "Matches for"
+msgstr "dette skjemaet"
+
+#: templates/static_pages/prop_file.html:88
+msgid "You are viewing related items"
+msgstr "Du ser relatert innhold"
+
+#: templates/static_pages/prop_file.html:89
+msgid "All"
+msgstr "Alle"
+
+#: templates/static_pages/prop_file.html:94
+msgid "Text"
+msgstr "Tekster"
+
+#: templates/static_pages/prop_file.html:95
+msgid "Image"
+msgstr "Bilder"
+
+#: templates/static_pages/prop_file.html:96
+#: templates/static_pages/usingeuropeana_results.html:17
+msgid "Video"
+msgstr "Video"
+
+#: templates/static_pages/prop_file.html:97
+#: templates/static_pages/usingeuropeana_results.html:18
+msgid "Sound"
+msgstr "Lyd"
+
+#: templates/static_pages/prop_file.html:98
+msgid "List view"
+msgstr "Listevisning"
+
+#: templates/static_pages/prop_file.html:99
+msgid "#Table view"
+msgstr "# Tabellvisning"
+
+#: templates/static_pages/prop_file.html:100
+msgid "Page"
+msgstr "side"
+
+#: templates/static_pages/prop_file.html:101
+msgid "of"
+msgstr "av"
+
+#: templates/static_pages/prop_file.html:102
+msgid "Click here for previous page of results"
+msgstr "Klikk her for forrige side med resultater"
+
+#: templates/static_pages/prop_file.html:103
+msgid "Click here for next page of results"
+msgstr "Klikk her for neste resultatside"
+
+#: templates/static_pages/prop_file.html:104
+msgid "Print this page"
+msgstr "Skriv ut denne siden"
+
+#: templates/static_pages/prop_file.html:105
+msgid "Click for more information"
+msgstr "Klikk her for mere informasjon"
+
+#: templates/static_pages/prop_file.html:106
+msgid "No items found"
+msgstr "Ingen objekter funnet"
+
+#: templates/static_pages/prop_file.html:107
+msgid "Related content"
+msgstr "Relatert innhold"
+
+#: templates/static_pages/prop_file.html:108
+msgid "See all related items"
+msgstr "Se alle relaterte objekter"
+
+#: templates/static_pages/prop_file.html:109
+msgid "User tags"
+msgstr "Bruk"
+
+#: templates/static_pages/prop_file.html:110
+#: templates/static_pages/usingeuropeana_myeuropeana.html:15
+msgid "Add a tag"
+msgstr "Legg til en tag"
+
+#: templates/static_pages/prop_file.html:111
+#: templates/static_pages/usingeuropeana_search.html:49
+msgid "Add"
+msgstr "Legg til"
+
+#: templates/static_pages/prop_file.html:112
+msgid "Tag added"
+msgstr "Tag lagt til"
+
+#: templates/static_pages/prop_file.html:113
+msgid "Tag addition failed"
+msgstr "Tag kunne ikke legges til"
+
+#: templates/static_pages/prop_file.html:114
+msgid "Share with a friend"
+msgstr "Del med en venn"
+
+#: templates/static_pages/prop_file.html:115
+msgid "Email address"
+msgstr "Emailadresse"
+
+#: templates/static_pages/prop_file.html:116
+msgid "Email sent"
+msgstr "E-post sendt"
+
+#: templates/static_pages/prop_file.html:117
+msgid "Email could not be sent"
+msgstr "Email kunne ikke sendes"
+
+#: templates/static_pages/prop_file.html:118
+msgid "Send"
+msgstr "Lyd"
+
+#: templates/static_pages/prop_file.html:119
+#: templates/static_pages/usingeuropeana_myeuropeana.html:16
+msgid "Save to My Europeana"
 msgstr "Lagre i Mitt Europeana"
 
+#: templates/static_pages/prop_file.html:120
+msgid "Item saved"
+msgstr "Element lagret"
+
+#: templates/static_pages/prop_file.html:121
+msgid "Save item failed"
+msgstr "Lagring av objektet feilet"
+
+#: templates/static_pages/prop_file.html:122
+msgid "Error"
+msgstr "Feil"
+
+#: templates/static_pages/prop_file.html:123
+msgid "Error details"
+msgstr "Ytterligere detaljer"
+
+#: templates/static_pages/prop_file.html:124
+msgid "Return to results"
+msgstr "Tilbake til resultater"
+
+#: templates/static_pages/prop_file.html:125
+msgid "More"
+msgstr "eller"
+
+#: templates/static_pages/prop_file.html:126
+msgid "Less"
+msgstr "Mindre"
+
+#: templates/static_pages/prop_file.html:127
+msgid "Items"
+msgstr "Elementer"
+
+#: templates/static_pages/prop_file.html:128
+msgid "Item details"
+msgstr "Elementdetaljer"
+
+#: templates/static_pages/prop_file.html:129
+msgid "View as XML"
+msgstr "Vis som XML"
+
+#: templates/static_pages/prop_file.html:130
+msgid "View with labels"
+msgstr "Se med labels"
+
+#: templates/static_pages/prop_file.html:131
+msgid "View without labels"
+msgstr "Se uten labels"
+
+#: templates/static_pages/prop_file.html:132
+msgid "Opens in a new window"
+msgstr "Åpne i nytt vindu"
+
+#: templates/static_pages/prop_file.html:133
+msgid "View in original context"
+msgstr "Se i opprinnelig kontekst"
+
+#: templates/static_pages/prop_file.html:134
+#: templates/static_pages/prop_file.html:822
+msgid "Provider"
+msgstr "Bidra med innhold"
+
+#: templates/static_pages/prop_file.html:135
+#: templates/static_pages/prop_file.html:228
+#: templates/static_pages/prop_file.html:819
+#: templates/static_pages/storyline.html:49
+#: templates/static_pages/usingeuropeana_search.html:32
+msgid "Title"
+msgstr "Tittel"
+
+#: templates/static_pages/prop_file.html:136
+#: templates/static_pages/prop_file.html:235
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: templates/static_pages/prop_file.html:137
+#: templates/static_pages/storyline.html:50
+#: templates/static_pages/usingeuropeana_search.html:31
+msgid "Creator"
+msgstr "Skaper"
+
+#: templates/static_pages/prop_file.html:138
+#: templates/static_pages/prop_file.html:232
+#: templates/static_pages/usingeuropeana_search.html:34
+msgid "Date"
+msgstr "Dato"
+
+#: templates/static_pages/prop_file.html:139
+#: templates/static_pages/prop_file.html:234
+#: templates/static_pages/usingeuropeana_search.html:32
+msgid "Subject"
+msgstr "Tema"
+
+#: templates/static_pages/prop_file.html:140
+msgid "Show all"
+msgstr "Vis alle"
+
+#: templates/static_pages/prop_file.html:141
+msgid "Delete"
+msgstr "Slett"
+
+#: templates/static_pages/prop_file.html:142
+msgid "No saved items"
+msgstr "Ingen lagrede objekter"
+
+#: templates/static_pages/prop_file.html:143
+msgid "No saved searches"
+msgstr "Avansert søk"
+
+#: templates/static_pages/prop_file.html:144
+msgid "No saved tags"
+msgstr "Ingen lagrede tags"
+
+#: templates/static_pages/prop_file.html:145
+msgid "No saved notifications"
+msgstr "Lagrede tags"
+
+#: templates/static_pages/prop_file.html:146
+msgid "Date saved"
+msgstr "Dato lagret"
+
+#: templates/static_pages/prop_file.html:147
+msgid "Remove"
+msgstr "Fjern"
+
+#: templates/static_pages/prop_file.html:148
+msgid "Welcome to MyEuropeana"
+msgstr "Velkommen til Mitt Europeana"
+
+#: templates/static_pages/prop_file.html:149
+msgid "Please click on the following link to confirm your registration"
+msgstr "Klikk på denne lenken for å bekrefte registreringen"
+
+#: templates/static_pages/prop_file.html:150
+msgid "The Europeana Team"
+msgstr "Europeana-teamet"
+
+#: templates/static_pages/prop_file.html:151
+msgid "Results"
+msgstr "Resultater"
+
+#: templates/static_pages/prop_file.html:152
+msgid "Invalid query"
+msgstr "Ugyldig spørring"
+
+#: templates/static_pages/prop_file.html:153
+msgid "This feature is currently disabled."
+msgstr "Denne funksjonen er midlertidig ute av bruk."
+
+#: templates/static_pages/prop_file.html:154
+msgid "Password"
+msgstr "Passord"
+
+#: templates/static_pages/prop_file.html:155
+msgid "Remember me on this computer"
+msgstr "Husk meg på denne maskina"
+
+#: templates/static_pages/prop_file.html:156
+msgid "I forgot my password"
+msgstr "Glemt passord?"
+
+#: templates/static_pages/prop_file.html:157
+msgid "Sign in"
+msgstr "Logg inn"
+
+#: templates/static_pages/prop_file.html:158
+msgid "Register"
+msgstr "Registrer deg"
+
+#: templates/static_pages/prop_file.html:159
+msgid "Register again"
+msgstr "Registrer deg igjen"
+
+#: templates/static_pages/prop_file.html:160
+msgid ""
+"An error occurred while trying to process your registration. Please try again"
+msgstr "Det oppsto en feil i forbindelse med registreringen. Prøv igjen."
+
+#: templates/static_pages/prop_file.html:161
+msgid "An email has been sent to the following address"
+msgstr "En email er blitt sendt til denne adressen"
+
+#: templates/static_pages/prop_file.html:162
+msgid ""
+"Please follow the link provided in the email and finish the registration "
+"process"
+msgstr ""
+"Vær vennlig å følg lenken som følger i emailen og ferdigstill registreringen"
+
+#: templates/static_pages/prop_file.html:163
+msgid "Please make sure your email is correctly formatted and try again"
+msgstr ""
+"Vær vennlig å forsikre deg om at emailadressen er korrekt og prøv igjen"
+
+#: templates/static_pages/prop_file.html:164
+msgid "This email is already registered"
+msgstr "Denne emailadressen er allerede registert"
+
+#: templates/static_pages/prop_file.html:165
+msgid "Create an account"
+msgstr "Generer en konto"
+
+#: templates/static_pages/prop_file.html:166
+#: templates/static_pages/prop_file.html:984
+msgid "The link you used to complete registration is invalid or has expired."
+msgstr ""
+"Lenken du brukte for å ferdigstille registreringen er ugyldig eller har fått "
+"tidsavbrudd."
+
+#: templates/static_pages/prop_file.html:167
+msgid "Enter your email"
+msgstr "Skriv inn din emailadresse"
+
+#: templates/static_pages/prop_file.html:168
+msgid ""
+"You will use your email together with your password to log into the site"
+msgstr ""
+"Du vil måtte bruke din emailadresse sammen med passordet for å logge på "
+"nettstedet"
+
+#: templates/static_pages/prop_file.html:169
+#: templates/static_pages/prop_file.html:173
+msgid "Your username will be displayed when you have logged in"
+msgstr "Ditt brukernavn vil vises etter pålogging"
+
+#: templates/static_pages/prop_file.html:170
+msgid "Username"
+msgstr "Brukernavn"
+
+#: templates/static_pages/prop_file.html:171
+msgid "is in use. Please choose another username"
+msgstr "er i bruk. Velg et annet brukernavn"
+
+#: templates/static_pages/prop_file.html:172
+msgid "Choose a username"
+msgstr "Velg brukernavn"
+
+#: templates/static_pages/prop_file.html:174
+msgid "User information"
+msgstr "Brukerinformasjon"
+
+#: templates/static_pages/prop_file.html:175
+msgid "Choose a password"
+msgstr "Velg passord"
+
+#: templates/static_pages/prop_file.html:176
+msgid "Passwords must be 6-30 characters in length"
+msgstr "Passordet må være 6-30 karakterer langt"
+
+#: templates/static_pages/prop_file.html:177
+msgid "Repeat password"
+msgstr "Gjenta passord"
+
+#: templates/static_pages/prop_file.html:178
+msgid "Finish registration"
+msgstr "Ferdigstill registrering"
+
+#: templates/static_pages/prop_file.html:179
+msgid "You have successfully registered"
+msgstr "Du er nå registrert"
+
+#: templates/static_pages/prop_file.html:181
+msgid "English (eng)"
+msgstr "Engelsk"
+
+#: templates/static_pages/prop_file.html:182
+msgid "Croatian (hrv)"
+msgstr "Kroatisk"
+
+#: templates/static_pages/prop_file.html:183
+msgid "Czech (cze/cse)"
+msgstr "Tjekkisk"
+
+#: templates/static_pages/prop_file.html:184
+msgid "Greek (ell/gre)"
+msgstr "Gresk"
+
+#: templates/static_pages/prop_file.html:185
+msgid "Estonian (est)"
+msgstr "Estisk"
+
+#: templates/static_pages/prop_file.html:186
+msgid "Danish (dan)"
+msgstr "Dansk"
+
+#: templates/static_pages/prop_file.html:187
+msgid "Dutch (dut)"
+msgstr "Nederlandsk"
+
+#: templates/static_pages/prop_file.html:188
+msgid "Finnish (fin)"
+msgstr "Finsk"
+
+#: templates/static_pages/prop_file.html:189
+msgid "French (fre)"
+msgstr "Fransk"
+
+#: templates/static_pages/prop_file.html:190
+msgid "Galician (glg)"
+msgstr "Gælisk (glg)"
+
+#: templates/static_pages/prop_file.html:191
+msgid "German (deu)"
+msgstr "Tysk"
+
+#: templates/static_pages/prop_file.html:192
+msgid "Hungarian (hun)"
+msgstr "Ungarsk"
+
+#: templates/static_pages/prop_file.html:193
+msgid "Italian (ita)"
+msgstr "Italiensk"
+
+#: templates/static_pages/prop_file.html:194
+msgid "Latvian (lav)"
+msgstr "Latvisk"
+
+#: templates/static_pages/prop_file.html:195
+msgid "Lithuanian (lit)"
+msgstr "Litauisk"
+
+#: templates/static_pages/prop_file.html:196
+msgid "Luxemburgish (ltz)"
+msgstr "Luxemburgsk"
+
+#: templates/static_pages/prop_file.html:197
+msgid "Maltese (mlt)"
+msgstr "Maltesisk"
+
+#: templates/static_pages/prop_file.html:198
+msgid "Norwegian (nor)"
+msgstr "Norsk"
+
+#: templates/static_pages/prop_file.html:199
+msgid "Polish (pol)"
+msgstr "Polsk"
+
+#: templates/static_pages/prop_file.html:200
+msgid "Portuguese (por)"
+msgstr "Portugisisk"
+
+#: templates/static_pages/prop_file.html:201
+msgid "Romanian (rom)"
+msgstr "Rumensk"
+
+#: templates/static_pages/prop_file.html:202
+msgid "Russian (rus)"
+msgstr "Russisk"
+
+#: templates/static_pages/prop_file.html:203
+msgid "Serbian (scc)"
+msgstr "Serbisk"
+
+#: templates/static_pages/prop_file.html:204
+msgid "Slovak (slo)"
+msgstr "Slovakisk"
+
+#: templates/static_pages/prop_file.html:205
+msgid "Slovenian (slv)"
+msgstr "Slovenia"
+
+#: templates/static_pages/prop_file.html:206
+msgid "Spanish (esp)"
+msgstr "Spansk"
+
+#: templates/static_pages/prop_file.html:207
+msgid "Icelandic (ice)"
+msgstr "Islandsk"
+
+#: templates/static_pages/prop_file.html:208
+msgid "Swedish (sve/swe)"
+msgstr "Svensk"
+
+#: templates/static_pages/prop_file.html:209
+msgid "Turkish (tur)"
+msgstr "Tyrkisk (tur)"
+
+#: templates/static_pages/prop_file.html:210
+msgid "Ukrainian (ukr)"
+msgstr "Ukrainsk (UKR)"
+
+#: templates/static_pages/prop_file.html:211
+msgid "Yiddish (yid)"
+msgstr "Jiddisk (yid)"
+
+#: templates/static_pages/prop_file.html:212
+msgid "Other"
+msgstr "Andre"
+
+#: templates/static_pages/prop_file.html:213
+msgid "Alternative Title"
+msgstr "Alternativ Tittel"
+
+#: templates/static_pages/prop_file.html:214
+msgid "Provenance"
+msgstr "Frankrike"
+
+#: templates/static_pages/prop_file.html:215
+msgid "Is Part of"
+msgstr "som del av"
+
+#: templates/static_pages/prop_file.html:216
+#: templates/static_pages/prop_file.html:953
+msgid "Has part"
+msgstr "som del av"
+
+#: templates/static_pages/prop_file.html:217
+msgid "Replaces"
+msgstr "sider"
+
+#: templates/static_pages/prop_file.html:218
+msgid "Is replaced by"
+msgstr "Er erstattet av"
+
+#: templates/static_pages/prop_file.html:219
+msgid "Is referenced by"
+msgstr "Er referert av"
+
+#: templates/static_pages/prop_file.html:220
+msgid "References"
+msgstr "Referanser"
+
+#: templates/static_pages/prop_file.html:221
+msgid "Conforms to"
+msgstr "Oppfyller"
+
+#: templates/static_pages/prop_file.html:222
+msgid "Requires"
+msgstr "Krever"
+
+#: templates/static_pages/prop_file.html:223
+msgid "Has format"
+msgstr "dette skjemaet"
+
+#: templates/static_pages/prop_file.html:224
+msgid "Is format of"
+msgstr "Er format av"
+
+#: templates/static_pages/prop_file.html:225
+msgid "Geographic coverage"
+msgstr "Geografisk dekning"
+
+#: templates/static_pages/prop_file.html:226
+msgid "Time period"
+msgstr "Tidsperiode"
+
+#: templates/static_pages/prop_file.html:227
+msgid "Publication date"
+msgstr "Utgivelsesdato"
+
+#: templates/static_pages/prop_file.html:229
+msgid "Author"
+msgstr "Østerrike"
+
+#: templates/static_pages/prop_file.html:231
+msgid "Coverage"
+msgstr "Dekning"
+
+#: templates/static_pages/prop_file.html:233
+msgid "Format"
+msgstr "Format"
+
+#: templates/static_pages/prop_file.html:236
+msgid "Publisher"
+msgstr "Utgiver"
+
+#: templates/static_pages/prop_file.html:237
+msgid "Identifier"
+msgstr "Identifikator"
+
+#: templates/static_pages/prop_file.html:238
+msgid "Source"
+msgstr "Kilde"
+
+#: templates/static_pages/prop_file.html:240
+msgid "Relation"
+msgstr "Relasjon"
+
+#: templates/static_pages/prop_file.html:241
+#: templates/static_pages/sitemap.html:113
+msgid "Rights"
+msgstr "Andre rettigheter"
+
+#: templates/static_pages/prop_file.html:242
+msgid "Type"
+msgstr "Type"
+
+#: templates/static_pages/prop_file.html:243
+msgid "Austria"
+msgstr "Østerrike"
+
+#: templates/static_pages/prop_file.html:244
+msgid "Croatia"
+msgstr "Latvia"
+
+#: templates/static_pages/prop_file.html:245
+msgid "Denmark"
+msgstr "Danmark"
+
+#: templates/static_pages/prop_file.html:246
+msgid "Finland"
+msgstr "Finland"
+
+#: templates/static_pages/prop_file.html:247
+msgid "France"
+msgstr "Frankrike"
+
+#: templates/static_pages/prop_file.html:248
+msgid "Germany"
+msgstr "Tyskland"
+
+#: templates/static_pages/prop_file.html:249
+msgid "Italy-Florence"
+msgstr "Italia - Firenze"
+
+#: templates/static_pages/prop_file.html:250
+msgid "Italy-Rome"
+msgstr "Italia"
+
+#: templates/static_pages/prop_file.html:251
+msgid "Ireland"
+msgstr "Irland"
+
+#: templates/static_pages/prop_file.html:252
+msgid "Netherlands"
+msgstr "Nederland"
+
+#: templates/static_pages/prop_file.html:253
+msgid "Portugal"
+msgstr "Portugal"
+
+#: templates/static_pages/prop_file.html:254
+msgid "Russia - Moscow"
+msgstr "Russland - Moskva"
+
+#: templates/static_pages/prop_file.html:255
+msgid "Russia - Saint Petersburg"
+msgstr "Russland - St. Petersburg"
+
+#: templates/static_pages/prop_file.html:256
+msgid "Romania"
+msgstr "Romania"
+
+#: templates/static_pages/prop_file.html:257
+msgid "Former Yugoslav Republic Of Macedonia"
+msgstr "Republikken Makedonia"
+
+#: templates/static_pages/prop_file.html:258
+msgid "Ukraine"
+msgstr "Frankrike"
+
+#: templates/static_pages/prop_file.html:259
+msgid "Moldova"
+msgstr "Moldova"
+
+#: templates/static_pages/prop_file.html:260
+msgid "Albania"
+msgstr "Albania"
+
+#: templates/static_pages/prop_file.html:261
+msgid "Georgia"
+msgstr "Serbia"
+
+#: templates/static_pages/prop_file.html:262
+msgid "Armenia"
+msgstr "Armenia"
+
+#: templates/static_pages/prop_file.html:263
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnia-Herzegovina"
+
+#: templates/static_pages/prop_file.html:264
+msgid "Azerbaijan"
+msgstr "Serbia"
+
+#: templates/static_pages/prop_file.html:265
+msgid "Turkey"
+msgstr "Tyrkia"
+
+#: templates/static_pages/prop_file.html:266
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+#: templates/static_pages/prop_file.html:267
+msgid "Serbia"
+msgstr "Serbia"
+
+#: templates/static_pages/prop_file.html:268
+msgid "Slovenia"
+msgstr "Slovenia"
+
+#: templates/static_pages/prop_file.html:269
+msgid "Switzerland"
+msgstr "Sveits"
+
+#: templates/static_pages/prop_file.html:270
+msgid "United Kingdom"
+msgstr "Storbritannia"
+
+#: templates/static_pages/prop_file.html:271
+msgid "Czech Republic"
+msgstr "Tjekkia"
+
+#: templates/static_pages/prop_file.html:272
+msgid "Cyprus"
+msgstr "Kypros"
+
+#: templates/static_pages/prop_file.html:273
+msgid "Estonia"
+msgstr "Estland"
+
+#: templates/static_pages/prop_file.html:274
+msgid "Latvia"
+msgstr "Latvia"
+
+#: templates/static_pages/prop_file.html:275
+msgid "Lithuania"
+msgstr "Litauen"
+
+#: templates/static_pages/prop_file.html:276
+msgid "Hungary"
+msgstr "Ungarn"
+
+#: templates/static_pages/prop_file.html:277
+msgid "Malta"
+msgstr "Malta"
+
+#: templates/static_pages/prop_file.html:278
+msgid "Poland"
+msgstr "Polen"
+
+#: templates/static_pages/prop_file.html:279
+msgid "Slovakia"
+msgstr "Slovakia"
+
+#: templates/static_pages/prop_file.html:280
+msgid "Spain"
+msgstr "Spania"
+
+#: templates/static_pages/prop_file.html:281
+msgid "Belgium"
+msgstr "Belgia"
+
+#: templates/static_pages/prop_file.html:282
+msgid "Iceland"
+msgstr "Island"
+
+#: templates/static_pages/prop_file.html:283
+msgid "Norway"
+msgstr "Norge"
+
+#: templates/static_pages/prop_file.html:284
+msgid "Sweden"
+msgstr "Sverige"
+
+#: templates/static_pages/prop_file.html:285
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: templates/static_pages/prop_file.html:286
+msgid "Luxembourg"
+msgstr "Luxembourg"
+
+#: templates/static_pages/prop_file.html:287
+msgid "Greece"
+msgstr "Hellas"
+
+#: templates/static_pages/prop_file.html:289
+msgid "Subject cloud"
+msgstr "Tema"
+
+#: templates/static_pages/prop_file.html:290
+msgid "Did you mean"
+msgstr "Mente du?"
+
+#: templates/static_pages/prop_file.html:291
+msgid ""
+"Paintings, music, films and books from Europe's galleries, libraries, "
+"archives and museums."
+msgstr ""
+"Malerier, musikk, filmer og bøker fra Europas gallerier, biblioteker, "
+"arkiver og museer."
+
+#: templates/static_pages/prop_file.html:292
+msgid "Data provider"
+msgstr "Datatilbyder"
+
+#: templates/static_pages/prop_file.html:293
+msgid "Europeana rights"
+msgstr "Europeana logoer"
+
+#: templates/static_pages/prop_file.html:294
+msgid "Terms of use"
+msgstr "Vilkår for bruk"
+
+#: templates/static_pages/prop_file.html:295
+msgid "The timeline only shows up to 1000 items relevant to your query."
+msgstr "Tidslinjen viser opp til 1000 objekter relevant for ditt søk."
+
+#: templates/static_pages/prop_file.html:296
+msgid "Timeline view"
+msgstr "Tidslinje"
+
+#: templates/static_pages/prop_file.html:297
+msgid "Embed"
+msgstr "Legg inn"
+
+#: templates/static_pages/prop_file.html:298
+msgid "Options"
+msgstr "Alternativer"
+
+#: templates/static_pages/prop_file.html:299
+msgid "Embed this object into your own blog or website"
+msgstr "Lim dette objektet inn i din egen blogg eller nettside"
+
+#: templates/static_pages/prop_file.html:300
+msgid ""
+"Paste the HTML source code below to your page. This page itself is an "
+"example of a page that embeds a Europeana object."
+msgstr ""
+"Lim inn HTMLkoden nedenfor på siden din. Denne siden i seg selv er et "
+"eksempel på en side som har et innlimt Europeana objekt."
+
+#: templates/static_pages/prop_file.html:301
+msgid ""
+"Now this Europeana object becomes a part of your page. Our content providers "
+"tend to improve their objects from time to time. Create an alert on this "
+"object to be notified if this specific object would change."
+msgstr ""
+"Nå blir dette Europeana-objektet en del av siden din. Våre "
+"innholdsltilbydere har en tendens til å forbedre sine objekter fra tid til "
+"annen. Lag et varsel om dette objektet for å få beskjed om dette bestemet "
+"objekt blir endret."
+
+#: templates/static_pages/prop_file.html:302
+msgid "Preview it customized"
+msgstr "Forhåndsvis det tilpasset"
+
+#: templates/static_pages/prop_file.html:303
+msgid "Create notification for this item"
+msgstr "Opprett varsling for denne gjenstanden"
+
+#: templates/static_pages/prop_file.html:304
+msgid ""
+"Log in to My Europeana and set an alert to be notified of updates, such as "
+"the publication of more metadata for this object."
+msgstr ""
+"Logg inn på Mitt Europeana og angi et varsel for å bli varslet om "
+"oppdateringer, for eksempel ved publisering av mer metadata for dette "
+"objektet."
+
+#: templates/static_pages/prop_file.html:305
+msgid ""
+"By using the embed function you accept and agree to the Europeana Terms of "
+"Use"
+msgstr ""
+"Som bruker av embedfunksjonen aksepterer du og samtykker til Europeanas "
+"bruksvilkår"
+
+#: templates/static_pages/prop_file.html:306
+msgid "Maximal number of text lines:"
+msgstr "Maksimalt antall tekstlinjer:"
+
+#: templates/static_pages/prop_file.html:307
+msgid "orientation:"
+msgstr "orientering:"
+
+#: templates/static_pages/prop_file.html:308
+msgid "portrait"
+msgstr "portrett"
+
+#: templates/static_pages/prop_file.html:309
+msgid "landscape"
+msgstr "landskap"
+
+#: templates/static_pages/prop_file.html:310
+msgid "Refine Search"
+msgstr "Begrens søket"
+
+#: templates/static_pages/prop_file.html:311
+msgid "By Rights"
+msgstr "Etter Rights"
+
+#: templates/static_pages/prop_file.html:312
+#: templates/static_pages/usingeuropeana_search.html:59
+msgid "By copyright"
+msgstr "Etter opphavsrett"
+
+#: templates/static_pages/prop_file.html:313
+msgid "Free Access"
+msgstr "Gratis tilgang"
+
+#: templates/static_pages/prop_file.html:314
+msgid "Restricted Access"
+msgstr "Begrenset tilgang"
+
+#: templates/static_pages/prop_file.html:315
+msgid "Paid Access"
+msgstr "Betalt tilgang"
+
+#: templates/static_pages/prop_file.html:316
+msgid "Public Domain"
+msgstr "Rettighetsfritt materiale"
+
+#: templates/static_pages/prop_file.html:317
+msgid "Unknown"
+msgstr "Ukjent"
+
+#: templates/static_pages/prop_file.html:318
+msgid "Not all objects show rights information"
+msgstr "Ikke alle objekter viser rettighetsinformasjon"
+
+#: templates/static_pages/prop_file.html:319
+msgid "Translate with:"
+msgstr "Oversett med:"
+
+#: templates/static_pages/prop_file.html:320
+msgid "Search line value with:"
+msgstr "Søk linjeverdi med:"
+
+#: templates/static_pages/prop_file.html:321
+msgid ""
+"Access External Search Services or Translate a fields content where you see "
+"the marker by double clicking the fields value."
+msgstr ""
+"Tilgang til eksterne søketjenester eller Oversett et feltinnhold der hvor du "
+"ser markøren ved å dobbeltklikke på feltverdien."
+
+#: templates/static_pages/prop_file.html:322
+msgid ""
+"ESS allows you to translate an individual fields contents or search for an "
+"individual line on an external search service to access additional relevant "
+"information."
+msgstr ""
+"ESS lar deg oversette et individuelt felts innhold eller søke etter en "
+"individuell linje på en ekstern søketjeneste for å få tilgang til mere "
+"relevant informasjon."
+
+#: templates/static_pages/prop_file.html:323
+msgid "indicates ESS services are available"
+msgstr "indikerer at ESS tjenester er tilgjengelige"
+
+#: templates/static_pages/prop_file.html:324
+msgid "indicates ESS services are not available"
+msgstr "indikerer at ESS tjenester er ikke tilgjengelig"
+
+#: templates/static_pages/prop_file.html:325
+msgid "Search term(s)"
+msgstr "Søkebegrep(er)"
+
+#: templates/static_pages/prop_file.html:326
+msgid "Search facet"
+msgstr "Søkefasett"
+
+#: templates/static_pages/prop_file.html:327
+msgid "Search operator"
+msgstr "Søk operatør"
+
+#: templates/static_pages/prop_file.html:328
+msgid "Back to top"
+msgstr "Tilbake til toppen"
+
+#: templates/static_pages/prop_file.html:329
+msgid "Click to search for this term in external services"
+msgstr "Klikk for å søke etter dette begrepet i eksterne tjenester"
+
+#: templates/static_pages/prop_file.html:330
+#: templates/static_pages/prop_file.html:332
+msgid "Remote Search Widget"
+msgstr "Ekstern Søke Widget"
+
+#: templates/static_pages/prop_file.html:331
+msgid ""
+"You can use the link below to create a customized plugin for inclusion in "
+"your own website with the ability to search through the collections on the "
+"Europeana portal."
+msgstr ""
+"Du kan bruke linken nedenfor for å opprette et tilpasset plugin for "
+"inkludering i din egen nettside med mulighet til å søke gjennom samlingene "
+"på Europeanaportalen."
+
+#: templates/static_pages/prop_file.html:333
+msgid "Europeana Search Widget"
+msgstr "Europeanas Søke Widget"
+
+#: templates/static_pages/prop_file.html:336
+msgid "What is Europeana's remote search widget?"
+msgstr "Hva er Europeanas  søke widget?"
+
+#: templates/static_pages/prop_file.html:337
+msgid ""
+"The remote search widget is a tailored plugin to search on and display items "
+"from Europeana's collections and those of their contributors within your own "
+"website."
+msgstr ""
+"Den eksterne søkwidgeten er et skreddersydd plugin for å søke på og vise "
+"elementer fra Europeanas samlinger og fra deres bidragsytere på ditt eget "
+"nettsted."
+
+#: templates/static_pages/prop_file.html:338
+msgid "What is a plugin?"
+msgstr "Hva er et plugin?"
+
+#: templates/static_pages/prop_file.html:339
+msgid ""
+"The plugin is simply a piece of generated code that can be copied and pasted "
+"into one of the webpages on your own site."
+msgstr ""
+"Dette pluginet er rett og slett et stykke generert kode som kan kopieres og "
+"limes inn i en av websidene på ditt eget nettsted."
+
+#: templates/static_pages/prop_file.html:340
+msgid "What will the plugin look like?"
+msgstr "Hvordan vil pluginet se ut?"
+
+#: templates/static_pages/prop_file.html:341
+msgid ""
+"The working plugin is shown on the right hand side of the screen. Making "
+"changes and selecting preview will let you see those changes in action."
+msgstr ""
+"Pluginet vises på høyre side av skjermen. For å gjøre endringer, velg "
+"forhåndsvisning for å se endringene."
+
+#: templates/static_pages/prop_file.html:342
+msgid "How do I add the plugin into my own site?"
+msgstr "Hvordan legger jeg pluginet til i mitt eget nettsted?"
+
+#: templates/static_pages/prop_file.html:343
+msgid "Select options from the menu below"
+msgstr "Velg Alternativer fra menyen under"
+
+#: templates/static_pages/prop_file.html:344
+msgid ""
+"Click on 'Preview' to see the changes in the right hand side of the screen"
+msgstr "Klikk på \"Preview\" for å se endringene på høyre side av skjermen"
+
+#: templates/static_pages/prop_file.html:345
+msgid ""
+"Check the box to say you have read and agree with the terms and conditions"
+msgstr "Merk av boksenfor å meddele at du har lest og godtar vilkårene"
+
+#: templates/static_pages/prop_file.html:346
+msgid "Click 'Generate Code'"
+msgstr "Klikk \"Generer Kode '"
+
+#: templates/static_pages/prop_file.html:347
+msgid "Copy the code from under 'Code for plugin:'"
+msgstr "Kopier koden under \"Kode for plugin: '"
+
+#: templates/static_pages/prop_file.html:348
+msgid "Open a webpage on your own site in a text editor"
+msgstr "Åpne en webside på ditt eget nettsted i en tekst editor"
+
+#: templates/static_pages/prop_file.html:349
+msgid "Paste the code into the page and save the changes"
+msgstr "Lim koden inn på siden og lagre endringene"
+
+#: templates/static_pages/prop_file.html:350
+msgid "Open your web page in a browser to see the plugin working"
+msgstr "Åpne websiden din i en nettleser for å se pluginet i funksjon"
+
+#: templates/static_pages/prop_file.html:351
+msgid "How can I change the position of the plugin?"
+msgstr "Hvordan kan jeg endre plasseringen av pluginet?"
+
+#: templates/static_pages/prop_file.html:352
+msgid ""
+"The plugin can be nested within an HTML table but the easiest way is to use "
+"cascading stylesheets css. The plugin is surrounded in a div with the id "
+"swEuropeanaRemoteWidget and its position can be changed by changing the css "
+"properties for this div."
+msgstr ""
+"Programtillegget kan nestes i en HTML-tabell, men den enkleste måten er å "
+"bruke overlappende stilark css. Pluginet er inne i en div med id "
+"swEuropeanaRemoteWidget og posisjonen kan endres ved å endre css-egenskapene "
+"for denne div."
+
+#: templates/static_pages/prop_file.html:353
+msgid "Background colour"
+msgstr "Bakgrunnsfarge"
+
+#: templates/static_pages/prop_file.html:354
+msgid "Media type tab colour"
+msgstr "Medietype tab farge"
+
+#: templates/static_pages/prop_file.html:355
+msgid "Text colour"
+msgstr "Tekstfarge"
+
+#: templates/static_pages/prop_file.html:356
+msgid "Default language"
+msgstr "Standard språk"
+
+#: templates/static_pages/prop_file.html:357
+msgid "Default search term"
+msgstr "Standard søkebgrep"
+
+#: templates/static_pages/prop_file.html:358
+msgid "Media Types"
+msgstr "Medietyper"
+
+#: templates/static_pages/prop_file.html:359
+#: templates/static_pages/usingeuropeana_searchwidget.html:30
+msgid "Providers"
+msgstr "Tilbydere"
+
+#: templates/static_pages/prop_file.html:360
+msgid "Europeana attribution"
+msgstr "Europeanakreditering"
+
+#: templates/static_pages/prop_file.html:361
+msgid "Widget Code: (To be copied and pasted into your website)"
+msgstr "Widget Kode: (Til å bli kopiert og limt inn i din webside)"
+
+#: templates/static_pages/prop_file.html:363
+msgid "Generate Code"
+msgstr "Generer Kode"
+
+#: templates/static_pages/prop_file.html:364
+msgid "Powered By Europeana"
+msgstr "Powered By Europeana"
+
+#: templates/static_pages/prop_file.html:365
+#: templates/static_pages/prop_file.html:872
+msgid "Europeana Blog"
+msgstr "Europeana Blogg"
+
+#: templates/static_pages/prop_file.html:366
+#: templates/static_pages/prop_file.html:508
+#: templates/static_pages/prop_file.html:511
+msgid "Virtual Exhibitions"
+msgstr "Virtuelle Utstillinger"
+
+#: templates/static_pages/prop_file.html:367
+#: templates/static_pages/usingeuropeana_results.html:41
+msgid "Cite on Wikipedia"
+msgstr "Sitér på Wikipedia"
+
+#: templates/static_pages/prop_file.html:368
+msgid "Click to cite this object"
+msgstr "Klikk for å sitere dette objektet"
+
+#: templates/static_pages/prop_file.html:369
+msgid "Use"
+msgstr "Bruk"
+
+#: templates/static_pages/prop_file.html:370
+msgid "Harvard Bibliographic Style"
+msgstr "Harvard Bibliografiske stil"
+
+#: templates/static_pages/prop_file.html:371
+msgid "This record can be cited in the"
+msgstr "Denne posten kan siteres i"
+
+#: templates/static_pages/prop_file.html:372
+msgid "style using the text below:"
+msgstr "stil ved bruk av teksten nedenfor:"
+
+#: templates/static_pages/prop_file.html:373
+msgid "Harvard Bibliographic"
+msgstr "Harvard Bibliografiske"
+
+#: templates/static_pages/prop_file.html:374
+msgid "Close"
+msgstr "Lukk"
+
+#: templates/static_pages/prop_file.html:375
+msgid "Show Auto-tags"
+msgstr "Vis Auto-tags"
+
+#: templates/static_pages/prop_file.html:376
+msgid "Hide Auto-tags"
+msgstr "Skjul Auto-tags"
+
+#: templates/static_pages/prop_file.html:377
+msgid "Automatically added semantic tags"
+msgstr "Automatisk tillagte semantiske tagger"
+
+#: templates/static_pages/prop_file.html:378
+msgid "Place Term"
+msgstr "Plasser Begrep"
+
+#: templates/static_pages/prop_file.html:379
+msgid "Place Label"
+msgstr "Plasser Labelnavn"
+
+#: templates/static_pages/prop_file.html:380
+msgid "Geo Space"
+msgstr "Geo Space"
+
+#: templates/static_pages/prop_file.html:381
+msgid "Place Broader Term"
+msgstr "Plasser Videre begrep"
+
+#: templates/static_pages/prop_file.html:382
+msgid "Place Broader Label"
+msgstr "Plasser Videre Labelnavn"
+
+#: templates/static_pages/prop_file.html:383
+msgid "Period Term"
+msgstr "Periode Begrep"
+
+#: templates/static_pages/prop_file.html:384
+msgid "Period Label"
+msgstr "Periode Labelnavn"
+
+#: templates/static_pages/prop_file.html:385
+msgid "Period Begin"
+msgstr "Periode Begynnelse"
+
+#: templates/static_pages/prop_file.html:386
+msgid "Period End"
+msgstr "Periode Slutt"
+
+#: templates/static_pages/prop_file.html:387
+msgid "Period Broader Term"
+msgstr "Periode Videre begrep"
+
+#: templates/static_pages/prop_file.html:388
+msgid "Period Broader Label"
+msgstr "Periode Videre Labelnavn"
+
+#: templates/static_pages/prop_file.html:389
+msgid "Concept Term"
+msgstr "Konsept Begrep"
+
+#: templates/static_pages/prop_file.html:390
+msgid "Concept Label"
+msgstr "Konsept Labelnavn"
+
+#: templates/static_pages/prop_file.html:391
+msgid "Concept Broader Term"
+msgstr "Konsept Videre Begrep"
+
+#: templates/static_pages/prop_file.html:392
+msgid "Concept Broader Label"
+msgstr "Konsept Videre Labelnavn"
+
+#: templates/static_pages/prop_file.html:393
+msgid "Agent Term"
+msgstr "Agent Bergep"
+
+#: templates/static_pages/prop_file.html:394
+msgid "Agent Label"
+msgstr "Agent Labelnavn"
+
+#: templates/static_pages/prop_file.html:399
+#: templates/static_pages/prop_file.html:410
+#: templates/static_pages/prop_file.html:421
+#: templates/static_pages/prop_file.html:431
+#: templates/static_pages/prop_file.html:441
+#: templates/static_pages/prop_file.html:451
+#: templates/static_pages/prop_file.html:460
+#: templates/static_pages/prop_file.html:471
+#: templates/static_pages/prop_file.html:482
+msgid "Featured item"
+msgstr "Eksisterende element"
+
+#: templates/static_pages/prop_file.html:403
+msgid ""
+"Vase with flowers placed on a table in a range of Red-purple, with many grey "
+"accents, deriving from them. Figurative drawing with touches of green, grey "
+"and white background, divided after the white section. The bottom in Golden "
+"ocher, with shadows of blue."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:414
+msgid ""
+"The Ilse Valley, showing the Dr&uuml;beck Abbey Church and the Ilsenburger "
+"Castle. For this painting a stratagem was used, because in reality both "
+"buildings are further apart."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:425
+msgid ""
+"Eadweard James Muybridge was an English photographer important for his "
+"pioneering work in photographic studies of motion and in motion-picture "
+"projection."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:435
+msgid ""
+"The female personification of Europa sits on a horse in a library. In her "
+"hands a sceptre and a cornucopia. She is joined by putti with attributes "
+"that symbolize the Arts and Sciences. In the background are two men in a "
+"workshop."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:445
+msgid ""
+"Floral composition range of Pinks, yellows and greys greys of red. To "
+"highlight crop floral on blue-yellow background. Balanced color of hot and "
+"cold, the flowers in warm colors-background in cool colors. The entire color "
+"Iriz&#259;ri; flowers."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:455
+msgid ""
+"Items of interest in learning depicted with their names. Etching. The card "
+"shows different objects from a Decanter &amp; Tea Chest to a Ladies Toilet."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:464
+msgid ""
+"Toppop is the first weekly program about pop music on the Dutch television. "
+"Notable artists come to the studio - often with bizarre props and sets - to "
+"playback their newest hit. Broadcast on 18 February 1974 by Dutch public "
+"broadcaster AVRO"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:475
+msgid ""
+"Three staff members of the Phoenix brewery at a truck of the company. The "
+"location is not clear. From left to right: J.H. v.d. Berg, m. Dale and j. "
+"Vasquez."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:486
+msgid ""
+"Milk. The natural pick-me-up. This image was used in 1994, during a campaign "
+"for drinking milk in Switzerland. It was created by Advico Young and Rubicam "
+"advertising agency (D&uuml;bendorf) for the Central Association of Swiss "
+"Milk Producers"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:492
+#: templates/static_pages/prop_file.html:501
+#, fuzzy
+msgid "New &amp; Improved - Europeana 1914-1918"
+msgstr "Utforsk Europeana 1914-2928"
+
+#: templates/static_pages/prop_file.html:502
+msgid ""
+"Take a look at the new and improved Europeana 1914-1918 website and browse "
+"the most important pan-European collection of original First World War "
+"source material."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:503
+msgid "Browse website"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:512
+msgid ""
+"Explore 13 unique curated exhibitions highlighting some of Europe's biggest "
+"cultural treasures."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:513
+#, fuzzy
+msgid "Visit exhibitions"
+msgstr "virtuelle utstillinger"
+
+#: templates/static_pages/prop_file.html:526
+#: templates/static_pages/prop_file.html:527
+#: templates/static_pages/sitemap.html:97
+msgid "Terms of Use &amp; Policies"
+msgstr "Vilkår for bruk, Policies"
+
+#: templates/static_pages/prop_file.html:534
+#: templates/static_pages/prop_file.html:535
+msgid "Language Policy"
+msgstr "Språkpolitikk"
+
+#: templates/static_pages/prop_file.html:538
+#: templates/static_pages/prop_file.html:539
+#: templates/static_pages/sitemap.html:126
+msgid "Contact"
+msgstr "Kontakt"
+
+#: templates/static_pages/prop_file.html:542
+#: templates/static_pages/prop_file.html:543
+#: templates/static_pages/prop_file.html:957
+#: templates/static_pages/prop_file.html:958
+#: templates/static_pages/sitemap.html:11
+msgid "Home"
+msgstr "Hjem"
+
+#: templates/static_pages/prop_file.html:594
 #: templates/static_pages/sitemap.html:31
 #: templates/static_pages/usingeuropeana_searchwidget.html:9
 #, fuzzy
 msgid "How to configure your search widget"
 msgstr "Hva er Europeanas  søke widget?"
 
-#: templates/static_pages/sitemap.html:36
-msgid "About us"
-msgstr "Om oss"
+#: templates/static_pages/prop_file.html:595
+#, fuzzy
+msgid "How to configure your search widhet"
+msgstr "Hva er Europeanas  søke widget?"
+
+#: templates/static_pages/prop_file.html:606
+#: templates/static_pages/prop_file.html:607
+msgid "Press Room"
+msgstr "Presserom"
+
+#: templates/static_pages/prop_file.html:638
+#: templates/static_pages/prop_file.html:639
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: templates/static_pages/prop_file.html:646
+#: templates/static_pages/prop_file.html:647
+#: templates/static_pages/prop_file.html:652
+msgid "Explore Europe's cultural collections"
+msgstr "Utforsk Europas kulturelle samlinger"
+
+#: templates/static_pages/prop_file.html:650
+#: templates/static_pages/prop_file.html:651
+msgid "Access professional knowledge"
+msgstr "Tilgang til faglig kunnskap"
+
+#: templates/static_pages/prop_file.html:653
+msgid "Social media activities"
+msgstr "Sosiale medieaktiviteter"
+
+#: templates/static_pages/prop_file.html:654
+msgid "From the blog"
+msgstr "Fra bloggen"
+
+#: templates/static_pages/prop_file.html:655
+msgid "Filter your search"
+msgstr "Filtrere søket"
+
+#: templates/static_pages/prop_file.html:656
+msgid "Grid view"
+msgstr "Rutenettvisning"
+
+#: templates/static_pages/prop_file.html:657
+msgid ""
+"We apologize; there was a problem retrieving the search results from the "
+"server. Please try again later"
+msgstr ""
+"Vi beklager, det er et problem med henting av søkeresultater fra serveren. "
+"Vennligst prøv igjen senere"
+
+#: templates/static_pages/prop_file.html:658
+msgid "Similar items"
+msgstr "Lignende objekter"
+
+#: templates/static_pages/prop_file.html:659
+msgid "Loading ..."
+msgstr "Laster ..."
+
+#: templates/static_pages/prop_file.html:660
+#: templates/static_pages/usingeuropeana_results.html:42
+msgid "Translate details"
+msgstr "Oversett detaljer"
+
+#: templates/static_pages/prop_file.html:661
+msgid "Return to search results"
+msgstr "Tilbake til søkeresultater"
+
+#: templates/static_pages/prop_file.html:662
+msgid "Next search result"
+msgstr "Neste søkeresultat"
+
+#: templates/static_pages/prop_file.html:663
+msgid "Something went wrong!"
+msgstr "Noe gikk galt!"
+
+#: templates/static_pages/prop_file.html:664
+msgid "An email has been sent to inform our technical staff"
+msgstr "En e-post har blitt sendt for å informere våre tekniske stab"
+
+#: templates/static_pages/prop_file.html:665
+msgid "Please try another search"
+msgstr "Vennligst prøv et nytt søk"
+
+#: templates/static_pages/prop_file.html:666
+msgid "Saved search removed successfully"
+msgstr "Lagret søk fjernet"
+
+#: templates/static_pages/prop_file.html:667
+#: templates/static_pages/prop_file.html:680
+msgid "Saved item removed successfully"
+msgstr "Lagret element fjernet"
+
+#: templates/static_pages/prop_file.html:668
+msgid "Saved tag removed successfully"
+msgstr "Lagret tag fjernet"
+
+#: templates/static_pages/prop_file.html:669
+msgid "An error occurred"
+msgstr "Det oppstod en feil"
+
+#: templates/static_pages/prop_file.html:670
+msgid "The item could not be removed"
+msgstr "Elementet kunne ikke fjernes"
+
+#: templates/static_pages/prop_file.html:671
+msgid "Auto-generated tags"
+msgstr "Auto-genererte tagger"
+
+#: templates/static_pages/prop_file.html:672
+msgid "Request"
+msgstr "Forespørsel"
+
+#: templates/static_pages/prop_file.html:673
+#: templates/static_pages/prop_file.html:676
+msgid "Legend"
+msgstr "Forklaring"
+
+#: templates/static_pages/prop_file.html:674
+msgid "See less"
+msgstr "Se færre"
+
+#: templates/static_pages/prop_file.html:675
+msgid "See more"
+msgstr "Se flere"
+
+#: templates/static_pages/prop_file.html:677
+msgid "Explore further"
+msgstr "Utforsk videre"
+
+#: templates/static_pages/prop_file.html:678
+msgid "Return to original language"
+msgstr "Tilbake til opprinnelig språk"
+
+#: templates/static_pages/prop_file.html:679
+msgid "Attention: this item has been withdrawn by the provider."
+msgstr "Obs: dette elementet har blitt trukket tilbake av leverandøren."
+
+#: templates/static_pages/prop_file.html:681
+msgid ""
+"We apologise; there was a problem retrieving the data from the server. "
+"Please try again later."
+msgstr ""
+"Vi beklager, det oppsto et problem med å hente data fra serveren. Vennligst "
+"prøv igjen senere."
+
+#: templates/static_pages/prop_file.html:682
+msgid "Preview"
+msgstr "Forhåndsvisning"
+
+#: templates/static_pages/prop_file.html:683
+msgid "Return to timeline"
+msgstr "Tilbake til tidslinjen"
+
+#: templates/static_pages/prop_file.html:684
+msgid "This email address does not yet exist in our database"
+msgstr "Denne e-postadressen eksisterer ikke ennå i vår database"
+
+#: templates/static_pages/prop_file.html:685
+msgid "Your password change has been successfully completed"
+msgstr "Din passordendring har vært vellykket "
+
+#: templates/static_pages/prop_file.html:686
+msgid "Zoom"
+msgstr "Zoom"
+
+#: templates/static_pages/prop_file.html:687
+msgid "Zoom in"
+msgstr "Zoom inn"
+
+#: templates/static_pages/prop_file.html:688
+msgid "Zoom out"
+msgstr "Zoom ut"
+
+#: templates/static_pages/prop_file.html:689
+msgid "Choose from different map types"
+msgstr "Velg blant forskjellige karttyper"
+
+#: templates/static_pages/prop_file.html:690
+msgid ""
+"Navigate map: click and hold left mouse-button, then move mouse to change "
+"the view"
+msgstr ""
+"Naviger kart: klikk og holdvenstre museknapp, flytt musa for å endre bildet"
+
+#: templates/static_pages/prop_file.html:691
+msgid ""
+"Select via freeform: add anchor points with left mouse-click, double click "
+"to finish the shape"
+msgstr ""
+"Velg via freeform: legg ankerpunkt med venstre museklikk, dobbeltklikk for å "
+"fullføre formen"
+
+#: templates/static_pages/prop_file.html:692
+msgid "Google Satellite"
+msgstr "Google Satelite"
+
+#: templates/static_pages/prop_file.html:693
+msgid "Google Hybrid"
+msgstr "Google Hybrid"
+
+#: templates/static_pages/prop_file.html:694
+msgid "Google Street"
+msgstr "Google Street"
+
+#: templates/static_pages/prop_file.html:695
+msgid "Google Physical"
+msgstr "Google Physical"
+
+#: templates/static_pages/prop_file.html:697
+msgid "Tiles courtesy of"
+msgstr "Fliser gjengitt med tillatelse fra"
+
+#: templates/static_pages/prop_file.html:698
+msgid ""
+"This is your personal space on Europeana. With My Europeana, you can save "
+"your favourite items and searches, and add tags."
+msgstr ""
+"Dette er ditt personlige rom på Europeana. Med Mitt Europeana kan du lagre "
+"dine favorittobjekter og søk, og legge til tags."
+
+#: templates/static_pages/prop_file.html:699
+#: templates/static_pages/usingeuropeana_results.html:19
+msgid "3D"
+msgstr "3D"
+
+#: templates/static_pages/prop_file.html:700
+msgid "Download"
+msgstr "Last ned"
+
+#: templates/static_pages/prop_file.html:701
+#, fuzzy
+msgid "User contributed content"
+msgstr "Brukergenerert innhold"
+
+#: templates/static_pages/prop_file.html:702
+msgid "Play"
+msgstr "Spill"
+
+#: templates/static_pages/prop_file.html:703
+msgid "Read"
+msgstr "Les"
+
+#: templates/static_pages/prop_file.html:704
+#: templates/static_pages/usingeuropeana_results.html:34
+msgid "View"
+msgstr "Se"
+
+#: templates/static_pages/prop_file.html:705
+msgid "View larger image"
+msgstr "Se større bilde"
+
+#: templates/static_pages/prop_file.html:706
+msgid "Your search result contains no items that have map co-ordinates."
+msgstr "Ditt søk inneholder ingen bilder som har kart koordinater."
+
+#: templates/static_pages/prop_file.html:707
+msgid "Please try another search."
+msgstr "Vennligst prøv et annet søk"
+
+#: templates/static_pages/prop_file.html:708
+msgid ""
+"The Europeana map search is still in development and currently doesn't work "
+"in Internet Explorer. We aim to support Internet Explorer in the future. "
+"Currently we recommend you to use Chrome or Firefox."
+msgstr ""
+"Europeana kartsøk er fortsatt i utvikling og fungerer  i dag ikke i Internet "
+"Explorer. Vi tar sikte på å støtte Internet Explorer i fremtiden. Foreløpig "
+"anbefaler vi deg å bruke Chrome eller Firefox."
+
+#: templates/static_pages/prop_file.html:712
+msgid "Wikipedia Citation"
+msgstr "Wikipedia Citation"
+
+#: templates/static_pages/prop_file.html:713
+msgid "Copy and paste the wiki-markup below:"
+msgstr "Kopier og lim inn wiki-markupen under:"
+
+#: templates/static_pages/prop_file.html:720
+#: templates/static_pages/usingeuropeana_search.html:67
+msgid "Include content contributed by users"
+msgstr "Innkluder innhold bidratt av brukere"
+
+#: templates/static_pages/prop_file.html:721
+msgid "The map only shows up to 1000 items relevant to your query."
+msgstr "Kartet viser bare opp til 1000 objekter relevant for ditt søk."
+
+#: templates/static_pages/prop_file.html:722
+msgid "No place name available"
+msgstr "Intet stedsnavn er tilgjengelig"
+
+#: templates/static_pages/prop_file.html:723
+msgid "The map only shows up to {0} items relevant to your query."
+msgstr "Kartet viser bare opp til {0} objekter relevant for ditt søk."
+
+#: templates/static_pages/prop_file.html:724
+msgid "Search within current map view"
+msgstr "Søk med gjeldende kartvisning"
+
+#: templates/static_pages/prop_file.html:725
+#: templates/static_pages/usingeuropeana_results.html:41
+msgid "Citation"
+msgstr "Sitering"
+
+#: templates/static_pages/prop_file.html:726
+#: templates/static_pages/usingeuropeana_results.html:41
+msgid "Footnote"
+msgstr "Fotnote"
+
+#: templates/static_pages/prop_file.html:727
+msgid "Follow us on"
+msgstr "Følg oss på"
+
+#: templates/static_pages/prop_file.html:728
+msgid "Unable to find content for this page."
+msgstr "Kan ikke finne innhold for denne siden."
+
+#: templates/static_pages/prop_file.html:731
+msgid "Latest on"
+msgstr "Senest på"
+
+#: templates/static_pages/prop_file.html:732
+#: templates/static_pages/prop_file.html:977
+#: templates/static_pages/usingeuropeana_search.html:69
+msgid "Share"
+msgstr "Dele"
+
+#: templates/static_pages/prop_file.html:733
+msgid "Share item on Facebook, Twitter, etc."
+msgstr "Del objekter på Facebook, Twitter, etc."
+
+#: templates/static_pages/prop_file.html:734
+msgid "Follow us!"
+msgstr "Følg oss!"
+
+#: templates/static_pages/prop_file.html:735
+msgid "Newsletter sign-up"
+msgstr "Abonner på nyhetsbrev"
+
+#: templates/static_pages/prop_file.html:736
+#: templates/static_pages/prop_file.html:737
+msgid "Sign-up here"
+msgstr "Meld deg på her"
+
+#: templates/static_pages/prop_file.html:738
+#: templates/static_pages/prop_file.html:998
+msgid "Name"
+msgstr "Navn"
+
+#: templates/static_pages/prop_file.html:739
+msgid "Email Address"
+msgstr "Email adresse"
+
+#: templates/static_pages/prop_file.html:740
+msgid ""
+"Sign-up to receive our bi-monthly newsletter, and occasional announcements."
+msgstr ""
+"Meld deg på her for å motta vårt bi-månedlige nyhetsbrev, og sporadiske "
+"kunngjøringer."
+
+#: templates/static_pages/prop_file.html:751
+#: templates/static_pages/prop_file.html:762
+#: templates/static_pages/prop_file.html:773
+#: templates/static_pages/prop_file.html:783
+#: templates/static_pages/prop_file.html:794
+msgid "Featured partner"
+msgstr "Utvalgt partner"
+
+#: templates/static_pages/prop_file.html:755
+msgid ""
+"Ateneum Art Museum is home to the largest and most important art collections "
+"in Finland. The museum governs over 20,000 works of art. The most "
+"significant of these is the Antell Collection, a testamentary donation by "
+"the collector H. F. Antell."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:766
+msgid ""
+"The National Gallery of Ireland houses the Irish national collection of "
+"Irish and European art. It is located in the centre of Dublin with one "
+"entrance on Merrion Square, beside Leinster House, and another on Clare "
+"Street. Due to ongoing renovations, the Clare Street entrance is the only "
+"one currently open. It was founded in 1854 and opened its doors ten years "
+"later. The Gallery has an extensive, representative collection of Irish "
+"painting and is also notable for its Italian Baroque and Dutch masters "
+"painting."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:777
+msgid ""
+"One of the oldest and the best museums of the Upper Volga Region, was "
+"founded in 1910. Now the museum houses more than 120 thousand exhibits: from "
+"saurian bones to paintings of famous artists."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:787
+msgid ""
+"Since its founding in 1952 the Hungarian Theatre Museum and Institute has "
+"been collecting the most valuable relics and data of the Hungarian theatre, "
+"bridging the distant beginnings centuries ago with-last night's "
+"performances. A dozen and a half of separate collections enclose the "
+"invaluable traces of the artform most susceptible to evanescence: paintings, "
+"photographs, stage and costume designs, posters, props, video recordingsâ"
+"€”and many more..."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:798
+msgid ""
+"Archive Eemland is the historical information centre of Amersfoort and the "
+"Eemland region. The archive manages approximately 3.5 kilometers of "
+"archives, an image collection of 40,000 photographs, a significant "
+"collection of maps, a growing audiovisual collection and a rich historical "
+"library."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:805
+msgid "API function"
+msgstr "API funksjon"
+
+#: templates/static_pages/prop_file.html:806
+msgid "Search parameters"
+msgstr "Søkeparametre"
+
+#: templates/static_pages/prop_file.html:807
+msgid "Search term"
+msgstr "Søketermer"
+
+#: templates/static_pages/prop_file.html:808
+msgid "Refinement term(s)"
+msgstr "Begrensende termer"
+
+#: templates/static_pages/prop_file.html:809
+msgid "Profile"
+msgstr "Profil"
+
+#: templates/static_pages/prop_file.html:810
+msgid "Number of records to retrieve"
+msgstr "Antall poster å hente"
+
+#: templates/static_pages/prop_file.html:811
+msgid "First record to retrieve"
+msgstr "Den første posten som hentes"
+
+#: templates/static_pages/prop_file.html:812
+msgid "Record parameters"
+msgstr "Post parametre"
+
+#: templates/static_pages/prop_file.html:813
+msgid "Record id"
+msgstr "Post id"
+
+#: templates/static_pages/prop_file.html:814
+msgid "Request URL"
+msgstr "Request URL"
+
+#: templates/static_pages/prop_file.html:815
+msgid "JSON response"
+msgstr "JSON respons"
+
+#: templates/static_pages/prop_file.html:816
+#, fuzzy
+msgid "Additional parameters"
+msgstr "Søkeparametre"
+
+#: templates/static_pages/prop_file.html:818
+msgid "Search also for:"
+msgstr "Søk også etter:"
+
+#: templates/static_pages/prop_file.html:820
+msgid "Who"
+msgstr "Hvem"
+
+#: templates/static_pages/prop_file.html:821
+msgid "What"
+msgstr "Hva"
+
+#: templates/static_pages/prop_file.html:825
+#: templates/static_pages/prop_file.html:829
+#: templates/static_pages/prop_file.html:833
+#: templates/static_pages/prop_file.html:837
+msgid "_self"
+msgstr "_selv"
+
+#: templates/static_pages/prop_file.html:826
+msgid "rights/terms-and-policies.html"
+msgstr "rettigheter/vilkår og policies"
+
+#: templates/static_pages/prop_file.html:827
+#: templates/static_pages/prop_file.html:828
+msgid "Terms of use &amp; Policies"
+msgstr "Vilkår for bruk; Policies"
+
+#: templates/static_pages/prop_file.html:830
+msgid "contact.html"
+msgstr "kontakt.html"
+
+#: templates/static_pages/prop_file.html:834
+msgid "sitemap.html"
+msgstr "sitemap.html"
+
+#: templates/static_pages/prop_file.html:839
+#: templates/static_pages/usingeuropeana_myeuropeana.html:17
+msgid "API keys"
+msgstr "API nøkler"
+
+#: templates/static_pages/prop_file.html:840
+msgid "No API key"
+msgstr "Ingen API nøkkel"
+
+#: templates/static_pages/prop_file.html:841
+msgid "API key"
+msgstr "API nøkkel"
+
+#: templates/static_pages/prop_file.html:842
+msgid "Private key"
+msgstr "Privat nøkkel"
+
+#: templates/static_pages/prop_file.html:843
+msgid "Usage limit"
+msgstr "Bruksbegrensning"
+
+#: templates/static_pages/prop_file.html:844
+msgid "Role"
+msgstr "Rolle"
+
+#: templates/static_pages/prop_file.html:845
+msgid "Administrator's page"
+msgstr "Administrators side"
+
+#: templates/static_pages/prop_file.html:846
+msgid "Congratulations! You are now registered for Europeana's API."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:847
+#, fuzzy
+msgid "Your API key is"
+msgstr "Ingen API nøkkel"
+
+#: templates/static_pages/prop_file.html:848
+#, fuzzy
+msgid "Your private key is"
+msgstr "Privat nøkkel"
+
+#: templates/static_pages/prop_file.html:850
+msgid "Remove API key"
+msgstr "Fjern API nøkkel"
+
+#: templates/static_pages/prop_file.html:851
+msgid "Limit"
+msgstr "Grense"
+
+#: templates/static_pages/prop_file.html:852
+msgid "Remove user"
+msgstr "Fjern bruker"
+
+#: templates/static_pages/prop_file.html:853
+msgid "Block user"
+msgstr "Blokker bruker"
+
+#: templates/static_pages/prop_file.html:854
+msgid "Export API keys to CSV"
+msgstr "Eksporter API nøkler til CSV"
+
+#: templates/static_pages/prop_file.html:855
+msgid "Export users to CSV"
+msgstr "Eksporter brukere til CSV"
+
+#: templates/static_pages/prop_file.html:856
+msgid "User name"
+msgstr "Brukernavn"
+
+#: templates/static_pages/prop_file.html:857
+msgid "Registration"
+msgstr "Registrering"
+
+#: templates/static_pages/prop_file.html:859
+msgid "Visit the website of"
+msgstr "Besøk nettstedet til "
+
+#: templates/static_pages/prop_file.html:860
+msgid "View the latest content from our partners"
+msgstr "Se det seneste innholdet fra våre partnere"
+
+#: templates/static_pages/prop_file.html:864
+#: templates/static_pages/prop_file.html:865
+#: templates/static_pages/sitemap.html:15
+msgid "Other Europeana Sites"
+msgstr "Andre Europeana sider"
+
+#: templates/static_pages/prop_file.html:868
+msgid "Europeana Exhibitions"
+msgstr "Europeana utstillinger"
+
+#: templates/static_pages/prop_file.html:876
+#: templates/static_pages/sitemap.html:19
+msgid "Europeana 1914-1918"
+msgstr "Europeana 1914-1918"
+
+#: templates/static_pages/prop_file.html:881
+msgid "Remix"
+msgstr "Remiks"
+
+#: templates/static_pages/prop_file.html:884
+#: templates/static_pages/sitemap.html:21
+msgid "Europeana Professional"
+msgstr "Europeana Profesjonell"
+
+#: templates/static_pages/prop_file.html:885
+msgid "Professional"
+msgstr "Profesjonell"
+
+#: templates/static_pages/prop_file.html:945
+msgid "Change limit for an API key"
+msgstr "Endre grense for API nøkkel"
+
+#: templates/static_pages/prop_file.html:946
+msgid "Company or Institution"
+msgstr "Selskap eller Institusjon"
+
+#: templates/static_pages/prop_file.html:947
+msgid "Telephone contact"
+msgstr "Telefonkontakt"
+
+#: templates/static_pages/prop_file.html:948
+msgid "Address"
+msgstr "Adresse"
+
+#: templates/static_pages/prop_file.html:949
+msgid "I confirm that I have read and agree to the"
+msgstr "Jeg bekrefter at jeg har lest og er enig i"
+
+#: templates/static_pages/prop_file.html:950
+msgid "Next in sequence"
+msgstr "Neste i rekken"
+
+#: templates/static_pages/prop_file.html:951
+msgid "Date of creation"
+msgstr "Dato for opprettelse"
+
+#: templates/static_pages/prop_file.html:952
+msgid "Is part of"
+msgstr "en del av"
+
+#: templates/static_pages/prop_file.html:963
+msgid "Titles"
+msgstr "Titler"
+
+#: templates/static_pages/prop_file.html:964
+msgid "Places"
+msgstr "Steder"
+
+#: templates/static_pages/prop_file.html:965
+msgid "Dates/Periods"
+msgstr "Datoer/Perioder"
+
+#: templates/static_pages/prop_file.html:966
+msgid "Subjects"
+msgstr "Emner"
+
+#: templates/static_pages/prop_file.html:967
+msgid "Creators"
+msgstr "Skapere"
+
+#: templates/static_pages/prop_file.html:968
+msgid "All fields"
+msgstr "All felt"
+
+#: templates/static_pages/prop_file.html:969
+msgid "Featured Item"
+msgstr "Utvalgt objekt"
+
+#: templates/static_pages/prop_file.html:970
+#: templates/static_pages/usingeuropeana_explore.html:15
+msgid "Featured Partner"
+msgstr "Utvalgt partner"
+
+#: templates/static_pages/prop_file.html:971
+msgid "Click here for last page of results"
+msgstr "Klikk her for den siste resultatsiden"
+
+#: templates/static_pages/prop_file.html:972
+#: templates/static_pages/usingeuropeana_results.html:24
+msgid "Results per page"
+msgstr "Resultater per side"
+
+#: templates/static_pages/prop_file.html:973
+#: templates/static_pages/usingeuropeana_search.html:49
+msgid "Add more keywords"
+msgstr "Legg til flere emneord"
+
+#: templates/static_pages/prop_file.html:974
+msgid "+ Add"
+msgstr "+ Legg til "
+
+#: templates/static_pages/prop_file.html:975
+msgid "Field of work"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:976
+msgid "Please, select"
+msgstr "Vennligst velg"
+
+#: templates/static_pages/prop_file.html:978
+msgid "Please try another search later."
+msgstr "Vennligst prøv et annet søk senere"
+
+#: templates/static_pages/prop_file.html:979
+msgid "Unable to find the requested page"
+msgstr "Kan ikke finne den ønskede siden"
+
+#: templates/static_pages/prop_file.html:980
+msgid "Alert:"
+msgstr "Varsel:"
+
+#: templates/static_pages/prop_file.html:981
+msgid "Unable to find the requested Europeana Record."
+msgstr "Kan ikke finne den ønskede Europeana posten."
+
+#: templates/static_pages/prop_file.html:982
+msgid "This item has been withdrawn by the provider."
+msgstr "Dette objektet er fjernet av tilbyderen."
+
+#: templates/static_pages/prop_file.html:983
+msgid "Requested Europeana Record is not yet indexed."
+msgstr "Ønsket Europeana post er ennå ikke indeksert."
+
+#: templates/static_pages/prop_file.html:985
+msgid "Please register your email again"
+msgstr "Vennligst registrer din email igjen"
+
+#: templates/static_pages/prop_file.html:986
+msgid "to finish registration."
+msgstr "for å avslutte registreringen."
+
+#: templates/static_pages/prop_file.html:987
+msgid "Unable to fullfill your request due to malformed query parameters."
+msgstr ""
+"Kan ikke fullføre din forespørsel på grunn av misformede søkeparametere."
+
+#: templates/static_pages/prop_file.html:988
+msgid "Unable to get a response from the Search Engine."
+msgstr "Ute av stand til å få svar fra søkemotoren."
+
+#: templates/static_pages/prop_file.html:989
+msgid "Unable to fulfill your request due to a malformed query syntax."
+msgstr "Kan ikke fullføre din forespørsel på grunn av misformet syntaks."
+
+#: templates/static_pages/prop_file.html:990
+msgid "We are unable to change the interface to the requested language."
+msgstr "Vi kan ikke endre grensesnittet til det språket du ønsker."
+
+#: templates/static_pages/prop_file.html:991
+msgid "Please try another language from the dropdown list."
+msgstr "Prøv et annet språk fra rullegardinlisten."
+
+#: templates/static_pages/prop_file.html:992
+msgid "Number of results shown on the page"
+msgstr "Antall resultater vist på siden"
+
+#: templates/static_pages/prop_file.html:999
+msgid "API-key"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1000
+msgid "Number of calls"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1002
+#: templates/static_pages/prop_file.html:1003
+msgid "Can I use it?"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1004
+#, fuzzy
+msgid "Yes, with attribution"
+msgstr "Kreditering"
+
+#: templates/static_pages/prop_file.html:1005
+#, fuzzy
+msgid "Yes, with restrictions"
+msgstr "Kreditering"
+
+#: templates/static_pages/prop_file.html:1006
+msgid "Only with permission"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1008
+#, fuzzy
+msgid "Export API users to CSV"
+msgstr "Eksporter brukere til CSV"
+
+#: templates/static_pages/prop_file.html:1009
+#, fuzzy
+msgid "Export API users to Excel"
+msgstr "Eksporter brukere til CSV"
+
+#: templates/static_pages/prop_file.html:1011
+msgid "It looks like your browser is set to"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1012
+msgid "would you like the interface to be in"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1013
+#, fuzzy
+msgid "English"
+msgstr "Engelsk"
+
+#: templates/static_pages/prop_file.html:1014
+msgid "Basque"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1015
+#, fuzzy
+msgid "Bulgarian"
+msgstr "Bulgaria"
+
+#: templates/static_pages/prop_file.html:1016
+msgid "Catalan"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1017
+msgid "Czech"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1018
+#, fuzzy
+msgid "Danish"
+msgstr "Dansk"
+
+#: templates/static_pages/prop_file.html:1019
+#, fuzzy
+msgid "German"
+msgstr "Tyskland"
+
+#: templates/static_pages/prop_file.html:1020
+#, fuzzy
+msgid "Greek"
+msgstr "Hellas"
+
+#: templates/static_pages/prop_file.html:1021
+#, fuzzy
+msgid "Spanish"
+msgstr "Spansk"
+
+#: templates/static_pages/prop_file.html:1022
+#, fuzzy
+msgid "Estonian"
+msgstr "Estland"
+
+#: templates/static_pages/prop_file.html:1023
+#, fuzzy
+msgid "French"
+msgstr "Fransk"
+
+#: templates/static_pages/prop_file.html:1024
+msgid "Irish"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1025
+#, fuzzy
+msgid "Croatian"
+msgstr "Latvia"
+
+#: templates/static_pages/prop_file.html:1026
+#, fuzzy
+msgid "Icelandic"
+msgstr "Island"
+
+#: templates/static_pages/prop_file.html:1027
+#, fuzzy
+msgid "Italian"
+msgstr "Italiensk"
+
+#: templates/static_pages/prop_file.html:1028
+#, fuzzy
+msgid "Lithuanian"
+msgstr "Litauen"
+
+#: templates/static_pages/prop_file.html:1029
+#, fuzzy
+msgid "Latvian"
+msgstr "Latvia"
+
+#: templates/static_pages/prop_file.html:1030
+#, fuzzy
+msgid "Hungarian"
+msgstr "Ungarsk"
+
+#: templates/static_pages/prop_file.html:1031
+#, fuzzy
+msgid "Maltese"
+msgstr "Maltesisk"
+
+#: templates/static_pages/prop_file.html:1032
+#, fuzzy
+msgid "Dutch"
+msgstr "Nederlandsk"
+
+#: templates/static_pages/prop_file.html:1033
+#, fuzzy
+msgid "Norwegian"
+msgstr "Norsk"
+
+#: templates/static_pages/prop_file.html:1034
+#, fuzzy
+msgid "Polish"
+msgstr "Polsk"
+
+#: templates/static_pages/prop_file.html:1035
+#, fuzzy
+msgid "Romanian"
+msgstr "Romania"
+
+#: templates/static_pages/prop_file.html:1036
+#, fuzzy
+msgid "Russian"
+msgstr "Russisk"
+
+#: templates/static_pages/prop_file.html:1037
+#, fuzzy
+msgid "Slovene"
+msgstr "Slovenia"
+
+#: templates/static_pages/prop_file.html:1038
+#, fuzzy
+msgid "Slovak"
+msgstr "Slovakia"
+
+#: templates/static_pages/prop_file.html:1039
+#, fuzzy
+msgid "Finnish"
+msgstr "Finsk"
+
+#: templates/static_pages/prop_file.html:1040
+#, fuzzy
+msgid "Swedish"
+msgstr "Sverige"
+
+#: templates/static_pages/prop_file.html:1041
+#, fuzzy
+msgid "Ukranian"
+msgstr "Frankrike"
+
+#: templates/static_pages/prop_file.html:1043
+#, fuzzy
+msgid "no"
+msgstr "innebærer ikke"
+
+#: templates/static_pages/prop_file.html:1044
+msgid "yes"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1046
+#, fuzzy
+msgid "Language settings"
+msgstr "Språk"
+
+#: templates/static_pages/prop_file.html:1047
+#, fuzzy
+msgid "Automatically translate item pages into:"
+msgstr "Automatisk tillagte semantiske tagger"
+
+#: templates/static_pages/prop_file.html:1048
+#, fuzzy
+msgid "Auto translate items into"
+msgstr "Oversett elementets detaljer"
+
+#: templates/static_pages/prop_file.html:1049
+#, fuzzy
+msgid "Automatically translate search keywords into:"
+msgstr "Automatisk tillagte semantiske tagger"
+
+#: templates/static_pages/prop_file.html:1050
+msgid ""
+"For registered users, you can choose a maximum of 6 options. For "
+"unregistered users, you can choose a maximum of 3 options."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1051
+msgid "Submit"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1052
+#, fuzzy
+msgid "Incorrect password."
+msgstr "Glemt passord?"
+
+#: templates/static_pages/prop_file.html:1053
+#, fuzzy
+msgid ""
+"Log into My Europeana to save your favourite items, searches, tags and "
+"translate search keywords into other languages."
+msgstr ""
+"du kan lagre dine favoritt-elementer og søk, og legge til tags i elementer "
+"for å hjelpe til med å skille dem inn i forskjellige kategorier."
+
+#: templates/static_pages/prop_file.html:1054
+#, fuzzy
+msgid "Please enter your username."
+msgstr "Vennligst registrer din email igjen"
+
+#: templates/static_pages/prop_file.html:1055
+#, fuzzy
+msgid "Please enter your password."
+msgstr "Vennligst registrer din email igjen"
+
+#: templates/static_pages/prop_file.html:1056
+msgid "Registered users may choose a maximum of 6 options."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1057
+msgid "Unregistered users may choose a maximum of 3 options."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1058
+#, fuzzy
+msgid "Clear selection"
+msgstr "Samling"
+
+#: templates/static_pages/prop_file.html:1059
+#, fuzzy
+msgid "Request passsword"
+msgstr "Gjenta passord"
+
+#: templates/static_pages/prop_file.html:1060
+msgid "Invalid credentials"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1061
+#, fuzzy
+msgid "Save settings"
+msgstr "Språk"
+
+#: templates/static_pages/prop_file.html:1062
+msgid "Settings have been saved."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1063
+#, fuzzy
+msgid ""
+"Sorry, there was a problem saving your settings. Please try again later."
+msgstr ""
+"Vi beklager, det oppsto et problem med å hente data fra serveren. Vennligst "
+"prøv igjen senere."
+
+#: templates/static_pages/sitemap.html:4
+msgid "Europeana - Sitemap"
+msgstr "Europeana - Nettstedkart"
+
+#: templates/static_pages/sitemap.html:27
+msgid "Searching in Europeana"
+msgstr "Lagre i Mitt Europeana"
 
 #: templates/static_pages/sitemap.html:39
 #, fuzzy
@@ -1780,14 +4688,6 @@ msgstr "API metoder"
 msgid "Record"
 msgstr "Post id"
 
-#: templates/static_pages/sitemap.html:65
-#: templates/static_pages/usingeuropeana_search.html:21
-#: templates/static_pages/usingeuropeana_search.html:25
-#: templates/static_pages/usingeuropeana_search.html:27
-#: templates/static_pages/usingeuropeana_search.html:45
-msgid "Search"
-msgstr "Søk"
-
 #: templates/static_pages/sitemap.html:66
 msgid "Suggestions"
 msgstr "Forslag"
@@ -1812,21 +4712,9 @@ msgstr "Europeana felt"
 msgid "API1-API2 compatability"
 msgstr "API1-API2 kompabilitet"
 
-#: templates/static_pages/sitemap.html:97
-msgid "Terms of Use &amp; Policies"
-msgstr "Vilkår for bruk, Policies"
-
 #: templates/static_pages/sitemap.html:104
 msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
 msgstr "Europeana Data Exchange Agreement (på Europeana Profesjonell)"
-
-#: templates/static_pages/sitemap.html:107
-msgid "Language policy"
-msgstr "Språkpolitikk"
-
-#: templates/static_pages/sitemap.html:113
-msgid "Rights"
-msgstr "Andre rettigheter"
 
 #: templates/static_pages/sitemap.html:115
 #, fuzzy
@@ -1861,10 +4749,6 @@ msgstr "Rettigheter - Gratis tilgang"
 msgid "Out of copyright - non commercial re-use"
 msgstr ""
 
-#: templates/static_pages/sitemap.html:126
-msgid "Contact"
-msgstr "Kontakt"
-
 #: templates/static_pages/sitemap.html:127
 #, fuzzy
 msgid "Europeana Semantic Elements (ESE)"
@@ -1878,10 +4762,6 @@ msgstr "Europeana metadata"
 #: templates/static_pages/storyline.html:4
 msgid "Europeana - Storyline and credits"
 msgstr "Europeana - Storyline og kredittering"
-
-#: templates/static_pages/storyline.html:11
-msgid "Storyline and credits"
-msgstr "Storyline og kredittering"
 
 #: templates/static_pages/storyline.html:13
 msgid "Descartes"
@@ -2306,16 +5186,6 @@ msgstr ""
 "mange takk til Cité de la Musique for at vi kan bruke den som grunnlag for "
 "lydsporet vår."
 
-#: templates/static_pages/storyline.html:49
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid "Title"
-msgstr "Tittel"
-
-#: templates/static_pages/storyline.html:50
-#: templates/static_pages/usingeuropeana_search.html:31
-msgid "Creator"
-msgstr "Skaper"
-
 #: templates/static_pages/storyline.html:51
 msgid "Collection"
 msgstr "Samling"
@@ -2462,10 +5332,6 @@ msgid "in the"
 msgstr "i"
 
 #: templates/static_pages/usingeuropeana_explore.html:15
-msgid "Featured Partner"
-msgstr "Utvalgt partner"
-
-#: templates/static_pages/usingeuropeana_explore.html:15
 msgid "area"
 msgstr "område"
 
@@ -2486,20 +5352,12 @@ msgid "and you can"
 msgstr "og du kan"
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:14
-msgid "Save this search"
-msgstr "Lagre dette søket"
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:14
 msgid ""
 "Keep up to date on a particular topic in Europeana by saving a search, so "
 "you can easily perform it again in future."
 msgstr ""
 "Hold deg oppdatert på et bestemt emne i Europeana ved å lagre et søk, slik "
 "at du enkelt kan utføre det igjen i fremtiden."
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:15
-msgid "Add a tag"
-msgstr "Legg til en tag"
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:15
 msgid ""
@@ -2512,16 +5370,8 @@ msgstr ""
 "har valgt, i Mitt Europeana grensesnittet."
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:16
-msgid "Save to My Europeana"
-msgstr "Lagre i Mitt Europeana"
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:16
 msgid "Store your favourite items for later viewing."
 msgstr "Lagre din favorittelementer for senere visning."
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:17
-msgid "API keys"
-msgstr "API nøkler"
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:17
 msgid ""
@@ -2581,25 +5431,13 @@ msgstr ""
 "grafisk design, tekniske tegninger og noter."
 
 #: templates/static_pages/usingeuropeana_results.html:17
-msgid "Video"
-msgstr "Video"
-
-#: templates/static_pages/usingeuropeana_results.html:17
 msgid "films, news broadcasts and television programmes"
 msgstr "filmer, nyhetssendinger og fjernsynsprogrammer"
-
-#: templates/static_pages/usingeuropeana_results.html:18
-msgid "Sound"
-msgstr "Lyd"
 
 #: templates/static_pages/usingeuropeana_results.html:18
 msgid ""
 "music and spoken word from cylinders, tapes, discs and radio broadcasts."
 msgstr "musikk og tale fra sylindre, lydbånd, plater og radiosendinger"
-
-#: templates/static_pages/usingeuropeana_results.html:19
-msgid "3D"
-msgstr "3D"
 
 #: templates/static_pages/usingeuropeana_results.html:19
 msgid "virtual 3D representations of objects, architecture or places."
@@ -2628,20 +5466,8 @@ msgstr ""
 "resultater som skal vises på en side ved å velge et alternativ fra"
 
 #: templates/static_pages/usingeuropeana_results.html:24
-msgid "Results per page"
-msgstr "Resultater per side"
-
-#: templates/static_pages/usingeuropeana_results.html:24
 msgid "drop-down list either above or below the results. You can select"
 msgstr "rullegardinlisten enten over eller under resultatene. Du kan velge"
-
-#: templates/static_pages/usingeuropeana_results.html:24
-#: templates/static_pages/usingeuropeana_results.html:25
-#: templates/static_pages/usingeuropeana_results.html:41
-#: templates/static_pages/usingeuropeana_results.html:49
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid "or"
-msgstr "eller"
 
 #: templates/static_pages/usingeuropeana_results.html:25
 msgid ""
@@ -2694,10 +5520,6 @@ msgstr "Thumbnailbilde/forhåndsvisning"
 #: templates/static_pages/usingeuropeana_results.html:34
 msgid "hit the magnifying glass"
 msgstr "klikk på forstørrelsesglasset"
-
-#: templates/static_pages/usingeuropeana_results.html:34
-msgid "View"
-msgstr "Se"
 
 #: templates/static_pages/usingeuropeana_results.html:34
 msgid ""
@@ -2766,10 +5588,6 @@ msgstr ""
 "den. Bare velg det alternativet du ønsker."
 
 #: templates/static_pages/usingeuropeana_results.html:41
-msgid "Cite on Wikipedia"
-msgstr "Sitér på Wikipedia"
-
-#: templates/static_pages/usingeuropeana_results.html:41
 msgid ""
 "this function will help you link to Europeana items and cite them in "
 "Wikipedia articles. The code you need is formatted for direct inclusion in "
@@ -2780,24 +5598,12 @@ msgstr ""
 "i Wikipedias artikkelredigerings modus. Velg"
 
 #: templates/static_pages/usingeuropeana_results.html:41
-msgid "Citation"
-msgstr "Sitering"
-
-#: templates/static_pages/usingeuropeana_results.html:41
-msgid "Footnote"
-msgstr "Fotnote"
-
-#: templates/static_pages/usingeuropeana_results.html:41
 msgid ""
 "and copy and paste the text provided. To close the citation window, hit the "
 "X in the top right corner."
 msgstr ""
 "og kopiere og lime inn teksten. For å lukke siteringsvinduet, klikk på X i "
 "øvre høyre hjørne."
-
-#: templates/static_pages/usingeuropeana_results.html:42
-msgid "Translate details"
-msgstr "Oversett detaljer"
 
 #: templates/static_pages/usingeuropeana_results.html:42
 msgid ""
@@ -2833,14 +5639,6 @@ msgstr ""
 msgid "To move to the previous or next item in your search results, hit the"
 msgstr ""
 "For å gåp til det forrige eller neste elementet i søkeresultatet, klikk på"
-
-#: templates/static_pages/usingeuropeana_results.html:49
-msgid "Next"
-msgstr "Neste"
-
-#: templates/static_pages/usingeuropeana_results.html:49
-msgid "Previous"
-msgstr "Forrige"
 
 #: templates/static_pages/usingeuropeana_results.html:49
 msgid "options"
@@ -3003,10 +5801,6 @@ msgstr ""
 "kunstneren eller dokumentarer om ham og hans arbeid."
 
 #: templates/static_pages/usingeuropeana_search.html:32
-msgid "Subject"
-msgstr "Tema"
-
-#: templates/static_pages/usingeuropeana_search.html:32
 msgid ""
 "followed by a type of item, a subject you are interested in or words from "
 "the title of the item you are looking for. Your search results will display "
@@ -3051,10 +5845,6 @@ msgstr ""
 "vil hjelpe deg å differensiere ditt søk når du bare vil se objekter som er "
 "opprettet eller befinner seg i Milano, med unntak av elementer om "
 "forfatteren Milan Kundera, fra søkeresultatene."
-
-#: templates/static_pages/usingeuropeana_search.html:34
-msgid "Date"
-msgstr "Dato"
 
 #: templates/static_pages/usingeuropeana_search.html:34
 msgid ""
@@ -3157,16 +5947,8 @@ msgstr ""
 "ditt søkeord i"
 
 #: templates/static_pages/usingeuropeana_search.html:49
-msgid "Add more keywords"
-msgstr "Legg til flere emneord"
-
-#: templates/static_pages/usingeuropeana_search.html:49
 msgid "field and hit"
 msgstr "felt og klikk på"
-
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid "Add"
-msgstr "Legg til"
 
 #: templates/static_pages/usingeuropeana_search.html:49
 msgid "The keyword is displayed at the top of the pane, under"
@@ -3182,12 +5964,6 @@ msgstr ""
 "For å fjerne et emneord, klikk på Xen ved siden av det relevante emneordet i"
 
 #: templates/static_pages/usingeuropeana_search.html:51
-#: templates/static_pages/usingeuropeana_search.html:63
-#: templates/static_pages/usingeuropeana_search.html:65
-msgid "Matches for"
-msgstr "dette skjemaet"
-
-#: templates/static_pages/usingeuropeana_search.html:51
 msgid "list."
 msgstr "lista."
 
@@ -3198,10 +5974,6 @@ msgstr "Du kan også"
 #: templates/static_pages/usingeuropeana_search.html:53
 msgid "filter your search results:"
 msgstr "filtrer dine søkeresultater:"
-
-#: templates/static_pages/usingeuropeana_search.html:55
-msgid "By media type"
-msgstr "Etter medietype"
 
 #: templates/static_pages/usingeuropeana_search.html:55
 msgid ""
@@ -3242,10 +6014,6 @@ msgid ""
 msgstr ""
 "vil bare vise objekter fra de valgte land, i.e. det landet hvor "
 "institusjonen som tilbyr objektet til Europeana hører hjemme."
-
-#: templates/static_pages/usingeuropeana_search.html:59
-msgid "By copyright"
-msgstr "Etter opphavsrett"
 
 #: templates/static_pages/usingeuropeana_search.html:59
 msgid ""
@@ -3289,10 +6057,6 @@ msgid "You can also select to"
 msgstr "Du kan også velge å"
 
 #: templates/static_pages/usingeuropeana_search.html:67
-msgid "Include content contributed by users"
-msgstr "Innkluder innhold bidratt av brukere"
-
-#: templates/static_pages/usingeuropeana_search.html:67
 msgid ""
 "This means items that have not come from a cultural institution but from an "
 "individual user, for example, items contributed to the Europeana 1914-1918 "
@@ -3305,10 +6069,6 @@ msgstr ""
 #: templates/static_pages/usingeuropeana_search.html:69
 msgid "Share your search with friends by choosing"
 msgstr "Del ditt søk med venner gjennom å velge"
-
-#: templates/static_pages/usingeuropeana_search.html:69
-msgid "Share"
-msgstr "Dele"
 
 #: templates/static_pages/usingeuropeana_search.html:69
 msgid ""
@@ -3436,10 +6196,6 @@ msgid ""
 "word and 'Places' as a type. Tap 'Change' next to 'All Fields' and select "
 "the option you need."
 msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:30
-msgid "Providers"
-msgstr "Tilbydere"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:30
 msgid ""
@@ -3590,1841 +6346,9 @@ msgid ""
 "by dropping us an email at"
 msgstr ""
 
-#~ msgid ""
-#~ "I understand that My Europeana gives me the opportunity to create tags "
-#~ "for any item I wish. I agree that I will not create any tags that could "
-#~ "be considered libelous, harmful, threatening, unlawful, defamatory,"
-#~ "infringing, abusive, inflammatory, harassing, pornographic, obscene, "
-#~ "fraudulent, invasive of privacy orpublicity rights, hateful, or racially, "
-#~ "ethnically or otherwise objectionable. By clicking this box I agreeto "
-#~ "abide by this agreement, and understand that if I don't my membership of "
-#~ "My Europeana will be terminated."
-#~ msgstr ""
-#~ "Jeg forstår at Mitt Europeana gir meg muligheten til å tagge et hvilket "
-#~ "som helst element jeg ønsker. Jeg godtar at jeg ikke vil lage noen tags "
-#~ "som kan anses som injurierende, skadelig, truende, ulovlig, ærekrenkende, "
-#~ "fornærmende, provoserende, støtende, pornografisk, uanstendig, uredelig, "
-#~ "krenkende for personvern or publisering rettigheter, hatefullt, "
-#~ "rasistisk, etnisk eller ellers upassende. Ved å klikke på denne boksen "
-#~ "bekrefter jeg at jeg vil overholde denne avtalen, og forstår at hvis jeg "
-#~ "bryter reglene vil mitt medlemskap i Mitt Europeana bli avsluttet."
-
-#~ msgid "You must agree to our code of conduct to register for My Europeana"
-#~ msgstr ""
-#~ "Du må godta reglene for oppførsel for å registrere deg til Mitt Europeana"
-
-#~ msgid "I agree"
-#~ msgstr "Bilder"
-
-#~ msgid "Contributor"
-#~ msgstr "Bidragsyter"
-
-#~ msgid "Contributors"
-#~ msgstr "Bidragsytere"
-
-#~ msgid "Country"
-#~ msgstr "Land"
-
-#~ msgid "Sector"
-#~ msgstr "Sektor"
-
-#~ msgid "Partner"
-#~ msgstr "Partner"
-
-#~ msgid ""
-#~ "This is the network of partners who collaborated to make Europeana "
-#~ "happen, and who represent Europeana in their countries and professional "
-#~ "associations."
-#~ msgstr ""
-#~ "Dette er pertnernettverket som saamarbeidet for å virkeliggjøre "
-#~ "Europeana, og som representerer Europeana i deres land og profesjonelle "
-#~ "institusjoner."
-
-#, fuzzy
-#~ msgid ""
-#~ "These are the organisations that are contributing content - digitised "
-#~ "paintings, books, broadcasts etc. Some of these contributors are  "
-#~ "aggregators*, Culture.fr is the largest aggregator, providing content "
-#~ "from about 480 organisations in France, including the Louvre and the "
-#~ "MusÃ©e dâ€™Orsay. The number of organisations contributing to an "
-#~ "aggregator is shown in brackets after the aggregatorâ€™s name, e.g. "
-#~ "Videoactive (10)"
-#~ msgstr ""
-#~ "Dette er organisasjonene som bidrar med innhold, digitale malerier, "
-#~ "bøker, kringkastet materiale etc. Noen av disse er samlingsportaler. "
-#~ "Culture.fr er den største portalen som bidrar med innhold fra 480 "
-#~ "institusjoner i Frankrike, inkludert Louvre og Musée d'Orsay. Antallet "
-#~ "organiasjoner som bidrar til en portal vises i parantes, f.eks "
-#~ "Videoactive (10)"
-
-#~ msgid ""
-#~ "*An aggregator collects material from a range of other contributors, "
-#~ "displays it on their own website and also channels it into Europeana."
-#~ msgstr ""
-#~ "En portal samler materiale fra en rekke andre bidragsytere, viser det på "
-#~ "egne nettsteder og kanaliserer det inn i Europeana."
-
-#~ msgid "This is a required field"
-#~ msgstr "Dette er et obligatorisk felt"
-
-#~ msgid "Please enter a valid email address"
-#~ msgstr "Vær vennlig å skriv inn en gyldig emailadresse"
-
-#~ msgid "Logged in as"
-#~ msgstr "Logget inn som"
-
-#~ msgid "Saved items"
-#~ msgstr "Lagrede elementer"
-
-#~ msgid "Saved searches"
-#~ msgstr "Avansert søk"
-
-#~ msgid "Saved tags"
-#~ msgstr "Lagrede tagger"
-
-#~ msgid "Saved notifications"
-#~ msgstr "Lagrede tags"
-
-#~ msgid "Login"
-#~ msgstr "Lenke"
-
-#~ msgid "Log out"
-#~ msgstr "innebærer ikke"
-
-#~ msgid ""
-#~ "Thank you very much for your feedback. If your feedback requires a "
-#~ "response a member of the Europeana team will get back to you as soon as "
-#~ "possible. For faster response feedback should be submitted in English."
-#~ msgstr ""
-#~ "Tusen takk for tilbakemeldingen din. Hvis din tilbakemelding krever en "
-#~ "respons vil et medlem av Europeana-teamet komme tilbake til deg så snart "
-#~ "som mulig. For rask respons skal tilbakemelding sendes på engelsk.]"
-
-#~ msgid "Keep me in touch with new developments to Europeana"
-#~ msgstr "Oppdater meg på ny utvikling av Europeana"
-
-#~ msgid "User Conduct"
-#~ msgstr "Brukeroppførsel"
-
-#~ msgid ""
-#~ "I understand that My Europeana gives me the opportunity to create tags "
-#~ "for any item I wish. I agree that I will not create any tags that could "
-#~ "be considered libelous, harmful, threatening, unlawful, defamatory, "
-#~ "infringing, abusive, inflammatory, harassing, pornographic, obscene, "
-#~ "fraudulent, invasive of privacy or publicity rights, hateful, or "
-#~ "racially, ethnically or otherwise objectionable. By clicking this box I "
-#~ "agree to abide by this agreement, and understand that if I don't my "
-#~ "membership of My Europeana will be terminated. CLICK TO AGREE"
-#~ msgstr ""
-#~ "Jeg er inneforstått med at Mitt Europeana gir meg muligheter til å tagge "
-#~ "et hvert objekt. Jeg vil ikke generere noen tag som kan oppfattes som "
-#~ "injurierende, skadelige, truende, ulovlige, nedsettende, støtende, "
-#~ "oppviglerske, pornografiske, obskøne, svindlende, invaderende i "
-#~ "privatrettslig eller offentlig forstand, hatefulle, eller rasistiske, "
-#~ "etniske eller på annet vis anstøtende. Gjennom å klikke på denne boksen "
-#~ "sier jeg meg enig i å følge disse reglren, og er inneforståått med at "
-#~ "brudd kan avslutte mitt medlemskap i Mitt uropeana. KLIKK FOR Å GODTA"
-
-#~ msgid "First name"
-#~ msgstr "Fornavn"
-
-#~ msgid "Last name"
-#~ msgstr "Siste endring"
-
-#~ msgid ""
-#~ "To make optimal use of this website you need to have JavaScript activated"
-#~ msgstr "Best bruk av dette nettstedet fordrer bruk av Javaskript"
-
-#~ msgid "Check the FAQs - they may cover your feedback"
-#~ msgstr "Sjekk FAQ - dine spørsmål kan være besvart der"
-
-#~ msgid "Communities"
-#~ msgstr "Fellesskap"
-
-#~ msgid "ThoughtLab"
-#~ msgstr "ThoughtLab"
-
-#~ msgid "Choose a language"
-#~ msgstr "Velg språk"
-
-#~ msgid "Select language"
-#~ msgstr "Velg språk"
-
-#~ msgid "This is Europeana"
-#~ msgstr "Bruke Europeana"
-
-#~ msgid ""
-#~ "a place for inspiration and ideas. Search through the cultural "
-#~ "collections of Europe, connect to other user pathways and share your "
-#~ "discoveries."
-#~ msgstr ""
-#~ "et sted for inspirasjon og ideer. Søk i de kulturelle samlingene i "
-#~ "Europa, finn nye brukerveier og del dine funn"
-
-#~ msgid "Find out more"
-#~ msgstr "Finn ut mere"
-
-#~ msgid "Reset"
-#~ msgstr "Reset"
-
-#~ msgid "Advanced search"
-#~ msgstr "Avansert søk"
-
-#~ msgid "Hide advanced search"
-#~ msgstr "Avansert søk"
-
-#~ msgid "and"
-#~ msgstr "Polen"
-
-#~ msgid "not"
-#~ msgstr "innebærer ikke"
-
-#~ msgid "Any field"
-#~ msgstr "Alle felt"
-
-#~ msgid "Share your ideas"
-#~ msgstr "Del dine ideer"
-
-#~ msgid "Tagging"
-#~ msgstr "Tagging"
-
-#~ msgid "Send us feedback"
-#~ msgstr "send oss tilbakemelding"
-
-#~ msgid "People are currently thinking about"
-#~ msgstr "Folk tenker for tiden på"
-
-#~ msgid "Timeline navigator"
-#~ msgstr "Tidslinjenavigator"
-
-#~ msgid "Browse through time"
-#~ msgstr "Browse i tidslinje"
-
-#~ msgid ""
-#~ "From our partner museums, archives, libraries and audio-visual collections"
-#~ msgstr ""
-#~ "Fra våre partner-museer, -arkiver, -biblioteker og -audiovisuelle "
-#~ "samlinger"
-
-#~ msgid "Using Europeana"
-#~ msgstr "Bruke Europeana"
-
-#~ msgid "Terms and conditions"
-#~ msgstr "Betingelser og vilkår"
-
-#~ msgid "Contact us"
-#~ msgstr "Kontakt oss"
-
-#~ msgid "co-funded by the European Union"
-#~ msgstr "del-finansiert av Den Europeiske Union"
-
-#~ msgid "Europeana think culture"
-#~ msgstr "Europeana tenk kultur"
-
-#~ msgid "Click here to return to the Europeana homepage"
-#~ msgstr "Klikk her for å gå tilbake til Europeanas hjemmeside"
-
-#~ msgid "Refine your results"
-#~ msgstr "Avgrens resultatene"
-
-#~ msgid "By language of description"
-#~ msgstr "med beskrivelsens språk"
-
-#~ msgid "By providing country"
-#~ msgstr "med tilbyderland"
-
-#~ msgid "By year"
-#~ msgstr "med år"
-
-#~ msgid "By user tag"
-#~ msgstr "via brukertags"
-
-#~ msgid "By type"
-#~ msgstr "Etter type"
-
-#~ msgid "Actions"
-#~ msgstr "Handlinger"
-
-#~ msgid "Search saved"
-#~ msgstr "Søk lagret"
-
-#~ msgid "Saving search failed"
-#~ msgstr "Lagring av søk feilet"
-
-#~ msgid "You have searched for"
-#~ msgstr "Du har søkt på"
-
-#~ msgid "You are viewing related items"
-#~ msgstr "Du ser relatert innhold"
-
-#~ msgid "All"
-#~ msgstr "Alle"
-
-#~ msgid "Text"
-#~ msgstr "Tekster"
-
-#~ msgid "Image"
-#~ msgstr "Bilder"
-
-#~ msgid "List view"
-#~ msgstr "Listevisning"
-
-#~ msgid "#Table view"
-#~ msgstr "# Tabellvisning"
-
-#~ msgid "Page"
-#~ msgstr "side"
-
-#~ msgid "of"
-#~ msgstr "av"
-
-#~ msgid "Click here for previous page of results"
-#~ msgstr "Klikk her for forrige side med resultater"
-
-#~ msgid "Click here for next page of results"
-#~ msgstr "Klikk her for neste resultatside"
-
-#~ msgid "Print this page"
-#~ msgstr "Skriv ut denne siden"
-
-#~ msgid "Click for more information"
-#~ msgstr "Klikk her for mere informasjon"
-
-#~ msgid "No items found"
-#~ msgstr "Ingen objekter funnet"
-
-#~ msgid "Related content"
-#~ msgstr "Relatert innhold"
-
-#~ msgid "See all related items"
-#~ msgstr "Se alle relaterte objekter"
-
-#~ msgid "User tags"
-#~ msgstr "Bruk"
-
-#~ msgid "Tag added"
-#~ msgstr "Tag lagt til"
-
-#~ msgid "Tag addition failed"
-#~ msgstr "Tag kunne ikke legges til"
-
-#~ msgid "Share with a friend"
-#~ msgstr "Del med en venn"
-
-#~ msgid "Email address"
-#~ msgstr "Emailadresse"
-
-#~ msgid "Email sent"
-#~ msgstr "E-post sendt"
-
-#~ msgid "Email could not be sent"
-#~ msgstr "Email kunne ikke sendes"
-
-#~ msgid "Send"
-#~ msgstr "Lyd"
-
-#~ msgid "Item saved"
-#~ msgstr "Element lagret"
-
-#~ msgid "Save item failed"
-#~ msgstr "Lagring av objektet feilet"
-
-#~ msgid "Error"
-#~ msgstr "Feil"
-
-#~ msgid "Error details"
-#~ msgstr "Ytterligere detaljer"
-
-#~ msgid "Return to results"
-#~ msgstr "Tilbake til resultater"
-
-#~ msgid "More"
-#~ msgstr "eller"
-
-#~ msgid "Less"
-#~ msgstr "Mindre"
-
-#~ msgid "Items"
-#~ msgstr "Elementer"
-
-#~ msgid "Item details"
-#~ msgstr "Elementdetaljer"
-
-#~ msgid "View as XML"
-#~ msgstr "Vis som XML"
-
-#~ msgid "View with labels"
-#~ msgstr "Se med labels"
-
-#~ msgid "View without labels"
-#~ msgstr "Se uten labels"
-
-#~ msgid "Opens in a new window"
-#~ msgstr "Åpne i nytt vindu"
-
-#~ msgid "View in original context"
-#~ msgstr "Se i opprinnelig kontekst"
-
-#~ msgid "Provider"
-#~ msgstr "Bidra med innhold"
-
-#~ msgid "Description"
-#~ msgstr "Beskrivelse"
-
-#~ msgid "Show all"
-#~ msgstr "Vis alle"
-
-#~ msgid "Delete"
-#~ msgstr "Slett"
-
-#~ msgid "No saved items"
-#~ msgstr "Ingen lagrede objekter"
-
-#~ msgid "No saved searches"
-#~ msgstr "Avansert søk"
-
-#~ msgid "No saved tags"
-#~ msgstr "Ingen lagrede tags"
-
-#~ msgid "No saved notifications"
-#~ msgstr "Lagrede tags"
-
-#~ msgid "Date saved"
-#~ msgstr "Dato lagret"
-
-#~ msgid "Remove"
-#~ msgstr "Fjern"
-
-#~ msgid "Welcome to MyEuropeana"
-#~ msgstr "Velkommen til Mitt Europeana"
-
-#~ msgid "Please click on the following link to confirm your registration"
-#~ msgstr "Klikk på denne lenken for å bekrefte registreringen"
-
-#~ msgid "The Europeana Team"
-#~ msgstr "Europeana-teamet"
-
-#~ msgid "Results"
-#~ msgstr "Resultater"
-
-#~ msgid "Invalid query"
-#~ msgstr "Ugyldig spørring"
-
-#~ msgid "This feature is currently disabled."
-#~ msgstr "Denne funksjonen er midlertidig ute av bruk."
-
-#~ msgid "Password"
-#~ msgstr "Passord"
-
-#~ msgid "Remember me on this computer"
-#~ msgstr "Husk meg på denne maskina"
-
-#~ msgid "I forgot my password"
-#~ msgstr "Glemt passord?"
-
-#~ msgid "Sign in"
-#~ msgstr "Logg inn"
-
-#~ msgid "Register"
-#~ msgstr "Registrer deg"
-
-#~ msgid "Register again"
-#~ msgstr "Registrer deg igjen"
-
-#~ msgid ""
-#~ "An error occurred while trying to process your registration. Please try "
-#~ "again"
-#~ msgstr "Det oppsto en feil i forbindelse med registreringen. Prøv igjen."
-
-#~ msgid "An email has been sent to the following address"
-#~ msgstr "En email er blitt sendt til denne adressen"
-
-#~ msgid ""
-#~ "Please follow the link provided in the email and finish the registration "
-#~ "process"
-#~ msgstr ""
-#~ "Vær vennlig å følg lenken som følger i emailen og ferdigstill "
-#~ "registreringen"
-
-#~ msgid "Please make sure your email is correctly formatted and try again"
-#~ msgstr ""
-#~ "Vær vennlig å forsikre deg om at emailadressen er korrekt og prøv igjen"
-
-#~ msgid "This email is already registered"
-#~ msgstr "Denne emailadressen er allerede registert"
-
-#~ msgid "Create an account"
-#~ msgstr "Generer en konto"
-
-#~ msgid ""
-#~ "The link you used to complete registration is invalid or has expired."
-#~ msgstr ""
-#~ "Lenken du brukte for å ferdigstille registreringen er ugyldig eller har "
-#~ "fått tidsavbrudd."
-
-#~ msgid "Enter your email"
-#~ msgstr "Skriv inn din emailadresse"
-
-#~ msgid ""
-#~ "You will use your email together with your password to log into the site"
-#~ msgstr ""
-#~ "Du vil måtte bruke din emailadresse sammen med passordet for å logge på "
-#~ "nettstedet"
-
-#~ msgid "Your username will be displayed when you have logged in"
-#~ msgstr "Ditt brukernavn vil vises etter pålogging"
-
-#~ msgid "Username"
-#~ msgstr "Brukernavn"
-
-#~ msgid "is in use. Please choose another username"
-#~ msgstr "er i bruk. Velg et annet brukernavn"
-
-#~ msgid "Choose a username"
-#~ msgstr "Velg brukernavn"
-
-#~ msgid "User information"
-#~ msgstr "Brukerinformasjon"
-
-#~ msgid "Choose a password"
-#~ msgstr "Velg passord"
-
-#~ msgid "Passwords must be 6-30 characters in length"
-#~ msgstr "Passordet må være 6-30 karakterer langt"
-
-#~ msgid "Repeat password"
-#~ msgstr "Gjenta passord"
-
-#~ msgid "Finish registration"
-#~ msgstr "Ferdigstill registrering"
-
-#~ msgid "You have successfully registered"
-#~ msgstr "Du er nå registrert"
-
-#~ msgid "English (eng)"
-#~ msgstr "Engelsk"
-
-#~ msgid "Croatian (hrv)"
-#~ msgstr "Kroatisk"
-
-#~ msgid "Czech (cze/cse)"
-#~ msgstr "Tjekkisk"
-
-#~ msgid "Greek (ell/gre)"
-#~ msgstr "Gresk"
-
-#~ msgid "Estonian (est)"
-#~ msgstr "Estisk"
-
-#~ msgid "Danish (dan)"
-#~ msgstr "Dansk"
-
-#~ msgid "Dutch (dut)"
-#~ msgstr "Nederlandsk"
-
-#~ msgid "Finnish (fin)"
-#~ msgstr "Finsk"
-
-#~ msgid "French (fre)"
-#~ msgstr "Fransk"
-
-#~ msgid "Galician (glg)"
-#~ msgstr "Gælisk (glg)"
-
-#~ msgid "German (deu)"
-#~ msgstr "Tysk"
-
-#~ msgid "Hungarian (hun)"
-#~ msgstr "Ungarsk"
-
-#~ msgid "Italian (ita)"
-#~ msgstr "Italiensk"
-
-#~ msgid "Latvian (lav)"
-#~ msgstr "Latvisk"
-
-#~ msgid "Lithuanian (lit)"
-#~ msgstr "Litauisk"
-
-#~ msgid "Luxemburgish (ltz)"
-#~ msgstr "Luxemburgsk"
-
-#~ msgid "Maltese (mlt)"
-#~ msgstr "Maltesisk"
-
-#~ msgid "Norwegian (nor)"
-#~ msgstr "Norsk"
-
-#~ msgid "Polish (pol)"
-#~ msgstr "Polsk"
-
-#~ msgid "Portuguese (por)"
-#~ msgstr "Portugisisk"
-
-#~ msgid "Romanian (rom)"
-#~ msgstr "Rumensk"
-
-#~ msgid "Russian (rus)"
-#~ msgstr "Russisk"
-
-#~ msgid "Serbian (scc)"
-#~ msgstr "Serbisk"
-
-#~ msgid "Slovak (slo)"
-#~ msgstr "Slovakisk"
-
-#~ msgid "Slovenian (slv)"
-#~ msgstr "Slovenia"
-
-#~ msgid "Spanish (esp)"
-#~ msgstr "Spansk"
-
-#~ msgid "Icelandic (ice)"
-#~ msgstr "Islandsk"
-
-#~ msgid "Swedish (sve/swe)"
-#~ msgstr "Svensk"
-
-#~ msgid "Turkish (tur)"
-#~ msgstr "Tyrkisk (tur)"
-
-#~ msgid "Ukrainian (ukr)"
-#~ msgstr "Ukrainsk (UKR)"
-
-#~ msgid "Yiddish (yid)"
-#~ msgstr "Jiddisk (yid)"
-
-#~ msgid "Other"
-#~ msgstr "Andre"
-
-#~ msgid "Alternative Title"
-#~ msgstr "Alternativ Tittel"
-
-#~ msgid "Provenance"
-#~ msgstr "Frankrike"
-
-#~ msgid "Is Part of"
-#~ msgstr "som del av"
-
-#~ msgid "Has part"
-#~ msgstr "som del av"
-
-#~ msgid "Replaces"
-#~ msgstr "sider"
-
-#~ msgid "Is replaced by"
-#~ msgstr "Er erstattet av"
-
-#~ msgid "Is referenced by"
-#~ msgstr "Er referert av"
-
-#~ msgid "References"
-#~ msgstr "Referanser"
-
-#~ msgid "Conforms to"
-#~ msgstr "Oppfyller"
-
-#~ msgid "Requires"
-#~ msgstr "Krever"
-
-#~ msgid "Has format"
-#~ msgstr "dette skjemaet"
-
-#~ msgid "Is format of"
-#~ msgstr "Er format av"
-
-#~ msgid "Geographic coverage"
-#~ msgstr "Geografisk dekning"
-
-#~ msgid "Time period"
-#~ msgstr "Tidsperiode"
-
-#~ msgid "Publication date"
-#~ msgstr "Utgivelsesdato"
-
-#~ msgid "Author"
-#~ msgstr "Østerrike"
-
-#~ msgid "Coverage"
-#~ msgstr "Dekning"
-
-#~ msgid "Format"
-#~ msgstr "Format"
-
-#~ msgid "Publisher"
-#~ msgstr "Utgiver"
-
-#~ msgid "Identifier"
-#~ msgstr "Identifikator"
-
-#~ msgid "Source"
-#~ msgstr "Kilde"
-
-#~ msgid "Relation"
-#~ msgstr "Relasjon"
-
-#~ msgid "Type"
-#~ msgstr "Type"
-
-#~ msgid "Austria"
-#~ msgstr "Østerrike"
-
-#~ msgid "Croatia"
-#~ msgstr "Latvia"
-
-#~ msgid "Denmark"
-#~ msgstr "Danmark"
-
-#~ msgid "Finland"
-#~ msgstr "Finland"
-
-#~ msgid "France"
-#~ msgstr "Frankrike"
-
-#~ msgid "Germany"
-#~ msgstr "Tyskland"
-
-#~ msgid "Italy-Florence"
-#~ msgstr "Italia - Firenze"
-
-#~ msgid "Italy-Rome"
-#~ msgstr "Italia"
-
-#~ msgid "Ireland"
-#~ msgstr "Irland"
-
-#~ msgid "Netherlands"
-#~ msgstr "Nederland"
-
-#~ msgid "Portugal"
-#~ msgstr "Portugal"
-
-#~ msgid "Russia - Moscow"
-#~ msgstr "Russland - Moskva"
-
-#~ msgid "Russia - Saint Petersburg"
-#~ msgstr "Russland - St. Petersburg"
-
-#~ msgid "Romania"
-#~ msgstr "Romania"
-
-#~ msgid "Former Yugoslav Republic Of Macedonia"
-#~ msgstr "Republikken Makedonia"
-
-#~ msgid "Ukraine"
-#~ msgstr "Frankrike"
-
-#~ msgid "Moldova"
-#~ msgstr "Moldova"
-
-#~ msgid "Albania"
-#~ msgstr "Albania"
-
-#~ msgid "Georgia"
-#~ msgstr "Serbia"
-
-#~ msgid "Armenia"
-#~ msgstr "Armenia"
-
-#~ msgid "Bosnia and Herzegovina"
-#~ msgstr "Bosnia-Herzegovina"
-
-#~ msgid "Azerbaijan"
-#~ msgstr "Serbia"
-
-#~ msgid "Turkey"
-#~ msgstr "Tyrkia"
-
-#~ msgid "Bulgaria"
-#~ msgstr "Bulgaria"
-
-#~ msgid "Serbia"
-#~ msgstr "Serbia"
-
-#~ msgid "Slovenia"
-#~ msgstr "Slovenia"
-
-#~ msgid "Switzerland"
-#~ msgstr "Sveits"
-
-#~ msgid "United Kingdom"
-#~ msgstr "Storbritannia"
-
-#~ msgid "Czech Republic"
-#~ msgstr "Tjekkia"
-
-#~ msgid "Cyprus"
-#~ msgstr "Kypros"
-
-#~ msgid "Estonia"
-#~ msgstr "Estland"
-
-#~ msgid "Latvia"
-#~ msgstr "Latvia"
-
-#~ msgid "Lithuania"
-#~ msgstr "Litauen"
-
-#~ msgid "Hungary"
-#~ msgstr "Ungarn"
-
-#~ msgid "Malta"
-#~ msgstr "Malta"
-
-#~ msgid "Poland"
-#~ msgstr "Polen"
-
-#~ msgid "Slovakia"
-#~ msgstr "Slovakia"
-
-#~ msgid "Spain"
-#~ msgstr "Spania"
-
-#~ msgid "Belgium"
-#~ msgstr "Belgia"
-
-#~ msgid "Iceland"
-#~ msgstr "Island"
-
-#~ msgid "Norway"
-#~ msgstr "Norge"
-
-#~ msgid "Sweden"
-#~ msgstr "Sverige"
-
-#~ msgid "Liechtenstein"
-#~ msgstr "Liechtenstein"
-
-#~ msgid "Luxembourg"
-#~ msgstr "Luxembourg"
-
-#~ msgid "Greece"
-#~ msgstr "Hellas"
-
-#~ msgid "Subject cloud"
-#~ msgstr "Tema"
-
-#~ msgid "Did you mean"
-#~ msgstr "Mente du?"
-
-#~ msgid ""
-#~ "Paintings, music, films and books from Europe's galleries, libraries, "
-#~ "archives and museums."
-#~ msgstr ""
-#~ "Malerier, musikk, filmer og bøker fra Europas gallerier, biblioteker, "
-#~ "arkiver og museer."
-
-#~ msgid "Data provider"
-#~ msgstr "Datatilbyder"
-
-#~ msgid "Europeana rights"
-#~ msgstr "Europeana logoer"
-
-#~ msgid "Terms of use"
-#~ msgstr "Vilkår for bruk"
-
-#~ msgid "The timeline only shows up to 1000 items relevant to your query."
-#~ msgstr "Tidslinjen viser opp til 1000 objekter relevant for ditt søk."
-
-#~ msgid "Timeline view"
-#~ msgstr "Tidslinje"
-
-#~ msgid "Embed"
-#~ msgstr "Legg inn"
-
-#~ msgid "Options"
-#~ msgstr "Alternativer"
-
-#~ msgid "Embed this object into your own blog or website"
-#~ msgstr "Lim dette objektet inn i din egen blogg eller nettside"
-
-#~ msgid ""
-#~ "Paste the HTML source code below to your page. This page itself is an "
-#~ "example of a page that embeds a Europeana object."
-#~ msgstr ""
-#~ "Lim inn HTMLkoden nedenfor på siden din. Denne siden i seg selv er et "
-#~ "eksempel på en side som har et innlimt Europeana objekt."
-
-#~ msgid ""
-#~ "Now this Europeana object becomes a part of your page. Our content "
-#~ "providers tend to improve their objects from time to time. Create an "
-#~ "alert on this object to be notified if this specific object would change."
-#~ msgstr ""
-#~ "Nå blir dette Europeana-objektet en del av siden din. Våre "
-#~ "innholdsltilbydere har en tendens til å forbedre sine objekter fra tid "
-#~ "til annen. Lag et varsel om dette objektet for å få beskjed om dette "
-#~ "bestemet objekt blir endret."
-
-#~ msgid "Preview it customized"
-#~ msgstr "Forhåndsvis det tilpasset"
-
-#~ msgid "Create notification for this item"
-#~ msgstr "Opprett varsling for denne gjenstanden"
-
-#~ msgid ""
-#~ "Log in to My Europeana and set an alert to be notified of updates, such "
-#~ "as the publication of more metadata for this object."
-#~ msgstr ""
-#~ "Logg inn på Mitt Europeana og angi et varsel for å bli varslet om "
-#~ "oppdateringer, for eksempel ved publisering av mer metadata for dette "
-#~ "objektet."
-
-#~ msgid ""
-#~ "By using the embed function you accept and agree to the Europeana Terms "
-#~ "of Use"
-#~ msgstr ""
-#~ "Som bruker av embedfunksjonen aksepterer du og samtykker til Europeanas "
-#~ "bruksvilkår"
-
-#~ msgid "Maximal number of text lines:"
-#~ msgstr "Maksimalt antall tekstlinjer:"
-
-#~ msgid "orientation:"
-#~ msgstr "orientering:"
-
-#~ msgid "portrait"
-#~ msgstr "portrett"
-
-#~ msgid "landscape"
-#~ msgstr "landskap"
-
-#~ msgid "Refine Search"
-#~ msgstr "Begrens søket"
-
-#~ msgid "By Rights"
-#~ msgstr "Etter Rights"
-
-#~ msgid "Free Access"
-#~ msgstr "Gratis tilgang"
-
-#~ msgid "Restricted Access"
-#~ msgstr "Begrenset tilgang"
-
-#~ msgid "Paid Access"
-#~ msgstr "Betalt tilgang"
-
-#~ msgid "Public Domain"
-#~ msgstr "Rettighetsfritt materiale"
-
-#~ msgid "Unknown"
-#~ msgstr "Ukjent"
-
-#~ msgid "Not all objects show rights information"
-#~ msgstr "Ikke alle objekter viser rettighetsinformasjon"
-
-#~ msgid "Translate with:"
-#~ msgstr "Oversett med:"
-
-#~ msgid "Search line value with:"
-#~ msgstr "Søk linjeverdi med:"
-
-#~ msgid ""
-#~ "Access External Search Services or Translate a fields content where you "
-#~ "see the marker by double clicking the fields value."
-#~ msgstr ""
-#~ "Tilgang til eksterne søketjenester eller Oversett et feltinnhold der hvor "
-#~ "du ser markøren ved å dobbeltklikke på feltverdien."
-
-#~ msgid ""
-#~ "ESS allows you to translate an individual fields contents or search for "
-#~ "an individual line on an external search service to access additional "
-#~ "relevant information."
-#~ msgstr ""
-#~ "ESS lar deg oversette et individuelt felts innhold eller søke etter en "
-#~ "individuell linje på en ekstern søketjeneste for å få tilgang til mere "
-#~ "relevant informasjon."
-
-#~ msgid "indicates ESS services are available"
-#~ msgstr "indikerer at ESS tjenester er tilgjengelige"
-
-#~ msgid "indicates ESS services are not available"
-#~ msgstr "indikerer at ESS tjenester er ikke tilgjengelig"
-
-#~ msgid "Search term(s)"
-#~ msgstr "Søkebegrep(er)"
-
-#~ msgid "Search facet"
-#~ msgstr "Søkefasett"
-
-#~ msgid "Search operator"
-#~ msgstr "Søk operatør"
-
-#~ msgid "Back to top"
-#~ msgstr "Tilbake til toppen"
-
-#~ msgid "Click to search for this term in external services"
-#~ msgstr "Klikk for å søke etter dette begrepet i eksterne tjenester"
-
-#~ msgid "Remote Search Widget"
-#~ msgstr "Ekstern Søke Widget"
-
-#~ msgid ""
-#~ "You can use the link below to create a customized plugin for inclusion in "
-#~ "your own website with the ability to search through the collections on "
-#~ "the Europeana portal."
-#~ msgstr ""
-#~ "Du kan bruke linken nedenfor for å opprette et tilpasset plugin for "
-#~ "inkludering i din egen nettside med mulighet til å søke gjennom "
-#~ "samlingene på Europeanaportalen."
-
-#~ msgid "Europeana Search Widget"
-#~ msgstr "Europeanas Søke Widget"
-
-#~ msgid "What is Europeana's remote search widget?"
-#~ msgstr "Hva er Europeanas  søke widget?"
-
-#~ msgid ""
-#~ "The remote search widget is a tailored plugin to search on and display "
-#~ "items from Europeana's collections and those of their contributors within "
-#~ "your own website."
-#~ msgstr ""
-#~ "Den eksterne søkwidgeten er et skreddersydd plugin for å søke på og vise "
-#~ "elementer fra Europeanas samlinger og fra deres bidragsytere på ditt eget "
-#~ "nettsted."
-
-#~ msgid "What is a plugin?"
-#~ msgstr "Hva er et plugin?"
-
-#~ msgid ""
-#~ "The plugin is simply a piece of generated code that can be copied and "
-#~ "pasted into one of the webpages on your own site."
-#~ msgstr ""
-#~ "Dette pluginet er rett og slett et stykke generert kode som kan kopieres "
-#~ "og limes inn i en av websidene på ditt eget nettsted."
-
-#~ msgid "What will the plugin look like?"
-#~ msgstr "Hvordan vil pluginet se ut?"
-
-#~ msgid ""
-#~ "The working plugin is shown on the right hand side of the screen. Making "
-#~ "changes and selecting preview will let you see those changes in action."
-#~ msgstr ""
-#~ "Pluginet vises på høyre side av skjermen. For å gjøre endringer, velg "
-#~ "forhåndsvisning for å se endringene."
-
-#~ msgid "How do I add the plugin into my own site?"
-#~ msgstr "Hvordan legger jeg pluginet til i mitt eget nettsted?"
-
-#~ msgid "Select options from the menu below"
-#~ msgstr "Velg Alternativer fra menyen under"
-
-#~ msgid ""
-#~ "Click on 'Preview' to see the changes in the right hand side of the screen"
-#~ msgstr "Klikk på \"Preview\" for å se endringene på høyre side av skjermen"
-
-#~ msgid ""
-#~ "Check the box to say you have read and agree with the terms and conditions"
-#~ msgstr "Merk av boksenfor å meddele at du har lest og godtar vilkårene"
-
-#~ msgid "Click 'Generate Code'"
-#~ msgstr "Klikk \"Generer Kode '"
-
-#~ msgid "Copy the code from under 'Code for plugin:'"
-#~ msgstr "Kopier koden under \"Kode for plugin: '"
-
-#~ msgid "Open a webpage on your own site in a text editor"
-#~ msgstr "Åpne en webside på ditt eget nettsted i en tekst editor"
-
-#~ msgid "Paste the code into the page and save the changes"
-#~ msgstr "Lim koden inn på siden og lagre endringene"
-
-#~ msgid "Open your web page in a browser to see the plugin working"
-#~ msgstr "Åpne websiden din i en nettleser for å se pluginet i funksjon"
-
-#~ msgid "How can I change the position of the plugin?"
-#~ msgstr "Hvordan kan jeg endre plasseringen av pluginet?"
-
-#~ msgid ""
-#~ "The plugin can be nested within an HTML table but the easiest way is to "
-#~ "use cascading stylesheets css. The plugin is surrounded in a div with the "
-#~ "id swEuropeanaRemoteWidget and its position can be changed by changing "
-#~ "the css properties for this div."
-#~ msgstr ""
-#~ "Programtillegget kan nestes i en HTML-tabell, men den enkleste måten er å "
-#~ "bruke overlappende stilark css. Pluginet er inne i en div med id "
-#~ "swEuropeanaRemoteWidget og posisjonen kan endres ved å endre css-"
-#~ "egenskapene for denne div."
-
-#~ msgid "Background colour"
-#~ msgstr "Bakgrunnsfarge"
-
-#~ msgid "Media type tab colour"
-#~ msgstr "Medietype tab farge"
-
-#~ msgid "Text colour"
-#~ msgstr "Tekstfarge"
-
-#~ msgid "Default language"
-#~ msgstr "Standard språk"
-
-#~ msgid "Default search term"
-#~ msgstr "Standard søkebgrep"
-
-#~ msgid "Media Types"
-#~ msgstr "Medietyper"
-
-#~ msgid "Europeana attribution"
-#~ msgstr "Europeanakreditering"
-
-#~ msgid "Widget Code: (To be copied and pasted into your website)"
-#~ msgstr "Widget Kode: (Til å bli kopiert og limt inn i din webside)"
-
-#~ msgid "Generate Code"
-#~ msgstr "Generer Kode"
-
-#~ msgid "Powered By Europeana"
-#~ msgstr "Powered By Europeana"
-
-#~ msgid "Europeana Blog"
-#~ msgstr "Europeana Blogg"
-
-#~ msgid "Virtual Exhibitions"
-#~ msgstr "Virtuelle Utstillinger"
-
-#~ msgid "Click to cite this object"
-#~ msgstr "Klikk for å sitere dette objektet"
-
-#~ msgid "Use"
-#~ msgstr "Bruk"
-
-#~ msgid "Harvard Bibliographic Style"
-#~ msgstr "Harvard Bibliografiske stil"
-
-#~ msgid "This record can be cited in the"
-#~ msgstr "Denne posten kan siteres i"
-
-#~ msgid "style using the text below:"
-#~ msgstr "stil ved bruk av teksten nedenfor:"
-
-#~ msgid "Harvard Bibliographic"
-#~ msgstr "Harvard Bibliografiske"
-
-#~ msgid "Close"
-#~ msgstr "Lukk"
-
-#~ msgid "Show Auto-tags"
-#~ msgstr "Vis Auto-tags"
-
-#~ msgid "Hide Auto-tags"
-#~ msgstr "Skjul Auto-tags"
-
-#~ msgid "Automatically added semantic tags"
-#~ msgstr "Automatisk tillagte semantiske tagger"
-
-#~ msgid "Place Term"
-#~ msgstr "Plasser Begrep"
-
-#~ msgid "Place Label"
-#~ msgstr "Plasser Labelnavn"
-
-#~ msgid "Geo Space"
-#~ msgstr "Geo Space"
-
-#~ msgid "Place Broader Term"
-#~ msgstr "Plasser Videre begrep"
-
-#~ msgid "Place Broader Label"
-#~ msgstr "Plasser Videre Labelnavn"
-
-#~ msgid "Period Term"
-#~ msgstr "Periode Begrep"
-
-#~ msgid "Period Label"
-#~ msgstr "Periode Labelnavn"
-
-#~ msgid "Period Begin"
-#~ msgstr "Periode Begynnelse"
-
-#~ msgid "Period End"
-#~ msgstr "Periode Slutt"
-
-#~ msgid "Period Broader Term"
-#~ msgstr "Periode Videre begrep"
-
-#~ msgid "Period Broader Label"
-#~ msgstr "Periode Videre Labelnavn"
-
-#~ msgid "Concept Term"
-#~ msgstr "Konsept Begrep"
-
-#~ msgid "Concept Label"
-#~ msgstr "Konsept Labelnavn"
-
-#~ msgid "Concept Broader Term"
-#~ msgstr "Konsept Videre Begrep"
-
-#~ msgid "Concept Broader Label"
-#~ msgstr "Konsept Videre Labelnavn"
-
-#~ msgid "Agent Term"
-#~ msgstr "Agent Bergep"
-
-#~ msgid "Agent Label"
-#~ msgstr "Agent Labelnavn"
-
-#~ msgid "Featured item"
-#~ msgstr "Eksisterende element"
-
-#, fuzzy
-#~ msgid "New &amp; Improved - Europeana 1914-1918"
-#~ msgstr "Utforsk Europeana 1914-2928"
-
-#, fuzzy
-#~ msgid "Visit exhibitions"
-#~ msgstr "virtuelle utstillinger"
-
-#~ msgid "Language Policy"
-#~ msgstr "Språkpolitikk"
-
-#, fuzzy
-#~ msgid "How to configure your search widhet"
-#~ msgstr "Hva er Europeanas  søke widget?"
-
-#~ msgid "Press Room"
-#~ msgstr "Presserom"
-
-#~ msgid "Pinterest"
-#~ msgstr "Pinterest"
-
-#~ msgid "Explore Europe's cultural collections"
-#~ msgstr "Utforsk Europas kulturelle samlinger"
-
-#~ msgid "Access professional knowledge"
-#~ msgstr "Tilgang til faglig kunnskap"
-
-#~ msgid "Social media activities"
-#~ msgstr "Sosiale medieaktiviteter"
-
-#~ msgid "From the blog"
-#~ msgstr "Fra bloggen"
-
-#~ msgid "Filter your search"
-#~ msgstr "Filtrere søket"
-
-#~ msgid "Grid view"
-#~ msgstr "Rutenettvisning"
-
-#~ msgid ""
-#~ "We apologize; there was a problem retrieving the search results from the "
-#~ "server. Please try again later"
-#~ msgstr ""
-#~ "Vi beklager, det er et problem med henting av søkeresultater fra "
-#~ "serveren. Vennligst prøv igjen senere"
-
-#~ msgid "Similar items"
-#~ msgstr "Lignende objekter"
-
-#~ msgid "Loading ..."
-#~ msgstr "Laster ..."
-
-#~ msgid "Return to search results"
-#~ msgstr "Tilbake til søkeresultater"
-
-#~ msgid "Next search result"
-#~ msgstr "Neste søkeresultat"
-
-#~ msgid "Something went wrong!"
-#~ msgstr "Noe gikk galt!"
-
-#~ msgid "An email has been sent to inform our technical staff"
-#~ msgstr "En e-post har blitt sendt for å informere våre tekniske stab"
-
-#~ msgid "Please try another search"
-#~ msgstr "Vennligst prøv et nytt søk"
-
-#~ msgid "Saved search removed successfully"
-#~ msgstr "Lagret søk fjernet"
-
-#~ msgid "Saved item removed successfully"
-#~ msgstr "Lagret element fjernet"
-
-#~ msgid "Saved tag removed successfully"
-#~ msgstr "Lagret tag fjernet"
-
-#~ msgid "An error occurred"
-#~ msgstr "Det oppstod en feil"
-
-#~ msgid "The item could not be removed"
-#~ msgstr "Elementet kunne ikke fjernes"
-
-#~ msgid "Auto-generated tags"
-#~ msgstr "Auto-genererte tagger"
-
-#~ msgid "Request"
-#~ msgstr "Forespørsel"
-
-#~ msgid "Legend"
-#~ msgstr "Forklaring"
-
-#~ msgid "See less"
-#~ msgstr "Se færre"
-
-#~ msgid "See more"
-#~ msgstr "Se flere"
-
-#~ msgid "Explore further"
-#~ msgstr "Utforsk videre"
-
-#~ msgid "Return to original language"
-#~ msgstr "Tilbake til opprinnelig språk"
-
-#~ msgid "Attention: this item has been withdrawn by the provider."
-#~ msgstr "Obs: dette elementet har blitt trukket tilbake av leverandøren."
-
-#~ msgid ""
-#~ "We apologise; there was a problem retrieving the data from the server. "
-#~ "Please try again later."
-#~ msgstr ""
-#~ "Vi beklager, det oppsto et problem med å hente data fra serveren. "
-#~ "Vennligst prøv igjen senere."
-
-#~ msgid "Preview"
-#~ msgstr "Forhåndsvisning"
-
-#~ msgid "Return to timeline"
-#~ msgstr "Tilbake til tidslinjen"
-
-#~ msgid "This email address does not yet exist in our database"
-#~ msgstr "Denne e-postadressen eksisterer ikke ennå i vår database"
-
-#~ msgid "Your password change has been successfully completed"
-#~ msgstr "Din passordendring har vært vellykket "
-
-#~ msgid "Zoom"
-#~ msgstr "Zoom"
-
-#~ msgid "Zoom in"
-#~ msgstr "Zoom inn"
-
-#~ msgid "Zoom out"
-#~ msgstr "Zoom ut"
-
-#~ msgid "Choose from different map types"
-#~ msgstr "Velg blant forskjellige karttyper"
-
-#~ msgid ""
-#~ "Navigate map: click and hold left mouse-button, then move mouse to change "
-#~ "the view"
-#~ msgstr ""
-#~ "Naviger kart: klikk og holdvenstre museknapp, flytt musa for å endre "
-#~ "bildet"
-
-#~ msgid ""
-#~ "Select via freeform: add anchor points with left mouse-click, double "
-#~ "click to finish the shape"
-#~ msgstr ""
-#~ "Velg via freeform: legg ankerpunkt med venstre museklikk, dobbeltklikk "
-#~ "for å fullføre formen"
-
-#~ msgid "Google Satellite"
-#~ msgstr "Google Satelite"
-
-#~ msgid "Google Hybrid"
-#~ msgstr "Google Hybrid"
-
-#~ msgid "Google Street"
-#~ msgstr "Google Street"
-
-#~ msgid "Google Physical"
-#~ msgstr "Google Physical"
-
-#~ msgid "Tiles courtesy of"
-#~ msgstr "Fliser gjengitt med tillatelse fra"
-
-#~ msgid ""
-#~ "This is your personal space on Europeana. With My Europeana, you can save "
-#~ "your favourite items and searches, and add tags."
-#~ msgstr ""
-#~ "Dette er ditt personlige rom på Europeana. Med Mitt Europeana kan du "
-#~ "lagre dine favorittobjekter og søk, og legge til tags."
-
-#~ msgid "Download"
-#~ msgstr "Last ned"
-
-#, fuzzy
-#~ msgid "User contributed content"
-#~ msgstr "Brukergenerert innhold"
-
-#~ msgid "Play"
-#~ msgstr "Spill"
-
-#~ msgid "Read"
-#~ msgstr "Les"
-
-#~ msgid "View larger image"
-#~ msgstr "Se større bilde"
-
-#~ msgid "Your search result contains no items that have map co-ordinates."
-#~ msgstr "Ditt søk inneholder ingen bilder som har kart koordinater."
-
-#~ msgid "Please try another search."
-#~ msgstr "Vennligst prøv et annet søk"
-
-#~ msgid ""
-#~ "The Europeana map search is still in development and currently doesn't "
-#~ "work in Internet Explorer. We aim to support Internet Explorer in the "
-#~ "future. Currently we recommend you to use Chrome or Firefox."
-#~ msgstr ""
-#~ "Europeana kartsøk er fortsatt i utvikling og fungerer  i dag ikke i "
-#~ "Internet Explorer. Vi tar sikte på å støtte Internet Explorer i "
-#~ "fremtiden. Foreløpig anbefaler vi deg å bruke Chrome eller Firefox."
-
-#~ msgid "Wikipedia Citation"
-#~ msgstr "Wikipedia Citation"
-
-#~ msgid "Copy and paste the wiki-markup below:"
-#~ msgstr "Kopier og lim inn wiki-markupen under:"
-
-#~ msgid "The map only shows up to 1000 items relevant to your query."
-#~ msgstr "Kartet viser bare opp til 1000 objekter relevant for ditt søk."
-
-#~ msgid "No place name available"
-#~ msgstr "Intet stedsnavn er tilgjengelig"
-
-#~ msgid "The map only shows up to {0} items relevant to your query."
-#~ msgstr "Kartet viser bare opp til {0} objekter relevant for ditt søk."
-
-#~ msgid "Search within current map view"
-#~ msgstr "Søk med gjeldende kartvisning"
-
-#~ msgid "Follow us on"
-#~ msgstr "Følg oss på"
-
-#~ msgid "Unable to find content for this page."
-#~ msgstr "Kan ikke finne innhold for denne siden."
-
-#~ msgid "Latest on"
-#~ msgstr "Senest på"
-
-#~ msgid "Share item on Facebook, Twitter, etc."
-#~ msgstr "Del objekter på Facebook, Twitter, etc."
-
-#~ msgid "Follow us!"
-#~ msgstr "Følg oss!"
-
-#~ msgid "Newsletter sign-up"
-#~ msgstr "Abonner på nyhetsbrev"
-
-#~ msgid "Sign-up here"
-#~ msgstr "Meld deg på her"
-
-#~ msgid "Name"
-#~ msgstr "Navn"
-
-#~ msgid "Email Address"
-#~ msgstr "Email adresse"
-
-#~ msgid ""
-#~ "Sign-up to receive our bi-monthly newsletter, and occasional "
-#~ "announcements."
-#~ msgstr ""
-#~ "Meld deg på her for å motta vårt bi-månedlige nyhetsbrev, og sporadiske "
-#~ "kunngjøringer."
-
-#~ msgid "Featured partner"
-#~ msgstr "Utvalgt partner"
-
-#~ msgid "API function"
-#~ msgstr "API funksjon"
-
-#~ msgid "Search parameters"
-#~ msgstr "Søkeparametre"
-
-#~ msgid "Search term"
-#~ msgstr "Søketermer"
-
-#~ msgid "Refinement term(s)"
-#~ msgstr "Begrensende termer"
-
-#~ msgid "Profile"
-#~ msgstr "Profil"
-
-#~ msgid "Number of records to retrieve"
-#~ msgstr "Antall poster å hente"
-
-#~ msgid "First record to retrieve"
-#~ msgstr "Den første posten som hentes"
-
-#~ msgid "Record parameters"
-#~ msgstr "Post parametre"
-
-#~ msgid "Record id"
-#~ msgstr "Post id"
-
-#~ msgid "Request URL"
-#~ msgstr "Request URL"
-
-#~ msgid "JSON response"
-#~ msgstr "JSON respons"
-
-#, fuzzy
-#~ msgid "Additional parameters"
-#~ msgstr "Søkeparametre"
-
-#~ msgid "Search also for:"
-#~ msgstr "Søk også etter:"
-
-#~ msgid "Who"
-#~ msgstr "Hvem"
-
-#~ msgid "What"
-#~ msgstr "Hva"
-
 #, fuzzy
 #~ msgid "Europeana APIs"
 #~ msgstr "Europeana API"
-
-#~ msgid "_self"
-#~ msgstr "_selv"
-
-#~ msgid "rights/terms-and-policies.html"
-#~ msgstr "rettigheter/vilkår og policies"
-
-#~ msgid "Terms of use &amp; Policies"
-#~ msgstr "Vilkår for bruk; Policies"
-
-#~ msgid "contact.html"
-#~ msgstr "kontakt.html"
-
-#~ msgid "sitemap.html"
-#~ msgstr "sitemap.html"
-
-#~ msgid "No API key"
-#~ msgstr "Ingen API nøkkel"
-
-#~ msgid "API key"
-#~ msgstr "API nøkkel"
-
-#~ msgid "Private key"
-#~ msgstr "Privat nøkkel"
-
-#~ msgid "Usage limit"
-#~ msgstr "Bruksbegrensning"
-
-#~ msgid "Role"
-#~ msgstr "Rolle"
-
-#~ msgid "Administrator's page"
-#~ msgstr "Administrators side"
-
-#, fuzzy
-#~ msgid "Your API key is"
-#~ msgstr "Ingen API nøkkel"
-
-#, fuzzy
-#~ msgid "Your private key is"
-#~ msgstr "Privat nøkkel"
-
-#~ msgid "Remove API key"
-#~ msgstr "Fjern API nøkkel"
-
-#~ msgid "Limit"
-#~ msgstr "Grense"
-
-#~ msgid "Remove user"
-#~ msgstr "Fjern bruker"
-
-#~ msgid "Block user"
-#~ msgstr "Blokker bruker"
-
-#~ msgid "Export API keys to CSV"
-#~ msgstr "Eksporter API nøkler til CSV"
-
-#~ msgid "Export users to CSV"
-#~ msgstr "Eksporter brukere til CSV"
-
-#~ msgid "User name"
-#~ msgstr "Brukernavn"
-
-#~ msgid "Registration"
-#~ msgstr "Registrering"
-
-#~ msgid "Visit the website of"
-#~ msgstr "Besøk nettstedet til "
-
-#~ msgid "View the latest content from our partners"
-#~ msgstr "Se det seneste innholdet fra våre partnere"
-
-#~ msgid "Europeana Exhibitions"
-#~ msgstr "Europeana utstillinger"
-
-#~ msgid "Remix"
-#~ msgstr "Remiks"
-
-#~ msgid "Professional"
-#~ msgstr "Profesjonell"
-
-#~ msgid "Change limit for an API key"
-#~ msgstr "Endre grense for API nøkkel"
-
-#~ msgid "Company or Institution"
-#~ msgstr "Selskap eller Institusjon"
-
-#~ msgid "Telephone contact"
-#~ msgstr "Telefonkontakt"
-
-#~ msgid "Address"
-#~ msgstr "Adresse"
-
-#~ msgid "I confirm that I have read and agree to the"
-#~ msgstr "Jeg bekrefter at jeg har lest og er enig i"
-
-#~ msgid "Next in sequence"
-#~ msgstr "Neste i rekken"
-
-#~ msgid "Date of creation"
-#~ msgstr "Dato for opprettelse"
-
-#~ msgid "Is part of"
-#~ msgstr "en del av"
-
-#~ msgid "Titles"
-#~ msgstr "Titler"
-
-#~ msgid "Places"
-#~ msgstr "Steder"
-
-#~ msgid "Dates/Periods"
-#~ msgstr "Datoer/Perioder"
-
-#~ msgid "Subjects"
-#~ msgstr "Emner"
-
-#~ msgid "Creators"
-#~ msgstr "Skapere"
-
-#~ msgid "All fields"
-#~ msgstr "All felt"
-
-#~ msgid "Featured Item"
-#~ msgstr "Utvalgt objekt"
-
-#~ msgid "Click here for last page of results"
-#~ msgstr "Klikk her for den siste resultatsiden"
-
-#~ msgid "+ Add"
-#~ msgstr "+ Legg til "
-
-#~ msgid "Please, select"
-#~ msgstr "Vennligst velg"
-
-#~ msgid "Please try another search later."
-#~ msgstr "Vennligst prøv et annet søk senere"
-
-#~ msgid "Unable to find the requested page"
-#~ msgstr "Kan ikke finne den ønskede siden"
-
-#~ msgid "Alert:"
-#~ msgstr "Varsel:"
-
-#~ msgid "Unable to find the requested Europeana Record."
-#~ msgstr "Kan ikke finne den ønskede Europeana posten."
-
-#~ msgid "This item has been withdrawn by the provider."
-#~ msgstr "Dette objektet er fjernet av tilbyderen."
-
-#~ msgid "Requested Europeana Record is not yet indexed."
-#~ msgstr "Ønsket Europeana post er ennå ikke indeksert."
-
-#~ msgid "Please register your email again"
-#~ msgstr "Vennligst registrer din email igjen"
-
-#~ msgid "to finish registration."
-#~ msgstr "for å avslutte registreringen."
-
-#~ msgid "Unable to fullfill your request due to malformed query parameters."
-#~ msgstr ""
-#~ "Kan ikke fullføre din forespørsel på grunn av misformede søkeparametere."
-
-#~ msgid "Unable to get a response from the Search Engine."
-#~ msgstr "Ute av stand til å få svar fra søkemotoren."
-
-#~ msgid "Unable to fulfill your request due to a malformed query syntax."
-#~ msgstr "Kan ikke fullføre din forespørsel på grunn av misformet syntaks."
-
-#~ msgid "We are unable to change the interface to the requested language."
-#~ msgstr "Vi kan ikke endre grensesnittet til det språket du ønsker."
-
-#~ msgid "Please try another language from the dropdown list."
-#~ msgstr "Prøv et annet språk fra rullegardinlisten."
-
-#~ msgid "Number of results shown on the page"
-#~ msgstr "Antall resultater vist på siden"
-
-#, fuzzy
-#~ msgid "Yes, with attribution"
-#~ msgstr "Kreditering"
-
-#, fuzzy
-#~ msgid "Yes, with restrictions"
-#~ msgstr "Kreditering"
-
-#, fuzzy
-#~ msgid "Export API users to CSV"
-#~ msgstr "Eksporter brukere til CSV"
-
-#, fuzzy
-#~ msgid "Export API users to Excel"
-#~ msgstr "Eksporter brukere til CSV"
-
-#, fuzzy
-#~ msgid "English"
-#~ msgstr "Engelsk"
-
-#, fuzzy
-#~ msgid "Bulgarian"
-#~ msgstr "Bulgaria"
-
-#, fuzzy
-#~ msgid "Danish"
-#~ msgstr "Dansk"
-
-#, fuzzy
-#~ msgid "German"
-#~ msgstr "Tyskland"
-
-#, fuzzy
-#~ msgid "Greek"
-#~ msgstr "Hellas"
-
-#, fuzzy
-#~ msgid "Spanish"
-#~ msgstr "Spansk"
-
-#, fuzzy
-#~ msgid "Estonian"
-#~ msgstr "Estland"
-
-#, fuzzy
-#~ msgid "French"
-#~ msgstr "Fransk"
-
-#, fuzzy
-#~ msgid "Croatian"
-#~ msgstr "Latvia"
-
-#, fuzzy
-#~ msgid "Icelandic"
-#~ msgstr "Island"
-
-#, fuzzy
-#~ msgid "Italian"
-#~ msgstr "Italiensk"
-
-#, fuzzy
-#~ msgid "Lithuanian"
-#~ msgstr "Litauen"
-
-#, fuzzy
-#~ msgid "Latvian"
-#~ msgstr "Latvia"
-
-#, fuzzy
-#~ msgid "Hungarian"
-#~ msgstr "Ungarsk"
-
-#, fuzzy
-#~ msgid "Maltese"
-#~ msgstr "Maltesisk"
-
-#, fuzzy
-#~ msgid "Dutch"
-#~ msgstr "Nederlandsk"
-
-#, fuzzy
-#~ msgid "Norwegian"
-#~ msgstr "Norsk"
-
-#, fuzzy
-#~ msgid "Polish"
-#~ msgstr "Polsk"
-
-#, fuzzy
-#~ msgid "Romanian"
-#~ msgstr "Romania"
-
-#, fuzzy
-#~ msgid "Russian"
-#~ msgstr "Russisk"
-
-#, fuzzy
-#~ msgid "Slovene"
-#~ msgstr "Slovenia"
-
-#, fuzzy
-#~ msgid "Slovak"
-#~ msgstr "Slovakia"
-
-#, fuzzy
-#~ msgid "Finnish"
-#~ msgstr "Finsk"
-
-#, fuzzy
-#~ msgid "Swedish"
-#~ msgstr "Sverige"
-
-#, fuzzy
-#~ msgid "Ukranian"
-#~ msgstr "Frankrike"
-
-#, fuzzy
-#~ msgid "no"
-#~ msgstr "innebærer ikke"
-
-#, fuzzy
-#~ msgid "Language settings"
-#~ msgstr "Språk"
-
-#, fuzzy
-#~ msgid "Automatically translate item pages into:"
-#~ msgstr "Automatisk tillagte semantiske tagger"
-
-#, fuzzy
-#~ msgid "Auto translate items into"
-#~ msgstr "Oversett elementets detaljer"
-
-#, fuzzy
-#~ msgid "Automatically translate search keywords into:"
-#~ msgstr "Automatisk tillagte semantiske tagger"
-
-#, fuzzy
-#~ msgid "Incorrect password."
-#~ msgstr "Glemt passord?"
-
-#, fuzzy
-#~ msgid ""
-#~ "Log into My Europeana to save your favourite items, searches, tags and "
-#~ "translate search keywords into other languages."
-#~ msgstr ""
-#~ "du kan lagre dine favoritt-elementer og søk, og legge til tags i "
-#~ "elementer for å hjelpe til med å skille dem inn i forskjellige kategorier."
-
-#, fuzzy
-#~ msgid "Please enter your username."
-#~ msgstr "Vennligst registrer din email igjen"
-
-#, fuzzy
-#~ msgid "Please enter your password."
-#~ msgstr "Vennligst registrer din email igjen"
-
-#, fuzzy
-#~ msgid "Clear selection"
-#~ msgstr "Samling"
-
-#, fuzzy
-#~ msgid "Request passsword"
-#~ msgstr "Gjenta passord"
-
-#, fuzzy
-#~ msgid "Save settings"
-#~ msgstr "Språk"
-
-#, fuzzy
-#~ msgid ""
-#~ "Sorry, there was a problem saving your settings. Please try again later."
-#~ msgstr ""
-#~ "Vi beklager, det oppsto et problem med å hente data fra serveren. "
-#~ "Vennligst prøv igjen senere."
 
 #, fuzzy
 #~ msgid "api-introduction.html"
