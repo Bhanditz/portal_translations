@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-08 11:49+0200\n"
+"POT-Creation-Date: 2014-04-14 09:13+0200\n"
 "PO-Revision-Date: 2012-02-21 15:20\n"
 "Last-Translator: <jacob.lundqvist@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -149,8 +149,7 @@ msgstr "Háttér"
 msgid "All providers"
 msgstr "Tartalom hozzáadása"
 
-#: templates/leftmenu.html:10 templates/static_pages/aboutus_enews.html:11
-#: templates/static_pages/prop_file.html:940
+#: templates/leftmenu.html:10 templates/static_pages/prop_file.html:940
 #: templates/static_pages/prop_file.html:941
 #: templates/static_pages/sitemap.html:40
 #, fuzzy
@@ -1005,10 +1004,6 @@ msgid "Date of creation of the Privacy Statement"
 msgstr "Az Adatvédelmi irányelvek keletkezezésének dátuma"
 
 #: templates/rights/privacy.html:85 templates/rights/privacy.html.py:86
-#: templates/static_pages/aboutus_enews.html:24
-#: templates/static_pages/aboutus_enews.html:34
-#: templates/static_pages/aboutus_enews.html:43
-#: templates/static_pages/aboutus_enews.html:52
 msgid "September"
 msgstr "szeptember"
 
@@ -1509,89 +1504,6 @@ msgstr ""
 #: templates/static_pages/aboutus.html:43
 msgid "See the storyline and image credits for the Europeana video (above)"
 msgstr ""
-
-#: templates/static_pages/aboutus_enews.html:4
-#, fuzzy
-msgid "Europeana newsletters"
-msgstr "Az Europeana mérföldkövei"
-
-#: templates/static_pages/aboutus_enews.html:15
-#: templates/static_pages/aboutus_enews.html:27
-#: templates/static_pages/aboutus_enews.html:37
-#: templates/static_pages/aboutus_enews.html:46
-#: templates/static_pages/aboutus_enews.html:55
-msgid "February"
-msgstr "február"
-
-#: templates/static_pages/aboutus_enews.html:15
-#, fuzzy
-msgid "New digital resources on the First World War"
-msgstr "Europeana - Olvasó Európa"
-
-#: templates/static_pages/aboutus_enews.html:16
-msgid "January"
-msgstr ""
-
-#: templates/static_pages/aboutus_enews.html:16
-#, fuzzy
-msgid "Europeana Open Culture app now bigger and better!"
-msgstr "Kultúrában gondolkodunk"
-
-#: templates/static_pages/aboutus_enews.html:22
-#: templates/static_pages/aboutus_enews.html:32
-#: templates/static_pages/aboutus_enews.html:41
-#: templates/static_pages/aboutus_enews.html:50
-#: templates/static_pages/aboutus_enews.html:60
-msgid "December"
-msgstr "december"
-
-#: templates/static_pages/aboutus_enews.html:22
-msgid "Discover a virtual museum and a year of culture"
-msgstr ""
-
-#: templates/static_pages/aboutus_enews.html:23
-#: templates/static_pages/aboutus_enews.html:33
-#: templates/static_pages/aboutus_enews.html:51
-msgid "November"
-msgstr "november"
-
-#: templates/static_pages/aboutus_enews.html:23
-#, fuzzy
-msgid "Europe's culture - collected for you"
-msgstr "Vissza az Europeana honalphoz"
-
-#: templates/static_pages/aboutus_enews.html:24
-#, fuzzy
-msgid "Discover Europeana's hand-picked collections"
-msgstr "az új elemeket az Europeana gyűjteményében;"
-
-#: templates/static_pages/aboutus_enews.html:25
-#: templates/static_pages/aboutus_enews.html:35
-#: templates/static_pages/aboutus_enews.html:44
-#: templates/static_pages/aboutus_enews.html:53
-msgid "June"
-msgstr "június"
-
-#: templates/static_pages/aboutus_enews.html:25
-msgid ""
-"Download free iPad app, explore great new content &amp; join Europeana 1989"
-msgstr ""
-
-#: templates/static_pages/aboutus_enews.html:26
-#: templates/static_pages/aboutus_enews.html:36
-#: templates/static_pages/aboutus_enews.html:45
-#: templates/static_pages/aboutus_enews.html:54
-msgid "April"
-msgstr "április"
-
-#: templates/static_pages/aboutus_enews.html:26
-msgid "New look Europeana, Lithuania's buried secrets"
-msgstr ""
-
-#: templates/static_pages/aboutus_enews.html:42
-#, fuzzy
-msgid "October"
-msgstr "Egyéb"
 
 #: templates/static_pages/aboutus_faqs.html:3
 #: templates/static_pages/usingeuropeana.html:3
@@ -6350,6 +6262,45 @@ msgid ""
 "We would love to know how you are using this search widget, please tell us "
 "by dropping us an email at"
 msgstr ""
+
+#, fuzzy
+#~ msgid "Europeana newsletters"
+#~ msgstr "Az Europeana mérföldkövei"
+
+#~ msgid "February"
+#~ msgstr "február"
+
+#, fuzzy
+#~ msgid "New digital resources on the First World War"
+#~ msgstr "Europeana - Olvasó Európa"
+
+#, fuzzy
+#~ msgid "Europeana Open Culture app now bigger and better!"
+#~ msgstr "Kultúrában gondolkodunk"
+
+#~ msgid "December"
+#~ msgstr "december"
+
+#~ msgid "November"
+#~ msgstr "november"
+
+#, fuzzy
+#~ msgid "Europe's culture - collected for you"
+#~ msgstr "Vissza az Europeana honalphoz"
+
+#, fuzzy
+#~ msgid "Discover Europeana's hand-picked collections"
+#~ msgstr "az új elemeket az Europeana gyűjteményében;"
+
+#~ msgid "June"
+#~ msgstr "június"
+
+#~ msgid "April"
+#~ msgstr "április"
+
+#, fuzzy
+#~ msgid "October"
+#~ msgstr "Egyéb"
 
 #, fuzzy
 #~ msgid "contact.html"
