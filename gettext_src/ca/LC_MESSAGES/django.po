@@ -7,9 +7,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-06-24 09:57+0200\n"
-"PO-Revision-Date: 2013-11-21 15:32\n"
-"Last-Translator: Laura  Huff <laura.huff@kb.nl>\n"
+"POT-Creation-Date: 2014-08-05 12:01+0200\n"
+"PO-Revision-Date: 2014-07-28 14:36\n"
+"Last-Translator: <anna.vandenbroek@europeana.eu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
@@ -1609,9 +1609,8 @@ msgid "January"
 msgstr "Gener"
 
 #: templates/static_pages/aboutus_enews.html:16
-#, fuzzy
 msgid "Europeana Open Culture app now bigger and better!"
-msgstr "Europeana pensa cultura"
+msgstr ""
 
 #: templates/static_pages/aboutus_enews.html:22
 #: templates/static_pages/aboutus_enews.html:32
@@ -1632,9 +1631,8 @@ msgid "November"
 msgstr "Novembre"
 
 #: templates/static_pages/aboutus_enews.html:23
-#, fuzzy
 msgid "Europe's culture - collected for you"
-msgstr "Exploreu les col·leccions culturals d'Europa"
+msgstr ""
 
 #: templates/static_pages/aboutus_enews.html:24
 msgid "Discover Europeana's hand-picked collections"
@@ -1876,12 +1874,12 @@ msgid ""
 "€™Orsay. The number of organisations contributing to an aggregator is shown "
 "in brackets after the aggregatorâ€™s name, e.g. Videoactive (10)"
 msgstr ""
-"Són organitzacions que proveeixen contingut - pintures, llibres, emissions "
-"etc. digitalitzades. Alguns contribuidors són agregadors*, Culture.fr. n'és "
-"el més gran, proveeix contingut d'unes 480 organitzacions de France, "
-"inclosos el Louvre i el Musée d'Orsay. El nombre d'organitzacions que "
-"contribueixen a través d'un agregador s'indica entre claudators després del "
-"nom de l'agregador, p. ex.  Videoactive (10)"
+"Són les organitzacions que contribueixen amb continguts -pintures, llibres o "
+"emissions digitalitzades, etc. Alguns contribuïdors són agregadors*. Culture."
+"fr és l'agregador més gran, proveeix contingut de 480 organitzacions de "
+"França, inclosos els museus del Louvre i d'Orsay. El nombre d'organitzacions "
+"que proveeixen un agregador s'indica entre claudàtors a continuació del nom "
+"de l'agregador, per ex. Videoactive (10)"
 
 #: templates/static_pages/prop_file.html:15
 msgid ""
@@ -2375,7 +2373,7 @@ msgstr "Ítems"
 #: templates/static_pages/prop_file.html:128
 #, fuzzy
 msgid "Item details"
-msgstr "Detalls de l'ítem"
+msgstr "Podeu obtenir més informació"
 
 #: templates/static_pages/prop_file.html:129
 msgid "View as XML"
@@ -3597,7 +3595,7 @@ msgstr ""
 #: templates/static_pages/prop_file.html:501
 #, fuzzy
 msgid "New &amp; Improved - Europeana 1914-1918"
-msgstr "Europeana v1.0"
+msgstr "Europeana 1914-1918"
 
 #: templates/static_pages/prop_file.html:502
 msgid ""
@@ -3619,7 +3617,7 @@ msgstr ""
 #: templates/static_pages/prop_file.html:513
 #, fuzzy
 msgid "Visit exhibitions"
-msgstr "exposicions virtuals"
+msgstr "Exposicions virtuals"
 
 #: templates/static_pages/prop_file.html:526
 #: templates/static_pages/prop_file.html:527
@@ -3700,8 +3698,8 @@ msgid ""
 "We apologize; there was a problem retrieving the search results from the "
 "server. Please try again later"
 msgstr ""
-"Ho sentim, hi hagut un problema en recuperar els resultats de la cerca del "
-"servidor. Si us plau, torneu-ho a provar més tard"
+"Ho sentim, hi hagut un problema en recuperar les dades del servidor. Si us "
+"plau, torneu-ho a provar més tard."
 
 #: templates/static_pages/prop_file.html:658
 msgid "Similar items"
@@ -4010,12 +4008,9 @@ msgid "Email Address"
 msgstr "Adreça de correu electrònic"
 
 #: templates/static_pages/prop_file.html:740
-#, fuzzy
 msgid ""
 "Sign-up to receive our monthly newsletter, and occasional announcements."
 msgstr ""
-"Subscriviu-vos per rebre el butlletí d'informació bimensual, i anuncis "
-"ocasionals."
 
 #: templates/static_pages/prop_file.html:751
 #: templates/static_pages/prop_file.html:762
@@ -4134,7 +4129,7 @@ msgstr "resposta JSON"
 #: templates/static_pages/prop_file.html:816
 #, fuzzy
 msgid "Additional parameters"
-msgstr "Informació addicional"
+msgstr "Paràmetres de cerca"
 
 #: templates/static_pages/prop_file.html:818
 msgid "Search also for:"
@@ -4455,9 +4450,8 @@ msgid "Yes, with attribution"
 msgstr "Atribució a Europeana"
 
 #: templates/static_pages/prop_file.html:1017
-#, fuzzy
 msgid "Yes, with restrictions"
-msgstr "Atribució a Europeana"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:1018
 msgid "Only with permission"
@@ -4475,249 +4469,252 @@ msgstr "Exporta usuaris al CSV"
 
 #: templates/static_pages/prop_file.html:1023
 msgid "It looks like your browser is set to"
-msgstr ""
+msgstr "El vostre navegador està configurat en"
 
 #: templates/static_pages/prop_file.html:1024
 #, fuzzy
-msgid "Would you also like to use Europeana in"
-msgstr "També podeu contribuir a Europeana "
+msgid "Suffix for: It looks like your browser is set to"
+msgstr "El vostre navegador està configurat en"
 
 #: templates/static_pages/prop_file.html:1025
+msgid "Would you also like to use Europeana in"
+msgstr "Voleu fer servir Europeana en"
+
+#: templates/static_pages/prop_file.html:1026
+#, fuzzy
+msgid "Suffix for: Would you also like to use Europeana in"
+msgstr "Voleu fer servir Europeana en"
+
+#: templates/static_pages/prop_file.html:1027
 #, fuzzy
 msgid "English"
 msgstr "Anglès"
 
-#: templates/static_pages/prop_file.html:1026
+#: templates/static_pages/prop_file.html:1028
 msgid "Basque"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1027
+#: templates/static_pages/prop_file.html:1029
 #, fuzzy
 msgid "Bulgarian"
 msgstr "Bulgària"
 
-#: templates/static_pages/prop_file.html:1028
+#: templates/static_pages/prop_file.html:1030
 msgid "Catalan"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1029
+#: templates/static_pages/prop_file.html:1031
 msgid "Czech"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1030
+#: templates/static_pages/prop_file.html:1032
 #, fuzzy
 msgid "Danish"
 msgstr "Danès"
 
-#: templates/static_pages/prop_file.html:1031
+#: templates/static_pages/prop_file.html:1033
 #, fuzzy
 msgid "German"
 msgstr "Alemanya"
 
-#: templates/static_pages/prop_file.html:1032
+#: templates/static_pages/prop_file.html:1034
 #, fuzzy
 msgid "Greek"
 msgstr "Grècia"
 
-#: templates/static_pages/prop_file.html:1033
+#: templates/static_pages/prop_file.html:1035
 #, fuzzy
 msgid "Spanish"
 msgstr "Espanyol"
 
-#: templates/static_pages/prop_file.html:1034
+#: templates/static_pages/prop_file.html:1036
 #, fuzzy
 msgid "Estonian"
 msgstr "Estònia"
 
-#: templates/static_pages/prop_file.html:1035
+#: templates/static_pages/prop_file.html:1037
 #, fuzzy
 msgid "French"
 msgstr "Francès"
 
-#: templates/static_pages/prop_file.html:1036
+#: templates/static_pages/prop_file.html:1038
 msgid "Irish"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1037
+#: templates/static_pages/prop_file.html:1039
 #, fuzzy
 msgid "Croatian"
 msgstr "Croàcia"
 
-#: templates/static_pages/prop_file.html:1038
+#: templates/static_pages/prop_file.html:1040
 #, fuzzy
 msgid "Icelandic"
 msgstr "Islàndia"
 
-#: templates/static_pages/prop_file.html:1039
+#: templates/static_pages/prop_file.html:1041
 #, fuzzy
 msgid "Italian"
 msgstr "Italià"
 
-#: templates/static_pages/prop_file.html:1040
+#: templates/static_pages/prop_file.html:1042
 #, fuzzy
 msgid "Lithuanian"
 msgstr "Lituània"
 
-#: templates/static_pages/prop_file.html:1041
+#: templates/static_pages/prop_file.html:1043
 #, fuzzy
 msgid "Latvian"
 msgstr "Letònia"
 
-#: templates/static_pages/prop_file.html:1042
+#: templates/static_pages/prop_file.html:1044
 #, fuzzy
 msgid "Hungarian"
 msgstr "Hongarès"
 
-#: templates/static_pages/prop_file.html:1043
+#: templates/static_pages/prop_file.html:1045
 #, fuzzy
 msgid "Maltese"
 msgstr "Maltès"
 
-#: templates/static_pages/prop_file.html:1044
+#: templates/static_pages/prop_file.html:1046
 #, fuzzy
 msgid "Dutch"
 msgstr "Neerlandès"
 
-#: templates/static_pages/prop_file.html:1045
+#: templates/static_pages/prop_file.html:1047
 #, fuzzy
 msgid "Norwegian"
 msgstr "Norueg"
 
-#: templates/static_pages/prop_file.html:1046
+#: templates/static_pages/prop_file.html:1048
 #, fuzzy
 msgid "Polish"
 msgstr "Polonès"
 
-#: templates/static_pages/prop_file.html:1047
+#: templates/static_pages/prop_file.html:1049
 #, fuzzy
 msgid "Romanian"
 msgstr "Romania"
 
-#: templates/static_pages/prop_file.html:1048
+#: templates/static_pages/prop_file.html:1050
 #, fuzzy
 msgid "Russian"
 msgstr "Rus"
 
-#: templates/static_pages/prop_file.html:1049
+#: templates/static_pages/prop_file.html:1051
 #, fuzzy
 msgid "Slovene"
 msgstr "Eslovènia"
 
-#: templates/static_pages/prop_file.html:1050
+#: templates/static_pages/prop_file.html:1052
 #, fuzzy
 msgid "Slovak"
 msgstr "Eslovàquia"
 
-#: templates/static_pages/prop_file.html:1051
+#: templates/static_pages/prop_file.html:1053
 #, fuzzy
 msgid "Finnish"
 msgstr "Finès"
 
-#: templates/static_pages/prop_file.html:1052
+#: templates/static_pages/prop_file.html:1054
 #, fuzzy
 msgid "Swedish"
 msgstr "Suècia"
 
-#: templates/static_pages/prop_file.html:1053
+#: templates/static_pages/prop_file.html:1055
 #, fuzzy
 msgid "Ukranian"
 msgstr "Ucraïna"
 
-#: templates/static_pages/prop_file.html:1055
-#, fuzzy
+#: templates/static_pages/prop_file.html:1057
 msgid "no"
-msgstr "no"
-
-#: templates/static_pages/prop_file.html:1056
-msgid "yes"
-msgstr ""
+msgstr "No"
 
 #: templates/static_pages/prop_file.html:1058
+msgid "yes"
+msgstr "Sí"
+
+#: templates/static_pages/prop_file.html:1060
 #, fuzzy
 msgid "Language settings"
 msgstr "Llengües"
 
-#: templates/static_pages/prop_file.html:1059
+#: templates/static_pages/prop_file.html:1061
 #, fuzzy
 msgid "Automatically translate item pages into:"
 msgstr "Etiquetes semàntiques afegides automàticament"
 
-#: templates/static_pages/prop_file.html:1060
-#, fuzzy
-msgid "Auto translate items into"
-msgstr "Traduir els detalls de l'ítem"
-
-#: templates/static_pages/prop_file.html:1061
-#, fuzzy
-msgid "Automatically translate search keywords into:"
-msgstr "Etiquetes semàntiques afegides automàticament"
-
 #: templates/static_pages/prop_file.html:1062
+msgid "Auto translate items into"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1063
+msgid "Automatically translate search keywords into:"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1064
 msgid ""
 "For registered users, you can choose a maximum of 6 options. For "
 "unregistered users, you can choose a maximum of 3 options."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1063
+#: templates/static_pages/prop_file.html:1065
 msgid "Submit"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1064
+#: templates/static_pages/prop_file.html:1066
 #, fuzzy
 msgid "Incorrect password."
 msgstr "He oblidat la meva contrasenya"
 
-#: templates/static_pages/prop_file.html:1065
-#, fuzzy
+#: templates/static_pages/prop_file.html:1067
 msgid ""
 "Log into My Europeana to save your favourite items, searches, tags and "
 "translate search keywords into other languages."
 msgstr ""
-"podeu guardar els vostres ítems i cerques preferits, i afegir-n'hi etiquetes "
-"que us ajudaran a separar-los en diferentscategories."
 
-#: templates/static_pages/prop_file.html:1066
+#: templates/static_pages/prop_file.html:1068
 #, fuzzy
 msgid "Please enter your username."
 msgstr "Si us plau, registreu el vostre correu electrònic un altre cop."
 
-#: templates/static_pages/prop_file.html:1067
+#: templates/static_pages/prop_file.html:1069
 #, fuzzy
 msgid "Please enter your password."
 msgstr "Si us plau, registreu el vostre correu electrònic un altre cop."
 
-#: templates/static_pages/prop_file.html:1068
+#: templates/static_pages/prop_file.html:1070
 msgid "Registered users may choose a maximum of 6 options."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1069
+#: templates/static_pages/prop_file.html:1071
 msgid "Unregistered users may choose a maximum of 3 options."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1070
+#: templates/static_pages/prop_file.html:1072
 #, fuzzy
 msgid "Clear selection"
 msgstr "Col·lecció"
 
-#: templates/static_pages/prop_file.html:1071
+#: templates/static_pages/prop_file.html:1073
 #, fuzzy
 msgid "Request passsword"
 msgstr "Repetiu la contrasenya"
 
-#: templates/static_pages/prop_file.html:1072
+#: templates/static_pages/prop_file.html:1074
 msgid "Invalid credentials"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1073
+#: templates/static_pages/prop_file.html:1075
 #, fuzzy
 msgid "Save settings"
-msgstr "Llengües"
+msgstr "Etiquetes guardades"
 
-#: templates/static_pages/prop_file.html:1074
+#: templates/static_pages/prop_file.html:1076
 msgid "Settings have been saved."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1075
+#: templates/static_pages/prop_file.html:1077
 #, fuzzy
 msgid ""
 "Sorry, there was a problem saving your settings. Please try again later."
@@ -4798,18 +4795,16 @@ msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
 msgstr "Acord d'Intercanvi de Dades d'Europeana (a Europeana Professional)"
 
 #: templates/static_pages/sitemap.html:115
-#, fuzzy
 msgid "Free Access - no-reuse"
-msgstr "Accés lliure"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:116
 msgid "Rights Reserved - Restricted access"
 msgstr "Drets reservats - Accés restringit"
 
 #: templates/static_pages/sitemap.html:117
-#, fuzzy
 msgid "Paid Access - no re-use"
-msgstr "Accés de pagament"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:118
 msgid "Unknown copyright status"
@@ -4820,23 +4815,20 @@ msgid "Orphan work - Free access"
 msgstr "Obra orfe - Accés lliure"
 
 #: templates/static_pages/sitemap.html:120
-#, fuzzy
 msgid "Orphan work"
-msgstr "Obra orfe - Accés lliure"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:121
 msgid "Out of copyright - non commercial re-use"
 msgstr ""
 
 #: templates/static_pages/sitemap.html:127
-#, fuzzy
 msgid "Europeana Semantic Elements (ESE)"
-msgstr "Giny de cerca d'Europeana"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:128
-#, fuzzy
 msgid "Europeana metadata schemas"
-msgstr "metadades d'Europeana"
+msgstr ""
 
 #: templates/static_pages/storyline.html:4
 msgid "Europeana - Storyline and credits"
@@ -6515,11 +6507,9 @@ msgstr ""
 #~ msgid "api-introduction.html"
 #~ msgstr "api-introduction.html"
 
-#, fuzzy
 #~ msgid "Europeana Open Culture App"
 #~ msgstr "Europeana pensa cultura"
 
-#, fuzzy
 #~ msgid "Learn more"
 #~ msgstr "Veure més"
 
@@ -6529,11 +6519,9 @@ msgstr ""
 #~ msgid "Rights Reserved - Paid access"
 #~ msgstr "Drets reservats - Accés de pagament"
 
-#, fuzzy
 #~ msgid "Europe's culture - collected for you."
 #~ msgstr "Exploreu les col·leccions culturals d'Europa"
 
-#, fuzzy
 #~ msgid ""
 #~ "Explore more than 30 million items from a range of Europe's leading "
 #~ "galleries, libraries, archives and museums."
@@ -6562,7 +6550,6 @@ msgstr ""
 #~ "rhythm and blues. però van ser rebuts com a símbols i líders de la "
 #~ "joventut rebel."
 
-#, fuzzy
 #~ msgid "New Open Culture app"
 #~ msgstr "Europeana pensa cultura"
 
@@ -9274,9 +9261,6 @@ msgstr ""
 #~ msgid "Europeana - ThoughtLab: User-Generated Content"
 #~ msgstr "Europeana - ThoughtLab: Contingut generat pels usuaris"
 
-#~ msgid "User-Generated Content"
-#~ msgstr "Contingut generat pels usuaris"
-
 #~ msgid "Europeana - Travelling Through History"
 #~ msgstr "Europeana - Viajant a través de la història"
 
@@ -9682,22 +9666,6 @@ msgstr ""
 #~ msgstr ""
 #~ "És la xarxa de socis que han col·laborat a fer possible Europeana i que "
 #~ "representen Europeana als seus països i associacions professionals."
-
-#~ msgid ""
-#~ "#ContributorExplain_t[These are the organisations that are contributing "
-#~ "content - digitised paintings, books, broadcasts etc. Some of these "
-#~ "contributors are  aggregators*, Culture.fr is the largest aggregator, "
-#~ "providing content from about 480 organisations in France, including the "
-#~ "Louvre and the Musée d’Orsay. The number of organisations contributing to "
-#~ "an aggregator is shown in brackets after the aggregator’s name, e.g. "
-#~ "Videoactive (10)]"
-#~ msgstr ""
-#~ "Són les organitzacions que contribueixen amb continguts -pintures, "
-#~ "llibres o emissions digitalitzades, etc. Alguns contribuïdors són "
-#~ "agregadors*. Culture.fr és l'agregador més gran, proveeix contingut de "
-#~ "480 organitzacions de França, inclosos els museus del Louvre i d'Orsay. "
-#~ "El nombre d'organitzacions que proveeixen un agregador s'indica entre "
-#~ "claudàtors a continuació del nom de l'agregador, per ex. Videoactive (10)"
 
 #~ msgid ""
 #~ "#AggregatorExplain_t[*An aggregator collects material from a range of "

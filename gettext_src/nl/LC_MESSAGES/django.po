@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-06-24 09:58+0200\n"
-"PO-Revision-Date: 2014-03-11 15:46\n"
+"POT-Creation-Date: 2014-08-05 12:02+0200\n"
+"PO-Revision-Date: 2014-07-28 14:45\n"
 "Last-Translator: <anna.vandenbroek@europeana.eu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -1585,9 +1585,8 @@ msgid "See the storyline and image credits for the Europeana video (above)"
 msgstr "Bekijk de Europeana video (bovenaan) voor een impressie"
 
 #: templates/static_pages/aboutus_enews.html:4
-#, fuzzy
 msgid "Europeana newsletters"
-msgstr "Eerdere nieuwsbrieven"
+msgstr ""
 
 #: templates/static_pages/aboutus_enews.html:15
 #: templates/static_pages/aboutus_enews.html:27
@@ -1606,9 +1605,8 @@ msgid "January"
 msgstr "Januari"
 
 #: templates/static_pages/aboutus_enews.html:16
-#, fuzzy
 msgid "Europeana Open Culture app now bigger and better!"
-msgstr "Europeana denk cultuur"
+msgstr ""
 
 #: templates/static_pages/aboutus_enews.html:22
 #: templates/static_pages/aboutus_enews.html:32
@@ -1633,9 +1631,8 @@ msgid "Europe's culture - collected for you"
 msgstr "Ontdek Europa's culturele collecties"
 
 #: templates/static_pages/aboutus_enews.html:24
-#, fuzzy
 msgid "Discover Europeana's hand-picked collections"
-msgstr "Ontdek Europa's culturele collecties"
+msgstr ""
 
 #: templates/static_pages/aboutus_enews.html:25
 #: templates/static_pages/aboutus_enews.html:35
@@ -1716,7 +1713,7 @@ msgstr ""
 
 #: templates/static_pages/disclaimer.html:18
 msgid "do not"
-msgstr "betekenen niet"
+msgstr "nee"
 
 #: templates/static_pages/disclaimer.html:22
 msgid ""
@@ -3973,12 +3970,9 @@ msgid "Email Address"
 msgstr "E-mail adres"
 
 #: templates/static_pages/prop_file.html:740
-#, fuzzy
 msgid ""
 "Sign-up to receive our monthly newsletter, and occasional announcements."
 msgstr ""
-"Schrijf u in voor onze tweemaandelijkse nieuwsbrief en incidentele "
-"aankondigingen."
 
 #: templates/static_pages/prop_file.html:751
 #: templates/static_pages/prop_file.html:762
@@ -4400,9 +4394,8 @@ msgid "Yes, with attribution"
 msgstr "Europeana bronvermelding"
 
 #: templates/static_pages/prop_file.html:1017
-#, fuzzy
 msgid "Yes, with restrictions"
-msgstr "Europeana bronvermelding"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:1018
 msgid "Only with permission"
@@ -4420,246 +4413,252 @@ msgstr "Exporteer gebruikers naar CSV"
 
 #: templates/static_pages/prop_file.html:1023
 msgid "It looks like your browser is set to"
-msgstr ""
+msgstr "Het lijkt erop dat je browser staat ingesteld op"
 
 #: templates/static_pages/prop_file.html:1024
 #, fuzzy
-msgid "Would you also like to use Europeana in"
-msgstr "U kunt ook bijdragen aan Europeana door"
+msgid "Suffix for: It looks like your browser is set to"
+msgstr "Het lijkt erop dat je browser staat ingesteld op"
 
 #: templates/static_pages/prop_file.html:1025
+msgid "Would you also like to use Europeana in"
+msgstr "Will je Europeana gebruiken in het"
+
+#: templates/static_pages/prop_file.html:1026
+#, fuzzy
+msgid "Suffix for: Would you also like to use Europeana in"
+msgstr "Will je Europeana gebruiken in het"
+
+#: templates/static_pages/prop_file.html:1027
 #, fuzzy
 msgid "English"
 msgstr "Engels (eng)"
 
-#: templates/static_pages/prop_file.html:1026
+#: templates/static_pages/prop_file.html:1028
 msgid "Basque"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1027
+#: templates/static_pages/prop_file.html:1029
 #, fuzzy
 msgid "Bulgarian"
 msgstr "Bulgarije"
 
-#: templates/static_pages/prop_file.html:1028
+#: templates/static_pages/prop_file.html:1030
 msgid "Catalan"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1029
+#: templates/static_pages/prop_file.html:1031
 msgid "Czech"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1030
+#: templates/static_pages/prop_file.html:1032
 #, fuzzy
 msgid "Danish"
 msgstr "Deens (dan)"
 
-#: templates/static_pages/prop_file.html:1031
+#: templates/static_pages/prop_file.html:1033
 #, fuzzy
 msgid "German"
 msgstr "Duitsland"
 
-#: templates/static_pages/prop_file.html:1032
+#: templates/static_pages/prop_file.html:1034
 #, fuzzy
 msgid "Greek"
 msgstr "Griekenland"
 
-#: templates/static_pages/prop_file.html:1033
+#: templates/static_pages/prop_file.html:1035
 #, fuzzy
 msgid "Spanish"
 msgstr "Spaans (esp)"
 
-#: templates/static_pages/prop_file.html:1034
+#: templates/static_pages/prop_file.html:1036
 #, fuzzy
 msgid "Estonian"
 msgstr "Estland"
 
-#: templates/static_pages/prop_file.html:1035
+#: templates/static_pages/prop_file.html:1037
 #, fuzzy
 msgid "French"
 msgstr "Frans (fre)"
 
-#: templates/static_pages/prop_file.html:1036
+#: templates/static_pages/prop_file.html:1038
 msgid "Irish"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1037
+#: templates/static_pages/prop_file.html:1039
 #, fuzzy
 msgid "Croatian"
 msgstr "Kroatië"
 
-#: templates/static_pages/prop_file.html:1038
+#: templates/static_pages/prop_file.html:1040
 #, fuzzy
 msgid "Icelandic"
 msgstr "IJsland"
 
-#: templates/static_pages/prop_file.html:1039
+#: templates/static_pages/prop_file.html:1041
 #, fuzzy
 msgid "Italian"
 msgstr "Italiaans (ita)"
 
-#: templates/static_pages/prop_file.html:1040
+#: templates/static_pages/prop_file.html:1042
 #, fuzzy
 msgid "Lithuanian"
 msgstr "Litouwen"
 
-#: templates/static_pages/prop_file.html:1041
+#: templates/static_pages/prop_file.html:1043
 #, fuzzy
 msgid "Latvian"
 msgstr "Letland"
 
-#: templates/static_pages/prop_file.html:1042
+#: templates/static_pages/prop_file.html:1044
 #, fuzzy
 msgid "Hungarian"
 msgstr "Hongaars (hun)"
 
-#: templates/static_pages/prop_file.html:1043
+#: templates/static_pages/prop_file.html:1045
 #, fuzzy
 msgid "Maltese"
 msgstr "Maltees (mlt)"
 
-#: templates/static_pages/prop_file.html:1044
+#: templates/static_pages/prop_file.html:1046
 #, fuzzy
 msgid "Dutch"
 msgstr "Nederlands (dut)"
 
-#: templates/static_pages/prop_file.html:1045
+#: templates/static_pages/prop_file.html:1047
 #, fuzzy
 msgid "Norwegian"
 msgstr "Noors (nor)"
 
-#: templates/static_pages/prop_file.html:1046
+#: templates/static_pages/prop_file.html:1048
 #, fuzzy
 msgid "Polish"
 msgstr "Pools (pol)"
 
-#: templates/static_pages/prop_file.html:1047
+#: templates/static_pages/prop_file.html:1049
 #, fuzzy
 msgid "Romanian"
 msgstr "Roemenië"
 
-#: templates/static_pages/prop_file.html:1048
+#: templates/static_pages/prop_file.html:1050
 #, fuzzy
 msgid "Russian"
 msgstr "Russisch (rus)"
 
-#: templates/static_pages/prop_file.html:1049
+#: templates/static_pages/prop_file.html:1051
 #, fuzzy
 msgid "Slovene"
 msgstr "Slovenië"
 
-#: templates/static_pages/prop_file.html:1050
+#: templates/static_pages/prop_file.html:1052
 #, fuzzy
 msgid "Slovak"
 msgstr "Slowakije"
 
-#: templates/static_pages/prop_file.html:1051
+#: templates/static_pages/prop_file.html:1053
 #, fuzzy
 msgid "Finnish"
 msgstr "Fins (fin)"
 
-#: templates/static_pages/prop_file.html:1052
+#: templates/static_pages/prop_file.html:1054
 #, fuzzy
 msgid "Swedish"
 msgstr "Zweden"
 
-#: templates/static_pages/prop_file.html:1053
+#: templates/static_pages/prop_file.html:1055
 #, fuzzy
 msgid "Ukranian"
 msgstr "Oekraïne"
 
-#: templates/static_pages/prop_file.html:1055
-#, fuzzy
+#: templates/static_pages/prop_file.html:1057
 msgid "no"
-msgstr "niet"
-
-#: templates/static_pages/prop_file.html:1056
-msgid "yes"
-msgstr ""
+msgstr "nee"
 
 #: templates/static_pages/prop_file.html:1058
+msgid "yes"
+msgstr "ja"
+
+#: templates/static_pages/prop_file.html:1060
 #, fuzzy
 msgid "Language settings"
 msgstr "Taal"
 
-#: templates/static_pages/prop_file.html:1059
+#: templates/static_pages/prop_file.html:1061
 #, fuzzy
 msgid "Automatically translate item pages into:"
 msgstr "Automatisch toegevoegde semantische tags"
 
-#: templates/static_pages/prop_file.html:1060
-#, fuzzy
-msgid "Auto translate items into"
-msgstr "Automatisch toegevoegde semantische tags"
-
-#: templates/static_pages/prop_file.html:1061
-#, fuzzy
-msgid "Automatically translate search keywords into:"
-msgstr "Automatisch toegevoegde semantische tags"
-
 #: templates/static_pages/prop_file.html:1062
+msgid "Auto translate items into"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1063
+msgid "Automatically translate search keywords into:"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1064
 msgid ""
 "For registered users, you can choose a maximum of 6 options. For "
 "unregistered users, you can choose a maximum of 3 options."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1063
+#: templates/static_pages/prop_file.html:1065
 msgid "Submit"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1064
+#: templates/static_pages/prop_file.html:1066
 #, fuzzy
 msgid "Incorrect password."
 msgstr "Ik ben mijn wachtwoord vergeten"
 
-#: templates/static_pages/prop_file.html:1065
+#: templates/static_pages/prop_file.html:1067
 msgid ""
 "Log into My Europeana to save your favourite items, searches, tags and "
 "translate search keywords into other languages."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1066
+#: templates/static_pages/prop_file.html:1068
 #, fuzzy
 msgid "Please enter your username."
 msgstr "Registreer nogmaals uw e-mail"
 
-#: templates/static_pages/prop_file.html:1067
+#: templates/static_pages/prop_file.html:1069
 #, fuzzy
 msgid "Please enter your password."
 msgstr "Registreer nogmaals uw e-mail"
 
-#: templates/static_pages/prop_file.html:1068
+#: templates/static_pages/prop_file.html:1070
 msgid "Registered users may choose a maximum of 6 options."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1069
+#: templates/static_pages/prop_file.html:1071
 msgid "Unregistered users may choose a maximum of 3 options."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1070
+#: templates/static_pages/prop_file.html:1072
 #, fuzzy
 msgid "Clear selection"
 msgstr "Collectie"
 
-#: templates/static_pages/prop_file.html:1071
+#: templates/static_pages/prop_file.html:1073
 #, fuzzy
 msgid "Request passsword"
 msgstr "Herhaal wachtwoord"
 
-#: templates/static_pages/prop_file.html:1072
+#: templates/static_pages/prop_file.html:1074
 msgid "Invalid credentials"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1073
+#: templates/static_pages/prop_file.html:1075
 #, fuzzy
 msgid "Save settings"
 msgstr "Opgeslagen tags"
 
-#: templates/static_pages/prop_file.html:1074
+#: templates/static_pages/prop_file.html:1076
 msgid "Settings have been saved."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1075
+#: templates/static_pages/prop_file.html:1077
 #, fuzzy
 msgid ""
 "Sorry, there was a problem saving your settings. Please try again later."
@@ -6378,7 +6377,6 @@ msgstr ""
 #~ msgid "sitemap.html"
 #~ msgstr "sitemap.html"
 
-#, fuzzy
 #~ msgid "api-introduction.html"
 #~ msgstr "Introductie"
 

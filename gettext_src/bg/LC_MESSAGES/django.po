@@ -7,9 +7,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-06-24 09:57+0200\n"
-"PO-Revision-Date: 2013-10-30 18:59\n"
-"Last-Translator: Bulgarian  <>\n"
+"POT-Creation-Date: 2014-08-05 12:01+0200\n"
+"PO-Revision-Date: 2014-07-28 14:36\n"
+"Last-Translator: <anna.vandenbroek@europeana.eu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
@@ -1016,7 +1016,6 @@ msgid "Questions, Complaints, and Dispute Resolution"
 msgstr "Въпроси, оплаквания и решаване на спорове"
 
 #: templates/rights/privacy.html:81
-#, fuzzy
 msgid ""
 "By using our website you consent to the terms of the Privacy Statement "
 "hereby described. However, you have the right to prevent the use of your "
@@ -1026,13 +1025,6 @@ msgid ""
 "to have this data corrected or removed, or have any other question with "
 "regards to this statement, please contact"
 msgstr ""
-"Използвайки нашия сайт Вие се съгласявате с тук описаните условия за Защита "
-"на лични данни. Въпреки това, имате право да предотвратите използването на "
-"личните ви данни за персонализирани услуги и маркетинг, както и да поискате "
-"да не се свързваме с вас в бъдеще.\n"
-"Ако желаете да бъдете информирани за личните данни, събрани за вас или да "
-"получите тези данни коригирани или премахнати, или имате някакви други "
-"въпроси, по отношение на тази декларация, моля свържете се със"
 
 #: templates/rights/privacy.html:85
 msgid "Date of creation of the Privacy Statement"
@@ -1344,18 +1336,12 @@ msgstr ""
 "съдържание."
 
 #: templates/rights/terms-of-use.html:48
-#, fuzzy
 msgid ""
 "Except to the extent required by applicable law, in no event will Europeana "
 "be liable on any legal theory for any special, incidental, consequential, "
 "punitive or exemplary damages arising out of the use of the website or its "
 "content. In particular, it will not be liable for the following:"
 msgstr ""
-"Освен доколкото това се изисква от действащото законодателство, в никакъв "
-"случай Europeana няма да носи юридическа отговорност за каквито и да било "
-"специални, случайни, косвени, наказателни или примерни вреди, произтичащи от "
-"използването на този уебсайт или неговото съдържание. По-специално, тя няма "
-"да носи отговорност за следното:"
 
 #: templates/rights/terms-of-use.html:52
 msgid "Accuracy, completeness, etc. of the website or its content;"
@@ -1601,18 +1587,16 @@ msgid "February"
 msgstr "Февруари"
 
 #: templates/static_pages/aboutus_enews.html:15
-#, fuzzy
 msgid "New digital resources on the First World War"
-msgstr "За началната страница на Europeana, кликни тук"
+msgstr ""
 
 #: templates/static_pages/aboutus_enews.html:16
 msgid "January"
 msgstr ""
 
 #: templates/static_pages/aboutus_enews.html:16
-#, fuzzy
 msgid "Europeana Open Culture app now bigger and better!"
-msgstr "Мисъл за културата"
+msgstr ""
 
 #: templates/static_pages/aboutus_enews.html:22
 #: templates/static_pages/aboutus_enews.html:32
@@ -1633,9 +1617,8 @@ msgid "November"
 msgstr "Ноември"
 
 #: templates/static_pages/aboutus_enews.html:23
-#, fuzzy
 msgid "Europe's culture - collected for you"
-msgstr "Изследвайте Европейските колекции от културни материали"
+msgstr ""
 
 #: templates/static_pages/aboutus_enews.html:24
 msgid "Discover Europeana's hand-picked collections"
@@ -1862,14 +1845,10 @@ msgid "Partner"
 msgstr "Партньор"
 
 #: templates/static_pages/prop_file.html:13
-#, fuzzy
 msgid ""
 "This is the network of partners who collaborated to make Europeana happen, "
 "and who represent Europeana in their countries and professional associations."
 msgstr ""
-"Това е мрежа от партньори, които си сътрудничат, за да може Europeana да "
-"съществува и които представят Europeana в техните страни и професионални "
-"асоциации."
 
 #: templates/static_pages/prop_file.html:14
 #, fuzzy
@@ -1881,12 +1860,11 @@ msgid ""
 "€™Orsay. The number of organisations contributing to an aggregator is shown "
 "in brackets after the aggregatorâ€™s name, e.g. Videoactive (10)"
 msgstr ""
-"Това са организации, които внасят съдържание - дигитализирани картини, "
-"книги, предавания и т.н. Някои от организациите са и агрегатори*. Например "
-"Culture.fr е най-големият агрегатор, предоставящ съдържание от около 480 "
-"организации във Франция, включително Лувъра и музея д'Орсе. Броят на "
-"организациите, които работят с агрегатора е показан в скоби след името на "
-"агрегатора, например Videoactive (10)"
+"Моля прочетете нашата политика за Защита на личните данни, за да откриете "
+"каква информация записваме и как я използваме. Europeana събира следното:  "
+"лог файлове, файлове тип cookie (\"бисквитка\") и информация, която изрично "
+"изискваме потребителят да ни предостави при регистрацията или при използване "
+"на електронната форма за комуникация с Europeana."
 
 #: templates/static_pages/prop_file.html:15
 msgid ""
@@ -2913,9 +2891,8 @@ msgid "Armenia"
 msgstr "Армения"
 
 #: templates/static_pages/prop_file.html:263
-#, fuzzy
 msgid "Bosnia and Herzegovina"
-msgstr "Босна и Херцеговина"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:264
 msgid "Azerbaijan"
@@ -3176,14 +3153,11 @@ msgstr ""
 "видите маркер, когато кликнете два пъти върху полето."
 
 #: templates/static_pages/prop_file.html:322
-#, fuzzy
 msgid ""
 "ESS allows you to translate an individual fields contents or search for an "
 "individual line on an external search service to access additional relevant "
 "information."
 msgstr ""
-"ESS ви позволява да преведете съдържанието само на едно поле или да търсите "
-"само по един параметър с помощта на външна програма."
 
 #: templates/static_pages/prop_file.html:323
 msgid "indicates ESS services are available"
@@ -3220,15 +3194,11 @@ msgid "Remote Search Widget"
 msgstr "Отдалечен widget за търсене"
 
 #: templates/static_pages/prop_file.html:331
-#, fuzzy
 msgid ""
 "You can use the link below to create a customized plugin for inclusion in "
 "your own website with the ability to search through the collections on the "
 "Europeana portal."
 msgstr ""
-"Може да използвате линка по-долу, за да създадете собствен плъгин, който да "
-"включите във вашия уебсайт и който да има възможност да търси в колекциите "
-"на Europeana."
 
 #: templates/static_pages/prop_file.html:333
 msgid "Europeana Search Widget"
@@ -3321,17 +3291,12 @@ msgid "How can I change the position of the plugin?"
 msgstr "Как мога да променя позицията на един плъгин?"
 
 #: templates/static_pages/prop_file.html:352
-#, fuzzy
 msgid ""
 "The plugin can be nested within an HTML table but the easiest way is to use "
 "cascading stylesheets css. The plugin is surrounded in a div with the id "
 "swEuropeanaRemoteWidget and its position can be changed by changing the css "
 "properties for this div."
 msgstr ""
-"Плъгин-а може да бъде вграден в HTML таблицата, но по-добрия вариант е да се "
-"използват css (каскадни стилове). Плъгин-a се вмъква в div с id "
-"идентификатор swEuropeanaRemoteWidget. Позицията му може да бъде променяна, "
-"чрез промяна в свойствата на този div в каскадния стил (css)."
 
 #: templates/static_pages/prop_file.html:353
 msgid "Background colour"
@@ -3538,17 +3503,12 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/prop_file.html:435
-#, fuzzy
 msgid ""
 "The female personification of Europa sits on a horse in a library. In her "
 "hands a sceptre and a cornucopia. She is joined by putti with attributes "
 "that symbolize the Arts and Sciences. In the background are two men in a "
 "workshop."
 msgstr ""
-"Женското олицетворение на богинята Европа, седяща на кон в библиотека. В "
-"ръцете си държи скиптър и рог на изобилието. Към нея са присъединени и "
-"атрибутите, които символизират науките и изкуствата. На заден план са "
-"изобразени двама мъже в работилница."
 
 #: templates/static_pages/prop_file.html:445
 msgid ""
@@ -3604,7 +3564,7 @@ msgstr ""
 #: templates/static_pages/prop_file.html:501
 #, fuzzy
 msgid "New &amp; Improved - Europeana 1914-1918"
-msgstr "Изследвайте Europeana 1914-1918"
+msgstr "Europeana 1914-1918"
 
 #: templates/static_pages/prop_file.html:502
 msgid ""
@@ -4020,11 +3980,9 @@ msgid "Email Address"
 msgstr "Е-мейл адрес"
 
 #: templates/static_pages/prop_file.html:740
-#, fuzzy
 msgid ""
 "Sign-up to receive our monthly newsletter, and occasional announcements."
 msgstr ""
-"Абонирайте се за да получавате нашите двумесечни прессъобщения и обяви."
 
 #: templates/static_pages/prop_file.html:751
 #: templates/static_pages/prop_file.html:762
@@ -4463,9 +4421,8 @@ msgid "Yes, with attribution"
 msgstr "Europeana атрибути"
 
 #: templates/static_pages/prop_file.html:1017
-#, fuzzy
 msgid "Yes, with restrictions"
-msgstr "Europeana атрибути"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:1018
 msgid "Only with permission"
@@ -4483,250 +4440,252 @@ msgstr "Export users to CSV"
 
 #: templates/static_pages/prop_file.html:1023
 msgid "It looks like your browser is set to"
-msgstr ""
+msgstr "Eзикът на  Вашият браузър е"
 
 #: templates/static_pages/prop_file.html:1024
 #, fuzzy
-msgid "Would you also like to use Europeana in"
-msgstr "Можете да ни сътрудничите и като"
+msgid "Suffix for: It looks like your browser is set to"
+msgstr "Eзикът на  Вашият браузър е"
 
 #: templates/static_pages/prop_file.html:1025
+msgid "Would you also like to use Europeana in"
+msgstr "Бихте ли искали да използвате Europeana на"
+
+#: templates/static_pages/prop_file.html:1026
+#, fuzzy
+msgid "Suffix for: Would you also like to use Europeana in"
+msgstr "Бихте ли искали да използвате Europeana на"
+
+#: templates/static_pages/prop_file.html:1027
 #, fuzzy
 msgid "English"
 msgstr "Английски (eng)"
 
-#: templates/static_pages/prop_file.html:1026
+#: templates/static_pages/prop_file.html:1028
 msgid "Basque"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1027
+#: templates/static_pages/prop_file.html:1029
 #, fuzzy
 msgid "Bulgarian"
 msgstr "България"
 
-#: templates/static_pages/prop_file.html:1028
+#: templates/static_pages/prop_file.html:1030
 msgid "Catalan"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1029
+#: templates/static_pages/prop_file.html:1031
 msgid "Czech"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1030
+#: templates/static_pages/prop_file.html:1032
 #, fuzzy
 msgid "Danish"
 msgstr "Датски (dan)"
 
-#: templates/static_pages/prop_file.html:1031
+#: templates/static_pages/prop_file.html:1033
 #, fuzzy
 msgid "German"
 msgstr "Германия"
 
-#: templates/static_pages/prop_file.html:1032
+#: templates/static_pages/prop_file.html:1034
 #, fuzzy
 msgid "Greek"
 msgstr "Гърция"
 
-#: templates/static_pages/prop_file.html:1033
+#: templates/static_pages/prop_file.html:1035
 #, fuzzy
 msgid "Spanish"
 msgstr "Испански (esp)"
 
-#: templates/static_pages/prop_file.html:1034
+#: templates/static_pages/prop_file.html:1036
 #, fuzzy
 msgid "Estonian"
 msgstr "Естония"
 
-#: templates/static_pages/prop_file.html:1035
+#: templates/static_pages/prop_file.html:1037
 #, fuzzy
 msgid "French"
 msgstr "Френски (fre)"
 
-#: templates/static_pages/prop_file.html:1036
+#: templates/static_pages/prop_file.html:1038
 msgid "Irish"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1037
+#: templates/static_pages/prop_file.html:1039
 #, fuzzy
 msgid "Croatian"
 msgstr "Хърватска"
 
-#: templates/static_pages/prop_file.html:1038
+#: templates/static_pages/prop_file.html:1040
 #, fuzzy
 msgid "Icelandic"
 msgstr "Исландия"
 
-#: templates/static_pages/prop_file.html:1039
+#: templates/static_pages/prop_file.html:1041
 #, fuzzy
 msgid "Italian"
 msgstr "Италиански (ita)"
 
-#: templates/static_pages/prop_file.html:1040
+#: templates/static_pages/prop_file.html:1042
 #, fuzzy
 msgid "Lithuanian"
 msgstr "Литва"
 
-#: templates/static_pages/prop_file.html:1041
+#: templates/static_pages/prop_file.html:1043
 #, fuzzy
 msgid "Latvian"
 msgstr "Латвия"
 
-#: templates/static_pages/prop_file.html:1042
+#: templates/static_pages/prop_file.html:1044
 #, fuzzy
 msgid "Hungarian"
 msgstr "Унгарски (hun)"
 
-#: templates/static_pages/prop_file.html:1043
+#: templates/static_pages/prop_file.html:1045
 #, fuzzy
 msgid "Maltese"
 msgstr "Малтийски (mlt)"
 
-#: templates/static_pages/prop_file.html:1044
+#: templates/static_pages/prop_file.html:1046
 #, fuzzy
 msgid "Dutch"
 msgstr "Холандски (dut)"
 
-#: templates/static_pages/prop_file.html:1045
+#: templates/static_pages/prop_file.html:1047
 #, fuzzy
 msgid "Norwegian"
 msgstr "Норвежки (nor)"
 
-#: templates/static_pages/prop_file.html:1046
+#: templates/static_pages/prop_file.html:1048
 #, fuzzy
 msgid "Polish"
 msgstr "Полски (pol)"
 
-#: templates/static_pages/prop_file.html:1047
+#: templates/static_pages/prop_file.html:1049
 #, fuzzy
 msgid "Romanian"
 msgstr "Румъния"
 
-#: templates/static_pages/prop_file.html:1048
+#: templates/static_pages/prop_file.html:1050
 #, fuzzy
 msgid "Russian"
 msgstr "Руски (rus)"
 
-#: templates/static_pages/prop_file.html:1049
+#: templates/static_pages/prop_file.html:1051
 #, fuzzy
 msgid "Slovene"
 msgstr "Словения"
 
-#: templates/static_pages/prop_file.html:1050
+#: templates/static_pages/prop_file.html:1052
 #, fuzzy
 msgid "Slovak"
 msgstr "Словакия"
 
-#: templates/static_pages/prop_file.html:1051
+#: templates/static_pages/prop_file.html:1053
 #, fuzzy
 msgid "Finnish"
 msgstr "Финландски (fin)"
 
-#: templates/static_pages/prop_file.html:1052
+#: templates/static_pages/prop_file.html:1054
 #, fuzzy
 msgid "Swedish"
 msgstr "Швеция"
 
-#: templates/static_pages/prop_file.html:1053
+#: templates/static_pages/prop_file.html:1055
 #, fuzzy
 msgid "Ukranian"
 msgstr "Украйна"
 
-#: templates/static_pages/prop_file.html:1055
-#, fuzzy
+#: templates/static_pages/prop_file.html:1057
 msgid "no"
-msgstr "НЕ"
-
-#: templates/static_pages/prop_file.html:1056
-msgid "yes"
-msgstr ""
+msgstr "Не"
 
 #: templates/static_pages/prop_file.html:1058
+msgid "yes"
+msgstr "Да"
+
+#: templates/static_pages/prop_file.html:1060
 #, fuzzy
 msgid "Language settings"
 msgstr "Езици"
 
-#: templates/static_pages/prop_file.html:1059
+#: templates/static_pages/prop_file.html:1061
 #, fuzzy
 msgid "Automatically translate item pages into:"
 msgstr "Автоматично добавени семантични етикети"
 
-#: templates/static_pages/prop_file.html:1060
-#, fuzzy
-msgid "Auto translate items into"
-msgstr "Преведи детайлите"
-
-#: templates/static_pages/prop_file.html:1061
-#, fuzzy
-msgid "Automatically translate search keywords into:"
-msgstr "Автоматично добавени семантични етикети"
-
 #: templates/static_pages/prop_file.html:1062
+msgid "Auto translate items into"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1063
+msgid "Automatically translate search keywords into:"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1064
 msgid ""
 "For registered users, you can choose a maximum of 6 options. For "
 "unregistered users, you can choose a maximum of 3 options."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1063
+#: templates/static_pages/prop_file.html:1065
 msgid "Submit"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1064
+#: templates/static_pages/prop_file.html:1066
 #, fuzzy
 msgid "Incorrect password."
 msgstr "Забравена паролата"
 
-#: templates/static_pages/prop_file.html:1065
-#, fuzzy
+#: templates/static_pages/prop_file.html:1067
 msgid ""
 "Log into My Europeana to save your favourite items, searches, tags and "
 "translate search keywords into other languages."
 msgstr ""
-"можете да запазвате резултатите от търсенията, които са ви заинтересували, "
-"както и да прибавяте етикети, които ще помогнат за подреждането им в отделни "
-"категории."
 
-#: templates/static_pages/prop_file.html:1066
+#: templates/static_pages/prop_file.html:1068
 #, fuzzy
 msgid "Please enter your username."
 msgstr "Моля въведете валиден е-мейл адрес"
 
-#: templates/static_pages/prop_file.html:1067
+#: templates/static_pages/prop_file.html:1069
 #, fuzzy
 msgid "Please enter your password."
 msgstr "Моля въведете валиден е-мейл адрес"
 
-#: templates/static_pages/prop_file.html:1068
+#: templates/static_pages/prop_file.html:1070
 msgid "Registered users may choose a maximum of 6 options."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1069
+#: templates/static_pages/prop_file.html:1071
 msgid "Unregistered users may choose a maximum of 3 options."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1070
+#: templates/static_pages/prop_file.html:1072
 #, fuzzy
 msgid "Clear selection"
 msgstr "Колекция"
 
-#: templates/static_pages/prop_file.html:1071
+#: templates/static_pages/prop_file.html:1073
 #, fuzzy
 msgid "Request passsword"
 msgstr "Въведете паролата отново"
 
-#: templates/static_pages/prop_file.html:1072
+#: templates/static_pages/prop_file.html:1074
 msgid "Invalid credentials"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1073
+#: templates/static_pages/prop_file.html:1075
 #, fuzzy
 msgid "Save settings"
-msgstr "Езици"
+msgstr "Запазени етикети"
 
-#: templates/static_pages/prop_file.html:1074
+#: templates/static_pages/prop_file.html:1076
 msgid "Settings have been saved."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1075
+#: templates/static_pages/prop_file.html:1077
 #, fuzzy
 msgid ""
 "Sorry, there was a problem saving your settings. Please try again later."
@@ -4808,18 +4767,16 @@ msgstr ""
 "Договор за обмен на данни с Europeana (от сайта Europeana Professional)"
 
 #: templates/static_pages/sitemap.html:115
-#, fuzzy
 msgid "Free Access - no-reuse"
-msgstr "Права за ползване – Свободен достъп"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:116
 msgid "Rights Reserved - Restricted access"
 msgstr "Всички права запазени - ограничен достъп"
 
 #: templates/static_pages/sitemap.html:117
-#, fuzzy
 msgid "Paid Access - no re-use"
-msgstr "Права за ползване – Платен достъп"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:118
 msgid "Unknown copyright status"
@@ -4830,23 +4787,20 @@ msgid "Orphan work - Free access"
 msgstr "Осиротели творби - свободен достъп"
 
 #: templates/static_pages/sitemap.html:120
-#, fuzzy
 msgid "Orphan work"
-msgstr "Осиротели творби - свободен достъп"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:121
 msgid "Out of copyright - non commercial re-use"
 msgstr ""
 
 #: templates/static_pages/sitemap.html:127
-#, fuzzy
 msgid "Europeana Semantic Elements (ESE)"
-msgstr "Europeana приложение за търсене"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:128
-#, fuzzy
 msgid "Europeana metadata schemas"
-msgstr "Europeana метаданни"
+msgstr ""
 
 #: templates/static_pages/storyline.html:4
 msgid "Europeana - Storyline and credits"
@@ -6224,18 +6178,12 @@ msgstr ""
 "вграден."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:11
-#, fuzzy
 msgid ""
 "Configure the widget to search all collections and data providers within "
 "Europeana, or refine it to suit your website, e.g. to search only within "
 "Public Domain or Creative Commons, or only licensed images from a specific "
 "country."
 msgstr ""
-"Конфигурирайте widget-а да търси във всички колекции и доставчици на данни "
-"или да го настройте да отговаря най-точно на профила на вашия сайт - "
-"например да търси само видео файлове свързани с Първата световна война или "
-"само изображения от италиански художници притежание на Националния музей на "
-"Холандия."
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:12
 msgid "The Europeana Search Widget works with..."
@@ -6444,9 +6392,8 @@ msgid "More information on the Rights Reserved - Free Access label"
 msgstr "Повече информация за Правата за ползване - етикет Свободен достъп"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:36
-#, fuzzy
 msgid "More information on the Rights Reserved - Restricted Access label"
-msgstr "Повече информация за Правата за ползване - етикет Платен достъп"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:37
 msgid "More information on the Rights Reserved - Paid Access label"
@@ -6550,14 +6497,12 @@ msgstr ""
 #~ msgid "sitemap.html"
 #~ msgstr "sitemap.html"
 
-#, fuzzy
 #~ msgid "Share yo"
 #~ msgstr "Сподели"
 
 #~ msgid "api-introduction.html"
 #~ msgstr "api-introduction.html"
 
-#, fuzzy
 #~ msgid ""
 #~ "Cookies are small amounts of information sent from a web server to your "
 #~ "browser and stored on your computers hard-drive. They contain information "
@@ -6576,11 +6521,9 @@ msgstr ""
 #~ "функционални възможностти на уебсайта, като например езиковите настройки, "
 #~ "които сте избрали)."
 
-#, fuzzy
 #~ msgid "Th"
 #~ msgstr "Политиката по"
 
-#, fuzzy
 #~ msgid ""
 #~ "Europeana.eu collects or logs cookies and information about its users and "
 #~ "processes this information to produce usage statistics. By processing "
@@ -6601,19 +6544,15 @@ msgstr ""
 #~ "съдържат информация, от която да могат да се идентифицират отделни "
 #~ "потребители. Те се използват само за следните нужди"
 
-#, fuzzy
 #~ msgid "Europeana Open Culture App"
 #~ msgstr "Мисъл за културата"
 
-#, fuzzy
 #~ msgid "Learn more"
 #~ msgstr "Виж повече"
 
-#, fuzzy
 #~ msgid "Get an "
 #~ msgstr "Вземете API-ключ (API-key)"
 
-#, fuzzy
 #~ msgid "Europeation on the Rights Reserved - Restricted Access label"
 #~ msgstr "Повече информация за Правата за ползване - етикет Ограничен достъп"
 
@@ -6623,11 +6562,9 @@ msgstr ""
 #~ msgid "Rights Reserved - Paid access"
 #~ msgstr "Всички права запазени - платен достъп"
 
-#, fuzzy
 #~ msgid "Europe's culture - collected for you."
 #~ msgstr "Изследвайте Европейските колекции от културни материали"
 
-#, fuzzy
 #~ msgid ""
 #~ "Explore more than 30 million items from a range of Europe's leading "
 #~ "galleries, libraries, archives and museums."
@@ -6635,7 +6572,6 @@ msgstr ""
 #~ "Книги, изображения, картини, музика и филми, предоставени  от галерии, "
 #~ "библиотеки, архиви и музеи от цяла Европа."
 
-#, fuzzy
 #~ msgid ""
 #~ "Information that is urgent or has a very short life is opeana - Language "
 #~ "policy"
@@ -6674,11 +6610,9 @@ msgstr ""
 #~ "lie. Told him then in the early evenings, full of caresses tales of love, "
 #~ "but with a little xegelasmenos and thy will forget the truth."
 
-#, fuzzy
 #~ msgid "New Open Culture app"
 #~ msgstr "Мисъл за културата"
 
-#, fuzzy
 #~ msgid ""
 #~ "Europata and any improvements thereto freely available under the same "
 #~ "terms as Europeana, i.e., without claiming any legal right to, or "
@@ -6782,20 +6716,6 @@ msgstr ""
 #~ msgid "Content created by user"
 #~ msgstr "Съдържание допринесено от потребителите"
 
-#, fuzzy
-#~ msgid ""
-#~ "Please read our Privacy Policy Statement to find out what information we "
-#~ "log and how we use ifr is the largest aggregator, providing content from "
-#~ "about 480 organisations in France, including the Louvre and the Musée "
-#~ "d’Orsay. The number of organisations contributing to an aggregator is "
-#~ "shown in brackets after the aggregator’s name, e.g. Videoactive (10)"
-#~ msgstr ""
-#~ "Моля прочетете нашата политика за Защита на личните данни, за да откриете "
-#~ "каква информация записваме и как я използваме. Europeana събира "
-#~ "следното:  лог файлове, файлове тип cookie (\"бисквитка\") и информация, "
-#~ "която изрично изискваме потребителят да ни предостави при регистрацията "
-#~ "или при използване на електронната форма за комуникация с Europeana."
-
 #~ msgid ""
 #~ "Nessun dorma (English: None shall sleep) is an aria from the final act of "
 #~ "Giacomo Puccini's opera Turandot, and is one of the best-known tenor "
@@ -6845,7 +6765,6 @@ msgstr ""
 #~ msgid "What's new"
 #~ msgstr "Какво ново"
 
-#, fuzzy
 #~ msgid "ons"
 #~ msgstr "Звукови файлове"
 
