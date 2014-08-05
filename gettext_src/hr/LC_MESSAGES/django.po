@@ -2,22 +2,21 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-08-05 12:38+0200\n"
-"PO-Revision-Date: 2013-09-02 11:39\n"
-"Last-Translator: Croatian  <>\n"
+"PO-Revision-Date: 2014-08-05 13:48\n"
+"Last-Translator: <jacob.lundqvist@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
 "X-Translated-Using: django-rosetta 0.5.6\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
 
 #: templates/api_leftmenu.html:3 templates/static_pages/europeana-api.html:4
 #: templates/static_pages/prop_file.html:63
@@ -144,17 +143,15 @@ msgstr "Povijest"
 
 #: templates/leftmenu.html:9 templates/static_pages/prop_file.html:935
 #: templates/static_pages/prop_file.html:936
-#, fuzzy
 msgid "All providers"
-msgstr "Ustanove"
+msgstr ""
 
 #: templates/leftmenu.html:10 templates/static_pages/aboutus_enews.html:11
 #: templates/static_pages/prop_file.html:940
 #: templates/static_pages/prop_file.html:941
 #: templates/static_pages/sitemap.html:40
-#, fuzzy
 msgid "Previous newsletters"
-msgstr "Prethodne Newsletteri"
+msgstr ""
 
 #: templates/leftmenu.html:12 templates/NOT/leftmenu_old.html:8
 #: templates/static_pages/prop_file.html:945
@@ -333,9 +330,8 @@ msgstr "Korištenje \"Moja Europeana\""
 #: templates/usingeuropeana_leftmenu.html:10
 #: templates/static_pages/prop_file.html:920
 #: templates/static_pages/prop_file.html:921
-#, fuzzy
 msgid "Configure your search widget"
-msgstr "Filtriraj pretraživanje"
+msgstr ""
 
 #: templates/NOT/leftmenu_old.html:11
 msgid "eNews"
@@ -350,22 +346,14 @@ msgid ""
 "Europeana.eu features and content have been designed to be universally\n"
 "accessible by users and user agents/devices. We strive to meet the WC3 Web\n"
 "Content Accessibility Guidelines Version 1.0."
-msgstr ""
-"Sadržaj i obilježja Europeane.eu oblikovani za široku dostupnost korisnicima "
-"i njihovim posrednicima ili napravama. Nastojimo biti u skladu s Uputama o "
-"dostupnosti sadržaja za web WC3, verzija 1.0"
+msgstr "Sadržaj i obilježja Europeane.eu oblikovani za široku dostupnost korisnicima i njihovim posrednicima ili napravama. Nastojimo biti u skladu s Uputama o dostupnosti sadržaja za web WC3, verzija 1.0"
 
 #: templates/rights/accessibility.html:22
 msgid ""
 "Our User Centred Design team frequently conducts usability testing of\n"
 "Europeana.eu navigation, flow, labels, and consistency. Furthermore,\n"
-"we will produce a version &ndash; post this prototype phase &ndash; for "
-"blind individuals."
-msgstr ""
-"Naš je dizajnerski tim okrenut korisnicima i često provodi testiranja "
-"iskorištenosti navigacije, tiijeka, oznaka i dosljesnosti Europeana.eu "
-"sučelja. Uz to ćemo izraditi i novu verziju i postaviti prototip za slijepe "
-"i slabovidne osobe."
+"we will produce a version &ndash; post this prototype phase &ndash; for blind individuals."
+msgstr "Naš je dizajnerski tim okrenut korisnicima i često provodi testiranja iskorištenosti navigacije, tiijeka, oznaka i dosljesnosti Europeana.eu sučelja. Uz to ćemo izraditi i novu verziju i postaviti prototip za slijepe i slabovidne osobe."
 
 #: templates/rights/accessibility.html:27
 msgid "Some of the accessibility features of our site include"
@@ -400,9 +388,7 @@ msgid "The (core) functionalities are usable without JavaScript"
 msgstr ""
 
 #: templates/rights/accessibility.html:40
-msgid ""
-"Please send us any feedback or questions on the accessibility of Europeana."
-"eu with the"
+msgid "Please send us any feedback or questions on the accessibility of Europeana.eu with the"
 msgstr ""
 
 #: templates/rights/accessibility.html:41
@@ -435,10 +421,8 @@ msgstr "(portal Europske unije)"
 
 #: templates/rights/languagepolicy.html:22
 msgid ""
-"As far as possible, the aim is to provide the public with the information "
-"they\n"
-"are looking for in their own language. However, due to constraints on "
-"resources,\n"
+"As far as possible, the aim is to provide the public with the information they\n"
+"are looking for in their own language. However, due to constraints on resources,\n"
 "this isn't always possible"
 msgstr ""
 
@@ -457,9 +441,7 @@ msgid "prioritise speed of publication over availability of translation"
 msgstr ""
 
 #: templates/rights/languagepolicy.html:34
-msgid ""
-"Allow limited 'language mixing' (**) i.e.: where a warning sign needs to be "
-"displayed"
+msgid "Allow limited 'language mixing' (**) i.e.: where a warning sign needs to be displayed"
 msgstr ""
 
 #: templates/rights/languagepolicy.html:39
@@ -475,8 +457,7 @@ msgid "In practical terms this means the following"
 msgstr "U praktičnom smislu to znači sljedeće"
 
 #: templates/rights/languagepolicy.html:49
-msgid ""
-"Tools to manage translation will be developed and maintained by Europeana.eu"
+msgid "Tools to manage translation will be developed and maintained by Europeana.eu"
 msgstr ""
 
 #: templates/rights/languagepolicy.html:50
@@ -486,9 +467,7 @@ msgid ""
 msgstr ""
 
 #: templates/rights/languagepolicy.html:52
-msgid ""
-"These are unofficial translations and may not correspond exactly with the "
-"English version"
+msgid "These are unofficial translations and may not correspond exactly with the English version"
 msgstr ""
 
 #: templates/rights/languagepolicy.html:53
@@ -526,15 +505,12 @@ msgstr ""
 #: templates/rights/languagepolicy.html:65
 msgid ""
 "If, however, an individual institution wishes to translate and maintain\n"
-"any of the above from within their own resources, Europeana.eu would be "
-"happy\n"
+"any of the above from within their own resources, Europeana.eu would be happy\n"
 "to enable its display"
 msgstr ""
 
 #: templates/rights/languagepolicy.html:69 templates/rights/privacy.html:93
-msgid ""
-"The translations are made on a voluntary basis by our partners and are for "
-"information only. The legally valid text is in English only."
+msgid "The translations are made on a voluntary basis by our partners and are for information only. The legally valid text is in English only."
 msgstr ""
 
 #: templates/rights/linked-data-sources.html:4
@@ -551,24 +527,15 @@ msgid "Europeana Usage Guidelines for Metadata"
 msgstr "Upute za korištenje metapodataka na Europeani"
 
 #: templates/rights/metadata-usage-guidelines.html:18
-msgid ""
-"These usage guidelines are based on goodwill, they are not a legal contract "
-"but Europeana requests that you follow these guidelines if you use metadata "
-"from Europeana."
+msgid "These usage guidelines are based on goodwill, they are not a legal contract but Europeana requests that you follow these guidelines if you use metadata from Europeana."
 msgstr ""
 
 #: templates/rights/metadata-usage-guidelines.html:22
-msgid ""
-"All metadata published by Europeana are available free of restriction under "
-"the"
+msgid "All metadata published by Europeana are available free of restriction under the"
 msgstr ""
 
 #: templates/rights/metadata-usage-guidelines.html:22
-msgid ""
-"However, Europeana requests that you actively acknowledge and give "
-"attribution to all metadata sources, such as the data providers (being a "
-"specific cultural heritage institution) and any data aggregators, including "
-"Europeana."
+msgid "However, Europeana requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers (being a specific cultural heritage institution) and any data aggregators, including Europeana."
 msgstr ""
 
 #: templates/rights/metadata-usage-guidelines.html:26
@@ -576,78 +543,43 @@ msgid "Give credit where credit is due."
 msgstr ""
 
 #: templates/rights/metadata-usage-guidelines.html:30
-msgid ""
-"Give attribution to the data provider and all contributing data aggregators, "
-"including Europeana. Aggregators perform a crucial task in collecting, "
-"storing and harmonising data so that it is more widely accessible and "
-"interoperable."
+msgid "Give attribution to the data provider and all contributing data aggregators, including Europeana. Aggregators perform a crucial task in collecting, storing and harmonising data so that it is more widely accessible and interoperable."
 msgstr ""
 
 #: templates/rights/metadata-usage-guidelines.html:31
-msgid ""
-"Make sure that others are aware of the rights status of the Europeana "
-"metadata and are aware of these guidelines. One way you can do this is to "
-"keep links to the CC0 Public Domain Dedication intact."
+msgid "Make sure that others are aware of the rights status of the Europeana metadata and are aware of these guidelines. One way you can do this is to keep links to the CC0 Public Domain Dedication intact."
 msgstr ""
 
 #: templates/rights/metadata-usage-guidelines.html:32
-msgid ""
-"If, for technical or other reasons, you cannot include all the appropriate "
-"source links and rights information alongside the metadata that you have "
-"used,  you should consider including them separately, for example in a "
-"separate document that is distributed with the metadata or dataset."
+msgid "If, for technical or other reasons, you cannot include all the appropriate source links and rights information alongside the metadata that you have used,  you should consider including them separately, for example in a separate document that is distributed with the metadata or dataset."
 msgstr ""
 
 #: templates/rights/metadata-usage-guidelines.html:33
-msgid ""
-"If, for technical or other reasons, you cannot include all the appropriate "
-"source links and rights information alongside the metadata that you have "
-"used,  you may consider linking only to the specific metadata source on "
-"Europeana, where all available sources and rights information can be found, "
-"including machine-readable formats."
+msgid "If, for technical or other reasons, you cannot include all the appropriate source links and rights information alongside the metadata that you have used,  you may consider linking only to the specific metadata source on Europeana, where all available sources and rights information can be found, including machine-readable formats."
 msgstr ""
 
 #: templates/rights/metadata-usage-guidelines.html:36
-msgid ""
-"Metadata is dynamic; consider using the metadata via the Europeana APIs or "
-"by linking."
+msgid "Metadata is dynamic; consider using the metadata via the Europeana APIs or by linking."
 msgstr ""
 
 #: templates/rights/metadata-usage-guidelines.html:39
-msgid ""
-"When working with metadata obtained via Europeana,please be aware that it is "
-"not static but subject to change. Europeana continuously updates its "
-"metadata to correct mistakes and include new and additional information. "
-"Therefore, the best way touse metadata published by Europeana is via the "
-"Europeana API or by linking to the specific data. If, for technical or other "
-"reasons, you cannot do this,then provide a link back to the source of the "
-"data on Europeana or implement an update mechanism."
+msgid "When working with metadata obtained via Europeana,please be aware that it is not static but subject to change. Europeana continuously updates its metadata to correct mistakes and include new and additional information. Therefore, the best way touse metadata published by Europeana is via the Europeana API or by linking to the specific data. If, for technical or other reasons, you cannot do this,then provide a link back to the source of the data on Europeana or implement an update mechanism."
 msgstr ""
 
 #: templates/rights/metadata-usage-guidelines.html:43
-msgid ""
-"Mention your modifications of the metadata and make your modified metadata "
-"available under the same terms."
+msgid "Mention your modifications of the metadata and make your modified metadata available under the same terms."
 msgstr ""
 
 #: templates/rights/metadata-usage-guidelines.html:47
-msgid ""
-"Please do not use the metadata in a way that suggests you have any official "
-"status or that the data provider, aggregator or Europeana endorses you or "
-"your use of the metadata, unless you have prior permission to do so."
+msgid "Please do not use the metadata in a way that suggests you have any official status or that the data provider, aggregator or Europeana endorses you or your use of the metadata, unless you have prior permission to do so."
 msgstr ""
 
 #: templates/rights/metadata-usage-guidelines.html:48
-msgid ""
-"Please do not mislead others or misrepresent the metadata or its sources."
+msgid "Please do not mislead others or misrepresent the metadata or its sources."
 msgstr ""
 
 #: templates/rights/metadata-usage-guidelines.html:49
-msgid ""
-"Please make the metadata and any improvements thereto freely available under "
-"the same terms as Europeana, i.e., without claiming any legal right to, or "
-"imposing any legally binding conditions on access to the metadata or your "
-"improvements."
+msgid "Please make the metadata and any improvements thereto freely available under the same terms as Europeana, i.e., without claiming any legal right to, or imposing any legally binding conditions on access to the metadata or your improvements."
 msgstr ""
 
 #: templates/rights/metadata-usage-guidelines.html:53
@@ -655,22 +587,15 @@ msgid "Please note that you use the metadata at your own risk."
 msgstr ""
 
 #: templates/rights/metadata-usage-guidelines.html:57
-msgid ""
-"Europeana offers the metadata as-is and makes no representations or "
-"warranties of any kind concerning any metadata published by Europeana."
+msgid "Europeana offers the metadata as-is and makes no representations or warranties of any kind concerning any metadata published by Europeana."
 msgstr ""
 
 #: templates/rights/metadata-usage-guidelines.html:58
-msgid ""
-"Any use of the metadata must conform to all applicable laws and other "
-"regulations in your jurisdiction, notably concerning (but not limited to) "
-"data protection, defamation or copyright."
+msgid "Any use of the metadata must conform to all applicable laws and other regulations in your jurisdiction, notably concerning (but not limited to) data protection, defamation or copyright."
 msgstr ""
 
 #: templates/rights/metadata-usage-guidelines.html:59
-msgid ""
-"Be aware of any additional applicable community norms of data providers and "
-"data aggregators."
+msgid "Be aware of any additional applicable community norms of data providers and data aggregators."
 msgstr ""
 
 #: templates/rights/metadata-usage-guidelines.html:63
@@ -690,23 +615,11 @@ msgid "What Information do we collect?"
 msgstr "Koje podatke sakupljamo?"
 
 #: templates/rights/privacy.html:20
-msgid ""
-"In line with common practice, when you visit Europeana website and when you "
-"register with us, we record and store some information about you. In some "
-"cases we process this information in order to better understand our users "
-"and their needs. This is done to improve the content and the usability of "
-"our portal and the services we offer. However,  Europeana.eu recognizes the "
-"importance of privacy to users of the Europeana.eu portal; consequently we "
-"handle such personal information with care."
+msgid "In line with common practice, when you visit Europeana website and when you register with us, we record and store some information about you. In some cases we process this information in order to better understand our users and their needs. This is done to improve the content and the usability of our portal and the services we offer. However,  Europeana.eu recognizes the importance of privacy to users of the Europeana.eu portal; consequently we handle such personal information with care."
 msgstr ""
 
 #: templates/rights/privacy.html:24
-msgid ""
-"Please read our Privacy Policy Statement to find out what information we log "
-"and how we use it. We collect the following: Log Files, cookies and "
-"information that we explicitly ask you to provide about yourself upon "
-"registration or upon using any electronic forms of communication with "
-"Europeana.eu staff."
+msgid "Please read our Privacy Policy Statement to find out what information we log and how we use it. We collect the following: Log Files, cookies and information that we explicitly ask you to provide about yourself upon registration or upon using any electronic forms of communication with Europeana.eu staff."
 msgstr ""
 
 #: templates/rights/privacy.html:27
@@ -714,35 +627,15 @@ msgid "Log Files and Cookies"
 msgstr ""
 
 #: templates/rights/privacy.html:29
-msgid ""
-"When you visit  Europeana.eu, your requests and actions are automatically "
-"logged on our server. Log files contain information such as your IP address, "
-"the date and time you accessed the website, the pages you requested for "
-"viewing, etc. Log files do not contain any personal identifiable information "
-"about you."
+msgid "When you visit  Europeana.eu, your requests and actions are automatically logged on our server. Log files contain information such as your IP address, the date and time you accessed the website, the pages you requested for viewing, etc. Log files do not contain any personal identifiable information about you."
 msgstr ""
 
 #: templates/rights/privacy.html:32
-msgid ""
-"Cookies are small amounts of information sent from a web server to your "
-"browser and stored on your computers hard-drive. They contain information "
-"about the internet sites that you have visited. Europeana.eu uses cookies to "
-"recognise you and your access privileges. Most web browsers automatically "
-"accept cookies but you can usually change your browser settings to prevent "
-"this (although you might not have access to the full functionality of the "
-"website, such as the language settings you might have chosen)."
+msgid "Cookies are small amounts of information sent from a web server to your browser and stored on your computers hard-drive. They contain information about the internet sites that you have visited. Europeana.eu uses cookies to recognise you and your access privileges. Most web browsers automatically accept cookies but you can usually change your browser settings to prevent this (although you might not have access to the full functionality of the website, such as the language settings you might have chosen)."
 msgstr ""
 
 #: templates/rights/privacy.html:35
-msgid ""
-"Europeana.eu collects or logs cookies and information about its users and "
-"processes this information to produce usage statistics. By processing such "
-"information we are trying to identify user profiles and usage habits to "
-"improve the content and services we offer according to users needs. Log "
-"files analysis are also used to inform Europeana.eu partner libraries about "
-"digitisation priorities based on user preferences. These aggregated data do "
-"not contain information from which individuals can be identified. They are "
-"used strictly for the following purposes"
+msgid "Europeana.eu collects or logs cookies and information about its users and processes this information to produce usage statistics. By processing such information we are trying to identify user profiles and usage habits to improve the content and services we offer according to users needs. Log files analysis are also used to inform Europeana.eu partner libraries about digitisation priorities based on user preferences. These aggregated data do not contain information from which individuals can be identified. They are used strictly for the following purposes"
 msgstr ""
 
 #: templates/rights/privacy.html:38
@@ -770,25 +663,11 @@ msgid "Registered users data and data from other online forms"
 msgstr ""
 
 #: templates/rights/privacy.html:48
-msgid ""
-"When we ask you to register, we ask you to voluntarily supply some personal "
-"information about yourself. Identification of users allows us to provide "
-"personalised services on the portal. Currently the following options are "
-"offered: to save favorites or session query history for referencing at a "
-"later date. We intend to expand these services to offer more personalized "
-"possibilities to the users, such as: to save selected collections for use at "
-"a later date or to receive e-mail alerts about new collections added which "
-"might interest them."
+msgid "When we ask you to register, we ask you to voluntarily supply some personal information about yourself. Identification of users allows us to provide personalised services on the portal. Currently the following options are offered: to save favorites or session query history for referencing at a later date. We intend to expand these services to offer more personalized possibilities to the users, such as: to save selected collections for use at a later date or to receive e-mail alerts about new collections added which might interest them."
 msgstr ""
 
 #: templates/rights/privacy.html:51
-msgid ""
-"Through the use of any electronic form on our website (feedback form, "
-"newsletter subscription, report a link) you agree to supply some minimum "
-"personal information (namely name and e-mail address). We may use this "
-"information to reply to you about the issue involved. Your personal "
-"information will not be used for direct mailing or for other reasons than to "
-"answer your request."
+msgid "Through the use of any electronic form on our website (feedback form, newsletter subscription, report a link) you agree to supply some minimum personal information (namely name and e-mail address). We may use this information to reply to you about the issue involved. Your personal information will not be used for direct mailing or for other reasons than to answer your request."
 msgstr ""
 
 #: templates/rights/privacy.html:54
@@ -796,34 +675,19 @@ msgid "Data Protection"
 msgstr "Zaštita podataka"
 
 #: templates/rights/privacy.html:56
-msgid ""
-"Europeana.eu respects your privacy and seeks to protect your personal data. "
-"We do not sell, trade or rent the information we get from you on this site "
-"to others. Sometimes, we collaborate with public organisations such as "
-"universities that conduct research on our behalf on usage patterns and "
-"behaviour to help us improve the content and the services we offer. In these "
-"cases we do not disclose to them personal information (e.g. names or "
-"addresses)."
+msgid "Europeana.eu respects your privacy and seeks to protect your personal data. We do not sell, trade or rent the information we get from you on this site to others. Sometimes, we collaborate with public organisations such as universities that conduct research on our behalf on usage patterns and behaviour to help us improve the content and the services we offer. In these cases we do not disclose to them personal information (e.g. names or addresses)."
 msgstr ""
 
 #: templates/rights/privacy.html:59
-msgid ""
-"Europeana.eu takes all necessary measures to protect the data from un-"
-"authorised access and use in a way other than that stated in the Privacy "
-"Policy. Europeana.eu is hosted by SARA in The Netherlands and therefore uses "
-"the systems and security in place for this public institution."
+msgid "Europeana.eu takes all necessary measures to protect the data from un-authorised access and use in a way other than that stated in the Privacy Policy. Europeana.eu is hosted by SARA in The Netherlands and therefore uses the systems and security in place for this public institution."
 msgstr ""
 
 #: templates/rights/privacy.html:62
-msgid ""
-"The data are stored for as long as they are useful for administrative "
-"reasons. Non-personal data may be stored indefinitely as research material."
+msgid "The data are stored for as long as they are useful for administrative reasons. Non-personal data may be stored indefinitely as research material."
 msgstr ""
 
 #: templates/rights/privacy.html:65
-msgid ""
-"Please note: Under law, we may be required to disclose the information that "
-"we log to the appropriate legal authorities."
+msgid "Please note: Under law, we may be required to disclose the information that we log to the appropriate legal authorities."
 msgstr ""
 
 #: templates/rights/privacy.html:68
@@ -831,22 +695,15 @@ msgid "About this Privacy Policy Statement"
 msgstr ""
 
 #: templates/rights/privacy.html:70
-msgid ""
-"This Site may contain links to other web sites that are beyond our control. "
-"This privacy policy applies solely to the information you provide while "
-"visiting this Site. Other web sites to which you link may contain privacy "
-"policies that are different from this privacy policy."
+msgid "This Site may contain links to other web sites that are beyond our control. This privacy policy applies solely to the information you provide while visiting this Site. Other web sites to which you link may contain privacy policies that are different from this privacy policy."
 msgstr ""
 
 #: templates/rights/privacy.html:73
-msgid ""
-"The current privacy policy statement is in accordance with the Dutch "
-"Personal Data Protection Act (Wet Bescherming Persoonsgegevens)."
+msgid "The current privacy policy statement is in accordance with the Dutch Personal Data Protection Act (Wet Bescherming Persoonsgegevens)."
 msgstr ""
 
 #: templates/rights/privacy.html:76
-msgid ""
-"Any changes to Europeana.eu privacy policy will be published on this page."
+msgid "Any changes to Europeana.eu privacy policy will be published on this page."
 msgstr ""
 
 #: templates/rights/privacy.html:79
@@ -855,13 +712,8 @@ msgstr "Pitanja, žalbe i rješavanje sporova"
 
 #: templates/rights/privacy.html:81
 msgid ""
-"By using our website you consent to the terms of the Privacy Statement "
-"hereby described. However, you have the right to prevent the use of your "
-"personal data for personalised services and marketing as well as to request "
-"not to be further contacted by us.\n"
-"If you wish to be informed about the personal data collected about you, or "
-"to have this data corrected or removed, or have any other question with "
-"regards to this statement, please contact"
+"By using our website you consent to the terms of the Privacy Statement hereby described. However, you have the right to prevent the use of your personal data for personalised services and marketing as well as to request not to be further contacted by us.\n"
+"If you wish to be informed about the personal data collected about you, or to have this data corrected or removed, or have any other question with regards to this statement, please contact"
 msgstr ""
 
 #: templates/rights/privacy.html:85
@@ -882,14 +734,10 @@ msgstr "Zadnja izmjena"
 
 #: templates/rights/privacy.html:89
 msgid "Feedback Form [title may differ in different languages]"
-msgstr ""
-"Obrazac za povratne informacije [naslov može se razlikovati u različitim "
-"jezicima]"
+msgstr "Obrazac za povratne informacije [naslov može se razlikovati u različitim jezicima]"
 
 #: templates/rights/privacy.html:90
-msgid ""
-"If you encounter any problem using this site or wish to make general "
-"comments/suggestions, please use this"
+msgid "If you encounter any problem using this site or wish to make general comments/suggestions, please use this"
 msgstr ""
 
 #: templates/rights/privacy.html:90
@@ -897,10 +745,7 @@ msgid "contact form"
 msgstr ""
 
 #: templates/rights/privacy.html:92
-msgid ""
-"All of our online forms that require you to enter personal information are "
-"designed to meet privacy requirements. This privacy policy provides further "
-"details."
+msgid "All of our online forms that require you to enter personal information are designed to meet privacy requirements. This privacy policy provides further details."
 msgstr ""
 
 #: templates/rights/terms-and-policies.html:4
@@ -912,10 +757,7 @@ msgid "Europeana Terms and Policies"
 msgstr "Europeana Uvjeti i pravila"
 
 #: templates/rights/terms-and-policies.html:18
-msgid ""
-"In this section of the Europeana website you will find an overview of our "
-"Terms and Policies. These are divided into three subsections: 'Using Our "
-"data', 'Contributing data' and 'Our Policies':"
+msgid "In this section of the Europeana website you will find an overview of our Terms and Policies. These are divided into three subsections: 'Using Our data', 'Contributing data' and 'Our Policies':"
 msgstr ""
 
 #: templates/rights/terms-and-policies.html:22
@@ -923,15 +765,11 @@ msgid "Using Our data"
 msgstr ""
 
 #: templates/rights/terms-and-policies.html:22
-msgid ""
-"provides you with the Terms of Use and Guidelines for using the data "
-"published on Europeana.eu."
+msgid "provides you with the Terms of Use and Guidelines for using the data published on Europeana.eu."
 msgstr ""
 
 #: templates/rights/terms-and-policies.html:24
-msgid ""
-"governs what you can or cannot do with the metadata and previews that are "
-"published on Europeana.eu, with seperate"
+msgid "governs what you can or cannot do with the metadata and previews that are published on Europeana.eu, with seperate"
 msgstr ""
 
 #: templates/rights/terms-and-policies.html:24
@@ -971,9 +809,7 @@ msgid "Contributing data"
 msgstr ""
 
 #: templates/rights/terms-and-policies.html:28
-msgid ""
-"provides terms that ensure that Europeana can combine objects and data "
-"provided by individual users with the rest of the Europeana metadata"
+msgid "provides terms that ensure that Europeana can combine objects and data provided by individual users with the rest of the Europeana metadata"
 msgstr ""
 
 #: templates/rights/terms-and-policies.html:31
@@ -981,9 +817,7 @@ msgid "The Europeana Data Exchange Agreement"
 msgstr "Sporazum o razmjeni podataka Europeana"
 
 #: templates/rights/terms-and-policies.html:31
-msgid ""
-"governs the relationship between Europeana and the institutional data "
-"providers. The"
+msgid "governs the relationship between Europeana and the institutional data providers. The"
 msgstr ""
 
 #: templates/rights/terms-and-policies.html:31
@@ -1003,21 +837,15 @@ msgid "The"
 msgstr ""
 
 #: templates/rights/terms-and-policies.html:37
-msgid ""
-"policy details how we treat personal information that we have collected from "
-"our users.  The"
+msgid "policy details how we treat personal information that we have collected from our users.  The"
 msgstr ""
 
 #: templates/rights/terms-and-policies.html:37
-msgid ""
-"policy describes Europeana's policy for providing information in a users own "
-"language and"
+msgid "policy describes Europeana's policy for providing information in a users own language and"
 msgstr ""
 
 #: templates/rights/terms-and-policies.html:37
-msgid ""
-"describes Europeana's aim to provide functionality and content that is "
-"universally accessible. In this section you will also find the"
+msgid "describes Europeana's aim to provide functionality and content that is universally accessible. In this section you will also find the"
 msgstr ""
 
 #: templates/rights/terms-and-policies.html:37
@@ -1025,9 +853,7 @@ msgid "Europeana Public Domain Charter"
 msgstr ""
 
 #: templates/rights/terms-and-policies.html:37
-msgid ""
-"that explains Europeana's contribution to strengthening the digital Public "
-"Domain"
+msgid "that explains Europeana's contribution to strengthening the digital Public Domain"
 msgstr ""
 
 #: templates/rights/terms-for-user-contributions.html:4
@@ -1043,17 +869,7 @@ msgid "Europeana Terms of Use"
 msgstr "Europeana Uvjeti korištenja"
 
 #: templates/rights/terms-of-use.html:18
-msgid ""
-"The Europeana.eu website is run by the Europeana Foundation and gives access "
-"to a wide range of digitised cultural heritage from across Europe and "
-"beyond. This material is provided to Europeana by a large number of "
-"contributing institutions and organisations. Europeana strives to make all "
-"resources on this website available for re-use. As part of this, all "
-"metadata (textual information on digitised cultural heritage) on the site "
-"are published without any restrictions on re-use. Most other material, such "
-"as the previews to digitised cultural heritage, is clearly labelled with "
-"rights statements that indicate if and under which conditions it can be re-"
-"used."
+msgid "The Europeana.eu website is run by the Europeana Foundation and gives access to a wide range of digitised cultural heritage from across Europe and beyond. This material is provided to Europeana by a large number of contributing institutions and organisations. Europeana strives to make all resources on this website available for re-use. As part of this, all metadata (textual information on digitised cultural heritage) on the site are published without any restrictions on re-use. Most other material, such as the previews to digitised cultural heritage, is clearly labelled with rights statements that indicate if and under which conditions it can be re-used."
 msgstr ""
 
 #: templates/rights/terms-of-use.html:21
@@ -1061,15 +877,11 @@ msgid "Metadata"
 msgstr "Metapodaci"
 
 #: templates/rights/terms-of-use.html:26
-msgid ""
-"All metadata available on europeana.eu are published free of restrictions, "
-"under the terms of the"
+msgid "All metadata available on europeana.eu are published free of restrictions, under the terms of the"
 msgstr ""
 
 #: templates/rights/terms-of-use.html:26
-msgid ""
-"However if you re-use data published by Europeana, we encourage you to "
-"follow the"
+msgid "However if you re-use data published by Europeana, we encourage you to follow the"
 msgstr ""
 
 #: templates/rights/terms-of-use.html:26
@@ -1081,13 +893,7 @@ msgid "Previews"
 msgstr "Pregledi"
 
 #: templates/rights/terms-of-use.html:34
-msgid ""
-"The previews that are shown on Europeana.eu can only be used in accordance "
-"with the rights information displayed alongside them (the badges underneath "
-"the previews). If there is no rights information displayed alongside a "
-"preview, these previews may only be used in accordance with the applicable "
-"copyright laws. However, in the latter event, please refer to the website of "
-"the data provider to find out whether other types of use are also allowed."
+msgid "The previews that are shown on Europeana.eu can only be used in accordance with the rights information displayed alongside them (the badges underneath the previews). If there is no rights information displayed alongside a preview, these previews may only be used in accordance with the applicable copyright laws. However, in the latter event, please refer to the website of the data provider to find out whether other types of use are also allowed."
 msgstr ""
 
 #: templates/rights/terms-of-use.html:37
@@ -1095,16 +901,7 @@ msgid "Notice and Takedown"
 msgstr ""
 
 #: templates/rights/terms-of-use.html:40
-msgid ""
-"Europeana is not the owner of the copyrights to the metadata, the previews "
-"or the digitised cultural heritage to which these metadata or previews "
-"refer. This information has been provided to Europeana by a large number of "
-"contributing institutions and organisations. These data providers have "
-"ensured Europeana that the owners of these rights have agreed to the "
-"publication of their works under the applicable conditions as referred to "
-"above. However, the Europeana Foundation cannot guarantee that this is "
-"always correct. If you think that anything published on Europeana.eu "
-"infringes your rights, you may report this to Europeana by emailing"
+msgid "Europeana is not the owner of the copyrights to the metadata, the previews or the digitised cultural heritage to which these metadata or previews refer. This information has been provided to Europeana by a large number of contributing institutions and organisations. These data providers have ensured Europeana that the owners of these rights have agreed to the publication of their works under the applicable conditions as referred to above. However, the Europeana Foundation cannot guarantee that this is always correct. If you think that anything published on Europeana.eu infringes your rights, you may report this to Europeana by emailing"
 msgstr ""
 
 #: templates/rights/terms-of-use.html:43
@@ -1112,17 +909,11 @@ msgid "Liability Disclaimer"
 msgstr ""
 
 #: templates/rights/terms-of-use.html:45
-msgid ""
-"Europeana does not guarantee the accuracy or completeness of the website and "
-"its content."
+msgid "Europeana does not guarantee the accuracy or completeness of the website and its content."
 msgstr ""
 
 #: templates/rights/terms-of-use.html:48
-msgid ""
-"Except to the extent required by applicable law, in no event will Europeana "
-"be liable on any legal theory for any special, incidental, consequential, "
-"punitive or exemplary damages arising out of the use of the website or its "
-"content. In particular, it will not be liable for the following:"
+msgid "Except to the extent required by applicable law, in no event will Europeana be liable on any legal theory for any special, incidental, consequential, punitive or exemplary damages arising out of the use of the website or its content. In particular, it will not be liable for the following:"
 msgstr ""
 
 #: templates/rights/terms-of-use.html:52
@@ -1130,17 +921,11 @@ msgid "Accuracy, completeness, etc. of the website or its content;"
 msgstr ""
 
 #: templates/rights/terms-of-use.html:53
-msgid ""
-"Any infringement of privacy, publicity or other rights, including "
-"infringement of copyrights to metadata, previews or other content made "
-"available on Europeana.eu under conditions that were not approved by the "
-"right holder;"
+msgid "Any infringement of privacy, publicity or other rights, including infringement of copyrights to metadata, previews or other content made available on Europeana.eu under conditions that were not approved by the right holder;"
 msgstr ""
 
 #: templates/rights/terms-of-use.html:54
-msgid ""
-"Any use by third parties that goes beyond the rights expressed in these "
-"terms of use."
+msgid "Any use by third parties that goes beyond the rights expressed in these terms of use."
 msgstr ""
 
 #: templates/rights/terms-of-use.html:57
@@ -1148,16 +933,11 @@ msgid "These terms of use"
 msgstr "Ovi uvjeti korištenja"
 
 #: templates/rights/terms-of-use.html:59
-msgid ""
-"These terms of use do not pertain to the metadata, previews and other "
-"content of virtual exhibitions offered by Europeana on"
+msgid "These terms of use do not pertain to the metadata, previews and other content of virtual exhibitions offered by Europeana on"
 msgstr ""
 
 #: templates/rights/terms-of-use.html:62
-msgid ""
-"By exercising any rights to the website or its content on grounds of these "
-"terms of use, you accept and agree to be bound to these terms of use. "
-"Europeana reserves the right to amend these terms of use."
+msgid "By exercising any rights to the website or its content on grounds of these terms of use, you accept and agree to be bound to these terms of use. Europeana reserves the right to amend these terms of use."
 msgstr ""
 
 #: templates/rights/terms-of-use.html:65
@@ -1173,39 +953,24 @@ msgid "think culture"
 msgstr "razmislite o kulturi"
 
 #: templates/static_pages/aboutus.html:17
-msgid ""
-"Take a virtual trip through the kind of things you can find on Europeana"
+msgid "Take a virtual trip through the kind of things you can find on Europeana"
 msgstr "Započnite virtualno putovanje kroz građu koju možete naći na Europeani"
 
 #: templates/static_pages/aboutus.html:19
-msgid ""
-"Explore millions of items from a range of Europe's leading galleries, "
-"libraries, archives and museums. Books and manuscripts, photos and "
-"paintings, television and film, sculpture and crafts, diaries and maps, "
-"sheet music and recordings, they’re all here. No need to travel the "
-"continent, either physically or virtually!"
+msgid "Explore millions of items from a range of Europe's leading galleries, libraries, archives and museums. Books and manuscripts, photos and paintings, television and film, sculpture and crafts, diaries and maps, sheet music and recordings, they’re all here. No need to travel the continent, either physically or virtually!"
 msgstr ""
 
 #: templates/static_pages/aboutus.html:21
-msgid ""
-"Found something you like? Download it, print it, use it, save it, share it, "
-"play with it, love it!"
+msgid "Found something you like? Download it, print it, use it, save it, share it, play with it, love it!"
 msgstr ""
 
 #: templates/static_pages/aboutus.html:23
-msgid ""
-"Europeana is the trusted source of cultural heritage brought to you by the "
-"Europeana Foundation and a large number of European cultural institutions, "
-"projects and partners. It’s a real piece of team work."
+msgid "Europeana is the trusted source of cultural heritage brought to you by the Europeana Foundation and a large number of European cultural institutions, projects and partners. It’s a real piece of team work."
 msgstr ""
 
 #: templates/static_pages/aboutus.html:25
-msgid ""
-"Ideas and inspiration can be found within the millions of items on "
-"Europeana. These objects include"
-msgstr ""
-"U više od milijun jedinica na Europeani mogu se pronaći ideje i inspiracija. "
-"Te su jedinice"
+msgid "Ideas and inspiration can be found within the millions of items on Europeana. These objects include"
+msgstr "U više od milijun jedinica na Europeani mogu se pronaći ideje i inspiracija. Te su jedinice"
 
 #: templates/static_pages/aboutus.html:28
 #: templates/static_pages/prop_file.html:91
@@ -1234,8 +999,7 @@ msgstr "Zvukovi"
 
 #: templates/static_pages/aboutus.html:30
 msgid "music and spoken word from cylinders, tapes, discs and radio broadcasts"
-msgstr ""
-"glazba i izgovorena riječ iz cilindara, traka, diskova i radijskih emisije"
+msgstr "glazba i izgovorena riječ iz cilindara, traka, diskova i radijskih emisije"
 
 #: templates/static_pages/aboutus.html:31
 #: templates/static_pages/prop_file.html:92
@@ -1247,14 +1011,12 @@ msgid "films, newsreels and TV broadcasts"
 msgstr "filmovi, filmski žurnali i TV emisije"
 
 #: templates/static_pages/aboutus.html:36
-msgid ""
-"Some items and topics are world famous, like Isaac Newton's book about the"
+msgid "Some items and topics are world famous, like Isaac Newton's book about the"
 msgstr ""
 
 #: templates/static_pages/aboutus.html:36
-#, fuzzy
 msgid "Laws of Motion"
-msgstr "Zaštita podataka"
+msgstr ""
 
 #: templates/static_pages/aboutus.html:36
 msgid "the drawings of"
@@ -1293,9 +1055,8 @@ msgid "British Library"
 msgstr ""
 
 #: templates/static_pages/aboutus.html:38
-#, fuzzy
 msgid "in London, the"
-msgstr "na"
+msgstr ""
 
 #: templates/static_pages/aboutus.html:38
 msgid "Rijksmuseum"
@@ -1310,17 +1071,11 @@ msgid "Louvre"
 msgstr ""
 
 #: templates/static_pages/aboutus.html:38
-msgid ""
-"in Paris are featured alongside smaller organisations across Europe. "
-"Together, their assembled collections allow you to explore Europe's history "
-"from ancient times to the modern day."
+msgid "in Paris are featured alongside smaller organisations across Europe. Together, their assembled collections allow you to explore Europe's history from ancient times to the modern day."
 msgstr ""
 
 #: templates/static_pages/aboutus.html:40
-msgid ""
-"Whether you find a celebrated work or a lesser known object, Europeana "
-"always connects you to the original source of the material so you can be "
-"sure of its authenticity."
+msgid "Whether you find a celebrated work or a lesser known object, Europeana always connects you to the original source of the material so you can be sure of its authenticity."
 msgstr ""
 
 #: templates/static_pages/aboutus.html:43
@@ -1328,9 +1083,8 @@ msgid "See the storyline and image credits for the Europeana video (above)"
 msgstr ""
 
 #: templates/static_pages/aboutus_enews.html:4
-#, fuzzy
 msgid "Europeana newsletters"
-msgstr "Europeana - Pomoć"
+msgstr ""
 
 #: templates/static_pages/aboutus_enews.html:15
 #: templates/static_pages/aboutus_enews.html:27
@@ -1349,9 +1103,8 @@ msgid "January"
 msgstr ""
 
 #: templates/static_pages/aboutus_enews.html:16
-#, fuzzy
 msgid "Europeana Open Culture app now bigger and better!"
-msgstr "razmislite o kulturi"
+msgstr ""
 
 #: templates/static_pages/aboutus_enews.html:22
 #: templates/static_pages/aboutus_enews.html:32
@@ -1372,14 +1125,12 @@ msgid "November"
 msgstr "Studeni"
 
 #: templates/static_pages/aboutus_enews.html:23
-#, fuzzy
 msgid "Europe's culture - collected for you"
-msgstr "novim stavkama u Europeana kolekciji"
+msgstr ""
 
 #: templates/static_pages/aboutus_enews.html:24
-#, fuzzy
 msgid "Discover Europeana's hand-picked collections"
-msgstr "novim stavkama u Europeana kolekciji"
+msgstr ""
 
 #: templates/static_pages/aboutus_enews.html:25
 #: templates/static_pages/aboutus_enews.html:35
@@ -1389,8 +1140,7 @@ msgid "June"
 msgstr "Lipanj"
 
 #: templates/static_pages/aboutus_enews.html:25
-msgid ""
-"Download free iPad app, explore great new content &amp; join Europeana 1989"
+msgid "Download free iPad app, explore great new content &amp; join Europeana 1989"
 msgstr ""
 
 #: templates/static_pages/aboutus_enews.html:26
@@ -1430,23 +1180,15 @@ msgid "External links disclaimer"
 msgstr ""
 
 #: templates/static_pages/disclaimer.html:11
-msgid ""
-"On Europeana, you will often find links to external websites relevant to "
-"Europeana's mission: to help our users discover and share in the inspiring "
-"diversity of Europe's cultural and scientific heritage."
+msgid "On Europeana, you will often find links to external websites relevant to Europeana's mission: to help our users discover and share in the inspiring diversity of Europe's cultural and scientific heritage."
 msgstr ""
 
 #: templates/static_pages/disclaimer.html:15
-msgid ""
-"Europeana makes every effort to ensure that all of these external links are "
-"accurate and relevant but these websites are not under our control. We "
-"cannot take responsibility for any information found on external websites."
+msgid "Europeana makes every effort to ensure that all of these external links are accurate and relevant but these websites are not under our control. We cannot take responsibility for any information found on external websites."
 msgstr ""
 
 #: templates/static_pages/disclaimer.html:18
-msgid ""
-"In particular, the linking from Europeana to other websites is provided as a "
-"convenience. External links"
+msgid "In particular, the linking from Europeana to other websites is provided as a convenience. External links"
 msgstr ""
 
 #: templates/static_pages/disclaimer.html:18
@@ -1454,31 +1196,19 @@ msgid "do not"
 msgstr ""
 
 #: templates/static_pages/disclaimer.html:22
-msgid ""
-"Imply on the part of Europeana any endorsement or guarantee of any of the "
-"organisations or information found on the respective websites."
+msgid "Imply on the part of Europeana any endorsement or guarantee of any of the organisations or information found on the respective websites."
 msgstr ""
 
 #: templates/static_pages/disclaimer.html:23
-msgid ""
-"Represent any liability by Europeana for any damage to your computer "
-"hardware, software, data or business, which may result from the information "
-"or lack of information available."
+msgid "Represent any liability by Europeana for any damage to your computer hardware, software, data or business, which may result from the information or lack of information available."
 msgstr ""
 
 #: templates/static_pages/disclaimer.html:24
-msgid ""
-"Guarantee that external websites will provide an uninterrupted service. "
-"Prototypes in particular may be subject to periods of downtime as they "
-"undergo further development."
+msgid "Guarantee that external websites will provide an uninterrupted service. Prototypes in particular may be subject to periods of downtime as they undergo further development."
 msgstr ""
 
 #: templates/static_pages/disclaimer.html:27
-msgid ""
-"Please tell us if you find existing external links which are no longer "
-"working properly or which you believe are inappropriate. We would also be "
-"pleased to learn about any additional links, which you believe might be "
-"relevant for us to add."
+msgid "Please tell us if you find existing external links which are no longer working properly or which you believe are inappropriate. We would also be pleased to learn about any additional links, which you believe might be relevant for us to add."
 msgstr ""
 
 #: templates/static_pages/europeana-api.html:8
@@ -1486,9 +1216,7 @@ msgid "Europeana API - Coming Soon!"
 msgstr ""
 
 #: templates/static_pages/europeana-api.html:9
-msgid ""
-"We will be launching a new API very soon so please stay tuned. To find out "
-"more about our current API and our Linked Open Data visit their pages on"
+msgid "We will be launching a new API very soon so please stay tuned. To find out more about our current API and our Linked Open Data visit their pages on"
 msgstr ""
 
 #: templates/static_pages/explore.html:3
@@ -1497,18 +1225,11 @@ msgid "Europeana - Using Europeana"
 msgstr "Europeana - Korištenje "
 
 #: templates/static_pages/explore.html:11
-msgid ""
-"To make searching in Europeana easier, try alternative ways of navigating "
-"through our millions of objects. Learn more about different topics with "
-"curatorial help, see our most recent content, discover content from "
-"individual providers, and explore Europe's rich heritage on a timeline."
+msgid "To make searching in Europeana easier, try alternative ways of navigating through our millions of objects. Learn more about different topics with curatorial help, see our most recent content, discover content from individual providers, and explore Europe's rich heritage on a timeline."
 msgstr ""
 
 #: templates/static_pages/followus.html:11
-msgid ""
-"Discover some of the most interesting content on Europeana, keep up-to-date "
-"with our latest developments, find out about who we are and more with our "
-"newsletter, blog, Twitter and Facebook pages."
+msgid "Discover some of the most interesting content on Europeana, keep up-to-date with our latest developments, find out about who we are and more with our newsletter, blog, Twitter and Facebook pages."
 msgstr ""
 
 #: templates/static_pages/newcontent.html:3
@@ -1516,15 +1237,7 @@ msgid "Europeana - New Content"
 msgstr "Europeana - Novi sadržaj"
 
 #: templates/static_pages/prop_file.html:5
-msgid ""
-"I understand that My Europeana gives me the opportunity to create tags for "
-"any item I wish. I agree that I will not create any tags that could be "
-"considered libelous, harmful, threatening, unlawful, defamatory,infringing, "
-"abusive, inflammatory, harassing, pornographic, obscene, fraudulent, "
-"invasive of privacy orpublicity rights, hateful, or racially, ethnically or "
-"otherwise objectionable. By clicking this box I agreeto abide by this "
-"agreement, and understand that if I don't my membership of My Europeana will "
-"be terminated."
+msgid "I understand that My Europeana gives me the opportunity to create tags for any item I wish. I agree that I will not create any tags that could be considered libelous, harmful, threatening, unlawful, defamatory,infringing, abusive, inflammatory, harassing, pornographic, obscene, fraudulent, invasive of privacy orpublicity rights, hateful, or racially, ethnically or otherwise objectionable. By clicking this box I agreeto abide by this agreement, and understand that if I don't my membership of My Europeana will be terminated."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:6
@@ -1557,25 +1270,15 @@ msgid "Partner"
 msgstr "Partner"
 
 #: templates/static_pages/prop_file.html:13
-msgid ""
-"This is the network of partners who collaborated to make Europeana happen, "
-"and who represent Europeana in their countries and professional associations."
+msgid "This is the network of partners who collaborated to make Europeana happen, and who represent Europeana in their countries and professional associations."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:14
-msgid ""
-"These are the organisations that are contributing content - digitised "
-"paintings, books, broadcasts etc. Some of these contributors are  "
-"aggregators*, Culture.fr is the largest aggregator, providing content from "
-"about 480 organisations in France, including the Louvre and the MusÃ©e dâ"
-"€™Orsay. The number of organisations contributing to an aggregator is shown "
-"in brackets after the aggregatorâ€™s name, e.g. Videoactive (10)"
+msgid "These are the organisations that are contributing content - digitised paintings, books, broadcasts etc. Some of these contributors are  aggregators*, Culture.fr is the largest aggregator, providing content from about 480 organisations in France, including the Louvre and the MusÃ©e dâ€™Orsay. The number of organisations contributing to an aggregator is shown in brackets after the aggregatorâ€™s name, e.g. Videoactive (10)"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:15
-msgid ""
-"*An aggregator collects material from a range of other contributors, "
-"displays it on their own website and also channels it into Europeana."
+msgid "*An aggregator collects material from a range of other contributors, displays it on their own website and also channels it into Europeana."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:16
@@ -1591,24 +1294,20 @@ msgid "Logged in as"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:19
-#, fuzzy
 msgid "Saved items"
-msgstr "Podijeli predmet"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:20
-#, fuzzy
 msgid "Saved searches"
-msgstr "Napredno pretraživanje"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:21
-#, fuzzy
 msgid "Saved tags"
-msgstr "Podijeli predmet"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:22
-#, fuzzy
 msgid "Saved notifications"
-msgstr "Zaštita podataka"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:23
 msgid "Login"
@@ -1632,10 +1331,7 @@ msgid "My Europeana"
 msgstr "Moja Europeana"
 
 #: templates/static_pages/prop_file.html:26
-msgid ""
-"Thank you very much for your feedback. If your feedback requires a response "
-"a member of the Europeana team will get back to you as soon as possible. For "
-"faster response feedback should be submitted in English."
+msgid "Thank you very much for your feedback. If your feedback requires a response a member of the Europeana team will get back to you as soon as possible. For faster response feedback should be submitted in English."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:27
@@ -1647,15 +1343,7 @@ msgid "User Conduct"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:29
-msgid ""
-"I understand that My Europeana gives me the opportunity to create tags for "
-"any item I wish. I agree that I will not create any tags that could be "
-"considered libelous, harmful, threatening, unlawful, defamatory, infringing, "
-"abusive, inflammatory, harassing, pornographic, obscene, fraudulent, "
-"invasive of privacy or publicity rights, hateful, or racially, ethnically or "
-"otherwise objectionable. By clicking this box I agree to abide by this "
-"agreement, and understand that if I don't my membership of My Europeana will "
-"be terminated. CLICK TO AGREE"
+msgid "I understand that My Europeana gives me the opportunity to create tags for any item I wish. I agree that I will not create any tags that could be considered libelous, harmful, threatening, unlawful, defamatory, infringing, abusive, inflammatory, harassing, pornographic, obscene, fraudulent, invasive of privacy or publicity rights, hateful, or racially, ethnically or otherwise objectionable. By clicking this box I agree to abide by this agreement, and understand that if I don't my membership of My Europeana will be terminated. CLICK TO AGREE"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:30
@@ -1667,8 +1355,7 @@ msgid "Last name"
 msgstr "Prezime"
 
 #: templates/static_pages/prop_file.html:32
-msgid ""
-"To make optimal use of this website you need to have JavaScript activated"
+msgid "To make optimal use of this website you need to have JavaScript activated"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:33
@@ -1701,9 +1388,7 @@ msgid "This is Europeana"
 msgstr "Ovo je Europeana"
 
 #: templates/static_pages/prop_file.html:42
-msgid ""
-"a place for inspiration and ideas. Search through the cultural collections "
-"of Europe, connect to other user pathways and share your discoveries."
+msgid "a place for inspiration and ideas. Search through the cultural collections of Europe, connect to other user pathways and share your discoveries."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:43
@@ -1739,9 +1424,8 @@ msgid "Advanced search"
 msgstr "Napredno pretraživanje"
 
 #: templates/static_pages/prop_file.html:49
-#, fuzzy
 msgid "Hide advanced search"
-msgstr "Napredno pretraživanje"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:50
 msgid "and"
@@ -1761,9 +1445,8 @@ msgid "not"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:53
-#, fuzzy
 msgid "Any field"
-msgstr "Ustanove"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:54
 msgid "Share your ideas"
@@ -1790,12 +1473,8 @@ msgid "Browse through time"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:61
-#, fuzzy
-msgid ""
-"From our partner museums, archives, libraries and audio-visual collections"
+msgid "From our partner museums, archives, libraries and audio-visual collections"
 msgstr ""
-"Pogledajte najnovije priloge iz naših partnerskih muzeja, knjižnica, arhiva "
-"i audio-vizualnih arhiva klikom"
 
 #: templates/static_pages/prop_file.html:62
 #: templates/static_pages/prop_file.html:925
@@ -1830,47 +1509,40 @@ msgstr "Jezična politika"
 #: templates/static_pages/prop_file.html:70
 #: templates/static_pages/prop_file.html:832
 #: templates/static_pages/prop_file.html:833
-#, fuzzy
 msgid "Contact us"
-msgstr "Kontakti"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:71
-#, fuzzy
 msgid "co-funded by the European Union"
-msgstr "(portal Europske unije)"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:72
-#, fuzzy
 msgid "Europeana think culture"
-msgstr "razmislite o kulturi"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:73
-#, fuzzy
 msgid "Click here to return to the Europeana homepage"
-msgstr "Kliknite ovdje da posjetite našu izložbu, 'Europska baština sporta'"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:74
-#, fuzzy
 msgid "Refine your results"
-msgstr "Povratak na rezultate pretraživanja"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:75
 msgid "By language of description"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:76
-#, fuzzy
 msgid "By providing country"
-msgstr "Država"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:77
 msgid "By year"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:79
-#, fuzzy
 msgid "By user tag"
-msgstr "Korisničko ime"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:80
 msgid "By type"
@@ -1878,35 +1550,29 @@ msgstr "Vrsta"
 
 #: templates/static_pages/prop_file.html:81
 #: templates/static_pages/usingeuropeana_search.html:55
-#, fuzzy
 msgid "By media type"
-msgstr "Vrsta"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:82
-#, fuzzy
 msgid "Actions"
-msgstr "Opcije"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:83
 #: templates/static_pages/usingeuropeana_myeuropeana.html:14
-#, fuzzy
 msgid "Save this search"
-msgstr "Napredno pretraživanje"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:84
-#, fuzzy
 msgid "Search saved"
-msgstr "Pretraživanje"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:85
-#, fuzzy
 msgid "Saving search failed"
-msgstr "Podijeli predmet"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:86
-#, fuzzy
 msgid "You have searched for"
-msgstr "Sljedeći rezultati pretraživanja"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:87
 #: templates/static_pages/usingeuropeana_search.html:51
@@ -1916,9 +1582,8 @@ msgid "Matches for"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:88
-#, fuzzy
 msgid "You are viewing related items"
-msgstr "Podijeli predmet"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:89
 msgid "All"
@@ -1943,14 +1608,12 @@ msgid "Sound"
 msgstr "Zvuk"
 
 #: templates/static_pages/prop_file.html:98
-#, fuzzy
 msgid "List view"
-msgstr "Pregled"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:99
-#, fuzzy
 msgid "#Table view"
-msgstr "Pogled na vremensku crtu"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:100
 msgid "Page"
@@ -1973,28 +1636,24 @@ msgid "Print this page"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:105
-#, fuzzy
 msgid "Click for more information"
-msgstr "ovaj obrazac"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:106
 msgid "No items found"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:107
-#, fuzzy
 msgid "Related content"
-msgstr "Novi sadržaj"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:108
-#, fuzzy
 msgid "See all related items"
-msgstr "Podijeli predmet"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:109
-#, fuzzy
 msgid "User tags"
-msgstr "Korisničko ime"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:110
 #: templates/static_pages/usingeuropeana_myeuropeana.html:15
@@ -2003,38 +1662,32 @@ msgstr ""
 
 #: templates/static_pages/prop_file.html:111
 #: templates/static_pages/usingeuropeana_search.html:49
-#, fuzzy
 msgid "Add"
-msgstr "E-mail adresa"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:112
-#, fuzzy
 msgid "Tag added"
-msgstr "Podijeli predmet"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:113
-#, fuzzy
 msgid "Tag addition failed"
-msgstr "Podijeli predmet"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:114
 msgid "Share with a friend"
 msgstr "Podijeli s prijateljem"
 
 #: templates/static_pages/prop_file.html:115
-#, fuzzy
 msgid "Email address"
-msgstr "E-mail adresa"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:116
-#, fuzzy
 msgid "Email sent"
-msgstr "Pošaljite e-mail"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:117
-#, fuzzy
 msgid "Email could not be sent"
-msgstr "Pošaljite e-mail"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:118
 msgid "Send"
@@ -2042,33 +1695,28 @@ msgstr ""
 
 #: templates/static_pages/prop_file.html:119
 #: templates/static_pages/usingeuropeana_myeuropeana.html:16
-#, fuzzy
 msgid "Save to My Europeana"
-msgstr "Dobrodošli na MojaEuropeana"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:120
-#, fuzzy
 msgid "Item saved"
-msgstr "Pretraživanje"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:121
-#, fuzzy
 msgid "Save item failed"
-msgstr "Podijeli predmet"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:122
 msgid "Error"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:123
-#, fuzzy
 msgid "Error details"
-msgstr "Prijevod detalja"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:124
-#, fuzzy
 msgid "Return to results"
-msgstr "Povratak na rezultate pretraživanja"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:125
 msgid "More"
@@ -2079,28 +1727,24 @@ msgid "Less"
 msgstr "Manje"
 
 #: templates/static_pages/prop_file.html:127
-#, fuzzy
 msgid "Items"
-msgstr "Pretraživanje"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:128
-#, fuzzy
 msgid "Item details"
-msgstr "Prijevod detalja"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:129
 msgid "View as XML"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:130
-#, fuzzy
 msgid "View with labels"
-msgstr "Pogledajte stavku na"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:131
-#, fuzzy
 msgid "View without labels"
-msgstr "Pogledajte stavku na"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:132
 msgid "Opens in a new window"
@@ -2112,9 +1756,8 @@ msgstr ""
 
 #: templates/static_pages/prop_file.html:134
 #: templates/static_pages/prop_file.html:822
-#, fuzzy
 msgid "Provider"
-msgstr "Ustanove"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:135
 #: templates/static_pages/prop_file.html:228
@@ -2132,9 +1775,8 @@ msgstr "Opis"
 #: templates/static_pages/prop_file.html:137
 #: templates/static_pages/storyline.html:50
 #: templates/static_pages/usingeuropeana_search.html:31
-#, fuzzy
 msgid "Creator"
-msgstr "Suradnici"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:138
 #: templates/static_pages/prop_file.html:232
@@ -2157,34 +1799,28 @@ msgid "Delete"
 msgstr "Izbriši"
 
 #: templates/static_pages/prop_file.html:142
-#, fuzzy
 msgid "No saved items"
-msgstr "Podijeli predmet"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:143
-#, fuzzy
 msgid "No saved searches"
-msgstr "Sljedeći rezultati pretraživanja"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:144
-#, fuzzy
 msgid "No saved tags"
-msgstr "Sljedeći rezultati pretraživanja"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:145
-#, fuzzy
 msgid "No saved notifications"
-msgstr "Zaštita podataka"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:146
-#, fuzzy
 msgid "Date saved"
-msgstr "Pretraživanje"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:147
-#, fuzzy
 msgid "Remove"
-msgstr "Uvjeti korištenja"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:148
 msgid "Welcome to MyEuropeana"
@@ -2195,9 +1831,8 @@ msgid "Please click on the following link to confirm your registration"
 msgstr "Molimo kliknite na sljedeći link za potvrdu svoje registracije"
 
 #: templates/static_pages/prop_file.html:150
-#, fuzzy
 msgid "The Europeana Team"
-msgstr "Europeana Remix"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:151
 msgid "Results"
@@ -2228,18 +1863,15 @@ msgid "Sign in"
 msgstr "Prijava"
 
 #: templates/static_pages/prop_file.html:158
-#, fuzzy
 msgid "Register"
-msgstr "Prijavite se za"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:159
-#, fuzzy
 msgid "Register again"
-msgstr "Prijavite se za"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:160
-msgid ""
-"An error occurred while trying to process your registration. Please try again"
+msgid "An error occurred while trying to process your registration. Please try again"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:161
@@ -2247,9 +1879,7 @@ msgid "An email has been sent to the following address"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:162
-msgid ""
-"Please follow the link provided in the email and finish the registration "
-"process"
+msgid "Please follow the link provided in the email and finish the registration process"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:163
@@ -2274,8 +1904,7 @@ msgid "Enter your email"
 msgstr "Unesite svoj e-mail"
 
 #: templates/static_pages/prop_file.html:168
-msgid ""
-"You will use your email together with your password to log into the site"
+msgid "You will use your email together with your password to log into the site"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:169
@@ -2288,18 +1917,16 @@ msgid "Username"
 msgstr "Korisničko ime"
 
 #: templates/static_pages/prop_file.html:171
-#, fuzzy
 msgid "is in use. Please choose another username"
-msgstr "Molimo unesite valjanu e-mail adresu"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:172
 msgid "Choose a username"
 msgstr "Odaberite korisničko ime"
 
 #: templates/static_pages/prop_file.html:174
-#, fuzzy
 msgid "User information"
-msgstr "ovaj obrazac"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:175
 msgid "Choose a password"
@@ -2322,9 +1949,8 @@ msgid "You have successfully registered"
 msgstr "Uspješno ste registrirani"
 
 #: templates/static_pages/prop_file.html:181
-#, fuzzy
 msgid "English (eng)"
-msgstr "Finski (fin)"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:182
 msgid "Croatian (hrv)"
@@ -2339,14 +1965,12 @@ msgid "Greek (ell/gre)"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:185
-#, fuzzy
 msgid "Estonian (est)"
-msgstr "Estonija"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:186
-#, fuzzy
 msgid "Danish (dan)"
-msgstr "Finski (fin)"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:187
 msgid "Dutch (dut)"
@@ -2385,14 +2009,12 @@ msgid "Lithuanian (lit)"
 msgstr "Litvanski (lit)"
 
 #: templates/static_pages/prop_file.html:196
-#, fuzzy
 msgid "Luxemburgish (ltz)"
-msgstr "Luksemburg"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:197
-#, fuzzy
 msgid "Maltese (mlt)"
-msgstr "Malta"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:198
 msgid "Norwegian (nor)"
@@ -2407,56 +2029,48 @@ msgid "Portuguese (por)"
 msgstr "Portugalski (por)"
 
 #: templates/static_pages/prop_file.html:201
-#, fuzzy
 msgid "Romanian (rom)"
-msgstr "Rumunija"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:202
 msgid "Russian (rus)"
 msgstr "Ruski (rus)"
 
 #: templates/static_pages/prop_file.html:203
-#, fuzzy
 msgid "Serbian (scc)"
-msgstr "Slovenski (slv)"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:204
-#, fuzzy
 msgid "Slovak (slo)"
-msgstr "Slovenski (slv)"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:205
 msgid "Slovenian (slv)"
 msgstr "Slovenski (slv)"
 
 #: templates/static_pages/prop_file.html:206
-#, fuzzy
 msgid "Spanish (esp)"
-msgstr "Finski (fin)"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:207
-#, fuzzy
 msgid "Icelandic (ice)"
-msgstr "Island"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:208
-#, fuzzy
 msgid "Swedish (sve/swe)"
-msgstr "Finski (fin)"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:209
 msgid "Turkish (tur)"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:210
-#, fuzzy
 msgid "Ukrainian (ukr)"
-msgstr "Hrvatski (hrv)"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:211
-#, fuzzy
 msgid "Yiddish (yid)"
-msgstr "Finski (fin)"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:212
 msgid "Other"
@@ -2467,20 +2081,17 @@ msgid "Alternative Title"
 msgstr "Alternativni Naslov"
 
 #: templates/static_pages/prop_file.html:214
-#, fuzzy
 msgid "Provenance"
-msgstr "Francuska"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:215
-#, fuzzy
 msgid "Is Part of"
-msgstr "ovaj obrazac"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:216
 #: templates/static_pages/prop_file.html:965
-#, fuzzy
 msgid "Has part"
-msgstr "ovaj obrazac"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:217
 msgid "Replaces"
@@ -2503,19 +2114,16 @@ msgid "Conforms to"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:222
-#, fuzzy
 msgid "Requires"
-msgstr "Zahtjev"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:223
-#, fuzzy
 msgid "Has format"
-msgstr "ovaj obrazac"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:224
-#, fuzzy
 msgid "Is format of"
-msgstr "ovaj obrazac"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:225
 msgid "Geographic coverage"
@@ -2559,9 +2167,8 @@ msgstr "Povezanost"
 
 #: templates/static_pages/prop_file.html:241
 #: templates/static_pages/sitemap.html:113
-#, fuzzy
 msgid "Rights"
-msgstr "Ostala prava"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:242
 msgid "Type"
@@ -2748,27 +2355,20 @@ msgid "Greece"
 msgstr "Grčka"
 
 #: templates/static_pages/prop_file.html:289
-#, fuzzy
 msgid "Subject cloud"
-msgstr "Predmet"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:290
-#, fuzzy
 msgid "Did you mean"
-msgstr "i možete:"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:291
-msgid ""
-"Paintings, music, films and books from Europe's galleries, libraries, "
-"archives and museums."
-msgstr ""
-"Slike, glazba, filmovi i knjige iz europskih galerija, knjižnica, arhiva i "
-"muzeja."
+msgid "Paintings, music, films and books from Europe's galleries, libraries, archives and museums."
+msgstr "Slike, glazba, filmovi i knjige iz europskih galerija, knjižnica, arhiva i muzeja."
 
 #: templates/static_pages/prop_file.html:292
-#, fuzzy
 msgid "Data provider"
-msgstr "Ustanove"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:293
 msgid "Europeana rights"
@@ -2799,16 +2399,11 @@ msgid "Embed this object into your own blog or website"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:300
-msgid ""
-"Paste the HTML source code below to your page. This page itself is an "
-"example of a page that embeds a Europeana object."
+msgid "Paste the HTML source code below to your page. This page itself is an example of a page that embeds a Europeana object."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:301
-msgid ""
-"Now this Europeana object becomes a part of your page. Our content providers "
-"tend to improve their objects from time to time. Create an alert on this "
-"object to be notified if this specific object would change."
+msgid "Now this Europeana object becomes a part of your page. Our content providers tend to improve their objects from time to time. Create an alert on this object to be notified if this specific object would change."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:302
@@ -2816,20 +2411,15 @@ msgid "Preview it customized"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:303
-#, fuzzy
 msgid "Create notification for this item"
-msgstr "Zaštita podataka"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:304
-msgid ""
-"Log in to My Europeana and set an alert to be notified of updates, such as "
-"the publication of more metadata for this object."
+msgid "Log in to My Europeana and set an alert to be notified of updates, such as the publication of more metadata for this object."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:305
-msgid ""
-"By using the embed function you accept and agree to the Europeana Terms of "
-"Use"
+msgid "By using the embed function you accept and agree to the Europeana Terms of Use"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:306
@@ -2849,20 +2439,17 @@ msgid "landscape"
 msgstr "pejzaž"
 
 #: templates/static_pages/prop_file.html:310
-#, fuzzy
 msgid "Refine Search"
-msgstr "Općenito pretraživanje"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:311
-#, fuzzy
 msgid "By Rights"
-msgstr "Ostala prava"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:312
 #: templates/static_pages/usingeuropeana_search.html:59
-#, fuzzy
 msgid "By copyright"
-msgstr "Ostala prava"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:313
 msgid "Free Access"
@@ -2889,25 +2476,19 @@ msgid "Not all objects show rights information"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:319
-#, fuzzy
 msgid "Translate with:"
-msgstr "Prijevod detalja"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:320
 msgid "Search line value with:"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:321
-msgid ""
-"Access External Search Services or Translate a fields content where you see "
-"the marker by double clicking the fields value."
+msgid "Access External Search Services or Translate a fields content where you see the marker by double clicking the fields value."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:322
-msgid ""
-"ESS allows you to translate an individual fields contents or search for an "
-"individual line on an external search service to access additional relevant "
-"information."
+msgid "ESS allows you to translate an individual fields contents or search for an individual line on an external search service to access additional relevant information."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:323
@@ -2919,19 +2500,16 @@ msgid "indicates ESS services are not available"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:325
-#, fuzzy
 msgid "Search term(s)"
-msgstr "Pretraživanje"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:326
-#, fuzzy
 msgid "Search facet"
-msgstr "Pretraživanje"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:327
-#, fuzzy
 msgid "Search operator"
-msgstr "Pretraživanje Europeane"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:328
 msgid "Back to top"
@@ -2943,32 +2521,23 @@ msgstr "Kliknite za pretraživanje za ovaj pojam u vanjskim uslugama"
 
 #: templates/static_pages/prop_file.html:330
 #: templates/static_pages/prop_file.html:332
-#, fuzzy
 msgid "Remote Search Widget"
-msgstr "Možete prijaviti se za Europeana e-vijesti "
+msgstr ""
 
 #: templates/static_pages/prop_file.html:331
-msgid ""
-"You can use the link below to create a customized plugin for inclusion in "
-"your own website with the ability to search through the collections on the "
-"Europeana portal."
+msgid "You can use the link below to create a customized plugin for inclusion in your own website with the ability to search through the collections on the Europeana portal."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:333
-#, fuzzy
 msgid "Europeana Search Widget"
-msgstr "Možete prijaviti se za Europeana e-vijesti "
+msgstr ""
 
 #: templates/static_pages/prop_file.html:336
-#, fuzzy
 msgid "What is Europeana's remote search widget?"
-msgstr "Možete prijaviti se za Europeana e-vijesti "
+msgstr ""
 
 #: templates/static_pages/prop_file.html:337
-msgid ""
-"The remote search widget is a tailored plugin to search on and display items "
-"from Europeana's collections and those of their contributors within your own "
-"website."
+msgid "The remote search widget is a tailored plugin to search on and display items from Europeana's collections and those of their contributors within your own website."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:338
@@ -2976,20 +2545,15 @@ msgid "What is a plugin?"
 msgstr "Što je priključak?"
 
 #: templates/static_pages/prop_file.html:339
-msgid ""
-"The plugin is simply a piece of generated code that can be copied and pasted "
-"into one of the webpages on your own site."
+msgid "The plugin is simply a piece of generated code that can be copied and pasted into one of the webpages on your own site."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:340
-#, fuzzy
 msgid "What will the plugin look like?"
-msgstr "Što je priključak?"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:341
-msgid ""
-"The working plugin is shown on the right hand side of the screen. Making "
-"changes and selecting preview will let you see those changes in action."
+msgid "The working plugin is shown on the right hand side of the screen. Making changes and selecting preview will let you see those changes in action."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:342
@@ -3001,13 +2565,11 @@ msgid "Select options from the menu below"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:344
-msgid ""
-"Click on 'Preview' to see the changes in the right hand side of the screen"
+msgid "Click on 'Preview' to see the changes in the right hand side of the screen"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:345
-msgid ""
-"Check the box to say you have read and agree with the terms and conditions"
+msgid "Check the box to say you have read and agree with the terms and conditions"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:346
@@ -3035,22 +2597,16 @@ msgid "How can I change the position of the plugin?"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:352
-msgid ""
-"The plugin can be nested within an HTML table but the easiest way is to use "
-"cascading stylesheets css. The plugin is surrounded in a div with the id "
-"swEuropeanaRemoteWidget and its position can be changed by changing the css "
-"properties for this div."
+msgid "The plugin can be nested within an HTML table but the easiest way is to use cascading stylesheets css. The plugin is surrounded in a div with the id swEuropeanaRemoteWidget and its position can be changed by changing the css properties for this div."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:353
-#, fuzzy
 msgid "Background colour"
-msgstr "Povijest"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:354
-#, fuzzy
 msgid "Media type tab colour"
-msgstr "Vrsta"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:355
 msgid "Text colour"
@@ -3061,25 +2617,21 @@ msgid "Default language"
 msgstr "Zadani jezik"
 
 #: templates/static_pages/prop_file.html:357
-#, fuzzy
 msgid "Default search term"
-msgstr "Pretraživanje"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:358
-#, fuzzy
 msgid "Media Types"
-msgstr "Vrsta"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:359
 #: templates/static_pages/usingeuropeana_searchwidget.html:30
-#, fuzzy
 msgid "Providers"
-msgstr "Ustanove"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:360
-#, fuzzy
 msgid "Europeana attribution"
-msgstr "Europeana prava"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:361
 msgid "Widget Code: (To be copied and pasted into your website)"
@@ -3090,9 +2642,8 @@ msgid "Generate Code"
 msgstr "Generiraj Kod"
 
 #: templates/static_pages/prop_file.html:364
-#, fuzzy
 msgid "Powered By Europeana"
-msgstr "Moja Europeana"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:365
 #: templates/static_pages/prop_file.html:880
@@ -3115,9 +2666,8 @@ msgid "Click to cite this object"
 msgstr "Kliknite da citirate ovaj objekt"
 
 #: templates/static_pages/prop_file.html:369
-#, fuzzy
 msgid "Use"
-msgstr "na"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:370
 msgid "Harvard Bibliographic Style"
@@ -3228,88 +2778,52 @@ msgstr ""
 #: templates/static_pages/prop_file.html:460
 #: templates/static_pages/prop_file.html:471
 #: templates/static_pages/prop_file.html:482
-#, fuzzy
 msgid "Featured item"
-msgstr "Podijeli predmet"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:403
-msgid ""
-"Vase with flowers placed on a table in a range of Red-purple, with many grey "
-"accents, deriving from them. Figurative drawing with touches of green, grey "
-"and white background, divided after the white section. The bottom in Golden "
-"ocher, with shadows of blue."
+msgid "Vase with flowers placed on a table in a range of Red-purple, with many grey accents, deriving from them. Figurative drawing with touches of green, grey and white background, divided after the white section. The bottom in Golden ocher, with shadows of blue."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:414
-msgid ""
-"The Ilse Valley, showing the Dr&uuml;beck Abbey Church and the Ilsenburger "
-"Castle. For this painting a stratagem was used, because in reality both "
-"buildings are further apart."
+msgid "The Ilse Valley, showing the Dr&uuml;beck Abbey Church and the Ilsenburger Castle. For this painting a stratagem was used, because in reality both buildings are further apart."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:425
-msgid ""
-"Eadweard James Muybridge was an English photographer important for his "
-"pioneering work in photographic studies of motion and in motion-picture "
-"projection."
+msgid "Eadweard James Muybridge was an English photographer important for his pioneering work in photographic studies of motion and in motion-picture projection."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:435
-msgid ""
-"The female personification of Europa sits on a horse in a library. In her "
-"hands a sceptre and a cornucopia. She is joined by putti with attributes "
-"that symbolize the Arts and Sciences. In the background are two men in a "
-"workshop."
+msgid "The female personification of Europa sits on a horse in a library. In her hands a sceptre and a cornucopia. She is joined by putti with attributes that symbolize the Arts and Sciences. In the background are two men in a workshop."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:445
-msgid ""
-"Floral composition range of Pinks, yellows and greys greys of red. To "
-"highlight crop floral on blue-yellow background. Balanced color of hot and "
-"cold, the flowers in warm colors-background in cool colors. The entire color "
-"Iriz&#259;ri; flowers."
+msgid "Floral composition range of Pinks, yellows and greys greys of red. To highlight crop floral on blue-yellow background. Balanced color of hot and cold, the flowers in warm colors-background in cool colors. The entire color Iriz&#259;ri; flowers."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:455
-msgid ""
-"Items of interest in learning depicted with their names. Etching. The card "
-"shows different objects from a Decanter &amp; Tea Chest to a Ladies Toilet."
+msgid "Items of interest in learning depicted with their names. Etching. The card shows different objects from a Decanter &amp; Tea Chest to a Ladies Toilet."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:464
-msgid ""
-"Toppop is the first weekly program about pop music on the Dutch television. "
-"Notable artists come to the studio - often with bizarre props and sets - to "
-"playback their newest hit. Broadcast on 18 February 1974 by Dutch public "
-"broadcaster AVRO"
+msgid "Toppop is the first weekly program about pop music on the Dutch television. Notable artists come to the studio - often with bizarre props and sets - to playback their newest hit. Broadcast on 18 February 1974 by Dutch public broadcaster AVRO"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:475
-msgid ""
-"Three staff members of the Phoenix brewery at a truck of the company. The "
-"location is not clear. From left to right: J.H. v.d. Berg, m. Dale and j. "
-"Vasquez."
+msgid "Three staff members of the Phoenix brewery at a truck of the company. The location is not clear. From left to right: J.H. v.d. Berg, m. Dale and j. Vasquez."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:486
-msgid ""
-"Milk. The natural pick-me-up. This image was used in 1994, during a campaign "
-"for drinking milk in Switzerland. It was created by Advico Young and Rubicam "
-"advertising agency (D&uuml;bendorf) for the Central Association of Swiss "
-"Milk Producers"
+msgid "Milk. The natural pick-me-up. This image was used in 1994, during a campaign for drinking milk in Switzerland. It was created by Advico Young and Rubicam advertising agency (D&uuml;bendorf) for the Central Association of Swiss Milk Producers"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:492
 #: templates/static_pages/prop_file.html:501
-#, fuzzy
 msgid "New &amp; Improved - Europeana 1914-1918"
-msgstr "Pregledavanje Europeane"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:502
-msgid ""
-"Take a look at the new and improved Europeana 1914-1918 website and browse "
-"the most important pan-European collection of original First World War "
-"source material."
+msgid "Take a look at the new and improved Europeana 1914-1918 website and browse the most important pan-European collection of original First World War source material."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:503
@@ -3317,22 +2831,18 @@ msgid "Browse website"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:512
-msgid ""
-"Explore 13 unique curated exhibitions highlighting some of Europe's biggest "
-"cultural treasures."
+msgid "Explore 13 unique curated exhibitions highlighting some of Europe's biggest cultural treasures."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:513
-#, fuzzy
 msgid "Visit exhibitions"
-msgstr "virtualne izložbe"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:526
 #: templates/static_pages/prop_file.html:527
 #: templates/static_pages/sitemap.html:97
-#, fuzzy
 msgid "Terms of Use &amp; Policies"
-msgstr "Uvjeti & pravila"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:534
 #: templates/static_pages/prop_file.html:535
@@ -3356,14 +2866,12 @@ msgstr "Početna"
 #: templates/static_pages/prop_file.html:594
 #: templates/static_pages/sitemap.html:31
 #: templates/static_pages/usingeuropeana_searchwidget.html:9
-#, fuzzy
 msgid "How to configure your search widget"
-msgstr "Filtriraj pretraživanje"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:595
-#, fuzzy
 msgid "How to configure your search widhet"
-msgstr "Filtriraj pretraživanje"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:606
 #: templates/static_pages/prop_file.html:607
@@ -3378,9 +2886,8 @@ msgstr "Pinterest"
 #: templates/static_pages/prop_file.html:646
 #: templates/static_pages/prop_file.html:647
 #: templates/static_pages/prop_file.html:652
-#, fuzzy
 msgid "Explore Europe's cultural collections"
-msgstr "novim stavkama u Europeana kolekciji"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:650
 #: templates/static_pages/prop_file.html:651
@@ -3400,20 +2907,16 @@ msgid "Filter your search"
 msgstr "Filtriraj pretraživanje"
 
 #: templates/static_pages/prop_file.html:656
-#, fuzzy
 msgid "Grid view"
-msgstr "Pregled"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:657
-msgid ""
-"We apologize; there was a problem retrieving the search results from the "
-"server. Please try again later"
+msgid "We apologize; there was a problem retrieving the search results from the server. Please try again later"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:658
-#, fuzzy
 msgid "Similar items"
-msgstr "Sličan sadržaj"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:659
 msgid "Loading ..."
@@ -3462,9 +2965,8 @@ msgid "An error occurred"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:670
-#, fuzzy
 msgid "The item could not be removed"
-msgstr "Pošaljite e-mail"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:671
 msgid "Auto-generated tags"
@@ -3488,9 +2990,8 @@ msgid "See more"
 msgstr "Vidi više"
 
 #: templates/static_pages/prop_file.html:677
-#, fuzzy
 msgid "Explore further"
-msgstr "Pretražite"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:678
 msgid "Return to original language"
@@ -3501,9 +3002,7 @@ msgid "Attention: this item has been withdrawn by the provider."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:681
-msgid ""
-"We apologise; there was a problem retrieving the data from the server. "
-"Please try again later."
+msgid "We apologise; there was a problem retrieving the data from the server. Please try again later."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:682
@@ -3523,33 +3022,27 @@ msgid "Your password change has been successfully completed"
 msgstr "Vaša zamjena lozinke je uspješno završena "
 
 #: templates/static_pages/prop_file.html:686
-#, fuzzy
 msgid "Zoom"
-msgstr "Povećaj"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:687
 msgid "Zoom in"
 msgstr "Povećaj"
 
 #: templates/static_pages/prop_file.html:688
-#, fuzzy
 msgid "Zoom out"
-msgstr "Povećaj"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:689
 msgid "Choose from different map types"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:690
-msgid ""
-"Navigate map: click and hold left mouse-button, then move mouse to change "
-"the view"
+msgid "Navigate map: click and hold left mouse-button, then move mouse to change the view"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:691
-msgid ""
-"Select via freeform: add anchor points with left mouse-click, double click "
-"to finish the shape"
+msgid "Select via freeform: add anchor points with left mouse-click, double click to finish the shape"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:692
@@ -3573,12 +3066,8 @@ msgid "Tiles courtesy of"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:698
-msgid ""
-"This is your personal space on Europeana. With My Europeana, you can save "
-"your favourite items and searches, and add tags."
-msgstr ""
-"Ovo je vaš osobni prostor na Europeani. Uz Moju Europeanu možete spremiti "
-"svoje omiljene stvari i pretraživanja te dodati oznake."
+msgid "This is your personal space on Europeana. With My Europeana, you can save your favourite items and searches, and add tags."
+msgstr "Ovo je vaš osobni prostor na Europeani. Uz Moju Europeanu možete spremiti svoje omiljene stvari i pretraživanja te dodati oznake."
 
 #: templates/static_pages/prop_file.html:699
 #: templates/static_pages/usingeuropeana_results.html:19
@@ -3590,18 +3079,16 @@ msgid "Download"
 msgstr "Spremi"
 
 #: templates/static_pages/prop_file.html:701
-#, fuzzy
 msgid "User contributed content"
-msgstr "Novi sadržaj"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:702
 msgid "Play"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:703
-#, fuzzy
 msgid "Read"
-msgstr "Vidi više"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:704
 #: templates/static_pages/usingeuropeana_results.html:34
@@ -3621,10 +3108,7 @@ msgid "Please try another search."
 msgstr "Pokušajte s drugim pretraživanjem."
 
 #: templates/static_pages/prop_file.html:708
-msgid ""
-"The Europeana map search is still in development and currently doesn't work "
-"in Internet Explorer. We aim to support Internet Explorer in the future. "
-"Currently we recommend you to use Chrome or Firefox."
+msgid "The Europeana map search is still in development and currently doesn't work in Internet Explorer. We aim to support Internet Explorer in the future. Currently we recommend you to use Chrome or Firefox."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:712
@@ -3637,9 +3121,8 @@ msgstr ""
 
 #: templates/static_pages/prop_file.html:720
 #: templates/static_pages/usingeuropeana_search.html:67
-#, fuzzy
 msgid "Include content contributed by users"
-msgstr "Sadržaj stvorio korisnik"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:721
 msgid "The map only shows up to 1000 items relevant to your query."
@@ -3694,9 +3177,8 @@ msgid "Follow us!"
 msgstr "Pratite nas!"
 
 #: templates/static_pages/prop_file.html:735
-#, fuzzy
 msgid "Newsletter sign-up"
-msgstr "Newsletter: prijavite se!"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:736
 #: templates/static_pages/prop_file.html:737
@@ -3713,8 +3195,7 @@ msgid "Email Address"
 msgstr "E-mail adresa"
 
 #: templates/static_pages/prop_file.html:740
-msgid ""
-"Sign-up to receive our monthly newsletter, and occasional announcements."
+msgid "Sign-up to receive our monthly newsletter, and occasional announcements."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:751
@@ -3722,80 +3203,48 @@ msgstr ""
 #: templates/static_pages/prop_file.html:773
 #: templates/static_pages/prop_file.html:783
 #: templates/static_pages/prop_file.html:794
-#, fuzzy
 msgid "Featured partner"
-msgstr "Podijeli predmet"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:755
-msgid ""
-"Ateneum Art Museum is home to the largest and most important art collections "
-"in Finland. The museum governs over 20,000 works of art. The most "
-"significant of these is the Antell Collection, a testamentary donation by "
-"the collector H. F. Antell."
+msgid "Ateneum Art Museum is home to the largest and most important art collections in Finland. The museum governs over 20,000 works of art. The most significant of these is the Antell Collection, a testamentary donation by the collector H. F. Antell."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:766
-msgid ""
-"The National Gallery of Ireland houses the Irish national collection of "
-"Irish and European art. It is located in the centre of Dublin with one "
-"entrance on Merrion Square, beside Leinster House, and another on Clare "
-"Street. Due to ongoing renovations, the Clare Street entrance is the only "
-"one currently open. It was founded in 1854 and opened its doors ten years "
-"later. The Gallery has an extensive, representative collection of Irish "
-"painting and is also notable for its Italian Baroque and Dutch masters "
-"painting."
+msgid "The National Gallery of Ireland houses the Irish national collection of Irish and European art. It is located in the centre of Dublin with one entrance on Merrion Square, beside Leinster House, and another on Clare Street. Due to ongoing renovations, the Clare Street entrance is the only one currently open. It was founded in 1854 and opened its doors ten years later. The Gallery has an extensive, representative collection of Irish painting and is also notable for its Italian Baroque and Dutch masters painting."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:777
-msgid ""
-"One of the oldest and the best museums of the Upper Volga Region, was "
-"founded in 1910. Now the museum houses more than 120 thousand exhibits: from "
-"saurian bones to paintings of famous artists."
+msgid "One of the oldest and the best museums of the Upper Volga Region, was founded in 1910. Now the museum houses more than 120 thousand exhibits: from saurian bones to paintings of famous artists."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:787
-msgid ""
-"Since its founding in 1952 the Hungarian Theatre Museum and Institute has "
-"been collecting the most valuable relics and data of the Hungarian theatre, "
-"bridging the distant beginnings centuries ago with-last night's "
-"performances. A dozen and a half of separate collections enclose the "
-"invaluable traces of the artform most susceptible to evanescence: paintings, "
-"photographs, stage and costume designs, posters, props, video recordingsâ"
-"€”and many more..."
+msgid "Since its founding in 1952 the Hungarian Theatre Museum and Institute has been collecting the most valuable relics and data of the Hungarian theatre, bridging the distant beginnings centuries ago with-last night's performances. A dozen and a half of separate collections enclose the invaluable traces of the artform most susceptible to evanescence: paintings, photographs, stage and costume designs, posters, props, video recordingsâ€”and many more..."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:798
-msgid ""
-"Archive Eemland is the historical information centre of Amersfoort and the "
-"Eemland region. The archive manages approximately 3.5 kilometers of "
-"archives, an image collection of 40,000 photographs, a significant "
-"collection of maps, a growing audiovisual collection and a rich historical "
-"library."
+msgid "Archive Eemland is the historical information centre of Amersfoort and the Eemland region. The archive manages approximately 3.5 kilometers of archives, an image collection of 40,000 photographs, a significant collection of maps, a growing audiovisual collection and a rich historical library."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:805
-#, fuzzy
 msgid "API function"
-msgstr "Ostale funkcije"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:806
-#, fuzzy
 msgid "Search parameters"
-msgstr "Pretraživanje Europeane"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:807
-#, fuzzy
 msgid "Search term"
-msgstr "Pretraživanje"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:808
 msgid "Refinement term(s)"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:809
-#, fuzzy
 msgid "Profile"
-msgstr "Stručna Europeana"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:810
 msgid "Number of records to retrieve"
@@ -3806,32 +3255,28 @@ msgid "First record to retrieve"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:812
-#, fuzzy
 msgid "Record parameters"
-msgstr "Pretraživanje Europeane"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:813
 msgid "Record id"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:814
-#, fuzzy
 msgid "Request URL"
-msgstr "Zahtjev"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:815
 msgid "JSON response"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:816
-#, fuzzy
 msgid "Additional parameters"
-msgstr "Pretraživanje Europeane"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:818
-#, fuzzy
 msgid "Search also for:"
-msgstr "Pretraživanje Europeane"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:820
 msgid "Who"
@@ -3843,9 +3288,8 @@ msgstr "Što"
 
 #: templates/static_pages/prop_file.html:824
 #: templates/static_pages/prop_file.html:825
-#, fuzzy
 msgid "Europeana APIs"
-msgstr "Europeana API"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:826
 #: templates/static_pages/prop_file.html:830
@@ -3856,30 +3300,25 @@ msgstr ""
 
 #: templates/static_pages/prop_file.html:828
 #: templates/static_pages/prop_file.html:829
-#, fuzzy
 msgid "Terms of use &amp; Policies"
-msgstr "Uvjeti & pravila"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:847
 #: templates/static_pages/usingeuropeana_myeuropeana.html:17
-#, fuzzy
 msgid "API keys"
-msgstr "Uvjeti korištenja"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:848
-#, fuzzy
 msgid "No API key"
-msgstr "Uvjeti korištenja"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:849
-#, fuzzy
 msgid "API key"
-msgstr "Uvjeti korištenja"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:850
-#, fuzzy
 msgid "Private key"
-msgstr "Privatnost"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:851
 msgid "Usage limit"
@@ -3898,28 +3337,24 @@ msgid "Congratulations! You are now registered for Europeana's API."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:855
-#, fuzzy
 msgid "Your API key is"
-msgstr "Uvjeti korištenja"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:856
-#, fuzzy
 msgid "Your private key is"
-msgstr "Privatnost"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:858
-#, fuzzy
 msgid "Remove API key"
-msgstr "Uvjeti korištenja"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:859
 msgid "Limit"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:860
-#, fuzzy
 msgid "Remove user"
-msgstr "Uvjeti korištenja"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:861
 msgid "Block user"
@@ -3934,14 +3369,12 @@ msgid "Export users to CSV"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:864
-#, fuzzy
 msgid "User name"
-msgstr "Korisničko ime"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:865
-#, fuzzy
 msgid "Registration"
-msgstr "Završite registraciju"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:867
 msgid "Visit the website of"
@@ -3954,20 +3387,17 @@ msgstr ""
 #: templates/static_pages/prop_file.html:872
 #: templates/static_pages/prop_file.html:873
 #: templates/static_pages/sitemap.html:15
-#, fuzzy
 msgid "Other Europeana Sites"
-msgstr "Europeana Remix"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:876
-#, fuzzy
 msgid "Europeana Exhibitions"
-msgstr "Europeana prava"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:884
 #: templates/static_pages/sitemap.html:19
-#, fuzzy
 msgid "Europeana 1914-1918"
-msgstr "Pregledavanje Europeane"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:889
 msgid "Remix"
@@ -3979,14 +3409,12 @@ msgid "Europeana Professional"
 msgstr "Stručna Europeana"
 
 #: templates/static_pages/prop_file.html:893
-#, fuzzy
 msgid "Professional"
-msgstr "Stručna Europeana"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:896
-#, fuzzy
 msgid "Europeana Labs"
-msgstr "Europeana API"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:897
 msgid "Labs"
@@ -4005,9 +3433,8 @@ msgid "Telephone contact"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:960
-#, fuzzy
 msgid "Address"
-msgstr "E-mail adresa"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:961
 msgid "I confirm that I have read and agree to the"
@@ -4018,48 +3445,40 @@ msgid "Next in sequence"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:963
-#, fuzzy
 msgid "Date of creation"
-msgstr "Zaštita podataka"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:964
-#, fuzzy
 msgid "Is part of"
-msgstr "ovaj obrazac"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:975
-#, fuzzy
 msgid "Titles"
-msgstr "Naslov"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:976
 msgid "Places"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:977
-#, fuzzy
 msgid "Dates/Periods"
-msgstr "Pretraživanje"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:978
-#, fuzzy
 msgid "Subjects"
-msgstr "Predmet"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:979
-#, fuzzy
 msgid "Creators"
-msgstr "Suradnici"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:980
-#, fuzzy
 msgid "All fields"
-msgstr "Ustanove"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:981
-#, fuzzy
 msgid "Featured Item"
-msgstr "Podijeli predmet"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:982
 #: templates/static_pages/usingeuropeana_explore.html:15
@@ -4089,28 +3508,24 @@ msgid "Field of work"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:988
-#, fuzzy
 msgid "Please, select"
-msgstr "Zbirka"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:990
-#, fuzzy
 msgid "Please try another search later."
-msgstr "Pokušajte s drugim pretraživanjem."
+msgstr ""
 
 #: templates/static_pages/prop_file.html:991
-#, fuzzy
 msgid "Unable to find the requested page"
-msgstr "Nije moguće pronaći sadržaj ove stranice."
+msgstr ""
 
 #: templates/static_pages/prop_file.html:992
 msgid "Alert:"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:993
-#, fuzzy
 msgid "Unable to find the requested Europeana Record."
-msgstr "Nije moguće pronaći sadržaj ove stranice."
+msgstr ""
 
 #: templates/static_pages/prop_file.html:994
 msgid "This item has been withdrawn by the provider."
@@ -4121,14 +3536,12 @@ msgid "Requested Europeana Record is not yet indexed."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:997
-#, fuzzy
 msgid "Please register your email again"
-msgstr "Molimo unesite valjanu e-mail adresu"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:998
-#, fuzzy
 msgid "to finish registration."
-msgstr "Završite registraciju"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:999
 msgid "Unable to fullfill your request due to malformed query parameters."
@@ -4147,9 +3560,8 @@ msgid "We are unable to change the interface to the requested language."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:1003
-#, fuzzy
 msgid "Please try another language from the dropdown list."
-msgstr "Pokušajte s drugim pretraživanjem."
+msgstr ""
 
 #: templates/static_pages/prop_file.html:1004
 msgid "Number of results shown on the page"
@@ -4169,14 +3581,12 @@ msgid "Can I use it?"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:1016
-#, fuzzy
 msgid "Yes, with attribution"
-msgstr "Europeana prava"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:1017
-#, fuzzy
 msgid "Yes, with restrictions"
-msgstr "Europeana prava"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:1018
 msgid "Only with permission"
@@ -4199,24 +3609,20 @@ msgid "Would you also like to use Europeana in"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:1025
-msgid ""
-"It looks like your browser is set to English. Would you also like to use "
-"Europeana in English"
-msgstr ""
+msgid "It looks like your browser is set to English. Would you also like to use Europeana in English"
+msgstr "Izgleda da vaš preglednik postavljen na hrvatski. Želite li također koristiti Europeana na hrvatskom jeziku"
 
 #: templates/static_pages/prop_file.html:1026
-#, fuzzy
 msgid "English"
-msgstr "Finski (fin)"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:1027
 msgid "Basque"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:1028
-#, fuzzy
 msgid "Bulgarian"
-msgstr "Bugarska"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:1029
 msgid "Catalan"
@@ -4227,29 +3633,24 @@ msgid "Czech"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:1031
-#, fuzzy
 msgid "Danish"
-msgstr "Finski (fin)"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:1032
-#, fuzzy
 msgid "German"
-msgstr "Njemačka"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:1033
-#, fuzzy
 msgid "Greek"
-msgstr "Grčka"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:1034
-#, fuzzy
 msgid "Spanish"
-msgstr "Finski (fin)"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:1035
-#, fuzzy
 msgid "Estonian"
-msgstr "Estonija"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:1036
 msgid "French"
@@ -4260,88 +3661,72 @@ msgid "Irish"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:1038
-#, fuzzy
 msgid "Croatian"
-msgstr "Hrvatska"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:1039
-#, fuzzy
 msgid "Icelandic"
-msgstr "Island"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:1040
-#, fuzzy
 msgid "Italian"
-msgstr "Talijanski (ita)"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:1041
-#, fuzzy
 msgid "Lithuanian"
-msgstr "Litva"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:1042
-#, fuzzy
 msgid "Latvian"
-msgstr "Latvija"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:1043
-#, fuzzy
 msgid "Hungarian"
-msgstr "Mađarski (hun)"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:1044
-#, fuzzy
 msgid "Maltese"
-msgstr "Malta"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:1045
 msgid "Dutch"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:1046
-#, fuzzy
 msgid "Norwegian"
-msgstr "Norveški (nor)"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:1047
-#, fuzzy
 msgid "Polish"
-msgstr "Poljski (pol)"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:1048
-#, fuzzy
 msgid "Romanian"
-msgstr "Rumunija"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:1049
-#, fuzzy
 msgid "Russian"
-msgstr "Ruski (rus)"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:1050
-#, fuzzy
 msgid "Slovene"
-msgstr "Slovenija"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:1051
-#, fuzzy
 msgid "Slovak"
-msgstr "Slovačka"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:1052
-#, fuzzy
 msgid "Finnish"
-msgstr "Finski (fin)"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:1053
-#, fuzzy
 msgid "Swedish"
-msgstr "Švedska"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:1054
-#, fuzzy
 msgid "Ukranian"
-msgstr "Ukrajina"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:1056
 msgid "no"
@@ -4352,9 +3737,8 @@ msgid "yes"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:1059
-#, fuzzy
 msgid "Language settings"
-msgstr "Jezik"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:1060
 msgid "Automatically translate item pages into:"
@@ -4369,9 +3753,7 @@ msgid "Automatically translate search keywords into:"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:1063
-msgid ""
-"For registered users, you can choose a maximum of 6 options. For "
-"unregistered users, you can choose a maximum of 3 options."
+msgid "For registered users, you can choose a maximum of 6 options. For unregistered users, you can choose a maximum of 3 options."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:1064
@@ -4379,28 +3761,20 @@ msgid "Submit"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:1065
-#, fuzzy
 msgid "Incorrect password."
-msgstr "Zaboravio sam lozinku"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:1066
-#, fuzzy
-msgid ""
-"Log into My Europeana to save your favourite items, searches, tags and "
-"translate search keywords into other languages."
+msgid "Log into My Europeana to save your favourite items, searches, tags and translate search keywords into other languages."
 msgstr ""
-"možete spremiti svoje omiljene predmete i pretraživanja, i dodati oznake "
-"predmetima kako bi ih odvojiti u različite kategorije."
 
 #: templates/static_pages/prop_file.html:1067
-#, fuzzy
 msgid "Please enter your username."
-msgstr "Molimo unesite valjanu e-mail adresu"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:1068
-#, fuzzy
 msgid "Please enter your password."
-msgstr "Molimo unesite valjanu e-mail adresu"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:1069
 msgid "Registered users may choose a maximum of 6 options."
@@ -4411,31 +3785,27 @@ msgid "Unregistered users may choose a maximum of 3 options."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:1071
-#, fuzzy
 msgid "Clear selection"
-msgstr "Zbirka"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:1072
-#, fuzzy
 msgid "Request passsword"
-msgstr "Ponovite lozinku"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:1073
 msgid "Invalid credentials"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:1074
-#, fuzzy
 msgid "Save settings"
-msgstr "Jezik"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:1075
 msgid "Settings have been saved."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:1076
-msgid ""
-"Sorry, there was a problem saving your settings. Please try again later."
+msgid "Sorry, there was a problem saving your settings. Please try again later."
 msgstr ""
 
 #: templates/static_pages/sitemap.html:4
@@ -4447,43 +3817,36 @@ msgid "Searching in Europeana"
 msgstr "Pretraživanje u Europeani"
 
 #: templates/static_pages/sitemap.html:39
-#, fuzzy
 msgid "All Providers"
-msgstr "Ustanove"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:41
-#, fuzzy
 msgid "Press Centre (on Europeana Professional)"
-msgstr "Stručna Europeana"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:42
-#, fuzzy
 msgid "Jobs (on Europeana Professional)"
-msgstr "Stručna Europeana"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:43
-#, fuzzy
 msgid "Partners (on Europeana Professional)"
-msgstr "Stručna Europeana"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:56
-#, fuzzy
 msgid "Working with the API"
-msgstr "Posao u Europeani"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:57
-#, fuzzy
 msgid "Latest changes"
-msgstr "Novo"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:58
 msgid "Sample Code and Libraries"
 msgstr ""
 
 #: templates/static_pages/sitemap.html:61
-#, fuzzy
 msgid "API Methods"
-msgstr "Uvjeti korištenja"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:64
 msgid "Record"
@@ -4494,9 +3857,8 @@ msgid "Suggestions"
 msgstr ""
 
 #: templates/static_pages/sitemap.html:67
-#, fuzzy
 msgid "OpenSearch"
-msgstr "Pretraživanje"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:69
 msgid "Query Syntax"
@@ -4507,71 +3869,60 @@ msgid "Data structure"
 msgstr ""
 
 #: templates/static_pages/sitemap.html:72
-#, fuzzy
 msgid "Europeana Fields"
-msgstr "Europeana - Pomoć"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:74
 msgid "API1-API2 compatability"
 msgstr ""
 
 #: templates/static_pages/sitemap.html:104
-#, fuzzy
 msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
-msgstr "Sporazum o razmjeni podataka u Europeani"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:115
-#, fuzzy
 msgid "Free Access - no-reuse"
-msgstr "Slobodan pristup"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:116
-#, fuzzy
 msgid "Rights Reserved - Restricted access"
-msgstr "Prava zadržana - Ograničen pristup"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:117
-#, fuzzy
 msgid "Paid Access - no re-use"
-msgstr "Plaćeni pristup"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:118
 msgid "Unknown copyright status"
 msgstr ""
 
 #: templates/static_pages/sitemap.html:119
-#, fuzzy
 msgid "Orphan work - Free access"
-msgstr "Prava zadržana - Slobodan pristup"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:120
-#, fuzzy
 msgid "Orphan work"
-msgstr "Prava zadržana - Slobodan pristup"
+msgstr ""
 
 #: templates/static_pages/sitemap.html:121
 msgid "Out of copyright - non commercial re-use"
 msgstr ""
 
 #: templates/static_pages/sitemap.html:127
-#, fuzzy
 msgid "Europeana Semantic Elements (ESE)"
-msgstr "Možete prijaviti se za Europeana e-vijesti "
+msgstr ""
 
 #: templates/static_pages/sitemap.html:128
-#, fuzzy
 msgid "Europeana metadata schemas"
-msgstr "Izvori podataka Europeane"
+msgstr ""
 
 #: templates/static_pages/storyline.html:4
-#, fuzzy
 msgid "Europeana - Storyline and credits"
-msgstr "Europeana - Uvjeti i pravila"
+msgstr ""
 
 #: templates/static_pages/storyline.html:13
-#, fuzzy
 msgid "Descartes"
-msgstr "Opis"
+msgstr ""
 
 #: templates/static_pages/storyline.html:14
 msgid "The best place to start is with"
@@ -4582,12 +3933,7 @@ msgid "Rene Descartes"
 msgstr ""
 
 #: templates/static_pages/storyline.html:14
-msgid ""
-"the man who made thinking central to our experience of the world. Cogito "
-"ergo sum wrote Descartes in 1644 in his Principia Philosophiae: I think, "
-"therefore I am. Descartes was the father of modern philosophy, and one of "
-"the great European thinkers of his time, writing in French and Latin, "
-"working and publishing in the Netherlands."
+msgid "the man who made thinking central to our experience of the world. Cogito ergo sum wrote Descartes in 1644 in his Principia Philosophiae: I think, therefore I am. Descartes was the father of modern philosophy, and one of the great European thinkers of his time, writing in French and Latin, working and publishing in the Netherlands."
 msgstr ""
 
 #: templates/static_pages/storyline.html:15
@@ -4595,9 +3941,7 @@ msgid "Newton"
 msgstr ""
 
 #: templates/static_pages/storyline.html:16
-msgid ""
-"He defined laws of reflection and refraction, worked on the structure of the "
-"brain, the new physics and mathematics. He was a major influence on"
+msgid "He defined laws of reflection and refraction, worked on the structure of the brain, the new physics and mathematics. He was a major influence on"
 msgstr ""
 
 #: templates/static_pages/storyline.html:16
@@ -4605,9 +3949,7 @@ msgid "Isaac Newton"
 msgstr ""
 
 #: templates/static_pages/storyline.html:16
-msgid ""
-"whose laws of gravity were famously inspired by watching an apple fall. "
-"Newton's three laws of motion were published in 1687 in his"
+msgid "whose laws of gravity were famously inspired by watching an apple fall. Newton's three laws of motion were published in 1687 in his"
 msgstr ""
 
 #: templates/static_pages/storyline.html:16
@@ -4619,11 +3961,7 @@ msgid "Darwin"
 msgstr ""
 
 #: templates/static_pages/storyline.html:18
-msgid ""
-"The apple is the symbol of another fall; that of Adam and Eve, who on eating "
-"the fruit of the Tree of Knowledge of Good and Evil are banished from Eden. "
-"The fundamental challenge to the story of the Creation and the Fall is the "
-"Theory of Evolution, set out by"
+msgid "The apple is the symbol of another fall; that of Adam and Eve, who on eating the fruit of the Tree of Knowledge of Good and Evil are banished from Eden. The fundamental challenge to the story of the Creation and the Fall is the Theory of Evolution, set out by"
 msgstr ""
 
 #: templates/static_pages/storyline.html:18
@@ -4639,11 +3977,7 @@ msgid "On the Origin of Species"
 msgstr ""
 
 #: templates/static_pages/storyline.html:18
-msgid ""
-"Darwin recognised that species were not static, but evolved to improve their "
-"chances of survival. His theories began to develop while he was the "
-"naturalist and geologist on board the ship Beagle, on a 5 year voyage "
-"surveying the coast of South America."
+msgid "Darwin recognised that species were not static, but evolved to improve their chances of survival. His theories began to develop while he was the naturalist and geologist on board the ship Beagle, on a 5 year voyage surveying the coast of South America."
 msgstr ""
 
 #: templates/static_pages/storyline.html:19
@@ -4651,9 +3985,7 @@ msgid "Wedgwood"
 msgstr ""
 
 #: templates/static_pages/storyline.html:20
-msgid ""
-"Darwin's genius was the product of an English family of talent and "
-"reputation. He was the grandson of"
+msgid "Darwin's genius was the product of an English family of talent and reputation. He was the grandson of"
 msgstr ""
 
 #: templates/static_pages/storyline.html:20
@@ -4661,60 +3993,36 @@ msgid "Josiah Wedgwood"
 msgstr ""
 
 #: templates/static_pages/storyline.html:20
-msgid ""
-"one of the great entrepreneurs of the industrial revolution. Taking "
-"inspiration from Greek, Etruscan and Roman styles, especially the Portland "
-"Vase, he created a range of neo-classical pottery that delighted the new "
-"English merchant classes, keen to display their sophistication with "
-"references to design classics. Wedgwood used scientific innovation, factory "
-"techniques of mass production and the new canal network of the UK to "
-"transport his fragile wares to the new consumers of the growing towns and "
-"cities."
+msgid "one of the great entrepreneurs of the industrial revolution. Taking inspiration from Greek, Etruscan and Roman styles, especially the Portland Vase, he created a range of neo-classical pottery that delighted the new English merchant classes, keen to display their sophistication with references to design classics. Wedgwood used scientific innovation, factory techniques of mass production and the new canal network of the UK to transport his fragile wares to the new consumers of the growing towns and cities."
 msgstr ""
 
 #: templates/static_pages/storyline.html:21
-#, fuzzy
 msgid "Abolition"
-msgstr "Zbirka"
+msgstr ""
 
 #: templates/static_pages/storyline.html:22
 msgid "A philanthropic employer, Wedgwood was also an early support of"
 msgstr ""
 
 #: templates/static_pages/storyline.html:22
-#, fuzzy
 msgid "abolition"
-msgstr "Zbirka"
+msgstr ""
 
 #: templates/static_pages/storyline.html:22
-msgid ""
-"He was a founder member of the Society for the Abolition of the Slave Trade. "
-"His support was most memorably expressed in the cameos he produced in the "
-"1780s, showing a chained slave with the motto Am I not a Man and a Brother? "
-"Distributed in their thousands, these became the first protest fashion "
-"accessory."
+msgid "He was a founder member of the Society for the Abolition of the Slave Trade. His support was most memorably expressed in the cameos he produced in the 1780s, showing a chained slave with the motto Am I not a Man and a Brother? Distributed in their thousands, these became the first protest fashion accessory."
 msgstr ""
 
 #: templates/static_pages/storyline.html:23
 #: templates/static_pages/storyline.html:24
-#, fuzzy
 msgid "Migration"
-msgstr "Završite registraciju"
-
-#: templates/static_pages/storyline.html:24
-msgid ""
-"The anti-slavery campaigners succeeded in abolishing the slave trade in 1807 "
-"and in the following years it was outlawed in the colonies of western "
-"Europe. But the ideal of equality on which it was founded continued to "
-"inspire. Over a century on, it fuelled the political aspirations that drove "
-"the colonial independence movements."
 msgstr ""
 
 #: templates/static_pages/storyline.html:24
-msgid ""
-"from the former colonies in recent decades has pushed concern for equality "
-"of opportunity up the political agenda as Europe has become increasingly "
-"diverse."
+msgid "The anti-slavery campaigners succeeded in abolishing the slave trade in 1807 and in the following years it was outlawed in the colonies of western Europe. But the ideal of equality on which it was founded continued to inspire. Over a century on, it fuelled the political aspirations that drove the colonial independence movements."
+msgstr ""
+
+#: templates/static_pages/storyline.html:24
+msgid "from the former colonies in recent decades has pushed concern for equality of opportunity up the political agenda as Europe has become increasingly diverse."
 msgstr ""
 
 #: templates/static_pages/storyline.html:25
@@ -4722,9 +4030,7 @@ msgid "Bridgetower"
 msgstr ""
 
 #: templates/static_pages/storyline.html:26
-msgid ""
-"Talented Europeans of African descent were making their mark in the capitals "
-"of Europe even as the abolition movement was gathering supporters."
+msgid "Talented Europeans of African descent were making their mark in the capitals of Europe even as the abolition movement was gathering supporters."
 msgstr ""
 
 #: templates/static_pages/storyline.html:26
@@ -4736,12 +4042,7 @@ msgid "Prince Esterh&aacute;zy"
 msgstr ""
 
 #: templates/static_pages/storyline.html:26
-msgid ""
-"Joseph Haydn's Hungarian patron. He was a musical prodigy whose talent was "
-"quickly spotted, and he made his debut in Paris at the age of 9. One "
-"reviewer noted his talent is one of the best replies one can give to "
-"philosophers who wish to deprive people of his nation and his colour of the "
-"opportunity to distinguish themselves in the arts."
+msgid "Joseph Haydn's Hungarian patron. He was a musical prodigy whose talent was quickly spotted, and he made his debut in Paris at the age of 9. One reviewer noted his talent is one of the best replies one can give to philosophers who wish to deprive people of his nation and his colour of the opportunity to distinguish themselves in the arts."
 msgstr ""
 
 #: templates/static_pages/storyline.html:27
@@ -4757,10 +4058,7 @@ msgid "Beethoven's Kreutzer sonata (Op.47)"
 msgstr ""
 
 #: templates/static_pages/storyline.html:28
-msgid ""
-"He played the violin part, Beethoven the piano. So delighted was Beethoven "
-"with the performance that he initially dedicated the sonata to Bridgetower "
-"and gave him his tuning fork."
+msgid "He played the violin part, Beethoven the piano. So delighted was Beethoven with the performance that he initially dedicated the sonata to Bridgetower and gave him his tuning fork."
 msgstr ""
 
 #: templates/static_pages/storyline.html:29
@@ -4784,10 +4082,7 @@ msgid "Napoleon"
 msgstr ""
 
 #: templates/static_pages/storyline.html:29
-msgid ""
-"who he believed ushered in an age of democracy and republican ideals. When "
-"Napoleon fell short, Beethoven scratched the dedication from the manuscript "
-"so forcefully he tore a hole through the paper."
+msgid "who he believed ushered in an age of democracy and republican ideals. When Napoleon fell short, Beethoven scratched the dedication from the manuscript so forcefully he tore a hole through the paper."
 msgstr ""
 
 #: templates/static_pages/storyline.html:30
@@ -4795,9 +4090,7 @@ msgid "Rossini"
 msgstr ""
 
 #: templates/static_pages/storyline.html:31
-msgid ""
-"Beethoven's genius was felt across Europe and had a profound influence on "
-"the succeeding generation of composers, including"
+msgid "Beethoven's genius was felt across Europe and had a profound influence on the succeeding generation of composers, including"
 msgstr ""
 
 #: templates/static_pages/storyline.html:31
@@ -4805,16 +4098,11 @@ msgid "Gioachino Antonio Rossini"
 msgstr ""
 
 #: templates/static_pages/storyline.html:31
-msgid ""
-"Rossini travelled to Vienna in 1822, where he met the master. His reverence "
-"was such that he asked for Beethoven's Funeral March to be played at his "
-"burial in Paris."
+msgid "Rossini travelled to Vienna in 1822, where he met the master. His reverence was such that he asked for Beethoven's Funeral March to be played at his burial in Paris."
 msgstr ""
 
 #: templates/static_pages/storyline.html:32
-msgid ""
-"Rossini's popularity continued into the 20th century. The most famous diva "
-"of the time,"
+msgid "Rossini's popularity continued into the 20th century. The most famous diva of the time,"
 msgstr ""
 
 #: templates/static_pages/storyline.html:32
@@ -4822,9 +4110,7 @@ msgid "Maria Callas"
 msgstr ""
 
 #: templates/static_pages/storyline.html:32
-msgid ""
-"was one of his great interpreters; Una voce poco fa, Rosina's famous aria "
-"from"
+msgid "was one of his great interpreters; Una voce poco fa, Rosina's famous aria from"
 msgstr ""
 
 #: templates/static_pages/storyline.html:32
@@ -4832,9 +4118,7 @@ msgid "The Barber of Seville"
 msgstr ""
 
 #: templates/static_pages/storyline.html:32
-msgid ""
-"was a fixture in her concert repertoire. Rossini's speed for musical "
-"composition was legendary, particularly of"
+msgid "was a fixture in her concert repertoire. Rossini's speed for musical composition was legendary, particularly of"
 msgstr ""
 
 #: templates/static_pages/storyline.html:32
@@ -4846,9 +4130,7 @@ msgid "Magpies and mirrors"
 msgstr ""
 
 #: templates/static_pages/storyline.html:34
-msgid ""
-"The title refers to the magpie's eye for shining things; like Europeana, it "
-"gathers treasures."
+msgid "The title refers to the magpie's eye for shining things; like Europeana, it gathers treasures."
 msgstr ""
 
 #: templates/static_pages/storyline.html:34
@@ -4856,12 +4138,7 @@ msgid "The magpie"
 msgstr ""
 
 #: templates/static_pages/storyline.html:34
-msgid ""
-"is also believed to be the only non-mammal that can recognise its reflection "
-"in a mirror; which brings us back to Descartes' interest in reflection and "
-"refraction. Artists through the ages have similarly been fascinated with the "
-"properties of light and perception as depicted in the vivid translucency of "
-"Renaissance and Baroque portraits; the perspective of"
+msgid "is also believed to be the only non-mammal that can recognise its reflection in a mirror; which brings us back to Descartes' interest in reflection and refraction. Artists through the ages have similarly been fascinated with the properties of light and perception as depicted in the vivid translucency of Renaissance and Baroque portraits; the perspective of"
 msgstr ""
 
 #: templates/static_pages/storyline.html:34
@@ -4869,17 +4146,11 @@ msgid "Johannes Vermeer"
 msgstr ""
 
 #: templates/static_pages/storyline.html:34
-msgid ""
-"enthralled by the discoveries of the Scientific revolution; the technical "
-"virtuosity of 19th century Pointillists which led onto 20th century Cubism, "
-"where both objects and space merge."
+msgid "enthralled by the discoveries of the Scientific revolution; the technical virtuosity of 19th century Pointillists which led onto 20th century Cubism, where both objects and space merge."
 msgstr ""
 
 #: templates/static_pages/storyline.html:35
-msgid ""
-"Most of all, the eyes, the faces, the ideas from the past invite us to think "
-"again: to take inspiration, to make new connections and to share new "
-"discoveries."
+msgid "Most of all, the eyes, the faces, the ideas from the past invite us to think again: to take inspiration, to make new connections and to share new discoveries."
 msgstr ""
 
 #: templates/static_pages/storyline.html:36
@@ -4887,17 +4158,12 @@ msgid "Credits: the music, the images and where they came from"
 msgstr ""
 
 #: templates/static_pages/storyline.html:38
-msgid ""
-"We are very grateful to all those who helped make the video, especially its "
-"creators"
-msgstr ""
-"Zahvaljujemo svima koji su pomogli napraviti video, pogotovo njegovim "
-"tvorcima"
+msgid "We are very grateful to all those who helped make the video, especially its creators"
+msgstr "Zahvaljujemo svima koji su pomogli napraviti video, pogotovo njegovim tvorcima"
 
 #: templates/static_pages/storyline.html:40
 msgid ""
-"Many of our partners gave us permission to use their images in the video. "
-"Thanks to our colleagues in the\n"
+"Many of our partners gave us permission to use their images in the video. Thanks to our colleagues in the\n"
 "    organisations listed below."
 msgstr ""
 
@@ -4924,12 +4190,8 @@ msgid "Link"
 msgstr "Link"
 
 #: templates/static_pages/usingeuropeana.html:11
-msgid ""
-"Welcome to Europeana. This page describes some of the things that you can do "
-"while you are here. Learn more about"
-msgstr ""
-"Dobrodošli na Europeana. Ova stranica opisuje neke od stvari koje možete "
-"raditi dok ste ovdje. Saznajte više o"
+msgid "Welcome to Europeana. This page describes some of the things that you can do while you are here. Learn more about"
+msgstr "Dobrodošli na Europeana. Ova stranica opisuje neke od stvari koje možete raditi dok ste ovdje. Saznajte više o"
 
 #: templates/static_pages/usingeuropeana.html:14
 msgid "Search tips"
@@ -5019,18 +4281,11 @@ msgid "Europeana - Exploring Europeana"
 msgstr "Europeana - Pregledanje Europeana"
 
 #: templates/static_pages/usingeuropeana_explore.html:11
-msgid ""
-"In addition to the search and filter options, Europeana offers alternative "
-"ways to explore and navigate through our millions of objects. You can "
-"discover Europe's rich heritage by browsing"
+msgid "In addition to the search and filter options, Europeana offers alternative ways to explore and navigate through our millions of objects. You can discover Europe's rich heritage by browsing"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_explore.html:14
-msgid ""
-"Our virtual exhibitions help you discover and learn more about specific "
-"themes, e.g. Art Nouveau or musical instruments. With extensive curatorial "
-"information that guides you through the themes, the virtual exhibitions can "
-"be found by choosing the"
+msgid "Our virtual exhibitions help you discover and learn more about specific themes, e.g. Art Nouveau or musical instruments. With extensive curatorial information that guides you through the themes, the virtual exhibitions can be found by choosing the"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_explore.html:14
@@ -5038,9 +4293,7 @@ msgid "link at the foot of the page."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_explore.html:15
-msgid ""
-"See the latest contributions from our partner museums, libraries, archives "
-"and audiovisual archives by choosing"
+msgid "See the latest contributions from our partner museums, libraries, archives and audiovisual archives by choosing"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_explore.html:15
@@ -5068,21 +4321,15 @@ msgid "Register for"
 msgstr "Prijavite se za"
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:11
-#, fuzzy
 msgid "and you can"
-msgstr "i možete:"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:14
-msgid ""
-"Keep up to date on a particular topic in Europeana by saving a search, so "
-"you can easily perform it again in future."
+msgid "Keep up to date on a particular topic in Europeana by saving a search, so you can easily perform it again in future."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:15
-msgid ""
-"Label your favourite items in Europeana with tags that mean something to "
-"you. You can then see all objects you have tagged, sorted by the keywords "
-"you have chosen, in the My Europeana interface."
+msgid "Label your favourite items in Europeana with tags that mean something to you. You can then see all objects you have tagged, sorted by the keywords you have chosen, in the My Europeana interface."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:16
@@ -5090,9 +4337,7 @@ msgid "Store your favourite items for later viewing."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:17
-msgid ""
-"If you are a developer who has registered for one or more API keys, these "
-"will be shown on the API Keys tab."
+msgid "If you are a developer who has registered for one or more API keys, these will be shown on the API Keys tab."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:20
@@ -5116,9 +4361,7 @@ msgid "Europeana - Results in Europeana"
 msgstr "Europeana - Rezultati u Europeani"
 
 #: templates/static_pages/usingeuropeana_results.html:11
-msgid ""
-"Europeana divides search results into 5 main categories: text, images, "
-"video, sound and 3D objects."
+msgid "Europeana divides search results into 5 main categories: text, images, video, sound and 3D objects."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:12
@@ -5126,17 +4369,11 @@ msgid "The types of items included in each section are:"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:15
-msgid ""
-"books, letters, archival papers, dissertations, poems, newspaper articles, "
-"facsimiles, manuscripts and music scores."
-msgstr ""
-"knjige, pisma, arhivski radovi, disertacije, pjesme, novinski članci, "
-"faksimila, rukopisi i glazbene partiture."
+msgid "books, letters, archival papers, dissertations, poems, newspaper articles, facsimiles, manuscripts and music scores."
+msgstr "knjige, pisma, arhivski radovi, disertacije, pjesme, novinski članci, faksimila, rukopisi i glazbene partiture."
 
 #: templates/static_pages/usingeuropeana_results.html:16
-msgid ""
-"paintings, drawings, prints, photographs, pictures of museum objects, maps, "
-"graphic designs, plans and musical notation."
+msgid "paintings, drawings, prints, photographs, pictures of museum objects, maps, graphic designs, plans and musical notation."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:17
@@ -5144,20 +4381,15 @@ msgid "films, news broadcasts and television programmes"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:18
-msgid ""
-"music and spoken word from cylinders, tapes, discs and radio broadcasts."
-msgstr ""
-"glazba i izgovorena riječ iz cilindara, kazete, DVD i radijske emisije."
+msgid "music and spoken word from cylinders, tapes, discs and radio broadcasts."
+msgstr "glazba i izgovorena riječ iz cilindara, kazete, DVD i radijske emisije."
 
 #: templates/static_pages/usingeuropeana_results.html:19
 msgid "virtual 3D representations of objects, architecture or places."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:22
-msgid ""
-"You can also sort search results by media type, language, date, country, "
-"copyright, or provider using the Refine your search pane of the results "
-"screen. See"
+msgid "You can also sort search results by media type, language, date, country, copyright, or provider using the Refine your search pane of the results screen. See"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:22
@@ -5165,9 +4397,7 @@ msgid "for more details."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:24
-msgid ""
-"Search results are presented in a grid. You can select how many results to "
-"show on a page by selecting an option from the"
+msgid "Search results are presented in a grid. You can select how many results to show on a page by selecting an option from the"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:24
@@ -5175,9 +4405,7 @@ msgid "drop-down list either above or below the results. You can select"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:25
-msgid ""
-"To navigate through the results pages, select the single arrows that are "
-"shown both above and below the results grid. Hit"
+msgid "To navigate through the results pages, select the single arrows that are shown both above and below the results grid. Hit"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:25
@@ -5185,9 +4413,7 @@ msgid "to move one page in either direction, or hit the double arrows"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:25
-msgid ""
-"to move to the last/first pages. Alternatively, type in the page number of "
-"the page you'd like to view."
+msgid "to move to the last/first pages. Alternatively, type in the page number of the page you'd like to view."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:26
@@ -5203,9 +4429,7 @@ msgid "Individual items"
 msgstr "Pojedinačne stavke"
 
 #: templates/static_pages/usingeuropeana_results.html:30
-msgid ""
-"After performing your search, select the item you want to view to find out "
-"more about it."
+msgid "After performing your search, select the item you want to view to find out more about it."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:31
@@ -5221,17 +4445,11 @@ msgid "hit the magnifying glass"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:34
-msgid ""
-"link at the bottom of the thumbnail to see a bigger image and additional "
-"information in a new window. To close that window, hit X at the top right."
+msgid "link at the bottom of the thumbnail to see a bigger image and additional information in a new window. To close that window, hit X at the top right."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:35
-msgid ""
-"If there are multiple images of the same object, e.g. pages of a book or "
-"different views of an object, a carousel of images is displayed under the "
-"main thumbnail. You can select items in the carousel or the left and right "
-"arrows on the main thumbnail to browse the images."
+msgid "If there are multiple images of the same object, e.g. pages of a book or different views of an object, a carousel of images is displayed under the main thumbnail. You can select items in the carousel or the left and right arrows on the main thumbnail to browse the images."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:37
@@ -5239,13 +4457,7 @@ msgid "Rights and licensing"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:37
-msgid ""
-"below each preview image you will find the rights statement indicating the "
-"terms on which you may re-use the digital object, including the preview. "
-"There are currently 12 rights statements describing the different terms on "
-"which re-use is permitted. Clicking on the rights statement will open a new "
-"window with a full description of the terms or, in the case of a Creative "
-"Commons licence, a link to the licence itself."
+msgid "below each preview image you will find the rights statement indicating the terms on which you may re-use the digital object, including the preview. There are currently 12 rights statements describing the different terms on which re-use is permitted. Clicking on the rights statement will open a new window with a full description of the terms or, in the case of a Creative Commons licence, a link to the licence itself."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:39
@@ -5253,10 +4465,7 @@ msgid "View item at"
 msgstr "Pogledajte stavku na"
 
 #: templates/static_pages/usingeuropeana_results.html:39
-msgid ""
-"view the item on the item provider's own website. This is useful, for "
-"example, to find additional information and larger images, or to view an "
-"item in its fullest form, e.g. a whole book or video."
+msgid "view the item on the item provider's own website. This is useful, for example, to find additional information and larger images, or to view an item in its fullest form, e.g. a whole book or video."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:40
@@ -5264,43 +4473,27 @@ msgid "Share item"
 msgstr "Podijeli predmet"
 
 #: templates/static_pages/usingeuropeana_results.html:40
-msgid ""
-"share the item via a range of social media, or to print or email it. Just "
-"select the option you want."
+msgid "share the item via a range of social media, or to print or email it. Just select the option you want."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:41
-msgid ""
-"this function will help you link to Europeana items and cite them in "
-"Wikipedia articles. The code you need is formatted for direct inclusion in "
-"Wikipedia's article authoring mode. Select"
+msgid "this function will help you link to Europeana items and cite them in Wikipedia articles. The code you need is formatted for direct inclusion in Wikipedia's article authoring mode. Select"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:41
-msgid ""
-"and copy and paste the text provided. To close the citation window, hit the "
-"X in the top right corner."
+msgid "and copy and paste the text provided. To close the citation window, hit the X in the top right corner."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:42
-msgid ""
-"select an option from the drop-down list of languages. Please note this is a "
-"machine translation."
+msgid "select an option from the drop-down list of languages. Please note this is a machine translation."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:45
-msgid ""
-"The main area of the item page gives you more information about the item. "
-"The amount and type of information will vary but may contain the item's name "
-"and description along with other information including places, dates, "
-"formats, and providers."
+msgid "The main area of the item page gives you more information about the item. The amount and type of information will vary but may contain the item's name and description along with other information including places, dates, formats, and providers."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:47
-msgid ""
-"This information may contain links to further details. Select these to find "
-"the item in an external service, e.g. the data provider's own website, or to "
-"search Europeana for the highlighted term."
+msgid "This information may contain links to further details. Select these to find the item in an external service, e.g. the data provider's own website, or to search Europeana for the highlighted term."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:49
@@ -5320,9 +4513,7 @@ msgid "Similar content"
 msgstr "Sličan sadržaj"
 
 #: templates/static_pages/usingeuropeana_results.html:51
-msgid ""
-"of up to 10 items related to the one you are viewing. Select an image to "
-"view more details."
+msgid "of up to 10 items related to the one you are viewing. Select an image to view more details."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:53
@@ -5334,11 +4525,7 @@ msgid "Search also for"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:53
-msgid ""
-"pane. This provides links to other searches for items with, for example, the "
-"same title, author, format or are from the same provider. A number in "
-"brackets, e.g. (33) shows the number of results each of these searches "
-"returns. Simply hit the link to perform the search."
+msgid "pane. This provides links to other searches for items with, for example, the same title, author, format or are from the same provider. A number in brackets, e.g. (33) shows the number of results each of these searches returns. Simply hit the link to perform the search."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:3
@@ -5346,18 +4533,11 @@ msgid "Europeana - Searching Europeana"
 msgstr "Europeana - Pretraživanje Europeana"
 
 #: templates/static_pages/usingeuropeana_search.html:11
-#, fuzzy
-msgid ""
-"Welcome to Europeana. This page describes some of the things that you can do "
-"while you are here. Learn more about:"
+msgid "Welcome to Europeana. This page describes some of the things that you can do while you are here. Learn more about:"
 msgstr ""
-"Dobrodošli na Europeana. Ova stranica opisuje neke od stvari koje možete "
-"raditi dok ste ovdje. Saznajte više o"
 
 #: templates/static_pages/usingeuropeana_search.html:13
-msgid ""
-"Search tips, refined search, phrase search, exclude words, auto-completion, "
-"filter results, share your search."
+msgid "Search tips, refined search, phrase search, exclude words, auto-completion, filter results, share your search."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:14
@@ -5365,10 +4545,7 @@ msgid "exhibitions, new content."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:15
-msgid ""
-"Seeing further details, rights and licence information, translating details, "
-"searching on external services, related searches on Europeana, viewing item "
-"on provider's site, embedding, and citing."
+msgid "Seeing further details, rights and licence information, translating details, searching on external services, related searches on Europeana, viewing item on provider's site, embedding, and citing."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:16
@@ -5380,24 +4557,20 @@ msgid "General Search"
 msgstr "Općenito pretraživanje"
 
 #: templates/static_pages/usingeuropeana_search.html:21
-msgid ""
-"Searching the millions of items in Europeana is simple. Just enter your "
-"search term and hit"
+msgid "Searching the millions of items in Europeana is simple. Just enter your search term and hit"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:23
-#, fuzzy
 msgid "Specific search"
-msgstr "Napredno pretraživanje"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:25
 msgid "You can narrow your search with the arrow to the right of"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:25
-#, fuzzy
 msgid "Search All fields"
-msgstr "Ustanove"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:25
 msgid "and selecting a category"
@@ -5408,15 +4581,11 @@ msgid "Titles, Creators, Subjects, Dates/Periods, Places"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:25
-#, fuzzy
 msgid "Then enter your search term and hit"
-msgstr "Filtriraj pretraživanje"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:27
-msgid ""
-"Alternatively, just ask yourself who, what, where or when you are interested "
-"in and type these words into Europeana's search box followed by a colon (:). "
-"Then enter your search term and hit"
+msgid "Alternatively, just ask yourself who, what, where or when you are interested in and type these words into Europeana's search box followed by a colon (:). Then enter your search term and hit"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:29
@@ -5427,37 +4596,26 @@ msgstr ""
 #: templates/static_pages/usingeuropeana_search.html:32
 #: templates/static_pages/usingeuropeana_search.html:33
 #: templates/static_pages/usingeuropeana_search.html:34
-#, fuzzy
 msgid "Use the"
-msgstr "na"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:31
 #: templates/static_pages/usingeuropeana_search.html:32
 #: templates/static_pages/usingeuropeana_search.html:33
 #: templates/static_pages/usingeuropeana_search.html:34
-#, fuzzy
 msgid "filter or enter"
-msgstr "Filtriraj pretraživanje"
-
-#: templates/static_pages/usingeuropeana_search.html:31
-msgid ""
-"followed by a name of, for example, an actor, author or architect. Your "
-"results will display only items for which the name you entered is listed as "
-"the creator. For example, searching for"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:31
-msgid ""
-"will narrow your results to van Gogh's works, excluding photographs of the "
-"artist or documentaries about him and his work."
+msgid "followed by a name of, for example, an actor, author or architect. Your results will display only items for which the name you entered is listed as the creator. For example, searching for"
+msgstr ""
+
+#: templates/static_pages/usingeuropeana_search.html:31
+msgid "will narrow your results to van Gogh's works, excluding photographs of the artist or documentaries about him and his work."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:32
-msgid ""
-"followed by a type of item, a subject you are interested in or words from "
-"the title of the item you are looking for. Your search results will display "
-"only items of the requested type or subject or items whose title includes "
-"your search term. For example, searching for"
+msgid "followed by a type of item, a subject you are interested in or words from the title of the item you are looking for. Your search results will display only items of the requested type or subject or items whose title includes your search term. For example, searching for"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:32
@@ -5465,8 +4623,7 @@ msgid "will narrow your results to maps, or"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:32
-msgid ""
-"will display artworks, buildings and monuments done in the Art Nouveau style."
+msgid "will display artworks, buildings and monuments done in the Art Nouveau style."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:33
@@ -5474,44 +4631,27 @@ msgid "Place"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:33
-msgid ""
-"followed by a name of a town, city or country within Europe or around the "
-"world. Your search results will display only items which were created in, "
-"published in or depict the place you are searching for. For example, "
-"searching for"
+msgid "followed by a name of a town, city or country within Europe or around the world. Your search results will display only items which were created in, published in or depict the place you are searching for. For example, searching for"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:33
-msgid ""
-"will help you differentiate your search when you are looking only for "
-"objects created or held in Milan, excluding items on writer Milan Kundera "
-"from your search results."
+msgid "will help you differentiate your search when you are looking only for objects created or held in Milan, excluding items on writer Milan Kundera from your search results."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:34
-msgid ""
-"followed by a date (e.g. 1945) or a period (e.g. Roman or Medieval). Your "
-"search results will display only items for which the date is listed in the "
-"item's date field. For example, searching for"
+msgid "followed by a date (e.g. 1945) or a period (e.g. Roman or Medieval). Your search results will display only items for which the date is listed in the item's date field. For example, searching for"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:34
-msgid ""
-"will help you differentiate your search when you are looking only for items "
-"dated 1984, excluding items that have 1984 in their title or description, "
-"like George Orwell's novel."
+msgid "will help you differentiate your search when you are looking only for items dated 1984, excluding items that have 1984 in their title or description, like George Orwell's novel."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:37
-msgid ""
-"These search functions also have support for different spellings and "
-"languages. For example, when you search for"
+msgid "These search functions also have support for different spellings and languages. For example, when you search for"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:37
-msgid ""
-"the results will also include items with Milano, Mailand or Milanas listed "
-"as their geographic coverage."
+msgid "the results will also include items with Milano, Mailand or Milanas listed as their geographic coverage."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:41
@@ -5535,9 +4675,8 @@ msgid "between the keywords (e.g."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:43
-#, fuzzy
 msgid "by typing"
-msgstr "Vrsta"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:43
 msgid "in capital letters, followed by the word you want to omit (e.g."
@@ -5552,27 +4691,20 @@ msgid "Auto completion"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:45
-msgid ""
-"Start typing a search term. Europeana will suggest words that may match what "
-"you are thinking of. Just select the term you want and hit"
+msgid "Start typing a search term. Europeana will suggest words that may match what you are thinking of. Just select the term you want and hit"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:47
 #: templates/static_pages/usingeuropeana_search.html:49
-#, fuzzy
 msgid "Refine your search"
-msgstr "Filtriraj pretraživanje"
-
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid ""
-"Once you have done an initial search, results can be narrowed down with the"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:49
-msgid ""
-"functions. These are in the grey pane on the search results screen. You can "
-"add more keywords to your search, thereby narrowing the search results. Just "
-"type your keyword into the"
+msgid "Once you have done an initial search, results can be narrowed down with the"
+msgstr ""
+
+#: templates/static_pages/usingeuropeana_search.html:49
+msgid "functions. These are in the grey pane on the search results screen. You can add more keywords to your search, thereby narrowing the search results. Just type your keyword into the"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:49
@@ -5600,14 +4732,11 @@ msgid "You can also"
 msgstr "Možete također"
 
 #: templates/static_pages/usingeuropeana_search.html:53
-#, fuzzy
 msgid "filter your search results:"
-msgstr "Filtriraj pretraživanje"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:55
-msgid ""
-"will display only objects of a selected media type (images, text, video, "
-"sound or 3D). "
+msgid "will display only objects of a selected media type (images, text, video, sound or 3D). "
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:56
@@ -5615,9 +4744,7 @@ msgid "By language"
 msgstr "Jezik"
 
 #: templates/static_pages/usingeuropeana_search.html:56
-msgid ""
-"will display only objects with descriptions in selected languages, i.e. the "
-"language of the institution that provided the object to Europeana."
+msgid "will display only objects with descriptions in selected languages, i.e. the language of the institution that provided the object to Europeana."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:57
@@ -5633,16 +4760,11 @@ msgid "By country"
 msgstr "Država"
 
 #: templates/static_pages/usingeuropeana_search.html:58
-msgid ""
-"will display only objects from selected countries, i.e. the country of the "
-"institution that provided the object to Europeana."
+msgid "will display only objects from selected countries, i.e. the country of the institution that provided the object to Europeana."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:59
-msgid ""
-"will display objects labelled with the selected copyright label(s). This "
-"copyright label indicates how you may reuse the digital object, including "
-"the preview."
+msgid "will display objects labelled with the selected copyright label(s). This copyright label indicates how you may reuse the digital object, including the preview."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:60
@@ -5650,10 +4772,7 @@ msgid "will display only objects from selected institutions"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:63
-msgid ""
-"Select the filter name, e.g. 'By language' to expand it. Then just use the "
-"check boxes for the categories you wish the search results to include. The "
-"results will refresh automatically. The filter will be added to the"
+msgid "Select the filter name, e.g. 'By language' to expand it. Then just use the check boxes for the categories you wish the search results to include. The results will refresh automatically. The filter will be added to the"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:63
@@ -5669,15 +4788,11 @@ msgid "list, or de-select the check box next to the filter category."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:67
-#, fuzzy
 msgid "You can also select to"
-msgstr "Možete također"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:67
-msgid ""
-"This means items that have not come from a cultural institution but from an "
-"individual user, for example, items contributed to the Europeana 1914-1918 "
-"project."
+msgid "This means items that have not come from a cultural institution but from an individual user, for example, items contributed to the Europeana 1914-1918 project."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:69
@@ -5685,15 +4800,12 @@ msgid "Share your search with friends by choosing"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:69
-msgid ""
-"A full list of social media sharing options is presented. Just select one "
-"you want. This also includes print and email options."
+msgid "A full list of social media sharing options is presented. Just select one you want. This also includes print and email options."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:3
-#, fuzzy
 msgid "Europeana - How to configure your search widget"
-msgstr "Filtriraj pretraživanje"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:10
 msgid "You can add a Europeana search facility to your blog or website."
@@ -5704,58 +4816,43 @@ msgid "Our simple wizard"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:10
-msgid ""
-"takes you through the process step-by-step and gives you a snippet of code "
-"to embed."
+msgid "takes you through the process step-by-step and gives you a snippet of code to embed."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:11
-msgid ""
-"Configure the widget to search all collections and data providers within "
-"Europeana, or refine it to suit your website, e.g. to search only within "
-"Public Domain or Creative Commons, or only licensed images from a specific "
-"country."
+msgid "Configure the widget to search all collections and data providers within Europeana, or refine it to suit your website, e.g. to search only within Public Domain or Creative Commons, or only licensed images from a specific country."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:12
-#, fuzzy
 msgid "The Europeana Search Widget works with..."
-msgstr "Možete prijaviti se za Europeana e-vijesti "
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:13
 msgid "Sites that you host yourself."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:18
-#, fuzzy
 msgid "The Europeana Search Widget doesn't work with..."
-msgstr "Možete prijaviti se za Europeana e-vijesti "
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:19
 msgid "Blogs hosted on Wordpress.com"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:20
-#, fuzzy
 msgid "Set up your Europeana Search Widget:"
-msgstr "Možete prijaviti se za Europeana e-vijesti "
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:22
-#, fuzzy
 msgid "Go to the search widget page."
-msgstr "Filtriraj pretraživanje"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:23
-#, fuzzy
 msgid "Introduction tab"
-msgstr "Uvod"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:23
-msgid ""
-"The Europeana Search widget is presented. A progress bar shows you how far "
-"you are through the process and a video takes you through the process step "
-"by step. To start configuring your widget, tap 'Next' or the 'Filter' tab "
-"heading."
+msgid "The Europeana Search widget is presented. A progress bar shows you how far you are through the process and a video takes you through the process step by step. To start configuring your widget, tap 'Next' or the 'Filter' tab heading."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:24
@@ -5763,155 +4860,91 @@ msgid "Filter tab"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:24
-msgid ""
-"If you want your widget to include the entire Europeana dataset, you can go "
-"straight to the 'Style' tab. Tap 'Next' or the 'Style' tab heading."
+msgid "If you want your widget to include the entire Europeana dataset, you can go straight to the 'Style' tab. Tap 'Next' or the 'Style' tab heading."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:25
-#, fuzzy
 msgid "To tailor your search widget"
-msgstr "Filtriraj pretraživanje"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:27
-#, fuzzy
 msgid "Keyword search"
-msgstr "Filtriraj pretraživanje"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:27
-msgid ""
-"By default, the widget searches the entire Europeana dataset. You can "
-"restrict the search to a key word or phrase. To do this, enter the key word"
-"(s) in the 'Search for' field. For example, if you are adding a widget to "
-"your First World War blog about military uniform, you might type 'uniform'."
+msgid "By default, the widget searches the entire Europeana dataset. You can restrict the search to a key word or phrase. To do this, enter the key word(s) in the 'Search for' field. For example, if you are adding a widget to your First World War blog about military uniform, you might type 'uniform'."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:28
-msgid ""
-"All the normal search functions work in this field, for example, use double "
-"quotes for a phrase, e.g. &quot;military uniform&quot;, use 'AND' to include "
-"searches on two words or 'NOT' to hide results for a particular word, e.g. "
-"'uniform AND war' or 'uniform NOT school'."
+msgid "All the normal search functions work in this field, for example, use double quotes for a phrase, e.g. &quot;military uniform&quot;, use 'AND' to include searches on two words or 'NOT' to hide results for a particular word, e.g. 'uniform AND war' or 'uniform NOT school'."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:29
-#, fuzzy
 msgid "Search on types"
-msgstr "Pretraživanje"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:29
-msgid ""
-"By default, the widget will search the entire Europeana dataset for your key "
-"words. You can restrict the search to 'Titles', 'Creators', 'Subjects', "
-"'Times/Periods', or 'Places'.  For example, you may wish to look only for "
-"results to do with 'Paris'. In which case, you would enter 'Paris' as a key "
-"word and 'Places' as a type. Tap 'Change' next to 'All Fields' and select "
-"the option you need."
+msgid "By default, the widget will search the entire Europeana dataset for your key words. You can restrict the search to 'Titles', 'Creators', 'Subjects', 'Times/Periods', or 'Places'.  For example, you may wish to look only for results to do with 'Paris'. In which case, you would enter 'Paris' as a key word and 'Places' as a type. Tap 'Change' next to 'All Fields' and select the option you need."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:30
-msgid ""
-"By default, the widget returns results from all of Europeana's providers. "
-"You can restrict it to your chosen providers.  Tap 'Change' next to 'All  "
-"Providers' and select the providers you need. You can search for a provider "
-"using the search field above the list.  The providers are presented in order "
-"of the size of their contributions to Europeana. The number in brackets "
-"shows how many items from that provider are available. If the name of the "
-"provider is followed by an arrow, then they are a data aggregator, tap the "
-"arrow to see the institutions included in their collection. Note: you can "
-"select more than one."
+msgid "By default, the widget returns results from all of Europeana's providers. You can restrict it to your chosen providers.  Tap 'Change' next to 'All  Providers' and select the providers you need. You can search for a provider using the search field above the list.  The providers are presented in order of the size of their contributions to Europeana. The number in brackets shows how many items from that provider are available. If the name of the provider is followed by an arrow, then they are a data aggregator, tap the arrow to see the institutions included in their collection. Note: you can select more than one."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:31
-#, fuzzy
 msgid "Countries"
-msgstr "Država"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:31
-msgid ""
-"By default, the widget returns results from all countries. You can restrict "
-"it to your chosen countries. Tap 'Change' next to 'All Providing Countries' "
-"and select the countries you need. The countries are presented in order of "
-"the size of their contributions to Europeana. The number in brackets shows "
-"how many items from that country are available. Note: you can select more "
-"than one. To clear your selection and start again, tap 'Clear'."
+msgid "By default, the widget returns results from all countries. You can restrict it to your chosen countries. Tap 'Change' next to 'All Providing Countries' and select the countries you need. The countries are presented in order of the size of their contributions to Europeana. The number in brackets shows how many items from that country are available. Note: you can select more than one. To clear your selection and start again, tap 'Clear'."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:32
-#, fuzzy
 msgid "Media types"
-msgstr "Vrsta"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:32
-msgid ""
-"By default, the widget returns results of all media types - image, text, "
-"sound, video and 3D. You can restrict it to only the media types you're "
-"interested in. Tap 'Change' next to 'All Media Types' and select the types "
-"you need. The media types are presented in order of size. The number in "
-"brackets shows how many items of that media type are available. Note: you "
-"can select more than one.  To clear your selection and start again, tap "
-"'Clear'."
+msgid "By default, the widget returns results of all media types - image, text, sound, video and 3D. You can restrict it to only the media types you're interested in. Tap 'Change' next to 'All Media Types' and select the types you need. The media types are presented in order of size. The number in brackets shows how many items of that media type are available. Note: you can select more than one.  To clear your selection and start again, tap 'Clear'."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:33
-#, fuzzy
 msgid "Copyright"
-msgstr "Ostala prava"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:33
-msgid ""
-"By default, the widget returns results with any copyright status. You can "
-"restrict this, for example, to only show re-usable content. Tap 'Change' "
-"next to 'All Copyrights' and select the statuses you need. The copyright "
-"statuses are presented in order of size. The number in brackets shows how "
-"many items of that status are available. Note: you can select more than one. "
-"To clear your selection and start again, tap 'Clear'."
+msgid "By default, the widget returns results with any copyright status. You can restrict this, for example, to only show re-usable content. Tap 'Change' next to 'All Copyrights' and select the statuses you need. The copyright statuses are presented in order of size. The number in brackets shows how many items of that status are available. Note: you can select more than one. To clear your selection and start again, tap 'Clear'."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:34
-#, fuzzy
 msgid "More information on the CC licenses"
-msgstr "Europeana - Prava zadržana - Plaćeni pristup"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:35
-#, fuzzy
 msgid "More information on the Rights Reserved - Free Access label"
-msgstr "Europeana - Prava zadržana - Slobodan pristup"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:36
-#, fuzzy
 msgid "More information on the Rights Reserved - Restricted Access label"
-msgstr "Europeana - Prava zadržana - Ograničen pristup"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:37
-#, fuzzy
 msgid "More information on the Rights Reserved - Paid Access label"
-msgstr "Europeana - Prava zadržana - Plaćeni pristup"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:38
-#, fuzzy
 msgid "More information on the Unknown rights label"
-msgstr "Europeana - Prava zadržana - Slobodan pristup"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:39
-#, fuzzy
 msgid "Languages"
-msgstr "Jezik"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:39
-msgid ""
-"By default, the widget returns results in all languages. You can restrict it "
-"to your chosen languages. Tap 'Change' next to 'All Languages' and select "
-"the languages you need. The languages are presented in order of the size of "
-"their representation in Europeana. The number in brackets shows how many "
-"items of each language are available. Note: you can select more than one. To "
-"clear your selection and start again, tap 'Clear'."
+msgid "By default, the widget returns results in all languages. You can restrict it to your chosen languages. Tap 'Change' next to 'All Languages' and select the languages you need. The languages are presented in order of the size of their representation in Europeana. The number in brackets shows how many items of each language are available. Note: you can select more than one. To clear your selection and start again, tap 'Clear'."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:40
-msgid ""
-"When you have selected all your filters, tap 'Next' or the 'Style' tab "
-"heading."
+msgid "When you have selected all your filters, tap 'Next' or the 'Style' tab heading."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:42
@@ -5919,9 +4952,7 @@ msgid "Style tab"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:42
-msgid ""
-"You can choose a black or white widget and select to include thumbnails or "
-"not. Select the style you would like to use."
+msgid "You can choose a black or white widget and select to include thumbnails or not. Select the style you would like to use."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:43
@@ -5929,66 +4960,45 @@ msgid "Tap 'Next' or the 'Preview' tab heading."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:44
-#, fuzzy
 msgid "Preview tab"
-msgstr "Pregled"
+msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:44
-msgid ""
-"Your widget will be displayed. Please note that the widget is responsive and "
-"so expands to fit the width of its container. For this reason, it may be a "
-"different size on the preview than it will be on your own web page."
+msgid "Your widget will be displayed. Please note that the widget is responsive and so expands to fit the width of its container. For this reason, it may be a different size on the preview than it will be on your own web page."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:46
-msgid ""
-"If you wish to amend the widget's properties, just go back to the 'Search', "
-"'Filter' or 'Style' tab and make your changes."
+msgid "If you wish to amend the widget's properties, just go back to the 'Search', 'Filter' or 'Style' tab and make your changes."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:47
-msgid ""
-"If you are happy with your widget, simply copy the 'Embed' code displayed "
-"and paste this into your web page."
+msgid "If you are happy with your widget, simply copy the 'Embed' code displayed and paste this into your web page."
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:48
-msgid ""
-"We would love to know how you are using this search widget, please tell us "
-"by dropping us an email at"
+msgid "We would love to know how you are using this search widget, please tell us by dropping us an email at"
 msgstr ""
 
-#, fuzzy
 #~ msgid "contact.html"
 #~ msgstr "Kontakt"
 
-#, fuzzy
 #~ msgid "api-introduction.html"
 #~ msgstr "Uvod"
 
-#, fuzzy
 #~ msgid "Europeana Open Culture App"
 #~ msgstr "razmislite o kulturi"
 
-#, fuzzy
 #~ msgid "Learn more"
 #~ msgstr "Vidi više"
 
-#, fuzzy
 #~ msgid "Rights Reserved - Free access"
 #~ msgstr "Prava zadržana - Slobodan pristup"
 
-#, fuzzy
 #~ msgid "Rights Reserved - Paid access"
 #~ msgstr "Prava zadržana - Plaćeni pristup"
 
-#, fuzzy
-#~ msgid ""
-#~ "Explore more than 30 million items from a range of Europe's leading "
-#~ "galleries, libraries, archives and museums."
-#~ msgstr ""
-#~ "Slike, glazba, filmovi i knjige iz europskih galerija, knjižnica, arhiva "
-#~ "i muzeja."
+#~ msgid "Explore more than 30 million items from a range of Europe's leading galleries, libraries, archives and museums."
+#~ msgstr "Slike, glazba, filmovi i knjige iz europskih galerija, knjižnica, arhiva i muzeja."
 
 #~ msgid "What's new"
 #~ msgstr "Što je novo"
@@ -6011,12 +5021,8 @@ msgstr ""
 #~ msgid "Europeana - eNews"
 #~ msgstr "Europeana - e-vijesti"
 
-#~ msgid ""
-#~ "Europeana produces a newsletter in English and releases important "
-#~ "information on Europeana's development from time to time."
-#~ msgstr ""
-#~ "Europeana izrađuje newsletter u engleskom gdje oslobađa važne informacije "
-#~ "o razvoju portala."
+#~ msgid "Europeana produces a newsletter in English and releases important information on Europeana's development from time to time."
+#~ msgstr "Europeana izrađuje newsletter u engleskom gdje oslobađa važne informacije o razvoju portala."
 
 #~ msgid "Read Europeana eNews and learn about..."
 #~ msgstr "Čitajte Europeana e-vijesti i naučite o ..."
@@ -6042,14 +5048,8 @@ msgstr ""
 #~ msgid "What is Europeana?"
 #~ msgstr "Što je Europeana?"
 
-#~ msgid ""
-#~ "Europeana is an Internet portal that acts as an interface to millions of "
-#~ "books, paintings, films, museum objects and archival records that have "
-#~ "been digitised throughout Europe."
-#~ msgstr ""
-#~ "Europeana je internetski portal koji djeluje kao sučelje za milijune "
-#~ "knjiga, slika, filmova, muzejskih predmeta i arhivskih gradiva koji su "
-#~ "digitalizirali u cijeloj Europi."
+#~ msgid "Europeana is an Internet portal that acts as an interface to millions of books, paintings, films, museum objects and archival records that have been digitised throughout Europe."
+#~ msgstr "Europeana je internetski portal koji djeluje kao sučelje za milijune knjiga, slika, filmova, muzejskih predmeta i arhivskih gradiva koji su digitalizirali u cijeloj Europi."
 
 #~ msgid "What is the organisational structure of Europeana?"
 #~ msgstr "Koja je organizacijska struktura Europeane?"
@@ -6060,14 +5060,8 @@ msgstr ""
 #~ msgid "Who decides if an item appears on Europeana?"
 #~ msgstr "Tko odlučuje što se pojavi na Europeani?"
 
-#~ msgid ""
-#~ "The institution that holds the material - individual libraries, "
-#~ "audiovisual collections, archives and museums decides what to digitise, "
-#~ "based on several criteria:"
-#~ msgstr ""
-#~ "Institucija koja drži građu - pojedinačne knjižnice, audiovizualne "
-#~ "zbirke, arhivi i muzeji odlučuje što će digitalizirati na temelju "
-#~ "nekoliko kriterija:"
+#~ msgid "The institution that holds the material - individual libraries, audiovisual collections, archives and museums decides what to digitise, based on several criteria:"
+#~ msgstr "Institucija koja drži građu - pojedinačne knjižnice, audiovizualne zbirke, arhivi i muzeji odlučuje što će digitalizirati na temelju nekoliko kriterija:"
 
 #~ msgid "What do users most often want to consult or view?"
 #~ msgstr "Što korisnici najčešće žele konzultirati ili pogledati?"
@@ -6106,16 +5100,13 @@ msgstr ""
 #~ msgstr "Ovo je vaš osobni prostor na Europeani s kojim"
 
 #~ msgid "How can I change my email address, username or password?"
-#~ msgstr ""
-#~ "Kako mogu promijeniti moju e-mail adresu, korisničko ime ili lozinku?"
+#~ msgstr "Kako mogu promijeniti moju e-mail adresu, korisničko ime ili lozinku?"
 
 #~ msgid "Technical Questions"
 #~ msgstr "Tehnička pitanja"
 
 #~ msgid "An error message appeared while using Europeana. What should I do?"
-#~ msgstr ""
-#~ "Poruka o pogrešci pojavljuje se tijekom korištenja Europeana. Što da "
-#~ "radim?"
+#~ msgstr "Poruka o pogrešci pojavljuje se tijekom korištenja Europeana. Što da radim?"
 
 #~ msgid "How can I buy advertising space on Europeana?"
 #~ msgstr "Kako mogu kupiti oglasni prostor na Europeani?"
@@ -6144,22 +5135,14 @@ msgstr ""
 #~ msgid "Click on the globe icon"
 #~ msgstr "Kliknite na ikonu globusa"
 
-#~ msgid ""
-#~ "Europeana divides search results into 4 main categories: text, images, "
-#~ "video and sound."
-#~ msgstr ""
-#~ "Europeana dijeli rezultate pretraživanja na četiri glavne kategorije: "
-#~ "tekst, slike, video i zvuk."
+#~ msgid "Europeana divides search results into 4 main categories: text, images, video and sound."
+#~ msgstr "Europeana dijeli rezultate pretraživanja na četiri glavne kategorije: tekst, slike, video i zvuk."
 
 #~ msgid "The types of items included in each section are"
 #~ msgstr "Vrste stvari uključenih u svakom dijelu su"
 
-#~ msgid ""
-#~ "paintings, drawings, prints, photographs, pictures of museum objects, "
-#~ "maps, graphic designs, plans and musical notation"
-#~ msgstr ""
-#~ "slike, crteži, grafike, fotografije, slike muzejskih predmeta, karte, "
-#~ "planovi i glazbena notacija"
+#~ msgid "paintings, drawings, prints, photographs, pictures of museum objects, maps, graphic designs, plans and musical notation"
+#~ msgstr "slike, crteži, grafike, fotografije, slike muzejskih predmeta, karte, planovi i glazbena notacija"
 
 #~ msgid "films, news broadcasts and television programmes."
 #~ msgstr "filmovi, informativne emisije i televizijski programi."
@@ -6173,13 +5156,8 @@ msgstr ""
 #~ msgid "or on a map"
 #~ msgstr "ili na karti"
 
-#~ msgid ""
-#~ "After performing your search, click on the item you want to view. This "
-#~ "will take you to the page, where you can find further details on this "
-#~ "item."
-#~ msgstr ""
-#~ "Nakon pretraživanja, kliknite na stavku koju želite pogledati. To će vas "
-#~ "odvesti na stranicu, gdje možete pronaći više detalja o ovoj stavci."
+#~ msgid "After performing your search, click on the item you want to view. This will take you to the page, where you can find further details on this item."
+#~ msgstr "Nakon pretraživanja, kliknite na stavku koju želite pogledati. To će vas odvesti na stranicu, gdje možete pronaći više detalja o ovoj stavci."
 
 #~ msgid "At the bottom of the object display page, below"
 #~ msgstr "Na dnu prikaza stranice objekta, dolje"
@@ -6202,22 +5180,13 @@ msgstr ""
 #~ msgid "Login | Register"
 #~ msgstr "Prijava | Registracija"
 
-#~ msgid ""
-#~ "Names of actors, authors, architects, artists, choreographers, composers, "
-#~ "conductors, dancers, film directors, musicians or photographers."
-#~ msgstr ""
-#~ "Imena glumaca, pisaca, arhitekata, umjetnika, koreografa, skladatelja, "
-#~ "dirigenata, plesača, redatelja, glazbenika i fotografa."
+#~ msgid "Names of actors, authors, architects, artists, choreographers, composers, conductors, dancers, film directors, musicians or photographers."
+#~ msgstr "Imena glumaca, pisaca, arhitekata, umjetnika, koreografa, skladatelja, dirigenata, plesača, redatelja, glazbenika i fotografa."
 
-#~ msgid ""
-#~ "Words from titles of books, poems, newspapers, paintings, photographs, "
-#~ "films or television programmes."
-#~ msgstr ""
-#~ "Riječi iz naslova knjige, pjesme, novina, slike, fotografije, filmova ili "
-#~ "televizijskih programa."
+#~ msgid "Words from titles of books, poems, newspapers, paintings, photographs, films or television programmes."
+#~ msgstr "Riječi iz naslova knjige, pjesme, novina, slike, fotografije, filmova ili televizijskih programa."
 
-#~ msgid ""
-#~ "Names of towns, cities or countries within Europe or around the world."
+#~ msgid "Names of towns, cities or countries within Europe or around the world."
 #~ msgstr "Imena gradova, mjesta ili zemalja u Europi ili svijetu."
 
 #~ msgid "Enter"
@@ -6250,34 +5219,14 @@ msgstr ""
 #~ msgid "Our Metadata Usage Guidelines"
 #~ msgstr "Naše upute za korištenje meta-podataka"
 
-#~ msgid ""
-#~ "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec magna "
-#~ "elit, mollis id pretium at, sodales vel leo. Nullam dolor purus, "
-#~ "convallis non eleifend id, vestibulum a augue. In porta vulputate tempor. "
-#~ "Vestibulum fermentum libero non metus elementum a ornare nulla fermentum. "
-#~ "Morbi imperdiet congue arcu eget mollis. Curabitur eget augue mauris, "
-#~ "fermentum porta magna. Aliquam ut ligula in lectus rutrum gravida ut ut "
-#~ "metus. Maecenas sit amet elit sed erat porta laoreet nec sed odio. Etiam "
-#~ "ut tortor nec velit pulvinar vulputate et quis est. "
-#~ msgstr ""
-#~ "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec magna "
-#~ "elit, mollis id pretium at, sodales vel leo. Nullam dolor purus, "
-#~ "convallis non eleifend id, vestibulum a augue. In porta vulputate tempor. "
-#~ "Vestibulum fermentum libero non metus elementum a ornare nulla fermentum. "
-#~ "Morbi imperdiet congue arcu eget mollis. Curabitur eget augue mauris, "
-#~ "fermentum porta magna. Aliquam ut ligula in lectus rutrum gravida ut ut "
-#~ "metus. Maecenas sit amet elit sed erat porta laoreet nec sed odio. Etiam "
-#~ "ut tortor nec velit pulvinar vulputate et quis est. "
+#~ msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec magna elit, mollis id pretium at, sodales vel leo. Nullam dolor purus, convallis non eleifend id, vestibulum a augue. In porta vulputate tempor. Vestibulum fermentum libero non metus elementum a ornare nulla fermentum. Morbi imperdiet congue arcu eget mollis. Curabitur eget augue mauris, fermentum porta magna. Aliquam ut ligula in lectus rutrum gravida ut ut metus. Maecenas sit amet elit sed erat porta laoreet nec sed odio. Etiam ut tortor nec velit pulvinar vulputate et quis est. "
+#~ msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec magna elit, mollis id pretium at, sodales vel leo. Nullam dolor purus, convallis non eleifend id, vestibulum a augue. In porta vulputate tempor. Vestibulum fermentum libero non metus elementum a ornare nulla fermentum. Morbi imperdiet congue arcu eget mollis. Curabitur eget augue mauris, fermentum porta magna. Aliquam ut ligula in lectus rutrum gravida ut ut metus. Maecenas sit amet elit sed erat porta laoreet nec sed odio. Etiam ut tortor nec velit pulvinar vulputate et quis est. "
 
 #~ msgid "Europeana - Our Public Domain Usage Guidelines"
 #~ msgstr "Europeana - Naše upute za korištenje javne domene"
 
-#~ msgid ""
-#~ "If you encounter any problem using this site or wish to make general "
-#~ "comments/suggestions, please use"
-#~ msgstr ""
-#~ "Ako se pojavi bilo kakav problem koristeći ovu stranicu ili želite "
-#~ "napraviti opće komentare / prijedloge, upotrijebite"
+#~ msgid "If you encounter any problem using this site or wish to make general comments/suggestions, please use"
+#~ msgstr "Ako se pojavi bilo kakav problem koristeći ovu stranicu ili želite napraviti opće komentare / prijedloge, upotrijebite"
 
 #~ msgid "Our Terms for User Contributions"
 #~ msgstr "Naši uvjeti za korisnički doprinosi"
@@ -6378,12 +5327,8 @@ msgstr ""
 #~ msgid "Exhibition: Wiki Loves Art Nouveau"
 #~ msgstr "Izložba: Wiki Voli Secesiju"
 
-#~ msgid ""
-#~ "Click here to visit the Europeana 1914-1918 website (opens in a new "
-#~ "window)"
-#~ msgstr ""
-#~ "Kliknite ovdje da posjetite stranicu Europeana 1914-1918 (otvara se u "
-#~ "novom prozoru)"
+#~ msgid "Click here to visit the Europeana 1914-1918 website (opens in a new window)"
+#~ msgstr "Kliknite ovdje da posjetite stranicu Europeana 1914-1918 (otvara se u novom prozoru)"
 
 #~ msgid "Europeana - Terms of use"
 #~ msgstr "Europeana - Uvjeti korištenja"
@@ -6394,12 +5339,8 @@ msgstr ""
 #~ msgid "Terms"
 #~ msgstr "Uvjeti"
 
-#~ msgid ""
-#~ "We know that sometimes these kinds of things are hard to understand so "
-#~ "we've done our best to make them easy."
-#~ msgstr ""
-#~ "Znamo da ponekad takve stvari teško razumjeti pa smo se potrudili da je "
-#~ "polakšamo."
+#~ msgid "We know that sometimes these kinds of things are hard to understand so we've done our best to make them easy."
+#~ msgstr "Znamo da ponekad takve stvari teško razumjeti pa smo se potrudili da je polakšamo."
 
 #~ msgid "Metadata Usage Guidelines"
 #~ msgstr "Upute za korištenje meta-podataka"
