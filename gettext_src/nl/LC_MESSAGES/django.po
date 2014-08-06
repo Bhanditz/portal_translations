@@ -7,9 +7,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-08-05 12:38+0200\n"
-"PO-Revision-Date: 2014-08-05 13:29\n"
-"Last-Translator: <jacob.lundqvist@gmail.com>\n"
+"POT-Creation-Date: 2014-08-05 15:41+0200\n"
+"PO-Revision-Date: 2014-08-05 16:35\n"
+"Last-Translator: <anna.vandenbroek@europeana.eu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -3614,7 +3614,7 @@ msgstr "Will je Europeana gebruiken in het"
 
 #: templates/static_pages/prop_file.html:1025
 msgid "It looks like your browser is set to English. Would you also like to use Europeana in English"
-msgstr "Het lijkt erop dat uw browser is ingesteld op Nederlands. Wilt u ook aan Europeana gebruiken in het Nederlands"
+msgstr "Het lijkt erop dat je browser staat ingesteld op Nederlands. Will je Europeana ook gebruiken in het Nederlands?"
 
 #: templates/static_pages/prop_file.html:1026
 msgid "English"
@@ -3742,19 +3742,19 @@ msgstr "ja"
 
 #: templates/static_pages/prop_file.html:1059
 msgid "Language settings"
-msgstr ""
+msgstr "Taalinstellingen"
 
 #: templates/static_pages/prop_file.html:1060
 msgid "Automatically translate item pages into:"
-msgstr ""
+msgstr "Vertaal item pagina's automatisch naar:"
 
 #: templates/static_pages/prop_file.html:1061
 msgid "Auto translate items into"
-msgstr ""
+msgstr "Vertaal items automatisch naar: "
 
 #: templates/static_pages/prop_file.html:1062
 msgid "Automatically translate search keywords into:"
-msgstr ""
+msgstr "Vertaal zoektermen automatisch naar:"
 
 #: templates/static_pages/prop_file.html:1063
 msgid "For registered users, you can choose a maximum of 6 options. For unregistered users, you can choose a maximum of 3 options."
@@ -3802,7 +3802,7 @@ msgstr ""
 
 #: templates/static_pages/prop_file.html:1074
 msgid "Save settings"
-msgstr ""
+msgstr "Instellingen opslaan"
 
 #: templates/static_pages/prop_file.html:1075
 msgid "Settings have been saved."
@@ -3810,6 +3810,18 @@ msgstr ""
 
 #: templates/static_pages/prop_file.html:1076
 msgid "Sorry, there was a problem saving your settings. Please try again later."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1078
+msgid "A maximum of 6 languages can be selected."
+msgstr "Selecteer maximaal 6 talen"
+
+#: templates/static_pages/prop_file.html:1079
+msgid "This option is only available for registered users"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1080
+msgid "register or sign in here"
 msgstr ""
 
 #: templates/static_pages/sitemap.html:4
