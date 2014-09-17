@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-09-10 13:41+0200\n"
+"POT-Creation-Date: 2014-09-17 11:46+0200\n"
 "PO-Revision-Date: 2014-08-05 13:40\n"
 "Last-Translator: <jacob.lundqvist@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -262,7 +262,12 @@ msgstr "Jazyk"
 msgid "Accessibility"
 msgstr "Dostupnost"
 
-#: templates/terms_leftmenu.html:27 templates/static_pages/sitemap.html:109
+#: templates/terms_leftmenu.html:27 templates/rights/publications.html:10
+#, fuzzy
+msgid "Publications"
+msgstr "Zrušení otroctví"
+
+#: templates/terms_leftmenu.html:28 templates/static_pages/sitemap.html:109
 msgid "Public Domain Charter"
 msgstr ""
 
@@ -337,8 +342,9 @@ msgid "eNews"
 msgstr "E-novinky"
 
 #: templates/rights/accessibility.html:4
+#, fuzzy
 msgid "Europeana - Accessibility policy"
-msgstr ""
+msgstr "Europeana - Dostupnost"
 
 #: templates/rights/accessibility.html:17
 msgid ""
@@ -351,12 +357,16 @@ msgstr ""
 "WC3 Web Content Accessibility Guidelines Version 1.0. "
 
 #: templates/rights/accessibility.html:22
+#, fuzzy
 msgid ""
 "Our User Centred Design team frequently conducts usability testing of\n"
 "Europeana.eu navigation, flow, labels, and consistency. Furthermore,\n"
 "we will produce a version &ndash; post this prototype phase &ndash; for "
 "blind individuals."
 msgstr ""
+"Náš User Centred Design tým intenizivně pracuje na testování použitelnosti "
+"navigace, toku, označení a konzistence Europeana.eu. Po této fázi prototypu "
+"budeme vytvářet verzi pro nevidomé. "
 
 #: templates/rights/accessibility.html:27
 msgid "Some of the accessibility features of our site include"
@@ -555,17 +565,20 @@ msgstr ""
 "informační. Právně závazný text je pouze v angličtině."
 
 #: templates/rights/linked-data-sources.html:4
+#, fuzzy
 msgid "Europeana - Europeana Data Sources"
-msgstr ""
+msgstr "Provázaná otevřená data"
 
 #: templates/rights/metadata-usage-guidelines.html:4
+#, fuzzy
 msgid "Europeana - Usage Guidelines for Metadata"
-msgstr ""
+msgstr "Uživatelská příručka European pro díla veřejné domény"
 
 #: templates/rights/metadata-usage-guidelines.html:15
 #: templates/rights/terms-of-use.html:26
+#, fuzzy
 msgid "Europeana Usage Guidelines for Metadata"
-msgstr ""
+msgstr "Uživatelská příručka European pro díla veřejné domény"
 
 #: templates/rights/metadata-usage-guidelines.html:18
 msgid ""
@@ -695,8 +708,9 @@ msgid "Thank you for your cooperation"
 msgstr ""
 
 #: templates/rights/pd-usage-guide.html:4
+#, fuzzy
 msgid "Europeana - Public Domain Usage Guidelines"
-msgstr ""
+msgstr "Vrať se na domovskou stránku"
 
 #: templates/rights/privacy.html:4
 msgid "Europeana - Privacy policy"
@@ -982,14 +996,18 @@ msgid "Feedback Form [title may differ in different languages]"
 msgstr "Formulář pro zpětnou vazbu"
 
 #: templates/rights/privacy.html:90
+#, fuzzy
 msgid ""
 "If you encounter any problem using this site or wish to make general "
 "comments/suggestions, please use this"
 msgstr ""
+"Pokud narazíš na nějaký problém při používání tohoto webu nebo budeš mít "
+"obecné připomínky/návrhy, použij prosím"
 
 #: templates/rights/privacy.html:90
+#, fuzzy
 msgid "contact form"
-msgstr ""
+msgstr "Nový obsah"
 
 #: templates/rights/privacy.html:92
 msgid ""
@@ -1001,13 +1019,20 @@ msgstr ""
 "navrženy tak, aby splňovaly požadavky na ochranu soukromí. Tato politika "
 "ochrany soukromí nabízí další podrobnosti."
 
+#: templates/rights/publications.html:4
+#, fuzzy
+msgid "Europeana - Publications"
+msgstr "Sbírky"
+
 #: templates/rights/terms-and-policies.html:4
+#, fuzzy
 msgid "Europeana - Terms and Policies"
-msgstr ""
+msgstr "Europeana - Podmínky používání"
 
 #: templates/rights/terms-and-policies.html:15
+#, fuzzy
 msgid "Europeana Terms and Policies"
-msgstr ""
+msgstr "Europeana - Podmínky používání"
 
 #: templates/rights/terms-and-policies.html:18
 msgid ""
@@ -1017,8 +1042,9 @@ msgid ""
 msgstr ""
 
 #: templates/rights/terms-and-policies.html:22
+#, fuzzy
 msgid "Using Our data"
-msgstr ""
+msgstr "Využití Europeany"
 
 #: templates/rights/terms-and-policies.html:22
 msgid ""
@@ -1033,16 +1059,19 @@ msgid ""
 msgstr ""
 
 #: templates/rights/terms-and-policies.html:24
+#, fuzzy
 msgid "Terms of Use for the Europeana API"
-msgstr ""
+msgstr "Podmínky používání"
 
 #: templates/rights/terms-and-policies.html:24
+#, fuzzy
 msgid "Europeana publishes guidelines for working with"
-msgstr ""
+msgstr "Uživatelská příručka European pro díla veřejné domény"
 
 #: templates/rights/terms-and-policies.html:24
+#, fuzzy
 msgid "Europeana metadata"
-msgstr ""
+msgstr "Europeana API"
 
 #: templates/rights/terms-and-policies.html:24
 msgid "as well as for using digital reproductions of"
@@ -1065,8 +1094,9 @@ msgid "to enrich the metadata provided by our data providers"
 msgstr ""
 
 #: templates/rights/terms-and-policies.html:28
+#, fuzzy
 msgid "Contributing data"
-msgstr ""
+msgstr "Obsah European"
 
 #: templates/rights/terms-and-policies.html:28
 msgid ""
@@ -1075,8 +1105,9 @@ msgid ""
 msgstr ""
 
 #: templates/rights/terms-and-policies.html:31
+#, fuzzy
 msgid "The Europeana Data Exchange Agreement"
-msgstr ""
+msgstr "Vrať se na domovskou stránku"
 
 #: templates/rights/terms-and-policies.html:31
 msgid ""
@@ -1085,8 +1116,9 @@ msgid ""
 msgstr ""
 
 #: templates/rights/terms-and-policies.html:31
+#, fuzzy
 msgid "terms for user contributions"
-msgstr ""
+msgstr "Europeana - Evropské čtení"
 
 #: templates/rights/terms-and-policies.html:31
 msgid "governs the terms on which users contribute data to Europeana"
@@ -1119,8 +1151,9 @@ msgid ""
 msgstr ""
 
 #: templates/rights/terms-and-policies.html:37
+#, fuzzy
 msgid "Europeana Public Domain Charter"
-msgstr ""
+msgstr "Vrať se na domovskou stránku"
 
 #: templates/rights/terms-and-policies.html:37
 msgid ""
@@ -1129,16 +1162,24 @@ msgid ""
 msgstr ""
 
 #: templates/rights/terms-for-user-contributions.html:4
-msgid "Europeana - Our Terms for User Contributions"
-msgstr ""
+#, fuzzy
+msgid "Europeana - Terms for User Contributions"
+msgstr "Europeana - Evropské čtení"
+
+#: templates/rights/terms-for-user-contributions.html:49
+#, fuzzy
+msgid "Europeana Terms for User Contributions"
+msgstr "Europeana - Evropské čtení"
 
 #: templates/rights/terms-of-use.html:4
+#, fuzzy
 msgid "Europeana - Terms of Use"
-msgstr ""
+msgstr "Europeana - Podmínky užití API"
 
 #: templates/rights/terms-of-use.html:15
+#, fuzzy
 msgid "Europeana Terms of Use"
-msgstr ""
+msgstr "Podmínky užití Europeana API"
 
 #: templates/rights/terms-of-use.html:18
 msgid ""
@@ -1175,8 +1216,9 @@ msgid "and to provide attribution to the data sources whenever possible"
 msgstr ""
 
 #: templates/rights/terms-of-use.html:31
+#, fuzzy
 msgid "Previews"
-msgstr ""
+msgstr "Předchozí záložka"
 
 #: templates/rights/terms-of-use.html:34
 msgid ""
@@ -1210,22 +1252,33 @@ msgid "Liability Disclaimer"
 msgstr ""
 
 #: templates/rights/terms-of-use.html:45
+#, fuzzy
 msgid ""
 "Europeana does not guarantee the accuracy or completeness of the website and "
 "its content."
 msgstr ""
+"Europeana Foundation neručí za správnost a úplnost Webových stránek a jejich "
+"obsahu"
 
 #: templates/rights/terms-of-use.html:48
+#, fuzzy
 msgid ""
 "Except to the extent required by applicable law, in no event will Europeana "
 "be liable on any legal theory for any special, incidental, consequential, "
 "punitive or exemplary damages arising out of the use of the website or its "
 "content. In particular, it will not be liable for the following:"
 msgstr ""
+"S výjimkou případů, kdy to vyžaduje platné právo, Europeana Foundation v "
+"žádném případě neponese ve smyslu žádného výkladu práva odpovědnost za "
+"jakoukoli zvláštní, náhodnou nebo druhotnou škodu nebo škodu s represivní "
+"funkcí nebo škodu s exemplárně zvýšenou náhradu vyplývající z této licence "
+"nebo z užívání Webových stránek a jejich obsahu. Zejména nebude odpovědná za "
+"následující"
 
 #: templates/rights/terms-of-use.html:52
+#, fuzzy
 msgid "Accuracy, completeness, etc. of the website or its content;"
-msgstr ""
+msgstr "Přesnost, úplnost, atd. Webových stránek nebo jejich obsahu"
 
 #: templates/rights/terms-of-use.html:53
 msgid ""
@@ -1236,14 +1289,18 @@ msgid ""
 msgstr ""
 
 #: templates/rights/terms-of-use.html:54
+#, fuzzy
 msgid ""
 "Any use by third parties that goes beyond the rights expressed in these "
 "terms of use."
 msgstr ""
+"Jakékoliv užití třetími stranami, které překračuje rámec práv vyjádřený v "
+"těchto Podmínkách užívání"
 
 #: templates/rights/terms-of-use.html:57
+#, fuzzy
 msgid "These terms of use"
-msgstr ""
+msgstr "Podmínky používání"
 
 #: templates/rights/terms-of-use.html:59
 msgid ""
@@ -1259,8 +1316,9 @@ msgid ""
 msgstr ""
 
 #: templates/rights/terms-of-use.html:65
+#, fuzzy
 msgid "These terms of use are governed by the laws of The Netherlands."
-msgstr ""
+msgstr "Tyto podmínky užívání se řídí nizozemským právem"
 
 #: templates/static_pages/aboutus.html:4
 msgid "Europeana - About us"
@@ -6213,9 +6271,6 @@ msgid ""
 "by dropping us an email at"
 msgstr ""
 
-#~ msgid "contact.html"
-#~ msgstr "Nový obsah"
-
 #~ msgid "sitemap.html"
 #~ msgstr "Mapa stránek"
 
@@ -6236,9 +6291,6 @@ msgstr ""
 
 #~ msgid "Information to follow."
 #~ msgstr "Jaké informace shromažďujeme?"
-
-#~ msgid "Europeana - Terms for User Contributions"
-#~ msgstr "Europeana - Evropské čtení"
 
 #~ msgid ""
 #~ "This item is protected by copyright and/or related rights. This item is "
@@ -6695,33 +6747,14 @@ msgstr ""
 #~ msgid "Europeana - Terms of Use for our API"
 #~ msgstr "Podmínky používání"
 
-#~ msgid "Terms of Use for our API"
-#~ msgstr "Podmínky používání"
-
-#~ msgid "Europeana - Linked Data Sources"
-#~ msgstr "Provázaná otevřená data"
-
 #~ msgid "Linked Data Sources"
 #~ msgstr "Provázaná otevřená data"
 
 #~ msgid "Europeana - Our Metadata Usage Guidelines"
 #~ msgstr "Vrať se na domovskou stránku"
 
-#~ msgid "Europeana - Our Public Domain Usage Guidelines"
-#~ msgstr "Vrať se na domovskou stránku"
-
 #~ msgid "Privacy policy"
 #~ msgstr "Ochrana soukromí"
-
-#~ msgid ""
-#~ "If you encounter any problem using this site or wish to make general "
-#~ "comments/suggestions, please use"
-#~ msgstr ""
-#~ "Pokud narazíš na nějaký problém při používání tohoto webu nebo budeš mít "
-#~ "obecné připomínky/návrhy, použij prosím"
-
-#~ msgid "Europeana - Public Domain Charter"
-#~ msgstr "Vrať se na domovskou stránku"
 
 #~ msgid "Terms & Policies"
 #~ msgstr "Podmínky užití"
@@ -6867,25 +6900,6 @@ msgstr ""
 #~ msgid "Click here to visit our exhibition on Art Nouveau"
 #~ msgstr "Europeana - Evropské čtení"
 
-#~ msgid "Europeana - Accessibility"
-#~ msgstr "Europeana - Dostupnost"
-
-#~ msgid ""
-#~ "Our User Centred Design team frequently conducts usability testing of\n"
-#~ "Europeana.eu navigation, flow, labels, and consistency. Furthermore,\n"
-#~ "we will produce a version - post this prototype phase - for blind "
-#~ "individuals."
-#~ msgstr ""
-#~ "Náš User Centred Design tým intenizivně pracuje na testování "
-#~ "použitelnosti navigace, toku, označení a konzistence Europeana.eu. Po "
-#~ "této fázi prototypu budeme vytvářet verzi pro nevidomé. "
-
-#~ msgid "Europeana - Usage guidelines for public domain works"
-#~ msgstr "Uživatelská příručka European pro díla veřejné domény"
-
-#~ msgid "Europeana - Terms of use"
-#~ msgstr "Europeana - Podmínky používání"
-
 #~ msgid ""
 #~ "The website \"Europeana.eu\" is run by the Europeana Foundation and gives "
 #~ "access to a wide range of digitised cultural heritage across Europe. This "
@@ -7007,9 +7021,6 @@ msgstr ""
 #~ "je vaší povinností sdělit tyto Podmínky užívání ostatním. Nejlepší "
 #~ "způsob, jak to udělat, je odkázat na ně pomocí následujícího linku"
 
-#~ msgid "the Terms of use"
-#~ msgstr "Podmínky používání"
-
 #~ msgid "In no way do these Terms of Use affect any of the following rights"
 #~ msgstr ""
 #~ "Tyto Podmínky užívání za žádných okolností neovlivňují žádné z těchto "
@@ -7046,39 +7057,8 @@ msgstr ""
 #~ msgid "Limited warranty &amp; disclaimer of liability"
 #~ msgstr "Omezená záruka a vyloučení odpovědnosti"
 
-#~ msgid ""
-#~ "Europeana Foundation does not warrant the accuracy or completeness of the "
-#~ "Website and its content"
-#~ msgstr ""
-#~ "Europeana Foundation neručí za správnost a úplnost Webových stránek a "
-#~ "jejich obsahu"
-
-#~ msgid ""
-#~ "Except to the extent required by applicable law, in no event will "
-#~ "Europeana Foundation be liable on any legal theory for any special, "
-#~ "incidental, consequential, punitive or exemplary damages arising out of "
-#~ "this licence or the use of the Website and its content. In particular, it "
-#~ "will not be liable for the following"
-#~ msgstr ""
-#~ "S výjimkou případů, kdy to vyžaduje platné právo, Europeana Foundation v "
-#~ "žádném případě neponese ve smyslu žádného výkladu práva odpovědnost za "
-#~ "jakoukoli zvláštní, náhodnou nebo druhotnou škodu nebo škodu s represivní "
-#~ "funkcí nebo škodu s exemplárně zvýšenou náhradu vyplývající z této "
-#~ "licence nebo z užívání Webových stránek a jejich obsahu. Zejména nebude "
-#~ "odpovědná za následující"
-
-#~ msgid "Accuracy, completeness, etc. of the Website or its content"
-#~ msgstr "Přesnost, úplnost, atd. Webových stránek nebo jejich obsahu"
-
 #~ msgid "Any infringement of privacy, publicity or other rights"
 #~ msgstr "Každé narušení soukromí, poškození dobrého jména nebo jiných práv"
-
-#~ msgid ""
-#~ "Any use by third parties that goes beyond the rights expressed in these "
-#~ "Terms of Use"
-#~ msgstr ""
-#~ "Jakékoliv užití třetími stranami, které překračuje rámec práv vyjádřený v "
-#~ "těchto Podmínkách užívání"
 
 #~ msgid "Compliance with the Terms of Use"
 #~ msgstr "Plnění Podmínek užívání"
@@ -7112,9 +7092,6 @@ msgstr ""
 #~ "osobám, které od vás obdržely odvozená díla podléhající těmto podmínkám "
 #~ "užití, však nebude jejich povolení ukončeno za předpokladu, že tyto "
 #~ "fyzické nebo právnické osoby zůstanou plně v souladu s těmito podmínkami"
-
-#~ msgid "These Terms of Use are governed by the laws of The Netherlands"
-#~ msgstr "Tyto podmínky užívání se řídí nizozemským právem"
 
 #~ msgid "terms of use"
 #~ msgstr "Podmínky používání"
@@ -7175,15 +7152,6 @@ msgstr ""
 
 #~ msgid "Accessing our Linked Open Data"
 #~ msgstr "Provázaná otevřená data"
-
-#~ msgid "Contributing data to Europeana"
-#~ msgstr "Obsah European"
-
-#~ msgid "Click here to see the Europeana Data Exchange Agreement"
-#~ msgstr "Vrať se na domovskou stránku"
-
-#~ msgid "Click here for the Europeana Terms for User Contributions"
-#~ msgstr "Europeana - Evropské čtení"
 
 #~ msgid "Click here for the Europeana Privacy Policy"
 #~ msgstr "Europeana - Ochrana soukromí"

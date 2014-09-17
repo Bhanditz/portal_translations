@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-09-10 13:41+0200\n"
+"POT-Creation-Date: 2014-09-17 11:41+0200\n"
 "PO-Revision-Date: 2014-08-05 14:19\n"
 "Last-Translator: <anna.vandenbroek@europeana.eu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -185,87 +185,6 @@ msgstr "Dla prasy"
 msgid "Job opportunities"
 msgstr "Oferty pracy"
 
-#: templates/terms_leftmenu.html:3
-msgid "Terms &amp; Policies"
-msgstr "Terminy, Zasady "
-
-#: templates/terms_leftmenu.html:5
-msgid "Introduction"
-msgstr "Wprowadzenie"
-
-#: templates/terms_leftmenu.html:7
-msgid "Using our data"
-msgstr "Korzystanie z danych"
-
-#: templates/terms_leftmenu.html:9 templates/rights/terms-and-policies.html:24
-#: templates/static_pages/sitemap.html:99
-msgid "Terms of Use"
-msgstr "Zasady korzystania"
-
-#: templates/terms_leftmenu.html:10 templates/static_pages/sitemap.html:100
-msgid "Usage Guidelines for Metadata"
-msgstr "Przewodnik po metadanych"
-
-#: templates/terms_leftmenu.html:11 templates/static_pages/sitemap.html:101
-msgid "Public Domain Usage Guidelines"
-msgstr "Przewodnik po Domenie Publicznej"
-
-#: templates/terms_leftmenu.html:12 templates/static_pages/sitemap.html:102
-msgid "API Terms of Use"
-msgstr "Zasady korzystania z API"
-
-#: templates/terms_leftmenu.html:13
-#: templates/rights/linked-data-sources.html:16
-#: templates/static_pages/sitemap.html:103
-msgid "Europeana Data Sources"
-msgstr "Źródła Danych Europeany"
-
-#: templates/terms_leftmenu.html:16
-msgid "Contributing data to us"
-msgstr "Przekazywanie do nas danych"
-
-#: templates/terms_leftmenu.html:18
-msgid "Europeana Data Exchange Agreement"
-msgstr "Porozumienie dotyczące wymiany danych w ramach Europeany "
-
-#: templates/terms_leftmenu.html:19 templates/static_pages/sitemap.html:105
-msgid "Terms for User Contributions"
-msgstr "Zasady dotyczące zasobów dostarczonych przez użytkowników"
-
-#: templates/terms_leftmenu.html:22
-#: templates/rights/terms-and-policies.html:35
-msgid "Our policies"
-msgstr "Nasza polityka"
-
-#: templates/terms_leftmenu.html:24 templates/rights/privacy.html:15
-#: templates/rights/terms-and-policies.html:37
-#: templates/static_pages/prop_file.html:70
-#: templates/static_pages/prop_file.html:550
-#: templates/static_pages/prop_file.html:551
-#: templates/static_pages/sitemap.html:106
-msgid "Privacy"
-msgstr "Prywatność"
-
-#: templates/terms_leftmenu.html:25 templates/rights/languagepolicy.html:15
-#: templates/rights/terms-and-policies.html:37
-#: templates/static_pages/prop_file.html:182
-#: templates/static_pages/prop_file.html:265
-msgid "Language"
-msgstr "Jezyk"
-
-#: templates/terms_leftmenu.html:26 templates/rights/accessibility.html:15
-#: templates/rights/terms-and-policies.html:37
-#: templates/static_pages/prop_file.html:67
-#: templates/static_pages/prop_file.html:538
-#: templates/static_pages/prop_file.html:539
-#: templates/static_pages/sitemap.html:108
-msgid "Accessibility"
-msgstr "Dostęp"
-
-#: templates/terms_leftmenu.html:27 templates/static_pages/sitemap.html:109
-msgid "Public Domain Charter"
-msgstr "Karta Doment Publicznej"
-
 #: templates/usingeuropeana_leftmenu.html:3
 #: templates/static_pages/prop_file.html:360
 #: templates/static_pages/prop_file.html:594
@@ -335,993 +254,6 @@ msgstr ""
 #: templates/NOT/leftmenu_old.html:11
 msgid "eNews"
 msgstr "eNews"
-
-#: templates/rights/accessibility.html:4
-msgid "Europeana - Accessibility policy"
-msgstr "Europeana - polityka dostępności"
-
-#: templates/rights/accessibility.html:17
-msgid ""
-"Europeana.eu features and content have been designed to be universally\n"
-"accessible by users and user agents/devices. We strive to meet the WC3 Web\n"
-"Content Accessibility Guidelines Version 1.0."
-msgstr ""
-"Kształt i zawartość portalu Europeana.eu zostały tak zaprojektowane, by "
-"zapewnić użytkownikom i ich urządzeniom powszechny dostęp. Staramy się "
-"spełniać warunki WC3 Web Content Accessibility Guidelines Version 1.0 "
-"(Wytyczne dotyczące dostępności treści internetowych)."
-
-#: templates/rights/accessibility.html:22
-msgid ""
-"Our User Centred Design team frequently conducts usability testing of\n"
-"Europeana.eu navigation, flow, labels, and consistency. Furthermore,\n"
-"we will produce a version &ndash; post this prototype phase &ndash; for "
-"blind individuals."
-msgstr ""
-
-#: templates/rights/accessibility.html:27
-msgid "Some of the accessibility features of our site include"
-msgstr "Oto niektóre z funkcji dostępności portalu"
-
-#: templates/rights/accessibility.html:30
-msgid "Meaningful page titles to help with orientation"
-msgstr "Znaczące tytuły stron pozwalają na lepszą orientację"
-
-#: templates/rights/accessibility.html:31
-msgid "Almost all images have either a meaningful alt-text (text equivalent)"
-msgstr ""
-"Prawie wszystkie obrazy posiadają również odpowiednik tekstowy (alt-text)"
-
-#: templates/rights/accessibility.html:32
-msgid "Minimal use of frames"
-msgstr "Ramki są stosowane w stopniu minimalnym"
-
-#: templates/rights/accessibility.html:33
-msgid "Use of resizable fonts"
-msgstr "Używane są fonty skalowalne"
-
-#: templates/rights/accessibility.html:34
-msgid "Use Cascading Style Sheets (CSS) to separate content from presentation"
-msgstr ""
-"Używane są style kaskadowe (CSS) w celu oddzielenia zawartości od warstwy "
-"prezentacyjnej"
-
-#: templates/rights/accessibility.html:35
-msgid "Notifying a user when a link opens a new window"
-msgstr "Użytkownik jest powiadamiany, gdy link otwiera nowe okno"
-
-#: templates/rights/accessibility.html:36
-msgid "The (core) functionalities are usable without JavaScript"
-msgstr "Większość funkcji nie wymaga używania JavaScript"
-
-#: templates/rights/accessibility.html:40
-msgid ""
-"Please send us any feedback or questions on the accessibility of Europeana."
-"eu with the"
-msgstr ""
-"Prosimy o nadsyłanie komentarzy i pytań dotyczących funkcjonalności "
-"Europeany przy użyciu"
-
-#: templates/rights/accessibility.html:41
-msgid "feedback form"
-msgstr "formularza komentarza"
-
-#: templates/rights/api-terms-of-use.html:4
-msgid "Europeana - API Terms of Use"
-msgstr "Europeana - warunki korzystania z API"
-
-#: templates/rights/api-terms-of-use.html:15
-msgid "Europeana API Terms of Use"
-msgstr "Warunki korzystania z API Europeany"
-
-#: templates/rights/languagepolicy.html:4
-msgid "Europeana - Language policy"
-msgstr "Europeana - Polityka językowa"
-
-#: templates/rights/languagepolicy.html:18
-msgid "Europeana.eu follows similar policy guidelines to"
-msgstr ""
-"Europeana.eu kieruje się wytycznymi zbliżonymi do tych zawartych w portalu"
-
-#: templates/rights/languagepolicy.html:18
-msgid "Europa"
-msgstr "Europa"
-
-#: templates/rights/languagepolicy.html:18
-msgid "(the portal site of The European Union)"
-msgstr "(oficjalny portal Unii Europejskiej)"
-
-#: templates/rights/languagepolicy.html:22
-msgid ""
-"As far as possible, the aim is to provide the public with the information "
-"they\n"
-"are looking for in their own language. However, due to constraints on "
-"resources,\n"
-"this isn't always possible"
-msgstr ""
-"Tam, gdzie jest to możliwe, staramy się podawać informacje w języku, którym "
-"posługuje się użytkownik. Z powodu ograniczonych zasobów nie zawsze jest to "
-"jednak możliwe."
-
-#: templates/rights/languagepolicy.html:28
-msgid ""
-"Therefore the following guidelines apply in Europa and will\n"
-"apply in Europeana.eu"
-msgstr ""
-"Poniższe wytyczne stosowane w portalu Europa będą stosowane w portalu "
-"Europeana.eu"
-
-#: templates/rights/languagepolicy.html:32
-msgid "all top (*) level pages in all full partner languages"
-msgstr "najważniejsze (*) strony są dostępne w językach wszystkich partnerów"
-
-#: templates/rights/languagepolicy.html:33
-msgid "prioritise speed of publication over availability of translation"
-msgstr "szybkość publikacji informacji ma priorytet wyższy niż tłumaczenie"
-
-#: templates/rights/languagepolicy.html:34
-msgid ""
-"Allow limited 'language mixing' (**) i.e.: where a warning sign needs to be "
-"displayed"
-msgstr ""
-"dopuszczalne jest istnienie stron wielojęzycznych (**), gdzie będą "
-"wyświetlane symbole informujące o wielojęzyczności"
-
-#: templates/rights/languagepolicy.html:39
-msgid "(*) i.e.: the navigation, search, retrieval and display interfaces"
-msgstr "(*) tzn. nawigacja, wyszukiwanie i wyświetlanie informacji"
-
-#: templates/rights/languagepolicy.html:42
-msgid "(**) Language mixing = more than one language on a page"
-msgstr ""
-"(**) Strona wielojęzyczna = zawierająca informacje w więcej niż jednym języku"
-
-#: templates/rights/languagepolicy.html:46
-msgid "In practical terms this means the following"
-msgstr "W praktyce oznacza to, że"
-
-#: templates/rights/languagepolicy.html:49
-msgid ""
-"Tools to manage translation will be developed and maintained by Europeana.eu"
-msgstr ""
-"Narzędzia do zarządzania tłumaczeniami są tworzone i rozwijane przez "
-"Europeana.eu."
-
-#: templates/rights/languagepolicy.html:50
-msgid ""
-"The completion of the translations will be the responsibility of\n"
-"each designated volunteer partner institution"
-msgstr ""
-"Za ukończenie tłumaczenia odpowiedzialni są wyznaczeni ochotnicy - partnerzy "
-"projektu."
-
-#: templates/rights/languagepolicy.html:52
-msgid ""
-"These are unofficial translations and may not correspond exactly with the "
-"English version"
-msgstr ""
-"Są to nieoficjalne tłumaczenia i mogą nie odpowiadać dokładnie wersji "
-"oryginalnej."
-
-#: templates/rights/languagepolicy.html:53
-msgid ""
-"Europeana.eu will notify each designated volunteer partner\n"
-"institution should an update be required but will not chase for that\n"
-"update"
-msgstr ""
-"Europeana.eu będzie informować instytucje partnerskie o potrzebie "
-"zaktualizowania tłumaczeń, lecz nie będzie kontrolować ich aktualizowania."
-
-#: templates/rights/languagepolicy.html:56
-msgid ""
-"Information that is urgent or has a very short life is in\n"
-"English only e.g.: Ad-hoc error messages"
-msgstr ""
-"Pilne lub doraźne informacje (np. komunikaty o błędach) będą wyświetlane "
-"wyłącznie w języku angielskim."
-
-#: templates/rights/languagepolicy.html:58
-msgid ""
-"All surveys about the site will be produced in all\n"
-"feasible languages only"
-msgstr ""
-"Wszystkie ankiety dotyczące strony będą przygotowywane tylko w dostępnych "
-"językach."
-
-#: templates/rights/languagepolicy.html:60
-msgid ""
-"Search Engine Promotion to be executed in English, in the\n"
-"first instance"
-msgstr ""
-"Promocja w wyszukiwarkach będzie realizowana przede wszystkim w języku "
-"angielskim."
-
-#: templates/rights/languagepolicy.html:62
-msgid ""
-"The Management section and the technical information will\n"
-"be maintained solely in English, as the working language of\n"
-"Europeana.eu"
-msgstr ""
-"Informacje dotyczące zarządzania stroną oraz informacje techniczne będą "
-"utrzymywane wyłącznie w języku angielskim, który jest roboczym językiem "
-"Europeany."
-
-#: templates/rights/languagepolicy.html:65
-msgid ""
-"If, however, an individual institution wishes to translate and maintain\n"
-"any of the above from within their own resources, Europeana.eu would be "
-"happy\n"
-"to enable its display"
-msgstr ""
-"Jeżeli jednak któraś z instytucji partnerskich zechce przetłumaczyć "
-"wymienione powyżej informacje, Europeana.eu z przyjemnością udostępni to "
-"tłumaczenie na stronie."
-
-#: templates/rights/languagepolicy.html:69 templates/rights/privacy.html:93
-msgid ""
-"The translations are made on a voluntary basis by our partners and are for "
-"information only. The legally valid text is in English only."
-msgstr ""
-"Tłumaczenia są wykonywane na zasadzie dobrowolności przez naszych partnerów "
-"i są podane tylko dla informacji. Legalnie wiążący jest tylko tekst w języku "
-"angielskim."
-
-#: templates/rights/linked-data-sources.html:4
-msgid "Europeana - Europeana Data Sources"
-msgstr "Europeana - źródła danych"
-
-#: templates/rights/metadata-usage-guidelines.html:4
-msgid "Europeana - Usage Guidelines for Metadata"
-msgstr "Europeana - wskazówki dotyczące korzystania z metadanych"
-
-#: templates/rights/metadata-usage-guidelines.html:15
-#: templates/rights/terms-of-use.html:26
-msgid "Europeana Usage Guidelines for Metadata"
-msgstr "Wskazówki dotyczące korzystania z metadanych Europeany"
-
-#: templates/rights/metadata-usage-guidelines.html:18
-msgid ""
-"These usage guidelines are based on goodwill, they are not a legal contract "
-"but Europeana requests that you follow these guidelines if you use metadata "
-"from Europeana."
-msgstr ""
-"Zasady korzystania z serwisu odwołują się do dobrej woli użytkowników i nie "
-"stanowią umowy w rozumieniu prawa cywilnego, Europeana wymaga jednak ich "
-"respektowania w przypadku korzystania z metadanych Europeany."
-
-#: templates/rights/metadata-usage-guidelines.html:22
-msgid ""
-"All metadata published by Europeana are available free of restriction under "
-"the"
-msgstr ""
-"Wszystkie metadane dostępne w Europeanie dostępne są bez ograniczeń zgodnie z"
-
-#: templates/rights/metadata-usage-guidelines.html:22
-msgid ""
-"However, Europeana requests that you actively acknowledge and give "
-"attribution to all metadata sources, such as the data providers (being a "
-"specific cultural heritage institution) and any data aggregators, including "
-"Europeana."
-msgstr ""
-
-#: templates/rights/metadata-usage-guidelines.html:26
-msgid "Give credit where credit is due."
-msgstr ""
-
-#: templates/rights/metadata-usage-guidelines.html:30
-msgid ""
-"Give attribution to the data provider and all contributing data aggregators, "
-"including Europeana. Aggregators perform a crucial task in collecting, "
-"storing and harmonising data so that it is more widely accessible and "
-"interoperable."
-msgstr ""
-
-#: templates/rights/metadata-usage-guidelines.html:31
-msgid ""
-"Make sure that others are aware of the rights status of the Europeana "
-"metadata and are aware of these guidelines. One way you can do this is to "
-"keep links to the CC0 Public Domain Dedication intact."
-msgstr ""
-
-#: templates/rights/metadata-usage-guidelines.html:32
-msgid ""
-"If, for technical or other reasons, you cannot include all the appropriate "
-"source links and rights information alongside the metadata that you have "
-"used,  you should consider including them separately, for example in a "
-"separate document that is distributed with the metadata or dataset."
-msgstr ""
-
-#: templates/rights/metadata-usage-guidelines.html:33
-msgid ""
-"If, for technical or other reasons, you cannot include all the appropriate "
-"source links and rights information alongside the metadata that you have "
-"used,  you may consider linking only to the specific metadata source on "
-"Europeana, where all available sources and rights information can be found, "
-"including machine-readable formats."
-msgstr ""
-
-#: templates/rights/metadata-usage-guidelines.html:36
-msgid ""
-"Metadata is dynamic; consider using the metadata via the Europeana APIs or "
-"by linking."
-msgstr ""
-"Metadane są dynamiczne; spróbuj korzystać z metadanych poprzez API Europeany "
-"lub przez linki"
-
-#: templates/rights/metadata-usage-guidelines.html:39
-msgid ""
-"When working with metadata obtained via Europeana,please be aware that it is "
-"not static but subject to change. Europeana continuously updates its "
-"metadata to correct mistakes and include new and additional information. "
-"Therefore, the best way touse metadata published by Europeana is via the "
-"Europeana API or by linking to the specific data. If, for technical or other "
-"reasons, you cannot do this,then provide a link back to the source of the "
-"data on Europeana or implement an update mechanism."
-msgstr ""
-
-#: templates/rights/metadata-usage-guidelines.html:43
-msgid ""
-"Mention your modifications of the metadata and make your modified metadata "
-"available under the same terms."
-msgstr ""
-"Poinformuj o modyfikacjach, które zrobiłeś w metadanych i udostępnij je na "
-"tych samych warunkach."
-
-#: templates/rights/metadata-usage-guidelines.html:47
-msgid ""
-"Please do not use the metadata in a way that suggests you have any official "
-"status or that the data provider, aggregator or Europeana endorses you or "
-"your use of the metadata, unless you have prior permission to do so."
-msgstr ""
-
-#: templates/rights/metadata-usage-guidelines.html:48
-msgid ""
-"Please do not mislead others or misrepresent the metadata or its sources."
-msgstr ""
-"Błagamy, nie prowadzaj w błąd innych, nie fałszuj metadanych lub ich źródeł."
-
-#: templates/rights/metadata-usage-guidelines.html:49
-msgid ""
-"Please make the metadata and any improvements thereto freely available under "
-"the same terms as Europeana, i.e., without claiming any legal right to, or "
-"imposing any legally binding conditions on access to the metadata or your "
-"improvements."
-msgstr ""
-
-#: templates/rights/metadata-usage-guidelines.html:53
-msgid "Please note that you use the metadata at your own risk."
-msgstr "Proszę pamiętaj, że używasz metadanych na własne ryzyko"
-
-#: templates/rights/metadata-usage-guidelines.html:57
-msgid ""
-"Europeana offers the metadata as-is and makes no representations or "
-"warranties of any kind concerning any metadata published by Europeana."
-msgstr ""
-
-#: templates/rights/metadata-usage-guidelines.html:58
-msgid ""
-"Any use of the metadata must conform to all applicable laws and other "
-"regulations in your jurisdiction, notably concerning (but not limited to) "
-"data protection, defamation or copyright."
-msgstr ""
-"Wszelkie wykorzystanie metadanych musi być zgodne z obowiązującym prawem "
-"oraz innymi regulacjami, zwłaszcza (lecz nie tylko) w zakresie ochorny "
-"danych, ochrony dóbr osobistych oraz prawa autorskiego."
-
-#: templates/rights/metadata-usage-guidelines.html:59
-msgid ""
-"Be aware of any additional applicable community norms of data providers and "
-"data aggregators."
-msgstr ""
-
-#: templates/rights/metadata-usage-guidelines.html:63
-msgid "Thank you for your cooperation"
-msgstr "Dziękujemy za współpracę"
-
-#: templates/rights/pd-usage-guide.html:4
-msgid "Europeana - Public Domain Usage Guidelines"
-msgstr "Europeana - Przewodnik po Domenie Publicznej"
-
-#: templates/rights/privacy.html:4
-msgid "Europeana - Privacy policy"
-msgstr "Europeana - Polityka prywatności"
-
-#: templates/rights/privacy.html:17
-msgid "What Information do we collect?"
-msgstr "Jakiego typu informacje gromadzimy?"
-
-#: templates/rights/privacy.html:20
-msgid ""
-"In line with common practice, when you visit Europeana website and when you "
-"register with us, we record and store some information about you. In some "
-"cases we process this information in order to better understand our users "
-"and their needs. This is done to improve the content and the usability of "
-"our portal and the services we offer. However,  Europeana.eu recognizes the "
-"importance of privacy to users of the Europeana.eu portal; consequently we "
-"handle such personal information with care."
-msgstr ""
-"W zgodzie z powszechną praktyką, część informacji o użytkowniku, który "
-"odwiedza stronę Europeany i rejestruje się, jest zapisywana i przechowywana. "
-"W niektórych przypadkach przetwarzamy te informacje, aby lepiej poznać "
-"użytkowników i ich potrzeby. Celem takiego działania jest usprawnienie "
-"zawartości i użyteczności naszego portalu i oferowanych usług. Europeana.eu "
-"rozumie jednak wagę, jaką przywiązują do prywatności użytkownicy portalu "
-"Europeana.eu, i zapewnia, że osobiste informacje są traktowane z należytą "
-"troską."
-
-#: templates/rights/privacy.html:24
-msgid ""
-"Please read our Privacy Policy Statement to find out what information we log "
-"and how we use it. We collect the following: Log Files, cookies and "
-"information that we explicitly ask you to provide about yourself upon "
-"registration or upon using any electronic forms of communication with "
-"Europeana.eu staff."
-msgstr ""
-"Prosimy o zapoznanie się z naszą Polityką Prywatności, aby zobaczyć, jakiego "
-"typu informacje rejestrujemy i jak ich używamy. Gromadzimy: pliki logów, "
-"cookies i informacje, o które prosimy przy rejestracji lub podczas wymiany "
-"elektronicznej korespondencji z zespołem Europeana.eu."
-
-#: templates/rights/privacy.html:27
-msgid "Log Files and Cookies"
-msgstr "Pliki logów i cookies"
-
-#: templates/rights/privacy.html:29
-msgid ""
-"When you visit  Europeana.eu, your requests and actions are automatically "
-"logged on our server. Log files contain information such as your IP address, "
-"the date and time you accessed the website, the pages you requested for "
-"viewing, etc. Log files do not contain any personal identifiable information "
-"about you."
-msgstr ""
-"Podczas Twojej wizyty w portalu Europeana.eu wszystkie Twoje pytania i "
-"działania są automatycznie rejestrowane na naszym serwerze. Pliki logów "
-"zawierają informacje takie jak: adres IP komputera, data i czas dostępu do "
-"strony, wyświetlone strony itp. Pliki logów nie zawierają żadnych osobistych "
-"informacji, które mogłyby Cię identyfikować."
-
-#: templates/rights/privacy.html:32
-msgid ""
-"Cookies are small amounts of information sent from a web server to your "
-"browser and stored on your computers hard-drive. They contain information "
-"about the internet sites that you have visited. Europeana.eu uses cookies to "
-"recognise you and your access privileges. Most web browsers automatically "
-"accept cookies but you can usually change your browser settings to prevent "
-"this (although you might not have access to the full functionality of the "
-"website, such as the language settings you might have chosen)."
-msgstr ""
-"Cookies (ciasteczka) to niewielkie pliki informacyjne wysyłane z serwera "
-"sieciowego do Twojej przeglądarki i przechowywane na twardym dysku Twojego "
-"komputera. Zawierają informacje o odwiedzonych przez Ciebie stronach "
-"internetowych. Europeana.eu używa cookies w celu rozpoznania użytkownika i "
-"jego uprawnień dotyczących dostępu. Większość przeglądarek internetowych "
-"automatycznie akceptuje pliki cookies, ale istnieje możliwość zmiany "
-"ustawień przeglądarki, by temu zapobiec (chociaż w tym przypadku użytkownik "
-"może nie mieć dostępu do pełnej funkcjonalności strony, np. do wybranych "
-"wcześniej przez siebie ustawień językowych)."
-
-#: templates/rights/privacy.html:35
-msgid ""
-"Europeana.eu collects or logs cookies and information about its users and "
-"processes this information to produce usage statistics. By processing such "
-"information we are trying to identify user profiles and usage habits to "
-"improve the content and services we offer according to users needs. Log "
-"files analysis are also used to inform Europeana.eu partner libraries about "
-"digitisation priorities based on user preferences. These aggregated data do "
-"not contain information from which individuals can be identified. They are "
-"used strictly for the following purposes"
-msgstr ""
-"Europeana.eu zapisuje pliki logów oraz informacje o użytkownikach i "
-"przetwarza te informacje w celach statystycznych. Daje to możliwość "
-"identyfikacji profilów użytkowników oraz ich zachowań w celu ulepszania "
-"treści portalu oraz usług odpowiednio do potrzeb użytkowników. Analiza "
-"plików logów pozwala również na informowanie bibliotek partnerskich "
-"Europeany o priorytetach dotyczących digitalizacji w oparciu o preferencje "
-"użytkowników. Zebrane dane nie zawierają informacji, które mogłyby "
-"jednoznacznie identyfikować poszczególnych użytkowników. Są używane "
-"wyłącznie w następujących celach"
-
-#: templates/rights/privacy.html:38
-msgid "To monitor and to better administer traffic to the website."
-msgstr "Monitorowanie ruchu przychodzącego do strony i zarządzanie nim."
-
-#: templates/rights/privacy.html:39
-msgid "To assess and improve usability, services and content."
-msgstr "Ocena i poprawa użyteczności, usług i zawartości."
-
-#: templates/rights/privacy.html:40
-msgid "To identify technical shortcomings and to troubleshoot."
-msgstr "Identyfikacja usterek technicznych i ich rozwiązywanie."
-
-#: templates/rights/privacy.html:41
-msgid "To develop personalised services."
-msgstr "Rozbudowa spersonalizowanych usług."
-
-#: templates/rights/privacy.html:42
-msgid "To develop efficient marketing tools."
-msgstr "Rozwijanie skutecznych narzędzi marketingowych."
-
-#: templates/rights/privacy.html:46
-msgid "Registered users data and data from other online forms"
-msgstr "Dane zarejestrowanych użytkowników i dane z formularzy online"
-
-#: templates/rights/privacy.html:48
-msgid ""
-"When we ask you to register, we ask you to voluntarily supply some personal "
-"information about yourself. Identification of users allows us to provide "
-"personalised services on the portal. Currently the following options are "
-"offered: to save favorites or session query history for referencing at a "
-"later date. We intend to expand these services to offer more personalized "
-"possibilities to the users, such as: to save selected collections for use at "
-"a later date or to receive e-mail alerts about new collections added which "
-"might interest them."
-msgstr ""
-"Prośba o rejestrację jest prośbą o dobrowolne podanie niektórych osobistych "
-"informacji o użytkowniku. Identyfikacja użytkowników pozwala na świadczenie "
-"spersonalizowanych usług w portalu. Obecnie dostępne są następujące "
-"możliwości: zachowywanie ulubionych oraz historii wyszukiwania do "
-"wykorzystania w późniejszym terminie. Zamierzamy rozwijać te usługi w celu "
-"zapewnienia użytkownikom większych możliwości personalizacji, między innymi: "
-"zachowywania wybranych kolekcji do przeglądania ich w późniejszym terminie "
-"czy powiadamiania mailem o dodaniu nowych, potencjalnie interesujących dla "
-"danego użytkownika kolekcji."
-
-#: templates/rights/privacy.html:51
-msgid ""
-"Through the use of any electronic form on our website (feedback form, "
-"newsletter subscription, report a link) you agree to supply some minimum "
-"personal information (namely name and e-mail address). We may use this "
-"information to reply to you about the issue involved. Your personal "
-"information will not be used for direct mailing or for other reasons than to "
-"answer your request."
-msgstr ""
-"Poprzez wypełnienie jednego z elektronicznych formularzy na stronie "
-"(formularz komentarza, subskrypcja newslettera, zgłoszenie linku) wyrażasz "
-"zgodę na podanie niewielkiej ilości danych osobowych (nazwiska i adresu "
-"email). Możemy użyć tych informacji do odpowiedzenia Ci co do danej kwestii. "
-"Twoje dane osobowe nie będą używane w marketingu bezpośrednim ani w innych "
-"celach niż odpowiedzenie na Twoje pytanie."
-
-#: templates/rights/privacy.html:54
-msgid "Data Protection"
-msgstr "Ochrona danych"
-
-#: templates/rights/privacy.html:56
-msgid ""
-"Europeana.eu respects your privacy and seeks to protect your personal data. "
-"We do not sell, trade or rent the information we get from you on this site "
-"to others. Sometimes, we collaborate with public organisations such as "
-"universities that conduct research on our behalf on usage patterns and "
-"behaviour to help us improve the content and the services we offer. In these "
-"cases we do not disclose to them personal information (e.g. names or "
-"addresses)."
-msgstr ""
-"Europeana.eu szanuje Twoją prywatność i stara się chronić Twoje dane "
-"osobowe. Nie sprzedajemy, nie wymieniamy oraz nie wypożyczamy informacji, "
-"które od Ciebie otrzymujemy. Niekiedy współpracujemy z instytucjami "
-"publicznymi, takimi jak uniwersytety, które prowadzą dla nas badania "
-"dotyczące modeli użytkowania i zachowań użytkowników, by pomóc nam usprawnić "
-"oferowaną zawartość i usługi. W tych wypadkach nie ujawniamy danych "
-"osobowych (nazwisk, adresów itp.)."
-
-#: templates/rights/privacy.html:59
-msgid ""
-"Europeana.eu takes all necessary measures to protect the data from un-"
-"authorised access and use in a way other than that stated in the Privacy "
-"Policy. Europeana.eu is hosted by SARA in The Netherlands and therefore uses "
-"the systems and security in place for this public institution."
-msgstr ""
-"Europeana.eu robi wszystko, by chronić dane przed nieautoryzowanym dostępem "
-"oraz wykorzystaniem w sposób inny niż opisany w Polityce Prywatności. "
-"Europeana.eu jest posadowiona na serwerze SARA w Holandii i w związku z tym "
-"używa systemów ochrony używanych przez tę instytucję publiczną."
-
-#: templates/rights/privacy.html:62
-msgid ""
-"The data are stored for as long as they are useful for administrative "
-"reasons. Non-personal data may be stored indefinitely as research material."
-msgstr ""
-"Dane są przechowywane tak długo, jak długo są przydatne do celów "
-"administracyjnych. Dane nieosobowe mogą być przechowywane bezterminowo jako "
-"materiał do badań."
-
-#: templates/rights/privacy.html:65
-msgid ""
-"Please note: Under law, we may be required to disclose the information that "
-"we log to the appropriate legal authorities."
-msgstr ""
-"Uwaga: jako wymóg prawny możemy mieć obowiązek ujawnienia zarejestrowanych "
-"informacji odpowiednim władzom."
-
-#: templates/rights/privacy.html:68
-msgid "About this Privacy Policy Statement"
-msgstr "O Polityce prywatności"
-
-#: templates/rights/privacy.html:70
-msgid ""
-"This Site may contain links to other web sites that are beyond our control. "
-"This privacy policy applies solely to the information you provide while "
-"visiting this Site. Other web sites to which you link may contain privacy "
-"policies that are different from this privacy policy."
-msgstr ""
-"Niniejsza strona może zawierać linki do innych stron, które nie są przez nas "
-"kontrolowane. Polityka prywatności dotyczy tylko i wyłącznie informacji "
-"podanych w trakcie wizyty na naszej stronie. Polityka prywatności innych "
-"stron internetowych może różnić się od tej polityki."
-
-#: templates/rights/privacy.html:73
-msgid ""
-"The current privacy policy statement is in accordance with the Dutch "
-"Personal Data Protection Act (Wet Bescherming Persoonsgegevens)."
-msgstr ""
-"Ten zapis dotyczący zasad prywatności jest zgodny z holenderską ustawą o "
-"ochronie danych osobowych (Wet Bescherming Persoonsgegevens)."
-
-#: templates/rights/privacy.html:76
-msgid ""
-"Any changes to Europeana.eu privacy policy will be published on this page."
-msgstr ""
-"Każda zmiana polityki prywatności w Europeana.eu będzie opublikowana na tej "
-"stronie."
-
-#: templates/rights/privacy.html:79
-msgid "Questions, Complaints, and Dispute Resolution"
-msgstr "Pytania, skargi i rozwiązywanie konfliktów"
-
-#: templates/rights/privacy.html:81
-msgid ""
-"By using our website you consent to the terms of the Privacy Statement "
-"hereby described. However, you have the right to prevent the use of your "
-"personal data for personalised services and marketing as well as to request "
-"not to be further contacted by us.\n"
-"If you wish to be informed about the personal data collected about you, or "
-"to have this data corrected or removed, or have any other question with "
-"regards to this statement, please contact"
-msgstr ""
-"Używając tej strony internetowej, akceptujesz warunki zawarte w wyżej "
-"opisanej polityce prywatności. Masz jednak prawo zapobiec użyciu swoich "
-"danych osobowych dla spersonalizowanych usług i celów marketingowych, jak "
-"również zastrzec, aby się z Tobą więcej nie kontaktowano. \n"
-"Jeśli życzysz sobie być poinformowanym o danych osobowych zebranych na swój "
-"temat lub chcesz, aby zostały one skorygowane lub usunięte, lub też masz "
-"jakiekolwiek pytania dotyczące polityki prywatności, prosimy o "
-"skontaktowanie się z"
-
-#: templates/rights/privacy.html:85
-msgid "Date of creation of the Privacy Statement"
-msgstr "Data utworzenia oświadczenia o polityce prywatności"
-
-#: templates/rights/privacy.html:85 templates/rights/privacy.html.py:86
-#: templates/static_pages/aboutus_enews.html:24
-#: templates/static_pages/aboutus_enews.html:34
-#: templates/static_pages/aboutus_enews.html:43
-#: templates/static_pages/aboutus_enews.html:52
-msgid "September"
-msgstr "wrzesień"
-
-#: templates/rights/privacy.html:86
-msgid "Last amendment"
-msgstr "Ostatnia zmiana"
-
-#: templates/rights/privacy.html:89
-msgid "Feedback Form [title may differ in different languages]"
-msgstr "Formularz komentarza"
-
-#: templates/rights/privacy.html:90
-msgid ""
-"If you encounter any problem using this site or wish to make general "
-"comments/suggestions, please use this"
-msgstr ""
-"Jeśli podczas korzystania ze strony napotkasz jakikolwiek problem  lub "
-"zechesz podzielić się z nami ogólna uwagą lub sugestią, użyj"
-
-#: templates/rights/privacy.html:90
-msgid "contact form"
-msgstr "formularza kontaktowego"
-
-#: templates/rights/privacy.html:92
-msgid ""
-"All of our online forms that require you to enter personal information are "
-"designed to meet privacy requirements. This privacy policy provides further "
-"details."
-msgstr ""
-"Wszystkie formularze na naszej stronie, w których wpisuje się dane osobowe, "
-"są zabezpieczane zgodnie z wymogami prywatności. Polityka prywatności "
-"zawiera dalsze informacje."
-
-#: templates/rights/terms-and-policies.html:4
-msgid "Europeana - Terms and Policies"
-msgstr "Europeana - Zasady i Warunki"
-
-#: templates/rights/terms-and-policies.html:15
-msgid "Europeana Terms and Policies"
-msgstr "Europeana Zasady i Warunki"
-
-#: templates/rights/terms-and-policies.html:18
-msgid ""
-"In this section of the Europeana website you will find an overview of our "
-"Terms and Policies. These are divided into three subsections: 'Using Our "
-"data', 'Contributing data' and 'Our Policies':"
-msgstr ""
-"W tym miejscu znajdziesz przegląd zasad i warunków korzystania z Europeany. "
-"Zostały one przedstawione w trzech grupach: \"Wykorzystanie naszych danych"
-"\", \"Przesyłanie danych\" oraz \"Nasza polityka\":"
-
-#: templates/rights/terms-and-policies.html:22
-msgid "Using Our data"
-msgstr "Wykorzystanie naszych danych"
-
-#: templates/rights/terms-and-policies.html:22
-msgid ""
-"provides you with the Terms of Use and Guidelines for using the data "
-"published on Europeana.eu."
-msgstr ""
-"umożliwi Ci zapoznanie się z zasadami korzystania  oraz przewodnikiem po "
-"danych udostępnianych przez Europeana.eu."
-
-#: templates/rights/terms-and-policies.html:24
-msgid ""
-"governs what you can or cannot do with the metadata and previews that are "
-"published on Europeana.eu, with seperate"
-msgstr ""
-"reguluje, co można lub czego nie można zrobić z metadanych i zwiastunów, "
-"które są publikowane na Europeana.eu, z oddzielnym"
-
-#: templates/rights/terms-and-policies.html:24
-msgid "Terms of Use for the Europeana API"
-msgstr "Warunki wykorzystania API Europeany"
-
-#: templates/rights/terms-and-policies.html:24
-msgid "Europeana publishes guidelines for working with"
-msgstr "Europeana publikuje wskazówki dotyczące pracy z"
-
-#: templates/rights/terms-and-policies.html:24
-msgid "Europeana metadata"
-msgstr "Metadane Europeany"
-
-#: templates/rights/terms-and-policies.html:24
-msgid "as well as for using digital reproductions of"
-msgstr "podobnie jak wykorzystanie cyfrowych kopii"
-
-#: templates/rights/terms-and-policies.html:24
-msgid "Public Domain works that you find via Europeana."
-msgstr "Dzieła należące do Domeny Publicznej dostępne w Europeanie"
-
-#: templates/rights/terms-and-policies.html:24
-msgid "Additionally we provide a list of"
-msgstr "Dodatkowo dostarczyliśmy listę"
-
-#: templates/rights/terms-and-policies.html:24
-msgid "data sources that Europeana uses"
-msgstr "źródła danych, z których korzysta Europeana"
-
-#: templates/rights/terms-and-policies.html:24
-msgid "to enrich the metadata provided by our data providers"
-msgstr "aby ulepszyć metadane dostarczane przez naszych partnerów"
-
-#: templates/rights/terms-and-policies.html:28
-msgid "Contributing data"
-msgstr "Przesyłanie danych"
-
-#: templates/rights/terms-and-policies.html:28
-msgid ""
-"provides terms that ensure that Europeana can combine objects and data "
-"provided by individual users with the rest of the Europeana metadata"
-msgstr ""
-"zapewnia warunki pozwalające Europeanie łączenie obiektów i danych "
-"dostarczonych przez użytkowników indywidualnych z resztą metadanych Europeany"
-
-#: templates/rights/terms-and-policies.html:31
-msgid "The Europeana Data Exchange Agreement"
-msgstr "Porozumienie dotyczące wymiany danych w ramach Europeany"
-
-#: templates/rights/terms-and-policies.html:31
-msgid ""
-"governs the relationship between Europeana and the institutional data "
-"providers. The"
-msgstr ""
-"reguluje relacje pomiędzy Europeaną, a instytucjami, które dostarczają dane."
-
-#: templates/rights/terms-and-policies.html:31
-msgid "terms for user contributions"
-msgstr "zasady dla obiektów dostarczanych przez użytkowników"
-
-#: templates/rights/terms-and-policies.html:31
-msgid "governs the terms on which users contribute data to Europeana"
-msgstr "reguluje zasady, na których użytkownicy dostarczają dane do Europeany"
-
-#: templates/rights/terms-and-policies.html:35
-msgid "contains Europeana's policies"
-msgstr "zawiera politykę Europeany"
-
-#: templates/rights/terms-and-policies.html:37
-msgid "The"
-msgstr "-"
-
-#: templates/rights/terms-and-policies.html:37
-msgid ""
-"policy details how we treat personal information that we have collected from "
-"our users.  The"
-msgstr ""
-"szczegóły polityki, dotyczące tego, jak traktujemy osobiste informacje, "
-"zbierane od użytkowników."
-
-#: templates/rights/terms-and-policies.html:37
-msgid ""
-"policy describes Europeana's policy for providing information in a users own "
-"language and"
-msgstr ""
-"polityka opisuje politykę Europeany dotyczącą dostarczania informacji w "
-"języku ojczystym użytkowników"
-
-#: templates/rights/terms-and-policies.html:37
-msgid ""
-"describes Europeana's aim to provide functionality and content that is "
-"universally accessible. In this section you will also find the"
-msgstr ""
-"opisuje cel Europeany do zapewnienia funkcjonalności i treści, które są "
-"powszechnie dostępne. W tym dziale znajdą Państwo również"
-
-#: templates/rights/terms-and-policies.html:37
-msgid "Europeana Public Domain Charter"
-msgstr "Karta Domeny Publicznej Europeany"
-
-#: templates/rights/terms-and-policies.html:37
-msgid ""
-"that explains Europeana's contribution to strengthening the digital Public "
-"Domain"
-msgstr "to wyjaśnia wkład Europeany we wzmacnianiu cyfrowej domeny publicznej"
-
-#: templates/rights/terms-for-user-contributions.html:4
-msgid "Europeana - Our Terms for User Contributions"
-msgstr "Europeana - Zasady dostarczania treści przez użytkowników"
-
-#: templates/rights/terms-of-use.html:4
-msgid "Europeana - Terms of Use"
-msgstr "Europeana - warunki korzystania"
-
-#: templates/rights/terms-of-use.html:15
-msgid "Europeana Terms of Use"
-msgstr "Warunki korzystania z Europeany"
-
-#: templates/rights/terms-of-use.html:18
-msgid ""
-"The Europeana.eu website is run by the Europeana Foundation and gives access "
-"to a wide range of digitised cultural heritage from across Europe and "
-"beyond. This material is provided to Europeana by a large number of "
-"contributing institutions and organisations. Europeana strives to make all "
-"resources on this website available for re-use. As part of this, all "
-"metadata (textual information on digitised cultural heritage) on the site "
-"are published without any restrictions on re-use. Most other material, such "
-"as the previews to digitised cultural heritage, is clearly labelled with "
-"rights statements that indicate if and under which conditions it can be re-"
-"used."
-msgstr ""
-
-#: templates/rights/terms-of-use.html:21
-msgid "Metadata"
-msgstr "Metadane"
-
-#: templates/rights/terms-of-use.html:26
-msgid ""
-"All metadata available on europeana.eu are published free of restrictions, "
-"under the terms of the"
-msgstr ""
-"Wszystkie metadane dostępne na europeana.eu są wolne od ograniczeń, zgodnie "
-"z warunkami"
-
-#: templates/rights/terms-of-use.html:26
-msgid ""
-"However if you re-use data published by Europeana, we encourage you to "
-"follow the"
-msgstr ""
-"Jeśli ponowne wykorzystujesz dane opublikowane przez Europeanę, zachęcamy do "
-"naśladowania"
-
-#: templates/rights/terms-of-use.html:26
-msgid "and to provide attribution to the data sources whenever possible"
-msgstr "oraz w miarę możliwości zapewnić przypisanie do źródeł danych "
-
-#: templates/rights/terms-of-use.html:31
-msgid "Previews"
-msgstr "Premiery"
-
-#: templates/rights/terms-of-use.html:34
-msgid ""
-"The previews that are shown on Europeana.eu can only be used in accordance "
-"with the rights information displayed alongside them (the badges underneath "
-"the previews). If there is no rights information displayed alongside a "
-"preview, these previews may only be used in accordance with the applicable "
-"copyright laws. However, in the latter event, please refer to the website of "
-"the data provider to find out whether other types of use are also allowed."
-msgstr ""
-
-#: templates/rights/terms-of-use.html:37
-msgid "Notice and Takedown"
-msgstr "Notatki i Zapiski"
-
-#: templates/rights/terms-of-use.html:40
-msgid ""
-"Europeana is not the owner of the copyrights to the metadata, the previews "
-"or the digitised cultural heritage to which these metadata or previews "
-"refer. This information has been provided to Europeana by a large number of "
-"contributing institutions and organisations. These data providers have "
-"ensured Europeana that the owners of these rights have agreed to the "
-"publication of their works under the applicable conditions as referred to "
-"above. However, the Europeana Foundation cannot guarantee that this is "
-"always correct. If you think that anything published on Europeana.eu "
-"infringes your rights, you may report this to Europeana by emailing"
-msgstr ""
-
-#: templates/rights/terms-of-use.html:43
-msgid "Liability Disclaimer"
-msgstr "Zrzeczenie się odpowiedzialności"
-
-#: templates/rights/terms-of-use.html:45
-msgid ""
-"Europeana does not guarantee the accuracy or completeness of the website and "
-"its content."
-msgstr ""
-"Europeana nie gwarantuje jakości strony internetowej ani jej zawartości"
-
-#: templates/rights/terms-of-use.html:48
-msgid ""
-"Except to the extent required by applicable law, in no event will Europeana "
-"be liable on any legal theory for any special, incidental, consequential, "
-"punitive or exemplary damages arising out of the use of the website or its "
-"content. In particular, it will not be liable for the following:"
-msgstr ""
-"Za wyjątkiem zakresu, który jest wymagany przez obowiązujące przepisy prawa, "
-"Europeana w żadnym wypadku nie ponosi odpowiedzialności prawnej za wszelkie "
-"szczególne, przypadkowe, wynikowe szkody wynikające z korzystania ze strony "
-"internetowej lub jej zawartości. W szczególności, nie jest odpowiedzialna za:"
-
-#: templates/rights/terms-of-use.html:52
-msgid "Accuracy, completeness, etc. of the website or its content;"
-msgstr "Dokładność, kompletność, etc. tej strony lub jej zawartości;"
-
-#: templates/rights/terms-of-use.html:53
-msgid ""
-"Any infringement of privacy, publicity or other rights, including "
-"infringement of copyrights to metadata, previews or other content made "
-"available on Europeana.eu under conditions that were not approved by the "
-"right holder;"
-msgstr ""
-"Każde naruszenie prawa do prywatności, prawa publicznego  lub innych praw, w "
-"tym naruszenie praw autorskich do metadanych, zapowiedzi lub innych treści "
-"udostępnianych na Europeana.eu pod warunkiem że nie zostało dozwolone przez "
-"właściciela praw;"
-
-#: templates/rights/terms-of-use.html:54
-msgid ""
-"Any use by third parties that goes beyond the rights expressed in these "
-"terms of use."
-msgstr ""
-"Jakiekolwiek wykorzystanie przez osoby trzecie, które wykracza poza prawa "
-"wyrażone w niniejszych warunkach użytkowania."
-
-#: templates/rights/terms-of-use.html:57
-msgid "These terms of use"
-msgstr "Warunki korzystania"
-
-#: templates/rights/terms-of-use.html:59
-msgid ""
-"These terms of use do not pertain to the metadata, previews and other "
-"content of virtual exhibitions offered by Europeana on"
-msgstr ""
-
-#: templates/rights/terms-of-use.html:62
-msgid ""
-"By exercising any rights to the website or its content on grounds of these "
-"terms of use, you accept and agree to be bound to these terms of use. "
-"Europeana reserves the right to amend these terms of use."
-msgstr ""
-"Wykorzystując tę witrynę lub jej zawartości, akceptujesz i zgadzasz się na "
-"te warunki. Europeana zastrzega sobie prawo do zmiany niniejszego regulaminu."
-
-#: templates/rights/terms-of-use.html:65
-msgid "These terms of use are governed by the laws of The Netherlands."
-msgstr "Warunki uzytkowania reguklowane są przez prawo Holandii"
 
 #: templates/static_pages/aboutus.html:4
 msgid "Europeana - About us"
@@ -1548,6 +480,13 @@ msgstr "listopad"
 #: templates/static_pages/aboutus_enews.html:23
 msgid "Europe's culture - collected for you"
 msgstr ""
+
+#: templates/static_pages/aboutus_enews.html:24
+#: templates/static_pages/aboutus_enews.html:34
+#: templates/static_pages/aboutus_enews.html:43
+#: templates/static_pages/aboutus_enews.html:52
+msgid "September"
+msgstr "wrzesień"
 
 #: templates/static_pages/aboutus_enews.html:24
 msgid "Discover Europeana's hand-picked collections"
@@ -2040,6 +979,13 @@ msgstr "O nas"
 msgid "Using Europeana"
 msgstr "Korzystanie z Europeany"
 
+#: templates/static_pages/prop_file.html:67
+#: templates/static_pages/prop_file.html:538
+#: templates/static_pages/prop_file.html:539
+#: templates/static_pages/sitemap.html:108
+msgid "Accessibility"
+msgstr "Dostęp"
+
 #: templates/static_pages/prop_file.html:68
 #: templates/static_pages/prop_file.html:542
 #: templates/static_pages/prop_file.html:543
@@ -2053,6 +999,13 @@ msgstr "Mapa portalu"
 #: templates/static_pages/prop_file.html:388
 msgid "Terms and conditions"
 msgstr "Zasady i warunki"
+
+#: templates/static_pages/prop_file.html:70
+#: templates/static_pages/prop_file.html:550
+#: templates/static_pages/prop_file.html:551
+#: templates/static_pages/sitemap.html:106
+msgid "Privacy"
+msgstr "Prywatność"
 
 #: templates/static_pages/prop_file.html:71
 #: templates/static_pages/sitemap.html:107
@@ -2509,6 +1462,11 @@ msgstr "Zakończ rejestrację"
 #: templates/static_pages/prop_file.html:181
 msgid "You have successfully registered"
 msgstr "Rejestracja powiodła się"
+
+#: templates/static_pages/prop_file.html:182
+#: templates/static_pages/prop_file.html:265
+msgid "Language"
+msgstr "Jezyk"
 
 #: templates/static_pages/prop_file.html:183
 msgid "English (eng)"
@@ -4766,11 +3724,39 @@ msgstr ""
 msgid "API1-API2 compatability"
 msgstr ""
 
+#: templates/static_pages/sitemap.html:99
+msgid "Terms of Use"
+msgstr "Zasady korzystania"
+
+#: templates/static_pages/sitemap.html:100
+msgid "Usage Guidelines for Metadata"
+msgstr "Przewodnik po metadanych"
+
+#: templates/static_pages/sitemap.html:101
+msgid "Public Domain Usage Guidelines"
+msgstr "Przewodnik po Domenie Publicznej"
+
+#: templates/static_pages/sitemap.html:102
+msgid "API Terms of Use"
+msgstr "Zasady korzystania z API"
+
+#: templates/static_pages/sitemap.html:103
+msgid "Europeana Data Sources"
+msgstr "Źródła Danych Europeany"
+
 #: templates/static_pages/sitemap.html:104
 msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
 msgstr ""
 "Porozumienie dotyczące wymiany danych w ramach Europeany (na Europeana "
 "Professional)"
+
+#: templates/static_pages/sitemap.html:105
+msgid "Terms for User Contributions"
+msgstr "Zasady dotyczące zasobów dostarczonych przez użytkowników"
+
+#: templates/static_pages/sitemap.html:109
+msgid "Public Domain Charter"
+msgstr "Karta Doment Publicznej"
 
 #: templates/static_pages/sitemap.html:115
 msgid "Free Access - no-reuse"
@@ -6370,6 +5356,762 @@ msgid ""
 "We would love to know how you are using this search widget, please tell us "
 "by dropping us an email at"
 msgstr ""
+
+#~ msgid "Terms &amp; Policies"
+#~ msgstr "Terminy, Zasady "
+
+#~ msgid "Introduction"
+#~ msgstr "Wprowadzenie"
+
+#~ msgid "Using our data"
+#~ msgstr "Korzystanie z danych"
+
+#~ msgid "Contributing data to us"
+#~ msgstr "Przekazywanie do nas danych"
+
+#~ msgid "Europeana Data Exchange Agreement"
+#~ msgstr "Porozumienie dotyczące wymiany danych w ramach Europeany "
+
+#~ msgid "Our policies"
+#~ msgstr "Nasza polityka"
+
+#~ msgid "Europeana - Accessibility policy"
+#~ msgstr "Europeana - polityka dostępności"
+
+#~ msgid ""
+#~ "Europeana.eu features and content have been designed to be universally\n"
+#~ "accessible by users and user agents/devices. We strive to meet the WC3 "
+#~ "Web\n"
+#~ "Content Accessibility Guidelines Version 1.0."
+#~ msgstr ""
+#~ "Kształt i zawartość portalu Europeana.eu zostały tak zaprojektowane, by "
+#~ "zapewnić użytkownikom i ich urządzeniom powszechny dostęp. Staramy się "
+#~ "spełniać warunki WC3 Web Content Accessibility Guidelines Version 1.0 "
+#~ "(Wytyczne dotyczące dostępności treści internetowych)."
+
+#~ msgid "Some of the accessibility features of our site include"
+#~ msgstr "Oto niektóre z funkcji dostępności portalu"
+
+#~ msgid "Meaningful page titles to help with orientation"
+#~ msgstr "Znaczące tytuły stron pozwalają na lepszą orientację"
+
+#~ msgid ""
+#~ "Almost all images have either a meaningful alt-text (text equivalent)"
+#~ msgstr ""
+#~ "Prawie wszystkie obrazy posiadają również odpowiednik tekstowy (alt-text)"
+
+#~ msgid "Minimal use of frames"
+#~ msgstr "Ramki są stosowane w stopniu minimalnym"
+
+#~ msgid "Use of resizable fonts"
+#~ msgstr "Używane są fonty skalowalne"
+
+#~ msgid ""
+#~ "Use Cascading Style Sheets (CSS) to separate content from presentation"
+#~ msgstr ""
+#~ "Używane są style kaskadowe (CSS) w celu oddzielenia zawartości od warstwy "
+#~ "prezentacyjnej"
+
+#~ msgid "Notifying a user when a link opens a new window"
+#~ msgstr "Użytkownik jest powiadamiany, gdy link otwiera nowe okno"
+
+#~ msgid "The (core) functionalities are usable without JavaScript"
+#~ msgstr "Większość funkcji nie wymaga używania JavaScript"
+
+#~ msgid ""
+#~ "Please send us any feedback or questions on the accessibility of "
+#~ "Europeana.eu with the"
+#~ msgstr ""
+#~ "Prosimy o nadsyłanie komentarzy i pytań dotyczących funkcjonalności "
+#~ "Europeany przy użyciu"
+
+#~ msgid "feedback form"
+#~ msgstr "formularza komentarza"
+
+#~ msgid "Europeana - API Terms of Use"
+#~ msgstr "Europeana - warunki korzystania z API"
+
+#~ msgid "Europeana API Terms of Use"
+#~ msgstr "Warunki korzystania z API Europeany"
+
+#~ msgid "Europeana - Language policy"
+#~ msgstr "Europeana - Polityka językowa"
+
+#~ msgid "Europeana.eu follows similar policy guidelines to"
+#~ msgstr ""
+#~ "Europeana.eu kieruje się wytycznymi zbliżonymi do tych zawartych w portalu"
+
+#~ msgid "Europa"
+#~ msgstr "Europa"
+
+#~ msgid "(the portal site of The European Union)"
+#~ msgstr "(oficjalny portal Unii Europejskiej)"
+
+#~ msgid ""
+#~ "As far as possible, the aim is to provide the public with the information "
+#~ "they\n"
+#~ "are looking for in their own language. However, due to constraints on "
+#~ "resources,\n"
+#~ "this isn't always possible"
+#~ msgstr ""
+#~ "Tam, gdzie jest to możliwe, staramy się podawać informacje w języku, "
+#~ "którym posługuje się użytkownik. Z powodu ograniczonych zasobów nie "
+#~ "zawsze jest to jednak możliwe."
+
+#~ msgid ""
+#~ "Therefore the following guidelines apply in Europa and will\n"
+#~ "apply in Europeana.eu"
+#~ msgstr ""
+#~ "Poniższe wytyczne stosowane w portalu Europa będą stosowane w portalu "
+#~ "Europeana.eu"
+
+#~ msgid "all top (*) level pages in all full partner languages"
+#~ msgstr ""
+#~ "najważniejsze (*) strony są dostępne w językach wszystkich partnerów"
+
+#~ msgid "prioritise speed of publication over availability of translation"
+#~ msgstr "szybkość publikacji informacji ma priorytet wyższy niż tłumaczenie"
+
+#~ msgid ""
+#~ "Allow limited 'language mixing' (**) i.e.: where a warning sign needs to "
+#~ "be displayed"
+#~ msgstr ""
+#~ "dopuszczalne jest istnienie stron wielojęzycznych (**), gdzie będą "
+#~ "wyświetlane symbole informujące o wielojęzyczności"
+
+#~ msgid "(*) i.e.: the navigation, search, retrieval and display interfaces"
+#~ msgstr "(*) tzn. nawigacja, wyszukiwanie i wyświetlanie informacji"
+
+#~ msgid "(**) Language mixing = more than one language on a page"
+#~ msgstr ""
+#~ "(**) Strona wielojęzyczna = zawierająca informacje w więcej niż jednym "
+#~ "języku"
+
+#~ msgid "In practical terms this means the following"
+#~ msgstr "W praktyce oznacza to, że"
+
+#~ msgid ""
+#~ "Tools to manage translation will be developed and maintained by Europeana."
+#~ "eu"
+#~ msgstr ""
+#~ "Narzędzia do zarządzania tłumaczeniami są tworzone i rozwijane przez "
+#~ "Europeana.eu."
+
+#~ msgid ""
+#~ "The completion of the translations will be the responsibility of\n"
+#~ "each designated volunteer partner institution"
+#~ msgstr ""
+#~ "Za ukończenie tłumaczenia odpowiedzialni są wyznaczeni ochotnicy - "
+#~ "partnerzy projektu."
+
+#~ msgid ""
+#~ "These are unofficial translations and may not correspond exactly with the "
+#~ "English version"
+#~ msgstr ""
+#~ "Są to nieoficjalne tłumaczenia i mogą nie odpowiadać dokładnie wersji "
+#~ "oryginalnej."
+
+#~ msgid ""
+#~ "Europeana.eu will notify each designated volunteer partner\n"
+#~ "institution should an update be required but will not chase for that\n"
+#~ "update"
+#~ msgstr ""
+#~ "Europeana.eu będzie informować instytucje partnerskie o potrzebie "
+#~ "zaktualizowania tłumaczeń, lecz nie będzie kontrolować ich aktualizowania."
+
+#~ msgid ""
+#~ "Information that is urgent or has a very short life is in\n"
+#~ "English only e.g.: Ad-hoc error messages"
+#~ msgstr ""
+#~ "Pilne lub doraźne informacje (np. komunikaty o błędach) będą wyświetlane "
+#~ "wyłącznie w języku angielskim."
+
+#~ msgid ""
+#~ "All surveys about the site will be produced in all\n"
+#~ "feasible languages only"
+#~ msgstr ""
+#~ "Wszystkie ankiety dotyczące strony będą przygotowywane tylko w dostępnych "
+#~ "językach."
+
+#~ msgid ""
+#~ "Search Engine Promotion to be executed in English, in the\n"
+#~ "first instance"
+#~ msgstr ""
+#~ "Promocja w wyszukiwarkach będzie realizowana przede wszystkim w języku "
+#~ "angielskim."
+
+#~ msgid ""
+#~ "The Management section and the technical information will\n"
+#~ "be maintained solely in English, as the working language of\n"
+#~ "Europeana.eu"
+#~ msgstr ""
+#~ "Informacje dotyczące zarządzania stroną oraz informacje techniczne będą "
+#~ "utrzymywane wyłącznie w języku angielskim, który jest roboczym językiem "
+#~ "Europeany."
+
+#~ msgid ""
+#~ "If, however, an individual institution wishes to translate and maintain\n"
+#~ "any of the above from within their own resources, Europeana.eu would be "
+#~ "happy\n"
+#~ "to enable its display"
+#~ msgstr ""
+#~ "Jeżeli jednak któraś z instytucji partnerskich zechce przetłumaczyć "
+#~ "wymienione powyżej informacje, Europeana.eu z przyjemnością udostępni to "
+#~ "tłumaczenie na stronie."
+
+#~ msgid ""
+#~ "The translations are made on a voluntary basis by our partners and are "
+#~ "for information only. The legally valid text is in English only."
+#~ msgstr ""
+#~ "Tłumaczenia są wykonywane na zasadzie dobrowolności przez naszych "
+#~ "partnerów i są podane tylko dla informacji. Legalnie wiążący jest tylko "
+#~ "tekst w języku angielskim."
+
+#~ msgid "Europeana - Europeana Data Sources"
+#~ msgstr "Europeana - źródła danych"
+
+#~ msgid "Europeana - Usage Guidelines for Metadata"
+#~ msgstr "Europeana - wskazówki dotyczące korzystania z metadanych"
+
+#~ msgid "Europeana Usage Guidelines for Metadata"
+#~ msgstr "Wskazówki dotyczące korzystania z metadanych Europeany"
+
+#~ msgid ""
+#~ "These usage guidelines are based on goodwill, they are not a legal "
+#~ "contract but Europeana requests that you follow these guidelines if you "
+#~ "use metadata from Europeana."
+#~ msgstr ""
+#~ "Zasady korzystania z serwisu odwołują się do dobrej woli użytkowników i "
+#~ "nie stanowią umowy w rozumieniu prawa cywilnego, Europeana wymaga jednak "
+#~ "ich respektowania w przypadku korzystania z metadanych Europeany."
+
+#~ msgid ""
+#~ "All metadata published by Europeana are available free of restriction "
+#~ "under the"
+#~ msgstr ""
+#~ "Wszystkie metadane dostępne w Europeanie dostępne są bez ograniczeń "
+#~ "zgodnie z"
+
+#~ msgid ""
+#~ "Metadata is dynamic; consider using the metadata via the Europeana APIs "
+#~ "or by linking."
+#~ msgstr ""
+#~ "Metadane są dynamiczne; spróbuj korzystać z metadanych poprzez API "
+#~ "Europeany lub przez linki"
+
+#~ msgid ""
+#~ "Mention your modifications of the metadata and make your modified "
+#~ "metadata available under the same terms."
+#~ msgstr ""
+#~ "Poinformuj o modyfikacjach, które zrobiłeś w metadanych i udostępnij je "
+#~ "na tych samych warunkach."
+
+#~ msgid ""
+#~ "Please do not mislead others or misrepresent the metadata or its sources."
+#~ msgstr ""
+#~ "Błagamy, nie prowadzaj w błąd innych, nie fałszuj metadanych lub ich "
+#~ "źródeł."
+
+#~ msgid "Please note that you use the metadata at your own risk."
+#~ msgstr "Proszę pamiętaj, że używasz metadanych na własne ryzyko"
+
+#~ msgid ""
+#~ "Any use of the metadata must conform to all applicable laws and other "
+#~ "regulations in your jurisdiction, notably concerning (but not limited to) "
+#~ "data protection, defamation or copyright."
+#~ msgstr ""
+#~ "Wszelkie wykorzystanie metadanych musi być zgodne z obowiązującym prawem "
+#~ "oraz innymi regulacjami, zwłaszcza (lecz nie tylko) w zakresie ochorny "
+#~ "danych, ochrony dóbr osobistych oraz prawa autorskiego."
+
+#~ msgid "Thank you for your cooperation"
+#~ msgstr "Dziękujemy za współpracę"
+
+#~ msgid "Europeana - Public Domain Usage Guidelines"
+#~ msgstr "Europeana - Przewodnik po Domenie Publicznej"
+
+#~ msgid "Europeana - Privacy policy"
+#~ msgstr "Europeana - Polityka prywatności"
+
+#~ msgid "What Information do we collect?"
+#~ msgstr "Jakiego typu informacje gromadzimy?"
+
+#~ msgid ""
+#~ "In line with common practice, when you visit Europeana website and when "
+#~ "you register with us, we record and store some information about you. In "
+#~ "some cases we process this information in order to better understand our "
+#~ "users and their needs. This is done to improve the content and the "
+#~ "usability of our portal and the services we offer. However,  Europeana.eu "
+#~ "recognizes the importance of privacy to users of the Europeana.eu portal; "
+#~ "consequently we handle such personal information with care."
+#~ msgstr ""
+#~ "W zgodzie z powszechną praktyką, część informacji o użytkowniku, który "
+#~ "odwiedza stronę Europeany i rejestruje się, jest zapisywana i "
+#~ "przechowywana. W niektórych przypadkach przetwarzamy te informacje, aby "
+#~ "lepiej poznać użytkowników i ich potrzeby. Celem takiego działania jest "
+#~ "usprawnienie zawartości i użyteczności naszego portalu i oferowanych "
+#~ "usług. Europeana.eu rozumie jednak wagę, jaką przywiązują do prywatności "
+#~ "użytkownicy portalu Europeana.eu, i zapewnia, że osobiste informacje są "
+#~ "traktowane z należytą troską."
+
+#~ msgid ""
+#~ "Please read our Privacy Policy Statement to find out what information we "
+#~ "log and how we use it. We collect the following: Log Files, cookies and "
+#~ "information that we explicitly ask you to provide about yourself upon "
+#~ "registration or upon using any electronic forms of communication with "
+#~ "Europeana.eu staff."
+#~ msgstr ""
+#~ "Prosimy o zapoznanie się z naszą Polityką Prywatności, aby zobaczyć, "
+#~ "jakiego typu informacje rejestrujemy i jak ich używamy. Gromadzimy: pliki "
+#~ "logów, cookies i informacje, o które prosimy przy rejestracji lub podczas "
+#~ "wymiany elektronicznej korespondencji z zespołem Europeana.eu."
+
+#~ msgid "Log Files and Cookies"
+#~ msgstr "Pliki logów i cookies"
+
+#~ msgid ""
+#~ "When you visit  Europeana.eu, your requests and actions are automatically "
+#~ "logged on our server. Log files contain information such as your IP "
+#~ "address, the date and time you accessed the website, the pages you "
+#~ "requested for viewing, etc. Log files do not contain any personal "
+#~ "identifiable information about you."
+#~ msgstr ""
+#~ "Podczas Twojej wizyty w portalu Europeana.eu wszystkie Twoje pytania i "
+#~ "działania są automatycznie rejestrowane na naszym serwerze. Pliki logów "
+#~ "zawierają informacje takie jak: adres IP komputera, data i czas dostępu "
+#~ "do strony, wyświetlone strony itp. Pliki logów nie zawierają żadnych "
+#~ "osobistych informacji, które mogłyby Cię identyfikować."
+
+#~ msgid ""
+#~ "Cookies are small amounts of information sent from a web server to your "
+#~ "browser and stored on your computers hard-drive. They contain information "
+#~ "about the internet sites that you have visited. Europeana.eu uses cookies "
+#~ "to recognise you and your access privileges. Most web browsers "
+#~ "automatically accept cookies but you can usually change your browser "
+#~ "settings to prevent this (although you might not have access to the full "
+#~ "functionality of the website, such as the language settings you might "
+#~ "have chosen)."
+#~ msgstr ""
+#~ "Cookies (ciasteczka) to niewielkie pliki informacyjne wysyłane z serwera "
+#~ "sieciowego do Twojej przeglądarki i przechowywane na twardym dysku "
+#~ "Twojego komputera. Zawierają informacje o odwiedzonych przez Ciebie "
+#~ "stronach internetowych. Europeana.eu używa cookies w celu rozpoznania "
+#~ "użytkownika i jego uprawnień dotyczących dostępu. Większość przeglądarek "
+#~ "internetowych automatycznie akceptuje pliki cookies, ale istnieje "
+#~ "możliwość zmiany ustawień przeglądarki, by temu zapobiec (chociaż w tym "
+#~ "przypadku użytkownik może nie mieć dostępu do pełnej funkcjonalności "
+#~ "strony, np. do wybranych wcześniej przez siebie ustawień językowych)."
+
+#~ msgid ""
+#~ "Europeana.eu collects or logs cookies and information about its users and "
+#~ "processes this information to produce usage statistics. By processing "
+#~ "such information we are trying to identify user profiles and usage habits "
+#~ "to improve the content and services we offer according to users needs. "
+#~ "Log files analysis are also used to inform Europeana.eu partner libraries "
+#~ "about digitisation priorities based on user preferences. These aggregated "
+#~ "data do not contain information from which individuals can be identified. "
+#~ "They are used strictly for the following purposes"
+#~ msgstr ""
+#~ "Europeana.eu zapisuje pliki logów oraz informacje o użytkownikach i "
+#~ "przetwarza te informacje w celach statystycznych. Daje to możliwość "
+#~ "identyfikacji profilów użytkowników oraz ich zachowań w celu ulepszania "
+#~ "treści portalu oraz usług odpowiednio do potrzeb użytkowników. Analiza "
+#~ "plików logów pozwala również na informowanie bibliotek partnerskich "
+#~ "Europeany o priorytetach dotyczących digitalizacji w oparciu o "
+#~ "preferencje użytkowników. Zebrane dane nie zawierają informacji, które "
+#~ "mogłyby jednoznacznie identyfikować poszczególnych użytkowników. Są "
+#~ "używane wyłącznie w następujących celach"
+
+#~ msgid "To monitor and to better administer traffic to the website."
+#~ msgstr "Monitorowanie ruchu przychodzącego do strony i zarządzanie nim."
+
+#~ msgid "To assess and improve usability, services and content."
+#~ msgstr "Ocena i poprawa użyteczności, usług i zawartości."
+
+#~ msgid "To identify technical shortcomings and to troubleshoot."
+#~ msgstr "Identyfikacja usterek technicznych i ich rozwiązywanie."
+
+#~ msgid "To develop personalised services."
+#~ msgstr "Rozbudowa spersonalizowanych usług."
+
+#~ msgid "To develop efficient marketing tools."
+#~ msgstr "Rozwijanie skutecznych narzędzi marketingowych."
+
+#~ msgid "Registered users data and data from other online forms"
+#~ msgstr "Dane zarejestrowanych użytkowników i dane z formularzy online"
+
+#~ msgid ""
+#~ "When we ask you to register, we ask you to voluntarily supply some "
+#~ "personal information about yourself. Identification of users allows us to "
+#~ "provide personalised services on the portal. Currently the following "
+#~ "options are offered: to save favorites or session query history for "
+#~ "referencing at a later date. We intend to expand these services to offer "
+#~ "more personalized possibilities to the users, such as: to save selected "
+#~ "collections for use at a later date or to receive e-mail alerts about new "
+#~ "collections added which might interest them."
+#~ msgstr ""
+#~ "Prośba o rejestrację jest prośbą o dobrowolne podanie niektórych "
+#~ "osobistych informacji o użytkowniku. Identyfikacja użytkowników pozwala "
+#~ "na świadczenie spersonalizowanych usług w portalu. Obecnie dostępne są "
+#~ "następujące możliwości: zachowywanie ulubionych oraz historii "
+#~ "wyszukiwania do wykorzystania w późniejszym terminie. Zamierzamy rozwijać "
+#~ "te usługi w celu zapewnienia użytkownikom większych możliwości "
+#~ "personalizacji, między innymi: zachowywania wybranych kolekcji do "
+#~ "przeglądania ich w późniejszym terminie czy powiadamiania mailem o "
+#~ "dodaniu nowych, potencjalnie interesujących dla danego użytkownika "
+#~ "kolekcji."
+
+#~ msgid ""
+#~ "Through the use of any electronic form on our website (feedback form, "
+#~ "newsletter subscription, report a link) you agree to supply some minimum "
+#~ "personal information (namely name and e-mail address). We may use this "
+#~ "information to reply to you about the issue involved. Your personal "
+#~ "information will not be used for direct mailing or for other reasons than "
+#~ "to answer your request."
+#~ msgstr ""
+#~ "Poprzez wypełnienie jednego z elektronicznych formularzy na stronie "
+#~ "(formularz komentarza, subskrypcja newslettera, zgłoszenie linku) "
+#~ "wyrażasz zgodę na podanie niewielkiej ilości danych osobowych (nazwiska i "
+#~ "adresu email). Możemy użyć tych informacji do odpowiedzenia Ci co do "
+#~ "danej kwestii. Twoje dane osobowe nie będą używane w marketingu "
+#~ "bezpośrednim ani w innych celach niż odpowiedzenie na Twoje pytanie."
+
+#~ msgid "Data Protection"
+#~ msgstr "Ochrona danych"
+
+#~ msgid ""
+#~ "Europeana.eu respects your privacy and seeks to protect your personal "
+#~ "data. We do not sell, trade or rent the information we get from you on "
+#~ "this site to others. Sometimes, we collaborate with public organisations "
+#~ "such as universities that conduct research on our behalf on usage "
+#~ "patterns and behaviour to help us improve the content and the services we "
+#~ "offer. In these cases we do not disclose to them personal information (e."
+#~ "g. names or addresses)."
+#~ msgstr ""
+#~ "Europeana.eu szanuje Twoją prywatność i stara się chronić Twoje dane "
+#~ "osobowe. Nie sprzedajemy, nie wymieniamy oraz nie wypożyczamy informacji, "
+#~ "które od Ciebie otrzymujemy. Niekiedy współpracujemy z instytucjami "
+#~ "publicznymi, takimi jak uniwersytety, które prowadzą dla nas badania "
+#~ "dotyczące modeli użytkowania i zachowań użytkowników, by pomóc nam "
+#~ "usprawnić oferowaną zawartość i usługi. W tych wypadkach nie ujawniamy "
+#~ "danych osobowych (nazwisk, adresów itp.)."
+
+#~ msgid ""
+#~ "Europeana.eu takes all necessary measures to protect the data from un-"
+#~ "authorised access and use in a way other than that stated in the Privacy "
+#~ "Policy. Europeana.eu is hosted by SARA in The Netherlands and therefore "
+#~ "uses the systems and security in place for this public institution."
+#~ msgstr ""
+#~ "Europeana.eu robi wszystko, by chronić dane przed nieautoryzowanym "
+#~ "dostępem oraz wykorzystaniem w sposób inny niż opisany w Polityce "
+#~ "Prywatności. Europeana.eu jest posadowiona na serwerze SARA w Holandii i "
+#~ "w związku z tym używa systemów ochrony używanych przez tę instytucję "
+#~ "publiczną."
+
+#~ msgid ""
+#~ "The data are stored for as long as they are useful for administrative "
+#~ "reasons. Non-personal data may be stored indefinitely as research "
+#~ "material."
+#~ msgstr ""
+#~ "Dane są przechowywane tak długo, jak długo są przydatne do celów "
+#~ "administracyjnych. Dane nieosobowe mogą być przechowywane bezterminowo "
+#~ "jako materiał do badań."
+
+#~ msgid ""
+#~ "Please note: Under law, we may be required to disclose the information "
+#~ "that we log to the appropriate legal authorities."
+#~ msgstr ""
+#~ "Uwaga: jako wymóg prawny możemy mieć obowiązek ujawnienia "
+#~ "zarejestrowanych informacji odpowiednim władzom."
+
+#~ msgid "About this Privacy Policy Statement"
+#~ msgstr "O Polityce prywatności"
+
+#~ msgid ""
+#~ "This Site may contain links to other web sites that are beyond our "
+#~ "control. This privacy policy applies solely to the information you "
+#~ "provide while visiting this Site. Other web sites to which you link may "
+#~ "contain privacy policies that are different from this privacy policy."
+#~ msgstr ""
+#~ "Niniejsza strona może zawierać linki do innych stron, które nie są przez "
+#~ "nas kontrolowane. Polityka prywatności dotyczy tylko i wyłącznie "
+#~ "informacji podanych w trakcie wizyty na naszej stronie. Polityka "
+#~ "prywatności innych stron internetowych może różnić się od tej polityki."
+
+#~ msgid ""
+#~ "The current privacy policy statement is in accordance with the Dutch "
+#~ "Personal Data Protection Act (Wet Bescherming Persoonsgegevens)."
+#~ msgstr ""
+#~ "Ten zapis dotyczący zasad prywatności jest zgodny z holenderską ustawą o "
+#~ "ochronie danych osobowych (Wet Bescherming Persoonsgegevens)."
+
+#~ msgid ""
+#~ "Any changes to Europeana.eu privacy policy will be published on this page."
+#~ msgstr ""
+#~ "Każda zmiana polityki prywatności w Europeana.eu będzie opublikowana na "
+#~ "tej stronie."
+
+#~ msgid "Questions, Complaints, and Dispute Resolution"
+#~ msgstr "Pytania, skargi i rozwiązywanie konfliktów"
+
+#~ msgid ""
+#~ "By using our website you consent to the terms of the Privacy Statement "
+#~ "hereby described. However, you have the right to prevent the use of your "
+#~ "personal data for personalised services and marketing as well as to "
+#~ "request not to be further contacted by us.\n"
+#~ "If you wish to be informed about the personal data collected about you, "
+#~ "or to have this data corrected or removed, or have any other question "
+#~ "with regards to this statement, please contact"
+#~ msgstr ""
+#~ "Używając tej strony internetowej, akceptujesz warunki zawarte w wyżej "
+#~ "opisanej polityce prywatności. Masz jednak prawo zapobiec użyciu swoich "
+#~ "danych osobowych dla spersonalizowanych usług i celów marketingowych, jak "
+#~ "również zastrzec, aby się z Tobą więcej nie kontaktowano. \n"
+#~ "Jeśli życzysz sobie być poinformowanym o danych osobowych zebranych na "
+#~ "swój temat lub chcesz, aby zostały one skorygowane lub usunięte, lub też "
+#~ "masz jakiekolwiek pytania dotyczące polityki prywatności, prosimy o "
+#~ "skontaktowanie się z"
+
+#~ msgid "Date of creation of the Privacy Statement"
+#~ msgstr "Data utworzenia oświadczenia o polityce prywatności"
+
+#~ msgid "Last amendment"
+#~ msgstr "Ostatnia zmiana"
+
+#~ msgid "Feedback Form [title may differ in different languages]"
+#~ msgstr "Formularz komentarza"
+
+#~ msgid ""
+#~ "If you encounter any problem using this site or wish to make general "
+#~ "comments/suggestions, please use this"
+#~ msgstr ""
+#~ "Jeśli podczas korzystania ze strony napotkasz jakikolwiek problem  lub "
+#~ "zechesz podzielić się z nami ogólna uwagą lub sugestią, użyj"
+
+#~ msgid "contact form"
+#~ msgstr "formularza kontaktowego"
+
+#~ msgid ""
+#~ "All of our online forms that require you to enter personal information "
+#~ "are designed to meet privacy requirements. This privacy policy provides "
+#~ "further details."
+#~ msgstr ""
+#~ "Wszystkie formularze na naszej stronie, w których wpisuje się dane "
+#~ "osobowe, są zabezpieczane zgodnie z wymogami prywatności. Polityka "
+#~ "prywatności zawiera dalsze informacje."
+
+#~ msgid "Europeana - Terms and Policies"
+#~ msgstr "Europeana - Zasady i Warunki"
+
+#~ msgid "Europeana Terms and Policies"
+#~ msgstr "Europeana Zasady i Warunki"
+
+#~ msgid ""
+#~ "In this section of the Europeana website you will find an overview of our "
+#~ "Terms and Policies. These are divided into three subsections: 'Using Our "
+#~ "data', 'Contributing data' and 'Our Policies':"
+#~ msgstr ""
+#~ "W tym miejscu znajdziesz przegląd zasad i warunków korzystania z "
+#~ "Europeany. Zostały one przedstawione w trzech grupach: \"Wykorzystanie "
+#~ "naszych danych\", \"Przesyłanie danych\" oraz \"Nasza polityka\":"
+
+#~ msgid "Using Our data"
+#~ msgstr "Wykorzystanie naszych danych"
+
+#~ msgid ""
+#~ "provides you with the Terms of Use and Guidelines for using the data "
+#~ "published on Europeana.eu."
+#~ msgstr ""
+#~ "umożliwi Ci zapoznanie się z zasadami korzystania  oraz przewodnikiem po "
+#~ "danych udostępnianych przez Europeana.eu."
+
+#~ msgid ""
+#~ "governs what you can or cannot do with the metadata and previews that are "
+#~ "published on Europeana.eu, with seperate"
+#~ msgstr ""
+#~ "reguluje, co można lub czego nie można zrobić z metadanych i zwiastunów, "
+#~ "które są publikowane na Europeana.eu, z oddzielnym"
+
+#~ msgid "Terms of Use for the Europeana API"
+#~ msgstr "Warunki wykorzystania API Europeany"
+
+#~ msgid "Europeana publishes guidelines for working with"
+#~ msgstr "Europeana publikuje wskazówki dotyczące pracy z"
+
+#~ msgid "Europeana metadata"
+#~ msgstr "Metadane Europeany"
+
+#~ msgid "as well as for using digital reproductions of"
+#~ msgstr "podobnie jak wykorzystanie cyfrowych kopii"
+
+#~ msgid "Public Domain works that you find via Europeana."
+#~ msgstr "Dzieła należące do Domeny Publicznej dostępne w Europeanie"
+
+#~ msgid "Additionally we provide a list of"
+#~ msgstr "Dodatkowo dostarczyliśmy listę"
+
+#~ msgid "data sources that Europeana uses"
+#~ msgstr "źródła danych, z których korzysta Europeana"
+
+#~ msgid "to enrich the metadata provided by our data providers"
+#~ msgstr "aby ulepszyć metadane dostarczane przez naszych partnerów"
+
+#~ msgid "Contributing data"
+#~ msgstr "Przesyłanie danych"
+
+#~ msgid ""
+#~ "provides terms that ensure that Europeana can combine objects and data "
+#~ "provided by individual users with the rest of the Europeana metadata"
+#~ msgstr ""
+#~ "zapewnia warunki pozwalające Europeanie łączenie obiektów i danych "
+#~ "dostarczonych przez użytkowników indywidualnych z resztą metadanych "
+#~ "Europeany"
+
+#~ msgid "The Europeana Data Exchange Agreement"
+#~ msgstr "Porozumienie dotyczące wymiany danych w ramach Europeany"
+
+#~ msgid ""
+#~ "governs the relationship between Europeana and the institutional data "
+#~ "providers. The"
+#~ msgstr ""
+#~ "reguluje relacje pomiędzy Europeaną, a instytucjami, które dostarczają "
+#~ "dane."
+
+#~ msgid "terms for user contributions"
+#~ msgstr "zasady dla obiektów dostarczanych przez użytkowników"
+
+#~ msgid "governs the terms on which users contribute data to Europeana"
+#~ msgstr ""
+#~ "reguluje zasady, na których użytkownicy dostarczają dane do Europeany"
+
+#~ msgid "contains Europeana's policies"
+#~ msgstr "zawiera politykę Europeany"
+
+#~ msgid "The"
+#~ msgstr "-"
+
+#~ msgid ""
+#~ "policy details how we treat personal information that we have collected "
+#~ "from our users.  The"
+#~ msgstr ""
+#~ "szczegóły polityki, dotyczące tego, jak traktujemy osobiste informacje, "
+#~ "zbierane od użytkowników."
+
+#~ msgid ""
+#~ "policy describes Europeana's policy for providing information in a users "
+#~ "own language and"
+#~ msgstr ""
+#~ "polityka opisuje politykę Europeany dotyczącą dostarczania informacji w "
+#~ "języku ojczystym użytkowników"
+
+#~ msgid ""
+#~ "describes Europeana's aim to provide functionality and content that is "
+#~ "universally accessible. In this section you will also find the"
+#~ msgstr ""
+#~ "opisuje cel Europeany do zapewnienia funkcjonalności i treści, które są "
+#~ "powszechnie dostępne. W tym dziale znajdą Państwo również"
+
+#~ msgid "Europeana Public Domain Charter"
+#~ msgstr "Karta Domeny Publicznej Europeany"
+
+#~ msgid ""
+#~ "that explains Europeana's contribution to strengthening the digital "
+#~ "Public Domain"
+#~ msgstr ""
+#~ "to wyjaśnia wkład Europeany we wzmacnianiu cyfrowej domeny publicznej"
+
+#~ msgid "Europeana - Our Terms for User Contributions"
+#~ msgstr "Europeana - Zasady dostarczania treści przez użytkowników"
+
+#~ msgid "Europeana - Terms of Use"
+#~ msgstr "Europeana - warunki korzystania"
+
+#~ msgid "Europeana Terms of Use"
+#~ msgstr "Warunki korzystania z Europeany"
+
+#~ msgid "Metadata"
+#~ msgstr "Metadane"
+
+#~ msgid ""
+#~ "All metadata available on europeana.eu are published free of "
+#~ "restrictions, under the terms of the"
+#~ msgstr ""
+#~ "Wszystkie metadane dostępne na europeana.eu są wolne od ograniczeń, "
+#~ "zgodnie z warunkami"
+
+#~ msgid ""
+#~ "However if you re-use data published by Europeana, we encourage you to "
+#~ "follow the"
+#~ msgstr ""
+#~ "Jeśli ponowne wykorzystujesz dane opublikowane przez Europeanę, zachęcamy "
+#~ "do naśladowania"
+
+#~ msgid "and to provide attribution to the data sources whenever possible"
+#~ msgstr "oraz w miarę możliwości zapewnić przypisanie do źródeł danych "
+
+#~ msgid "Previews"
+#~ msgstr "Premiery"
+
+#~ msgid "Notice and Takedown"
+#~ msgstr "Notatki i Zapiski"
+
+#~ msgid "Liability Disclaimer"
+#~ msgstr "Zrzeczenie się odpowiedzialności"
+
+#~ msgid ""
+#~ "Europeana does not guarantee the accuracy or completeness of the website "
+#~ "and its content."
+#~ msgstr ""
+#~ "Europeana nie gwarantuje jakości strony internetowej ani jej zawartości"
+
+#~ msgid ""
+#~ "Except to the extent required by applicable law, in no event will "
+#~ "Europeana be liable on any legal theory for any special, incidental, "
+#~ "consequential, punitive or exemplary damages arising out of the use of "
+#~ "the website or its content. In particular, it will not be liable for the "
+#~ "following:"
+#~ msgstr ""
+#~ "Za wyjątkiem zakresu, który jest wymagany przez obowiązujące przepisy "
+#~ "prawa, Europeana w żadnym wypadku nie ponosi odpowiedzialności prawnej za "
+#~ "wszelkie szczególne, przypadkowe, wynikowe szkody wynikające z "
+#~ "korzystania ze strony internetowej lub jej zawartości. W szczególności, "
+#~ "nie jest odpowiedzialna za:"
+
+#~ msgid "Accuracy, completeness, etc. of the website or its content;"
+#~ msgstr "Dokładność, kompletność, etc. tej strony lub jej zawartości;"
+
+#~ msgid ""
+#~ "Any infringement of privacy, publicity or other rights, including "
+#~ "infringement of copyrights to metadata, previews or other content made "
+#~ "available on Europeana.eu under conditions that were not approved by the "
+#~ "right holder;"
+#~ msgstr ""
+#~ "Każde naruszenie prawa do prywatności, prawa publicznego  lub innych "
+#~ "praw, w tym naruszenie praw autorskich do metadanych, zapowiedzi lub "
+#~ "innych treści udostępnianych na Europeana.eu pod warunkiem że nie zostało "
+#~ "dozwolone przez właściciela praw;"
+
+#~ msgid ""
+#~ "Any use by third parties that goes beyond the rights expressed in these "
+#~ "terms of use."
+#~ msgstr ""
+#~ "Jakiekolwiek wykorzystanie przez osoby trzecie, które wykracza poza prawa "
+#~ "wyrażone w niniejszych warunkach użytkowania."
+
+#~ msgid "These terms of use"
+#~ msgstr "Warunki korzystania"
+
+#~ msgid ""
+#~ "By exercising any rights to the website or its content on grounds of "
+#~ "these terms of use, you accept and agree to be bound to these terms of "
+#~ "use. Europeana reserves the right to amend these terms of use."
+#~ msgstr ""
+#~ "Wykorzystując tę witrynę lub jej zawartości, akceptujesz i zgadzasz się "
+#~ "na te warunki. Europeana zastrzega sobie prawo do zmiany niniejszego "
+#~ "regulaminu."
+
+#~ msgid "These terms of use are governed by the laws of The Netherlands."
+#~ msgstr "Warunki uzytkowania reguklowane są przez prawo Holandii"
 
 #, fuzzy
 #~ msgid "New &amp; Improved - Europeana 1914-1918"

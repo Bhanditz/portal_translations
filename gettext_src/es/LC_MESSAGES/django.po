@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-09-10 13:41+0200\n"
+"POT-Creation-Date: 2014-09-17 11:45+0200\n"
 "PO-Revision-Date: 2014-08-07 10:35\n"
 "Last-Translator: <anna.vandenbroek@europeana.eu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -262,7 +262,12 @@ msgstr "Política lingüística"
 msgid "Accessibility"
 msgstr "Accesibilidad"
 
-#: templates/terms_leftmenu.html:27 templates/static_pages/sitemap.html:109
+#: templates/terms_leftmenu.html:27 templates/rights/publications.html:10
+#, fuzzy
+msgid "Publications"
+msgstr "Fecha de publicación"
+
+#: templates/terms_leftmenu.html:28 templates/static_pages/sitemap.html:109
 msgid "Public Domain Charter"
 msgstr "Carta sobre el dominio público"
 
@@ -1074,10 +1079,13 @@ msgstr ""
 "Formulario de opinión [el título puede variar en los distintos idiomas]"
 
 #: templates/rights/privacy.html:90
+#, fuzzy
 msgid ""
 "If you encounter any problem using this site or wish to make general "
 "comments/suggestions, please use this"
 msgstr ""
+"Si se encuentra con algún problema durante la utilización de este sitio o "
+"desea realizar algún comentario general o sugerencia, por favor utilice"
 
 #: templates/rights/privacy.html:90
 msgid "contact form"
@@ -1093,6 +1101,11 @@ msgstr ""
 "información personal están diseñados para respetar la privacidad de los "
 "usuarios. Nuestra política de privacidad proporciona más detalles al "
 "respecto."
+
+#: templates/rights/publications.html:4
+#, fuzzy
+msgid "Europeana - Publications"
+msgstr "Exposiciones de Europeana"
 
 #: templates/rights/terms-and-policies.html:4
 msgid "Europeana - Terms and Policies"
@@ -1245,9 +1258,12 @@ msgstr ""
 "público digital se refiere"
 
 #: templates/rights/terms-for-user-contributions.html:4
-msgid "Europeana - Our Terms for User Contributions"
-msgstr ""
-"Europeana - Nuestras condiciones para las contribuciones de los usuarios"
+msgid "Europeana - Terms for User Contributions"
+msgstr "Europeana - Condiciones para las contribuciones de los usuarios"
+
+#: templates/rights/terms-for-user-contributions.html:49
+msgid "Europeana Terms for User Contributions"
+msgstr "Condiciones de Europeana para los contribuciones de los usuarios"
 
 #: templates/rights/terms-of-use.html:4
 msgid "Europeana - Terms of Use"
@@ -6553,6 +6569,10 @@ msgid ""
 "by dropping us an email at"
 msgstr ""
 
+#~ msgid "Europeana - Our Terms for User Contributions"
+#~ msgstr ""
+#~ "Europeana - Nuestras condiciones para las contribuciones de los usuarios"
+
 #, fuzzy
 #~ msgid "New &amp; Improved - Europeana 1914-1918"
 #~ msgstr "Europeana 1914-1918"
@@ -6648,12 +6668,6 @@ msgstr ""
 #~ "A este objeto sólo puede accederse mediante registro o alguna otra forma "
 #~ "de acceso controlado. Su utilización está sujeta a las condiciones de "
 #~ "licencia fijadas por la organización que proporciona acceso al mismo."
-
-#~ msgid "Europeana - Terms for User Contributions"
-#~ msgstr "Europeana - Condiciones para las contribuciones de los usuarios"
-
-#~ msgid "Europeana Terms for User Contributions"
-#~ msgstr "Condiciones de Europeana para los contribuciones de los usuarios"
 
 #~ msgid "Europeana - Unknown copyright status"
 #~ msgstr "Europeana - Estatus de copyright desconocido"
@@ -8477,13 +8491,6 @@ msgstr ""
 
 #~ msgid "Privacy policy"
 #~ msgstr "Política de privacidad"
-
-#~ msgid ""
-#~ "If you encounter any problem using this site or wish to make general "
-#~ "comments/suggestions, please use"
-#~ msgstr ""
-#~ "Si se encuentra con algún problema durante la utilización de este sitio o "
-#~ "desea realizar algún comentario general o sugerencia, por favor utilice"
 
 #~ msgid "this form"
 #~ msgstr "este formulario"

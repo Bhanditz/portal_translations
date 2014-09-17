@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-09-10 13:41+0200\n"
+"POT-Creation-Date: 2014-09-17 11:46+0200\n"
 "PO-Revision-Date: 2014-08-07 14:42\n"
 "Last-Translator: <anna.vandenbroek@europeana.eu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -262,7 +262,12 @@ msgstr "Език"
 msgid "Accessibility"
 msgstr "Достъпност"
 
-#: templates/terms_leftmenu.html:27 templates/static_pages/sitemap.html:109
+#: templates/terms_leftmenu.html:27 templates/rights/publications.html:10
+#, fuzzy
+msgid "Publications"
+msgstr "Дата на публикуване"
+
+#: templates/terms_leftmenu.html:28 templates/static_pages/sitemap.html:109
 msgid "Public Domain Charter"
 msgstr "Хартата за творби обществено достояние"
 
@@ -1069,6 +1074,11 @@ msgstr ""
 "личните данни. Този документ за Защита на личните данни предлага повече "
 "информация относно това."
 
+#: templates/rights/publications.html:4
+#, fuzzy
+msgid "Europeana - Publications"
+msgstr "Europeana изложби"
+
 #: templates/rights/terms-and-policies.html:4
 msgid "Europeana - Terms and Policies"
 msgstr "Europeana - Условия и политики"
@@ -1217,7 +1227,11 @@ msgstr ""
 "достояние"
 
 #: templates/rights/terms-for-user-contributions.html:4
-msgid "Europeana - Our Terms for User Contributions"
+msgid "Europeana - Terms for User Contributions"
+msgstr "Europeana - Условия за принос на потребителите"
+
+#: templates/rights/terms-for-user-contributions.html:49
+msgid "Europeana Terms for User Contributions"
 msgstr "Europeana условия за принос на потребителите"
 
 #: templates/rights/terms-of-use.html:4
@@ -2770,8 +2784,9 @@ msgid "Ge'ez (gez)"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:227
+#, fuzzy
 msgid "Breton (br)"
-msgstr ""
+msgstr "Норвежки (nor)"
 
 #: templates/static_pages/prop_file.html:228
 #, fuzzy
@@ -2801,8 +2816,9 @@ msgid "Coptic (cop)"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:234
+#, fuzzy
 msgid "Occitan (oc)"
-msgstr ""
+msgstr "Норвежки (nor)"
 
 #: templates/static_pages/prop_file.html:235
 msgid "Thai (th)"
@@ -6513,8 +6529,9 @@ msgid "More information on the Rights Reserved - Free Access label"
 msgstr "Повече информация за Правата за ползване - етикет Свободен достъп"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:36
+#, fuzzy
 msgid "More information on the Rights Reserved - Restricted Access label"
-msgstr ""
+msgstr "Повече информация за Правата за ползване - етикет Платен достъп"
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:37
 msgid "More information on the Rights Reserved - Paid Access label"
@@ -6608,6 +6625,9 @@ msgid ""
 msgstr ""
 "Бихме желали да разберем как използвате  widget-а за търсене, така че просто "
 "ни изпратете емейл на адрес"
+
+#~ msgid "Europeana - Our Terms for User Contributions"
+#~ msgstr "Europeana условия за принос на потребителите"
 
 #, fuzzy
 #~ msgid "New &amp; Improved - Europeana 1914-1918"
@@ -6905,12 +6925,6 @@ msgstr ""
 #~ "Убедете се, че потребителите са запознати с правата на достъп до "
 #~ "метаданните в Europeana и познават тези насоки. Един от начините да "
 #~ "направите това е да запазите непроменена връзката към CC0 Public Domain. "
-
-#~ msgid "Europeana - Terms for User Contributions"
-#~ msgstr "Europeana - Условия за принос на потребителите"
-
-#~ msgid "Europeana Terms for User Contributions"
-#~ msgstr "Europeana условия за принос на потребителите"
 
 #~ msgid "Follow U"
 #~ msgstr "Следвай ни"

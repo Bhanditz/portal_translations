@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-09-10 13:41+0200\n"
+"POT-Creation-Date: 2014-09-17 11:45+0200\n"
 "PO-Revision-Date: 2014-08-05 13:04\n"
 "Last-Translator: <jacob.lundqvist@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -262,7 +262,11 @@ msgstr ""
 msgid "Accessibility"
 msgstr ""
 
-#: templates/terms_leftmenu.html:27 templates/static_pages/sitemap.html:109
+#: templates/terms_leftmenu.html:27 templates/rights/publications.html:10
+msgid "Publications"
+msgstr ""
+
+#: templates/terms_leftmenu.html:28 templates/static_pages/sitemap.html:109
 msgid "Public Domain Charter"
 msgstr ""
 
@@ -889,6 +893,10 @@ msgid ""
 "details."
 msgstr ""
 
+#: templates/rights/publications.html:4
+msgid "Europeana - Publications"
+msgstr ""
+
 #: templates/rights/terms-and-policies.html:4
 msgid "Europeana - Terms and Policies"
 msgstr ""
@@ -1017,7 +1025,11 @@ msgid ""
 msgstr ""
 
 #: templates/rights/terms-for-user-contributions.html:4
-msgid "Europeana - Our Terms for User Contributions"
+msgid "Europeana - Terms for User Contributions"
+msgstr ""
+
+#: templates/rights/terms-for-user-contributions.html:49
+msgid "Europeana Terms for User Contributions"
 msgstr ""
 
 #: templates/rights/terms-of-use.html:4

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-09-10 13:41+0200\n"
+"POT-Creation-Date: 2014-09-17 11:45+0200\n"
 "PO-Revision-Date: 2014-08-05 13:41\n"
 "Last-Translator: <jacob.lundqvist@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -262,7 +262,12 @@ msgstr "Sprog"
 msgid "Accessibility"
 msgstr "Adgang"
 
-#: templates/terms_leftmenu.html:27 templates/static_pages/sitemap.html:109
+#: templates/terms_leftmenu.html:27 templates/rights/publications.html:10
+#, fuzzy
+msgid "Publications"
+msgstr "Udgivelsesdato"
+
+#: templates/terms_leftmenu.html:28 templates/static_pages/sitemap.html:109
 msgid "Public Domain Charter"
 msgstr "Fundats for Åbent Forum"
 
@@ -1047,6 +1052,11 @@ msgstr ""
 "til aftalerne om personlig diskretion. \n"
 "Denne politik om beskyttelse af persondata giver yderligere oplysninger."
 
+#: templates/rights/publications.html:4
+#, fuzzy
+msgid "Europeana - Publications"
+msgstr "Udstillinger på Europeana"
+
 #: templates/rights/terms-and-policies.html:4
 msgid "Europeana - Terms and Policies"
 msgstr "Europeana - Vilkår og politikker"
@@ -1194,8 +1204,12 @@ msgstr ""
 "Forum"
 
 #: templates/rights/terms-for-user-contributions.html:4
-msgid "Europeana - Our Terms for User Contributions"
-msgstr "Europeana - Vilkår for brugerbidrag "
+msgid "Europeana - Terms for User Contributions"
+msgstr "Europeana - Vilkår for brugerbidrag"
+
+#: templates/rights/terms-for-user-contributions.html:49
+msgid "Europeana Terms for User Contributions"
+msgstr "Europeanas vilkår for brugerbidrag"
 
 #: templates/rights/terms-of-use.html:4
 msgid "Europeana - Terms of Use"
@@ -6454,6 +6468,9 @@ msgid ""
 "by dropping us an email at"
 msgstr ""
 
+#~ msgid "Europeana - Our Terms for User Contributions"
+#~ msgstr "Europeana - Vilkår for brugerbidrag "
+
 #, fuzzy
 #~ msgid "New &amp; Improved - Europeana 1914-1918"
 #~ msgstr "Europeana 1914-1918"
@@ -6535,12 +6552,6 @@ msgstr ""
 #~ "Materialet er kun tilgængeligt gennem registrering eller anden form for "
 #~ "kontrolleret adgang og til enhver tid underlagt den adgangsgivende "
 #~ "institutions licensbetingelser."
-
-#~ msgid "Europeana - Terms for User Contributions"
-#~ msgstr "Europeana - Vilkår for brugerbidrag"
-
-#~ msgid "Europeana Terms for User Contributions"
-#~ msgstr "Europeanas vilkår for brugerbidrag"
 
 #~ msgid "Europeana - Unknown copyright status"
 #~ msgstr "Europeana - ukendt ophavsretslig status"

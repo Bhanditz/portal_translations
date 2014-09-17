@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-09-10 13:41+0200\n"
+"POT-Creation-Date: 2014-09-17 11:43+0200\n"
 "PO-Revision-Date: 2014-08-05 13:35\n"
 "Last-Translator: <jacob.lundqvist@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -197,8 +197,7 @@ msgstr ""
 msgid "Using our data"
 msgstr ""
 
-#: templates/terms_leftmenu.html:9 templates/rights/terms-and-policies.html:24
-#: templates/static_pages/sitemap.html:99
+#: templates/terms_leftmenu.html:9 templates/static_pages/sitemap.html:99
 msgid "Terms of Use"
 msgstr "Käyttöehdot"
 
@@ -233,12 +232,10 @@ msgid "Terms for User Contributions"
 msgstr ""
 
 #: templates/terms_leftmenu.html:22
-#: templates/rights/terms-and-policies.html:35
 msgid "Our policies"
 msgstr ""
 
 #: templates/terms_leftmenu.html:24 templates/rights/privacy.html:15
-#: templates/rights/terms-and-policies.html:37
 #: templates/static_pages/prop_file.html:70
 #: templates/static_pages/prop_file.html:550
 #: templates/static_pages/prop_file.html:551
@@ -247,14 +244,12 @@ msgid "Privacy"
 msgstr "Yksityisyys"
 
 #: templates/terms_leftmenu.html:25 templates/rights/languagepolicy.html:15
-#: templates/rights/terms-and-policies.html:37
 #: templates/static_pages/prop_file.html:182
 #: templates/static_pages/prop_file.html:265
 msgid "Language"
 msgstr "Kieli"
 
 #: templates/terms_leftmenu.html:26 templates/rights/accessibility.html:15
-#: templates/rights/terms-and-policies.html:37
 #: templates/static_pages/prop_file.html:67
 #: templates/static_pages/prop_file.html:538
 #: templates/static_pages/prop_file.html:539
@@ -262,7 +257,12 @@ msgstr "Kieli"
 msgid "Accessibility"
 msgstr "Esteettömyys"
 
-#: templates/terms_leftmenu.html:27 templates/static_pages/sitemap.html:109
+#: templates/terms_leftmenu.html:27
+#, fuzzy
+msgid "Publications"
+msgstr "Julkaisupäivä"
+
+#: templates/terms_leftmenu.html:28 templates/static_pages/sitemap.html:109
 msgid "Public Domain Charter"
 msgstr ""
 
@@ -337,8 +337,9 @@ msgid "eNews"
 msgstr "eNews-uutiskirje"
 
 #: templates/rights/accessibility.html:4
+#, fuzzy
 msgid "Europeana - Accessibility policy"
-msgstr ""
+msgstr "Europeana - Esteettömyys"
 
 #: templates/rights/accessibility.html:17
 msgid ""
@@ -408,12 +409,14 @@ msgid "feedback form"
 msgstr "Palautelomake"
 
 #: templates/rights/api-terms-of-use.html:4
+#, fuzzy
 msgid "Europeana - API Terms of Use"
-msgstr ""
+msgstr "Europeana - käyttöehdot"
 
 #: templates/rights/api-terms-of-use.html:15
+#, fuzzy
 msgid "Europeana API Terms of Use"
-msgstr ""
+msgstr "Europeanan käyttöehdot"
 
 #: templates/rights/languagepolicy.html:4
 msgid "Europeana - Language policy"
@@ -563,17 +566,19 @@ msgstr ""
 "vain suuntaa-antavia. Juridisesti pitävä teksti on ainoastaan englanniksi."
 
 #: templates/rights/linked-data-sources.html:4
+#, fuzzy
 msgid "Europeana - Europeana Data Sources"
-msgstr ""
+msgstr "Linked Open Data"
 
 #: templates/rights/metadata-usage-guidelines.html:4
+#, fuzzy
 msgid "Europeana - Usage Guidelines for Metadata"
-msgstr ""
+msgstr "Europeana - ohjeita public domain -aineiston käyttöön"
 
 #: templates/rights/metadata-usage-guidelines.html:15
-#: templates/rights/terms-of-use.html:26
+#, fuzzy
 msgid "Europeana Usage Guidelines for Metadata"
-msgstr ""
+msgstr "Europeana - ohjeita public domain -aineiston käyttöön"
 
 #: templates/rights/metadata-usage-guidelines.html:18
 msgid ""
@@ -583,10 +588,11 @@ msgid ""
 msgstr ""
 
 #: templates/rights/metadata-usage-guidelines.html:22
+#, fuzzy
 msgid ""
 "All metadata published by Europeana are available free of restriction under "
 "the"
-msgstr ""
+msgstr "Kaikki Europeana.eu-sivuston kuvailutiedot on julkaistu rajoituksetta "
 
 #: templates/rights/metadata-usage-guidelines.html:22
 msgid ""
@@ -703,8 +709,9 @@ msgid "Thank you for your cooperation"
 msgstr ""
 
 #: templates/rights/pd-usage-guide.html:4
+#, fuzzy
 msgid "Europeana - Public Domain Usage Guidelines"
-msgstr ""
+msgstr "Europeanan etusivulle - klikkaa tästä"
 
 #: templates/rights/privacy.html:4
 msgid "Europeana - Privacy policy"
@@ -991,14 +998,18 @@ msgid "Feedback Form [title may differ in different languages]"
 msgstr "Palautelomake"
 
 #: templates/rights/privacy.html:90
+#, fuzzy
 msgid ""
 "If you encounter any problem using this site or wish to make general "
 "comments/suggestions, please use this"
 msgstr ""
+"Jos tämän sivuston käytössä on ongelmia tai haluatte esittää muita "
+"kommentteja tai ehdotuksia, käyttäkää"
 
 #: templates/rights/privacy.html:90
+#, fuzzy
 msgid "contact form"
-msgstr ""
+msgstr "Yhteystiedot"
 
 #: templates/rights/privacy.html:92
 msgid ""
@@ -1008,324 +1019,6 @@ msgid ""
 msgstr ""
 "Kaikissa verkkolomakkeissamme, joissa vaaditaan henkilötietoja, noudatetaan "
 "yksityisyyden suojaa. Lisätietoja Yksityisyyden suoja -sivullamme."
-
-#: templates/rights/terms-and-policies.html:4
-msgid "Europeana - Terms and Policies"
-msgstr ""
-
-#: templates/rights/terms-and-policies.html:15
-msgid "Europeana Terms and Policies"
-msgstr ""
-
-#: templates/rights/terms-and-policies.html:18
-msgid ""
-"In this section of the Europeana website you will find an overview of our "
-"Terms and Policies. These are divided into three subsections: 'Using Our "
-"data', 'Contributing data' and 'Our Policies':"
-msgstr ""
-"Verkkosivuston tässä osiossa esitetään Europeanan käyttöehdot ja käytännöt. "
-"Osio jakautuu kolmeen alaosioon: 'Using Our data', 'Contributing data' and "
-"'Our Policies':"
-
-#: templates/rights/terms-and-policies.html:22
-msgid "Using Our data"
-msgstr ""
-
-#: templates/rights/terms-and-policies.html:22
-msgid ""
-"provides you with the Terms of Use and Guidelines for using the data "
-"published on Europeana.eu."
-msgstr ""
-"-alaosio sisältää käyttöehdot ja Europeana.eu:ssa julkaistuja aineistoja "
-"koskevat käyttöohjeet."
-
-#: templates/rights/terms-and-policies.html:24
-msgid ""
-"governs what you can or cannot do with the metadata and previews that are "
-"published on Europeana.eu, with seperate"
-msgstr ""
-"-kohdassa kerrotaan, miten Europeana.eu:ssa julkaistuja kuvailutietoja ja "
-"esikatselukuvia voi käyttää. Lisäksi on laadittu erilliset"
-
-#: templates/rights/terms-and-policies.html:24
-msgid "Terms of Use for the Europeana API"
-msgstr "käyttöehdot Europeanan ohjelmointirajapintaa varten"
-
-#: templates/rights/terms-and-policies.html:24
-msgid "Europeana publishes guidelines for working with"
-msgstr "Europeana julkaisee ohjeita"
-
-#: templates/rights/terms-and-policies.html:24
-msgid "Europeana metadata"
-msgstr "Europeanan kuvailutietojen"
-
-#: templates/rights/terms-and-policies.html:24
-msgid "as well as for using digital reproductions of"
-msgstr "sekä"
-
-#: templates/rights/terms-and-policies.html:24
-msgid "Public Domain works that you find via Europeana."
-msgstr ""
-"Europeanan sisältämien, yleisesti saatavilla olevien teosten digitaalisia "
-"jäljennöksien käyttöä varten."
-
-#: templates/rights/terms-and-policies.html:24
-msgid "Additionally we provide a list of"
-msgstr "Alaosiossa on myös "
-
-#: templates/rights/terms-and-policies.html:24
-msgid "data sources that Europeana uses"
-msgstr "luettelo Europeanan tietolähteistä"
-
-#: templates/rights/terms-and-policies.html:24
-msgid "to enrich the metadata provided by our data providers"
-msgstr ""
-", joita käytetään aineiston toimittajilta saatujen kuvailutietojen "
-"rikastamiseen"
-
-#: templates/rights/terms-and-policies.html:28
-msgid "Contributing data"
-msgstr ""
-
-#: templates/rights/terms-and-policies.html:28
-msgid ""
-"provides terms that ensure that Europeana can combine objects and data "
-"provided by individual users with the rest of the Europeana metadata"
-msgstr ""
-"-alaosio sisältää käyttöehdot, jotka varmistavat, että Europeana voi "
-"yhdistää yksittäisten käyttäjien toimittamat tiedot ja aineistot muihin "
-"Europeanan kuvailutietoihin."
-
-#: templates/rights/terms-and-policies.html:31
-msgid "The Europeana Data Exchange Agreement"
-msgstr ""
-
-#: templates/rights/terms-and-policies.html:31
-msgid ""
-"governs the relationship between Europeana and the institutional data "
-"providers. The"
-msgstr ""
-"-osio koskee Europeanan ja aineistoja toimittavien laitosten välistä "
-"suhdetta. "
-
-#: templates/rights/terms-and-policies.html:31
-msgid "terms for user contributions"
-msgstr "Terms for user contributions"
-
-#: templates/rights/terms-and-policies.html:31
-msgid "governs the terms on which users contribute data to Europeana"
-msgstr "-ehdot koskevat käyttäjien Europeanaan toimittamia aineistoja."
-
-#: templates/rights/terms-and-policies.html:35
-msgid "contains Europeana's policies"
-msgstr "sisältää Europenanan käytännöt"
-
-#: templates/rights/terms-and-policies.html:37
-msgid "The"
-msgstr "Tietosuojaa koskevassa "
-
-#: templates/rights/terms-and-policies.html:37
-msgid ""
-"policy details how we treat personal information that we have collected from "
-"our users.  The"
-msgstr ""
-"-osiossa kerrotaan, miten käyttäjiltä kerättyjä henkilökohtaisia tietoja "
-"käsitellään. "
-
-#: templates/rights/terms-and-policies.html:37
-msgid ""
-"policy describes Europeana's policy for providing information in a users own "
-"language and"
-msgstr ""
-"-osiossa kuvataan Europeanan periaate, jonka mukaan tiedot tarjotaan "
-"käyttäjien omalla kielellä ja "
-
-#: templates/rights/terms-and-policies.html:37
-msgid ""
-"describes Europeana's aim to provide functionality and content that is "
-"universally accessible. In this section you will also find the"
-msgstr ""
-"osiossa puolestaan kuvataan Europeanan tavoite saattaa sisältöä ja "
-"toimintoja kaikkien saataville. Tähän osioon sisältyy myös "
-
-#: templates/rights/terms-and-policies.html:37
-msgid "Europeana Public Domain Charter"
-msgstr ""
-
-#: templates/rights/terms-and-policies.html:37
-msgid ""
-"that explains Europeana's contribution to strengthening the digital Public "
-"Domain"
-msgstr ""
-", jossa kerrotaan, miten Europeana tukee digitaalisen aineiston vapaata "
-"käyttöä."
-
-#: templates/rights/terms-for-user-contributions.html:4
-msgid "Europeana - Our Terms for User Contributions"
-msgstr ""
-
-#: templates/rights/terms-of-use.html:4
-msgid "Europeana - Terms of Use"
-msgstr ""
-
-#: templates/rights/terms-of-use.html:15
-msgid "Europeana Terms of Use"
-msgstr "Europeanan käyttöehdot"
-
-#: templates/rights/terms-of-use.html:18
-msgid ""
-"The Europeana.eu website is run by the Europeana Foundation and gives access "
-"to a wide range of digitised cultural heritage from across Europe and "
-"beyond. This material is provided to Europeana by a large number of "
-"contributing institutions and organisations. Europeana strives to make all "
-"resources on this website available for re-use. As part of this, all "
-"metadata (textual information on digitised cultural heritage) on the site "
-"are published without any restrictions on re-use. Most other material, such "
-"as the previews to digitised cultural heritage, is clearly labelled with "
-"rights statements that indicate if and under which conditions it can be re-"
-"used."
-msgstr ""
-"Europeana Foundation -säätiön ylläpitämä Europeana.eu-verkkosivusto tarjoaa "
-"käyttäjilleen pääsyn laajaan eurooppalaiseen ja sen ulkopuoliseen "
-"digitoituun kulttuuriperintöön. Europeana saa aineistot useilta eri "
-"laitoksilta ja organisaatioilta ja pyrkii saattamaan kaikki aineistot "
-"uudelleen käytettäviksi. Tavoitetta tuetaan julkaisemalla kaikki digitoitua "
-"kulttuuriperintöä koskevat kuvailutiedot verkkosivustossa ilman "
-"uudelleenkäyttöä koskevia rajoituksia. Valtaosa muusta aineistosta (esim. "
-"digitoidun kulttuuriperintöaineiston esikatselukuvat) sisältää "
-"käyttöoikeuslausekkeen, joka ilmaisee, voiko aineistoa käyttää uudelleen ja "
-"millä ehdoilla uudelleenkäyttö voi tapahtua."
-
-#: templates/rights/terms-of-use.html:21
-msgid "Metadata"
-msgstr "Kuvailutiedot"
-
-#: templates/rights/terms-of-use.html:26
-msgid ""
-"All metadata available on europeana.eu are published free of restrictions, "
-"under the terms of the"
-msgstr "Kaikki Europeana.eu-sivuston kuvailutiedot on julkaistu rajoituksetta "
-
-#: templates/rights/terms-of-use.html:26
-msgid ""
-"However if you re-use data published by Europeana, we encourage you to "
-"follow the"
-msgstr ""
-"-ehtojen mukaisesti. Jos kuitenkin käytät uudelleen Europeanassa julkaistuja "
-"tietoja, kehotamme sinua noudattamaan "
-
-#: templates/rights/terms-of-use.html:26
-msgid "and to provide attribution to the data sources whenever possible"
-msgstr "-ohjeita ja ilmoittamaan tietojen lähteet, jos mahdollista"
-
-#: templates/rights/terms-of-use.html:31
-msgid "Previews"
-msgstr "Esikatselukuvat"
-
-#: templates/rights/terms-of-use.html:34
-msgid ""
-"The previews that are shown on Europeana.eu can only be used in accordance "
-"with the rights information displayed alongside them (the badges underneath "
-"the previews). If there is no rights information displayed alongside a "
-"preview, these previews may only be used in accordance with the applicable "
-"copyright laws. However, in the latter event, please refer to the website of "
-"the data provider to find out whether other types of use are also allowed."
-msgstr ""
-"Europeana.eu:n esikatselukuvia voi käyttää vain niiden yhteydessä olevien "
-"käyttöoikeuslausekkeiden mukaisesti (esikatselukuvien alla olevat "
-"tunnukset). Jos esikatselukuvien yhteydessä ei ole käyttöoikeuslauseketta, "
-"esikatselukuvia voi käyttää vain soveltuvan tekijänoikeuslainsäädännön "
-"mukaisesti. Tällöin käyttäjän kannattaa kuitenkin selvittää aineiston "
-"toimittajan verkkosivustosta, onko myös muunlainen käyttö sallittu."
-
-#: templates/rights/terms-of-use.html:37
-msgid "Notice and Takedown"
-msgstr "Ilmoitus- ja poistamismenettely"
-
-#: templates/rights/terms-of-use.html:40
-msgid ""
-"Europeana is not the owner of the copyrights to the metadata, the previews "
-"or the digitised cultural heritage to which these metadata or previews "
-"refer. This information has been provided to Europeana by a large number of "
-"contributing institutions and organisations. These data providers have "
-"ensured Europeana that the owners of these rights have agreed to the "
-"publication of their works under the applicable conditions as referred to "
-"above. However, the Europeana Foundation cannot guarantee that this is "
-"always correct. If you think that anything published on Europeana.eu "
-"infringes your rights, you may report this to Europeana by emailing"
-msgstr ""
-"Europeanalla ei ole tekijänoikeuksia kuvailutietoihin, esikatselukuviin eikä "
-"digitoituun kulttuuriperintöaineistoon, johon kuvailutiedot ja "
-"esikatselukuvat liittyvät. Europeana on saanut tiedot useilta eri "
-"laitoksilta ja organisaatioilta. Aineiston toimittajat ovat vakuuttaneet "
-"Europeanalle, että oikeuksien omistajat ovat suostuneet töidensä julkaisuun "
-"edellä mainittujen soveltuvien ehtojen mukaisesti. Europeana Foundation ei "
-"kuitenkaan voi taata, että tämä pitäisi aina paikkansa. Jos Europeana.eu-"
-"sivustossa julkaistu aineisto loukkaa oikeuksiasi, ilmoita asiasta "
-"Europeanalle sähköpostiosoitteeseen"
-
-#: templates/rights/terms-of-use.html:43
-msgid "Liability Disclaimer"
-msgstr "Vastuuvapauslauseke"
-
-#: templates/rights/terms-of-use.html:45
-msgid ""
-"Europeana does not guarantee the accuracy or completeness of the website and "
-"its content."
-msgstr ""
-
-#: templates/rights/terms-of-use.html:48
-msgid ""
-"Except to the extent required by applicable law, in no event will Europeana "
-"be liable on any legal theory for any special, incidental, consequential, "
-"punitive or exemplary damages arising out of the use of the website or its "
-"content. In particular, it will not be liable for the following:"
-msgstr ""
-
-#: templates/rights/terms-of-use.html:52
-msgid "Accuracy, completeness, etc. of the website or its content;"
-msgstr ""
-
-#: templates/rights/terms-of-use.html:53
-msgid ""
-"Any infringement of privacy, publicity or other rights, including "
-"infringement of copyrights to metadata, previews or other content made "
-"available on Europeana.eu under conditions that were not approved by the "
-"right holder;"
-msgstr ""
-"Yksityisyydensuojan, julkisuuden tai muiden oikeuksien loukkaukset, mukaan "
-"lukien tekijänoikeusloukkaukset, jotka liittyvät kuvailutietojen, "
-"esikatselukuvien ja muun sisällön tarjoamiseen Europeana.eu-sivustossa "
-"ehdoin, joita oikeuksien haltija ei ole hyväksynyt;"
-
-#: templates/rights/terms-of-use.html:54
-msgid ""
-"Any use by third parties that goes beyond the rights expressed in these "
-"terms of use."
-msgstr ""
-
-#: templates/rights/terms-of-use.html:57
-msgid "These terms of use"
-msgstr ""
-
-#: templates/rights/terms-of-use.html:59
-msgid ""
-"These terms of use do not pertain to the metadata, previews and other "
-"content of virtual exhibitions offered by Europeana on"
-msgstr ""
-"Nämä käyttöehdot eivät koske Europeanan tarjoamia kuvailutietoja, "
-"esikatselukuvia tai muuta virtuaalinäyttelysisältöä osoitteessa"
-
-#: templates/rights/terms-of-use.html:62
-msgid ""
-"By exercising any rights to the website or its content on grounds of these "
-"terms of use, you accept and agree to be bound to these terms of use. "
-"Europeana reserves the right to amend these terms of use."
-msgstr ""
-
-#: templates/rights/terms-of-use.html:65
-msgid "These terms of use are governed by the laws of The Netherlands."
-msgstr ""
 
 #: templates/static_pages/aboutus.html:4
 msgid "Europeana - About us"
@@ -6437,8 +6130,213 @@ msgid ""
 "by dropping us an email at"
 msgstr ""
 
-#~ msgid "contact.html"
-#~ msgstr "Yhteystiedot"
+#~ msgid ""
+#~ "In this section of the Europeana website you will find an overview of our "
+#~ "Terms and Policies. These are divided into three subsections: 'Using Our "
+#~ "data', 'Contributing data' and 'Our Policies':"
+#~ msgstr ""
+#~ "Verkkosivuston tässä osiossa esitetään Europeanan käyttöehdot ja "
+#~ "käytännöt. Osio jakautuu kolmeen alaosioon: 'Using Our data', "
+#~ "'Contributing data' and 'Our Policies':"
+
+#~ msgid ""
+#~ "provides you with the Terms of Use and Guidelines for using the data "
+#~ "published on Europeana.eu."
+#~ msgstr ""
+#~ "-alaosio sisältää käyttöehdot ja Europeana.eu:ssa julkaistuja aineistoja "
+#~ "koskevat käyttöohjeet."
+
+#~ msgid ""
+#~ "governs what you can or cannot do with the metadata and previews that are "
+#~ "published on Europeana.eu, with seperate"
+#~ msgstr ""
+#~ "-kohdassa kerrotaan, miten Europeana.eu:ssa julkaistuja kuvailutietoja ja "
+#~ "esikatselukuvia voi käyttää. Lisäksi on laadittu erilliset"
+
+#~ msgid "Terms of Use for the Europeana API"
+#~ msgstr "käyttöehdot Europeanan ohjelmointirajapintaa varten"
+
+#~ msgid "Europeana publishes guidelines for working with"
+#~ msgstr "Europeana julkaisee ohjeita"
+
+#~ msgid "Europeana metadata"
+#~ msgstr "Europeanan kuvailutietojen"
+
+#~ msgid "as well as for using digital reproductions of"
+#~ msgstr "sekä"
+
+#~ msgid "Public Domain works that you find via Europeana."
+#~ msgstr ""
+#~ "Europeanan sisältämien, yleisesti saatavilla olevien teosten digitaalisia "
+#~ "jäljennöksien käyttöä varten."
+
+#~ msgid "Additionally we provide a list of"
+#~ msgstr "Alaosiossa on myös "
+
+#~ msgid "data sources that Europeana uses"
+#~ msgstr "luettelo Europeanan tietolähteistä"
+
+#~ msgid "to enrich the metadata provided by our data providers"
+#~ msgstr ""
+#~ ", joita käytetään aineiston toimittajilta saatujen kuvailutietojen "
+#~ "rikastamiseen"
+
+#~ msgid ""
+#~ "provides terms that ensure that Europeana can combine objects and data "
+#~ "provided by individual users with the rest of the Europeana metadata"
+#~ msgstr ""
+#~ "-alaosio sisältää käyttöehdot, jotka varmistavat, että Europeana voi "
+#~ "yhdistää yksittäisten käyttäjien toimittamat tiedot ja aineistot muihin "
+#~ "Europeanan kuvailutietoihin."
+
+#~ msgid ""
+#~ "governs the relationship between Europeana and the institutional data "
+#~ "providers. The"
+#~ msgstr ""
+#~ "-osio koskee Europeanan ja aineistoja toimittavien laitosten välistä "
+#~ "suhdetta. "
+
+#~ msgid "terms for user contributions"
+#~ msgstr "Terms for user contributions"
+
+#~ msgid "governs the terms on which users contribute data to Europeana"
+#~ msgstr "-ehdot koskevat käyttäjien Europeanaan toimittamia aineistoja."
+
+#~ msgid "contains Europeana's policies"
+#~ msgstr "sisältää Europenanan käytännöt"
+
+#~ msgid "The"
+#~ msgstr "Tietosuojaa koskevassa "
+
+#~ msgid ""
+#~ "policy details how we treat personal information that we have collected "
+#~ "from our users.  The"
+#~ msgstr ""
+#~ "-osiossa kerrotaan, miten käyttäjiltä kerättyjä henkilökohtaisia tietoja "
+#~ "käsitellään. "
+
+#~ msgid ""
+#~ "policy describes Europeana's policy for providing information in a users "
+#~ "own language and"
+#~ msgstr ""
+#~ "-osiossa kuvataan Europeanan periaate, jonka mukaan tiedot tarjotaan "
+#~ "käyttäjien omalla kielellä ja "
+
+#~ msgid ""
+#~ "describes Europeana's aim to provide functionality and content that is "
+#~ "universally accessible. In this section you will also find the"
+#~ msgstr ""
+#~ "osiossa puolestaan kuvataan Europeanan tavoite saattaa sisältöä ja "
+#~ "toimintoja kaikkien saataville. Tähän osioon sisältyy myös "
+
+#~ msgid ""
+#~ "that explains Europeana's contribution to strengthening the digital "
+#~ "Public Domain"
+#~ msgstr ""
+#~ ", jossa kerrotaan, miten Europeana tukee digitaalisen aineiston vapaata "
+#~ "käyttöä."
+
+#~ msgid ""
+#~ "The Europeana.eu website is run by the Europeana Foundation and gives "
+#~ "access to a wide range of digitised cultural heritage from across Europe "
+#~ "and beyond. This material is provided to Europeana by a large number of "
+#~ "contributing institutions and organisations. Europeana strives to make "
+#~ "all resources on this website available for re-use. As part of this, all "
+#~ "metadata (textual information on digitised cultural heritage) on the site "
+#~ "are published without any restrictions on re-use. Most other material, "
+#~ "such as the previews to digitised cultural heritage, is clearly labelled "
+#~ "with rights statements that indicate if and under which conditions it can "
+#~ "be re-used."
+#~ msgstr ""
+#~ "Europeana Foundation -säätiön ylläpitämä Europeana.eu-verkkosivusto "
+#~ "tarjoaa käyttäjilleen pääsyn laajaan eurooppalaiseen ja sen ulkopuoliseen "
+#~ "digitoituun kulttuuriperintöön. Europeana saa aineistot useilta eri "
+#~ "laitoksilta ja organisaatioilta ja pyrkii saattamaan kaikki aineistot "
+#~ "uudelleen käytettäviksi. Tavoitetta tuetaan julkaisemalla kaikki "
+#~ "digitoitua kulttuuriperintöä koskevat kuvailutiedot verkkosivustossa "
+#~ "ilman uudelleenkäyttöä koskevia rajoituksia. Valtaosa muusta aineistosta "
+#~ "(esim. digitoidun kulttuuriperintöaineiston esikatselukuvat) sisältää "
+#~ "käyttöoikeuslausekkeen, joka ilmaisee, voiko aineistoa käyttää uudelleen "
+#~ "ja millä ehdoilla uudelleenkäyttö voi tapahtua."
+
+#~ msgid "Metadata"
+#~ msgstr "Kuvailutiedot"
+
+#~ msgid ""
+#~ "However if you re-use data published by Europeana, we encourage you to "
+#~ "follow the"
+#~ msgstr ""
+#~ "-ehtojen mukaisesti. Jos kuitenkin käytät uudelleen Europeanassa "
+#~ "julkaistuja tietoja, kehotamme sinua noudattamaan "
+
+#~ msgid "and to provide attribution to the data sources whenever possible"
+#~ msgstr "-ohjeita ja ilmoittamaan tietojen lähteet, jos mahdollista"
+
+#~ msgid "Previews"
+#~ msgstr "Esikatselukuvat"
+
+#~ msgid ""
+#~ "The previews that are shown on Europeana.eu can only be used in "
+#~ "accordance with the rights information displayed alongside them (the "
+#~ "badges underneath the previews). If there is no rights information "
+#~ "displayed alongside a preview, these previews may only be used in "
+#~ "accordance with the applicable copyright laws. However, in the latter "
+#~ "event, please refer to the website of the data provider to find out "
+#~ "whether other types of use are also allowed."
+#~ msgstr ""
+#~ "Europeana.eu:n esikatselukuvia voi käyttää vain niiden yhteydessä olevien "
+#~ "käyttöoikeuslausekkeiden mukaisesti (esikatselukuvien alla olevat "
+#~ "tunnukset). Jos esikatselukuvien yhteydessä ei ole "
+#~ "käyttöoikeuslauseketta, esikatselukuvia voi käyttää vain soveltuvan "
+#~ "tekijänoikeuslainsäädännön mukaisesti. Tällöin käyttäjän kannattaa "
+#~ "kuitenkin selvittää aineiston toimittajan verkkosivustosta, onko myös "
+#~ "muunlainen käyttö sallittu."
+
+#~ msgid "Notice and Takedown"
+#~ msgstr "Ilmoitus- ja poistamismenettely"
+
+#~ msgid ""
+#~ "Europeana is not the owner of the copyrights to the metadata, the "
+#~ "previews or the digitised cultural heritage to which these metadata or "
+#~ "previews refer. This information has been provided to Europeana by a "
+#~ "large number of contributing institutions and organisations. These data "
+#~ "providers have ensured Europeana that the owners of these rights have "
+#~ "agreed to the publication of their works under the applicable conditions "
+#~ "as referred to above. However, the Europeana Foundation cannot guarantee "
+#~ "that this is always correct. If you think that anything published on "
+#~ "Europeana.eu infringes your rights, you may report this to Europeana by "
+#~ "emailing"
+#~ msgstr ""
+#~ "Europeanalla ei ole tekijänoikeuksia kuvailutietoihin, esikatselukuviin "
+#~ "eikä digitoituun kulttuuriperintöaineistoon, johon kuvailutiedot ja "
+#~ "esikatselukuvat liittyvät. Europeana on saanut tiedot useilta eri "
+#~ "laitoksilta ja organisaatioilta. Aineiston toimittajat ovat vakuuttaneet "
+#~ "Europeanalle, että oikeuksien omistajat ovat suostuneet töidensä "
+#~ "julkaisuun edellä mainittujen soveltuvien ehtojen mukaisesti. Europeana "
+#~ "Foundation ei kuitenkaan voi taata, että tämä pitäisi aina paikkansa. Jos "
+#~ "Europeana.eu-sivustossa julkaistu aineisto loukkaa oikeuksiasi, ilmoita "
+#~ "asiasta Europeanalle sähköpostiosoitteeseen"
+
+#~ msgid "Liability Disclaimer"
+#~ msgstr "Vastuuvapauslauseke"
+
+#~ msgid ""
+#~ "Any infringement of privacy, publicity or other rights, including "
+#~ "infringement of copyrights to metadata, previews or other content made "
+#~ "available on Europeana.eu under conditions that were not approved by the "
+#~ "right holder;"
+#~ msgstr ""
+#~ "Yksityisyydensuojan, julkisuuden tai muiden oikeuksien loukkaukset, "
+#~ "mukaan lukien tekijänoikeusloukkaukset, jotka liittyvät kuvailutietojen, "
+#~ "esikatselukuvien ja muun sisällön tarjoamiseen Europeana.eu-sivustossa "
+#~ "ehdoin, joita oikeuksien haltija ei ole hyväksynyt;"
+
+#~ msgid ""
+#~ "These terms of use do not pertain to the metadata, previews and other "
+#~ "content of virtual exhibitions offered by Europeana on"
+#~ msgstr ""
+#~ "Nämä käyttöehdot eivät koske Europeanan tarjoamia kuvailutietoja, "
+#~ "esikatselukuvia tai muuta virtuaalinäyttelysisältöä osoitteessa"
 
 #~ msgid "sitemap.html"
 #~ msgstr "Sivukartta"
@@ -7580,13 +7478,6 @@ msgstr ""
 #~ msgid "Privacy policy"
 #~ msgstr "Yksityisyyden suoja"
 
-#~ msgid ""
-#~ "If you encounter any problem using this site or wish to make general "
-#~ "comments/suggestions, please use"
-#~ msgstr ""
-#~ "Jos tämän sivuston käytössä on ongelmia tai haluatte esittää muita "
-#~ "kommentteja tai ehdotuksia, käyttäkää"
-
 #~ msgid "this form"
 #~ msgstr " tätä lomaketta"
 
@@ -7786,9 +7677,6 @@ msgstr ""
 #~ msgid "Italy"
 #~ msgstr "Italia"
 
-#~ msgid "Europeana - Accessibility"
-#~ msgstr "Europeana - Esteettömyys"
-
 #~ msgid ""
 #~ "Our User Centred Design team frequently conducts usability testing of\n"
 #~ "Europeana.eu navigation, flow, labels, and consistency. Furthermore,\n"
@@ -7800,18 +7688,12 @@ msgstr ""
 #~ "ja yhtenäisyyden kannalta. Tämän prototyyppivaiheen jälkeen "
 #~ "tarkoituksenamme on myös tuottaa näkövammaisille tarkoitettu versio."
 
-#~ msgid "Europeana - Usage guidelines for public domain works"
-#~ msgstr "Europeana - ohjeita public domain -aineiston käyttöön"
-
 #~ msgid "Click here to visit our exhibition on Art Nouveau"
 #~ msgstr ""
 #~ "Klikkaa tästä vieraillaksesi näyttelyssämme \"Wiki Loves Art Nouveau\""
 
 #~ msgid "Exhibition: Art Nouveau"
 #~ msgstr "Näyttely: Wiki rakastaa Art Nouveauta"
-
-#~ msgid "Europeana - Terms of use"
-#~ msgstr "Europeana - käyttöehdot"
 
 #~ msgid ""
 #~ "The website \"Europeana.eu\" is run by the Europeana Foundation and gives "
@@ -8107,9 +7989,6 @@ msgstr ""
 #~ msgid "Click here for the Europeana Metadata Usage Guidelines"
 #~ msgstr "Europeanan etusivulle - klikkaa tästä"
 
-#~ msgid "Click here for the Europeana Public Domain Usage Guidelines"
-#~ msgstr "Europeanan etusivulle - klikkaa tästä"
-
 #~ msgid "Click here for information on accessing Europeana Linked Open Data"
 #~ msgstr "Europeanan etusivulle - klikkaa tästä"
 
@@ -8144,9 +8023,6 @@ msgstr ""
 
 #~ msgid "Our Public Domain Charter"
 #~ msgstr "Public Domain"
-
-#~ msgid "Europeana - Use of Linked Data Sources"
-#~ msgstr "Linked Open Data"
 
 #~ msgid "Europeana - Metadata Usage Guidelines"
 #~ msgstr "Europeanan etusivulle - klikkaa tästä"

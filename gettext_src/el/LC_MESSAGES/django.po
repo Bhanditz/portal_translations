@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-09-10 13:41+0200\n"
+"POT-Creation-Date: 2014-09-17 11:45+0200\n"
 "PO-Revision-Date: 2014-08-05 14:26\n"
 "Last-Translator: <anna.vandenbroek@europeana.eu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -262,7 +262,12 @@ msgstr "Επιλογή γλώσσας"
 msgid "Accessibility"
 msgstr "Προσβασιμότητα"
 
-#: templates/terms_leftmenu.html:27 templates/static_pages/sitemap.html:109
+#: templates/terms_leftmenu.html:27 templates/rights/publications.html:10
+#, fuzzy
+msgid "Publications"
+msgstr "Ημερομηνία δημοσίευσης"
+
+#: templates/terms_leftmenu.html:28 templates/static_pages/sitemap.html:109
 msgid "Public Domain Charter"
 msgstr "Καταστατικός Χάρτης του Δημόσιου Τομέα"
 
@@ -1105,6 +1110,11 @@ msgstr ""
 "της ιδιωτικής ζωής. Αυτή η πολιτική προστασίας της ιδιωτικής ζωής παρέχει "
 "περαιτέρω λεπτομέρειες."
 
+#: templates/rights/publications.html:4
+#, fuzzy
+msgid "Europeana - Publications"
+msgstr "Εκθέσεις της Europeana"
+
 #: templates/rights/terms-and-policies.html:4
 msgid "Europeana - Terms and Policies"
 msgstr "Europeana - Όροι και Πολιτικές"
@@ -1255,8 +1265,12 @@ msgstr ""
 "Δημόσιου Τομέα"
 
 #: templates/rights/terms-for-user-contributions.html:4
-msgid "Europeana - Our Terms for User Contributions"
-msgstr "Europeana - Οι Όροι μας για τη Συμβολή Χρήστη"
+msgid "Europeana - Terms for User Contributions"
+msgstr "Europeana - Όροι για τη Συμβολή Χρήστη"
+
+#: templates/rights/terms-for-user-contributions.html:49
+msgid "Europeana Terms for User Contributions"
+msgstr "Όροι της Europeana για Συνεισφορά Χρηστών"
 
 #: templates/rights/terms-of-use.html:4
 msgid "Europeana - Terms of Use"
@@ -6608,6 +6622,9 @@ msgid ""
 "by dropping us an email at"
 msgstr ""
 
+#~ msgid "Europeana - Our Terms for User Contributions"
+#~ msgstr "Europeana - Οι Όροι μας για τη Συμβολή Χρήστη"
+
 #, fuzzy
 #~ msgid "New &amp; Improved - Europeana 1914-1918"
 #~ msgstr "Europeana 1914-1918"
@@ -6695,12 +6712,6 @@ msgstr ""
 #~ "δικαιώματα. Το τεκμήριο αυτό είναι προσβάσιμο μόνο κατόπιν εγγραφής ή "
 #~ "κάποιας άλλης μορφής ελεγχόμενη πρόσβαση και σύμφωνα με τους όρους "
 #~ "αδειοδότησης που θέτει ο οργανισμός, ο οποίος παρέχει πρόσβαση σε αυτό."
-
-#~ msgid "Europeana - Terms for User Contributions"
-#~ msgstr "Europeana - Όροι για τη Συμβολή Χρήστη"
-
-#~ msgid "Europeana Terms for User Contributions"
-#~ msgstr "Όροι της Europeana για Συνεισφορά Χρηστών"
 
 #~ msgid "Europeana - Unknown copyright status"
 #~ msgstr "Europeana - Άγνωστη κατάσταση πνευματικής ιδιοκτησίας"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-09-10 13:41+0200\n"
+"POT-Creation-Date: 2014-09-17 11:43+0200\n"
 "PO-Revision-Date: 2014-08-05 13:38\n"
 "Last-Translator: <jacob.lundqvist@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -197,8 +197,7 @@ msgstr ""
 msgid "Using our data"
 msgstr ""
 
-#: templates/terms_leftmenu.html:9 templates/rights/terms-and-policies.html:24
-#: templates/static_pages/sitemap.html:99
+#: templates/terms_leftmenu.html:9 templates/static_pages/sitemap.html:99
 msgid "Terms of Use"
 msgstr ""
 
@@ -233,13 +232,10 @@ msgid "Terms for User Contributions"
 msgstr ""
 
 #: templates/terms_leftmenu.html:22
-#: templates/rights/terms-and-policies.html:35
 msgid "Our policies"
 msgstr ""
 
-#: templates/terms_leftmenu.html:24 templates/rights/privacy.html:15
-#: templates/rights/terms-and-policies.html:37
-#: templates/static_pages/prop_file.html:70
+#: templates/terms_leftmenu.html:24 templates/static_pages/prop_file.html:70
 #: templates/static_pages/prop_file.html:550
 #: templates/static_pages/prop_file.html:551
 #: templates/static_pages/sitemap.html:106
@@ -247,14 +243,12 @@ msgid "Privacy"
 msgstr "Pribatutasuna"
 
 #: templates/terms_leftmenu.html:25 templates/rights/languagepolicy.html:15
-#: templates/rights/terms-and-policies.html:37
 #: templates/static_pages/prop_file.html:182
 #: templates/static_pages/prop_file.html:265
 msgid "Language"
 msgstr ""
 
 #: templates/terms_leftmenu.html:26 templates/rights/accessibility.html:15
-#: templates/rights/terms-and-policies.html:37
 #: templates/static_pages/prop_file.html:67
 #: templates/static_pages/prop_file.html:538
 #: templates/static_pages/prop_file.html:539
@@ -262,7 +256,12 @@ msgstr ""
 msgid "Accessibility"
 msgstr "Erabilerraztasuna"
 
-#: templates/terms_leftmenu.html:27 templates/static_pages/sitemap.html:109
+#: templates/terms_leftmenu.html:27
+#, fuzzy
+msgid "Publications"
+msgstr "Abolizioa"
+
+#: templates/terms_leftmenu.html:28 templates/static_pages/sitemap.html:109
 msgid "Public Domain Charter"
 msgstr ""
 
@@ -337,8 +336,9 @@ msgid "eNews"
 msgstr "eNews"
 
 #: templates/rights/accessibility.html:4
+#, fuzzy
 msgid "Europeana - Accessibility policy"
-msgstr ""
+msgstr "Europeana - Erabilerraztasuna"
 
 #: templates/rights/accessibility.html:17
 msgid ""
@@ -352,12 +352,17 @@ msgstr ""
 "Erabilerraztasunerako Gidalerroak betetzeko."
 
 #: templates/rights/accessibility.html:22
+#, fuzzy
 msgid ""
 "Our User Centred Design team frequently conducts usability testing of\n"
 "Europeana.eu navigation, flow, labels, and consistency. Furthermore,\n"
 "we will produce a version &ndash; post this prototype phase &ndash; for "
 "blind individuals."
 msgstr ""
+"Erabiltzaileei Begirako Diseinu taldeak erabilerraztasun testak egiten ditu "
+"Europeana.eu-ren nabigazioa, fluxua, etiketak eta sendotasuna probatzeko. "
+"Horrez gain, itsuentzako bertsio bat aterako dugu, prototipoa moldatzeko "
+"fasea burutu ondoren."
 
 #: templates/rights/accessibility.html:27
 msgid "Some of the accessibility features of our site include"
@@ -408,12 +413,14 @@ msgid "feedback form"
 msgstr "Iruzkinen formularioaren bidez"
 
 #: templates/rights/api-terms-of-use.html:4
+#, fuzzy
 msgid "Europeana - API Terms of Use"
-msgstr ""
+msgstr "Europeana - Erabilera Baldintzak"
 
 #: templates/rights/api-terms-of-use.html:15
+#, fuzzy
 msgid "Europeana API Terms of Use"
-msgstr ""
+msgstr "Europeana - Erabilera Baldintzak"
 
 #: templates/rights/languagepolicy.html:4
 msgid "Europeana - Language policy"
@@ -552,7 +559,7 @@ msgstr ""
 "Hala ere, erakunde jakin batek aipatu horietakoren bat itzuli eta mantendu "
 "nahi badu, Europeana.eu-k pozik emango dio hori egiteko aukera"
 
-#: templates/rights/languagepolicy.html:69 templates/rights/privacy.html:93
+#: templates/rights/languagepolicy.html:69
 msgid ""
 "The translations are made on a voluntary basis by our partners and are for "
 "information only. The legally valid text is in English only."
@@ -562,17 +569,19 @@ msgstr ""
 "ingelesez dagoena da."
 
 #: templates/rights/linked-data-sources.html:4
+#, fuzzy
 msgid "Europeana - Europeana Data Sources"
-msgstr ""
+msgstr "Estekatutako Datu Irekiak"
 
 #: templates/rights/metadata-usage-guidelines.html:4
+#, fuzzy
 msgid "Europeana - Usage Guidelines for Metadata"
-msgstr ""
+msgstr "Domeinu publikoko lanak erabiltzeko Europeanaren gidalerroak"
 
 #: templates/rights/metadata-usage-guidelines.html:15
-#: templates/rights/terms-of-use.html:26
+#, fuzzy
 msgid "Europeana Usage Guidelines for Metadata"
-msgstr ""
+msgstr "Domeinu publikoko lanak erabiltzeko Europeanaren gidalerroak"
 
 #: templates/rights/metadata-usage-guidelines.html:18
 msgid ""
@@ -702,578 +711,9 @@ msgid "Thank you for your cooperation"
 msgstr ""
 
 #: templates/rights/pd-usage-guide.html:4
+#, fuzzy
 msgid "Europeana - Public Domain Usage Guidelines"
-msgstr ""
-
-#: templates/rights/privacy.html:4
-msgid "Europeana - Privacy policy"
-msgstr "Europeana - Pribatutasun politika"
-
-#: templates/rights/privacy.html:17
-msgid "What Information do we collect?"
-msgstr "Ze Informazio biltzen dugu?"
-
-#: templates/rights/privacy.html:20
-msgid ""
-"In line with common practice, when you visit Europeana website and when you "
-"register with us, we record and store some information about you. In some "
-"cases we process this information in order to better understand our users "
-"and their needs. This is done to improve the content and the usability of "
-"our portal and the services we offer. However,  Europeana.eu recognizes the "
-"importance of privacy to users of the Europeana.eu portal; consequently we "
-"handle such personal information with care."
-msgstr ""
-"Ohikoa denez, Europeanaren webgunera sartu eta izena ematen duzunean, guk "
-"zuri buruzko zenbait informazio erregistratzen eta gordetzen dugu. "
-"Batzuetan, informazio hori prozesatzen dugu, gure erabiltzaileak eta haien "
-"beharrak hobeto ulertze aldera. Gure atariko edukia eta erabilerraztasuna "
-"eta eskaintzen ditugun zerbitzuak hobetzea da horren xedea. Hala ere, "
-"Europeana.eu-k onartzen du pribatutasuna garrantzitsua dela atariaren "
-"erabiltzaileentzat; beraz, informazio pertsonala tentuz erabiltzen dugu."
-
-#: templates/rights/privacy.html:24
-msgid ""
-"Please read our Privacy Policy Statement to find out what information we log "
-"and how we use it. We collect the following: Log Files, cookies and "
-"information that we explicitly ask you to provide about yourself upon "
-"registration or upon using any electronic forms of communication with "
-"Europeana.eu staff."
-msgstr ""
-"Zein informazio erregistratzen dugun eta hura nola erabiltzen dugun "
-"jakiteko, mesedez irakur ezazu gure Pribatutasun Politikaren Adierazpena. "
-"Informazio hau biltzen dugu: erregistro fitxategiak, cookieak eta izena "
-"ematerakoan edo Europeana.eu-ko langileekin elektronikoki komunikatzeko "
-"gailurik erabiltzerakoan berariaz eskatzen dizugun zuri buruzko informazioa."
-
-#: templates/rights/privacy.html:27
-msgid "Log Files and Cookies"
-msgstr "Erregistro fitxategiak eta Cookieak"
-
-#: templates/rights/privacy.html:29
-msgid ""
-"When you visit  Europeana.eu, your requests and actions are automatically "
-"logged on our server. Log files contain information such as your IP address, "
-"the date and time you accessed the website, the pages you requested for "
-"viewing, etc. Log files do not contain any personal identifiable information "
-"about you."
-msgstr ""
-"Europeana.eu-n sartzen zarenean, zure eskariak eta ekintzak automatikoki "
-"gure zerbitzarian erregistratzen dira. Erregistro fitxategiek zure IP "
-"helbidea, webgunean sartu zinen data eta ordua, ikustea eskatu zenituen "
-"orriak eta abar biltzen dute. Erregistro fitxategietan ez dago identifika "
-"zaitzakeen informazio pertsonalik."
-
-#: templates/rights/privacy.html:32
-msgid ""
-"Cookies are small amounts of information sent from a web server to your "
-"browser and stored on your computers hard-drive. They contain information "
-"about the internet sites that you have visited. Europeana.eu uses cookies to "
-"recognise you and your access privileges. Most web browsers automatically "
-"accept cookies but you can usually change your browser settings to prevent "
-"this (although you might not have access to the full functionality of the "
-"website, such as the language settings you might have chosen)."
-msgstr ""
-"Cookieak informazio-kantitate txikiak dira, web zerbitzari batek zure "
-"nabigatzailera bidali eta zure ordenagailuaren disko gogorrean gordetzen "
-"dena. Ikustatu dituzun Interneteko guneei buruzko informazioa dute. "
-"Europeana.eu-k cookieak erabiltzen ditu zure berri eta lehenesten dituzun "
-"sarbideen berri izateko. Nabigatzaile gehienek automatikoki onartzen dituzte "
-"cookieak, baina normalean zure nabigatzailearen ezarpenak aldatzeko aukera "
-"duzu hori saihesteko (hala ere, baliteke webgunearen zerbitzu guztietara "
-"sarbiderik ez izatea, hala nola hautatu dituzun hizkuntza ezarpenetara)."
-
-#: templates/rights/privacy.html:35
-msgid ""
-"Europeana.eu collects or logs cookies and information about its users and "
-"processes this information to produce usage statistics. By processing such "
-"information we are trying to identify user profiles and usage habits to "
-"improve the content and services we offer according to users needs. Log "
-"files analysis are also used to inform Europeana.eu partner libraries about "
-"digitisation priorities based on user preferences. These aggregated data do "
-"not contain information from which individuals can be identified. They are "
-"used strictly for the following purposes"
-msgstr ""
-"Europeana.eu-k cookieak eta erabiltzaileei buruzko informazioa biltzen edo "
-"erregistratzen ditu, eta informazioa prozesatzen du erabileraren inguruko "
-"estatistikak egiteko. Informazio hori prozesatuta, erabiltzaileen profilak "
-"eta erabilera ohiturak identifikatu nahi ditugu, eskaintzen ditugun edukiak "
-"eta zerbitzuak erabiltzaileen beharren arabera hobetzeko. Erregistro "
-"fitxategien analisiak egiten dira, era berean, Europeana.eu-ko kide diren "
-"liburutegiei aditzera emateko digitalizatze prozesuan lehentasunak zein "
-"diren, erabiltzaileen nahiei erreparatuta. Datu osagarri horietan ez dago "
-"gizabanakoak identifikatzea ahalbidetuko duen informaziorik. Helburu "
-"hauetarako soilik erabiltzen dira datuok:"
-
-#: templates/rights/privacy.html:38
-msgid "To monitor and to better administer traffic to the website."
-msgstr "Webguneko trafikoa kontrolatzeko eta hobeto kudeatzeko."
-
-#: templates/rights/privacy.html:39
-msgid "To assess and improve usability, services and content."
-msgstr "Erabilerraztasuna, zerbitzuak eta edukia ebaluatu eta hobetzeko."
-
-#: templates/rights/privacy.html:40
-msgid "To identify technical shortcomings and to troubleshoot."
-msgstr "Akats eta arazo teknikoak identifikatzeko."
-
-#: templates/rights/privacy.html:41
-msgid "To develop personalised services."
-msgstr "Zerbitzu pertsonalizatuak garatzeko."
-
-#: templates/rights/privacy.html:42
-msgid "To develop efficient marketing tools."
-msgstr "Marketin tresna eraginkorrak taxutzeko."
-
-#: templates/rights/privacy.html:46
-msgid "Registered users data and data from other online forms"
-msgstr ""
-"Erabiltzaile erregistratuen datuak eta lineako beste formulario batzuetako "
-"datuak"
-
-#: templates/rights/privacy.html:48
-msgid ""
-"When we ask you to register, we ask you to voluntarily supply some personal "
-"information about yourself. Identification of users allows us to provide "
-"personalised services on the portal. Currently the following options are "
-"offered: to save favorites or session query history for referencing at a "
-"later date. We intend to expand these services to offer more personalized "
-"possibilities to the users, such as: to save selected collections for use at "
-"a later date or to receive e-mail alerts about new collections added which "
-"might interest them."
-msgstr ""
-"Erregistratzeko eskatzen dizugunean, zeure borondatez informazio pertsonal "
-"jakin bat emateko eskatzen dizugu. Erabiltzaileak identifikatzeak atarian "
-"zerbitzu pertsonalizatuak eskaintzeko aukera ematen digu. Egun eskaintzen "
-"dugun aukera da gogokoak edo bilaketen historia gordetzea, beranduago "
-"horietara itzuli ahal izateko. Zerbitzu gehiago jartzeko asmoa dugu, "
-"erabiltzaileei aukera pertsonalizatuak eskaintzeko; esaterako, hautatutako "
-"bildumak gordetzea beranduago horietara itzuli ahal izateko, edo posta "
-"elektronikoz erabiltzaileentzat interesgarriak izan daitezkeen bilduma "
-"berriei buruzko alertak jasotzea."
-
-#: templates/rights/privacy.html:51
-msgid ""
-"Through the use of any electronic form on our website (feedback form, "
-"newsletter subscription, report a link) you agree to supply some minimum "
-"personal information (namely name and e-mail address). We may use this "
-"information to reply to you about the issue involved. Your personal "
-"information will not be used for direct mailing or for other reasons than to "
-"answer your request."
-msgstr ""
-"Gure webgunean bitarteko elektronikoren bat erabiltzean (iruzkinen "
-"formularioa, berripapera jasotzeko izena ematea, esteka baten berri ematea), "
-"gutxieneko informazio pertsonal bat (izena eta posta elektronikoa kasu) "
-"ematea onartzen duzu. Informazio hori erabil genezake konturen baten "
-"inguruan galderaren bat baduzu, hari erantzuteko. Zure informazio pertsonala "
-"ez da erabiliko posta-zerrendak osatzeko edo beste ezertarako, ezpada zure "
-"eske edo galderei erantzuteko."
-
-#: templates/rights/privacy.html:54
-msgid "Data Protection"
-msgstr "Datuen babesa"
-
-#: templates/rights/privacy.html:56
-msgid ""
-"Europeana.eu respects your privacy and seeks to protect your personal data. "
-"We do not sell, trade or rent the information we get from you on this site "
-"to others. Sometimes, we collaborate with public organisations such as "
-"universities that conduct research on our behalf on usage patterns and "
-"behaviour to help us improve the content and the services we offer. In these "
-"cases we do not disclose to them personal information (e.g. names or "
-"addresses)."
-msgstr ""
-"Europeana.eu-k zure pribatutasuna errespetatzen du eta zure datu pertsonalak "
-"babestu nahi ditu. Gune honetan zugandik jasotzen dugun informazioa ez dugu "
-"saltzen, trukerako erabiltzen edo alokatzen. Batzuetan, erakunde publikoekin "
-"lan egiten dugu; esaterako, unibertsitateekin, eskaintzen ditugun zerbitzuak "
-"eta edukiak hobetze aldera gure izenean erabilera ohiturei edo portaerei "
-"buruzko ikerketak egin ditzaten. Horrelakoetan, guk ez diegu erakundeei "
-"informazio pertsonala (izenak edo helbideak kasu) ematen."
-
-#: templates/rights/privacy.html:59
-msgid ""
-"Europeana.eu takes all necessary measures to protect the data from un-"
-"authorised access and use in a way other than that stated in the Privacy "
-"Policy. Europeana.eu is hosted by SARA in The Netherlands and therefore uses "
-"the systems and security in place for this public institution."
-msgstr ""
-"Europeana.eu-k behar diren neurri guztiak hartzen ditu datuak baimenik "
-"gabeko sarbideetatik eta Pribatutasun Politikan adierazitakoez bestelako "
-"erabileretatik babesteko. Europeana.eu SARAk ostatatzen du Herbeheretan, eta "
-"beraz erakunde publiko horren sistemak eta segurtasuna baliatzen ditu."
-
-#: templates/rights/privacy.html:62
-msgid ""
-"The data are stored for as long as they are useful for administrative "
-"reasons. Non-personal data may be stored indefinitely as research material."
-msgstr ""
-"Datuak alor administratiboan baliagarriak diren artean gordetzen dira. Datu "
-"ez-pertsonalak denbora mugagabez gorde ahal izango dira, ikerketa material "
-"gisa."
-
-#: templates/rights/privacy.html:65
-msgid ""
-"Please note: Under law, we may be required to disclose the information that "
-"we log to the appropriate legal authorities."
-msgstr ""
-"Mesedez, ohart zaitez erregistratzen dugun informazioa lege agintariei "
-"jakinaraztera beharturik egon gaitezkeela, lege aginduz."
-
-#: templates/rights/privacy.html:68
-msgid "About this Privacy Policy Statement"
-msgstr "Pribatutasun Politikaren Adierazpen honi buruz"
-
-#: templates/rights/privacy.html:70
-msgid ""
-"This Site may contain links to other web sites that are beyond our control. "
-"This privacy policy applies solely to the information you provide while "
-"visiting this Site. Other web sites to which you link may contain privacy "
-"policies that are different from this privacy policy."
-msgstr ""
-"Webgune honetan, gure kontrolpean ez dauden beste gune batzuetarako estekak "
-"egon litezke. Pribatutasun politika hau Webgunea ikustatzerakoan ematen "
-"duzun informazioari soilik dagokio. Esteketan klikatuz ikustatu dituzun "
-"beste webgune batzuek beste pribatutasun politika batzuk izan ditzakete, guk "
-"dugunaz bestelakoa."
-
-#: templates/rights/privacy.html:73
-msgid ""
-"The current privacy policy statement is in accordance with the Dutch "
-"Personal Data Protection Act (Wet Bescherming Persoonsgegevens)."
-msgstr ""
-"Pribatutasun politikaren adierazpen hau bat dator Datu Pertsonalak Babesteko "
-"Herbeheretako Agiriarekin (Wet Bescherming Persoonsgegevens)."
-
-#: templates/rights/privacy.html:76
-msgid ""
-"Any changes to Europeana.eu privacy policy will be published on this page."
-msgstr ""
-"Europeana.eu-ren pribatutasun politikan aldaketarik egonez gero, orri "
-"honetan argitaratuko da."
-
-#: templates/rights/privacy.html:79
-msgid "Questions, Complaints, and Dispute Resolution"
-msgstr "Galderak, Kexak eta Gatazkak Konpontzea"
-
-#: templates/rights/privacy.html:81
-msgid ""
-"By using our website you consent to the terms of the Privacy Statement "
-"hereby described. However, you have the right to prevent the use of your "
-"personal data for personalised services and marketing as well as to request "
-"not to be further contacted by us.\n"
-"If you wish to be informed about the personal data collected about you, or "
-"to have this data corrected or removed, or have any other question with "
-"regards to this statement, please contact"
-msgstr ""
-"Gure webgunea erabilita, hemen azaldutako Pribatutasun Adierazpenaren "
-"baldintzak onartzen dituzu. Hala ere, zure datu pertsonalak zerbitzu "
-"pertsonalizatuetarako eta marketinerako erabiliak izan daitezen galarazteko "
-"eskubidea duzu, eta baita gu zurekin harremanetan ez jartzeko eskatzekoa "
-"ere. Zuri buruz bildu ditugun datu pertsonalen berri jakinaraztea edo datuok "
-"zuzenduak edo deuseztatuak izatea nahi baduzu, edo adierazpen honen inguruan "
-"galderarik baduzu, mesedez Europeana.eu-rekin harremanetan jar zaitez"
-
-#: templates/rights/privacy.html:85
-msgid "Date of creation of the Privacy Statement"
-msgstr "Pribatutasun Adierazpenaren sorrera data"
-
-#: templates/rights/privacy.html:85 templates/rights/privacy.html.py:86
-#: templates/static_pages/aboutus_enews.html:24
-#: templates/static_pages/aboutus_enews.html:34
-#: templates/static_pages/aboutus_enews.html:43
-#: templates/static_pages/aboutus_enews.html:52
-msgid "September"
-msgstr "Iraila"
-
-#: templates/rights/privacy.html:86
-msgid "Last amendment"
-msgstr "Azken aldaketa"
-
-#: templates/rights/privacy.html:89
-msgid "Feedback Form [title may differ in different languages]"
-msgstr ""
-"Iruzkinen Formularioa (goiburua ezberdina izan liteke hizkuntza ezberdinetan)"
-
-#: templates/rights/privacy.html:90
-msgid ""
-"If you encounter any problem using this site or wish to make general "
-"comments/suggestions, please use this"
-msgstr ""
-
-#: templates/rights/privacy.html:90
-msgid "contact form"
-msgstr ""
-
-#: templates/rights/privacy.html:92
-msgid ""
-"All of our online forms that require you to enter personal information are "
-"designed to meet privacy requirements. This privacy policy provides further "
-"details."
-msgstr ""
-"Informazio pertsonala sartzea eskatzen duten gure online formulario guztiak "
-"erabiltzaileen pribatutasuna errespetatzeko diseinaturik daude. Pribatutasun "
-"politika honek xehetasun gehiago eskaintzen ditu."
-
-#: templates/rights/terms-and-policies.html:4
-msgid "Europeana - Terms and Policies"
-msgstr ""
-
-#: templates/rights/terms-and-policies.html:15
-msgid "Europeana Terms and Policies"
-msgstr ""
-
-#: templates/rights/terms-and-policies.html:18
-msgid ""
-"In this section of the Europeana website you will find an overview of our "
-"Terms and Policies. These are divided into three subsections: 'Using Our "
-"data', 'Contributing data' and 'Our Policies':"
-msgstr ""
-
-#: templates/rights/terms-and-policies.html:22
-msgid "Using Our data"
-msgstr ""
-
-#: templates/rights/terms-and-policies.html:22
-msgid ""
-"provides you with the Terms of Use and Guidelines for using the data "
-"published on Europeana.eu."
-msgstr ""
-
-#: templates/rights/terms-and-policies.html:24
-msgid ""
-"governs what you can or cannot do with the metadata and previews that are "
-"published on Europeana.eu, with seperate"
-msgstr ""
-
-#: templates/rights/terms-and-policies.html:24
-msgid "Terms of Use for the Europeana API"
-msgstr ""
-
-#: templates/rights/terms-and-policies.html:24
-msgid "Europeana publishes guidelines for working with"
-msgstr ""
-
-#: templates/rights/terms-and-policies.html:24
-msgid "Europeana metadata"
-msgstr ""
-
-#: templates/rights/terms-and-policies.html:24
-msgid "as well as for using digital reproductions of"
-msgstr ""
-
-#: templates/rights/terms-and-policies.html:24
-msgid "Public Domain works that you find via Europeana."
-msgstr ""
-
-#: templates/rights/terms-and-policies.html:24
-msgid "Additionally we provide a list of"
-msgstr ""
-
-#: templates/rights/terms-and-policies.html:24
-msgid "data sources that Europeana uses"
-msgstr ""
-
-#: templates/rights/terms-and-policies.html:24
-msgid "to enrich the metadata provided by our data providers"
-msgstr ""
-
-#: templates/rights/terms-and-policies.html:28
-msgid "Contributing data"
-msgstr ""
-
-#: templates/rights/terms-and-policies.html:28
-msgid ""
-"provides terms that ensure that Europeana can combine objects and data "
-"provided by individual users with the rest of the Europeana metadata"
-msgstr ""
-
-#: templates/rights/terms-and-policies.html:31
-msgid "The Europeana Data Exchange Agreement"
-msgstr ""
-
-#: templates/rights/terms-and-policies.html:31
-msgid ""
-"governs the relationship between Europeana and the institutional data "
-"providers. The"
-msgstr ""
-
-#: templates/rights/terms-and-policies.html:31
-msgid "terms for user contributions"
-msgstr ""
-
-#: templates/rights/terms-and-policies.html:31
-msgid "governs the terms on which users contribute data to Europeana"
-msgstr ""
-
-#: templates/rights/terms-and-policies.html:35
-msgid "contains Europeana's policies"
-msgstr ""
-
-#: templates/rights/terms-and-policies.html:37
-msgid "The"
-msgstr ""
-
-#: templates/rights/terms-and-policies.html:37
-msgid ""
-"policy details how we treat personal information that we have collected from "
-"our users.  The"
-msgstr ""
-
-#: templates/rights/terms-and-policies.html:37
-msgid ""
-"policy describes Europeana's policy for providing information in a users own "
-"language and"
-msgstr ""
-
-#: templates/rights/terms-and-policies.html:37
-msgid ""
-"describes Europeana's aim to provide functionality and content that is "
-"universally accessible. In this section you will also find the"
-msgstr ""
-
-#: templates/rights/terms-and-policies.html:37
-msgid "Europeana Public Domain Charter"
-msgstr ""
-
-#: templates/rights/terms-and-policies.html:37
-msgid ""
-"that explains Europeana's contribution to strengthening the digital Public "
-"Domain"
-msgstr ""
-
-#: templates/rights/terms-for-user-contributions.html:4
-msgid "Europeana - Our Terms for User Contributions"
-msgstr ""
-
-#: templates/rights/terms-of-use.html:4
-msgid "Europeana - Terms of Use"
-msgstr ""
-
-#: templates/rights/terms-of-use.html:15
-msgid "Europeana Terms of Use"
-msgstr ""
-
-#: templates/rights/terms-of-use.html:18
-msgid ""
-"The Europeana.eu website is run by the Europeana Foundation and gives access "
-"to a wide range of digitised cultural heritage from across Europe and "
-"beyond. This material is provided to Europeana by a large number of "
-"contributing institutions and organisations. Europeana strives to make all "
-"resources on this website available for re-use. As part of this, all "
-"metadata (textual information on digitised cultural heritage) on the site "
-"are published without any restrictions on re-use. Most other material, such "
-"as the previews to digitised cultural heritage, is clearly labelled with "
-"rights statements that indicate if and under which conditions it can be re-"
-"used."
-msgstr ""
-
-#: templates/rights/terms-of-use.html:21
-msgid "Metadata"
-msgstr ""
-
-#: templates/rights/terms-of-use.html:26
-msgid ""
-"All metadata available on europeana.eu are published free of restrictions, "
-"under the terms of the"
-msgstr ""
-
-#: templates/rights/terms-of-use.html:26
-msgid ""
-"However if you re-use data published by Europeana, we encourage you to "
-"follow the"
-msgstr ""
-
-#: templates/rights/terms-of-use.html:26
-msgid "and to provide attribution to the data sources whenever possible"
-msgstr ""
-
-#: templates/rights/terms-of-use.html:31
-msgid "Previews"
-msgstr ""
-
-#: templates/rights/terms-of-use.html:34
-msgid ""
-"The previews that are shown on Europeana.eu can only be used in accordance "
-"with the rights information displayed alongside them (the badges underneath "
-"the previews). If there is no rights information displayed alongside a "
-"preview, these previews may only be used in accordance with the applicable "
-"copyright laws. However, in the latter event, please refer to the website of "
-"the data provider to find out whether other types of use are also allowed."
-msgstr ""
-
-#: templates/rights/terms-of-use.html:37
-msgid "Notice and Takedown"
-msgstr ""
-
-#: templates/rights/terms-of-use.html:40
-msgid ""
-"Europeana is not the owner of the copyrights to the metadata, the previews "
-"or the digitised cultural heritage to which these metadata or previews "
-"refer. This information has been provided to Europeana by a large number of "
-"contributing institutions and organisations. These data providers have "
-"ensured Europeana that the owners of these rights have agreed to the "
-"publication of their works under the applicable conditions as referred to "
-"above. However, the Europeana Foundation cannot guarantee that this is "
-"always correct. If you think that anything published on Europeana.eu "
-"infringes your rights, you may report this to Europeana by emailing"
-msgstr ""
-
-#: templates/rights/terms-of-use.html:43
-msgid "Liability Disclaimer"
-msgstr ""
-
-#: templates/rights/terms-of-use.html:45
-msgid ""
-"Europeana does not guarantee the accuracy or completeness of the website and "
-"its content."
-msgstr ""
-
-#: templates/rights/terms-of-use.html:48
-msgid ""
-"Except to the extent required by applicable law, in no event will Europeana "
-"be liable on any legal theory for any special, incidental, consequential, "
-"punitive or exemplary damages arising out of the use of the website or its "
-"content. In particular, it will not be liable for the following:"
-msgstr ""
-
-#: templates/rights/terms-of-use.html:52
-msgid "Accuracy, completeness, etc. of the website or its content;"
-msgstr ""
-
-#: templates/rights/terms-of-use.html:53
-msgid ""
-"Any infringement of privacy, publicity or other rights, including "
-"infringement of copyrights to metadata, previews or other content made "
-"available on Europeana.eu under conditions that were not approved by the "
-"right holder;"
-msgstr ""
-
-#: templates/rights/terms-of-use.html:54
-msgid ""
-"Any use by third parties that goes beyond the rights expressed in these "
-"terms of use."
-msgstr ""
-
-#: templates/rights/terms-of-use.html:57
-msgid "These terms of use"
-msgstr ""
-
-#: templates/rights/terms-of-use.html:59
-msgid ""
-"These terms of use do not pertain to the metadata, previews and other "
-"content of virtual exhibitions offered by Europeana on"
-msgstr ""
-
-#: templates/rights/terms-of-use.html:62
-msgid ""
-"By exercising any rights to the website or its content on grounds of these "
-"terms of use, you accept and agree to be bound to these terms of use. "
-"Europeana reserves the right to amend these terms of use."
-msgstr ""
-
-#: templates/rights/terms-of-use.html:65
-msgid "These terms of use are governed by the laws of The Netherlands."
-msgstr ""
+msgstr "Hemen klik egizu Europeanaren hasierako orrira itzultzeko"
 
 #: templates/static_pages/aboutus.html:4
 msgid "Europeana - About us"
@@ -1491,6 +931,13 @@ msgstr "Azaroa"
 #: templates/static_pages/aboutus_enews.html:23
 msgid "Europe's culture - collected for you"
 msgstr ""
+
+#: templates/static_pages/aboutus_enews.html:24
+#: templates/static_pages/aboutus_enews.html:34
+#: templates/static_pages/aboutus_enews.html:43
+#: templates/static_pages/aboutus_enews.html:52
+msgid "September"
+msgstr "Iraila"
 
 #: templates/static_pages/aboutus_enews.html:24
 msgid "Discover Europeana's hand-picked collections"
@@ -6283,6 +5730,274 @@ msgid ""
 "by dropping us an email at"
 msgstr ""
 
+#~ msgid "Europeana - Privacy policy"
+#~ msgstr "Europeana - Pribatutasun politika"
+
+#~ msgid "What Information do we collect?"
+#~ msgstr "Ze Informazio biltzen dugu?"
+
+#~ msgid ""
+#~ "In line with common practice, when you visit Europeana website and when "
+#~ "you register with us, we record and store some information about you. In "
+#~ "some cases we process this information in order to better understand our "
+#~ "users and their needs. This is done to improve the content and the "
+#~ "usability of our portal and the services we offer. However,  Europeana.eu "
+#~ "recognizes the importance of privacy to users of the Europeana.eu portal; "
+#~ "consequently we handle such personal information with care."
+#~ msgstr ""
+#~ "Ohikoa denez, Europeanaren webgunera sartu eta izena ematen duzunean, guk "
+#~ "zuri buruzko zenbait informazio erregistratzen eta gordetzen dugu. "
+#~ "Batzuetan, informazio hori prozesatzen dugu, gure erabiltzaileak eta "
+#~ "haien beharrak hobeto ulertze aldera. Gure atariko edukia eta "
+#~ "erabilerraztasuna eta eskaintzen ditugun zerbitzuak hobetzea da horren "
+#~ "xedea. Hala ere, Europeana.eu-k onartzen du pribatutasuna garrantzitsua "
+#~ "dela atariaren erabiltzaileentzat; beraz, informazio pertsonala tentuz "
+#~ "erabiltzen dugu."
+
+#~ msgid ""
+#~ "Please read our Privacy Policy Statement to find out what information we "
+#~ "log and how we use it. We collect the following: Log Files, cookies and "
+#~ "information that we explicitly ask you to provide about yourself upon "
+#~ "registration or upon using any electronic forms of communication with "
+#~ "Europeana.eu staff."
+#~ msgstr ""
+#~ "Zein informazio erregistratzen dugun eta hura nola erabiltzen dugun "
+#~ "jakiteko, mesedez irakur ezazu gure Pribatutasun Politikaren Adierazpena. "
+#~ "Informazio hau biltzen dugu: erregistro fitxategiak, cookieak eta izena "
+#~ "ematerakoan edo Europeana.eu-ko langileekin elektronikoki komunikatzeko "
+#~ "gailurik erabiltzerakoan berariaz eskatzen dizugun zuri buruzko "
+#~ "informazioa."
+
+#~ msgid "Log Files and Cookies"
+#~ msgstr "Erregistro fitxategiak eta Cookieak"
+
+#~ msgid ""
+#~ "When you visit  Europeana.eu, your requests and actions are automatically "
+#~ "logged on our server. Log files contain information such as your IP "
+#~ "address, the date and time you accessed the website, the pages you "
+#~ "requested for viewing, etc. Log files do not contain any personal "
+#~ "identifiable information about you."
+#~ msgstr ""
+#~ "Europeana.eu-n sartzen zarenean, zure eskariak eta ekintzak automatikoki "
+#~ "gure zerbitzarian erregistratzen dira. Erregistro fitxategiek zure IP "
+#~ "helbidea, webgunean sartu zinen data eta ordua, ikustea eskatu zenituen "
+#~ "orriak eta abar biltzen dute. Erregistro fitxategietan ez dago identifika "
+#~ "zaitzakeen informazio pertsonalik."
+
+#~ msgid ""
+#~ "Cookies are small amounts of information sent from a web server to your "
+#~ "browser and stored on your computers hard-drive. They contain information "
+#~ "about the internet sites that you have visited. Europeana.eu uses cookies "
+#~ "to recognise you and your access privileges. Most web browsers "
+#~ "automatically accept cookies but you can usually change your browser "
+#~ "settings to prevent this (although you might not have access to the full "
+#~ "functionality of the website, such as the language settings you might "
+#~ "have chosen)."
+#~ msgstr ""
+#~ "Cookieak informazio-kantitate txikiak dira, web zerbitzari batek zure "
+#~ "nabigatzailera bidali eta zure ordenagailuaren disko gogorrean gordetzen "
+#~ "dena. Ikustatu dituzun Interneteko guneei buruzko informazioa dute. "
+#~ "Europeana.eu-k cookieak erabiltzen ditu zure berri eta lehenesten dituzun "
+#~ "sarbideen berri izateko. Nabigatzaile gehienek automatikoki onartzen "
+#~ "dituzte cookieak, baina normalean zure nabigatzailearen ezarpenak "
+#~ "aldatzeko aukera duzu hori saihesteko (hala ere, baliteke webgunearen "
+#~ "zerbitzu guztietara sarbiderik ez izatea, hala nola hautatu dituzun "
+#~ "hizkuntza ezarpenetara)."
+
+#~ msgid ""
+#~ "Europeana.eu collects or logs cookies and information about its users and "
+#~ "processes this information to produce usage statistics. By processing "
+#~ "such information we are trying to identify user profiles and usage habits "
+#~ "to improve the content and services we offer according to users needs. "
+#~ "Log files analysis are also used to inform Europeana.eu partner libraries "
+#~ "about digitisation priorities based on user preferences. These aggregated "
+#~ "data do not contain information from which individuals can be identified. "
+#~ "They are used strictly for the following purposes"
+#~ msgstr ""
+#~ "Europeana.eu-k cookieak eta erabiltzaileei buruzko informazioa biltzen "
+#~ "edo erregistratzen ditu, eta informazioa prozesatzen du erabileraren "
+#~ "inguruko estatistikak egiteko. Informazio hori prozesatuta, "
+#~ "erabiltzaileen profilak eta erabilera ohiturak identifikatu nahi ditugu, "
+#~ "eskaintzen ditugun edukiak eta zerbitzuak erabiltzaileen beharren arabera "
+#~ "hobetzeko. Erregistro fitxategien analisiak egiten dira, era berean, "
+#~ "Europeana.eu-ko kide diren liburutegiei aditzera emateko digitalizatze "
+#~ "prozesuan lehentasunak zein diren, erabiltzaileen nahiei erreparatuta. "
+#~ "Datu osagarri horietan ez dago gizabanakoak identifikatzea ahalbidetuko "
+#~ "duen informaziorik. Helburu hauetarako soilik erabiltzen dira datuok:"
+
+#~ msgid "To monitor and to better administer traffic to the website."
+#~ msgstr "Webguneko trafikoa kontrolatzeko eta hobeto kudeatzeko."
+
+#~ msgid "To assess and improve usability, services and content."
+#~ msgstr "Erabilerraztasuna, zerbitzuak eta edukia ebaluatu eta hobetzeko."
+
+#~ msgid "To identify technical shortcomings and to troubleshoot."
+#~ msgstr "Akats eta arazo teknikoak identifikatzeko."
+
+#~ msgid "To develop personalised services."
+#~ msgstr "Zerbitzu pertsonalizatuak garatzeko."
+
+#~ msgid "To develop efficient marketing tools."
+#~ msgstr "Marketin tresna eraginkorrak taxutzeko."
+
+#~ msgid "Registered users data and data from other online forms"
+#~ msgstr ""
+#~ "Erabiltzaile erregistratuen datuak eta lineako beste formulario "
+#~ "batzuetako datuak"
+
+#~ msgid ""
+#~ "When we ask you to register, we ask you to voluntarily supply some "
+#~ "personal information about yourself. Identification of users allows us to "
+#~ "provide personalised services on the portal. Currently the following "
+#~ "options are offered: to save favorites or session query history for "
+#~ "referencing at a later date. We intend to expand these services to offer "
+#~ "more personalized possibilities to the users, such as: to save selected "
+#~ "collections for use at a later date or to receive e-mail alerts about new "
+#~ "collections added which might interest them."
+#~ msgstr ""
+#~ "Erregistratzeko eskatzen dizugunean, zeure borondatez informazio "
+#~ "pertsonal jakin bat emateko eskatzen dizugu. Erabiltzaileak "
+#~ "identifikatzeak atarian zerbitzu pertsonalizatuak eskaintzeko aukera "
+#~ "ematen digu. Egun eskaintzen dugun aukera da gogokoak edo bilaketen "
+#~ "historia gordetzea, beranduago horietara itzuli ahal izateko. Zerbitzu "
+#~ "gehiago jartzeko asmoa dugu, erabiltzaileei aukera pertsonalizatuak "
+#~ "eskaintzeko; esaterako, hautatutako bildumak gordetzea beranduago "
+#~ "horietara itzuli ahal izateko, edo posta elektronikoz erabiltzaileentzat "
+#~ "interesgarriak izan daitezkeen bilduma berriei buruzko alertak jasotzea."
+
+#~ msgid ""
+#~ "Through the use of any electronic form on our website (feedback form, "
+#~ "newsletter subscription, report a link) you agree to supply some minimum "
+#~ "personal information (namely name and e-mail address). We may use this "
+#~ "information to reply to you about the issue involved. Your personal "
+#~ "information will not be used for direct mailing or for other reasons than "
+#~ "to answer your request."
+#~ msgstr ""
+#~ "Gure webgunean bitarteko elektronikoren bat erabiltzean (iruzkinen "
+#~ "formularioa, berripapera jasotzeko izena ematea, esteka baten berri "
+#~ "ematea), gutxieneko informazio pertsonal bat (izena eta posta "
+#~ "elektronikoa kasu) ematea onartzen duzu. Informazio hori erabil genezake "
+#~ "konturen baten inguruan galderaren bat baduzu, hari erantzuteko. Zure "
+#~ "informazio pertsonala ez da erabiliko posta-zerrendak osatzeko edo beste "
+#~ "ezertarako, ezpada zure eske edo galderei erantzuteko."
+
+#~ msgid "Data Protection"
+#~ msgstr "Datuen babesa"
+
+#~ msgid ""
+#~ "Europeana.eu respects your privacy and seeks to protect your personal "
+#~ "data. We do not sell, trade or rent the information we get from you on "
+#~ "this site to others. Sometimes, we collaborate with public organisations "
+#~ "such as universities that conduct research on our behalf on usage "
+#~ "patterns and behaviour to help us improve the content and the services we "
+#~ "offer. In these cases we do not disclose to them personal information (e."
+#~ "g. names or addresses)."
+#~ msgstr ""
+#~ "Europeana.eu-k zure pribatutasuna errespetatzen du eta zure datu "
+#~ "pertsonalak babestu nahi ditu. Gune honetan zugandik jasotzen dugun "
+#~ "informazioa ez dugu saltzen, trukerako erabiltzen edo alokatzen. "
+#~ "Batzuetan, erakunde publikoekin lan egiten dugu; esaterako, "
+#~ "unibertsitateekin, eskaintzen ditugun zerbitzuak eta edukiak hobetze "
+#~ "aldera gure izenean erabilera ohiturei edo portaerei buruzko ikerketak "
+#~ "egin ditzaten. Horrelakoetan, guk ez diegu erakundeei informazio "
+#~ "pertsonala (izenak edo helbideak kasu) ematen."
+
+#~ msgid ""
+#~ "Europeana.eu takes all necessary measures to protect the data from un-"
+#~ "authorised access and use in a way other than that stated in the Privacy "
+#~ "Policy. Europeana.eu is hosted by SARA in The Netherlands and therefore "
+#~ "uses the systems and security in place for this public institution."
+#~ msgstr ""
+#~ "Europeana.eu-k behar diren neurri guztiak hartzen ditu datuak baimenik "
+#~ "gabeko sarbideetatik eta Pribatutasun Politikan adierazitakoez bestelako "
+#~ "erabileretatik babesteko. Europeana.eu SARAk ostatatzen du Herbeheretan, "
+#~ "eta beraz erakunde publiko horren sistemak eta segurtasuna baliatzen ditu."
+
+#~ msgid ""
+#~ "The data are stored for as long as they are useful for administrative "
+#~ "reasons. Non-personal data may be stored indefinitely as research "
+#~ "material."
+#~ msgstr ""
+#~ "Datuak alor administratiboan baliagarriak diren artean gordetzen dira. "
+#~ "Datu ez-pertsonalak denbora mugagabez gorde ahal izango dira, ikerketa "
+#~ "material gisa."
+
+#~ msgid ""
+#~ "Please note: Under law, we may be required to disclose the information "
+#~ "that we log to the appropriate legal authorities."
+#~ msgstr ""
+#~ "Mesedez, ohart zaitez erregistratzen dugun informazioa lege agintariei "
+#~ "jakinaraztera beharturik egon gaitezkeela, lege aginduz."
+
+#~ msgid "About this Privacy Policy Statement"
+#~ msgstr "Pribatutasun Politikaren Adierazpen honi buruz"
+
+#~ msgid ""
+#~ "This Site may contain links to other web sites that are beyond our "
+#~ "control. This privacy policy applies solely to the information you "
+#~ "provide while visiting this Site. Other web sites to which you link may "
+#~ "contain privacy policies that are different from this privacy policy."
+#~ msgstr ""
+#~ "Webgune honetan, gure kontrolpean ez dauden beste gune batzuetarako "
+#~ "estekak egon litezke. Pribatutasun politika hau Webgunea ikustatzerakoan "
+#~ "ematen duzun informazioari soilik dagokio. Esteketan klikatuz ikustatu "
+#~ "dituzun beste webgune batzuek beste pribatutasun politika batzuk izan "
+#~ "ditzakete, guk dugunaz bestelakoa."
+
+#~ msgid ""
+#~ "The current privacy policy statement is in accordance with the Dutch "
+#~ "Personal Data Protection Act (Wet Bescherming Persoonsgegevens)."
+#~ msgstr ""
+#~ "Pribatutasun politikaren adierazpen hau bat dator Datu Pertsonalak "
+#~ "Babesteko Herbeheretako Agiriarekin (Wet Bescherming Persoonsgegevens)."
+
+#~ msgid ""
+#~ "Any changes to Europeana.eu privacy policy will be published on this page."
+#~ msgstr ""
+#~ "Europeana.eu-ren pribatutasun politikan aldaketarik egonez gero, orri "
+#~ "honetan argitaratuko da."
+
+#~ msgid "Questions, Complaints, and Dispute Resolution"
+#~ msgstr "Galderak, Kexak eta Gatazkak Konpontzea"
+
+#~ msgid ""
+#~ "By using our website you consent to the terms of the Privacy Statement "
+#~ "hereby described. However, you have the right to prevent the use of your "
+#~ "personal data for personalised services and marketing as well as to "
+#~ "request not to be further contacted by us.\n"
+#~ "If you wish to be informed about the personal data collected about you, "
+#~ "or to have this data corrected or removed, or have any other question "
+#~ "with regards to this statement, please contact"
+#~ msgstr ""
+#~ "Gure webgunea erabilita, hemen azaldutako Pribatutasun Adierazpenaren "
+#~ "baldintzak onartzen dituzu. Hala ere, zure datu pertsonalak zerbitzu "
+#~ "pertsonalizatuetarako eta marketinerako erabiliak izan daitezen "
+#~ "galarazteko eskubidea duzu, eta baita gu zurekin harremanetan ez jartzeko "
+#~ "eskatzekoa ere. Zuri buruz bildu ditugun datu pertsonalen berri "
+#~ "jakinaraztea edo datuok zuzenduak edo deuseztatuak izatea nahi baduzu, "
+#~ "edo adierazpen honen inguruan galderarik baduzu, mesedez Europeana.eu-"
+#~ "rekin harremanetan jar zaitez"
+
+#~ msgid "Date of creation of the Privacy Statement"
+#~ msgstr "Pribatutasun Adierazpenaren sorrera data"
+
+#~ msgid "Last amendment"
+#~ msgstr "Azken aldaketa"
+
+#~ msgid "Feedback Form [title may differ in different languages]"
+#~ msgstr ""
+#~ "Iruzkinen Formularioa (goiburua ezberdina izan liteke hizkuntza "
+#~ "ezberdinetan)"
+
+#~ msgid ""
+#~ "All of our online forms that require you to enter personal information "
+#~ "are designed to meet privacy requirements. This privacy policy provides "
+#~ "further details."
+#~ msgstr ""
+#~ "Informazio pertsonala sartzea eskatzen duten gure online formulario "
+#~ "guztiak erabiltzaileen pribatutasuna errespetatzeko diseinaturik daude. "
+#~ "Pribatutasun politika honek xehetasun gehiago eskaintzen ditu."
+
 #~ msgid "contact.html"
 #~ msgstr "Harremanak"
 
@@ -6879,28 +6594,8 @@ msgstr ""
 #~ msgid "Italy"
 #~ msgstr "Italia"
 
-#~ msgid "Europeana - Accessibility"
-#~ msgstr "Europeana - Erabilerraztasuna"
-
-#~ msgid ""
-#~ "Our User Centred Design team frequently conducts usability testing of\n"
-#~ "Europeana.eu navigation, flow, labels, and consistency. Furthermore,\n"
-#~ "we will produce a version - post this prototype phase - for blind "
-#~ "individuals."
-#~ msgstr ""
-#~ "Erabiltzaileei Begirako Diseinu taldeak erabilerraztasun testak egiten "
-#~ "ditu Europeana.eu-ren nabigazioa, fluxua, etiketak eta sendotasuna "
-#~ "probatzeko. Horrez gain, itsuentzako bertsio bat aterako dugu, prototipoa "
-#~ "moldatzeko fasea burutu ondoren."
-
-#~ msgid "Europeana - Usage guidelines for public domain works"
-#~ msgstr "Domeinu publikoko lanak erabiltzeko Europeanaren gidalerroak"
-
 #~ msgid "Click here to visit our exhibition on Art Nouveau"
 #~ msgstr "Europeana - Europa irakurriz"
-
-#~ msgid "Europeana - Terms of use"
-#~ msgstr "Europeana - Erabilera Baldintzak"
 
 #~ msgid ""
 #~ "The website \"Europeana.eu\" is run by the Europeana Foundation and gives "
@@ -7179,9 +6874,6 @@ msgstr ""
 #~ msgid "Click here for the Europeana Metadata Usage Guidelines"
 #~ msgstr "Hemen klik egizu Europeanaren hasierako orrira itzultzeko"
 
-#~ msgid "Click here for the Europeana Public Domain Usage Guidelines"
-#~ msgstr "Hemen klik egizu Europeanaren hasierako orrira itzultzeko"
-
 #~ msgid "Click here for information on accessing Europeana Linked Open Data"
 #~ msgstr "Hemen klik egizu Europeanaren hasierako orrira itzultzeko"
 
@@ -7208,9 +6900,6 @@ msgstr ""
 
 #~ msgid "Click here for the Europeana Public Domain Charter"
 #~ msgstr "Hemen klik egizu Europeanaren hasierako orrira itzultzeko"
-
-#~ msgid "Europeana - Use of Linked Data Sources"
-#~ msgstr "Estekatutako Datu Irekiak"
 
 #~ msgid "Jul"
 #~ msgstr "Ekaina"

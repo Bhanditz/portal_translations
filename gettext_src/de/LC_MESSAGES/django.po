@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-09-10 13:41+0200\n"
+"POT-Creation-Date: 2014-09-17 11:45+0200\n"
 "PO-Revision-Date: 2014-08-18 15:18\n"
 "Last-Translator: <anna.vandenbroek@europeana.eu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -262,7 +262,12 @@ msgstr "Sprache"
 msgid "Accessibility"
 msgstr "Zugänglichkeit"
 
-#: templates/terms_leftmenu.html:27 templates/static_pages/sitemap.html:109
+#: templates/terms_leftmenu.html:27 templates/rights/publications.html:10
+#, fuzzy
+msgid "Publications"
+msgstr "Erscheinungsdatum"
+
+#: templates/terms_leftmenu.html:28 templates/static_pages/sitemap.html:109
 msgid "Public Domain Charter"
 msgstr "Public Domain Charta"
 
@@ -1094,6 +1099,11 @@ msgstr ""
 "sind so gestaltet, dass sie den Datenschutzrichtlinien entsprechen. Mehr "
 "Information finden Sie in dieser Datenschutzerklärung."
 
+#: templates/rights/publications.html:4
+#, fuzzy
+msgid "Europeana - Publications"
+msgstr "Europeana-Ausstellungen"
+
 #: templates/rights/terms-and-policies.html:4
 msgid "Europeana - Terms and Policies"
 msgstr "Europeana - Bedingungen und Richtlinien"
@@ -1244,8 +1254,12 @@ msgstr ""
 "die den Beitrag der Europeana zur Stärkung des digitalen Gemeinguts erläutert"
 
 #: templates/rights/terms-for-user-contributions.html:4
-msgid "Europeana - Our Terms for User Contributions"
-msgstr "Europeana - Unsere Bedingungen für Nutzerbeiträge"
+msgid "Europeana - Terms for User Contributions"
+msgstr "Europeana - Bedingungen für Nutzerbeiträge"
+
+#: templates/rights/terms-for-user-contributions.html:49
+msgid "Europeana Terms for User Contributions"
+msgstr "Europeana Bedingungen für Nutzerbeiträge"
 
 #: templates/rights/terms-of-use.html:4
 msgid "Europeana - Terms of Use"
@@ -6568,6 +6582,9 @@ msgid ""
 "by dropping us an email at"
 msgstr ""
 
+#~ msgid "Europeana - Our Terms for User Contributions"
+#~ msgstr "Europeana - Unsere Bedingungen für Nutzerbeiträge"
+
 #, fuzzy
 #~ msgid "New &amp; Improved - Europeana 1914-1918"
 #~ msgstr "Europeana 1914-1918"
@@ -6662,12 +6679,6 @@ msgstr ""
 #~ "Dieses Objekt ist erst nach Registrierung oder einer anderen Form von "
 #~ "kontrolliertem Zugang verfügbar. Die Nutzung unterliegt den "
 #~ "Lizenzbestimmungen der Institution, die dieses Objekt bereitstellt."
-
-#~ msgid "Europeana - Terms for User Contributions"
-#~ msgstr "Europeana - Bedingungen für Nutzerbeiträge"
-
-#~ msgid "Europeana Terms for User Contributions"
-#~ msgstr "Europeana Bedingungen für Nutzerbeiträge"
 
 #~ msgid "Europeana - Unknown copyright status"
 #~ msgstr "Europeana - Unbekannter Urheberrechtsstatus"

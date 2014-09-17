@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-09-10 13:41+0200\n"
+"POT-Creation-Date: 2014-09-17 11:46+0200\n"
 "PO-Revision-Date: 2014-08-05 14:20\n"
 "Last-Translator: <anna.vandenbroek@europeana.eu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -262,7 +262,12 @@ msgstr "Llengua"
 msgid "Accessibility"
 msgstr "Accessibilitat"
 
-#: templates/terms_leftmenu.html:27 templates/static_pages/sitemap.html:109
+#: templates/terms_leftmenu.html:27 templates/rights/publications.html:10
+#, fuzzy
+msgid "Publications"
+msgstr "Data de publicació"
+
+#: templates/terms_leftmenu.html:28 templates/static_pages/sitemap.html:109
 msgid "Public Domain Charter"
 msgstr "Carta de Domini Públic"
 
@@ -1078,6 +1083,11 @@ msgstr ""
 "informació personal estan dissenyats per satisfer els requisits de "
 "privacitat. A la política de privacitat trobareu més detalls."
 
+#: templates/rights/publications.html:4
+#, fuzzy
+msgid "Europeana - Publications"
+msgstr "Exposicions d'Europeana"
+
 #: templates/rights/terms-and-policies.html:4
 msgid "Europeana - Terms and Policies"
 msgstr "Europeana - Condicions i Polítiques"
@@ -1225,8 +1235,12 @@ msgstr ""
 "que explica la contribució d'Europeana per reforçar el domini públic digital"
 
 #: templates/rights/terms-for-user-contributions.html:4
-msgid "Europeana - Our Terms for User Contributions"
-msgstr "Europeana - Les nostres condicions per a les contribucions d'usuaris"
+msgid "Europeana - Terms for User Contributions"
+msgstr "Europeana - Condicions per a les contribucions d'usuaris"
+
+#: templates/rights/terms-for-user-contributions.html:49
+msgid "Europeana Terms for User Contributions"
+msgstr "Condicions d'Europeana per a les contribucions d'usuaris"
 
 #: templates/rights/terms-of-use.html:4
 msgid "Europeana - Terms of Use"
@@ -6623,6 +6637,10 @@ msgstr ""
 "Ens agradaria saber com utilitzeu el giny de cerca, si us plau, digueu-nos-"
 "ho enviant-nos un correu electrònic a"
 
+#~ msgid "Europeana - Our Terms for User Contributions"
+#~ msgstr ""
+#~ "Europeana - Les nostres condicions per a les contribucions d'usuaris"
+
 #, fuzzy
 #~ msgid "New &amp; Improved - Europeana 1914-1918"
 #~ msgstr "Europeana 1914-1918"
@@ -6817,12 +6835,6 @@ msgstr ""
 
 #~ msgid "Information to follow."
 #~ msgstr "Informació de seguiment."
-
-#~ msgid "Europeana - Terms for User Contributions"
-#~ msgstr "Europeana - Condicions per a les contribucions d'usuaris"
-
-#~ msgid "Europeana Terms for User Contributions"
-#~ msgstr "Condicions d'Europeana per a les contribucions d'usuaris"
 
 #~ msgid ""
 #~ "Crawford Art Gallery, a National Cultural Institution and regional art "
