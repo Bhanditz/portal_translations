@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-09-17 11:43+0200\n"
+"POT-Creation-Date: 2014-10-02 16:23+0200\n"
 "PO-Revision-Date: 2014-08-05 13:43\n"
 "Last-Translator: <jacob.lundqvist@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,8 +23,8 @@ msgstr ""
 msgid "Europeana API"
 msgstr ""
 
-#: templates/api_leftmenu.html:6 templates/static_pages/prop_file.html:1027
-#: templates/static_pages/prop_file.html:1028
+#: templates/api_leftmenu.html:6 templates/static_pages/prop_file.html:1028
+#: templates/static_pages/prop_file.html:1029
 #: templates/static_pages/sitemap.html:53
 msgid "Get an API-Key"
 msgstr ""
@@ -49,14 +49,14 @@ msgstr "Avasta"
 
 #: templates/explore_leftmenu.html:5 templates/static_pages/prop_file.html:570
 #: templates/static_pages/prop_file.html:571
-#: templates/static_pages/prop_file.html:908
+#: templates/static_pages/prop_file.html:909
 #: templates/static_pages/sitemap.html:20
 msgid "Europeana Remix"
 msgstr "Europeana Remix"
 
 #: templates/explore_leftmenu.html:6 templates/static_pages/prop_file.html:574
 #: templates/static_pages/prop_file.html:575
-#: templates/static_pages/prop_file.html:897
+#: templates/static_pages/prop_file.html:898
 #: templates/static_pages/sitemap.html:17
 #: templates/static_pages/usingeuropeana_explore.html:14
 msgid "Exhibitions"
@@ -66,8 +66,8 @@ msgstr ""
 #: templates/static_pages/prop_file.html:62
 #: templates/static_pages/prop_file.html:578
 #: templates/static_pages/prop_file.html:579
-#: templates/static_pages/prop_file.html:950
 #: templates/static_pages/prop_file.html:951
+#: templates/static_pages/prop_file.html:952
 #: templates/static_pages/sitemap.html:38
 #: templates/static_pages/sitemap.html:87
 #: templates/static_pages/usingeuropeana_explore.html:15
@@ -105,7 +105,7 @@ msgstr "Järgi meid"
 #: templates/followus_leftmenu.html:5
 #: templates/static_pages/prop_file.html:642
 #: templates/static_pages/prop_file.html:643
-#: templates/static_pages/prop_file.html:901
+#: templates/static_pages/prop_file.html:902
 #: templates/static_pages/sitemap.html:18
 msgid "Blog"
 msgstr "Blogi"
@@ -140,27 +140,27 @@ msgstr "Teenusest"
 msgid "Background"
 msgstr "Lisateave"
 
-#: templates/leftmenu.html:9 templates/static_pages/prop_file.html:955
-#: templates/static_pages/prop_file.html:956
+#: templates/leftmenu.html:9 templates/static_pages/prop_file.html:956
+#: templates/static_pages/prop_file.html:957
 msgid "All providers"
 msgstr ""
 
 #: templates/leftmenu.html:10 templates/static_pages/aboutus_enews.html:11
-#: templates/static_pages/prop_file.html:960
 #: templates/static_pages/prop_file.html:961
+#: templates/static_pages/prop_file.html:962
 #: templates/static_pages/sitemap.html:40
 msgid "Previous newsletters"
 msgstr "Varasemad infolehed"
 
 #: templates/leftmenu.html:12 templates/NOT/leftmenu_old.html:8
-#: templates/static_pages/prop_file.html:965
 #: templates/static_pages/prop_file.html:966
+#: templates/static_pages/prop_file.html:967
 msgid "Press Centre"
 msgstr ""
 
 #: templates/leftmenu.html:13 templates/NOT/leftmenu_old.html:9
-#: templates/static_pages/prop_file.html:970
 #: templates/static_pages/prop_file.html:971
+#: templates/static_pages/prop_file.html:972
 msgid "Jobs"
 msgstr ""
 
@@ -197,7 +197,8 @@ msgstr ""
 msgid "Using our data"
 msgstr ""
 
-#: templates/terms_leftmenu.html:9 templates/static_pages/sitemap.html:99
+#: templates/terms_leftmenu.html:9 templates/rights/terms-and-policies.html:24
+#: templates/static_pages/sitemap.html:99
 msgid "Terms of Use"
 msgstr ""
 
@@ -232,10 +233,13 @@ msgid "Terms for User Contributions"
 msgstr ""
 
 #: templates/terms_leftmenu.html:22
+#: templates/rights/terms-and-policies.html:35
 msgid "Our policies"
 msgstr ""
 
-#: templates/terms_leftmenu.html:24 templates/static_pages/prop_file.html:70
+#: templates/terms_leftmenu.html:24 templates/rights/privacy.html:15
+#: templates/rights/terms-and-policies.html:37
+#: templates/static_pages/prop_file.html:70
 #: templates/static_pages/prop_file.html:550
 #: templates/static_pages/prop_file.html:551
 #: templates/static_pages/sitemap.html:106
@@ -243,12 +247,14 @@ msgid "Privacy"
 msgstr "Privaatsus"
 
 #: templates/terms_leftmenu.html:25 templates/rights/languagepolicy.html:15
+#: templates/rights/terms-and-policies.html:37
 #: templates/static_pages/prop_file.html:182
 #: templates/static_pages/prop_file.html:265
 msgid "Language"
 msgstr "Keel"
 
 #: templates/terms_leftmenu.html:26 templates/rights/accessibility.html:15
+#: templates/rights/terms-and-policies.html:37
 #: templates/static_pages/prop_file.html:67
 #: templates/static_pages/prop_file.html:538
 #: templates/static_pages/prop_file.html:539
@@ -256,7 +262,7 @@ msgstr "Keel"
 msgid "Accessibility"
 msgstr "Kättesaadavus"
 
-#: templates/terms_leftmenu.html:27
+#: templates/terms_leftmenu.html:27 templates/rights/publications.html:10
 #, fuzzy
 msgid "Publications"
 msgstr "Vabakasutus"
@@ -269,8 +275,8 @@ msgstr ""
 #: templates/static_pages/prop_file.html:360
 #: templates/static_pages/prop_file.html:594
 #: templates/static_pages/prop_file.html:595
-#: templates/static_pages/prop_file.html:920
 #: templates/static_pages/prop_file.html:921
+#: templates/static_pages/prop_file.html:922
 #: templates/static_pages/sitemap.html:25
 #: templates/static_pages/usingeuropeana.html:9
 msgid "Help"
@@ -279,8 +285,8 @@ msgstr "Abi"
 #: templates/usingeuropeana_leftmenu.html:5
 #: templates/static_pages/prop_file.html:598
 #: templates/static_pages/prop_file.html:599
-#: templates/static_pages/prop_file.html:924
 #: templates/static_pages/prop_file.html:925
+#: templates/static_pages/prop_file.html:926
 #: templates/static_pages/usingeuropeana.html:14
 #: templates/static_pages/usingeuropeana_results.html:22
 #: templates/static_pages/usingeuropeana_search.html:9
@@ -292,8 +298,8 @@ msgstr ""
 #: templates/static_pages/prop_file.html:314
 #: templates/static_pages/prop_file.html:602
 #: templates/static_pages/prop_file.html:603
-#: templates/static_pages/prop_file.html:928
 #: templates/static_pages/prop_file.html:929
+#: templates/static_pages/prop_file.html:930
 #: templates/static_pages/sitemap.html:28
 #: templates/static_pages/usingeuropeana.html:16
 #: templates/static_pages/usingeuropeana_explore.html:9
@@ -304,8 +310,8 @@ msgstr ""
 #: templates/usingeuropeana_leftmenu.html:8
 #: templates/static_pages/prop_file.html:606
 #: templates/static_pages/prop_file.html:607
-#: templates/static_pages/prop_file.html:932
 #: templates/static_pages/prop_file.html:933
+#: templates/static_pages/prop_file.html:934
 #: templates/static_pages/sitemap.html:29
 #: templates/static_pages/usingeuropeana.html:19
 #: templates/static_pages/usingeuropeana_results.html:9
@@ -316,8 +322,8 @@ msgstr "Otsitulemused Europeanas"
 #: templates/usingeuropeana_leftmenu.html:9
 #: templates/static_pages/prop_file.html:610
 #: templates/static_pages/prop_file.html:611
-#: templates/static_pages/prop_file.html:936
 #: templates/static_pages/prop_file.html:937
+#: templates/static_pages/prop_file.html:938
 #: templates/static_pages/sitemap.html:30
 #: templates/static_pages/usingeuropeana.html:21
 #: templates/static_pages/usingeuropeana_myeuropeana.html:9
@@ -326,8 +332,8 @@ msgid "Using My Europeana"
 msgstr ""
 
 #: templates/usingeuropeana_leftmenu.html:10
-#: templates/static_pages/prop_file.html:940
 #: templates/static_pages/prop_file.html:941
+#: templates/static_pages/prop_file.html:942
 msgid "Configure your search widget"
 msgstr ""
 
@@ -562,7 +568,7 @@ msgstr ""
 "alajaotuse oma keelde tõlkida ja seda tõlget hallata, siis on Europeana.eu "
 "valmis selle tõlke avaldama"
 
-#: templates/rights/languagepolicy.html:69
+#: templates/rights/languagepolicy.html:69 templates/rights/privacy.html:93
 msgid ""
 "The translations are made on a voluntary basis by our partners and are for "
 "information only. The legally valid text is in English only."
@@ -582,6 +588,7 @@ msgid "Europeana - Usage Guidelines for Metadata"
 msgstr "Europeana juhised vabakasutuses teoste jaoks"
 
 #: templates/rights/metadata-usage-guidelines.html:15
+#: templates/rights/terms-of-use.html:26
 #, fuzzy
 msgid "Europeana Usage Guidelines for Metadata"
 msgstr "Europeana juhised vabakasutuses teoste jaoks"
@@ -717,6 +724,611 @@ msgstr ""
 #, fuzzy
 msgid "Europeana - Public Domain Usage Guidelines"
 msgstr "Tagasi Europeana avalehele"
+
+#: templates/rights/privacy.html:4
+msgid "Europeana - Privacy policy"
+msgstr "Europeana – Privaatsuse põhimõtted"
+
+#: templates/rights/privacy.html:17
+msgid "What Information do we collect?"
+msgstr "Millist teavet me kogume?"
+
+#: templates/rights/privacy.html:20
+msgid ""
+"In line with common practice, when you visit Europeana website and when you "
+"register with us, we record and store some information about you. In some "
+"cases we process this information in order to better understand our users "
+"and their needs. This is done to improve the content and the usability of "
+"our portal and the services we offer. However,  Europeana.eu recognizes the "
+"importance of privacy to users of the Europeana.eu portal; consequently we "
+"handle such personal information with care."
+msgstr ""
+"Kui Te külastate Europeana veebilehte ja siin end registreerite, siis "
+"vastavalt levinud tavale talletame ja säilitame Teie kohta käiva "
+"informatsiooni. Mõnel juhul me analüüsime seda teavet, et oma kasutajate "
+"vajadusi paremini mõista ning saadud info põhjal täiustada pakutavate "
+"teenuste sisu ja tõhustada portaali kasutamist. Europeana.eu tunnustab oma "
+"kasutajate privaatsust ja sellest tulenevalt haldab isiklikku teavet "
+"vastutustundlikult."
+
+#: templates/rights/privacy.html:24
+msgid ""
+"Please read our Privacy Policy Statement to find out what information we log "
+"and how we use it. We collect the following: Log Files, cookies and "
+"information that we explicitly ask you to provide about yourself upon "
+"registration or upon using any electronic forms of communication with "
+"Europeana.eu staff."
+msgstr ""
+"Palun tutvuge meie privaatsuse põhimõtetega, et teada saada, millist "
+"informatsiooni me talletame ja kuidas seda kasutame. Kogume järgmisi "
+"andmeid: logifaile, „küpsiseid“ ja teavet, mida me Teilt registreerimisel "
+"või Europeana.eu personaliga suhtlemiseks kasutatavates elektroonilistes "
+"vormides küsime."
+
+#: templates/rights/privacy.html:27
+msgid "Log Files and Cookies"
+msgstr "Logifailid ja väikesemahulised tekstifailid ehk “küpsised”"
+
+#: templates/rights/privacy.html:29
+msgid ""
+"When you visit  Europeana.eu, your requests and actions are automatically "
+"logged on our server. Log files contain information such as your IP address, "
+"the date and time you accessed the website, the pages you requested for "
+"viewing, etc. Log files do not contain any personal identifiable information "
+"about you."
+msgstr ""
+"Kui Te külastate Europeana.eu veebilehte, siis talletatakse Teie päringud ja "
+"toimingud automaatselt meie serveris. Logifailid sisaldavad informatsiooni "
+"Teie IP-aadressi, veebilehe külastamise kuupäeva ja kellaaja, vaadatud "
+"lehekülgede jms kohta. Logifailid ei sisalda mingeid isikuandmeid, mida "
+"oleks võimalik Teiega seostada."
+
+#: templates/rights/privacy.html:32
+msgid ""
+"Cookies are small amounts of information sent from a web server to your "
+"browser and stored on your computers hard-drive. They contain information "
+"about the internet sites that you have visited. Europeana.eu uses cookies to "
+"recognise you and your access privileges. Most web browsers automatically "
+"accept cookies but you can usually change your browser settings to prevent "
+"this (although you might not have access to the full functionality of the "
+"website, such as the language settings you might have chosen)."
+msgstr ""
+"„Küpsised“ on väikesed andmeplokid, mis saadetakse automaatselt "
+"veebiserverist Teie brauserisse ja salvestatakse Teie arvuti kõvakettal. "
+"Need sisaldavad teavet Teie külastatud veebilehtede kohta. Europeana.eu "
+"kasutab „küpsiseid“ Teie tuvastamiseks ja Teile juurdepääsuõiguste "
+"tagamiseks. Enamik veebibrausereid võtavad „küpsised“ automaatselt vastu, "
+"kuid Teil on võimalik oma brauseri seadistusi muuta ning seda takistada (see "
+"võib aga häirida veebilehe täisfunktsionaalset kasutamist, näiteks ei tunta "
+"ära Teie varem salvestatud keelevalikut)."
+
+#: templates/rights/privacy.html:35
+msgid ""
+"Europeana.eu collects or logs cookies and information about its users and "
+"processes this information to produce usage statistics. By processing such "
+"information we are trying to identify user profiles and usage habits to "
+"improve the content and services we offer according to users needs. Log "
+"files analysis are also used to inform Europeana.eu partner libraries about "
+"digitisation priorities based on user preferences. These aggregated data do "
+"not contain information from which individuals can be identified. They are "
+"used strictly for the following purposes"
+msgstr ""
+"Europeana.eu kogub ja talletab „küpsiseid“ ning teavet oma kasutajate kohta, "
+"töödeldes seda informatsiooni kasutusstatistika koostamiseks. Sel moel "
+"püütakse kindlaks teha kasutajaprofiile ja kasutusharjumusi, et täiustada "
+"pakutavat sisu ja kohandada teenuseid kasutajate vajadustega. Logifailide "
+"analüüsi kasutatakse ka Europeana.eu partnerraamatukogude teavitamiseks "
+"kasutajate eelistustel põhinevatest digiteerimisprioriteetidest. Need "
+"andmekogumid ei sisalda isikuandmeid, mille alusel saaks konkreetseid "
+"isikuid kindlaks teha. Andmeid kasutatakse rangelt vaid järgmistel "
+"eesmärkidel"
+
+#: templates/rights/privacy.html:38
+msgid "To monitor and to better administer traffic to the website."
+msgstr "Veebilehel toimuva liikluse jälgimiseks ja paremaks haldamiseks."
+
+#: templates/rights/privacy.html:39
+msgid "To assess and improve usability, services and content."
+msgstr "Kasutatavuse, teenuste ja sisu hindamiseks ning tõhustamiseks."
+
+#: templates/rights/privacy.html:40
+msgid "To identify technical shortcomings and to troubleshoot."
+msgstr "Tehniliste puuduste ja vigade leidmiseks."
+
+#: templates/rights/privacy.html:41
+msgid "To develop personalised services."
+msgstr "Isikupärastatud teenuste arendamiseks."
+
+#: templates/rights/privacy.html:42
+msgid "To develop efficient marketing tools."
+msgstr "Efektiivsete turundusmeetmete arendamiseks."
+
+#: templates/rights/privacy.html:46
+msgid "Registered users data and data from other online forms"
+msgstr "Registreeritud kasutajate andmed ja muudest vormidest saadud andmed"
+
+#: templates/rights/privacy.html:48
+msgid ""
+"When we ask you to register, we ask you to voluntarily supply some personal "
+"information about yourself. Identification of users allows us to provide "
+"personalised services on the portal. Currently the following options are "
+"offered: to save favorites or session query history for referencing at a "
+"later date. We intend to expand these services to offer more personalized "
+"possibilities to the users, such as: to save selected collections for use at "
+"a later date or to receive e-mail alerts about new collections added which "
+"might interest them."
+msgstr ""
+"Kui me palume Teil end registreerida, siis palume Teil ühtlasi "
+"vabatahtlikult edastada enda kohta teatud isikuandmeid. Kasutajate "
+"identimine võimaldab meil portaalis pakkuda isikupärastatud teenuseid. "
+"Praegu pakume järgmisi võimalusi: lemmiklehtede ja/või ühe kasutussessiooni "
+"kestel tehtud päringute ajaloo salvestamine edaspidiseks kasutamiseks. "
+"Edaspidi on kavas neid teenuseid laiendada, et pakkuda kasutajatele rohkem "
+"isikupärastatud võimalusi, näiteks valitud andmekogude salvestamist "
+"hilisemaks kasutamiseks või huvipakkuvatest uutest andmekogudest teavitamist "
+"e-posti teel."
+
+#: templates/rights/privacy.html:51
+msgid ""
+"Through the use of any electronic form on our website (feedback form, "
+"newsletter subscription, report a link) you agree to supply some minimum "
+"personal information (namely name and e-mail address). We may use this "
+"information to reply to you about the issue involved. Your personal "
+"information will not be used for direct mailing or for other reasons than to "
+"answer your request."
+msgstr ""
+"Meie veebilehel asuvate elektrooniliste vormide (tagasiside vorm, uudiskirja "
+"tellimine, uuest lingist teatamine) kasutamisel nõustute Te edastama "
+"minimaalsel hulgal isikuandmeid (nime ja e-posti aadressi). Me võime "
+"kasutada seda teavet Teie tõstatud küsimusele vastuse saatmiseks. Teie "
+"isikuandmeid ei kasutata otsepostituseks või muudel eesmärkidel kui ainult "
+"Teie päringule vastamiseks."
+
+#: templates/rights/privacy.html:54
+msgid "Data Protection"
+msgstr "Andmekaitse"
+
+#: templates/rights/privacy.html:56
+msgid ""
+"Europeana.eu respects your privacy and seeks to protect your personal data. "
+"We do not sell, trade or rent the information we get from you on this site "
+"to others. Sometimes, we collaborate with public organisations such as "
+"universities that conduct research on our behalf on usage patterns and "
+"behaviour to help us improve the content and the services we offer. In these "
+"cases we do not disclose to them personal information (e.g. names or "
+"addresses)."
+msgstr ""
+"Europeana.eu austab Teie privaatsust ja püüab Teie isikuandmeid kaitsta. Me "
+"ei müü, vaheta ega edasta ka ajutiseks kasutamiseks andmeid, mida me selle "
+"veebilehe kaudu Teie kohta oleme kogunud. Mõningatel juhtudel teeme koostööd "
+"avalike organisatsioonide, näiteks ülikoolidega, kes uurivad meie tellimusel "
+"kasutusmalle ja kasutajate käitumist, et aidata meil pakutavat sisu ja "
+"teenuseid paremaks muuta. Europeana.eu ei avalda uuringuteks isikuandmeid "
+"(st nimesid või aadresse)."
+
+#: templates/rights/privacy.html:59
+msgid ""
+"Europeana.eu takes all necessary measures to protect the data from un-"
+"authorised access and use in a way other than that stated in the Privacy "
+"Policy. Europeana.eu is hosted by SARA in The Netherlands and therefore uses "
+"the systems and security in place for this public institution."
+msgstr ""
+"Europeana.eu võtab kasutusele kõik vajalikud meetmed, et kaitsta andmeid "
+"lubamatu juurdepääsu ja kasutamise eest, mis hõlmab kõiki privaatsuse "
+"põhimõtete all loetlemata viise. Europeana.eu asub Hollandis SARA serveris "
+"ning kasutab seetõttu selles avalikus asutuses kasutatavaid turvasüsteeme."
+
+#: templates/rights/privacy.html:62
+msgid ""
+"The data are stored for as long as they are useful for administrative "
+"reasons. Non-personal data may be stored indefinitely as research material."
+msgstr ""
+"Andmeid säilitatakse vaid nii kaua kuni need on administratiivsetel "
+"eesmärkidel vajalikud. Teavet, mis ei kuulu isikuandmete alla, võib "
+"säilitada uurimistöö eesmärkidel tähtajatult."
+
+#: templates/rights/privacy.html:65
+msgid ""
+"Please note: Under law, we may be required to disclose the information that "
+"we log to the appropriate legal authorities."
+msgstr ""
+"Teadmiseks! Vastavalt seadusele võib meid kohustada kogutud teavet avaldama "
+"selleks volitatud õiguskaitseorganitele."
+
+#: templates/rights/privacy.html:68
+msgid "About this Privacy Policy Statement"
+msgstr "Privaatsuse põhimõtetest"
+
+#: templates/rights/privacy.html:70
+msgid ""
+"This Site may contain links to other web sites that are beyond our control. "
+"This privacy policy applies solely to the information you provide while "
+"visiting this Site. Other web sites to which you link may contain privacy "
+"policies that are different from this privacy policy."
+msgstr ""
+"Sellel veebilehel võivad olla lingid teistele veebilehtedele, mille üle meil "
+"puudub kontroll. Need privaatsuse põhimõtted kehtivad ainult informatsiooni "
+"kohta, mida Te edastate siinse veebilehe külastamisel. Teised veebilehed, "
+"kuhu Te jõuate linkide vahendusel, võivad rakendada teistsuguseid, meie "
+"privaatsuse põhimõtetest erinevaid põhimõtteid."
+
+#: templates/rights/privacy.html:73
+msgid ""
+"The current privacy policy statement is in accordance with the Dutch "
+"Personal Data Protection Act (Wet Bescherming Persoonsgegevens)."
+msgstr ""
+"Käesolevad privaatsuse põhimõtted on vastavuses Hollandi isikuandmete kaitse "
+"seadusega (Wet Bescherming Persoonsgegevens)."
+
+#: templates/rights/privacy.html:76
+msgid ""
+"Any changes to Europeana.eu privacy policy will be published on this page."
+msgstr ""
+"Kõik muudatused Europeana.eu privaatsuse põhimõtetes avaldatakse sellel "
+"veebilehel."
+
+#: templates/rights/privacy.html:79
+msgid "Questions, Complaints, and Dispute Resolution"
+msgstr "Küsimused, kaebused ja vaidluste lahendamine"
+
+#: templates/rights/privacy.html:81
+msgid ""
+"By using our website you consent to the terms of the Privacy Statement "
+"hereby described. However, you have the right to prevent the use of your "
+"personal data for personalised services and marketing as well as to request "
+"not to be further contacted by us.\n"
+"If you wish to be informed about the personal data collected about you, or "
+"to have this data corrected or removed, or have any other question with "
+"regards to this statement, please contact"
+msgstr ""
+"Meie veebilehe kasutamisel nõustute Te siin kirjeldatud privaatsuse "
+"põhimõtetega. Teil on seejuures õigus takistada oma isikuandmete kasutamist "
+"isikupärastatud teenuste väljatöötamisel ja turundustegevuses ning nõuda, et "
+"me Teiega edaspidi ei kontakteeruks. Kui Te soovite teavet Teie kohta "
+"kogutud isikuandmetest, nende andmete parandamist või eemaldamist, või Teil "
+"on küsimusi selle deklaratsiooni kohta, siis võtke palun ühendust aadressil"
+
+#: templates/rights/privacy.html:85
+msgid "Date of creation of the Privacy Statement"
+msgstr "Privaatsuse põhimõtete kehtiva versiooni jõustumise kuupäev"
+
+#: templates/rights/privacy.html:85 templates/rights/privacy.html.py:86
+#: templates/static_pages/aboutus_enews.html:24
+#: templates/static_pages/aboutus_enews.html:34
+#: templates/static_pages/aboutus_enews.html:43
+#: templates/static_pages/aboutus_enews.html:52
+msgid "September"
+msgstr "September"
+
+#: templates/rights/privacy.html:86
+msgid "Last amendment"
+msgstr "Viimane täiendus"
+
+#: templates/rights/privacy.html:89
+msgid "Feedback Form [title may differ in different languages]"
+msgstr "Tagasiside vorm"
+
+#: templates/rights/privacy.html:90
+#, fuzzy
+msgid ""
+"If you encounter any problem using this site or wish to make general "
+"comments/suggestions, please use this"
+msgstr ""
+"Kui Te täheldate selle veebilehe kasutamisel mingeid probleeme või soovite "
+"edastada üldiseid kommentaare ja ettepanekuid, siis kasutage palun"
+
+#: templates/rights/privacy.html:90
+#, fuzzy
+msgid "contact form"
+msgstr "Kontaktandmed"
+
+#: templates/rights/privacy.html:92
+msgid ""
+"All of our online forms that require you to enter personal information are "
+"designed to meet privacy requirements. This privacy policy provides further "
+"details."
+msgstr ""
+"Kõik meie elektroonilised vormid, mis eeldavad Teilt isikuandmete "
+"sisestamist, on loodud vastavuses isikuandmete kaitse nõuetega."
+
+#: templates/rights/publications.html:4
+#, fuzzy
+msgid "Europeana - Publications"
+msgstr "Europeana logod"
+
+#: templates/rights/terms-and-policies.html:4
+#, fuzzy
+msgid "Europeana - Terms and Policies"
+msgstr "Europeana – Kasutustingimused"
+
+#: templates/rights/terms-and-policies.html:15
+#, fuzzy
+msgid "Europeana Terms and Policies"
+msgstr "Europeana – Kasutustingimused"
+
+#: templates/rights/terms-and-policies.html:18
+msgid ""
+"In this section of the Europeana website you will find an overview of our "
+"Terms and Policies. These are divided into three subsections: 'Using Our "
+"data', 'Contributing data' and 'Our Policies':"
+msgstr ""
+
+#: templates/rights/terms-and-policies.html:22
+#, fuzzy
+msgid "Using Our data"
+msgstr "Europeana kasutamine"
+
+#: templates/rights/terms-and-policies.html:22
+msgid ""
+"provides you with the Terms of Use and Guidelines for using the data "
+"published on Europeana.eu."
+msgstr ""
+
+#: templates/rights/terms-and-policies.html:24
+msgid ""
+"governs what you can or cannot do with the metadata and previews that are "
+"published on Europeana.eu, with seperate"
+msgstr ""
+
+#: templates/rights/terms-and-policies.html:24
+#, fuzzy
+msgid "Terms of Use for the Europeana API"
+msgstr "Kas ma tohin kasutada Europeana logo?"
+
+#: templates/rights/terms-and-policies.html:24
+#, fuzzy
+msgid "Europeana publishes guidelines for working with"
+msgstr "Europeana juhised vabakasutuses teoste jaoks"
+
+#: templates/rights/terms-and-policies.html:24
+#, fuzzy
+msgid "Europeana metadata"
+msgstr "Europeana logod"
+
+#: templates/rights/terms-and-policies.html:24
+msgid "as well as for using digital reproductions of"
+msgstr ""
+
+#: templates/rights/terms-and-policies.html:24
+msgid "Public Domain works that you find via Europeana."
+msgstr ""
+
+#: templates/rights/terms-and-policies.html:24
+msgid "Additionally we provide a list of"
+msgstr ""
+
+#: templates/rights/terms-and-policies.html:24
+msgid "data sources that Europeana uses"
+msgstr ""
+
+#: templates/rights/terms-and-policies.html:24
+msgid "to enrich the metadata provided by our data providers"
+msgstr ""
+
+#: templates/rights/terms-and-policies.html:28
+#, fuzzy
+msgid "Contributing data"
+msgstr "Europeana kogud"
+
+#: templates/rights/terms-and-policies.html:28
+msgid ""
+"provides terms that ensure that Europeana can combine objects and data "
+"provided by individual users with the rest of the Europeana metadata"
+msgstr ""
+
+#: templates/rights/terms-and-policies.html:31
+#, fuzzy
+msgid "The Europeana Data Exchange Agreement"
+msgstr "Tagasi Europeana avalehele"
+
+#: templates/rights/terms-and-policies.html:31
+msgid ""
+"governs the relationship between Europeana and the institutional data "
+"providers. The"
+msgstr ""
+
+#: templates/rights/terms-and-policies.html:31
+#, fuzzy
+msgid "terms for user contributions"
+msgstr "Kasutustingimused"
+
+#: templates/rights/terms-and-policies.html:31
+msgid "governs the terms on which users contribute data to Europeana"
+msgstr ""
+
+#: templates/rights/terms-and-policies.html:35
+msgid "contains Europeana's policies"
+msgstr ""
+
+#: templates/rights/terms-and-policies.html:37
+msgid "The"
+msgstr ""
+
+#: templates/rights/terms-and-policies.html:37
+msgid ""
+"policy details how we treat personal information that we have collected from "
+"our users.  The"
+msgstr ""
+
+#: templates/rights/terms-and-policies.html:37
+msgid ""
+"policy describes Europeana's policy for providing information in a users own "
+"language and"
+msgstr ""
+
+#: templates/rights/terms-and-policies.html:37
+msgid ""
+"describes Europeana's aim to provide functionality and content that is "
+"universally accessible. In this section you will also find the"
+msgstr ""
+
+#: templates/rights/terms-and-policies.html:37
+#, fuzzy
+msgid "Europeana Public Domain Charter"
+msgstr "Tagasi Europeana avalehele"
+
+#: templates/rights/terms-and-policies.html:37
+msgid ""
+"that explains Europeana's contribution to strengthening the digital Public "
+"Domain"
+msgstr ""
+
+#: templates/rights/terms-for-user-contributions.html:4
+#, fuzzy
+msgid "Europeana - Terms for User Contributions"
+msgstr "Europeana Remix, meie esimene interaktiivne video"
+
+#: templates/rights/terms-for-user-contributions.html:49
+#, fuzzy
+msgid "Europeana Terms for User Contributions"
+msgstr "Europeana Remix, meie esimene interaktiivne video"
+
+#: templates/rights/terms-of-use.html:4
+#, fuzzy
+msgid "Europeana - Terms of Use"
+msgstr "Europeana – Kasutustingimused"
+
+#: templates/rights/terms-of-use.html:15
+#, fuzzy
+msgid "Europeana Terms of Use"
+msgstr "Europeana – Kasutustingimused"
+
+#: templates/rights/terms-of-use.html:18
+msgid ""
+"The Europeana.eu website is run by the Europeana Foundation and gives access "
+"to a wide range of digitised cultural heritage from across Europe and "
+"beyond. This material is provided to Europeana by a large number of "
+"contributing institutions and organisations. Europeana strives to make all "
+"resources on this website available for re-use. As part of this, all "
+"metadata (textual information on digitised cultural heritage) on the site "
+"are published without any restrictions on re-use. Most other material, such "
+"as the previews to digitised cultural heritage, is clearly labelled with "
+"rights statements that indicate if and under which conditions it can be re-"
+"used."
+msgstr ""
+
+#: templates/rights/terms-of-use.html:21
+msgid "Metadata"
+msgstr ""
+
+#: templates/rights/terms-of-use.html:26
+msgid ""
+"All metadata available on europeana.eu are published free of restrictions, "
+"under the terms of the"
+msgstr ""
+
+#: templates/rights/terms-of-use.html:26
+msgid ""
+"However if you re-use data published by Europeana, we encourage you to "
+"follow the"
+msgstr ""
+
+#: templates/rights/terms-of-use.html:26
+msgid "and to provide attribution to the data sources whenever possible"
+msgstr ""
+
+#: templates/rights/terms-of-use.html:31
+msgid "Previews"
+msgstr ""
+
+#: templates/rights/terms-of-use.html:34
+msgid ""
+"The previews that are shown on Europeana.eu can only be used in accordance "
+"with the rights information displayed alongside them (the badges underneath "
+"the previews). If there is no rights information displayed alongside a "
+"preview, these previews may only be used in accordance with the applicable "
+"copyright laws. However, in the latter event, please refer to the website of "
+"the data provider to find out whether other types of use are also allowed."
+msgstr ""
+
+#: templates/rights/terms-of-use.html:37
+msgid "Notice and Takedown"
+msgstr ""
+
+#: templates/rights/terms-of-use.html:40
+msgid ""
+"Europeana is not the owner of the copyrights to the metadata, the previews "
+"or the digitised cultural heritage to which these metadata or previews "
+"refer. This information has been provided to Europeana by a large number of "
+"contributing institutions and organisations. These data providers have "
+"ensured Europeana that the owners of these rights have agreed to the "
+"publication of their works under the applicable conditions as referred to "
+"above. However, the Europeana Foundation cannot guarantee that this is "
+"always correct. If you think that anything published on Europeana.eu "
+"infringes your rights, you may report this to Europeana by emailing"
+msgstr ""
+
+#: templates/rights/terms-of-use.html:43
+msgid "Liability Disclaimer"
+msgstr ""
+
+#: templates/rights/terms-of-use.html:45
+#, fuzzy
+msgid ""
+"Europeana does not guarantee the accuracy or completeness of the website and "
+"its content."
+msgstr ""
+"Europeana Sihtasutus ei taga veebilehe ja sellel sisalduva informatsiooni "
+"õigsust ega terviklikkust"
+
+#: templates/rights/terms-of-use.html:48
+#, fuzzy
+msgid ""
+"Except to the extent required by applicable law, in no event will Europeana "
+"be liable on any legal theory for any special, incidental, consequential, "
+"punitive or exemplary damages arising out of the use of the website or its "
+"content. In particular, it will not be liable for the following:"
+msgstr ""
+"Välja arvatud seadusega ette nähtud juhtudel ja ulatuses ei ole Europeana "
+"Sihtasutus ühegi õigussüsteemi kohaselt vastutav erakorraliste, juhuslike, "
+"tagajärjeliste või kohtulikust karistusest tulenevate kahjude eest, mis on "
+"tekkinud selle veebilehe või selle sisu kasutamisest. Iseäranis ei vastuta "
+"Europeana Sihtasutus järgmiste asjade eest"
+
+#: templates/rights/terms-of-use.html:52
+#, fuzzy
+msgid "Accuracy, completeness, etc. of the website or its content;"
+msgstr "Veebilehe ja selle sisu korrektsus, terviklikkus jms"
+
+#: templates/rights/terms-of-use.html:53
+msgid ""
+"Any infringement of privacy, publicity or other rights, including "
+"infringement of copyrights to metadata, previews or other content made "
+"available on Europeana.eu under conditions that were not approved by the "
+"right holder;"
+msgstr ""
+
+#: templates/rights/terms-of-use.html:54
+#, fuzzy
+msgid ""
+"Any use by third parties that goes beyond the rights expressed in these "
+"terms of use."
+msgstr ""
+"Materjali kasutamine kolmandate isikute poolt, mis ületab siinsetes "
+"kasutustingimustes määratud õigusi"
+
+#: templates/rights/terms-of-use.html:57
+#, fuzzy
+msgid "These terms of use"
+msgstr "kasutustingimustele"
+
+#: templates/rights/terms-of-use.html:59
+msgid ""
+"These terms of use do not pertain to the metadata, previews and other "
+"content of virtual exhibitions offered by Europeana on"
+msgstr ""
+
+#: templates/rights/terms-of-use.html:62
+msgid ""
+"By exercising any rights to the website or its content on grounds of these "
+"terms of use, you accept and agree to be bound to these terms of use. "
+"Europeana reserves the right to amend these terms of use."
+msgstr ""
+
+#: templates/rights/terms-of-use.html:65
+#, fuzzy
+msgid "These terms of use are governed by the laws of The Netherlands."
+msgstr "Need kasutustingimused on vastavuses Hollandi seadustega"
 
 #: templates/static_pages/aboutus.html:4
 msgid "Europeana - About us"
@@ -932,13 +1544,6 @@ msgstr "November"
 #: templates/static_pages/aboutus_enews.html:23
 msgid "Europe's culture - collected for you"
 msgstr "Avasta Euroopa kultuurikollektsioone"
-
-#: templates/static_pages/aboutus_enews.html:24
-#: templates/static_pages/aboutus_enews.html:34
-#: templates/static_pages/aboutus_enews.html:43
-#: templates/static_pages/aboutus_enews.html:52
-msgid "September"
-msgstr "September"
 
 #: templates/static_pages/aboutus_enews.html:24
 #, fuzzy
@@ -1226,8 +1831,8 @@ msgstr "Ei"
 #: templates/static_pages/prop_file.html:27
 #: templates/static_pages/prop_file.html:662
 #: templates/static_pages/prop_file.html:663
-#: templates/static_pages/prop_file.html:993
 #: templates/static_pages/prop_file.html:994
+#: templates/static_pages/prop_file.html:995
 #: templates/static_pages/sitemap.html:12
 #: templates/static_pages/usingeuropeana_myeuropeana.html:10
 #: templates/static_pages/usingeuropeana_myeuropeana.html:11
@@ -1417,8 +2022,8 @@ msgstr ""
 "filmiarhiividelt"
 
 #: templates/static_pages/prop_file.html:64
-#: templates/static_pages/prop_file.html:945
 #: templates/static_pages/prop_file.html:946
+#: templates/static_pages/prop_file.html:947
 #: templates/static_pages/sitemap.html:36
 msgid "About us"
 msgstr "Meist"
@@ -1430,8 +2035,8 @@ msgstr "Europeana kasutamine"
 #: templates/static_pages/prop_file.html:68
 #: templates/static_pages/prop_file.html:542
 #: templates/static_pages/prop_file.html:543
-#: templates/static_pages/prop_file.html:856
 #: templates/static_pages/prop_file.html:857
+#: templates/static_pages/prop_file.html:858
 #: templates/static_pages/sitemap.html:8
 msgid "Sitemap"
 msgstr "Veebilehe kaart"
@@ -1447,8 +2052,8 @@ msgid "Language policy"
 msgstr "Keelepoliitika"
 
 #: templates/static_pages/prop_file.html:72
-#: templates/static_pages/prop_file.html:852
 #: templates/static_pages/prop_file.html:853
+#: templates/static_pages/prop_file.html:854
 #, fuzzy
 msgid "Contact us"
 msgstr "Kontaktandmed"
@@ -1709,13 +2314,13 @@ msgid "View in original context"
 msgstr "objekti algses asukohas vaatamise"
 
 #: templates/static_pages/prop_file.html:136
-#: templates/static_pages/prop_file.html:842
+#: templates/static_pages/prop_file.html:843
 msgid "Provider"
 msgstr "\"Lisa materjali\""
 
 #: templates/static_pages/prop_file.html:137
 #: templates/static_pages/prop_file.html:254
-#: templates/static_pages/prop_file.html:839
+#: templates/static_pages/prop_file.html:840
 #: templates/static_pages/storyline.html:49
 #: templates/static_pages/usingeuropeana_search.html:32
 msgid "Title"
@@ -1859,7 +2464,7 @@ msgid "Create an account"
 msgstr "Kasutajakonto loomine"
 
 #: templates/static_pages/prop_file.html:168
-#: templates/static_pages/prop_file.html:1016
+#: templates/static_pages/prop_file.html:1017
 msgid "The link you used to complete registration is invalid or has expired."
 msgstr "Registreerumise lõpuleviimiseks kasutatud link on vigane või aegunud"
 
@@ -2099,8 +2704,9 @@ msgid "Ge'ez (gez)"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:227
+#, fuzzy
 msgid "Breton (br)"
-msgstr ""
+msgstr "norra (nor)"
 
 #: templates/static_pages/prop_file.html:228
 msgid "Ottoman Turkish (ota)"
@@ -2129,8 +2735,9 @@ msgid "Coptic (cop)"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:234
+#, fuzzy
 msgid "Occitan (oc)"
-msgstr ""
+msgstr "norra (nor)"
 
 #: templates/static_pages/prop_file.html:235
 msgid "Thai (th)"
@@ -2162,7 +2769,7 @@ msgid "Is Part of"
 msgstr "seda vormi"
 
 #: templates/static_pages/prop_file.html:242
-#: templates/static_pages/prop_file.html:985
+#: templates/static_pages/prop_file.html:986
 #, fuzzy
 msgid "Has part"
 msgstr "seda vormi"
@@ -2330,8 +2937,9 @@ msgid "Georgia"
 msgstr "Serbia"
 
 #: templates/static_pages/prop_file.html:288
+#, fuzzy
 msgid "Armenia"
-msgstr ""
+msgstr "Sloveenia"
 
 #: templates/static_pages/prop_file.html:289
 msgid "Bosnia and Herzegovina"
@@ -2785,7 +3393,7 @@ msgid "Powered By Europeana"
 msgstr "Minu Europeana"
 
 #: templates/static_pages/prop_file.html:391
-#: templates/static_pages/prop_file.html:900
+#: templates/static_pages/prop_file.html:901
 #, fuzzy
 msgid "Europeana Blog"
 msgstr "Europeana logod"
@@ -2941,10 +3549,11 @@ msgstr "Salvestatud objekte ei ole"
 
 #: templates/static_pages/prop_file.html:429
 msgid ""
-"Vase with flowers placed on a table in a range of Red-purple, with many grey "
-"accents, deriving from them. Figurative drawing with touches of green, grey "
-"and white background, divided after the white section. The bottom in Golden "
-"ocher, with shadows of blue."
+"Isidora Dolores Ibarruri Gomez, known as 'La Pasionaria', in Spanish 'the "
+"Passionflower', was a Spanish Republican leader of the Spanish Civil War and "
+"communist politician of Basque origin. She is perhaps best known for her "
+"defense of the Second Spanish Republic and the famous slogan 'They Shall Not "
+"Pass' during the Battle of Madrid."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:440
@@ -3008,24 +3617,25 @@ msgstr ""
 
 #: templates/static_pages/prop_file.html:518
 #: templates/static_pages/prop_file.html:521
-msgid "Europeana 1989: We Made History!"
+msgid "Europe’s culture in your newsfeed"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:522
 msgid ""
-"Last week the Freedom Express started its journey through Eastern and "
-"Central Europe. Europeana joined this journey to trace the historical events "
-"of 1989, a year that transformed Europe."
+"Follow us on Facebook and you’ll receive our daily updates in your newsfeed. "
+"We share the well-known classics as well as the hidden gems that can be "
+"found amongst the 30+ million items in Europeana from over 2,000 of Europe’s "
+"memory institutions."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:523
 #, fuzzy
-msgid "Learn more"
-msgstr "Europeana – Lugev Euroopa"
+msgid "Follow now"
+msgstr "Järgi meid"
 
 #: templates/static_pages/prop_file.html:532
 msgid ""
-"Explore 13 unique curated exhibitions highlighting some of Europe's biggest "
+"Explore 15 unique curated exhibitions highlighting some of Europe's biggest "
 "cultural treasures."
 msgstr ""
 
@@ -3053,8 +3663,8 @@ msgstr ""
 
 #: templates/static_pages/prop_file.html:562
 #: templates/static_pages/prop_file.html:563
-#: templates/static_pages/prop_file.html:989
 #: templates/static_pages/prop_file.html:990
+#: templates/static_pages/prop_file.html:991
 #: templates/static_pages/sitemap.html:11
 msgid "Home"
 msgstr "Koju"
@@ -3392,7 +4002,7 @@ msgid "Latest on"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:752
-#: templates/static_pages/prop_file.html:1009
+#: templates/static_pages/prop_file.html:1010
 #: templates/static_pages/usingeuropeana_search.html:69
 msgid "Share"
 msgstr "Jagada"
@@ -3416,7 +4026,7 @@ msgid "Sign-up here"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:758
-#: templates/static_pages/prop_file.html:1030
+#: templates/static_pages/prop_file.html:1031
 msgid "Name"
 msgstr ""
 
@@ -3431,23 +4041,26 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/prop_file.html:771
-#: templates/static_pages/prop_file.html:782
-#: templates/static_pages/prop_file.html:793
-#: templates/static_pages/prop_file.html:803
-#: templates/static_pages/prop_file.html:814
+#: templates/static_pages/prop_file.html:783
+#: templates/static_pages/prop_file.html:794
+#: templates/static_pages/prop_file.html:804
+#: templates/static_pages/prop_file.html:815
 #, fuzzy
 msgid "Featured partner"
 msgstr "Päring on salvestatud"
 
 #: templates/static_pages/prop_file.html:775
 msgid ""
-"Ateneum Art Museum is home to the largest and most important art collections "
-"in Finland. The museum governs over 20,000 works of art. The most "
-"significant of these is the Antell Collection, a testamentary donation by "
-"the collector H. F. Antell."
+"Atria, Institute on Gender Equality and Women’s History, based in Amsterdam, "
+"is the expert centre on gender equality and women’s history in the "
+"Netherlands. Atria’s rich library and (online) archive, house one of the "
+"oldest collections on women’s history world wide: the International Archives "
+"for the Women’s Movement (IAV). Since 1935 Atria collects topical "
+"information on the position of women and the gender perspective, as well as "
+"the heritage of women’s movementes in the Netherlands."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:786
+#: templates/static_pages/prop_file.html:787
 msgid ""
 "The National Gallery of Ireland houses the Irish national collection of "
 "Irish and European art. It is located in the centre of Dublin with one "
@@ -3459,14 +4072,14 @@ msgid ""
 "painting."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:797
+#: templates/static_pages/prop_file.html:798
 msgid ""
 "One of the oldest and the best museums of the Upper Volga Region, was "
 "founded in 1910. Now the museum houses more than 120 thousand exhibits: from "
 "saurian bones to paintings of famous artists."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:807
+#: templates/static_pages/prop_file.html:808
 msgid ""
 "Since its founding in 1952 the Hungarian Theatre Museum and Institute has "
 "been collecting the most valuable relics and data of the Hungarian theatre, "
@@ -3477,7 +4090,7 @@ msgid ""
 "€”and many more..."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:818
+#: templates/static_pages/prop_file.html:819
 msgid ""
 "Archive Eemland is the historical information centre of Amersfoort and the "
 "Eemland region. The archive manages approximately 3.5 kilometers of "
@@ -3486,677 +4099,677 @@ msgid ""
 "library."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:825
+#: templates/static_pages/prop_file.html:826
 #, fuzzy
 msgid "API function"
 msgstr "Orjanduse kaotamine"
 
-#: templates/static_pages/prop_file.html:826
+#: templates/static_pages/prop_file.html:827
 #, fuzzy
 msgid "Search parameters"
 msgstr "Päring on salvestatud"
 
-#: templates/static_pages/prop_file.html:827
+#: templates/static_pages/prop_file.html:828
 #, fuzzy
 msgid "Search term"
 msgstr "Päring on salvestatud"
 
-#: templates/static_pages/prop_file.html:828
+#: templates/static_pages/prop_file.html:829
 msgid "Refinement term(s)"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:829
+#: templates/static_pages/prop_file.html:830
 msgid "Profile"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:830
+#: templates/static_pages/prop_file.html:831
 msgid "Number of records to retrieve"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:831
+#: templates/static_pages/prop_file.html:832
 msgid "First record to retrieve"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:832
+#: templates/static_pages/prop_file.html:833
 #, fuzzy
 msgid "Record parameters"
 msgstr "Päring on salvestatud"
 
-#: templates/static_pages/prop_file.html:833
+#: templates/static_pages/prop_file.html:834
 msgid "Record id"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:834
+#: templates/static_pages/prop_file.html:835
 msgid "Request URL"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:835
+#: templates/static_pages/prop_file.html:836
 msgid "JSON response"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:836
+#: templates/static_pages/prop_file.html:837
 #, fuzzy
 msgid "Additional parameters"
 msgstr "Päring on salvestatud"
 
-#: templates/static_pages/prop_file.html:838
+#: templates/static_pages/prop_file.html:839
 #, fuzzy
 msgid "Search also for:"
 msgstr "Päring on salvestatud"
 
-#: templates/static_pages/prop_file.html:840
+#: templates/static_pages/prop_file.html:841
 msgid "Who"
 msgstr "Kes"
 
-#: templates/static_pages/prop_file.html:841
+#: templates/static_pages/prop_file.html:842
 msgid "What"
 msgstr "Mis"
 
-#: templates/static_pages/prop_file.html:844
 #: templates/static_pages/prop_file.html:845
+#: templates/static_pages/prop_file.html:846
 #, fuzzy
 msgid "Europeana APIs"
 msgstr "Europeana – Korduma kippuvad küsimused"
 
-#: templates/static_pages/prop_file.html:846
-#: templates/static_pages/prop_file.html:850
-#: templates/static_pages/prop_file.html:854
-#: templates/static_pages/prop_file.html:858
+#: templates/static_pages/prop_file.html:847
+#: templates/static_pages/prop_file.html:851
+#: templates/static_pages/prop_file.html:855
+#: templates/static_pages/prop_file.html:859
 msgid "_self"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:848
 #: templates/static_pages/prop_file.html:849
+#: templates/static_pages/prop_file.html:850
 #, fuzzy
 msgid "Terms of use &amp; Policies"
 msgstr "Kasutustingimused"
 
-#: templates/static_pages/prop_file.html:867
+#: templates/static_pages/prop_file.html:868
 #: templates/static_pages/usingeuropeana_myeuropeana.html:17
 msgid "API keys"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:868
+#: templates/static_pages/prop_file.html:869
 #, fuzzy
 msgid "No API key"
 msgstr "Eemalda"
 
-#: templates/static_pages/prop_file.html:869
+#: templates/static_pages/prop_file.html:870
 #, fuzzy
 msgid "API key"
 msgstr "Eemalda"
 
-#: templates/static_pages/prop_file.html:870
+#: templates/static_pages/prop_file.html:871
 #, fuzzy
 msgid "Private key"
 msgstr "Privaatsus"
 
-#: templates/static_pages/prop_file.html:871
+#: templates/static_pages/prop_file.html:872
 msgid "Usage limit"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:872
+#: templates/static_pages/prop_file.html:873
 msgid "Role"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:873
+#: templates/static_pages/prop_file.html:874
 msgid "Administrator's page"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:874
+#: templates/static_pages/prop_file.html:875
 msgid "Congratulations! You are now registered for Europeana's API."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:875
+#: templates/static_pages/prop_file.html:876
 #, fuzzy
 msgid "Your API key is"
 msgstr "Eemalda"
 
-#: templates/static_pages/prop_file.html:876
+#: templates/static_pages/prop_file.html:877
 #, fuzzy
 msgid "Your private key is"
 msgstr "Privaatsus"
 
-#: templates/static_pages/prop_file.html:878
+#: templates/static_pages/prop_file.html:879
 #, fuzzy
 msgid "Remove API key"
 msgstr "Eemalda"
 
-#: templates/static_pages/prop_file.html:879
+#: templates/static_pages/prop_file.html:880
 msgid "Limit"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:880
+#: templates/static_pages/prop_file.html:881
 #, fuzzy
 msgid "Remove user"
 msgstr "Eemalda"
 
-#: templates/static_pages/prop_file.html:881
+#: templates/static_pages/prop_file.html:882
 msgid "Block user"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:882
+#: templates/static_pages/prop_file.html:883
 msgid "Export API keys to CSV"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:883
+#: templates/static_pages/prop_file.html:884
 msgid "Export users to CSV"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:884
+#: templates/static_pages/prop_file.html:885
 #, fuzzy
 msgid "User name"
 msgstr "Kasutajanimi"
 
-#: templates/static_pages/prop_file.html:885
+#: templates/static_pages/prop_file.html:886
 #, fuzzy
 msgid "Registration"
 msgstr "Taasregistreerumine"
 
-#: templates/static_pages/prop_file.html:887
+#: templates/static_pages/prop_file.html:888
 msgid "Visit the website of"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:888
+#: templates/static_pages/prop_file.html:889
 msgid "View the latest content from our partners"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:892
 #: templates/static_pages/prop_file.html:893
+#: templates/static_pages/prop_file.html:894
 #: templates/static_pages/sitemap.html:15
 msgid "Other Europeana Sites"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:896
+#: templates/static_pages/prop_file.html:897
 #, fuzzy
 msgid "Europeana Exhibitions"
 msgstr "Europeana logod"
 
-#: templates/static_pages/prop_file.html:904
+#: templates/static_pages/prop_file.html:905
 #: templates/static_pages/sitemap.html:19
 msgid "Europeana 1914-1918"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:909
+#: templates/static_pages/prop_file.html:910
 msgid "Remix"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:912
+#: templates/static_pages/prop_file.html:913
 #: templates/static_pages/sitemap.html:21
 msgid "Europeana Professional"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:913
+#: templates/static_pages/prop_file.html:914
 msgid "Professional"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:916
+#: templates/static_pages/prop_file.html:917
 #, fuzzy
 msgid "Europeana Labs"
 msgstr "Europeana logod"
 
-#: templates/static_pages/prop_file.html:917
+#: templates/static_pages/prop_file.html:918
 msgid "Labs"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:977
+#: templates/static_pages/prop_file.html:978
 msgid "Change limit for an API key"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:978
+#: templates/static_pages/prop_file.html:979
 msgid "Company or Institution"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:979
+#: templates/static_pages/prop_file.html:980
 msgid "Telephone contact"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:980
+#: templates/static_pages/prop_file.html:981
 #, fuzzy
 msgid "Address"
 msgstr "E-posti aadress"
 
-#: templates/static_pages/prop_file.html:981
+#: templates/static_pages/prop_file.html:982
 msgid "I confirm that I have read and agree to the"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:982
+#: templates/static_pages/prop_file.html:983
 msgid "Next in sequence"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:983
+#: templates/static_pages/prop_file.html:984
 #, fuzzy
 msgid "Date of creation"
 msgstr "Andmekaitse"
 
-#: templates/static_pages/prop_file.html:984
+#: templates/static_pages/prop_file.html:985
 #, fuzzy
 msgid "Is part of"
 msgstr "seda vormi"
 
-#: templates/static_pages/prop_file.html:995
+#: templates/static_pages/prop_file.html:996
 #, fuzzy
 msgid "Titles"
 msgstr "Pealkiri"
 
-#: templates/static_pages/prop_file.html:996
+#: templates/static_pages/prop_file.html:997
 #, fuzzy
 msgid "Places"
 msgstr "lehekülgedelt"
 
-#: templates/static_pages/prop_file.html:997
+#: templates/static_pages/prop_file.html:998
 #, fuzzy
 msgid "Dates/Periods"
 msgstr "Päring on salvestatud"
 
-#: templates/static_pages/prop_file.html:998
+#: templates/static_pages/prop_file.html:999
 #, fuzzy
 msgid "Subjects"
 msgstr "Teemapilv"
 
-#: templates/static_pages/prop_file.html:999
+#: templates/static_pages/prop_file.html:1000
 #, fuzzy
 msgid "Creators"
 msgstr "Autor"
 
-#: templates/static_pages/prop_file.html:1000
+#: templates/static_pages/prop_file.html:1001
 #, fuzzy
 msgid "All fields"
 msgstr "Vabalt valitud väli"
 
-#: templates/static_pages/prop_file.html:1001
+#: templates/static_pages/prop_file.html:1002
 #, fuzzy
 msgid "Featured Item"
 msgstr "Salvestatud objekte ei ole"
 
-#: templates/static_pages/prop_file.html:1002
+#: templates/static_pages/prop_file.html:1003
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "Featured Partner"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1003
+#: templates/static_pages/prop_file.html:1004
 #, fuzzy
 msgid "Click here for last page of results"
 msgstr "Järgmine tulemuste lehekülg"
 
-#: templates/static_pages/prop_file.html:1004
+#: templates/static_pages/prop_file.html:1005
 #: templates/static_pages/usingeuropeana_results.html:24
 msgid "Results per page"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1005
+#: templates/static_pages/prop_file.html:1006
 #: templates/static_pages/usingeuropeana_search.html:49
 msgid "Add more keywords"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1006
+#: templates/static_pages/prop_file.html:1007
 msgid "+ Add"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1007
+#: templates/static_pages/prop_file.html:1008
 msgid "Field of work"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1008
+#: templates/static_pages/prop_file.html:1009
 #, fuzzy
 msgid "Please, select"
 msgstr "Kogu"
 
-#: templates/static_pages/prop_file.html:1010
+#: templates/static_pages/prop_file.html:1011
 #, fuzzy
 msgid "Please try another search later."
 msgstr "on juba kasutusel. Palun valige teistsugune kasutajanimi"
 
-#: templates/static_pages/prop_file.html:1011
+#: templates/static_pages/prop_file.html:1012
 msgid "Unable to find the requested page"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1012
+#: templates/static_pages/prop_file.html:1013
 msgid "Alert:"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1013
+#: templates/static_pages/prop_file.html:1014
 msgid "Unable to find the requested Europeana Record."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1014
+#: templates/static_pages/prop_file.html:1015
 #, fuzzy
 msgid "This item has been withdrawn by the provider."
 msgstr "Tähelepanu: see objekt on levitaja poolt eemaldatud."
 
-#: templates/static_pages/prop_file.html:1015
+#: templates/static_pages/prop_file.html:1016
 msgid "Requested Europeana Record is not yet indexed."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1017
+#: templates/static_pages/prop_file.html:1018
 #, fuzzy
 msgid "Please register your email again"
 msgstr "Palun sisestage korrektne e-posti aadrss"
 
-#: templates/static_pages/prop_file.html:1018
+#: templates/static_pages/prop_file.html:1019
 #, fuzzy
 msgid "to finish registration."
 msgstr "Registreerumise lõpetamine"
 
-#: templates/static_pages/prop_file.html:1019
+#: templates/static_pages/prop_file.html:1020
 msgid "Unable to fullfill your request due to malformed query parameters."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1020
+#: templates/static_pages/prop_file.html:1021
 msgid "Unable to get a response from the Search Engine."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1021
+#: templates/static_pages/prop_file.html:1022
 msgid "Unable to fulfill your request due to a malformed query syntax."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1022
+#: templates/static_pages/prop_file.html:1023
 msgid "We are unable to change the interface to the requested language."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1023
+#: templates/static_pages/prop_file.html:1024
 #, fuzzy
 msgid "Please try another language from the dropdown list."
 msgstr "on juba kasutusel. Palun valige teistsugune kasutajanimi"
 
-#: templates/static_pages/prop_file.html:1024
+#: templates/static_pages/prop_file.html:1025
 msgid "Number of results shown on the page"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1031
+#: templates/static_pages/prop_file.html:1032
 msgid "API-key"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1032
+#: templates/static_pages/prop_file.html:1033
 msgid "Number of calls"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1034
 #: templates/static_pages/prop_file.html:1035
+#: templates/static_pages/prop_file.html:1036
 msgid "Can I use it?"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1036
+#: templates/static_pages/prop_file.html:1037
 #, fuzzy
 msgid "Yes, with attribution"
 msgstr "Europeana logod"
 
-#: templates/static_pages/prop_file.html:1037
+#: templates/static_pages/prop_file.html:1038
 #, fuzzy
 msgid "Yes, with restrictions"
 msgstr "Europeana logod"
 
-#: templates/static_pages/prop_file.html:1038
+#: templates/static_pages/prop_file.html:1039
 msgid "Only with permission"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1040
+#: templates/static_pages/prop_file.html:1041
 msgid "Export API users to CSV"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1041
+#: templates/static_pages/prop_file.html:1042
 msgid "Export API users to Excel"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1043
+#: templates/static_pages/prop_file.html:1044
 msgid "It looks like your browser is set to"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1044
+#: templates/static_pages/prop_file.html:1045
 msgid "Would you also like to use Europeana in"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1045
+#: templates/static_pages/prop_file.html:1046
 msgid ""
 "It looks like your browser is set to English. Would you also like to use "
 "Europeana in English"
 msgstr ""
 "Tundub, et teie brauser on seatud Eesti. Tahate kasutada Europeana Eesti"
 
-#: templates/static_pages/prop_file.html:1046
+#: templates/static_pages/prop_file.html:1047
 #, fuzzy
 msgid "English"
 msgstr "inglise (eng)"
 
-#: templates/static_pages/prop_file.html:1047
+#: templates/static_pages/prop_file.html:1048
 msgid "Basque"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1048
+#: templates/static_pages/prop_file.html:1049
 #, fuzzy
 msgid "Bulgarian"
 msgstr "Bulgaaria"
 
-#: templates/static_pages/prop_file.html:1049
+#: templates/static_pages/prop_file.html:1050
 msgid "Catalan"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1050
+#: templates/static_pages/prop_file.html:1051
 msgid "Czech"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1051
+#: templates/static_pages/prop_file.html:1052
 #, fuzzy
 msgid "Danish"
 msgstr "taani (dan)"
 
-#: templates/static_pages/prop_file.html:1052
+#: templates/static_pages/prop_file.html:1053
 #, fuzzy
 msgid "German"
 msgstr "Saksamaa"
 
-#: templates/static_pages/prop_file.html:1053
+#: templates/static_pages/prop_file.html:1054
 #, fuzzy
 msgid "Greek"
 msgstr "Kreeka"
 
-#: templates/static_pages/prop_file.html:1054
+#: templates/static_pages/prop_file.html:1055
 #, fuzzy
 msgid "Spanish"
 msgstr "hispaania (esp)"
 
-#: templates/static_pages/prop_file.html:1055
+#: templates/static_pages/prop_file.html:1056
 #, fuzzy
 msgid "Estonian"
 msgstr "Eesti"
 
-#: templates/static_pages/prop_file.html:1056
+#: templates/static_pages/prop_file.html:1057
 #, fuzzy
 msgid "French"
 msgstr "prantsuse (fre)"
 
-#: templates/static_pages/prop_file.html:1057
+#: templates/static_pages/prop_file.html:1058
 msgid "Irish"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1058
+#: templates/static_pages/prop_file.html:1059
 #, fuzzy
 msgid "Croatian"
 msgstr "Läti"
 
-#: templates/static_pages/prop_file.html:1059
+#: templates/static_pages/prop_file.html:1060
 #, fuzzy
 msgid "Icelandic"
 msgstr "Island"
 
-#: templates/static_pages/prop_file.html:1060
+#: templates/static_pages/prop_file.html:1061
 #, fuzzy
 msgid "Italian"
 msgstr "itaalia (ita)"
 
-#: templates/static_pages/prop_file.html:1061
+#: templates/static_pages/prop_file.html:1062
 #, fuzzy
 msgid "Lithuanian"
 msgstr "Leedu"
 
-#: templates/static_pages/prop_file.html:1062
+#: templates/static_pages/prop_file.html:1063
 #, fuzzy
 msgid "Latvian"
 msgstr "Läti"
 
-#: templates/static_pages/prop_file.html:1063
+#: templates/static_pages/prop_file.html:1064
 #, fuzzy
 msgid "Hungarian"
 msgstr "ungari (hun)"
 
-#: templates/static_pages/prop_file.html:1064
+#: templates/static_pages/prop_file.html:1065
 #, fuzzy
 msgid "Maltese"
 msgstr "malta (mlt)"
 
-#: templates/static_pages/prop_file.html:1065
+#: templates/static_pages/prop_file.html:1066
 #, fuzzy
 msgid "Dutch"
 msgstr "hollandi (dut)"
 
-#: templates/static_pages/prop_file.html:1066
+#: templates/static_pages/prop_file.html:1067
 #, fuzzy
 msgid "Norwegian"
 msgstr "norra (nor)"
 
-#: templates/static_pages/prop_file.html:1067
+#: templates/static_pages/prop_file.html:1068
 #, fuzzy
 msgid "Polish"
 msgstr "poola (pol)"
 
-#: templates/static_pages/prop_file.html:1068
+#: templates/static_pages/prop_file.html:1069
 #, fuzzy
 msgid "Romanian"
 msgstr "Rumeenia"
 
-#: templates/static_pages/prop_file.html:1069
+#: templates/static_pages/prop_file.html:1070
 #, fuzzy
 msgid "Russian"
 msgstr "vene (rus)"
 
-#: templates/static_pages/prop_file.html:1070
+#: templates/static_pages/prop_file.html:1071
 #, fuzzy
 msgid "Slovene"
 msgstr "Sloveenia"
 
-#: templates/static_pages/prop_file.html:1071
+#: templates/static_pages/prop_file.html:1072
 #, fuzzy
 msgid "Slovak"
 msgstr "Slovakkia"
 
-#: templates/static_pages/prop_file.html:1072
+#: templates/static_pages/prop_file.html:1073
 #, fuzzy
 msgid "Finnish"
 msgstr "soome (fin)"
 
-#: templates/static_pages/prop_file.html:1073
+#: templates/static_pages/prop_file.html:1074
 #, fuzzy
 msgid "Swedish"
 msgstr "Rootsi"
 
-#: templates/static_pages/prop_file.html:1074
+#: templates/static_pages/prop_file.html:1075
 #, fuzzy
 msgid "Ukranian"
 msgstr "Prantsusmaa"
 
-#: templates/static_pages/prop_file.html:1076
+#: templates/static_pages/prop_file.html:1077
 #, fuzzy
 msgid "no"
 msgstr "ei"
 
-#: templates/static_pages/prop_file.html:1077
+#: templates/static_pages/prop_file.html:1078
 msgid "yes"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1079
+#: templates/static_pages/prop_file.html:1080
 #, fuzzy
 msgid "Language settings"
 msgstr "Keel"
 
-#: templates/static_pages/prop_file.html:1080
+#: templates/static_pages/prop_file.html:1081
 msgid "Automatically translate item pages into:"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1081
+#: templates/static_pages/prop_file.html:1082
 msgid "Auto translate items into"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1082
+#: templates/static_pages/prop_file.html:1083
 msgid "Automatically translate search keywords into:"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1083
+#: templates/static_pages/prop_file.html:1084
 msgid ""
 "For registered users, you can choose a maximum of 6 options. For "
 "unregistered users, you can choose a maximum of 3 options."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1084
+#: templates/static_pages/prop_file.html:1085
 msgid "Submit"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1085
+#: templates/static_pages/prop_file.html:1086
 #, fuzzy
 msgid "Incorrect password."
 msgstr "Ma unustasin oma salasõna"
 
-#: templates/static_pages/prop_file.html:1086
+#: templates/static_pages/prop_file.html:1087
 msgid ""
 "Log into My Europeana to save your favourite items, searches, tags and "
 "translate search keywords into other languages."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1087
+#: templates/static_pages/prop_file.html:1088
 #, fuzzy
 msgid "Please enter your username."
 msgstr "on juba kasutusel. Palun valige teistsugune kasutajanimi"
 
-#: templates/static_pages/prop_file.html:1088
+#: templates/static_pages/prop_file.html:1089
 #, fuzzy
 msgid "Please enter your password."
 msgstr "on juba kasutusel. Palun valige teistsugune kasutajanimi"
 
-#: templates/static_pages/prop_file.html:1089
+#: templates/static_pages/prop_file.html:1090
 msgid "Registered users may choose a maximum of 6 options."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1090
+#: templates/static_pages/prop_file.html:1091
 msgid "Unregistered users may choose a maximum of 3 options."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1091
+#: templates/static_pages/prop_file.html:1092
 #, fuzzy
 msgid "Clear selection"
 msgstr "Kogu"
 
-#: templates/static_pages/prop_file.html:1092
+#: templates/static_pages/prop_file.html:1093
 #, fuzzy
 msgid "Request passsword"
 msgstr "Korrake salasõna"
 
-#: templates/static_pages/prop_file.html:1093
+#: templates/static_pages/prop_file.html:1094
 msgid "Invalid credentials"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1094
+#: templates/static_pages/prop_file.html:1095
 #, fuzzy
 msgid "Save settings"
 msgstr "Salvestatud märksõnad"
 
-#: templates/static_pages/prop_file.html:1095
+#: templates/static_pages/prop_file.html:1096
 msgid "Settings have been saved."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1096
+#: templates/static_pages/prop_file.html:1097
 #, fuzzy
 msgid ""
 "Sorry, there was a problem saving your settings. Please try again later."
 msgstr "Vabandame; probleem andmete tõmbamisega. Proovige hiljem uuesti."
 
-#: templates/static_pages/prop_file.html:1098
+#: templates/static_pages/prop_file.html:1099
 msgid "A maximum of 6 languages can be selected."
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1099
+#: templates/static_pages/prop_file.html:1100
 msgid "This option is only available for registered users"
 msgstr ""
 
-#: templates/static_pages/prop_file.html:1100
+#: templates/static_pages/prop_file.html:1101
 msgid "register or sign in here"
 msgstr ""
 
@@ -5707,265 +6320,9 @@ msgid ""
 "by dropping us an email at"
 msgstr ""
 
-#~ msgid "Europeana - Privacy policy"
-#~ msgstr "Europeana – Privaatsuse põhimõtted"
-
-#~ msgid "What Information do we collect?"
-#~ msgstr "Millist teavet me kogume?"
-
-#~ msgid ""
-#~ "In line with common practice, when you visit Europeana website and when "
-#~ "you register with us, we record and store some information about you. In "
-#~ "some cases we process this information in order to better understand our "
-#~ "users and their needs. This is done to improve the content and the "
-#~ "usability of our portal and the services we offer. However,  Europeana.eu "
-#~ "recognizes the importance of privacy to users of the Europeana.eu portal; "
-#~ "consequently we handle such personal information with care."
-#~ msgstr ""
-#~ "Kui Te külastate Europeana veebilehte ja siin end registreerite, siis "
-#~ "vastavalt levinud tavale talletame ja säilitame Teie kohta käiva "
-#~ "informatsiooni. Mõnel juhul me analüüsime seda teavet, et oma kasutajate "
-#~ "vajadusi paremini mõista ning saadud info põhjal täiustada pakutavate "
-#~ "teenuste sisu ja tõhustada portaali kasutamist. Europeana.eu tunnustab "
-#~ "oma kasutajate privaatsust ja sellest tulenevalt haldab isiklikku teavet "
-#~ "vastutustundlikult."
-
-#~ msgid ""
-#~ "Please read our Privacy Policy Statement to find out what information we "
-#~ "log and how we use it. We collect the following: Log Files, cookies and "
-#~ "information that we explicitly ask you to provide about yourself upon "
-#~ "registration or upon using any electronic forms of communication with "
-#~ "Europeana.eu staff."
-#~ msgstr ""
-#~ "Palun tutvuge meie privaatsuse põhimõtetega, et teada saada, millist "
-#~ "informatsiooni me talletame ja kuidas seda kasutame. Kogume järgmisi "
-#~ "andmeid: logifaile, „küpsiseid“ ja teavet, mida me Teilt registreerimisel "
-#~ "või Europeana.eu personaliga suhtlemiseks kasutatavates elektroonilistes "
-#~ "vormides küsime."
-
-#~ msgid "Log Files and Cookies"
-#~ msgstr "Logifailid ja väikesemahulised tekstifailid ehk “küpsised”"
-
-#~ msgid ""
-#~ "When you visit  Europeana.eu, your requests and actions are automatically "
-#~ "logged on our server. Log files contain information such as your IP "
-#~ "address, the date and time you accessed the website, the pages you "
-#~ "requested for viewing, etc. Log files do not contain any personal "
-#~ "identifiable information about you."
-#~ msgstr ""
-#~ "Kui Te külastate Europeana.eu veebilehte, siis talletatakse Teie päringud "
-#~ "ja toimingud automaatselt meie serveris. Logifailid sisaldavad "
-#~ "informatsiooni Teie IP-aadressi, veebilehe külastamise kuupäeva ja "
-#~ "kellaaja, vaadatud lehekülgede jms kohta. Logifailid ei sisalda mingeid "
-#~ "isikuandmeid, mida oleks võimalik Teiega seostada."
-
-#~ msgid ""
-#~ "Cookies are small amounts of information sent from a web server to your "
-#~ "browser and stored on your computers hard-drive. They contain information "
-#~ "about the internet sites that you have visited. Europeana.eu uses cookies "
-#~ "to recognise you and your access privileges. Most web browsers "
-#~ "automatically accept cookies but you can usually change your browser "
-#~ "settings to prevent this (although you might not have access to the full "
-#~ "functionality of the website, such as the language settings you might "
-#~ "have chosen)."
-#~ msgstr ""
-#~ "„Küpsised“ on väikesed andmeplokid, mis saadetakse automaatselt "
-#~ "veebiserverist Teie brauserisse ja salvestatakse Teie arvuti kõvakettal. "
-#~ "Need sisaldavad teavet Teie külastatud veebilehtede kohta. Europeana.eu "
-#~ "kasutab „küpsiseid“ Teie tuvastamiseks ja Teile juurdepääsuõiguste "
-#~ "tagamiseks. Enamik veebibrausereid võtavad „küpsised“ automaatselt vastu, "
-#~ "kuid Teil on võimalik oma brauseri seadistusi muuta ning seda takistada "
-#~ "(see võib aga häirida veebilehe täisfunktsionaalset kasutamist, näiteks "
-#~ "ei tunta ära Teie varem salvestatud keelevalikut)."
-
-#~ msgid ""
-#~ "Europeana.eu collects or logs cookies and information about its users and "
-#~ "processes this information to produce usage statistics. By processing "
-#~ "such information we are trying to identify user profiles and usage habits "
-#~ "to improve the content and services we offer according to users needs. "
-#~ "Log files analysis are also used to inform Europeana.eu partner libraries "
-#~ "about digitisation priorities based on user preferences. These aggregated "
-#~ "data do not contain information from which individuals can be identified. "
-#~ "They are used strictly for the following purposes"
-#~ msgstr ""
-#~ "Europeana.eu kogub ja talletab „küpsiseid“ ning teavet oma kasutajate "
-#~ "kohta, töödeldes seda informatsiooni kasutusstatistika koostamiseks. Sel "
-#~ "moel püütakse kindlaks teha kasutajaprofiile ja kasutusharjumusi, et "
-#~ "täiustada pakutavat sisu ja kohandada teenuseid kasutajate vajadustega. "
-#~ "Logifailide analüüsi kasutatakse ka Europeana.eu partnerraamatukogude "
-#~ "teavitamiseks kasutajate eelistustel põhinevatest "
-#~ "digiteerimisprioriteetidest. Need andmekogumid ei sisalda isikuandmeid, "
-#~ "mille alusel saaks konkreetseid isikuid kindlaks teha. Andmeid "
-#~ "kasutatakse rangelt vaid järgmistel eesmärkidel"
-
-#~ msgid "To monitor and to better administer traffic to the website."
-#~ msgstr "Veebilehel toimuva liikluse jälgimiseks ja paremaks haldamiseks."
-
-#~ msgid "To assess and improve usability, services and content."
-#~ msgstr "Kasutatavuse, teenuste ja sisu hindamiseks ning tõhustamiseks."
-
-#~ msgid "To identify technical shortcomings and to troubleshoot."
-#~ msgstr "Tehniliste puuduste ja vigade leidmiseks."
-
-#~ msgid "To develop personalised services."
-#~ msgstr "Isikupärastatud teenuste arendamiseks."
-
-#~ msgid "To develop efficient marketing tools."
-#~ msgstr "Efektiivsete turundusmeetmete arendamiseks."
-
-#~ msgid "Registered users data and data from other online forms"
-#~ msgstr "Registreeritud kasutajate andmed ja muudest vormidest saadud andmed"
-
-#~ msgid ""
-#~ "When we ask you to register, we ask you to voluntarily supply some "
-#~ "personal information about yourself. Identification of users allows us to "
-#~ "provide personalised services on the portal. Currently the following "
-#~ "options are offered: to save favorites or session query history for "
-#~ "referencing at a later date. We intend to expand these services to offer "
-#~ "more personalized possibilities to the users, such as: to save selected "
-#~ "collections for use at a later date or to receive e-mail alerts about new "
-#~ "collections added which might interest them."
-#~ msgstr ""
-#~ "Kui me palume Teil end registreerida, siis palume Teil ühtlasi "
-#~ "vabatahtlikult edastada enda kohta teatud isikuandmeid. Kasutajate "
-#~ "identimine võimaldab meil portaalis pakkuda isikupärastatud teenuseid. "
-#~ "Praegu pakume järgmisi võimalusi: lemmiklehtede ja/või ühe "
-#~ "kasutussessiooni kestel tehtud päringute ajaloo salvestamine edaspidiseks "
-#~ "kasutamiseks. Edaspidi on kavas neid teenuseid laiendada, et pakkuda "
-#~ "kasutajatele rohkem isikupärastatud võimalusi, näiteks valitud "
-#~ "andmekogude salvestamist hilisemaks kasutamiseks või huvipakkuvatest "
-#~ "uutest andmekogudest teavitamist e-posti teel."
-
-#~ msgid ""
-#~ "Through the use of any electronic form on our website (feedback form, "
-#~ "newsletter subscription, report a link) you agree to supply some minimum "
-#~ "personal information (namely name and e-mail address). We may use this "
-#~ "information to reply to you about the issue involved. Your personal "
-#~ "information will not be used for direct mailing or for other reasons than "
-#~ "to answer your request."
-#~ msgstr ""
-#~ "Meie veebilehel asuvate elektrooniliste vormide (tagasiside vorm, "
-#~ "uudiskirja tellimine, uuest lingist teatamine) kasutamisel nõustute Te "
-#~ "edastama minimaalsel hulgal isikuandmeid (nime ja e-posti aadressi). Me "
-#~ "võime kasutada seda teavet Teie tõstatud küsimusele vastuse saatmiseks. "
-#~ "Teie isikuandmeid ei kasutata otsepostituseks või muudel eesmärkidel kui "
-#~ "ainult Teie päringule vastamiseks."
-
-#~ msgid "Data Protection"
-#~ msgstr "Andmekaitse"
-
-#~ msgid ""
-#~ "Europeana.eu respects your privacy and seeks to protect your personal "
-#~ "data. We do not sell, trade or rent the information we get from you on "
-#~ "this site to others. Sometimes, we collaborate with public organisations "
-#~ "such as universities that conduct research on our behalf on usage "
-#~ "patterns and behaviour to help us improve the content and the services we "
-#~ "offer. In these cases we do not disclose to them personal information (e."
-#~ "g. names or addresses)."
-#~ msgstr ""
-#~ "Europeana.eu austab Teie privaatsust ja püüab Teie isikuandmeid kaitsta. "
-#~ "Me ei müü, vaheta ega edasta ka ajutiseks kasutamiseks andmeid, mida me "
-#~ "selle veebilehe kaudu Teie kohta oleme kogunud. Mõningatel juhtudel teeme "
-#~ "koostööd avalike organisatsioonide, näiteks ülikoolidega, kes uurivad "
-#~ "meie tellimusel kasutusmalle ja kasutajate käitumist, et aidata meil "
-#~ "pakutavat sisu ja teenuseid paremaks muuta. Europeana.eu ei avalda "
-#~ "uuringuteks isikuandmeid (st nimesid või aadresse)."
-
-#~ msgid ""
-#~ "Europeana.eu takes all necessary measures to protect the data from un-"
-#~ "authorised access and use in a way other than that stated in the Privacy "
-#~ "Policy. Europeana.eu is hosted by SARA in The Netherlands and therefore "
-#~ "uses the systems and security in place for this public institution."
-#~ msgstr ""
-#~ "Europeana.eu võtab kasutusele kõik vajalikud meetmed, et kaitsta andmeid "
-#~ "lubamatu juurdepääsu ja kasutamise eest, mis hõlmab kõiki privaatsuse "
-#~ "põhimõtete all loetlemata viise. Europeana.eu asub Hollandis SARA "
-#~ "serveris ning kasutab seetõttu selles avalikus asutuses kasutatavaid "
-#~ "turvasüsteeme."
-
-#~ msgid ""
-#~ "The data are stored for as long as they are useful for administrative "
-#~ "reasons. Non-personal data may be stored indefinitely as research "
-#~ "material."
-#~ msgstr ""
-#~ "Andmeid säilitatakse vaid nii kaua kuni need on administratiivsetel "
-#~ "eesmärkidel vajalikud. Teavet, mis ei kuulu isikuandmete alla, võib "
-#~ "säilitada uurimistöö eesmärkidel tähtajatult."
-
-#~ msgid ""
-#~ "Please note: Under law, we may be required to disclose the information "
-#~ "that we log to the appropriate legal authorities."
-#~ msgstr ""
-#~ "Teadmiseks! Vastavalt seadusele võib meid kohustada kogutud teavet "
-#~ "avaldama selleks volitatud õiguskaitseorganitele."
-
-#~ msgid "About this Privacy Policy Statement"
-#~ msgstr "Privaatsuse põhimõtetest"
-
-#~ msgid ""
-#~ "This Site may contain links to other web sites that are beyond our "
-#~ "control. This privacy policy applies solely to the information you "
-#~ "provide while visiting this Site. Other web sites to which you link may "
-#~ "contain privacy policies that are different from this privacy policy."
-#~ msgstr ""
-#~ "Sellel veebilehel võivad olla lingid teistele veebilehtedele, mille üle "
-#~ "meil puudub kontroll. Need privaatsuse põhimõtted kehtivad ainult "
-#~ "informatsiooni kohta, mida Te edastate siinse veebilehe külastamisel. "
-#~ "Teised veebilehed, kuhu Te jõuate linkide vahendusel, võivad rakendada "
-#~ "teistsuguseid, meie privaatsuse põhimõtetest erinevaid põhimõtteid."
-
-#~ msgid ""
-#~ "The current privacy policy statement is in accordance with the Dutch "
-#~ "Personal Data Protection Act (Wet Bescherming Persoonsgegevens)."
-#~ msgstr ""
-#~ "Käesolevad privaatsuse põhimõtted on vastavuses Hollandi isikuandmete "
-#~ "kaitse seadusega (Wet Bescherming Persoonsgegevens)."
-
-#~ msgid ""
-#~ "Any changes to Europeana.eu privacy policy will be published on this page."
-#~ msgstr ""
-#~ "Kõik muudatused Europeana.eu privaatsuse põhimõtetes avaldatakse sellel "
-#~ "veebilehel."
-
-#~ msgid "Questions, Complaints, and Dispute Resolution"
-#~ msgstr "Küsimused, kaebused ja vaidluste lahendamine"
-
-#~ msgid ""
-#~ "By using our website you consent to the terms of the Privacy Statement "
-#~ "hereby described. However, you have the right to prevent the use of your "
-#~ "personal data for personalised services and marketing as well as to "
-#~ "request not to be further contacted by us.\n"
-#~ "If you wish to be informed about the personal data collected about you, "
-#~ "or to have this data corrected or removed, or have any other question "
-#~ "with regards to this statement, please contact"
-#~ msgstr ""
-#~ "Meie veebilehe kasutamisel nõustute Te siin kirjeldatud privaatsuse "
-#~ "põhimõtetega. Teil on seejuures õigus takistada oma isikuandmete "
-#~ "kasutamist isikupärastatud teenuste väljatöötamisel ja turundustegevuses "
-#~ "ning nõuda, et me Teiega edaspidi ei kontakteeruks. Kui Te soovite teavet "
-#~ "Teie kohta kogutud isikuandmetest, nende andmete parandamist või "
-#~ "eemaldamist, või Teil on küsimusi selle deklaratsiooni kohta, siis võtke "
-#~ "palun ühendust aadressil"
-
-#~ msgid "Date of creation of the Privacy Statement"
-#~ msgstr "Privaatsuse põhimõtete kehtiva versiooni jõustumise kuupäev"
-
-#~ msgid "Last amendment"
-#~ msgstr "Viimane täiendus"
-
-#~ msgid "Feedback Form [title may differ in different languages]"
-#~ msgstr "Tagasiside vorm"
-
-#~ msgid ""
-#~ "All of our online forms that require you to enter personal information "
-#~ "are designed to meet privacy requirements. This privacy policy provides "
-#~ "further details."
-#~ msgstr ""
-#~ "Kõik meie elektroonilised vormid, mis eeldavad Teilt isikuandmete "
-#~ "sisestamist, on loodud vastavuses isikuandmete kaitse nõuetega."
-
-#~ msgid "contact.html"
-#~ msgstr "Kontaktandmed"
+#, fuzzy
+#~ msgid "Learn more"
+#~ msgstr "Europeana – Lugev Euroopa"
 
 #~ msgid "sitemap.html"
 #~ msgstr "Veebilehe kaart"
@@ -6265,9 +6622,6 @@ msgstr ""
 #~ "Kas te pakute Europeanas leiduvatest teavikutest kõrge resolutsiooniga "
 #~ "või algseid versioone?"
 
-#~ msgid "Can I use the Europeana logo?"
-#~ msgstr "Kas ma tohin kasutada Europeana logo?"
-
 #~ msgid ""
 #~ "You may use the Europeana logo for non-commercial and media purposes. "
 #~ "High resolution versions of our logo, with taglines in several languages, "
@@ -6445,13 +6799,6 @@ msgstr ""
 
 #~ msgid "Privacy policy"
 #~ msgstr "Privaatsuse põhimõtted"
-
-#~ msgid ""
-#~ "If you encounter any problem using this site or wish to make general "
-#~ "comments/suggestions, please use"
-#~ msgstr ""
-#~ "Kui Te täheldate selle veebilehe kasutamisel mingeid probleeme või "
-#~ "soovite edastada üldiseid kommentaare ja ettepanekuid, siis kasutage palun"
 
 #~ msgid "this form"
 #~ msgstr "seda vormi"
@@ -6722,9 +7069,6 @@ msgstr ""
 #~ "selgelt informeerida nendest kasutustingimustest. Parim viis seda teha on "
 #~ "avaldada link"
 
-#~ msgid "the Terms of use"
-#~ msgstr "kasutustingimustele"
-
 #~ msgid "Other Rights"
 #~ msgstr "Muud õigused"
 
@@ -6759,38 +7103,8 @@ msgstr ""
 #~ msgid "Limited warranty &amp; disclaimer of liability"
 #~ msgstr "Piiratud vastutus ja vastutusest loobumine"
 
-#~ msgid ""
-#~ "Europeana Foundation does not warrant the accuracy or completeness of the "
-#~ "Website and its content"
-#~ msgstr ""
-#~ "Europeana Sihtasutus ei taga veebilehe ja sellel sisalduva informatsiooni "
-#~ "õigsust ega terviklikkust"
-
-#~ msgid ""
-#~ "Except to the extent required by applicable law, in no event will "
-#~ "Europeana Foundation be liable on any legal theory for any special, "
-#~ "incidental, consequential, punitive or exemplary damages arising out of "
-#~ "this licence or the use of the Website and its content. In particular, it "
-#~ "will not be liable for the following"
-#~ msgstr ""
-#~ "Välja arvatud seadusega ette nähtud juhtudel ja ulatuses ei ole Europeana "
-#~ "Sihtasutus ühegi õigussüsteemi kohaselt vastutav erakorraliste, "
-#~ "juhuslike, tagajärjeliste või kohtulikust karistusest tulenevate kahjude "
-#~ "eest, mis on tekkinud selle veebilehe või selle sisu kasutamisest. "
-#~ "Iseäranis ei vastuta Europeana Sihtasutus järgmiste asjade eest"
-
-#~ msgid "Accuracy, completeness, etc. of the Website or its content"
-#~ msgstr "Veebilehe ja selle sisu korrektsus, terviklikkus jms"
-
 #~ msgid "Any infringement of privacy, publicity or other rights"
 #~ msgstr "Privaatsuse, avaliku korra või muude õiguste rikkumine"
-
-#~ msgid ""
-#~ "Any use by third parties that goes beyond the rights expressed in these "
-#~ "Terms of Use"
-#~ msgstr ""
-#~ "Materjali kasutamine kolmandate isikute poolt, mis ületab siinsetes "
-#~ "kasutustingimustes määratud õigusi"
 
 #~ msgid "Compliance with the Terms of Use"
 #~ msgstr "Kasutustingimuste järgimine"
@@ -6822,9 +7136,6 @@ msgstr ""
 #~ "isikute, kes on nende kasutustingimuste alusel saanud Teilt siinse "
 #~ "veebilehe ja selle sisu töötlusi, õigused ei katke; seda muidugi "
 #~ "tingimusel, et nad käituvad ise täies vastavuses nende tingimustega"
-
-#~ msgid "These Terms of Use are governed by the laws of The Netherlands"
-#~ msgstr "Need kasutustingimused on vastavuses Hollandi seadustega"
 
 #~ msgid "terms of use"
 #~ msgstr "Kasutustingimused"
@@ -6886,15 +7197,6 @@ msgstr ""
 #~ msgid "Accessing our Linked Open Data"
 #~ msgstr "Avalikud andmed"
 
-#~ msgid "Contributing data to Europeana"
-#~ msgstr "Europeana kogud"
-
-#~ msgid "Click here to see the Europeana Data Exchange Agreement"
-#~ msgstr "Tagasi Europeana avalehele"
-
-#~ msgid "Click here for the Europeana Terms for User Contributions"
-#~ msgstr "Europeana Remix, meie esimene interaktiivne video"
-
 #~ msgid "Click here for the Europeana Privacy Policy"
 #~ msgstr "Europeana – Privaatsuse põhimõtted"
 
@@ -6903,9 +7205,6 @@ msgstr ""
 
 #~ msgid "Click here for the Europeana Accessibility Policy"
 #~ msgstr "Liituge Europeana pressilistiga"
-
-#~ msgid "Click here for the Europeana Public Domain Charter"
-#~ msgstr "Tagasi Europeana avalehele"
 
 #~ msgid "Jul"
 #~ msgstr "Juuni"
