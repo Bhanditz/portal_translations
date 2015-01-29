@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-21 11:04+0100\n"
+"POT-Creation-Date: 2015-01-29 16:09+0100\n"
 "PO-Revision-Date: 2014-08-05 13:37\n"
 "Last-Translator: <jacob.lundqvist@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3424,8 +3424,6 @@ msgid "Europeana Blog"
 msgstr "Європіана - Допомога"
 
 #: templates/static_pages/prop_file.html:392
-#: templates/static_pages/prop_file.html:530
-#: templates/static_pages/prop_file.html:533
 msgid "Virtual Exhibitions"
 msgstr "Виставки"
 
@@ -3636,34 +3634,38 @@ msgstr ""
 
 #: templates/static_pages/prop_file.html:520
 #: templates/static_pages/prop_file.html:523
-msgid "Europe’s culture in your newsfeed"
-msgstr ""
+#, fuzzy
+msgid "Europeana@Pinterest"
+msgstr "Постачальники Європіана"
 
 #: templates/static_pages/prop_file.html:524
 msgid ""
-"Follow us on Facebook and you’ll receive our daily updates in your newsfeed. "
-"We share the well-known classics as well as the hidden gems that can be "
-"found amongst the 30+ million items in Europeana from over 2,000 of Europe’s "
-"memory institutions."
+"Discover a wide range of hand-picked treasures from Europeana on Pinterest. "
+"Explore the themes of Tapestry, Adam &amp; Eve, Geishas, Renaissance Art and "
+"more."
 msgstr ""
 
 #: templates/static_pages/prop_file.html:525
 #, fuzzy
-msgid "Follow now"
-msgstr "Слідуйте за нами"
+msgid "Explore Pinterest"
+msgstr "Досліджуйте далі!"
+
+#: templates/static_pages/prop_file.html:530
+#: templates/static_pages/prop_file.html:533
+msgid "Memories of 1989"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:534
-#, fuzzy
 msgid ""
-"Explore 15 unique curated exhibitions highlighting some of Europe's biggest "
-"cultural treasures."
+"Meet the faces and hear the voices from a historic year. Europeana's 89 "
+"Voices project has been updated to include many more fascinating first-hand "
+"accounts from 1989."
 msgstr ""
-"Дослідіть 13 унікальних виставок, що підкреслюють деякі з найбільших "
-"Європейських культурних скарбів."
 
 #: templates/static_pages/prop_file.html:535
-msgid "Visit exhibitions"
-msgstr "Відвідайте виставку"
+#, fuzzy
+msgid "Listen now"
+msgstr "Список"
 
 #: templates/static_pages/prop_file.html:548
 #: templates/static_pages/prop_file.html:549
@@ -6476,6 +6478,21 @@ msgstr ""
 "Ми із радістю дізнаємось, ваш досвід використання цього пошукового віджету, "
 "будьте ласкаві надішліть нам повідомлення про це електронною поштою до "
 
+#, fuzzy
+#~ msgid "Follow now"
+#~ msgstr "Слідуйте за нами"
+
+#, fuzzy
+#~ msgid ""
+#~ "Explore 15 unique curated exhibitions highlighting some of Europe's "
+#~ "biggest cultural treasures."
+#~ msgstr ""
+#~ "Дослідіть 13 унікальних виставок, що підкреслюють деякі з найбільших "
+#~ "Європейських культурних скарбів."
+
+#~ msgid "Visit exhibitions"
+#~ msgstr "Відвідайте виставку"
+
 #~ msgid "Europeana - New Content"
 #~ msgstr "Європіана - eНовини"
 
@@ -7425,9 +7442,6 @@ msgstr ""
 
 #~ msgid "Europeana: Unknown copyright status"
 #~ msgstr "Європіана: Невідомий статус прав власності"
-
-#~ msgid "Europeana Providers"
-#~ msgstr "Постачальники Європіана"
 
 #~ msgid "Follow us"
 #~ msgstr "Слідуйте за нами"

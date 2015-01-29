@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-21 11:20+0100\n"
+"POT-Creation-Date: 2015-01-29 16:09+0100\n"
 "PO-Revision-Date: 2015-01-19 12:29\n"
 "Last-Translator: Latvian  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3443,8 +3443,6 @@ msgid "Europeana Blog"
 msgstr "Europeana blogs"
 
 #: templates/static_pages/prop_file.html:392
-#: templates/static_pages/prop_file.html:530
-#: templates/static_pages/prop_file.html:533
 msgid "Virtual Exhibitions"
 msgstr "Virtuālās izstādes"
 
@@ -3654,37 +3652,38 @@ msgstr ""
 
 #: templates/static_pages/prop_file.html:520
 #: templates/static_pages/prop_file.html:523
-msgid "Europe’s culture in your newsfeed"
-msgstr "Eiropas kultūra tavā ziņu lentē"
+#, fuzzy
+msgid "Europeana@Pinterest"
+msgstr "Europeana piegādātāji"
 
 #: templates/static_pages/prop_file.html:524
 msgid ""
-"Follow us on Facebook and you’ll receive our daily updates in your newsfeed. "
-"We share the well-known classics as well as the hidden gems that can be "
-"found amongst the 30+ million items in Europeana from over 2,000 of Europe’s "
-"memory institutions."
+"Discover a wide range of hand-picked treasures from Europeana on Pinterest. "
+"Explore the themes of Tapestry, Adam &amp; Eve, Geishas, Renaissance Art and "
+"more."
 msgstr ""
-"Seko mums Facebook un tu saņemsi mūsu jaunumus savā ziņu lentē. Mēs "
-"informējam par labi zināmām klasiskām vērtībām, kā arī izceļam apslēptus "
-"dārgumus, ko ir iespējams atrast vairāk nekā 30 miljonus lielajā Europeana "
-"kolekcijā, kurā apkopoti digitāli objekti no vairāk nekā 2 000 Eiropas "
-"atmiņas institūcijām."
 
 #: templates/static_pages/prop_file.html:525
-msgid "Follow now"
-msgstr "Sekot tagad"
+#, fuzzy
+msgid "Explore Pinterest"
+msgstr "Pinterest"
+
+#: templates/static_pages/prop_file.html:530
+#: templates/static_pages/prop_file.html:533
+msgid "Memories of 1989"
+msgstr ""
 
 #: templates/static_pages/prop_file.html:534
 msgid ""
-"Explore 15 unique curated exhibitions highlighting some of Europe's biggest "
-"cultural treasures."
+"Meet the faces and hear the voices from a historic year. Europeana's 89 "
+"Voices project has been updated to include many more fascinating first-hand "
+"accounts from 1989."
 msgstr ""
-"Iepazīsties ar 15 unikālām izstādēm, kas iepazīstina ar dažām Eiropas "
-"lielākajām kultūras vērtībām."
 
 #: templates/static_pages/prop_file.html:535
-msgid "Visit exhibitions"
-msgstr "Apmeklē izstādes"
+#, fuzzy
+msgid "Listen now"
+msgstr "Saraksta skata forma"
 
 #: templates/static_pages/prop_file.html:548
 #: templates/static_pages/prop_file.html:549
@@ -6502,6 +6501,34 @@ msgstr ""
 "Mēs labprāt vēlētos uzzināt, kā Jūs izmantojat šo meklēšanas vidžetu. Lūdzu "
 "pastāstiet mums par to, atsūtot e-pastu uz"
 
+#~ msgid "Europe’s culture in your newsfeed"
+#~ msgstr "Eiropas kultūra tavā ziņu lentē"
+
+#~ msgid ""
+#~ "Follow us on Facebook and you’ll receive our daily updates in your "
+#~ "newsfeed. We share the well-known classics as well as the hidden gems "
+#~ "that can be found amongst the 30+ million items in Europeana from over "
+#~ "2,000 of Europe’s memory institutions."
+#~ msgstr ""
+#~ "Seko mums Facebook un tu saņemsi mūsu jaunumus savā ziņu lentē. Mēs "
+#~ "informējam par labi zināmām klasiskām vērtībām, kā arī izceļam apslēptus "
+#~ "dārgumus, ko ir iespējams atrast vairāk nekā 30 miljonus lielajā "
+#~ "Europeana kolekcijā, kurā apkopoti digitāli objekti no vairāk nekā 2 000 "
+#~ "Eiropas atmiņas institūcijām."
+
+#~ msgid "Follow now"
+#~ msgstr "Sekot tagad"
+
+#~ msgid ""
+#~ "Explore 15 unique curated exhibitions highlighting some of Europe's "
+#~ "biggest cultural treasures."
+#~ msgstr ""
+#~ "Iepazīsties ar 15 unikālām izstādēm, kas iepazīstina ar dažām Eiropas "
+#~ "lielākajām kultūras vērtībām."
+
+#~ msgid "Visit exhibitions"
+#~ msgstr "Apmeklē izstādes"
+
 #~ msgid "Europeana - New Content"
 #~ msgstr "Europeana - Jaunākais saturs"
 
@@ -7412,9 +7439,6 @@ msgstr ""
 
 #~ msgid "Europeana: Unknown copyright status"
 #~ msgstr "Europeana: Autortiesību statuss nezināms"
-
-#~ msgid "Europeana Providers"
-#~ msgstr "Europeana piegādātāji"
 
 #~ msgid "Follow us"
 #~ msgstr "Seko mums"
