@@ -7,9 +7,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-29 16:08+0100\n"
-"PO-Revision-Date: 2014-08-07 10:35\n"
-"Last-Translator: <anna.vandenbroek@europeana.eu>\n"
+"POT-Creation-Date: 2015-01-29 16:23+0100\n"
+"PO-Revision-Date: 2015-01-29 16:21\n"
+"Last-Translator: <dean.birkett@kb.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
@@ -204,9 +204,8 @@ msgid "Accessibility"
 msgstr "Accesibilidad"
 
 #: templates/terms_leftmenu.html:27 templates/rights/publications.html:10
-#, fuzzy
 msgid "Publications"
-msgstr "Fecha de publicación"
+msgstr ""
 
 #: templates/terms_leftmenu.html:28 templates/static_pages/sitemap.html:109
 msgid "Public Domain Charter"
@@ -996,13 +995,10 @@ msgstr ""
 "Formulario de opinión [el título puede variar en los distintos idiomas]"
 
 #: templates/rights/privacy.html:90
-#, fuzzy
 msgid ""
 "If you encounter any problem using this site or wish to make general "
 "comments/suggestions, please use this"
 msgstr ""
-"Si se encuentra con algún problema durante la utilización de este sitio o "
-"desea realizar algún comentario general o sugerencia, por favor utilice"
 
 #: templates/rights/privacy.html:90
 msgid "contact form"
@@ -1020,9 +1016,8 @@ msgstr ""
 "respecto."
 
 #: templates/rights/publications.html:4
-#, fuzzy
 msgid "Europeana - Publications"
-msgstr "Exposiciones de Europeana"
+msgstr ""
 
 #: templates/rights/terms-and-policies.html:4
 msgid "Europeana - Terms and Policies"
@@ -1544,9 +1539,8 @@ msgstr ""
 "(arriba)"
 
 #: templates/static_pages/aboutus_enews.html:4
-#, fuzzy
 msgid "Europeana newsletters"
-msgstr "Europeana - Preguntas Frecuentes"
+msgstr ""
 
 #: templates/static_pages/aboutus_enews.html:15
 #: templates/static_pages/aboutus_enews.html:27
@@ -1565,9 +1559,8 @@ msgid "January"
 msgstr ""
 
 #: templates/static_pages/aboutus_enews.html:16
-#, fuzzy
 msgid "Europeana Open Culture app now bigger and better!"
-msgstr "Europeana pensar la cultura"
+msgstr ""
 
 #: templates/static_pages/aboutus_enews.html:22
 #: templates/static_pages/aboutus_enews.html:32
@@ -4266,46 +4259,6 @@ msgstr ""
 #~ msgid "Yiddish (yid)"
 #~ msgstr "Hebreo (yid)"
 
-#, fuzzy
-#~ msgid "Korean (ko)"
-#~ msgstr "Noruego (nor)"
-
-#, fuzzy
-#~ msgid "Tibetan (bo)"
-#~ msgstr "Noruego (nor)"
-
-#, fuzzy
-#~ msgid "Georgian (ka)"
-#~ msgstr "Georgia"
-
-#, fuzzy
-#~ msgid "Armenian (hy)"
-#~ msgstr "Armenia"
-
-#, fuzzy
-#~ msgid "Albanian (sq)"
-#~ msgstr "Albania"
-
-#, fuzzy
-#~ msgid "Breton (br)"
-#~ msgstr "Noruego (nor)"
-
-#, fuzzy
-#~ msgid "Ottoman Turkish (ota)"
-#~ msgstr "Turco (tur)"
-
-#, fuzzy
-#~ msgid "Akkadian (akk)"
-#~ msgstr "Ucraniano (hrv)"
-
-#, fuzzy
-#~ msgid "Egyptian (egy)"
-#~ msgstr "Estonio (est)"
-
-#, fuzzy
-#~ msgid "Occitan (oc)"
-#~ msgstr "Noruego (nor)"
-
 #~ msgid "Other"
 #~ msgstr "Otros"
 
@@ -4633,15 +4586,6 @@ msgstr ""
 #~ msgid "Search line value with:"
 #~ msgstr "Valor de la línea de búsqueda con:"
 
-#, fuzzy
-#~ msgid ""
-#~ "Access External Search Services or Translate a fields content where you "
-#~ "see the marker by double clicking the fields value."
-#~ msgstr ""
-#~ "Para acceder a Servicios Externos de Búsqueda (SEB) o traducir el "
-#~ "contenido de un campo ahí donde vea el marcador, haga doble clic sobre el "
-#~ "valor del campo."
-
 #~ msgid ""
 #~ "ESS allows you to translate an individual fields contents or search for "
 #~ "an individual line on an external search service to access additional "
@@ -4887,13 +4831,32 @@ msgstr ""
 #~ msgid "Featured item"
 #~ msgstr "Objeto destacado"
 
-#, fuzzy
-#~ msgid "Follow now"
-#~ msgstr "Síguenos"
+#~ msgid ""
+#~ "Discover a wide range of hand-picked treasures from Europeana on "
+#~ "Pinterest. Explore the themes of Tapestry, Adam &amp; Eve, Geishas, "
+#~ "Renaissance Art and more."
+#~ msgstr ""
+#~ "Descubre una amplia gama de tesoro escogidos de Europeana en Pinterest. "
+#~ "Explora temas como tapiceria, Adan y Eva, gueisas, arte del Renacimiento "
+#~ "y mucho más."
 
-#, fuzzy
-#~ msgid "Visit exhibitions"
-#~ msgstr "Exposiciones virtuales"
+#~ msgid "Explore Pinterest"
+#~ msgstr "Explorar Pinterest"
+
+#~ msgid "Memories of 1989"
+#~ msgstr "Recuerdos de 1989"
+
+#~ msgid ""
+#~ "Meet the faces and hear the voices from a historic year. Europeana's 89 "
+#~ "Voices project has been updated to include many more fascinating first-"
+#~ "hand accounts from 1989."
+#~ msgstr ""
+#~ "Conoce los rostros y escucha las voces de un año histórico. El proyecto "
+#~ "\"Europeana Voces del 89\" ha sido actualizado para incluir mas "
+#~ "fascinates testimonios de primera mano de 1989."
+
+#~ msgid "Listen now"
+#~ msgstr "Escuchar ahora"
 
 #~ msgid "Language Policy"
 #~ msgstr "Política lingüística"
@@ -4903,10 +4866,6 @@ msgstr ""
 
 #~ msgid "Pinterest"
 #~ msgstr "Pinterest"
-
-#, fuzzy
-#~ msgid "Explore Europe's cultural collections"
-#~ msgstr "Explora las colecciones culturales de Europa"
 
 #~ msgid "Access professional knowledge"
 #~ msgstr "Acceso al conocimiento profesional"
@@ -5064,10 +5023,6 @@ msgstr ""
 #~ msgid "Download"
 #~ msgstr "Descargar"
 
-#, fuzzy
-#~ msgid "User contributed content"
-#~ msgstr "Contenido relacionado"
-
 #~ msgid "Play"
 #~ msgstr "Jugar"
 
@@ -5176,10 +5131,6 @@ msgstr ""
 #~ msgid "JSON response"
 #~ msgstr "Respuesta JSON"
 
-#, fuzzy
-#~ msgid "Additional parameters"
-#~ msgstr "Parámetros de búsqueda"
-
 #~ msgid "Search also for:"
 #~ msgstr "Buscar además por:"
 
@@ -5188,10 +5139,6 @@ msgstr ""
 
 #~ msgid "What"
 #~ msgstr "Qué"
-
-#, fuzzy
-#~ msgid "Europeana APIs"
-#~ msgstr "API de Europeana"
 
 #~ msgid "_self"
 #~ msgstr "_self"
@@ -5216,14 +5163,6 @@ msgstr ""
 
 #~ msgid "Administrator's page"
 #~ msgstr "Página de administrador"
-
-#, fuzzy
-#~ msgid "Your API key is"
-#~ msgstr "No clave de API"
-
-#, fuzzy
-#~ msgid "Your private key is"
-#~ msgstr "Clave privada"
 
 #~ msgid "Remove API key"
 #~ msgstr "Eliminar clave de API"
@@ -5263,10 +5202,6 @@ msgstr ""
 
 #~ msgid "Professional"
 #~ msgstr "Profesional"
-
-#, fuzzy
-#~ msgid "Europeana Labs"
-#~ msgstr "API de Europeana"
 
 #~ msgid "Change limit for an API key"
 #~ msgstr "Cambiar el límite de una clave API"
@@ -5370,22 +5305,6 @@ msgstr ""
 #~ msgid "Number of results shown on the page"
 #~ msgstr "Número de resultados mostrados en la página"
 
-#, fuzzy
-#~ msgid "Yes, with attribution"
-#~ msgstr "Atribución Europeana"
-
-#, fuzzy
-#~ msgid "Yes, with restrictions"
-#~ msgstr "Atribución Europeana"
-
-#, fuzzy
-#~ msgid "Export API users to CSV"
-#~ msgstr "Exportar usuarios a un CSV"
-
-#, fuzzy
-#~ msgid "Export API users to Excel"
-#~ msgstr "Exportar usuarios a un CSV"
-
 #~ msgid "It looks like your browser is set to"
 #~ msgstr "Su navegador está configurado en"
 
@@ -5398,106 +5317,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Su navegador está configurado en español. Le gustaría utilizar Europeana "
 #~ "en español?"
-
-#, fuzzy
-#~ msgid "English"
-#~ msgstr "Inglés (eng)"
-
-#, fuzzy
-#~ msgid "Bulgarian"
-#~ msgstr "Bulgaria"
-
-#, fuzzy
-#~ msgid "Danish"
-#~ msgstr "Danés (dan)"
-
-#, fuzzy
-#~ msgid "German"
-#~ msgstr "Alemania"
-
-#, fuzzy
-#~ msgid "Greek"
-#~ msgstr "Grecia"
-
-#, fuzzy
-#~ msgid "Spanish"
-#~ msgstr "Español"
-
-#, fuzzy
-#~ msgid "Estonian"
-#~ msgstr "Estonia"
-
-#, fuzzy
-#~ msgid "French"
-#~ msgstr "Francés (fre)"
-
-#, fuzzy
-#~ msgid "Croatian"
-#~ msgstr "Croacia"
-
-#, fuzzy
-#~ msgid "Icelandic"
-#~ msgstr "Islandia"
-
-#, fuzzy
-#~ msgid "Italian"
-#~ msgstr "Italiano (ita)"
-
-#, fuzzy
-#~ msgid "Lithuanian"
-#~ msgstr "Lituania"
-
-#, fuzzy
-#~ msgid "Latvian"
-#~ msgstr "Latvia"
-
-#, fuzzy
-#~ msgid "Hungarian"
-#~ msgstr "Húngaro (hun)"
-
-#, fuzzy
-#~ msgid "Maltese"
-#~ msgstr "Maltés (mlt)"
-
-#, fuzzy
-#~ msgid "Dutch"
-#~ msgstr "Holandés (dut)"
-
-#, fuzzy
-#~ msgid "Norwegian"
-#~ msgstr "Noruego (nor)"
-
-#, fuzzy
-#~ msgid "Polish"
-#~ msgstr "Polaco (pol)"
-
-#, fuzzy
-#~ msgid "Romanian"
-#~ msgstr "Rumanía"
-
-#, fuzzy
-#~ msgid "Russian"
-#~ msgstr "Ruso (rus)"
-
-#, fuzzy
-#~ msgid "Slovene"
-#~ msgstr "Eslovenia"
-
-#, fuzzy
-#~ msgid "Slovak"
-#~ msgstr "Eslovaquia"
-
-#, fuzzy
-#~ msgid "Finnish"
-#~ msgstr "Finés (fin)"
-
-#, fuzzy
-#~ msgid "Swedish"
-#~ msgstr "Suecia"
-
-#, fuzzy
-#~ msgid "Ukranian"
-#~ msgstr "Francia"
 
 #~ msgid "no"
 #~ msgstr "No"
@@ -5517,35 +5336,8 @@ msgstr ""
 #~ msgid "Automatically translate search keywords into:"
 #~ msgstr "Traducir automáticamente las palabras claves al: "
 
-#, fuzzy
-#~ msgid "Incorrect password."
-#~ msgstr "He olvidado mi contraseña"
-
-#, fuzzy
-#~ msgid "Please enter your username."
-#~ msgstr "Por favor, vuelva a registrar su dirección de correo electrónico"
-
-#, fuzzy
-#~ msgid "Please enter your password."
-#~ msgstr "Por favor, vuelva a registrar su dirección de correo electrónico"
-
-#, fuzzy
-#~ msgid "Clear selection"
-#~ msgstr "Colección"
-
-#, fuzzy
-#~ msgid "Request passsword"
-#~ msgstr "Repetir la contraseña"
-
 #~ msgid "Save settings"
 #~ msgstr "Guardar ajustes"
-
-#, fuzzy
-#~ msgid ""
-#~ "Sorry, there was a problem saving your settings. Please try again later."
-#~ msgstr ""
-#~ "Lo sentimos: ha habido un problema recuperando los datos del servidor. "
-#~ "Por favor, vuelva a intentarlo más tarde"
 
 #~ msgid "A maximum of 6 languages can be selected."
 #~ msgstr "Es posible seleccionar un máximo de 6 idiomas"
@@ -5554,6 +5346,12 @@ msgstr ""
 #~ msgstr ""
 #~ "Esta opción sólo está disponible para usuarios registrados. Regístrate o "
 #~ "entra aquí"
+
+#~ msgid "Follow now"
+#~ msgstr "Síguenos"
+
+#~ msgid "Visit exhibitions"
+#~ msgstr "Exposiciones virtuales"
 
 #~ msgid "Europeana - New Content"
 #~ msgstr "Europeana - Nuevo contenido"
@@ -5565,7 +5363,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Europeana - Nuestras condiciones para las contribuciones de los usuarios"
 
-#, fuzzy
 #~ msgid "New &amp; Improved - Europeana 1914-1918"
 #~ msgstr "Europeana 1914-1918"
 
