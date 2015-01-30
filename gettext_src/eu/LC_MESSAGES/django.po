@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-30 09:53+0100\n"
+"POT-Creation-Date: 2015-01-30 11:11+0100\n"
 "PO-Revision-Date: 2014-08-05 13:38\n"
 "Last-Translator: <jacob.lundqvist@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,11 +18,14 @@ msgstr ""
 "X-Translated-Using: django-rosetta 0.5.6\n"
 
 #: templates/api_leftmenu.html:3 templates/static_pages/europeana-api.html:4
+#: templates/static_pages/prop_file.html:65
 #: templates/static_pages/sitemap.html:51
 msgid "Europeana API"
 msgstr ""
 
-#: templates/api_leftmenu.html:6 templates/static_pages/sitemap.html:53
+#: templates/api_leftmenu.html:6 templates/static_pages/prop_file.html:1030
+#: templates/static_pages/prop_file.html:1031
+#: templates/static_pages/sitemap.html:53
 msgid "Get an API-Key"
 msgstr ""
 
@@ -39,88 +42,134 @@ msgid "Europeana API Forum"
 msgstr ""
 
 #: templates/explore_leftmenu.html:3 templates/static_pages/explore.html:9
+#: templates/static_pages/prop_file.html:568
+#: templates/static_pages/prop_file.html:569
 msgid "Explore"
 msgstr ""
 
-#: templates/explore_leftmenu.html:5 templates/static_pages/sitemap.html:20
+#: templates/explore_leftmenu.html:5 templates/static_pages/prop_file.html:572
+#: templates/static_pages/prop_file.html:573
+#: templates/static_pages/prop_file.html:911
+#: templates/static_pages/sitemap.html:20
 msgid "Europeana Remix"
 msgstr ""
 
-#: templates/explore_leftmenu.html:6 templates/static_pages/sitemap.html:17
+#: templates/explore_leftmenu.html:6 templates/static_pages/prop_file.html:576
+#: templates/static_pages/prop_file.html:577
+#: templates/static_pages/prop_file.html:900
+#: templates/static_pages/sitemap.html:17
 #: templates/static_pages/usingeuropeana_explore.html:14
 msgid "Exhibitions"
 msgstr ""
 
 #: templates/explore_leftmenu.html:7 templates/leftmenu.html:8
+#: templates/static_pages/prop_file.html:62
+#: templates/static_pages/prop_file.html:580
+#: templates/static_pages/prop_file.html:581
+#: templates/static_pages/prop_file.html:953
+#: templates/static_pages/prop_file.html:954
 #: templates/static_pages/sitemap.html:38
 #: templates/static_pages/sitemap.html:87
 #: templates/static_pages/usingeuropeana_explore.html:15
 msgid "New content"
 msgstr "Eduki berriak"
 
-#: templates/explore_leftmenu.html:9 templates/static_pages/sitemap.html:88
+#: templates/explore_leftmenu.html:9 templates/static_pages/prop_file.html:80
+#: templates/static_pages/prop_file.html:584
+#: templates/static_pages/prop_file.html:585
+#: templates/static_pages/sitemap.html:88
 #: templates/static_pages/usingeuropeana_search.html:60
 msgid "By provider"
 msgstr ""
 
-#: templates/explore_leftmenu.html:10 templates/static_pages/sitemap.html:89
+#: templates/explore_leftmenu.html:10 templates/static_pages/prop_file.html:39
+#: templates/static_pages/prop_file.html:588
+#: templates/static_pages/prop_file.html:589
+#: templates/static_pages/sitemap.html:89
 msgid "Timeline"
 msgstr "Denbora-lerroa"
 
-#: templates/explore_leftmenu.html:11 templates/static_pages/sitemap.html:90
+#: templates/explore_leftmenu.html:11
+#: templates/static_pages/prop_file.html:592
+#: templates/static_pages/prop_file.html:593
+#: templates/static_pages/sitemap.html:90
 msgid "Map"
 msgstr ""
 
 #: templates/followus_leftmenu.html:3 templates/static_pages/followus.html:9
+#: templates/static_pages/prop_file.html:640
+#: templates/static_pages/prop_file.html:641
 msgid "Follow Us"
 msgstr ""
 
-#: templates/followus_leftmenu.html:5 templates/static_pages/sitemap.html:18
+#: templates/followus_leftmenu.html:5
+#: templates/static_pages/prop_file.html:644
+#: templates/static_pages/prop_file.html:645
+#: templates/static_pages/prop_file.html:904
+#: templates/static_pages/sitemap.html:18
 msgid "Blog"
 msgstr ""
 
 #: templates/followus_leftmenu.html:6
+#: templates/static_pages/prop_file.html:648
+#: templates/static_pages/prop_file.html:649
 msgid "Newsletter"
 msgstr ""
 
 #: templates/followus_leftmenu.html:8
+#: templates/static_pages/prop_file.html:652
+#: templates/static_pages/prop_file.html:653
 msgid "Facebook"
 msgstr ""
 
 #: templates/followus_leftmenu.html:9
+#: templates/static_pages/prop_file.html:656
+#: templates/static_pages/prop_file.html:657
 msgid "Twitter"
 msgstr ""
 
 #: templates/leftmenu.html:3 templates/NOT/leftmenu1_old.html:3
-#: templates/NOT/leftmenu_old.html:3
+#: templates/NOT/leftmenu_old.html:3 templates/static_pages/prop_file.html:620
+#: templates/static_pages/prop_file.html:621
 msgid "About Us"
 msgstr "Guri buruz"
 
 #: templates/leftmenu.html:6 templates/NOT/leftmenu1_old.html:6
-#: templates/NOT/leftmenu_old.html:6
+#: templates/NOT/leftmenu_old.html:6 templates/static_pages/prop_file.html:624
+#: templates/static_pages/prop_file.html:625
 msgid "Background"
 msgstr "Testuingurua"
 
-#: templates/leftmenu.html:9
+#: templates/leftmenu.html:9 templates/static_pages/prop_file.html:958
+#: templates/static_pages/prop_file.html:959
 msgid "All providers"
 msgstr ""
 
 #: templates/leftmenu.html:10 templates/static_pages/aboutus_enews.html:11
+#: templates/static_pages/prop_file.html:963
+#: templates/static_pages/prop_file.html:964
 #: templates/static_pages/sitemap.html:40
 msgid "Previous newsletters"
 msgstr "Aurreko berripaperak"
 
 #: templates/leftmenu.html:12 templates/NOT/leftmenu_old.html:8
+#: templates/static_pages/prop_file.html:968
+#: templates/static_pages/prop_file.html:969
 msgid "Press Centre"
 msgstr ""
 
 #: templates/leftmenu.html:13 templates/NOT/leftmenu_old.html:9
+#: templates/static_pages/prop_file.html:973
+#: templates/static_pages/prop_file.html:974
 msgid "Jobs"
 msgstr ""
 
 #: templates/leftmenu.html:14 templates/leftmenu.html.py:17
 #: templates/NOT/leftmenu1_old.html:9 templates/NOT/leftmenu1_old.html:12
 #: templates/NOT/leftmenu_old.html:10 templates/NOT/leftmenu_old.html.py:14
+#: templates/static_pages/prop_file.html:38
+#: templates/static_pages/prop_file.html:636
+#: templates/static_pages/prop_file.html:637
 msgid "Partners"
 msgstr "Kideak"
 
@@ -131,6 +180,8 @@ msgstr "Prentsa aretoa"
 
 #: templates/leftmenu.html:16 templates/NOT/leftmenu1_old.html:8
 #: templates/NOT/leftmenu1_old.html:11 templates/NOT/leftmenu_old.html:13
+#: templates/static_pages/prop_file.html:632
+#: templates/static_pages/prop_file.html:633
 msgid "Job opportunities"
 msgstr "Lan aukerak"
 
@@ -188,17 +239,25 @@ msgstr ""
 
 #: templates/terms_leftmenu.html:24 templates/rights/privacy.html:15
 #: templates/rights/terms-and-policies.html:37
+#: templates/static_pages/prop_file.html:70
+#: templates/static_pages/prop_file.html:552
+#: templates/static_pages/prop_file.html:553
 #: templates/static_pages/sitemap.html:106
 msgid "Privacy"
 msgstr "Pribatutasuna"
 
 #: templates/terms_leftmenu.html:25 templates/rights/languagepolicy.html:15
 #: templates/rights/terms-and-policies.html:37
+#: templates/static_pages/prop_file.html:182
+#: templates/static_pages/prop_file.html:265
 msgid "Language"
 msgstr ""
 
 #: templates/terms_leftmenu.html:26 templates/rights/accessibility.html:15
 #: templates/rights/terms-and-policies.html:37
+#: templates/static_pages/prop_file.html:67
+#: templates/static_pages/prop_file.html:540
+#: templates/static_pages/prop_file.html:541
 #: templates/static_pages/sitemap.html:108
 msgid "Accessibility"
 msgstr "Erabilerraztasuna"
@@ -213,12 +272,21 @@ msgid "Public Domain Charter"
 msgstr ""
 
 #: templates/usingeuropeana_leftmenu.html:3
+#: templates/static_pages/prop_file.html:360
+#: templates/static_pages/prop_file.html:596
+#: templates/static_pages/prop_file.html:597
+#: templates/static_pages/prop_file.html:923
+#: templates/static_pages/prop_file.html:924
 #: templates/static_pages/sitemap.html:25
 #: templates/static_pages/usingeuropeana.html:9
 msgid "Help"
 msgstr ""
 
 #: templates/usingeuropeana_leftmenu.html:5
+#: templates/static_pages/prop_file.html:600
+#: templates/static_pages/prop_file.html:601
+#: templates/static_pages/prop_file.html:927
+#: templates/static_pages/prop_file.html:928
 #: templates/static_pages/usingeuropeana.html:14
 #: templates/static_pages/usingeuropeana_results.html:22
 #: templates/static_pages/usingeuropeana_search.html:9
@@ -227,6 +295,11 @@ msgid "Searching Europeana"
 msgstr ""
 
 #: templates/usingeuropeana_leftmenu.html:6
+#: templates/static_pages/prop_file.html:314
+#: templates/static_pages/prop_file.html:604
+#: templates/static_pages/prop_file.html:605
+#: templates/static_pages/prop_file.html:931
+#: templates/static_pages/prop_file.html:932
 #: templates/static_pages/sitemap.html:28
 #: templates/static_pages/usingeuropeana.html:16
 #: templates/static_pages/usingeuropeana_explore.html:9
@@ -235,6 +308,10 @@ msgid "Exploring Europeana"
 msgstr ""
 
 #: templates/usingeuropeana_leftmenu.html:8
+#: templates/static_pages/prop_file.html:608
+#: templates/static_pages/prop_file.html:609
+#: templates/static_pages/prop_file.html:935
+#: templates/static_pages/prop_file.html:936
 #: templates/static_pages/sitemap.html:29
 #: templates/static_pages/usingeuropeana.html:19
 #: templates/static_pages/usingeuropeana_results.html:9
@@ -243,6 +320,10 @@ msgid "Results in Europeana"
 msgstr "Emaitzak Europeanan"
 
 #: templates/usingeuropeana_leftmenu.html:9
+#: templates/static_pages/prop_file.html:612
+#: templates/static_pages/prop_file.html:613
+#: templates/static_pages/prop_file.html:939
+#: templates/static_pages/prop_file.html:940
 #: templates/static_pages/sitemap.html:30
 #: templates/static_pages/usingeuropeana.html:21
 #: templates/static_pages/usingeuropeana_myeuropeana.html:9
@@ -251,6 +332,8 @@ msgid "Using My Europeana"
 msgstr ""
 
 #: templates/usingeuropeana_leftmenu.html:10
+#: templates/static_pages/prop_file.html:943
+#: templates/static_pages/prop_file.html:944
 msgid "Configure your search widget"
 msgstr ""
 
@@ -1295,6 +1378,7 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/aboutus.html:28
+#: templates/static_pages/prop_file.html:93
 #: templates/static_pages/usingeuropeana_results.html:16
 msgid "Images"
 msgstr "Irudiak"
@@ -1305,6 +1389,7 @@ msgstr ""
 "pinturak, marrazkiak, mapak, argazkiak eta museoetako objectuen irudiak"
 
 #: templates/static_pages/aboutus.html:29
+#: templates/static_pages/prop_file.html:92
 #: templates/static_pages/usingeuropeana_results.html:15
 msgid "Texts"
 msgstr "Testuak"
@@ -1314,6 +1399,7 @@ msgid "books, newspapers, letters, diaries and archival papers"
 msgstr "liburuak, egunkariak, gutunak, egunerokoak eta agiritegietako paperak"
 
 #: templates/static_pages/aboutus.html:30
+#: templates/static_pages/prop_file.html:95
 msgid "Sounds"
 msgstr "Soinuak"
 
@@ -1324,6 +1410,7 @@ msgstr ""
 "ahotsak"
 
 #: templates/static_pages/aboutus.html:31
+#: templates/static_pages/prop_file.html:94
 msgid "Videos"
 msgstr "Bideoak"
 
@@ -1620,18 +1707,139 @@ msgid ""
 "newsletter, blog, Twitter and Facebook pages."
 msgstr ""
 
-#: templates/static_pages/sitemap.html:4
-msgid "Europeana - Sitemap"
-msgstr "Europeana - Gunearen mapa"
-
-#: templates/static_pages/sitemap.html:8
-msgid "Sitemap"
-msgstr "Gunearen mapa"
-
-#: templates/static_pages/sitemap.html:11
-msgid "Home"
+#: templates/static_pages/prop_file.html:5
+msgid "Enter fullscreen"
 msgstr ""
 
+#: templates/static_pages/prop_file.html:6
+msgid "Exit fullscreen"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:7
+#, fuzzy
+msgid ""
+"I understand that My Europeana gives me the opportunity to create tags for "
+"any item I wish. I agree that I will not create any tags that could be "
+"considered libelous, harmful, threatening, unlawful, defamatory,infringing, "
+"abusive, inflammatory, harassing, pornographic, obscene, fraudulent, "
+"invasive of privacy orpublicity rights, hateful, or racially, ethnically or "
+"otherwise objectionable. By clicking this box I agreeto abide by this "
+"agreement, and understand that if I don't my membership of My Europeana will "
+"be terminated."
+msgstr ""
+"Konprenitzen dut Nire Europeanak nahi dudan itemerako etiketak sortzeko "
+"aukera ematen didala. Onartzen dut ez dudala sortuko iraingarria, "
+"kaltegarria, mehatxagarria, legez kontrakoa, difamaziozkoa, arau "
+"urratzailea, laidogarria, supiztailea, jazarpenezkoa, pornografikoa, lizuna, "
+"iruzurrezkoa, pribatutasuna edo publizitate eskubideak inbaditzen duena, "
+"gorrotagarria edo arrazari begira, etnikoki edo bestelako moduren batean "
+"gaitzesgarria den etiketarik. Koadro honetan klik eginda akordio honi men "
+"egiten diot, eta konprenitzen dut hura betetzen ez badut Nire Europanako "
+"kide izateari utziko diodala. KLIKATU ADOS."
+
+#: templates/static_pages/prop_file.html:8
+msgid "You must agree to our code of conduct to register for My Europeana"
+msgstr ""
+"Europeanan erregistratzeko gure jokabide kodearekin bat etorri behar duzu "
+
+#: templates/static_pages/prop_file.html:9
+msgid "I agree"
+msgstr "Irudiak"
+
+#: templates/static_pages/prop_file.html:10
+#: templates/static_pages/prop_file.html:256
+msgid "Contributor"
+msgstr "Hornitzailea"
+
+#: templates/static_pages/prop_file.html:11
+msgid "Contributors"
+msgstr "Hornitzaileak"
+
+#: templates/static_pages/prop_file.html:12
+msgid "Country"
+msgstr "Herrialdea"
+
+#: templates/static_pages/prop_file.html:13
+msgid "Sector"
+msgstr "Sektorea"
+
+#: templates/static_pages/prop_file.html:14
+msgid "Partner"
+msgstr "Kidea"
+
+#: templates/static_pages/prop_file.html:15
+msgid ""
+"This is the network of partners who collaborated to make Europeana happen, "
+"and who represent Europeana in their countries and professional associations."
+msgstr ""
+"Hona hemen Europeana gauzatzen lagundu duten kideen sarea; kideok, gainera, "
+"Europeana ordezkatzen dute beren herrialde eta elkargo profesionaletan."
+
+#: templates/static_pages/prop_file.html:16
+msgid ""
+"These are the organisations that are contributing content - digitised "
+"paintings, books, broadcasts etc. Some of these contributors are  "
+"aggregators*, Culture.fr is the largest aggregator, providing content from "
+"about 480 organisations in France, including the Louvre and the MusÃ©e dâ"
+"€™Orsay. The number of organisations contributing to an aggregator is shown "
+"in brackets after the aggregatorâ€™s name, e.g. Videoactive (10)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:17
+msgid ""
+"*An aggregator collects material from a range of other contributors, "
+"displays it on their own website and also channels it into Europeana."
+msgstr ""
+"Batzaile batek beste hornitzaile batzuen materiala biltzen du, bere "
+"webgunean erakusten du eta Europeanara ere bideratzen du."
+
+#: templates/static_pages/prop_file.html:18
+msgid "This is a required field"
+msgstr "Bete beharreko eremua"
+
+#: templates/static_pages/prop_file.html:19
+msgid "Please enter a valid email address"
+msgstr "Mesedez, baliozko helbide elektroniko bat jarri"
+
+#: templates/static_pages/prop_file.html:20
+msgid "Logged in as"
+msgstr "Sartuta"
+
+#: templates/static_pages/prop_file.html:21
+#, fuzzy
+msgid "Saved items"
+msgstr "Itemik ez da gorde "
+
+#: templates/static_pages/prop_file.html:22
+msgid "Saved searches"
+msgstr ""
+"Europeanaren bilaketa-koadro nagusiaren azpian dagoen bilaketa aurreratua "
+"esteka"
+
+#: templates/static_pages/prop_file.html:23
+#, fuzzy
+msgid "Saved tags"
+msgstr ""
+"Europeanaren bilaketa-koadro nagusiaren azpian dagoen bilaketa aurreratua "
+"esteka"
+
+#: templates/static_pages/prop_file.html:24
+msgid "Saved notifications"
+msgstr "Etiketak gorde"
+
+#: templates/static_pages/prop_file.html:25
+msgid "Login"
+msgstr "Esteka"
+
+#: templates/static_pages/prop_file.html:26
+msgid "Log out"
+msgstr "Europeanak"
+
+#: templates/static_pages/prop_file.html:27
+#: templates/static_pages/prop_file.html:664
+#: templates/static_pages/prop_file.html:665
+#: templates/static_pages/prop_file.html:996
+#: templates/static_pages/prop_file.html:997
 #: templates/static_pages/sitemap.html:12
 #: templates/static_pages/usingeuropeana_myeuropeana.html:10
 #: templates/static_pages/usingeuropeana_myeuropeana.html:11
@@ -1640,30 +1848,2983 @@ msgstr ""
 msgid "My Europeana"
 msgstr "Nire Europeana"
 
-#: templates/static_pages/sitemap.html:15
-msgid "Other Europeana Sites"
+#: templates/static_pages/prop_file.html:28
+msgid ""
+"Thank you very much for your feedback. If your feedback requires a response "
+"a member of the Europeana team will get back to you as soon as possible. For "
+"faster response feedback should be submitted in English."
+msgstr ""
+"Eskerrik asko zure iruzkinengatik. Erantzunik eman behar izatekotan, "
+"Europeana taldeko kide bat ahalik eta lasterren zurekin harremanetan jarriko "
+"da. Erantzuna azkarragoa izate aldera, iruzkina ingelesez bidali beharko "
+"zenuke."
+
+#: templates/static_pages/prop_file.html:29
+msgid "Keep me in touch with new developments to Europeana"
+msgstr "Garapen berriak ezagutu nahi ditut"
+
+#: templates/static_pages/prop_file.html:30
+msgid "User Conduct"
+msgstr "Erabiltzailearen jokabidea"
+
+#: templates/static_pages/prop_file.html:31
+msgid ""
+"I understand that My Europeana gives me the opportunity to create tags for "
+"any item I wish. I agree that I will not create any tags that could be "
+"considered libelous, harmful, threatening, unlawful, defamatory, infringing, "
+"abusive, inflammatory, harassing, pornographic, obscene, fraudulent, "
+"invasive of privacy or publicity rights, hateful, or racially, ethnically or "
+"otherwise objectionable. By clicking this box I agree to abide by this "
+"agreement, and understand that if I don't my membership of My Europeana will "
+"be terminated. CLICK TO AGREE"
+msgstr ""
+"Konprenitzen dut Nire Europeanak nahi dudan itemerako etiketak sortzeko "
+"aukera ematen didala. Onartzen dut ez dudala sortuko iraingarria, "
+"kaltegarria, mehatxagarria, legez kontrakoa, difamaziozkoa, arau "
+"urratzailea, laidogarria, supiztailea, jazarpenezkoa, pornografikoa, lizuna, "
+"iruzurrezkoa, pribatutasuna edo publizitate eskubideak inbaditzen duena, "
+"gorrotagarria edo arrazari begira, etnikoki edo bestelako moduren batean "
+"gaitzesgarria den etiketarik. Koadro honetan klik eginda akordio honi men "
+"egiten diot, eta konprenitzen dut hura betetzen ez badut Nire Europanako "
+"kide izateari utziko diodala. KLIKATU ADOS."
+
+#: templates/static_pages/prop_file.html:32
+#, fuzzy
+msgid "First name"
+msgstr "Azken aldaketa"
+
+#: templates/static_pages/prop_file.html:33
+msgid "Last name"
+msgstr "Azken aldaketa"
+
+#: templates/static_pages/prop_file.html:34
+msgid ""
+"To make optimal use of this website you need to have JavaScript activated"
+msgstr ""
+"Webgune hau ahalik eta ongien erabiltzeko, Javascript aktibatua izan behar "
+"duzu."
+
+#: templates/static_pages/prop_file.html:35
+#: templates/static_pages/storyline.html:11
+msgid "Storyline and credits"
+msgstr "Gidoia eta kredituak"
+
+#: templates/static_pages/prop_file.html:36
+msgid "Check the FAQs - they may cover your feedback"
+msgstr ""
+"Galdera Ohikoenak (FAQ) begiratu - baliteke zure iruzkinaren erantzuna hor "
+"egotea"
+
+#: templates/static_pages/prop_file.html:37
+msgid "Communities"
+msgstr "Komunitateak"
+
+#: templates/static_pages/prop_file.html:40
+msgid "ThoughtLab"
+msgstr "ThoughtLab"
+
+#: templates/static_pages/prop_file.html:41
+msgid "Choose a language"
+msgstr "Hizkuntza bat aukeratu"
+
+#: templates/static_pages/prop_file.html:42
+msgid "Select language"
+msgstr "Hizkuntza bat aukeratu"
+
+#: templates/static_pages/prop_file.html:43
+msgid "This is Europeana"
+msgstr "Europeanaren Erabilera"
+
+#: templates/static_pages/prop_file.html:44
+msgid ""
+"a place for inspiration and ideas. Search through the cultural collections "
+"of Europe, connect to other user pathways and share your discoveries."
+msgstr ""
+"inspirazio eta ideien gune bat. Araka itzazu Europako kultur bildumak, beste "
+"erabiltzaile-bide batzuetara konektatu eta zure aurkikuntzak partekatu."
+
+#: templates/static_pages/prop_file.html:45
+msgid "Find out more"
+msgstr "Gehiago jakin"
+
+#: templates/static_pages/prop_file.html:46
+#: templates/static_pages/sitemap.html:65
+#: templates/static_pages/usingeuropeana_search.html:21
+#: templates/static_pages/usingeuropeana_search.html:25
+#: templates/static_pages/usingeuropeana_search.html:27
+#: templates/static_pages/usingeuropeana_search.html:45
+msgid "Search"
 msgstr ""
 
-#: templates/static_pages/sitemap.html:19
-msgid "Europeana 1914-1918"
+#: templates/static_pages/prop_file.html:47
+#: templates/static_pages/prop_file.html:361
+msgid "Reset"
 msgstr ""
 
-#: templates/static_pages/sitemap.html:21
-msgid "Europeana Professional"
+#: templates/static_pages/prop_file.html:48
+#: templates/static_pages/usingeuropeana_results.html:49
+msgid "Previous"
 msgstr ""
 
-#: templates/static_pages/sitemap.html:27
-msgid "Searching in Europeana"
-msgstr "Bilaketak Europeanan"
+#: templates/static_pages/prop_file.html:49
+#: templates/static_pages/usingeuropeana_results.html:49
+msgid "Next"
+msgstr ""
 
+#: templates/static_pages/prop_file.html:50
+msgid "Advanced search"
+msgstr "Bilaketa aurreratua"
+
+#: templates/static_pages/prop_file.html:51
+msgid "Hide advanced search"
+msgstr ""
+"Europeanaren bilaketa-koadro nagusiaren azpian dagoen bilaketa aurreratua "
+"esteka"
+
+#: templates/static_pages/prop_file.html:52
+msgid "and"
+msgstr "Polonia"
+
+#: templates/static_pages/prop_file.html:53
+#: templates/static_pages/usingeuropeana_results.html:24
+#: templates/static_pages/usingeuropeana_results.html:25
+#: templates/static_pages/usingeuropeana_results.html:41
+#: templates/static_pages/usingeuropeana_results.html:49
+#: templates/static_pages/usingeuropeana_search.html:32
+msgid "or"
+msgstr "edo"
+
+#: templates/static_pages/prop_file.html:54
+msgid "not"
+msgstr "Europeanak"
+
+#: templates/static_pages/prop_file.html:55
+msgid "Any field"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:56
+msgid "Share your ideas"
+msgstr "Zure ideiak partekatu"
+
+#: templates/static_pages/prop_file.html:57
+msgid "Tagging"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:58
+msgid "Send us feedback"
+msgstr "Europeanarekin izan duzun esperientziari buruz"
+
+#: templates/static_pages/prop_file.html:59
+msgid "People are currently thinking about"
+msgstr "Pertsonek gauza hauei buruz pentsatzen dute egun:"
+
+#: templates/static_pages/prop_file.html:60
+msgid "Timeline navigator"
+msgstr "Denbora-lerroko nabigatzailea"
+
+#: templates/static_pages/prop_file.html:61
+msgid "Browse through time"
+msgstr "Denboran zehar"
+
+#: templates/static_pages/prop_file.html:63
+msgid ""
+"From our partner museums, archives, libraries and audio-visual collections"
+msgstr ""
+"Gure kide diren museo, agiritegi, liburutegi eta ikus-entzunezko bildumetatik"
+
+#: templates/static_pages/prop_file.html:64
+#: templates/static_pages/prop_file.html:948
+#: templates/static_pages/prop_file.html:949
+#: templates/static_pages/sitemap.html:36
+msgid "About us"
+msgstr "Guri buruz"
+
+#: templates/static_pages/prop_file.html:66
+msgid "Using Europeana"
+msgstr "Europeanaren Erabilera"
+
+#: templates/static_pages/prop_file.html:68
+#: templates/static_pages/prop_file.html:544
+#: templates/static_pages/prop_file.html:545
+#: templates/static_pages/prop_file.html:859
+#: templates/static_pages/prop_file.html:860
+#: templates/static_pages/sitemap.html:8
+msgid "Sitemap"
+msgstr "Gunearen mapa"
+
+#: templates/static_pages/prop_file.html:69
+#: templates/static_pages/prop_file.html:388
+msgid "Terms and conditions"
+msgstr "Baldintzak"
+
+#: templates/static_pages/prop_file.html:71
+#: templates/static_pages/sitemap.html:107
+msgid "Language policy"
+msgstr "Hizkuntza politika"
+
+#: templates/static_pages/prop_file.html:72
+#: templates/static_pages/prop_file.html:855
+#: templates/static_pages/prop_file.html:856
+#, fuzzy
+msgid "Contact us"
+msgstr "Harremanetarako"
+
+#: templates/static_pages/prop_file.html:73
+msgid "co-funded by the European Union"
+msgstr "Europar Batasunak kofinantzatua"
+
+#: templates/static_pages/prop_file.html:74
+#, fuzzy
+msgid "Europeana think culture"
+msgstr "Kultura pentsatu"
+
+#: templates/static_pages/prop_file.html:75
+msgid "Click here to return to the Europeana homepage"
+msgstr "Hemen klik egizu Europeanaren hasierako orrira itzultzeko"
+
+#: templates/static_pages/prop_file.html:76
+#, fuzzy
+msgid "Refine your results"
+msgstr ""
+"Europeanaren bilaketa-koadro nagusiaren azpian dagoen bilaketa aurreratua "
+"esteka"
+
+#: templates/static_pages/prop_file.html:77
+msgid "By language of description"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:78
+#, fuzzy
+msgid "By providing country"
+msgstr "Herrialdea"
+
+#: templates/static_pages/prop_file.html:79
+msgid "By year"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:81
+msgid "By user tag"
+msgstr "Erabiltzaile-etiketa"
+
+#: templates/static_pages/prop_file.html:82
+msgid "By type"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:83
+#: templates/static_pages/usingeuropeana_search.html:55
+msgid "By media type"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:84
+#, fuzzy
+msgid "Actions"
+msgstr "Abolizioa"
+
+#: templates/static_pages/prop_file.html:85
+#: templates/static_pages/usingeuropeana_myeuropeana.html:14
+msgid "Save this search"
+msgstr "Bilaketa hau gordetzea"
+
+#: templates/static_pages/prop_file.html:86
+msgid "Search saved"
+msgstr "Bilaketa gorde da"
+
+#: templates/static_pages/prop_file.html:87
+msgid "Saving search failed"
+msgstr "Bilaketa gordetzeak huts egin du"
+
+#: templates/static_pages/prop_file.html:88
+msgid "You have searched for"
+msgstr "Hau bilatu duzu"
+
+#: templates/static_pages/prop_file.html:89
+#: templates/static_pages/usingeuropeana_search.html:51
+#: templates/static_pages/usingeuropeana_search.html:63
+#: templates/static_pages/usingeuropeana_search.html:65
+msgid "Matches for"
+msgstr "formulario hau"
+
+#: templates/static_pages/prop_file.html:90
+msgid "You are viewing related items"
+msgstr "Elkarrekin zerikusia duten itemak ikusten ari zara"
+
+#: templates/static_pages/prop_file.html:91
+msgid "All"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:96
+msgid "Text"
+msgstr "Testuak"
+
+#: templates/static_pages/prop_file.html:97
+msgid "Image"
+msgstr "Irudiak"
+
+#: templates/static_pages/prop_file.html:98
+#: templates/static_pages/usingeuropeana_results.html:17
+msgid "Video"
+msgstr "Bideoak"
+
+#: templates/static_pages/prop_file.html:99
+#: templates/static_pages/usingeuropeana_results.html:18
+msgid "Sound"
+msgstr "Soinuak"
+
+#: templates/static_pages/prop_file.html:100
+msgid "List view"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:101
+#, fuzzy
+msgid "#Table view"
+msgstr "Denboran zeharreko nabigatzailea"
+
+#: templates/static_pages/prop_file.html:102
+msgid "Page"
+msgstr "orrian aurkituko dituzu"
+
+#: templates/static_pages/prop_file.html:103
+msgid "of"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:104
+#, fuzzy
+msgid "Click here for previous page of results"
+msgstr "Emaitzen hurrengo orria ikusteko, hemen klik egizu"
+
+#: templates/static_pages/prop_file.html:105
+msgid "Click here for next page of results"
+msgstr "Emaitzen hurrengo orria ikusteko, hemen klik egizu"
+
+#: templates/static_pages/prop_file.html:106
+msgid "Print this page"
+msgstr "Orri hau inprimatu"
+
+#: templates/static_pages/prop_file.html:107
+msgid "Click for more information"
+msgstr "Informazio gehiagorako, klik egizu"
+
+#: templates/static_pages/prop_file.html:108
+msgid "No items found"
+msgstr "Ez da itemik aurkitu"
+
+#: templates/static_pages/prop_file.html:109
+msgid "Related content"
+msgstr "Zerikusia duten edukiak"
+
+#: templates/static_pages/prop_file.html:110
+msgid "See all related items"
+msgstr "Ikus zerikusia duten item guztiak"
+
+#: templates/static_pages/prop_file.html:111
+msgid "User tags"
+msgstr "Erabil ezazu"
+
+#: templates/static_pages/prop_file.html:112
+#: templates/static_pages/usingeuropeana_myeuropeana.html:15
+msgid "Add a tag"
+msgstr "Etiketa jartzea"
+
+#: templates/static_pages/prop_file.html:113
+#: templates/static_pages/usingeuropeana_search.html:49
+msgid "Add"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:114
+#, fuzzy
+msgid "Tag added"
+msgstr "Ezin izan da etiketa gehitu"
+
+#: templates/static_pages/prop_file.html:115
+msgid "Tag addition failed"
+msgstr "Ezin izan da etiketa gehitu"
+
+#: templates/static_pages/prop_file.html:116
+msgid "Share with a friend"
+msgstr "Lagun batekin parteka ezazu"
+
+#: templates/static_pages/prop_file.html:117
+msgid "Email address"
+msgstr "Posta elektronikoaren helbidea"
+
+#: templates/static_pages/prop_file.html:118
+#, fuzzy
+msgid "Email sent"
+msgstr "Posta elektronikoaren helbidea"
+
+#: templates/static_pages/prop_file.html:119
+msgid "Email could not be sent"
+msgstr "Posta elektronikoa ezin izan da bidali"
+
+#: templates/static_pages/prop_file.html:120
+msgid "Send"
+msgstr "Soinuak"
+
+#: templates/static_pages/prop_file.html:121
+#: templates/static_pages/usingeuropeana_myeuropeana.html:16
+msgid "Save to My Europeana"
+msgstr "Nire Europeanan gorde"
+
+#: templates/static_pages/prop_file.html:122
+#, fuzzy
+msgid "Item saved"
+msgstr "Bilaketa gorde da"
+
+#: templates/static_pages/prop_file.html:123
+msgid "Save item failed"
+msgstr "Ezin izan da itema gorde"
+
+#: templates/static_pages/prop_file.html:124
+msgid "Error"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:125
+msgid "Error details"
+msgstr "Objektu baten xehetasun gehiago jakin nahi izanez gero,"
+
+#: templates/static_pages/prop_file.html:126
+#, fuzzy
+msgid "Return to results"
+msgstr ""
+"Europeanaren bilaketa-koadro nagusiaren azpian dagoen bilaketa aurreratua "
+"esteka"
+
+#: templates/static_pages/prop_file.html:127
+msgid "More"
+msgstr "edo"
+
+#: templates/static_pages/prop_file.html:128
+msgid "Less"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:129
+#, fuzzy
+msgid "Items"
+msgstr "Bilaketa gorde da"
+
+#: templates/static_pages/prop_file.html:130
+#, fuzzy
+msgid "Item details"
+msgstr "Objektu baten xehetasun gehiago jakin nahi izanez gero,"
+
+#: templates/static_pages/prop_file.html:131
+msgid "View as XML"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:132
+msgid "View with labels"
+msgstr "Ikusi etiketekin"
+
+#: templates/static_pages/prop_file.html:133
+msgid "View without labels"
+msgstr "Ikus etiketarik gabe"
+
+#: templates/static_pages/prop_file.html:134
+msgid "Opens in a new window"
+msgstr "Beste leiho bat zabaltzen du"
+
+#: templates/static_pages/prop_file.html:135
+msgid "View in original context"
+msgstr "orriaren behealdeko ‘Ikus jatorrizko testuinguruan’ esteka."
+
+#: templates/static_pages/prop_file.html:136
+#: templates/static_pages/prop_file.html:845
+msgid "Provider"
+msgstr "Europeana v1.0-ko Edukia Gehitu orrira;"
+
+#: templates/static_pages/prop_file.html:137
+#: templates/static_pages/prop_file.html:254
+#: templates/static_pages/prop_file.html:842
+#: templates/static_pages/storyline.html:49
+#: templates/static_pages/usingeuropeana_search.html:32
+msgid "Title"
+msgstr "Izenburua"
+
+#: templates/static_pages/prop_file.html:138
+#: templates/static_pages/prop_file.html:261
+#, fuzzy
+msgid "Description"
+msgstr "Descartes"
+
+#: templates/static_pages/prop_file.html:139
+#: templates/static_pages/storyline.html:50
+#: templates/static_pages/usingeuropeana_search.html:31
+msgid "Creator"
+msgstr "Egilea"
+
+#: templates/static_pages/prop_file.html:140
+#: templates/static_pages/prop_file.html:258
+#: templates/static_pages/usingeuropeana_search.html:34
+msgid "Date"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:141
+#: templates/static_pages/prop_file.html:260
+#: templates/static_pages/usingeuropeana_search.html:32
+msgid "Subject"
+msgstr "Sektorea"
+
+#: templates/static_pages/prop_file.html:142
+msgid "Show all"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:143
+msgid "Delete"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:144
+msgid "No saved items"
+msgstr "Itemik ez da gorde "
+
+#: templates/static_pages/prop_file.html:145
+msgid "No saved searches"
+msgstr ""
+"Europeanaren bilaketa-koadro nagusiaren azpian dagoen bilaketa aurreratua "
+"esteka"
+
+#: templates/static_pages/prop_file.html:146
+#, fuzzy
+msgid "No saved tags"
+msgstr "Itemik ez da gorde "
+
+#: templates/static_pages/prop_file.html:147
+msgid "No saved notifications"
+msgstr "Etiketak gorde"
+
+#: templates/static_pages/prop_file.html:148
+#, fuzzy
+msgid "Date saved"
+msgstr "Bilaketa gorde da"
+
+#: templates/static_pages/prop_file.html:149
+#, fuzzy
+msgid "Remove"
+msgstr "Erabilera baldintzak"
+
+#: templates/static_pages/prop_file.html:150
+#, fuzzy
+msgid "Welcome to MyEuropeana"
+msgstr "Nire Europeanan gorde"
+
+#: templates/static_pages/prop_file.html:151
+msgid "Please click on the following link to confirm your registration"
+msgstr "Mesedez esteka honetan klik egizu zure erregistroa baieztatzeko"
+
+#: templates/static_pages/prop_file.html:152
+#, fuzzy
+msgid "The Europeana Team"
+msgstr "Europeanaren Erabilera"
+
+#: templates/static_pages/prop_file.html:153
+msgid "Results"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:154
+msgid "Invalid query"
+msgstr "Eskaera baliogabea"
+
+#: templates/static_pages/prop_file.html:155
+msgid "This feature is currently disabled."
+msgstr "Eginbide hau desgaituta dago"
+
+#: templates/static_pages/prop_file.html:156
+#, fuzzy
+msgid "Password"
+msgstr "Pasahitza Errepikatu"
+
+#: templates/static_pages/prop_file.html:157
+msgid "Remember me on this computer"
+msgstr "Ordenagailu honetan nire izena gogoratu"
+
+#: templates/static_pages/prop_file.html:158
+msgid "I forgot my password"
+msgstr "Pasahitza ahaztu zait"
+
+#: templates/static_pages/prop_file.html:159
+msgid "Sign in"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:160
+#, fuzzy
+msgid "Register"
+msgstr "Berriz erregistratu"
+
+#: templates/static_pages/prop_file.html:161
+msgid "Register again"
+msgstr "Berriz erregistratu"
+
+#: templates/static_pages/prop_file.html:162
+msgid ""
+"An error occurred while trying to process your registration. Please try again"
+msgstr ""
+"Errore bat gertatu da zu erregistratzen ari zinela. Mesedez, saiatu berriro."
+
+#: templates/static_pages/prop_file.html:163
+msgid "An email has been sent to the following address"
+msgstr "Mezu bat bidali da helbide honetara"
+
+#: templates/static_pages/prop_file.html:164
+msgid ""
+"Please follow the link provided in the email and finish the registration "
+"process"
+msgstr ""
+"Mesedez, posta elektronikoan emandako estekari jarraitu eta erregistratze "
+"prozesua burutu"
+
+#: templates/static_pages/prop_file.html:165
+msgid "Please make sure your email is correctly formatted and try again"
+msgstr ""
+"Mesedez, ziurtatu zure helbidea behar bezala formateatuta dagoela eta "
+"berriro saia zaitez "
+
+#: templates/static_pages/prop_file.html:166
+msgid "This email is already registered"
+msgstr "Email hau erregistratuta dago jada"
+
+#: templates/static_pages/prop_file.html:167
+msgid "Create an account"
+msgstr "Kontu bat sortu"
+
+#: templates/static_pages/prop_file.html:168
+#: templates/static_pages/prop_file.html:1019
+msgid "The link you used to complete registration is invalid or has expired."
+msgstr "Erregistratzeko erabili duzun esteka baliogabea da edo iraungita dago"
+
+#: templates/static_pages/prop_file.html:169
+msgid "Enter your email"
+msgstr "Zure helbide elektronikoa jarri"
+
+#: templates/static_pages/prop_file.html:170
+msgid ""
+"You will use your email together with your password to log into the site"
+msgstr "Webgunean sartzeko, zure emaila eta pasahitza erabiliko dituzu batera"
+
+#: templates/static_pages/prop_file.html:171
+#: templates/static_pages/prop_file.html:175
+msgid "Your username will be displayed when you have logged in"
+msgstr "Zure erabiltzaile izena sartu ondoren agertuko da."
+
+#: templates/static_pages/prop_file.html:172
+#, fuzzy
+msgid "Username"
+msgstr "Azken aldaketa"
+
+#: templates/static_pages/prop_file.html:173
+msgid "is in use. Please choose another username"
+msgstr "hartuta dago. Mesedez, beste erabiltzaile izen bat erabili"
+
+#: templates/static_pages/prop_file.html:174
+msgid "Choose a username"
+msgstr "Erabiltzaile izen bat hautatu"
+
+#: templates/static_pages/prop_file.html:176
+#, fuzzy
+msgid "User information"
+msgstr "Informazio gehiagorako, klik egizu"
+
+#: templates/static_pages/prop_file.html:177
+msgid "Choose a password"
+msgstr "Pasahitz bat aukeratu"
+
+#: templates/static_pages/prop_file.html:178
+msgid "Passwords must be 6-30 characters in length"
+msgstr "Pasahitzak 6 eta 30 karaktere bitarte izan behar ditu"
+
+#: templates/static_pages/prop_file.html:179
+msgid "Repeat password"
+msgstr "Pasahitza Errepikatu"
+
+#: templates/static_pages/prop_file.html:180
+msgid "Finish registration"
+msgstr "Erregistratzea amaitu"
+
+#: templates/static_pages/prop_file.html:181
+msgid "You have successfully registered"
+msgstr "Ongi erregistratu zara"
+
+#: templates/static_pages/prop_file.html:183
+msgid "English (eng)"
+msgstr "Ingelesa (eng)"
+
+#: templates/static_pages/prop_file.html:184
+msgid "Croatian (hrv)"
+msgstr "Kroaziera (hrv)"
+
+#: templates/static_pages/prop_file.html:185
+msgid "Czech (cze/cse)"
+msgstr "Txekiera (cze/cse)"
+
+#: templates/static_pages/prop_file.html:186
+msgid "Greek (ell/gre)"
+msgstr "Grekoa (ell/gre)"
+
+#: templates/static_pages/prop_file.html:187
+msgid "Estonian (est)"
+msgstr "Estoniera (est)"
+
+#: templates/static_pages/prop_file.html:188
+msgid "Danish (dan)"
+msgstr "Daniera (dan)"
+
+#: templates/static_pages/prop_file.html:189
+msgid "Dutch (dut)"
+msgstr "Nederlandera (dut)"
+
+#: templates/static_pages/prop_file.html:190
+msgid "Finnish (fin)"
+msgstr "Suomiera (fin)"
+
+#: templates/static_pages/prop_file.html:191
+msgid "French (fre)"
+msgstr "Frantsesa (fre)"
+
+#: templates/static_pages/prop_file.html:192
+msgid "Galician (glg)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:193
+msgid "German (deu)"
+msgstr "Alemana (deu)"
+
+#: templates/static_pages/prop_file.html:194
+msgid "Hungarian (hun)"
+msgstr "Hungariera (hun)"
+
+#: templates/static_pages/prop_file.html:195
+msgid "Italian (ita)"
+msgstr "Italiera (ita)"
+
+#: templates/static_pages/prop_file.html:196
+msgid "Latvian (lav)"
+msgstr "Letoniera (lav)"
+
+#: templates/static_pages/prop_file.html:197
+msgid "Lithuanian (lit)"
+msgstr "Lituania"
+
+#: templates/static_pages/prop_file.html:198
+msgid "Luxemburgish (ltz)"
+msgstr "Luxenburgera (ltz)"
+
+#: templates/static_pages/prop_file.html:199
+msgid "Maltese (mlt)"
+msgstr "Maltera (mlt)"
+
+#: templates/static_pages/prop_file.html:200
+msgid "Norwegian (nor)"
+msgstr "Norvegiera (nor)"
+
+#: templates/static_pages/prop_file.html:201
+msgid "Polish (pol)"
+msgstr "Poloniera (pol)"
+
+#: templates/static_pages/prop_file.html:202
+msgid "Portuguese (por)"
+msgstr "Portugesa (por)"
+
+#: templates/static_pages/prop_file.html:203
+msgid "Romanian (rom)"
+msgstr "Errumaniera (rom)"
+
+#: templates/static_pages/prop_file.html:204
+msgid "Russian (rus)"
+msgstr "Errusiera (rus)"
+
+#: templates/static_pages/prop_file.html:205
+msgid "Serbian (scc)"
+msgstr "Serbiera (scc)"
+
+#: templates/static_pages/prop_file.html:206
+msgid "Slovak (slo)"
+msgstr "Eslovakiera (slo)"
+
+#: templates/static_pages/prop_file.html:207
+msgid "Slovenian (slv)"
+msgstr "Eslovenia"
+
+#: templates/static_pages/prop_file.html:208
+msgid "Spanish (esp)"
+msgstr "Gaztelera (esp)"
+
+#: templates/static_pages/prop_file.html:209
+msgid "Icelandic (ice)"
+msgstr "Islandiera (ice)"
+
+#: templates/static_pages/prop_file.html:210
+msgid "Swedish (sve/swe)"
+msgstr "Suediera (sve/swe)"
+
+#: templates/static_pages/prop_file.html:211
+msgid "Turkish (tur)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:212
+#, fuzzy
+msgid "Ukrainian (ukr)"
+msgstr "Errumaniera (rom)"
+
+#: templates/static_pages/prop_file.html:213
+#, fuzzy
+msgid "Yiddish (yid)"
+msgstr "Suomiera (fin)"
+
+#: templates/static_pages/prop_file.html:214
+msgid "Japanese (ja)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:215
+msgid "Chinese (zh)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:216
+msgid "Hindi (hi)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:217
+#, fuzzy
+msgid "Korean (ko)"
+msgstr "Norvegiera (nor)"
+
+#: templates/static_pages/prop_file.html:218
+msgid "Old Church Slavonic (cu)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:219
+msgid "Sanskrit (sa)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:220
+#, fuzzy
+msgid "Tibetan (bo)"
+msgstr "Norvegiera (nor)"
+
+#: templates/static_pages/prop_file.html:221
+msgid "Khmer (km)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:222
+#, fuzzy
+msgid "Georgian (ka)"
+msgstr "Serbia"
+
+#: templates/static_pages/prop_file.html:223
+#, fuzzy
+msgid "Armenian (hy)"
+msgstr "Eslovenia"
+
+#: templates/static_pages/prop_file.html:224
+#, fuzzy
+msgid "Albanian (sq)"
+msgstr "Eslovenia"
+
+#: templates/static_pages/prop_file.html:225
+msgid "Amharic (am)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:226
+msgid "Ge'ez (gez)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:227
+#, fuzzy
+msgid "Breton (br)"
+msgstr "Norvegiera (nor)"
+
+#: templates/static_pages/prop_file.html:228
+msgid "Ottoman Turkish (ota)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:229
+#, fuzzy
+msgid "Akkadian (akk)"
+msgstr "Errumaniera (rom)"
+
+#: templates/static_pages/prop_file.html:230
+msgid "Aramaic (arc)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:231
+msgid "Syriac (syc)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:232
+#, fuzzy
+msgid "Egyptian (egy)"
+msgstr "Estoniera (est)"
+
+#: templates/static_pages/prop_file.html:233
+msgid "Coptic (cop)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:234
+#, fuzzy
+msgid "Occitan (oc)"
+msgstr "Norvegiera (nor)"
+
+#: templates/static_pages/prop_file.html:235
+msgid "Thai (th)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:236
+msgid "Urdu (ur)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:237
+msgid "Vietnamese (vi)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:238
+msgid "Other"
+msgstr "Bestelakoak"
+
+#: templates/static_pages/prop_file.html:239
+msgid "Alternative Title"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:240
+msgid "Provenance"
+msgstr "Frantzia"
+
+#: templates/static_pages/prop_file.html:241
+#, fuzzy
+msgid "Is Part of"
+msgstr "Formulario hau"
+
+#: templates/static_pages/prop_file.html:242
+#: templates/static_pages/prop_file.html:988
+#, fuzzy
+msgid "Has part"
+msgstr "Formulario hau"
+
+#: templates/static_pages/prop_file.html:243
+msgid "Replaces"
+msgstr "Orrietan"
+
+#: templates/static_pages/prop_file.html:244
+msgid "Is replaced by"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:245
+msgid "Is referenced by"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:246
+msgid "References"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:247
+msgid "Conforms to"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:248
+msgid "Requires"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:249
+msgid "Has format"
+msgstr "Formulario hau"
+
+#: templates/static_pages/prop_file.html:250
+#, fuzzy
+msgid "Is format of"
+msgstr "Formulario hau"
+
+#: templates/static_pages/prop_file.html:251
+msgid "Geographic coverage"
+msgstr "Estaldura geografikoa"
+
+#: templates/static_pages/prop_file.html:252
+msgid "Time period"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:253
+#, fuzzy
+msgid "Publication date"
+msgstr "Abolizioa"
+
+#: templates/static_pages/prop_file.html:255
+msgid "Author"
+msgstr "Austria"
+
+#: templates/static_pages/prop_file.html:257
+msgid "Coverage"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:259
+#, fuzzy
+msgid "Format"
+msgstr "Formulario hau"
+
+#: templates/static_pages/prop_file.html:262
+#, fuzzy
+msgid "Publisher"
+msgstr "Poloniera (pol)"
+
+#: templates/static_pages/prop_file.html:263
+msgid "Identifier"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:264
+msgid "Source"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:266
+#, fuzzy
+msgid "Relation"
+msgstr "Zerikusia duten edukiak"
+
+#: templates/static_pages/prop_file.html:267
+#: templates/static_pages/sitemap.html:113
+msgid "Rights"
+msgstr "Beste eskubide batzuk"
+
+#: templates/static_pages/prop_file.html:268
+msgid "Type"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:269
+msgid "Austria"
+msgstr "Austria"
+
+#: templates/static_pages/prop_file.html:270
+msgid "Croatia"
+msgstr "Letonia"
+
+#: templates/static_pages/prop_file.html:271
+msgid "Denmark"
+msgstr "Danimarka"
+
+#: templates/static_pages/prop_file.html:272
+msgid "Finland"
+msgstr "Finlandia"
+
+#: templates/static_pages/prop_file.html:273
+msgid "France"
+msgstr "Frantzia"
+
+#: templates/static_pages/prop_file.html:274
+msgid "Germany"
+msgstr "Alemania"
+
+#: templates/static_pages/prop_file.html:275
+msgid "Italy-Florence"
+msgstr "Italia-Florentzia"
+
+#: templates/static_pages/prop_file.html:276
+msgid "Italy-Rome"
+msgstr "Italia"
+
+#: templates/static_pages/prop_file.html:277
+msgid "Ireland"
+msgstr "Irlanda"
+
+#: templates/static_pages/prop_file.html:278
+msgid "Netherlands"
+msgstr "Herbehereak"
+
+#: templates/static_pages/prop_file.html:279
+msgid "Portugal"
+msgstr "Portugal"
+
+#: templates/static_pages/prop_file.html:280
+msgid "Russia - Moscow"
+msgstr "Errusia - Mosku"
+
+#: templates/static_pages/prop_file.html:281
+msgid "Russia - Saint Petersburg"
+msgstr "Errusia - San Petersburgo"
+
+#: templates/static_pages/prop_file.html:282
+msgid "Romania"
+msgstr "Errumania"
+
+#: templates/static_pages/prop_file.html:283
+msgid "Former Yugoslav Republic Of Macedonia"
+msgstr "Iraganeko Mazedoniako Jugoslaviar Errepublika"
+
+#: templates/static_pages/prop_file.html:284
+msgid "Ukraine"
+msgstr "Frantzia"
+
+#: templates/static_pages/prop_file.html:285
+msgid "Moldova"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:286
+#, fuzzy
+msgid "Albania"
+msgstr "Eslovenia"
+
+#: templates/static_pages/prop_file.html:287
+msgid "Georgia"
+msgstr "Serbia"
+
+#: templates/static_pages/prop_file.html:288
+#, fuzzy
+msgid "Armenia"
+msgstr "Eslovenia"
+
+#: templates/static_pages/prop_file.html:289
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnia-Herzegovina"
+
+#: templates/static_pages/prop_file.html:290
+msgid "Azerbaijan"
+msgstr "Serbia"
+
+#: templates/static_pages/prop_file.html:291
+msgid "Turkey"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:292
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+#: templates/static_pages/prop_file.html:293
+msgid "Serbia"
+msgstr "Serbia"
+
+#: templates/static_pages/prop_file.html:294
+msgid "Slovenia"
+msgstr "Eslovenia"
+
+#: templates/static_pages/prop_file.html:295
+msgid "Switzerland"
+msgstr "Suitza"
+
+#: templates/static_pages/prop_file.html:296
+msgid "United Kingdom"
+msgstr "Erresuma Batua"
+
+#: templates/static_pages/prop_file.html:297
+msgid "Czech Republic"
+msgstr "Txekiar Errepublika"
+
+#: templates/static_pages/prop_file.html:298
+msgid "Cyprus"
+msgstr "Zipre"
+
+#: templates/static_pages/prop_file.html:299
+msgid "Estonia"
+msgstr "Estonia"
+
+#: templates/static_pages/prop_file.html:300
+msgid "Latvia"
+msgstr "Letonia"
+
+#: templates/static_pages/prop_file.html:301
+msgid "Lithuania"
+msgstr "Lituania"
+
+#: templates/static_pages/prop_file.html:302
+msgid "Hungary"
+msgstr "Hungaria"
+
+#: templates/static_pages/prop_file.html:303
+#, fuzzy
+msgid "Malta"
+msgstr "Maltera (mlt)"
+
+#: templates/static_pages/prop_file.html:304
+msgid "Poland"
+msgstr "Polonia"
+
+#: templates/static_pages/prop_file.html:305
+msgid "Slovakia"
+msgstr "Eslovakia"
+
+#: templates/static_pages/prop_file.html:306
+msgid "Spain"
+msgstr "Espainia"
+
+#: templates/static_pages/prop_file.html:307
+msgid "Belgium"
+msgstr "Belgika"
+
+#: templates/static_pages/prop_file.html:308
+msgid "Iceland"
+msgstr "Islandia"
+
+#: templates/static_pages/prop_file.html:309
+msgid "Norway"
+msgstr "Norvegia"
+
+#: templates/static_pages/prop_file.html:310
+msgid "Sweden"
+msgstr "Suedia"
+
+#: templates/static_pages/prop_file.html:311
+msgid "Liechtenstein"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:312
+msgid "Luxembourg"
+msgstr "Luxenburgo"
+
+#: templates/static_pages/prop_file.html:313
+msgid "Greece"
+msgstr "Grezia"
+
+#: templates/static_pages/prop_file.html:315
+msgid "Subject cloud"
+msgstr "Gai multzoa"
+
+#: templates/static_pages/prop_file.html:316
+msgid "Did you mean"
+msgstr "Esan nahi zenuen?"
+
+#: templates/static_pages/prop_file.html:317
+msgid ""
+"Paintings, music, films and books from Europe's galleries, libraries, "
+"archives and museums."
+msgstr ""
+"Europako galeria, liburutegi, agiritegi eta museoetako pinturak, musika, "
+"filmak eta liburuak."
+
+#: templates/static_pages/prop_file.html:318
+#, fuzzy
+msgid "Data provider"
+msgstr "Europeana v1.0-ko Edukia Gehitu orrira;"
+
+#: templates/static_pages/prop_file.html:319
+msgid "Europeana rights"
+msgstr "Europeanaren logotipoak"
+
+#: templates/static_pages/prop_file.html:320
+msgid "Terms of use"
+msgstr "Erabilera baldintzak"
+
+#: templates/static_pages/prop_file.html:321
+msgid "The timeline only shows up to 1000 items relevant to your query."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:322
+msgid "Timeline view"
+msgstr "Denboran zeharreko nabigatzailea"
+
+#: templates/static_pages/prop_file.html:323
+msgid "Embed"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:324
+#, fuzzy
+msgid "Options"
+msgstr "Abolizioa"
+
+#: templates/static_pages/prop_file.html:325
+msgid "Embed this object into your own blog or website"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:326
+msgid ""
+"Paste the HTML source code below to your page. This page itself is an "
+"example of a page that embeds a Europeana object."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:327
+msgid ""
+"Now this Europeana object becomes a part of your page. Our content providers "
+"tend to improve their objects from time to time. Create an alert on this "
+"object to be notified if this specific object would change."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:328
+msgid "Preview it customized"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:329
+#, fuzzy
+msgid "Create notification for this item"
+msgstr "Etiketak gorde"
+
+#: templates/static_pages/prop_file.html:330
+msgid ""
+"Log in to My Europeana and set an alert to be notified of updates, such as "
+"the publication of more metadata for this object."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:331
+#, fuzzy
+msgid ""
+"By using the embed function you accept and agree to the Europeana Terms of "
+"Use"
+msgstr ""
+"Webgunearen gainean dituzun eskubideak baliatzearekin bat, Erabilera "
+"Baldintza hauen mende egotea onartzen eta hitzartzen duzu"
+
+#: templates/static_pages/prop_file.html:332
+msgid "Maximal number of text lines:"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:333
+#, fuzzy
+msgid "orientation:"
+msgstr "Zerikusia duten edukiak"
+
+#: templates/static_pages/prop_file.html:334
+msgid "portrait"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:335
+msgid "landscape"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:336
+#, fuzzy
+msgid "Refine Search"
+msgstr "Europeanaren logotipoak"
+
+#: templates/static_pages/prop_file.html:337
+#, fuzzy
+msgid "By Rights"
+msgstr "Beste eskubide batzuk"
+
+#: templates/static_pages/prop_file.html:338
+#: templates/static_pages/usingeuropeana_search.html:59
+msgid "By copyright"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:339
+msgid "Free Access"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:340
+msgid "Restricted Access"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:341
+msgid "Paid Access"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:342
+#, fuzzy
+msgid "Public Domain"
+msgstr "Abolizioa"
+
+#: templates/static_pages/prop_file.html:343
+msgid "Unknown"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:344
+msgid "Not all objects show rights information"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:345
+msgid "Translate with:"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:346
+msgid "Search line value with:"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:347
+msgid ""
+"Access External Search Services or Translate a fields content where you see "
+"the marker by double clicking the fields value."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:348
+msgid ""
+"ESS allows you to translate an individual fields contents or search for an "
+"individual line on an external search service to access additional relevant "
+"information."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:349
+msgid "indicates ESS services are available"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:350
+msgid "indicates ESS services are not available"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:351
+#, fuzzy
+msgid "Search term(s)"
+msgstr "Bilaketa gorde da"
+
+#: templates/static_pages/prop_file.html:352
+#, fuzzy
+msgid "Search facet"
+msgstr "Bilaketa gorde da"
+
+#: templates/static_pages/prop_file.html:353
+#, fuzzy
+msgid "Search operator"
+msgstr "Bilaketa gorde da"
+
+#: templates/static_pages/prop_file.html:354
+msgid "Back to top"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:355
+msgid "Click to search for this term in external services"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:356
+#: templates/static_pages/prop_file.html:358
+#, fuzzy
+msgid "Remote Search Widget"
+msgstr "Europeanaren logotipoak"
+
+#: templates/static_pages/prop_file.html:357
+msgid ""
+"You can use the link below to create a customized plugin for inclusion in "
+"your own website with the ability to search through the collections on the "
+"Europeana portal."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:359
+#, fuzzy
+msgid "Europeana Search Widget"
+msgstr "Europeanaren logotipoak"
+
+#: templates/static_pages/prop_file.html:362
+#, fuzzy
+msgid "What is Europeana's remote search widget?"
+msgstr "Europeanaren logotipoak"
+
+#: templates/static_pages/prop_file.html:363
+msgid ""
+"The remote search widget is a tailored plugin to search on and display items "
+"from Europeana's collections and those of their contributors within your own "
+"website."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:364
+msgid "What is a plugin?"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:365
+msgid ""
+"The plugin is simply a piece of generated code that can be copied and pasted "
+"into one of the webpages on your own site."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:366
+msgid "What will the plugin look like?"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:367
+msgid ""
+"The working plugin is shown on the right hand side of the screen. Making "
+"changes and selecting preview will let you see those changes in action."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:368
+msgid "How do I add the plugin into my own site?"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:369
+msgid "Select options from the menu below"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:370
+msgid ""
+"Click on 'Preview' to see the changes in the right hand side of the screen"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:371
+msgid ""
+"Check the box to say you have read and agree with the terms and conditions"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:372
+#, fuzzy
+msgid "Click 'Generate Code'"
+msgstr "Erabiltzaileek sortutako edukia"
+
+#: templates/static_pages/prop_file.html:373
+msgid "Copy the code from under 'Code for plugin:'"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:374
+msgid "Open a webpage on your own site in a text editor"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:375
+msgid "Paste the code into the page and save the changes"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:376
+msgid "Open your web page in a browser to see the plugin working"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:377
+msgid "How can I change the position of the plugin?"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:378
+msgid ""
+"The plugin can be nested within an HTML table but the easiest way is to use "
+"cascading stylesheets css. The plugin is surrounded in a div with the id "
+"swEuropeanaRemoteWidget and its position can be changed by changing the css "
+"properties for this div."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:379
+#, fuzzy
+msgid "Background colour"
+msgstr "Testuingurua"
+
+#: templates/static_pages/prop_file.html:380
+msgid "Media type tab colour"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:381
+msgid "Text colour"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:382
+#, fuzzy
+msgid "Default language"
+msgstr "Hizkuntza bat aukeratu"
+
+#: templates/static_pages/prop_file.html:383
+#, fuzzy
+msgid "Default search term"
+msgstr "Bilaketa gorde da"
+
+#: templates/static_pages/prop_file.html:384
+msgid "Media Types"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:385
+#: templates/static_pages/usingeuropeana_searchwidget.html:30
+msgid "Providers"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:386
+#, fuzzy
+msgid "Europeana attribution"
+msgstr "Europeanaren logotipoak"
+
+#: templates/static_pages/prop_file.html:387
+msgid "Widget Code: (To be copied and pasted into your website)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:389
+#, fuzzy
+msgid "Generate Code"
+msgstr "Erabiltzaileek sortutako edukia"
+
+#: templates/static_pages/prop_file.html:390
+#, fuzzy
+msgid "Powered By Europeana"
+msgstr "Nire Europeana"
+
+#: templates/static_pages/prop_file.html:391
+#: templates/static_pages/prop_file.html:903
+#, fuzzy
+msgid "Europeana Blog"
+msgstr "Europeanaren logotipoak"
+
+#: templates/static_pages/prop_file.html:392
+#, fuzzy
+msgid "Virtual Exhibitions"
+msgstr "Europeanaren logotipoak"
+
+#: templates/static_pages/prop_file.html:393
+#: templates/static_pages/usingeuropeana_results.html:41
+msgid "Cite on Wikipedia"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:394
+msgid "Click to cite this object"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:395
+msgid "Use"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:396
+msgid "Harvard Bibliographic Style"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:397
+msgid "This record can be cited in the"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:398
+msgid "style using the text below:"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:399
+msgid "Harvard Bibliographic"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:400
+msgid "Close"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:401
+msgid "Show Auto-tags"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:402
+msgid "Hide Auto-tags"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:403
+msgid "Automatically added semantic tags"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:404
+#, fuzzy
+msgid "Place Term"
+msgstr "Orrietan"
+
+#: templates/static_pages/prop_file.html:405
+#, fuzzy
+msgid "Place Label"
+msgstr "Orrietan"
+
+#: templates/static_pages/prop_file.html:406
+msgid "Geo Space"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:407
+#, fuzzy
+msgid "Place Broader Term"
+msgstr "Orrietan"
+
+#: templates/static_pages/prop_file.html:408
+#, fuzzy
+msgid "Place Broader Label"
+msgstr "Orrietan"
+
+#: templates/static_pages/prop_file.html:409
+#, fuzzy
+msgid "Period Term"
+msgstr "Orrietan"
+
+#: templates/static_pages/prop_file.html:410
+#, fuzzy
+msgid "Period Label"
+msgstr "Orrietan"
+
+#: templates/static_pages/prop_file.html:411
+#, fuzzy
+msgid "Period Begin"
+msgstr "Orrietan"
+
+#: templates/static_pages/prop_file.html:412
+#, fuzzy
+msgid "Period End"
+msgstr "Orrietan"
+
+#: templates/static_pages/prop_file.html:413
+#, fuzzy
+msgid "Period Broader Term"
+msgstr "Orrietan"
+
+#: templates/static_pages/prop_file.html:414
+#, fuzzy
+msgid "Period Broader Label"
+msgstr "Orrietan"
+
+#: templates/static_pages/prop_file.html:415
+#, fuzzy
+msgid "Concept Term"
+msgstr "Orrietan"
+
+#: templates/static_pages/prop_file.html:416
+#, fuzzy
+msgid "Concept Label"
+msgstr "Orrietan"
+
+#: templates/static_pages/prop_file.html:417
+#, fuzzy
+msgid "Concept Broader Term"
+msgstr "Orrietan"
+
+#: templates/static_pages/prop_file.html:418
+#, fuzzy
+msgid "Concept Broader Label"
+msgstr "Orrietan"
+
+#: templates/static_pages/prop_file.html:419
+#, fuzzy
+msgid "Agent Term"
+msgstr "Orrietan"
+
+#: templates/static_pages/prop_file.html:420
+#, fuzzy
+msgid "Agent Label"
+msgstr "Orrietan"
+
+#: templates/static_pages/prop_file.html:425
+#: templates/static_pages/prop_file.html:436
+#: templates/static_pages/prop_file.html:447
+#: templates/static_pages/prop_file.html:457
+#: templates/static_pages/prop_file.html:467
+#: templates/static_pages/prop_file.html:477
+#: templates/static_pages/prop_file.html:487
+#: templates/static_pages/prop_file.html:498
+#: templates/static_pages/prop_file.html:509
+#, fuzzy
+msgid "Featured item"
+msgstr "Itemik ez da gorde "
+
+#: templates/static_pages/prop_file.html:429
+msgid ""
+"For this winter landscape, Koekkoek chose a hilly region in Gelderland or "
+"the German region of the Lower Rhine. Unlike his imposing forest views, this "
+"is a peaceful scene, with men pausing beside a sled laden with brushwood and "
+"vegetables. A panorama stretches out through the mist in the distance. The "
+"painting shows tranquil view of nature on a winter’s day, a world blanketed "
+"in a layer of pristine snow."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:440
+msgid ""
+"Cycling on water, it’s something we have been doing for decades. A water "
+"cycle is a bicycle-like watercraft that makes it possible for us move on "
+"water using our own legs. In the late 1890s this invention got the name "
+"hydrocycle."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:451
+msgid ""
+"Groups of children are playing in the snow and throwing snowballs at one "
+"another. Historical studies of snowball fights point to Leuven, Belgium as "
+"the snowball capital of the world. A recent snowball fight there (on October "
+"14, 2009) broke the world record for the largest snowball fight ever "
+"recorded in history."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:461
+msgid ""
+"This image is part of a series of woodblock prints by Eitaku Kobayashi, "
+"published under the title Children's Games by the Hakubunkwan, in a second "
+"edition from 1894. The book contains twelve illustrations of children at "
+"play, one for every month of the year, alternating between boys' and girls' "
+"pastimes. This image is the final picture, depicting mid-winter, with four "
+"boys piling up a big snowman, with bits of charcoal for the eyes."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:471
+msgid ""
+"Boys from Trawsfynydd collecting holly and mistletoe to sell. A common "
+"custom at Christmas-time was for the homemaker to place a sprig of mistletoe "
+"above a door frame or hang it from the ceiling of the dwelling. During the "
+"frequent get-togethers, any female who lingered there was fair game for a "
+"harmless kiss from nearby males."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:481
+msgid ""
+"A typical Dutch winter scene: on the ice people are iceskating and sledding. "
+"On the right people are fishing for eel. A group of people playing ‘kolf'. "
+"This poplar national game was played on land and on the ice. It has been a "
+"popular sport in the Netherlands, since the Middle Ages. The aim of the game "
+"was to hit the poles of the ‘kolfbaan’ with a stick and a ball."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:491
+msgid ""
+"Allegorical representations of death, human madness, sexuality and the evil "
+"show the weakness of man over life. Well-known examples used for "
+"presentation include skulls, skeletons and grim reapers."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:502
+msgid ""
+"What’s a better place to show off your new outfit than the popular horse "
+"racing tracks in a chic Westen neighbourhood of Paris. The popularity of "
+"Longchamp, where races were run for the first time in 1857, signalled a "
+"general revival in French horse racing, making it the perfect place for "
+"designers and fashion lovers to show their new outfit."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:513
+msgid ""
+"Map of Europe, marked as queen. Spain and Portugal form her crown, her left "
+"arm is Italy. Top left corner shows a cartouche with the title of the map "
+"and the edges show the degree distribution. The top right corner shows the "
+"scale."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:520
+#: templates/static_pages/prop_file.html:523
+#, fuzzy
+msgid "Europeana@Pinterest"
+msgstr "Europeana - eNews"
+
+#: templates/static_pages/prop_file.html:524
+msgid ""
+"Discover a wide range of hand-picked treasures from Europeana on Pinterest. "
+"Explore the themes of Tapestry, Adam &amp; Eve, Geishas, Renaissance Art and "
+"more."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:525
+#, fuzzy
+msgid "Explore Pinterest"
+msgstr "Europeana - eNews"
+
+#: templates/static_pages/prop_file.html:530
+#: templates/static_pages/prop_file.html:533
+msgid "Memories of 1989"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:534
+msgid ""
+"Meet the faces and hear the voices from a historic year. Europeana's 89 "
+"Voices project has been updated to include many more fascinating first-hand "
+"accounts from 1989."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:535
+msgid "Listen now"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:548
+#: templates/static_pages/prop_file.html:549
+#: templates/static_pages/sitemap.html:97
+msgid "Terms of Use &amp; Policies"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:556
+#: templates/static_pages/prop_file.html:557
+msgid "Language Policy"
+msgstr "Hizkuntza politika"
+
+#: templates/static_pages/prop_file.html:560
+#: templates/static_pages/prop_file.html:561
+#: templates/static_pages/sitemap.html:126
+msgid "Contact"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:564
+#: templates/static_pages/prop_file.html:565
+#: templates/static_pages/prop_file.html:992
+#: templates/static_pages/prop_file.html:993
+#: templates/static_pages/sitemap.html:11
+msgid "Home"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:616
 #: templates/static_pages/sitemap.html:31
 #: templates/static_pages/usingeuropeana_searchwidget.html:9
 msgid "How to configure your search widget"
 msgstr ""
 
-#: templates/static_pages/sitemap.html:36
-msgid "About us"
-msgstr "Guri buruz"
+#: templates/static_pages/prop_file.html:617
+msgid "How to configure your search widhet"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:628
+#: templates/static_pages/prop_file.html:629
+#, fuzzy
+msgid "Press Room"
+msgstr "Prentsa aretoa"
+
+#: templates/static_pages/prop_file.html:660
+#: templates/static_pages/prop_file.html:661
+#, fuzzy
+msgid "Pinterest"
+msgstr "Europeana - eNews"
+
+#: templates/static_pages/prop_file.html:668
+#: templates/static_pages/prop_file.html:669
+#: templates/static_pages/prop_file.html:674
+msgid "Explore Europe's cultural collections"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:672
+#: templates/static_pages/prop_file.html:673
+msgid "Access professional knowledge"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:675
+msgid "Social media activities"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:676
+msgid "From the blog"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:677
+#, fuzzy
+msgid "Filter your search"
+msgstr "Zure helbide elektronikoa jarri"
+
+#: templates/static_pages/prop_file.html:678
+msgid "Grid view"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:679
+msgid ""
+"We apologize; there was a problem retrieving the search results from the "
+"server. Please try again later"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:680
+#, fuzzy
+msgid "Similar items"
+msgstr "Itemik ez da gorde "
+
+#: templates/static_pages/prop_file.html:681
+msgid "Loading ..."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:682
+#: templates/static_pages/usingeuropeana_results.html:42
+msgid "Translate details"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:683
+#, fuzzy
+msgid "Return to search results"
+msgstr ""
+"Europeanaren bilaketa-koadro nagusiaren azpian dagoen bilaketa aurreratua "
+"esteka"
+
+#: templates/static_pages/prop_file.html:684
+#, fuzzy
+msgid "Next search result"
+msgstr ""
+"Europeanaren bilaketa-koadro nagusiaren azpian dagoen bilaketa aurreratua "
+"esteka"
+
+#: templates/static_pages/prop_file.html:685
+msgid "Something went wrong!"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:686
+#, fuzzy
+msgid "An email has been sent to inform our technical staff"
+msgstr "Mezu bat bidali da helbide honetara"
+
+#: templates/static_pages/prop_file.html:687
+#, fuzzy
+msgid "Please try another search"
+msgstr "hartuta dago. Mesedez, beste erabiltzaile izen bat erabili"
+
+#: templates/static_pages/prop_file.html:688
+msgid "Saved search removed successfully"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:689
+#: templates/static_pages/prop_file.html:702
+msgid "Saved item removed successfully"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:690
+msgid "Saved tag removed successfully"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:691
+msgid "An error occurred"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:692
+#, fuzzy
+msgid "The item could not be removed"
+msgstr "Posta elektronikoa ezin izan da bidali"
+
+#: templates/static_pages/prop_file.html:693
+msgid "Auto-generated tags"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:694
+msgid "Request"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:695
+#: templates/static_pages/prop_file.html:698
+msgid "Legend"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:696
+#, fuzzy
+msgid "See less"
+msgstr "Europeana - Europa irakurriz"
+
+#: templates/static_pages/prop_file.html:697
+#, fuzzy
+msgid "See more"
+msgstr "Europeana - Europa irakurriz"
+
+#: templates/static_pages/prop_file.html:699
+#, fuzzy
+msgid "Explore further"
+msgstr "Europeana - eNews"
+
+#: templates/static_pages/prop_file.html:700
+#, fuzzy
+msgid "Return to original language"
+msgstr ""
+"Europeanaren bilaketa-koadro nagusiaren azpian dagoen bilaketa aurreratua "
+"esteka"
+
+#: templates/static_pages/prop_file.html:701
+msgid "Attention: this item has been withdrawn by the provider."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:703
+msgid ""
+"We apologise; there was a problem retrieving the data from the server. "
+"Please try again later."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:704
+msgid "Preview"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:705
+#, fuzzy
+msgid "Return to timeline"
+msgstr ""
+"Europeanaren bilaketa-koadro nagusiaren azpian dagoen bilaketa aurreratua "
+"esteka"
+
+#: templates/static_pages/prop_file.html:706
+msgid "This email address does not yet exist in our database"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:707
+msgid "Your password change has been successfully completed"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:708
+#, fuzzy
+msgid "Zoom"
+msgstr "Europeanak"
+
+#: templates/static_pages/prop_file.html:709
+#, fuzzy
+msgid "Zoom in"
+msgstr "Europeanak"
+
+#: templates/static_pages/prop_file.html:710
+#, fuzzy
+msgid "Zoom out"
+msgstr "Europeanak"
+
+#: templates/static_pages/prop_file.html:711
+msgid "Choose from different map types"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:712
+msgid ""
+"Navigate map: click and hold left mouse-button, then move mouse to change "
+"the view"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:713
+msgid ""
+"Select via freeform: add anchor points with left mouse-click, double click "
+"to finish the shape"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:714
+msgid "Google Satellite"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:715
+msgid "Google Hybrid"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:716
+msgid "Google Street"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:717
+msgid "Google Physical"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:719
+msgid "Tiles courtesy of"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:720
+msgid ""
+"This is your personal space on Europeana. With My Europeana, you can save "
+"your favourite items and searches, and add tags."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:721
+#: templates/static_pages/usingeuropeana_results.html:19
+msgid "3D"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:722
+msgid "Download"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:723
+#, fuzzy
+msgid "User contributed content"
+msgstr "Zerikusia duten edukiak"
+
+#: templates/static_pages/prop_file.html:724
+msgid "Play"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:725
+msgid "Read"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:726
+#: templates/static_pages/usingeuropeana_results.html:34
+msgid "View"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:727
+msgid "View larger image"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:728
+msgid "Your search result contains no items that have map co-ordinates."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:729
+#, fuzzy
+msgid "Please try another search."
+msgstr "hartuta dago. Mesedez, beste erabiltzaile izen bat erabili"
+
+#: templates/static_pages/prop_file.html:730
+msgid ""
+"The Europeana map search is still in development and currently doesn't work "
+"in Internet Explorer. We aim to support Internet Explorer in the future. "
+"Currently we recommend you to use Chrome or Firefox."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:734
+msgid "Wikipedia Citation"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:735
+msgid "Copy and paste the wiki-markup below:"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:736
+msgid ""
+"Due to maintenance, it is not possible to use the My Europeana feature at "
+"the moment. We apologise for any inconvenience caused."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:742
+#: templates/static_pages/usingeuropeana_search.html:67
+msgid "Include content contributed by users"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:743
+msgid "The map only shows up to 1000 items relevant to your query."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:744
+msgid "No place name available"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:745
+msgid "The map only shows up to {0} items relevant to your query."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:746
+msgid "Search within current map view"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:747
+#: templates/static_pages/usingeuropeana_results.html:41
+msgid "Citation"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:748
+#: templates/static_pages/usingeuropeana_results.html:41
+msgid "Footnote"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:749
+msgid "Follow us on"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:750
+msgid "Unable to find content for this page."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:753
+msgid "Latest on"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:754
+#: templates/static_pages/prop_file.html:1012
+#: templates/static_pages/usingeuropeana_search.html:69
+msgid "Share"
+msgstr "Partekatu"
+
+#: templates/static_pages/prop_file.html:755
+msgid "Share item on Facebook, Twitter, etc."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:756
+msgid "Follow us!"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:757
+msgid "Newsletter sign-up"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:758
+#: templates/static_pages/prop_file.html:759
+msgid "Sign-up here"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:760
+#: templates/static_pages/prop_file.html:1033
+msgid "Name"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:761
+#, fuzzy
+msgid "Email Address"
+msgstr "Posta elektronikoaren helbidea"
+
+#: templates/static_pages/prop_file.html:762
+msgid ""
+"Sign-up to receive our monthly newsletter, and occasional announcements."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:773
+#: templates/static_pages/prop_file.html:785
+#: templates/static_pages/prop_file.html:796
+#: templates/static_pages/prop_file.html:806
+#: templates/static_pages/prop_file.html:817
+#, fuzzy
+msgid "Featured partner"
+msgstr "Bilaketa gorde da"
+
+#: templates/static_pages/prop_file.html:777
+msgid ""
+"Atria, Institute on Gender Equality and Women’s History, based in Amsterdam, "
+"is the expert centre on gender equality and women’s history in the "
+"Netherlands. Atria’s rich library and (online) archive, house one of the "
+"oldest collections on women’s history world wide: the International Archives "
+"for the Women’s Movement (IAV). Since 1935 Atria collects topical "
+"information on the position of women and the gender perspective, as well as "
+"the heritage of women’s movementes in the Netherlands."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:789
+msgid ""
+"The National Gallery of Ireland houses the Irish national collection of "
+"Irish and European art. It is located in the centre of Dublin with one "
+"entrance on Merrion Square, beside Leinster House, and another on Clare "
+"Street. Due to ongoing renovations, the Clare Street entrance is the only "
+"one currently open. It was founded in 1854 and opened its doors ten years "
+"later. The Gallery has an extensive, representative collection of Irish "
+"painting and is also notable for its Italian Baroque and Dutch masters "
+"painting."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:800
+msgid ""
+"One of the oldest and the best museums of the Upper Volga Region, was "
+"founded in 1910. Now the museum houses more than 120 thousand exhibits: from "
+"saurian bones to paintings of famous artists."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:810
+msgid ""
+"Since its founding in 1952 the Hungarian Theatre Museum and Institute has "
+"been collecting the most valuable relics and data of the Hungarian theatre, "
+"bridging the distant beginnings centuries ago with-last night's "
+"performances. A dozen and a half of separate collections enclose the "
+"invaluable traces of the artform most susceptible to evanescence: paintings, "
+"photographs, stage and costume designs, posters, props, video recordingsâ"
+"€”and many more..."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:821
+msgid ""
+"Archive Eemland is the historical information centre of Amersfoort and the "
+"Eemland region. The archive manages approximately 3.5 kilometers of "
+"archives, an image collection of 40,000 photographs, a significant "
+"collection of maps, a growing audiovisual collection and a rich historical "
+"library."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:828
+#, fuzzy
+msgid "API function"
+msgstr "Abolizioa"
+
+#: templates/static_pages/prop_file.html:829
+#, fuzzy
+msgid "Search parameters"
+msgstr "Bilaketa gorde da"
+
+#: templates/static_pages/prop_file.html:830
+#, fuzzy
+msgid "Search term"
+msgstr "Bilaketa gorde da"
+
+#: templates/static_pages/prop_file.html:831
+msgid "Refinement term(s)"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:832
+msgid "Profile"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:833
+msgid "Number of records to retrieve"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:834
+msgid "First record to retrieve"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:835
+#, fuzzy
+msgid "Record parameters"
+msgstr "Bilaketa gorde da"
+
+#: templates/static_pages/prop_file.html:836
+msgid "Record id"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:837
+msgid "Request URL"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:838
+msgid "JSON response"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:839
+#, fuzzy
+msgid "Additional parameters"
+msgstr "Bilaketa gorde da"
+
+#: templates/static_pages/prop_file.html:841
+#, fuzzy
+msgid "Search also for:"
+msgstr "Bilaketa gorde da"
+
+#: templates/static_pages/prop_file.html:843
+msgid "Who"
+msgstr "Nor"
+
+#: templates/static_pages/prop_file.html:844
+msgid "What"
+msgstr "Zer"
+
+#: templates/static_pages/prop_file.html:847
+#: templates/static_pages/prop_file.html:848
+#, fuzzy
+msgid "Europeana APIs"
+msgstr "Europeana - Galdera ohikoenak (FAQ)"
+
+#: templates/static_pages/prop_file.html:849
+#: templates/static_pages/prop_file.html:853
+#: templates/static_pages/prop_file.html:857
+#: templates/static_pages/prop_file.html:861
+msgid "_self"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:851
+#: templates/static_pages/prop_file.html:852
+#, fuzzy
+msgid "Terms of use &amp; Policies"
+msgstr "Baldintzak"
+
+#: templates/static_pages/prop_file.html:870
+#: templates/static_pages/usingeuropeana_myeuropeana.html:17
+msgid "API keys"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:871
+#, fuzzy
+msgid "No API key"
+msgstr "Erabilera baldintzak"
+
+#: templates/static_pages/prop_file.html:872
+#, fuzzy
+msgid "API key"
+msgstr "Erabilera baldintzak"
+
+#: templates/static_pages/prop_file.html:873
+#, fuzzy
+msgid "Private key"
+msgstr "Pribatutasuna"
+
+#: templates/static_pages/prop_file.html:874
+msgid "Usage limit"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:875
+msgid "Role"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:876
+msgid "Administrator's page"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:877
+msgid "Congratulations! You are now registered for Europeana's API."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:878
+#, fuzzy
+msgid "Your API key is"
+msgstr "Pribatutasuna"
+
+#: templates/static_pages/prop_file.html:879
+#, fuzzy
+msgid "Your private key is"
+msgstr "Pribatutasuna"
+
+#: templates/static_pages/prop_file.html:881
+#, fuzzy
+msgid "Remove API key"
+msgstr "Erabilera baldintzak"
+
+#: templates/static_pages/prop_file.html:882
+msgid "Limit"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:883
+#, fuzzy
+msgid "Remove user"
+msgstr "Erabilera baldintzak"
+
+#: templates/static_pages/prop_file.html:884
+msgid "Block user"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:885
+msgid "Export API keys to CSV"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:886
+msgid "Export users to CSV"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:887
+#, fuzzy
+msgid "User name"
+msgstr "Azken aldaketa"
+
+#: templates/static_pages/prop_file.html:888
+#, fuzzy
+msgid "Registration"
+msgstr "Berriz erregistratu"
+
+#: templates/static_pages/prop_file.html:890
+msgid "Visit the website of"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:891
+msgid "View the latest content from our partners"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:895
+#: templates/static_pages/prop_file.html:896
+#: templates/static_pages/sitemap.html:15
+msgid "Other Europeana Sites"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:899
+#, fuzzy
+msgid "Europeana Exhibitions"
+msgstr "Europeanaren logotipoak"
+
+#: templates/static_pages/prop_file.html:907
+#: templates/static_pages/sitemap.html:19
+msgid "Europeana 1914-1918"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:912
+msgid "Remix"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:915
+#: templates/static_pages/sitemap.html:21
+msgid "Europeana Professional"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:916
+msgid "Professional"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:919
+#, fuzzy
+msgid "Europeana Labs"
+msgstr "Europeanaren logotipoak"
+
+#: templates/static_pages/prop_file.html:920
+msgid "Labs"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:980
+msgid "Change limit for an API key"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:981
+msgid "Company or Institution"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:982
+msgid "Telephone contact"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:983
+#, fuzzy
+msgid "Address"
+msgstr "Posta elektronikoaren helbidea"
+
+#: templates/static_pages/prop_file.html:984
+msgid "I confirm that I have read and agree to the"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:985
+msgid "Next in sequence"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:986
+#, fuzzy
+msgid "Date of creation"
+msgstr "Datuen babesa"
+
+#: templates/static_pages/prop_file.html:987
+#, fuzzy
+msgid "Is part of"
+msgstr "Formulario hau"
+
+#: templates/static_pages/prop_file.html:998
+#, fuzzy
+msgid "Titles"
+msgstr "Izenburua"
+
+#: templates/static_pages/prop_file.html:999
+#, fuzzy
+msgid "Places"
+msgstr "Orrietan"
+
+#: templates/static_pages/prop_file.html:1000
+#, fuzzy
+msgid "Dates/Periods"
+msgstr "Bilaketa gorde da"
+
+#: templates/static_pages/prop_file.html:1001
+#, fuzzy
+msgid "Subjects"
+msgstr "Sektorea"
+
+#: templates/static_pages/prop_file.html:1002
+#, fuzzy
+msgid "Creators"
+msgstr "Egilea"
+
+#: templates/static_pages/prop_file.html:1003
+msgid "All fields"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1004
+#, fuzzy
+msgid "Featured Item"
+msgstr "Itemik ez da gorde "
+
+#: templates/static_pages/prop_file.html:1005
+#: templates/static_pages/usingeuropeana_explore.html:15
+msgid "Featured Partner"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1006
+#, fuzzy
+msgid "Click here for last page of results"
+msgstr "Emaitzen hurrengo orria ikusteko, hemen klik egizu"
+
+#: templates/static_pages/prop_file.html:1007
+#: templates/static_pages/usingeuropeana_results.html:24
+msgid "Results per page"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1008
+#: templates/static_pages/usingeuropeana_search.html:49
+msgid "Add more keywords"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1009
+msgid "+ Add"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1010
+msgid "Field of work"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1011
+#, fuzzy
+msgid "Please, select"
+msgstr "Bilduma"
+
+#: templates/static_pages/prop_file.html:1013
+#, fuzzy
+msgid "Please try another search later."
+msgstr "hartuta dago. Mesedez, beste erabiltzaile izen bat erabili"
+
+#: templates/static_pages/prop_file.html:1014
+msgid "Unable to find the requested page"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1015
+msgid "Alert:"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1016
+msgid "Unable to find the requested Europeana Record."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1017
+msgid "This item has been withdrawn by the provider."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1018
+msgid "Requested Europeana Record is not yet indexed."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1020
+#, fuzzy
+msgid "Please register your email again"
+msgstr "Mesedez, baliozko helbide elektroniko bat jarri"
+
+#: templates/static_pages/prop_file.html:1021
+#, fuzzy
+msgid "to finish registration."
+msgstr "Erregistratzea amaitu"
+
+#: templates/static_pages/prop_file.html:1022
+msgid "Unable to fullfill your request due to malformed query parameters."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1023
+msgid "Unable to get a response from the Search Engine."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1024
+msgid "Unable to fulfill your request due to a malformed query syntax."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1025
+msgid "We are unable to change the interface to the requested language."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1026
+#, fuzzy
+msgid "Please try another language from the dropdown list."
+msgstr "hartuta dago. Mesedez, beste erabiltzaile izen bat erabili"
+
+#: templates/static_pages/prop_file.html:1027
+msgid "Number of results shown on the page"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1034
+msgid "API-key"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1035
+msgid "Number of calls"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1037
+#: templates/static_pages/prop_file.html:1038
+msgid "Can I use it?"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1039
+#, fuzzy
+msgid "Yes, with attribution"
+msgstr "Europeanaren logotipoak"
+
+#: templates/static_pages/prop_file.html:1040
+#, fuzzy
+msgid "Yes, with restrictions"
+msgstr "Europeanaren logotipoak"
+
+#: templates/static_pages/prop_file.html:1041
+msgid "Only with permission"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1043
+msgid "Export API users to CSV"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1044
+msgid "Export API users to Excel"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1046
+msgid "It looks like your browser is set to"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1047
+msgid "Would you also like to use Europeana in"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1048
+msgid ""
+"It looks like your browser is set to English. Would you also like to use "
+"Europeana in English"
+msgstr ""
+"Bezala zure nabigatzailea euskaraz 'ezarrita badirudi. Litzateke ere "
+"Europeana erabiltzeko euskarazko gustatzen zaizu"
+
+#: templates/static_pages/prop_file.html:1049
+#, fuzzy
+msgid "English"
+msgstr "Ingelesa (eng)"
+
+#: templates/static_pages/prop_file.html:1050
+msgid "Basque"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1051
+#, fuzzy
+msgid "Bulgarian"
+msgstr "Bulgaria"
+
+#: templates/static_pages/prop_file.html:1052
+msgid "Catalan"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1053
+msgid "Czech"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1054
+#, fuzzy
+msgid "Danish"
+msgstr "Daniera (dan)"
+
+#: templates/static_pages/prop_file.html:1055
+#, fuzzy
+msgid "German"
+msgstr "Alemania"
+
+#: templates/static_pages/prop_file.html:1056
+#, fuzzy
+msgid "Greek"
+msgstr "Grezia"
+
+#: templates/static_pages/prop_file.html:1057
+#, fuzzy
+msgid "Spanish"
+msgstr "Gaztelera (esp)"
+
+#: templates/static_pages/prop_file.html:1058
+#, fuzzy
+msgid "Estonian"
+msgstr "Estonia"
+
+#: templates/static_pages/prop_file.html:1059
+#, fuzzy
+msgid "French"
+msgstr "Frantsesa (fre)"
+
+#: templates/static_pages/prop_file.html:1060
+msgid "Irish"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1061
+#, fuzzy
+msgid "Croatian"
+msgstr "Letonia"
+
+#: templates/static_pages/prop_file.html:1062
+#, fuzzy
+msgid "Icelandic"
+msgstr "Islandia"
+
+#: templates/static_pages/prop_file.html:1063
+#, fuzzy
+msgid "Italian"
+msgstr "Italiera (ita)"
+
+#: templates/static_pages/prop_file.html:1064
+#, fuzzy
+msgid "Lithuanian"
+msgstr "Lituania"
+
+#: templates/static_pages/prop_file.html:1065
+#, fuzzy
+msgid "Latvian"
+msgstr "Letonia"
+
+#: templates/static_pages/prop_file.html:1066
+#, fuzzy
+msgid "Hungarian"
+msgstr "Hungariera (hun)"
+
+#: templates/static_pages/prop_file.html:1067
+#, fuzzy
+msgid "Maltese"
+msgstr "Maltera (mlt)"
+
+#: templates/static_pages/prop_file.html:1068
+#, fuzzy
+msgid "Dutch"
+msgstr "Nederlandera (dut)"
+
+#: templates/static_pages/prop_file.html:1069
+#, fuzzy
+msgid "Norwegian"
+msgstr "Norvegiera (nor)"
+
+#: templates/static_pages/prop_file.html:1070
+#, fuzzy
+msgid "Polish"
+msgstr "Poloniera (pol)"
+
+#: templates/static_pages/prop_file.html:1071
+#, fuzzy
+msgid "Romanian"
+msgstr "Errumania"
+
+#: templates/static_pages/prop_file.html:1072
+#, fuzzy
+msgid "Russian"
+msgstr "Errusiera (rus)"
+
+#: templates/static_pages/prop_file.html:1073
+#, fuzzy
+msgid "Slovene"
+msgstr "Eslovenia"
+
+#: templates/static_pages/prop_file.html:1074
+#, fuzzy
+msgid "Slovak"
+msgstr "Eslovakia"
+
+#: templates/static_pages/prop_file.html:1075
+#, fuzzy
+msgid "Finnish"
+msgstr "Suomiera (fin)"
+
+#: templates/static_pages/prop_file.html:1076
+#, fuzzy
+msgid "Swedish"
+msgstr "Suedia"
+
+#: templates/static_pages/prop_file.html:1077
+#, fuzzy
+msgid "Ukranian"
+msgstr "Frantzia"
+
+#: templates/static_pages/prop_file.html:1079
+#, fuzzy
+msgid "no"
+msgstr "Europeanak"
+
+#: templates/static_pages/prop_file.html:1080
+msgid "yes"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1082
+#, fuzzy
+msgid "Language settings"
+msgstr "Hizkuntza politika"
+
+#: templates/static_pages/prop_file.html:1083
+msgid "Automatically translate item pages into:"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1084
+msgid "Auto translate items into"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1085
+msgid "Automatically translate search keywords into:"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1086
+msgid ""
+"For registered users, you can choose a maximum of 6 options. For "
+"unregistered users, you can choose a maximum of 3 options."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1087
+msgid "Submit"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1088
+#, fuzzy
+msgid "Incorrect password."
+msgstr "Pasahitza ahaztu zait"
+
+#: templates/static_pages/prop_file.html:1089
+msgid ""
+"Log into My Europeana to save your favourite items, searches, tags and "
+"translate search keywords into other languages."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1090
+#, fuzzy
+msgid "Please enter your username."
+msgstr "hartuta dago. Mesedez, beste erabiltzaile izen bat erabili"
+
+#: templates/static_pages/prop_file.html:1091
+#, fuzzy
+msgid "Please enter your password."
+msgstr "hartuta dago. Mesedez, beste erabiltzaile izen bat erabili"
+
+#: templates/static_pages/prop_file.html:1092
+msgid "Registered users may choose a maximum of 6 options."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1093
+msgid "Unregistered users may choose a maximum of 3 options."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1094
+#, fuzzy
+msgid "Clear selection"
+msgstr "Bilduma"
+
+#: templates/static_pages/prop_file.html:1095
+#, fuzzy
+msgid "Request passsword"
+msgstr "Pasahitza Errepikatu"
+
+#: templates/static_pages/prop_file.html:1096
+msgid "Invalid credentials"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1097
+#, fuzzy
+msgid "Save settings"
+msgstr "Etiketak gorde"
+
+#: templates/static_pages/prop_file.html:1098
+msgid "Settings have been saved."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1099
+msgid ""
+"Sorry, there was a problem saving your settings. Please try again later."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1101
+msgid "A maximum of 6 languages can be selected."
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1102
+msgid "This option is only available for registered users"
+msgstr ""
+
+#: templates/static_pages/prop_file.html:1103
+msgid "register or sign in here"
+msgstr ""
+
+#: templates/static_pages/sitemap.html:4
+msgid "Europeana - Sitemap"
+msgstr "Europeana - Gunearen mapa"
+
+#: templates/static_pages/sitemap.html:27
+msgid "Searching in Europeana"
+msgstr "Bilaketak Europeanan"
 
 #: templates/static_pages/sitemap.html:39
 msgid "All Providers"
@@ -1701,14 +4862,6 @@ msgstr ""
 msgid "Record"
 msgstr ""
 
-#: templates/static_pages/sitemap.html:65
-#: templates/static_pages/usingeuropeana_search.html:21
-#: templates/static_pages/usingeuropeana_search.html:25
-#: templates/static_pages/usingeuropeana_search.html:27
-#: templates/static_pages/usingeuropeana_search.html:45
-msgid "Search"
-msgstr ""
-
 #: templates/static_pages/sitemap.html:66
 msgid "Suggestions"
 msgstr ""
@@ -1733,21 +4886,9 @@ msgstr ""
 msgid "API1-API2 compatability"
 msgstr ""
 
-#: templates/static_pages/sitemap.html:97
-msgid "Terms of Use &amp; Policies"
-msgstr ""
-
 #: templates/static_pages/sitemap.html:104
 msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
 msgstr ""
-
-#: templates/static_pages/sitemap.html:107
-msgid "Language policy"
-msgstr "Hizkuntza politika"
-
-#: templates/static_pages/sitemap.html:113
-msgid "Rights"
-msgstr "Beste eskubide batzuk"
 
 #: templates/static_pages/sitemap.html:115
 msgid "Free Access - no-reuse"
@@ -1777,10 +4918,6 @@ msgstr ""
 msgid "Out of copyright - non commercial re-use"
 msgstr ""
 
-#: templates/static_pages/sitemap.html:126
-msgid "Contact"
-msgstr ""
-
 #: templates/static_pages/sitemap.html:127
 msgid "Europeana Semantic Elements (ESE)"
 msgstr ""
@@ -1792,10 +4929,6 @@ msgstr ""
 #: templates/static_pages/storyline.html:4
 msgid "Europeana - Storyline and credits"
 msgstr "Europeana - Gidoia eta kredituak"
-
-#: templates/static_pages/storyline.html:11
-msgid "Storyline and credits"
-msgstr "Gidoia eta kredituak"
 
 #: templates/static_pages/storyline.html:13
 msgid "Descartes"
@@ -2226,16 +5359,6 @@ msgstr ""
 "eskerrik asko Cité de la Musique-ri, kanta gure soinu bandaren oinarri gisa "
 "erabiltzen uzteagatik."
 
-#: templates/static_pages/storyline.html:49
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid "Title"
-msgstr "Izenburua"
-
-#: templates/static_pages/storyline.html:50
-#: templates/static_pages/usingeuropeana_search.html:31
-msgid "Creator"
-msgstr "Egilea"
-
 #: templates/static_pages/storyline.html:51
 msgid "Collection"
 msgstr "Bilduma"
@@ -2373,10 +5496,6 @@ msgid "in the"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_explore.html:15
-msgid "Featured Partner"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_explore.html:15
 msgid "area"
 msgstr ""
 
@@ -2397,20 +5516,12 @@ msgid "and you can"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:14
-msgid "Save this search"
-msgstr "Bilaketa hau gordetzea"
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:14
 msgid ""
 "Keep up to date on a particular topic in Europeana by saving a search, so "
 "you can easily perform it again in future."
 msgstr ""
 "Europeanako gai jakin baten inguruan egunean egon bilaketak gordez; horrela, "
 "etorkizunean bilaketa bera erraz egin ahal izango duzu."
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:15
-msgid "Add a tag"
-msgstr "Etiketa jartzea"
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:15
 msgid ""
@@ -2420,16 +5531,8 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:16
-msgid "Save to My Europeana"
-msgstr "Nire Europeanan gorde"
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:16
 msgid "Store your favourite items for later viewing."
 msgstr "Zure item gogokoenak gorde geroago ikusteko."
-
-#: templates/static_pages/usingeuropeana_myeuropeana.html:17
-msgid "API keys"
-msgstr ""
 
 #: templates/static_pages/usingeuropeana_myeuropeana.html:17
 msgid ""
@@ -2482,16 +5585,8 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:17
-msgid "Video"
-msgstr "Bideoak"
-
-#: templates/static_pages/usingeuropeana_results.html:17
 msgid "films, news broadcasts and television programmes"
 msgstr ""
-
-#: templates/static_pages/usingeuropeana_results.html:18
-msgid "Sound"
-msgstr "Soinuak"
 
 #: templates/static_pages/usingeuropeana_results.html:18
 msgid ""
@@ -2499,10 +5594,6 @@ msgid ""
 msgstr ""
 "zilindro, zinta, disko eta irrati-emankizunetako musika eta hizkuntza "
 "mintzatua."
-
-#: templates/static_pages/usingeuropeana_results.html:19
-msgid "3D"
-msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:19
 msgid "virtual 3D representations of objects, architecture or places."
@@ -2526,20 +5617,8 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:24
-msgid "Results per page"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_results.html:24
 msgid "drop-down list either above or below the results. You can select"
 msgstr ""
-
-#: templates/static_pages/usingeuropeana_results.html:24
-#: templates/static_pages/usingeuropeana_results.html:25
-#: templates/static_pages/usingeuropeana_results.html:41
-#: templates/static_pages/usingeuropeana_results.html:49
-#: templates/static_pages/usingeuropeana_search.html:32
-msgid "or"
-msgstr "edo"
 
 #: templates/static_pages/usingeuropeana_results.html:25
 msgid ""
@@ -2585,10 +5664,6 @@ msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:34
 msgid "hit the magnifying glass"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_results.html:34
-msgid "View"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:34
@@ -2641,10 +5716,6 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:41
-msgid "Cite on Wikipedia"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_results.html:41
 msgid ""
 "this function will help you link to Europeana items and cite them in "
 "Wikipedia articles. The code you need is formatted for direct inclusion in "
@@ -2652,21 +5723,9 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:41
-msgid "Citation"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_results.html:41
-msgid "Footnote"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_results.html:41
 msgid ""
 "and copy and paste the text provided. To close the citation window, hit the "
 "X in the top right corner."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_results.html:42
-msgid "Translate details"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:42
@@ -2692,14 +5751,6 @@ msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:49
 msgid "To move to the previous or next item in your search results, hit the"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_results.html:49
-msgid "Next"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_results.html:49
-msgid "Previous"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_results.html:49
@@ -2840,10 +5891,6 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:32
-msgid "Subject"
-msgstr "Sektorea"
-
-#: templates/static_pages/usingeuropeana_search.html:32
 msgid ""
 "followed by a type of item, a subject you are interested in or words from "
 "the title of the item you are looking for. Your search results will display "
@@ -2877,10 +5924,6 @@ msgid ""
 "will help you differentiate your search when you are looking only for "
 "objects created or held in Milan, excluding items on writer Milan Kundera "
 "from your search results."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:34
-msgid "Date"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:34
@@ -2969,15 +6012,7 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:49
-msgid "Add more keywords"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:49
 msgid "field and hit"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:49
-msgid "Add"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:49
@@ -2993,12 +6028,6 @@ msgid "To remove a keyword, hit the X icon next to the relevant keyword in the"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:51
-#: templates/static_pages/usingeuropeana_search.html:63
-#: templates/static_pages/usingeuropeana_search.html:65
-msgid "Matches for"
-msgstr "formulario hau"
-
-#: templates/static_pages/usingeuropeana_search.html:51
 msgid "list."
 msgstr ""
 
@@ -3008,10 +6037,6 @@ msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:53
 msgid "filter your search results:"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:55
-msgid "By media type"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:55
@@ -3049,10 +6074,6 @@ msgid ""
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:59
-msgid "By copyright"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:59
 msgid ""
 "will display objects labelled with the selected copyright label(s). This "
 "copyright label indicates how you may reuse the digital object, including "
@@ -3087,10 +6108,6 @@ msgid "You can also select to"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_search.html:67
-msgid "Include content contributed by users"
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:67
 msgid ""
 "This means items that have not come from a cultural institution but from an "
 "individual user, for example, items contributed to the Europeana 1914-1918 "
@@ -3100,10 +6117,6 @@ msgstr ""
 #: templates/static_pages/usingeuropeana_search.html:69
 msgid "Share your search with friends by choosing"
 msgstr ""
-
-#: templates/static_pages/usingeuropeana_search.html:69
-msgid "Share"
-msgstr "Partekatu"
 
 #: templates/static_pages/usingeuropeana_search.html:69
 msgid ""
@@ -3219,10 +6232,6 @@ msgid ""
 "results to do with 'Paris'. In which case, you would enter 'Paris' as a key "
 "word and 'Places' as a type. Tap 'Change' next to 'All Fields' and select "
 "the option you need."
-msgstr ""
-
-#: templates/static_pages/usingeuropeana_searchwidget.html:30
-msgid "Providers"
 msgstr ""
 
 #: templates/static_pages/usingeuropeana_searchwidget.html:30
@@ -3363,1374 +6372,6 @@ msgid ""
 "We would love to know how you are using this search widget, please tell us "
 "by dropping us an email at"
 msgstr ""
-
-#, fuzzy
-#~ msgid ""
-#~ "I understand that My Europeana gives me the opportunity to create tags "
-#~ "for any item I wish. I agree that I will not create any tags that could "
-#~ "be considered libelous, harmful, threatening, unlawful, defamatory,"
-#~ "infringing, abusive, inflammatory, harassing, pornographic, obscene, "
-#~ "fraudulent, invasive of privacy orpublicity rights, hateful, or racially, "
-#~ "ethnically or otherwise objectionable. By clicking this box I agreeto "
-#~ "abide by this agreement, and understand that if I don't my membership of "
-#~ "My Europeana will be terminated."
-#~ msgstr ""
-#~ "Konprenitzen dut Nire Europeanak nahi dudan itemerako etiketak sortzeko "
-#~ "aukera ematen didala. Onartzen dut ez dudala sortuko iraingarria, "
-#~ "kaltegarria, mehatxagarria, legez kontrakoa, difamaziozkoa, arau "
-#~ "urratzailea, laidogarria, supiztailea, jazarpenezkoa, pornografikoa, "
-#~ "lizuna, iruzurrezkoa, pribatutasuna edo publizitate eskubideak inbaditzen "
-#~ "duena, gorrotagarria edo arrazari begira, etnikoki edo bestelako moduren "
-#~ "batean gaitzesgarria den etiketarik. Koadro honetan klik eginda akordio "
-#~ "honi men egiten diot, eta konprenitzen dut hura betetzen ez badut Nire "
-#~ "Europanako kide izateari utziko diodala. KLIKATU ADOS."
-
-#~ msgid "You must agree to our code of conduct to register for My Europeana"
-#~ msgstr ""
-#~ "Europeanan erregistratzeko gure jokabide kodearekin bat etorri behar duzu "
-
-#~ msgid "I agree"
-#~ msgstr "Irudiak"
-
-#~ msgid "Contributor"
-#~ msgstr "Hornitzailea"
-
-#~ msgid "Contributors"
-#~ msgstr "Hornitzaileak"
-
-#~ msgid "Country"
-#~ msgstr "Herrialdea"
-
-#~ msgid "Sector"
-#~ msgstr "Sektorea"
-
-#~ msgid "Partner"
-#~ msgstr "Kidea"
-
-#~ msgid ""
-#~ "This is the network of partners who collaborated to make Europeana "
-#~ "happen, and who represent Europeana in their countries and professional "
-#~ "associations."
-#~ msgstr ""
-#~ "Hona hemen Europeana gauzatzen lagundu duten kideen sarea; kideok, "
-#~ "gainera, Europeana ordezkatzen dute beren herrialde eta elkargo "
-#~ "profesionaletan."
-
-#~ msgid ""
-#~ "*An aggregator collects material from a range of other contributors, "
-#~ "displays it on their own website and also channels it into Europeana."
-#~ msgstr ""
-#~ "Batzaile batek beste hornitzaile batzuen materiala biltzen du, bere "
-#~ "webgunean erakusten du eta Europeanara ere bideratzen du."
-
-#~ msgid "This is a required field"
-#~ msgstr "Bete beharreko eremua"
-
-#~ msgid "Please enter a valid email address"
-#~ msgstr "Mesedez, baliozko helbide elektroniko bat jarri"
-
-#~ msgid "Logged in as"
-#~ msgstr "Sartuta"
-
-#, fuzzy
-#~ msgid "Saved items"
-#~ msgstr "Itemik ez da gorde "
-
-#~ msgid "Saved searches"
-#~ msgstr ""
-#~ "Europeanaren bilaketa-koadro nagusiaren azpian dagoen bilaketa aurreratua "
-#~ "esteka"
-
-#, fuzzy
-#~ msgid "Saved tags"
-#~ msgstr ""
-#~ "Europeanaren bilaketa-koadro nagusiaren azpian dagoen bilaketa aurreratua "
-#~ "esteka"
-
-#~ msgid "Saved notifications"
-#~ msgstr "Etiketak gorde"
-
-#~ msgid "Login"
-#~ msgstr "Esteka"
-
-#~ msgid "Log out"
-#~ msgstr "Europeanak"
-
-#~ msgid ""
-#~ "Thank you very much for your feedback. If your feedback requires a "
-#~ "response a member of the Europeana team will get back to you as soon as "
-#~ "possible. For faster response feedback should be submitted in English."
-#~ msgstr ""
-#~ "Eskerrik asko zure iruzkinengatik. Erantzunik eman behar izatekotan, "
-#~ "Europeana taldeko kide bat ahalik eta lasterren zurekin harremanetan "
-#~ "jarriko da. Erantzuna azkarragoa izate aldera, iruzkina ingelesez bidali "
-#~ "beharko zenuke."
-
-#~ msgid "Keep me in touch with new developments to Europeana"
-#~ msgstr "Garapen berriak ezagutu nahi ditut"
-
-#~ msgid "User Conduct"
-#~ msgstr "Erabiltzailearen jokabidea"
-
-#~ msgid ""
-#~ "I understand that My Europeana gives me the opportunity to create tags "
-#~ "for any item I wish. I agree that I will not create any tags that could "
-#~ "be considered libelous, harmful, threatening, unlawful, defamatory, "
-#~ "infringing, abusive, inflammatory, harassing, pornographic, obscene, "
-#~ "fraudulent, invasive of privacy or publicity rights, hateful, or "
-#~ "racially, ethnically or otherwise objectionable. By clicking this box I "
-#~ "agree to abide by this agreement, and understand that if I don't my "
-#~ "membership of My Europeana will be terminated. CLICK TO AGREE"
-#~ msgstr ""
-#~ "Konprenitzen dut Nire Europeanak nahi dudan itemerako etiketak sortzeko "
-#~ "aukera ematen didala. Onartzen dut ez dudala sortuko iraingarria, "
-#~ "kaltegarria, mehatxagarria, legez kontrakoa, difamaziozkoa, arau "
-#~ "urratzailea, laidogarria, supiztailea, jazarpenezkoa, pornografikoa, "
-#~ "lizuna, iruzurrezkoa, pribatutasuna edo publizitate eskubideak inbaditzen "
-#~ "duena, gorrotagarria edo arrazari begira, etnikoki edo bestelako moduren "
-#~ "batean gaitzesgarria den etiketarik. Koadro honetan klik eginda akordio "
-#~ "honi men egiten diot, eta konprenitzen dut hura betetzen ez badut Nire "
-#~ "Europanako kide izateari utziko diodala. KLIKATU ADOS."
-
-#, fuzzy
-#~ msgid "First name"
-#~ msgstr "Azken aldaketa"
-
-#~ msgid "Last name"
-#~ msgstr "Azken aldaketa"
-
-#~ msgid ""
-#~ "To make optimal use of this website you need to have JavaScript activated"
-#~ msgstr ""
-#~ "Webgune hau ahalik eta ongien erabiltzeko, Javascript aktibatua izan "
-#~ "behar duzu."
-
-#~ msgid "Check the FAQs - they may cover your feedback"
-#~ msgstr ""
-#~ "Galdera Ohikoenak (FAQ) begiratu - baliteke zure iruzkinaren erantzuna "
-#~ "hor egotea"
-
-#~ msgid "Communities"
-#~ msgstr "Komunitateak"
-
-#~ msgid "ThoughtLab"
-#~ msgstr "ThoughtLab"
-
-#~ msgid "Choose a language"
-#~ msgstr "Hizkuntza bat aukeratu"
-
-#~ msgid "Select language"
-#~ msgstr "Hizkuntza bat aukeratu"
-
-#~ msgid "This is Europeana"
-#~ msgstr "Europeanaren Erabilera"
-
-#~ msgid ""
-#~ "a place for inspiration and ideas. Search through the cultural "
-#~ "collections of Europe, connect to other user pathways and share your "
-#~ "discoveries."
-#~ msgstr ""
-#~ "inspirazio eta ideien gune bat. Araka itzazu Europako kultur bildumak, "
-#~ "beste erabiltzaile-bide batzuetara konektatu eta zure aurkikuntzak "
-#~ "partekatu."
-
-#~ msgid "Find out more"
-#~ msgstr "Gehiago jakin"
-
-#~ msgid "Advanced search"
-#~ msgstr "Bilaketa aurreratua"
-
-#~ msgid "Hide advanced search"
-#~ msgstr ""
-#~ "Europeanaren bilaketa-koadro nagusiaren azpian dagoen bilaketa aurreratua "
-#~ "esteka"
-
-#~ msgid "and"
-#~ msgstr "Polonia"
-
-#~ msgid "not"
-#~ msgstr "Europeanak"
-
-#~ msgid "Share your ideas"
-#~ msgstr "Zure ideiak partekatu"
-
-#~ msgid "Send us feedback"
-#~ msgstr "Europeanarekin izan duzun esperientziari buruz"
-
-#~ msgid "People are currently thinking about"
-#~ msgstr "Pertsonek gauza hauei buruz pentsatzen dute egun:"
-
-#~ msgid "Timeline navigator"
-#~ msgstr "Denbora-lerroko nabigatzailea"
-
-#~ msgid "Browse through time"
-#~ msgstr "Denboran zehar"
-
-#~ msgid ""
-#~ "From our partner museums, archives, libraries and audio-visual collections"
-#~ msgstr ""
-#~ "Gure kide diren museo, agiritegi, liburutegi eta ikus-entzunezko "
-#~ "bildumetatik"
-
-#~ msgid "Using Europeana"
-#~ msgstr "Europeanaren Erabilera"
-
-#~ msgid "Terms and conditions"
-#~ msgstr "Baldintzak"
-
-#, fuzzy
-#~ msgid "Contact us"
-#~ msgstr "Harremanetarako"
-
-#~ msgid "co-funded by the European Union"
-#~ msgstr "Europar Batasunak kofinantzatua"
-
-#, fuzzy
-#~ msgid "Europeana think culture"
-#~ msgstr "Kultura pentsatu"
-
-#~ msgid "Click here to return to the Europeana homepage"
-#~ msgstr "Hemen klik egizu Europeanaren hasierako orrira itzultzeko"
-
-#, fuzzy
-#~ msgid "Refine your results"
-#~ msgstr ""
-#~ "Europeanaren bilaketa-koadro nagusiaren azpian dagoen bilaketa aurreratua "
-#~ "esteka"
-
-#, fuzzy
-#~ msgid "By providing country"
-#~ msgstr "Herrialdea"
-
-#~ msgid "By user tag"
-#~ msgstr "Erabiltzaile-etiketa"
-
-#, fuzzy
-#~ msgid "Actions"
-#~ msgstr "Abolizioa"
-
-#~ msgid "Search saved"
-#~ msgstr "Bilaketa gorde da"
-
-#~ msgid "Saving search failed"
-#~ msgstr "Bilaketa gordetzeak huts egin du"
-
-#~ msgid "You have searched for"
-#~ msgstr "Hau bilatu duzu"
-
-#~ msgid "You are viewing related items"
-#~ msgstr "Elkarrekin zerikusia duten itemak ikusten ari zara"
-
-#~ msgid "Text"
-#~ msgstr "Testuak"
-
-#~ msgid "Image"
-#~ msgstr "Irudiak"
-
-#, fuzzy
-#~ msgid "#Table view"
-#~ msgstr "Denboran zeharreko nabigatzailea"
-
-#~ msgid "Page"
-#~ msgstr "orrian aurkituko dituzu"
-
-#, fuzzy
-#~ msgid "Click here for previous page of results"
-#~ msgstr "Emaitzen hurrengo orria ikusteko, hemen klik egizu"
-
-#~ msgid "Click here for next page of results"
-#~ msgstr "Emaitzen hurrengo orria ikusteko, hemen klik egizu"
-
-#~ msgid "Print this page"
-#~ msgstr "Orri hau inprimatu"
-
-#~ msgid "Click for more information"
-#~ msgstr "Informazio gehiagorako, klik egizu"
-
-#~ msgid "No items found"
-#~ msgstr "Ez da itemik aurkitu"
-
-#~ msgid "Related content"
-#~ msgstr "Zerikusia duten edukiak"
-
-#~ msgid "See all related items"
-#~ msgstr "Ikus zerikusia duten item guztiak"
-
-#~ msgid "User tags"
-#~ msgstr "Erabil ezazu"
-
-#, fuzzy
-#~ msgid "Tag added"
-#~ msgstr "Ezin izan da etiketa gehitu"
-
-#~ msgid "Tag addition failed"
-#~ msgstr "Ezin izan da etiketa gehitu"
-
-#~ msgid "Share with a friend"
-#~ msgstr "Lagun batekin parteka ezazu"
-
-#~ msgid "Email address"
-#~ msgstr "Posta elektronikoaren helbidea"
-
-#, fuzzy
-#~ msgid "Email sent"
-#~ msgstr "Posta elektronikoaren helbidea"
-
-#~ msgid "Email could not be sent"
-#~ msgstr "Posta elektronikoa ezin izan da bidali"
-
-#~ msgid "Send"
-#~ msgstr "Soinuak"
-
-#, fuzzy
-#~ msgid "Item saved"
-#~ msgstr "Bilaketa gorde da"
-
-#~ msgid "Save item failed"
-#~ msgstr "Ezin izan da itema gorde"
-
-#~ msgid "Error details"
-#~ msgstr "Objektu baten xehetasun gehiago jakin nahi izanez gero,"
-
-#, fuzzy
-#~ msgid "Return to results"
-#~ msgstr ""
-#~ "Europeanaren bilaketa-koadro nagusiaren azpian dagoen bilaketa aurreratua "
-#~ "esteka"
-
-#~ msgid "More"
-#~ msgstr "edo"
-
-#, fuzzy
-#~ msgid "Items"
-#~ msgstr "Bilaketa gorde da"
-
-#, fuzzy
-#~ msgid "Item details"
-#~ msgstr "Objektu baten xehetasun gehiago jakin nahi izanez gero,"
-
-#~ msgid "View with labels"
-#~ msgstr "Ikusi etiketekin"
-
-#~ msgid "View without labels"
-#~ msgstr "Ikus etiketarik gabe"
-
-#~ msgid "Opens in a new window"
-#~ msgstr "Beste leiho bat zabaltzen du"
-
-#~ msgid "View in original context"
-#~ msgstr "orriaren behealdeko ‘Ikus jatorrizko testuinguruan’ esteka."
-
-#~ msgid "Provider"
-#~ msgstr "Europeana v1.0-ko Edukia Gehitu orrira;"
-
-#, fuzzy
-#~ msgid "Description"
-#~ msgstr "Descartes"
-
-#~ msgid "No saved items"
-#~ msgstr "Itemik ez da gorde "
-
-#~ msgid "No saved searches"
-#~ msgstr ""
-#~ "Europeanaren bilaketa-koadro nagusiaren azpian dagoen bilaketa aurreratua "
-#~ "esteka"
-
-#, fuzzy
-#~ msgid "No saved tags"
-#~ msgstr "Itemik ez da gorde "
-
-#~ msgid "No saved notifications"
-#~ msgstr "Etiketak gorde"
-
-#, fuzzy
-#~ msgid "Date saved"
-#~ msgstr "Bilaketa gorde da"
-
-#, fuzzy
-#~ msgid "Remove"
-#~ msgstr "Erabilera baldintzak"
-
-#, fuzzy
-#~ msgid "Welcome to MyEuropeana"
-#~ msgstr "Nire Europeanan gorde"
-
-#~ msgid "Please click on the following link to confirm your registration"
-#~ msgstr "Mesedez esteka honetan klik egizu zure erregistroa baieztatzeko"
-
-#, fuzzy
-#~ msgid "The Europeana Team"
-#~ msgstr "Europeanaren Erabilera"
-
-#~ msgid "Invalid query"
-#~ msgstr "Eskaera baliogabea"
-
-#~ msgid "This feature is currently disabled."
-#~ msgstr "Eginbide hau desgaituta dago"
-
-#, fuzzy
-#~ msgid "Password"
-#~ msgstr "Pasahitza Errepikatu"
-
-#~ msgid "Remember me on this computer"
-#~ msgstr "Ordenagailu honetan nire izena gogoratu"
-
-#~ msgid "I forgot my password"
-#~ msgstr "Pasahitza ahaztu zait"
-
-#, fuzzy
-#~ msgid "Register"
-#~ msgstr "Berriz erregistratu"
-
-#~ msgid "Register again"
-#~ msgstr "Berriz erregistratu"
-
-#~ msgid ""
-#~ "An error occurred while trying to process your registration. Please try "
-#~ "again"
-#~ msgstr ""
-#~ "Errore bat gertatu da zu erregistratzen ari zinela. Mesedez, saiatu "
-#~ "berriro."
-
-#~ msgid "An email has been sent to the following address"
-#~ msgstr "Mezu bat bidali da helbide honetara"
-
-#~ msgid ""
-#~ "Please follow the link provided in the email and finish the registration "
-#~ "process"
-#~ msgstr ""
-#~ "Mesedez, posta elektronikoan emandako estekari jarraitu eta erregistratze "
-#~ "prozesua burutu"
-
-#~ msgid "Please make sure your email is correctly formatted and try again"
-#~ msgstr ""
-#~ "Mesedez, ziurtatu zure helbidea behar bezala formateatuta dagoela eta "
-#~ "berriro saia zaitez "
-
-#~ msgid "This email is already registered"
-#~ msgstr "Email hau erregistratuta dago jada"
-
-#~ msgid "Create an account"
-#~ msgstr "Kontu bat sortu"
-
-#~ msgid ""
-#~ "The link you used to complete registration is invalid or has expired."
-#~ msgstr ""
-#~ "Erregistratzeko erabili duzun esteka baliogabea da edo iraungita dago"
-
-#~ msgid "Enter your email"
-#~ msgstr "Zure helbide elektronikoa jarri"
-
-#~ msgid ""
-#~ "You will use your email together with your password to log into the site"
-#~ msgstr ""
-#~ "Webgunean sartzeko, zure emaila eta pasahitza erabiliko dituzu batera"
-
-#~ msgid "Your username will be displayed when you have logged in"
-#~ msgstr "Zure erabiltzaile izena sartu ondoren agertuko da."
-
-#, fuzzy
-#~ msgid "Username"
-#~ msgstr "Azken aldaketa"
-
-#~ msgid "is in use. Please choose another username"
-#~ msgstr "hartuta dago. Mesedez, beste erabiltzaile izen bat erabili"
-
-#~ msgid "Choose a username"
-#~ msgstr "Erabiltzaile izen bat hautatu"
-
-#, fuzzy
-#~ msgid "User information"
-#~ msgstr "Informazio gehiagorako, klik egizu"
-
-#~ msgid "Choose a password"
-#~ msgstr "Pasahitz bat aukeratu"
-
-#~ msgid "Passwords must be 6-30 characters in length"
-#~ msgstr "Pasahitzak 6 eta 30 karaktere bitarte izan behar ditu"
-
-#~ msgid "Repeat password"
-#~ msgstr "Pasahitza Errepikatu"
-
-#~ msgid "Finish registration"
-#~ msgstr "Erregistratzea amaitu"
-
-#~ msgid "You have successfully registered"
-#~ msgstr "Ongi erregistratu zara"
-
-#~ msgid "English (eng)"
-#~ msgstr "Ingelesa (eng)"
-
-#~ msgid "Croatian (hrv)"
-#~ msgstr "Kroaziera (hrv)"
-
-#~ msgid "Czech (cze/cse)"
-#~ msgstr "Txekiera (cze/cse)"
-
-#~ msgid "Greek (ell/gre)"
-#~ msgstr "Grekoa (ell/gre)"
-
-#~ msgid "Estonian (est)"
-#~ msgstr "Estoniera (est)"
-
-#~ msgid "Danish (dan)"
-#~ msgstr "Daniera (dan)"
-
-#~ msgid "Dutch (dut)"
-#~ msgstr "Nederlandera (dut)"
-
-#~ msgid "Finnish (fin)"
-#~ msgstr "Suomiera (fin)"
-
-#~ msgid "French (fre)"
-#~ msgstr "Frantsesa (fre)"
-
-#~ msgid "German (deu)"
-#~ msgstr "Alemana (deu)"
-
-#~ msgid "Hungarian (hun)"
-#~ msgstr "Hungariera (hun)"
-
-#~ msgid "Italian (ita)"
-#~ msgstr "Italiera (ita)"
-
-#~ msgid "Latvian (lav)"
-#~ msgstr "Letoniera (lav)"
-
-#~ msgid "Lithuanian (lit)"
-#~ msgstr "Lituania"
-
-#~ msgid "Luxemburgish (ltz)"
-#~ msgstr "Luxenburgera (ltz)"
-
-#~ msgid "Maltese (mlt)"
-#~ msgstr "Maltera (mlt)"
-
-#~ msgid "Norwegian (nor)"
-#~ msgstr "Norvegiera (nor)"
-
-#~ msgid "Polish (pol)"
-#~ msgstr "Poloniera (pol)"
-
-#~ msgid "Portuguese (por)"
-#~ msgstr "Portugesa (por)"
-
-#~ msgid "Romanian (rom)"
-#~ msgstr "Errumaniera (rom)"
-
-#~ msgid "Russian (rus)"
-#~ msgstr "Errusiera (rus)"
-
-#~ msgid "Serbian (scc)"
-#~ msgstr "Serbiera (scc)"
-
-#~ msgid "Slovak (slo)"
-#~ msgstr "Eslovakiera (slo)"
-
-#~ msgid "Slovenian (slv)"
-#~ msgstr "Eslovenia"
-
-#~ msgid "Spanish (esp)"
-#~ msgstr "Gaztelera (esp)"
-
-#~ msgid "Icelandic (ice)"
-#~ msgstr "Islandiera (ice)"
-
-#~ msgid "Swedish (sve/swe)"
-#~ msgstr "Suediera (sve/swe)"
-
-#, fuzzy
-#~ msgid "Ukrainian (ukr)"
-#~ msgstr "Errumaniera (rom)"
-
-#, fuzzy
-#~ msgid "Yiddish (yid)"
-#~ msgstr "Suomiera (fin)"
-
-#, fuzzy
-#~ msgid "Korean (ko)"
-#~ msgstr "Norvegiera (nor)"
-
-#, fuzzy
-#~ msgid "Tibetan (bo)"
-#~ msgstr "Norvegiera (nor)"
-
-#, fuzzy
-#~ msgid "Georgian (ka)"
-#~ msgstr "Serbia"
-
-#, fuzzy
-#~ msgid "Armenian (hy)"
-#~ msgstr "Eslovenia"
-
-#, fuzzy
-#~ msgid "Albanian (sq)"
-#~ msgstr "Eslovenia"
-
-#, fuzzy
-#~ msgid "Breton (br)"
-#~ msgstr "Norvegiera (nor)"
-
-#, fuzzy
-#~ msgid "Akkadian (akk)"
-#~ msgstr "Errumaniera (rom)"
-
-#, fuzzy
-#~ msgid "Egyptian (egy)"
-#~ msgstr "Estoniera (est)"
-
-#, fuzzy
-#~ msgid "Occitan (oc)"
-#~ msgstr "Norvegiera (nor)"
-
-#~ msgid "Other"
-#~ msgstr "Bestelakoak"
-
-#~ msgid "Provenance"
-#~ msgstr "Frantzia"
-
-#, fuzzy
-#~ msgid "Is Part of"
-#~ msgstr "Formulario hau"
-
-#, fuzzy
-#~ msgid "Has part"
-#~ msgstr "Formulario hau"
-
-#~ msgid "Replaces"
-#~ msgstr "Orrietan"
-
-#~ msgid "Has format"
-#~ msgstr "Formulario hau"
-
-#, fuzzy
-#~ msgid "Is format of"
-#~ msgstr "Formulario hau"
-
-#~ msgid "Geographic coverage"
-#~ msgstr "Estaldura geografikoa"
-
-#, fuzzy
-#~ msgid "Publication date"
-#~ msgstr "Abolizioa"
-
-#~ msgid "Author"
-#~ msgstr "Austria"
-
-#, fuzzy
-#~ msgid "Format"
-#~ msgstr "Formulario hau"
-
-#, fuzzy
-#~ msgid "Publisher"
-#~ msgstr "Poloniera (pol)"
-
-#, fuzzy
-#~ msgid "Relation"
-#~ msgstr "Zerikusia duten edukiak"
-
-#~ msgid "Austria"
-#~ msgstr "Austria"
-
-#~ msgid "Croatia"
-#~ msgstr "Letonia"
-
-#~ msgid "Denmark"
-#~ msgstr "Danimarka"
-
-#~ msgid "Finland"
-#~ msgstr "Finlandia"
-
-#~ msgid "France"
-#~ msgstr "Frantzia"
-
-#~ msgid "Germany"
-#~ msgstr "Alemania"
-
-#~ msgid "Italy-Florence"
-#~ msgstr "Italia-Florentzia"
-
-#~ msgid "Italy-Rome"
-#~ msgstr "Italia"
-
-#~ msgid "Ireland"
-#~ msgstr "Irlanda"
-
-#~ msgid "Netherlands"
-#~ msgstr "Herbehereak"
-
-#~ msgid "Portugal"
-#~ msgstr "Portugal"
-
-#~ msgid "Russia - Moscow"
-#~ msgstr "Errusia - Mosku"
-
-#~ msgid "Russia - Saint Petersburg"
-#~ msgstr "Errusia - San Petersburgo"
-
-#~ msgid "Romania"
-#~ msgstr "Errumania"
-
-#~ msgid "Former Yugoslav Republic Of Macedonia"
-#~ msgstr "Iraganeko Mazedoniako Jugoslaviar Errepublika"
-
-#~ msgid "Ukraine"
-#~ msgstr "Frantzia"
-
-#, fuzzy
-#~ msgid "Albania"
-#~ msgstr "Eslovenia"
-
-#~ msgid "Georgia"
-#~ msgstr "Serbia"
-
-#, fuzzy
-#~ msgid "Armenia"
-#~ msgstr "Eslovenia"
-
-#~ msgid "Bosnia and Herzegovina"
-#~ msgstr "Bosnia-Herzegovina"
-
-#~ msgid "Azerbaijan"
-#~ msgstr "Serbia"
-
-#~ msgid "Bulgaria"
-#~ msgstr "Bulgaria"
-
-#~ msgid "Serbia"
-#~ msgstr "Serbia"
-
-#~ msgid "Slovenia"
-#~ msgstr "Eslovenia"
-
-#~ msgid "Switzerland"
-#~ msgstr "Suitza"
-
-#~ msgid "United Kingdom"
-#~ msgstr "Erresuma Batua"
-
-#~ msgid "Czech Republic"
-#~ msgstr "Txekiar Errepublika"
-
-#~ msgid "Cyprus"
-#~ msgstr "Zipre"
-
-#~ msgid "Estonia"
-#~ msgstr "Estonia"
-
-#~ msgid "Latvia"
-#~ msgstr "Letonia"
-
-#~ msgid "Lithuania"
-#~ msgstr "Lituania"
-
-#~ msgid "Hungary"
-#~ msgstr "Hungaria"
-
-#, fuzzy
-#~ msgid "Malta"
-#~ msgstr "Maltera (mlt)"
-
-#~ msgid "Poland"
-#~ msgstr "Polonia"
-
-#~ msgid "Slovakia"
-#~ msgstr "Eslovakia"
-
-#~ msgid "Spain"
-#~ msgstr "Espainia"
-
-#~ msgid "Belgium"
-#~ msgstr "Belgika"
-
-#~ msgid "Iceland"
-#~ msgstr "Islandia"
-
-#~ msgid "Norway"
-#~ msgstr "Norvegia"
-
-#~ msgid "Sweden"
-#~ msgstr "Suedia"
-
-#~ msgid "Luxembourg"
-#~ msgstr "Luxenburgo"
-
-#~ msgid "Greece"
-#~ msgstr "Grezia"
-
-#~ msgid "Subject cloud"
-#~ msgstr "Gai multzoa"
-
-#~ msgid "Did you mean"
-#~ msgstr "Esan nahi zenuen?"
-
-#~ msgid ""
-#~ "Paintings, music, films and books from Europe's galleries, libraries, "
-#~ "archives and museums."
-#~ msgstr ""
-#~ "Europako galeria, liburutegi, agiritegi eta museoetako pinturak, musika, "
-#~ "filmak eta liburuak."
-
-#, fuzzy
-#~ msgid "Data provider"
-#~ msgstr "Europeana v1.0-ko Edukia Gehitu orrira;"
-
-#~ msgid "Europeana rights"
-#~ msgstr "Europeanaren logotipoak"
-
-#~ msgid "Terms of use"
-#~ msgstr "Erabilera baldintzak"
-
-#~ msgid "Timeline view"
-#~ msgstr "Denboran zeharreko nabigatzailea"
-
-#, fuzzy
-#~ msgid "Options"
-#~ msgstr "Abolizioa"
-
-#, fuzzy
-#~ msgid "Create notification for this item"
-#~ msgstr "Etiketak gorde"
-
-#, fuzzy
-#~ msgid ""
-#~ "By using the embed function you accept and agree to the Europeana Terms "
-#~ "of Use"
-#~ msgstr ""
-#~ "Webgunearen gainean dituzun eskubideak baliatzearekin bat, Erabilera "
-#~ "Baldintza hauen mende egotea onartzen eta hitzartzen duzu"
-
-#, fuzzy
-#~ msgid "orientation:"
-#~ msgstr "Zerikusia duten edukiak"
-
-#, fuzzy
-#~ msgid "Refine Search"
-#~ msgstr "Europeanaren logotipoak"
-
-#, fuzzy
-#~ msgid "By Rights"
-#~ msgstr "Beste eskubide batzuk"
-
-#, fuzzy
-#~ msgid "Public Domain"
-#~ msgstr "Abolizioa"
-
-#, fuzzy
-#~ msgid "Search term(s)"
-#~ msgstr "Bilaketa gorde da"
-
-#, fuzzy
-#~ msgid "Search facet"
-#~ msgstr "Bilaketa gorde da"
-
-#, fuzzy
-#~ msgid "Search operator"
-#~ msgstr "Bilaketa gorde da"
-
-#, fuzzy
-#~ msgid "Remote Search Widget"
-#~ msgstr "Europeanaren logotipoak"
-
-#, fuzzy
-#~ msgid "Europeana Search Widget"
-#~ msgstr "Europeanaren logotipoak"
-
-#, fuzzy
-#~ msgid "What is Europeana's remote search widget?"
-#~ msgstr "Europeanaren logotipoak"
-
-#, fuzzy
-#~ msgid "Click 'Generate Code'"
-#~ msgstr "Erabiltzaileek sortutako edukia"
-
-#, fuzzy
-#~ msgid "Background colour"
-#~ msgstr "Testuingurua"
-
-#, fuzzy
-#~ msgid "Default language"
-#~ msgstr "Hizkuntza bat aukeratu"
-
-#, fuzzy
-#~ msgid "Default search term"
-#~ msgstr "Bilaketa gorde da"
-
-#, fuzzy
-#~ msgid "Europeana attribution"
-#~ msgstr "Europeanaren logotipoak"
-
-#, fuzzy
-#~ msgid "Generate Code"
-#~ msgstr "Erabiltzaileek sortutako edukia"
-
-#, fuzzy
-#~ msgid "Powered By Europeana"
-#~ msgstr "Nire Europeana"
-
-#, fuzzy
-#~ msgid "Europeana Blog"
-#~ msgstr "Europeanaren logotipoak"
-
-#, fuzzy
-#~ msgid "Virtual Exhibitions"
-#~ msgstr "Europeanaren logotipoak"
-
-#, fuzzy
-#~ msgid "Place Term"
-#~ msgstr "Orrietan"
-
-#, fuzzy
-#~ msgid "Place Label"
-#~ msgstr "Orrietan"
-
-#, fuzzy
-#~ msgid "Place Broader Term"
-#~ msgstr "Orrietan"
-
-#, fuzzy
-#~ msgid "Place Broader Label"
-#~ msgstr "Orrietan"
-
-#, fuzzy
-#~ msgid "Period Term"
-#~ msgstr "Orrietan"
-
-#, fuzzy
-#~ msgid "Period Label"
-#~ msgstr "Orrietan"
-
-#, fuzzy
-#~ msgid "Period Begin"
-#~ msgstr "Orrietan"
-
-#, fuzzy
-#~ msgid "Period End"
-#~ msgstr "Orrietan"
-
-#, fuzzy
-#~ msgid "Period Broader Term"
-#~ msgstr "Orrietan"
-
-#, fuzzy
-#~ msgid "Period Broader Label"
-#~ msgstr "Orrietan"
-
-#, fuzzy
-#~ msgid "Concept Term"
-#~ msgstr "Orrietan"
-
-#, fuzzy
-#~ msgid "Concept Label"
-#~ msgstr "Orrietan"
-
-#, fuzzy
-#~ msgid "Concept Broader Term"
-#~ msgstr "Orrietan"
-
-#, fuzzy
-#~ msgid "Concept Broader Label"
-#~ msgstr "Orrietan"
-
-#, fuzzy
-#~ msgid "Agent Term"
-#~ msgstr "Orrietan"
-
-#, fuzzy
-#~ msgid "Agent Label"
-#~ msgstr "Orrietan"
-
-#, fuzzy
-#~ msgid "Featured item"
-#~ msgstr "Itemik ez da gorde "
-
-#, fuzzy
-#~ msgid "Europeana@Pinterest"
-#~ msgstr "Europeana - eNews"
-
-#, fuzzy
-#~ msgid "Explore Pinterest"
-#~ msgstr "Europeana - eNews"
-
-#~ msgid "Language Policy"
-#~ msgstr "Hizkuntza politika"
-
-#, fuzzy
-#~ msgid "Press Room"
-#~ msgstr "Prentsa aretoa"
-
-#, fuzzy
-#~ msgid "Pinterest"
-#~ msgstr "Europeana - eNews"
-
-#, fuzzy
-#~ msgid "Filter your search"
-#~ msgstr "Zure helbide elektronikoa jarri"
-
-#, fuzzy
-#~ msgid "Similar items"
-#~ msgstr "Itemik ez da gorde "
-
-#, fuzzy
-#~ msgid "Return to search results"
-#~ msgstr ""
-#~ "Europeanaren bilaketa-koadro nagusiaren azpian dagoen bilaketa aurreratua "
-#~ "esteka"
-
-#, fuzzy
-#~ msgid "Next search result"
-#~ msgstr ""
-#~ "Europeanaren bilaketa-koadro nagusiaren azpian dagoen bilaketa aurreratua "
-#~ "esteka"
-
-#, fuzzy
-#~ msgid "An email has been sent to inform our technical staff"
-#~ msgstr "Mezu bat bidali da helbide honetara"
-
-#, fuzzy
-#~ msgid "Please try another search"
-#~ msgstr "hartuta dago. Mesedez, beste erabiltzaile izen bat erabili"
-
-#, fuzzy
-#~ msgid "The item could not be removed"
-#~ msgstr "Posta elektronikoa ezin izan da bidali"
-
-#, fuzzy
-#~ msgid "See less"
-#~ msgstr "Europeana - Europa irakurriz"
-
-#, fuzzy
-#~ msgid "See more"
-#~ msgstr "Europeana - Europa irakurriz"
-
-#, fuzzy
-#~ msgid "Return to original language"
-#~ msgstr ""
-#~ "Europeanaren bilaketa-koadro nagusiaren azpian dagoen bilaketa aurreratua "
-#~ "esteka"
-
-#, fuzzy
-#~ msgid "Return to timeline"
-#~ msgstr ""
-#~ "Europeanaren bilaketa-koadro nagusiaren azpian dagoen bilaketa aurreratua "
-#~ "esteka"
-
-#, fuzzy
-#~ msgid "Zoom"
-#~ msgstr "Europeanak"
-
-#, fuzzy
-#~ msgid "Zoom in"
-#~ msgstr "Europeanak"
-
-#, fuzzy
-#~ msgid "Zoom out"
-#~ msgstr "Europeanak"
-
-#, fuzzy
-#~ msgid "User contributed content"
-#~ msgstr "Zerikusia duten edukiak"
-
-#, fuzzy
-#~ msgid "Please try another search."
-#~ msgstr "hartuta dago. Mesedez, beste erabiltzaile izen bat erabili"
-
-#, fuzzy
-#~ msgid "Email Address"
-#~ msgstr "Posta elektronikoaren helbidea"
-
-#, fuzzy
-#~ msgid "Featured partner"
-#~ msgstr "Bilaketa gorde da"
-
-#, fuzzy
-#~ msgid "API function"
-#~ msgstr "Abolizioa"
-
-#, fuzzy
-#~ msgid "Search parameters"
-#~ msgstr "Bilaketa gorde da"
-
-#, fuzzy
-#~ msgid "Search term"
-#~ msgstr "Bilaketa gorde da"
-
-#, fuzzy
-#~ msgid "Record parameters"
-#~ msgstr "Bilaketa gorde da"
-
-#, fuzzy
-#~ msgid "Additional parameters"
-#~ msgstr "Bilaketa gorde da"
-
-#, fuzzy
-#~ msgid "Search also for:"
-#~ msgstr "Bilaketa gorde da"
-
-#~ msgid "Who"
-#~ msgstr "Nor"
-
-#~ msgid "What"
-#~ msgstr "Zer"
-
-#, fuzzy
-#~ msgid "Europeana APIs"
-#~ msgstr "Europeana - Galdera ohikoenak (FAQ)"
-
-#, fuzzy
-#~ msgid "Terms of use &amp; Policies"
-#~ msgstr "Baldintzak"
-
-#, fuzzy
-#~ msgid "No API key"
-#~ msgstr "Erabilera baldintzak"
-
-#, fuzzy
-#~ msgid "API key"
-#~ msgstr "Erabilera baldintzak"
-
-#, fuzzy
-#~ msgid "Private key"
-#~ msgstr "Pribatutasuna"
-
-#, fuzzy
-#~ msgid "Your API key is"
-#~ msgstr "Pribatutasuna"
-
-#, fuzzy
-#~ msgid "Your private key is"
-#~ msgstr "Pribatutasuna"
-
-#, fuzzy
-#~ msgid "Remove API key"
-#~ msgstr "Erabilera baldintzak"
-
-#, fuzzy
-#~ msgid "Remove user"
-#~ msgstr "Erabilera baldintzak"
-
-#, fuzzy
-#~ msgid "User name"
-#~ msgstr "Azken aldaketa"
-
-#, fuzzy
-#~ msgid "Registration"
-#~ msgstr "Berriz erregistratu"
-
-#, fuzzy
-#~ msgid "Europeana Exhibitions"
-#~ msgstr "Europeanaren logotipoak"
-
-#, fuzzy
-#~ msgid "Europeana Labs"
-#~ msgstr "Europeanaren logotipoak"
-
-#, fuzzy
-#~ msgid "Address"
-#~ msgstr "Posta elektronikoaren helbidea"
-
-#, fuzzy
-#~ msgid "Date of creation"
-#~ msgstr "Datuen babesa"
-
-#, fuzzy
-#~ msgid "Is part of"
-#~ msgstr "Formulario hau"
-
-#, fuzzy
-#~ msgid "Titles"
-#~ msgstr "Izenburua"
-
-#, fuzzy
-#~ msgid "Places"
-#~ msgstr "Orrietan"
-
-#, fuzzy
-#~ msgid "Dates/Periods"
-#~ msgstr "Bilaketa gorde da"
-
-#, fuzzy
-#~ msgid "Subjects"
-#~ msgstr "Sektorea"
-
-#, fuzzy
-#~ msgid "Creators"
-#~ msgstr "Egilea"
-
-#, fuzzy
-#~ msgid "Featured Item"
-#~ msgstr "Itemik ez da gorde "
-
-#, fuzzy
-#~ msgid "Click here for last page of results"
-#~ msgstr "Emaitzen hurrengo orria ikusteko, hemen klik egizu"
-
-#, fuzzy
-#~ msgid "Please, select"
-#~ msgstr "Bilduma"
-
-#, fuzzy
-#~ msgid "Please try another search later."
-#~ msgstr "hartuta dago. Mesedez, beste erabiltzaile izen bat erabili"
-
-#, fuzzy
-#~ msgid "Please register your email again"
-#~ msgstr "Mesedez, baliozko helbide elektroniko bat jarri"
-
-#, fuzzy
-#~ msgid "to finish registration."
-#~ msgstr "Erregistratzea amaitu"
-
-#, fuzzy
-#~ msgid "Please try another language from the dropdown list."
-#~ msgstr "hartuta dago. Mesedez, beste erabiltzaile izen bat erabili"
-
-#, fuzzy
-#~ msgid "Yes, with attribution"
-#~ msgstr "Europeanaren logotipoak"
-
-#, fuzzy
-#~ msgid "Yes, with restrictions"
-#~ msgstr "Europeanaren logotipoak"
-
-#~ msgid ""
-#~ "It looks like your browser is set to English. Would you also like to use "
-#~ "Europeana in English"
-#~ msgstr ""
-#~ "Bezala zure nabigatzailea euskaraz 'ezarrita badirudi. Litzateke ere "
-#~ "Europeana erabiltzeko euskarazko gustatzen zaizu"
-
-#, fuzzy
-#~ msgid "English"
-#~ msgstr "Ingelesa (eng)"
-
-#, fuzzy
-#~ msgid "Bulgarian"
-#~ msgstr "Bulgaria"
-
-#, fuzzy
-#~ msgid "Danish"
-#~ msgstr "Daniera (dan)"
-
-#, fuzzy
-#~ msgid "German"
-#~ msgstr "Alemania"
-
-#, fuzzy
-#~ msgid "Greek"
-#~ msgstr "Grezia"
-
-#, fuzzy
-#~ msgid "Spanish"
-#~ msgstr "Gaztelera (esp)"
-
-#, fuzzy
-#~ msgid "Estonian"
-#~ msgstr "Estonia"
-
-#, fuzzy
-#~ msgid "French"
-#~ msgstr "Frantsesa (fre)"
-
-#, fuzzy
-#~ msgid "Croatian"
-#~ msgstr "Letonia"
-
-#, fuzzy
-#~ msgid "Icelandic"
-#~ msgstr "Islandia"
-
-#, fuzzy
-#~ msgid "Italian"
-#~ msgstr "Italiera (ita)"
-
-#, fuzzy
-#~ msgid "Lithuanian"
-#~ msgstr "Lituania"
-
-#, fuzzy
-#~ msgid "Latvian"
-#~ msgstr "Letonia"
-
-#, fuzzy
-#~ msgid "Hungarian"
-#~ msgstr "Hungariera (hun)"
-
-#, fuzzy
-#~ msgid "Maltese"
-#~ msgstr "Maltera (mlt)"
-
-#, fuzzy
-#~ msgid "Dutch"
-#~ msgstr "Nederlandera (dut)"
-
-#, fuzzy
-#~ msgid "Norwegian"
-#~ msgstr "Norvegiera (nor)"
-
-#, fuzzy
-#~ msgid "Polish"
-#~ msgstr "Poloniera (pol)"
-
-#, fuzzy
-#~ msgid "Romanian"
-#~ msgstr "Errumania"
-
-#, fuzzy
-#~ msgid "Russian"
-#~ msgstr "Errusiera (rus)"
-
-#, fuzzy
-#~ msgid "Slovene"
-#~ msgstr "Eslovenia"
-
-#, fuzzy
-#~ msgid "Slovak"
-#~ msgstr "Eslovakia"
-
-#, fuzzy
-#~ msgid "Finnish"
-#~ msgstr "Suomiera (fin)"
-
-#, fuzzy
-#~ msgid "Swedish"
-#~ msgstr "Suedia"
-
-#, fuzzy
-#~ msgid "Ukranian"
-#~ msgstr "Frantzia"
-
-#, fuzzy
-#~ msgid "no"
-#~ msgstr "Europeanak"
-
-#, fuzzy
-#~ msgid "Language settings"
-#~ msgstr "Hizkuntza politika"
-
-#, fuzzy
-#~ msgid "Incorrect password."
-#~ msgstr "Pasahitza ahaztu zait"
-
-#, fuzzy
-#~ msgid "Please enter your username."
-#~ msgstr "hartuta dago. Mesedez, beste erabiltzaile izen bat erabili"
-
-#, fuzzy
-#~ msgid "Please enter your password."
-#~ msgstr "hartuta dago. Mesedez, beste erabiltzaile izen bat erabili"
-
-#, fuzzy
-#~ msgid "Clear selection"
-#~ msgstr "Bilduma"
-
-#, fuzzy
-#~ msgid "Request passsword"
-#~ msgstr "Pasahitza Errepikatu"
-
-#, fuzzy
-#~ msgid "Save settings"
-#~ msgstr "Etiketak gorde"
 
 #, fuzzy
 #~ msgid "Visit exhibitions"
