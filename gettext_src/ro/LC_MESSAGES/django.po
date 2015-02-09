@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-09 13:57+0100\n"
+"POT-Creation-Date: 2015-02-09 15:56+0100\n"
 "PO-Revision-Date: 2014-08-05 14:19\n"
 "Last-Translator: <anna.vandenbroek@europeana.eu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -584,7 +584,6 @@ msgid "Europeana - Usage Guidelines for Metadata"
 msgstr "Europeana - Ghidurile de utilizare a metadatelor"
 
 #: templates/rights/metadata-usage-guidelines.html:15
-#: templates/rights/terms-of-use.html:26
 msgid "Europeana Usage Guidelines for Metadata"
 msgstr "Ghidurile Europeana de utilizare a metadatelor"
 
@@ -1245,173 +1244,6 @@ msgstr "Europeana - Condiții pentru Contribuțiile utilizatorilor"
 #: templates/rights/terms-for-user-contributions.html:49
 msgid "Europeana Terms for User Contributions"
 msgstr "Condițiile Europeana pentru Contribuțiile utilizatorilor"
-
-#: templates/rights/terms-of-use.html:4
-msgid "Europeana - Terms of Use"
-msgstr "Europeana - condițiile de utilizare"
-
-#: templates/rights/terms-of-use.html:15
-msgid "Europeana Terms of Use"
-msgstr "Condițiile de utilizare Europeana"
-
-#: templates/rights/terms-of-use.html:18
-msgid ""
-"The Europeana.eu website is run by the Europeana Foundation and gives access "
-"to a wide range of digitised cultural heritage from across Europe and "
-"beyond. This material is provided to Europeana by a large number of "
-"contributing institutions and organisations. Europeana strives to make all "
-"resources on this website available for re-use. As part of this, all "
-"metadata (textual information on digitised cultural heritage) on the site "
-"are published without any restrictions on re-use. Most other material, such "
-"as the previews to digitised cultural heritage, is clearly labelled with "
-"rights statements that indicate if and under which conditions it can be re-"
-"used."
-msgstr ""
-"Saitul Europeana.eu este administrat de către Fundația Europeana și oferă "
-"acces la o mare varritate de patrimoniu cultural digitizat, din întreaga "
-"Europă și nu numai. Acest material este furnizat către Europeana de un mare "
-"număr de instituții și organizații. Europeana se străduiește să facă toate "
-"resursele de pe acest sait disponibile pentru reutilizare. Ca atare, toate "
-"metadatele (informații textuale despre patrimoniul cultural digitizat) "
-"disponibile pe sait sunt publicate fără restricții de reutilizare. Cea mai "
-"mare parte a restului materialului — cum ar fi previzualizările — sunt clar "
-"etichetate cu enunțurile privind drepturile intelectuale, care indică dacă "
-"și în ce condiții acestea sunt reutilizabile. "
-
-#: templates/rights/terms-of-use.html:21
-msgid "Metadata"
-msgstr "Metadate"
-
-#: templates/rights/terms-of-use.html:26
-msgid ""
-"All metadata available on europeana.eu are published free of restrictions, "
-"under the terms of the"
-msgstr ""
-"Toate metadatele disponibile pe europeana.eu sunt publicate fără restricții, "
-"în termenii"
-
-#: templates/rights/terms-of-use.html:26
-msgid ""
-"However if you re-use data published by Europeana, we encourage you to "
-"follow the"
-msgstr ""
-"Cu toate acestea, dacă reutilizați date publicate de Europeana, vă sugerăm "
-"să urmați"
-
-#: templates/rights/terms-of-use.html:26
-msgid "and to provide attribution to the data sources whenever possible"
-msgstr ""
-"și să furnizați atribuirea surselor de date, ori de câte ori este posibil"
-
-#: templates/rights/terms-of-use.html:31
-msgid "Previews"
-msgstr "Previzualizări"
-
-#: templates/rights/terms-of-use.html:34
-msgid ""
-"The previews that are shown on Europeana.eu can only be used in accordance "
-"with the rights information displayed alongside them (the badges underneath "
-"the previews). If there is no rights information displayed alongside a "
-"preview, these previews may only be used in accordance with the applicable "
-"copyright laws. However, in the latter event, please refer to the website of "
-"the data provider to find out whether other types of use are also allowed."
-msgstr ""
-"Previzualizările care sunt expuse pe europeana.eu pot fi folosite doar "
-"conform cu enunțurile privind drepturile intelectuale afișate alături de ele "
-"(legendele de sub previzualizări). Dacă nu există informații afișate alături "
-"de o previzualizare, aceasta poate fi folosită doar în cnformitate cu legea "
-"drepturilor de autor aplicabilă. Totuși, în acest din urmă caz, vă rugăm să "
-"consultați saiturile furnizorilor de date, pentru a afla ce alte tipuri de "
-"reutilizări sunt permise."
-
-#: templates/rights/terms-of-use.html:37
-msgid "Notice and Takedown"
-msgstr ""
-
-#: templates/rights/terms-of-use.html:40
-msgid ""
-"Europeana is not the owner of the copyrights to the metadata, the previews "
-"or the digitised cultural heritage to which these metadata or previews "
-"refer. This information has been provided to Europeana by a large number of "
-"contributing institutions and organisations. These data providers have "
-"ensured Europeana that the owners of these rights have agreed to the "
-"publication of their works under the applicable conditions as referred to "
-"above. However, the Europeana Foundation cannot guarantee that this is "
-"always correct. If you think that anything published on Europeana.eu "
-"infringes your rights, you may report this to Europeana by emailing"
-msgstr ""
-
-#: templates/rights/terms-of-use.html:43
-msgid "Liability Disclaimer"
-msgstr ""
-
-#: templates/rights/terms-of-use.html:45
-#, fuzzy
-msgid ""
-"Europeana does not guarantee the accuracy or completeness of the website and "
-"its content."
-msgstr ""
-"Fundația Europeana nu garantează acuratețea sau completitudinea Saitului şi "
-"a conţinutului său"
-
-#: templates/rights/terms-of-use.html:48
-#, fuzzy
-msgid ""
-"Except to the extent required by applicable law, in no event will Europeana "
-"be liable on any legal theory for any special, incidental, consequential, "
-"punitive or exemplary damages arising out of the use of the website or its "
-"content. In particular, it will not be liable for the following:"
-msgstr ""
-"Cu excepția cazurilor prevăzute de lege, Fundația Europeana nu va fi ținută "
-"răspunzatoare în nicio situație, conform niciunei doctrine juridice, de "
-"acoperirea oricaror prejudicii sau daune speciale, indirecte, cominatorii în "
-"legătură cu această licență sau cu utilizarea Saitului sau a continuțului "
-"acestuia. În special, aceasta nu va fi responsabilă pentru următoarele"
-
-#: templates/rights/terms-of-use.html:52
-#, fuzzy
-msgid "Accuracy, completeness, etc. of the website or its content;"
-msgstr "Acurateţea, completitudinea etc. Saitului sau a conţinutului său"
-
-#: templates/rights/terms-of-use.html:53
-msgid ""
-"Any infringement of privacy, publicity or other rights, including "
-"infringement of copyrights to metadata, previews or other content made "
-"available on Europeana.eu under conditions that were not approved by the "
-"right holder;"
-msgstr ""
-
-#: templates/rights/terms-of-use.html:54
-#, fuzzy
-msgid ""
-"Any use by third parties that goes beyond the rights expressed in these "
-"terms of use."
-msgstr ""
-"Orice utilizare de către terţi care merge dincolo de drepturile exprimate în "
-"aceste Condiţii de Utilizare"
-
-#: templates/rights/terms-of-use.html:57
-#, fuzzy
-msgid "These terms of use"
-msgstr "Condiții de Utilizare"
-
-#: templates/rights/terms-of-use.html:59
-msgid ""
-"These terms of use do not pertain to the metadata, previews and other "
-"content of virtual exhibitions offered by Europeana on"
-msgstr ""
-
-#: templates/rights/terms-of-use.html:62
-msgid ""
-"By exercising any rights to the website or its content on grounds of these "
-"terms of use, you accept and agree to be bound to these terms of use. "
-"Europeana reserves the right to amend these terms of use."
-msgstr ""
-
-#: templates/rights/terms-of-use.html:65
-#, fuzzy
-msgid "These terms of use are governed by the laws of The Netherlands."
-msgstr "Aceste Condiţii de Utilizare sunt guvernate de legea olandeză"
 
 #: templates/static_pages/aboutus.html:4
 msgid "Europeana - About us"
@@ -6430,6 +6262,120 @@ msgid ""
 "We would love to know how you are using this search widget, please tell us "
 "by dropping us an email at"
 msgstr ""
+
+#~ msgid "Europeana - Terms of Use"
+#~ msgstr "Europeana - condițiile de utilizare"
+
+#~ msgid "Europeana Terms of Use"
+#~ msgstr "Condițiile de utilizare Europeana"
+
+#~ msgid ""
+#~ "The Europeana.eu website is run by the Europeana Foundation and gives "
+#~ "access to a wide range of digitised cultural heritage from across Europe "
+#~ "and beyond. This material is provided to Europeana by a large number of "
+#~ "contributing institutions and organisations. Europeana strives to make "
+#~ "all resources on this website available for re-use. As part of this, all "
+#~ "metadata (textual information on digitised cultural heritage) on the site "
+#~ "are published without any restrictions on re-use. Most other material, "
+#~ "such as the previews to digitised cultural heritage, is clearly labelled "
+#~ "with rights statements that indicate if and under which conditions it can "
+#~ "be re-used."
+#~ msgstr ""
+#~ "Saitul Europeana.eu este administrat de către Fundația Europeana și oferă "
+#~ "acces la o mare varritate de patrimoniu cultural digitizat, din întreaga "
+#~ "Europă și nu numai. Acest material este furnizat către Europeana de un "
+#~ "mare număr de instituții și organizații. Europeana se străduiește să facă "
+#~ "toate resursele de pe acest sait disponibile pentru reutilizare. Ca "
+#~ "atare, toate metadatele (informații textuale despre patrimoniul cultural "
+#~ "digitizat) disponibile pe sait sunt publicate fără restricții de "
+#~ "reutilizare. Cea mai mare parte a restului materialului — cum ar fi "
+#~ "previzualizările — sunt clar etichetate cu enunțurile privind drepturile "
+#~ "intelectuale, care indică dacă și în ce condiții acestea sunt "
+#~ "reutilizabile. "
+
+#~ msgid "Metadata"
+#~ msgstr "Metadate"
+
+#~ msgid ""
+#~ "All metadata available on europeana.eu are published free of "
+#~ "restrictions, under the terms of the"
+#~ msgstr ""
+#~ "Toate metadatele disponibile pe europeana.eu sunt publicate fără "
+#~ "restricții, în termenii"
+
+#~ msgid ""
+#~ "However if you re-use data published by Europeana, we encourage you to "
+#~ "follow the"
+#~ msgstr ""
+#~ "Cu toate acestea, dacă reutilizați date publicate de Europeana, vă "
+#~ "sugerăm să urmați"
+
+#~ msgid "and to provide attribution to the data sources whenever possible"
+#~ msgstr ""
+#~ "și să furnizați atribuirea surselor de date, ori de câte ori este posibil"
+
+#~ msgid "Previews"
+#~ msgstr "Previzualizări"
+
+#~ msgid ""
+#~ "The previews that are shown on Europeana.eu can only be used in "
+#~ "accordance with the rights information displayed alongside them (the "
+#~ "badges underneath the previews). If there is no rights information "
+#~ "displayed alongside a preview, these previews may only be used in "
+#~ "accordance with the applicable copyright laws. However, in the latter "
+#~ "event, please refer to the website of the data provider to find out "
+#~ "whether other types of use are also allowed."
+#~ msgstr ""
+#~ "Previzualizările care sunt expuse pe europeana.eu pot fi folosite doar "
+#~ "conform cu enunțurile privind drepturile intelectuale afișate alături de "
+#~ "ele (legendele de sub previzualizări). Dacă nu există informații afișate "
+#~ "alături de o previzualizare, aceasta poate fi folosită doar în "
+#~ "cnformitate cu legea drepturilor de autor aplicabilă. Totuși, în acest "
+#~ "din urmă caz, vă rugăm să consultați saiturile furnizorilor de date, "
+#~ "pentru a afla ce alte tipuri de reutilizări sunt permise."
+
+#, fuzzy
+#~ msgid ""
+#~ "Europeana does not guarantee the accuracy or completeness of the website "
+#~ "and its content."
+#~ msgstr ""
+#~ "Fundația Europeana nu garantează acuratețea sau completitudinea Saitului "
+#~ "şi a conţinutului său"
+
+#, fuzzy
+#~ msgid ""
+#~ "Except to the extent required by applicable law, in no event will "
+#~ "Europeana be liable on any legal theory for any special, incidental, "
+#~ "consequential, punitive or exemplary damages arising out of the use of "
+#~ "the website or its content. In particular, it will not be liable for the "
+#~ "following:"
+#~ msgstr ""
+#~ "Cu excepția cazurilor prevăzute de lege, Fundația Europeana nu va fi "
+#~ "ținută răspunzatoare în nicio situație, conform niciunei doctrine "
+#~ "juridice, de acoperirea oricaror prejudicii sau daune speciale, "
+#~ "indirecte, cominatorii în legătură cu această licență sau cu utilizarea "
+#~ "Saitului sau a continuțului acestuia. În special, aceasta nu va fi "
+#~ "responsabilă pentru următoarele"
+
+#, fuzzy
+#~ msgid "Accuracy, completeness, etc. of the website or its content;"
+#~ msgstr "Acurateţea, completitudinea etc. Saitului sau a conţinutului său"
+
+#, fuzzy
+#~ msgid ""
+#~ "Any use by third parties that goes beyond the rights expressed in these "
+#~ "terms of use."
+#~ msgstr ""
+#~ "Orice utilizare de către terţi care merge dincolo de drepturile exprimate "
+#~ "în aceste Condiţii de Utilizare"
+
+#, fuzzy
+#~ msgid "These terms of use"
+#~ msgstr "Condiții de Utilizare"
+
+#, fuzzy
+#~ msgid "These terms of use are governed by the laws of The Netherlands."
+#~ msgstr "Aceste Condiţii de Utilizare sunt guvernate de legea olandeză"
 
 #, fuzzy
 #~ msgid "Follow now"
