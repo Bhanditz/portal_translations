@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-09 15:56+0100\n"
+"POT-Creation-Date: 2015-02-09 16:29+0100\n"
 "PO-Revision-Date: 2014-08-05 13:28\n"
 "Last-Translator: <jacob.lundqvist@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -579,6 +579,7 @@ msgid "Europeana - Usage Guidelines for Metadata"
 msgstr "Europeana - Linji Gwida tal-Użu għall-Metadejta"
 
 #: templates/rights/metadata-usage-guidelines.html:15
+#: templates/rights/terms-of-use.html:26
 msgid "Europeana Usage Guidelines for Metadata"
 msgstr "Linji Gwida tal-Użu għall-Metadejta tal-Europeana"
 
@@ -1208,6 +1209,156 @@ msgstr "Termini għall-Kontribuzzjonijiet tal-Utent"
 #, fuzzy
 msgid "Europeana Terms for User Contributions"
 msgstr "Termini għall-Kontribuzzjonijiet tal-Utent"
+
+#: templates/rights/terms-of-use.html:4
+#, fuzzy
+msgid "Europeana - Terms of Use"
+msgstr "Termini tal-Użu API - Europeana"
+
+#: templates/rights/terms-of-use.html:15
+#, fuzzy
+msgid "Europeana Terms of Use"
+msgstr "Termini tal-Użu API Europeana"
+
+#: templates/rights/terms-of-use.html:18
+msgid ""
+"The Europeana.eu website is run by the Europeana Foundation and gives access "
+"to a wide range of digitised cultural heritage from across Europe and "
+"beyond. This material is provided to Europeana by a large number of "
+"contributing institutions and organisations. Europeana strives to make all "
+"resources on this website available for re-use. As part of this, all "
+"metadata (textual information on digitised cultural heritage) on the site "
+"are published without any restrictions on re-use. Most other material, such "
+"as the previews to digitised cultural heritage, is clearly labelled with "
+"rights statements that indicate if and under which conditions it can be re-"
+"used."
+msgstr ""
+
+#: templates/rights/terms-of-use.html:21
+msgid "Metadata"
+msgstr ""
+
+#: templates/rights/terms-of-use.html:26
+#, fuzzy
+msgid ""
+"All metadata available on europeana.eu are published free of restrictions, "
+"under the terms of the"
+msgstr ""
+"Il-metadejta kollha ppubblikata minn Europeana hi disponibbli mingħajr "
+"restrizzjonijiet taħt il-"
+
+#: templates/rights/terms-of-use.html:26
+msgid ""
+"However if you re-use data published by Europeana, we encourage you to "
+"follow the"
+msgstr ""
+
+#: templates/rights/terms-of-use.html:26
+msgid "and to provide attribution to the data sources whenever possible"
+msgstr ""
+
+#: templates/rights/terms-of-use.html:31
+msgid "Previews"
+msgstr ""
+
+#: templates/rights/terms-of-use.html:34
+msgid ""
+"The previews that are shown on Europeana.eu can only be used in accordance "
+"with the rights information displayed alongside them (the badges underneath "
+"the previews). If there is no rights information displayed alongside a "
+"preview, these previews may only be used in accordance with the applicable "
+"copyright laws. However, in the latter event, please refer to the website of "
+"the data provider to find out whether other types of use are also allowed."
+msgstr ""
+
+#: templates/rights/terms-of-use.html:37
+msgid "Notice and Takedown"
+msgstr ""
+
+#: templates/rights/terms-of-use.html:40
+msgid ""
+"Europeana is not the owner of the copyrights to the metadata, the previews "
+"or the digitised cultural heritage to which these metadata or previews "
+"refer. This information has been provided to Europeana by a large number of "
+"contributing institutions and organisations. These data providers have "
+"ensured Europeana that the owners of these rights have agreed to the "
+"publication of their works under the applicable conditions as referred to "
+"above. However, the Europeana Foundation cannot guarantee that this is "
+"always correct. If you think that anything published on Europeana.eu "
+"infringes your rights, you may report this to Europeana by emailing"
+msgstr ""
+
+#: templates/rights/terms-of-use.html:43
+msgid "Liability Disclaimer"
+msgstr ""
+
+#: templates/rights/terms-of-use.html:45
+#, fuzzy
+msgid ""
+"Europeana does not guarantee the accuracy or completeness of the website and "
+"its content."
+msgstr ""
+"Europeana Fondazzjoni ma taċċertax l-eżattezza jew kompletezza tal-websajt u "
+"l-kontenut tagħha"
+
+#: templates/rights/terms-of-use.html:48
+#, fuzzy
+msgid ""
+"Except to the extent required by applicable law, in no event will Europeana "
+"be liable on any legal theory for any special, incidental, consequential, "
+"punitive or exemplary damages arising out of the use of the website or its "
+"content. In particular, it will not be liable for the following:"
+msgstr ""
+"Ħlief safejn meħtieġ mill-liġi applikabbli, fl-ebda każ il-Fondazzjoni "
+"Europeana m'hi ħa tidħol responsabbli fuq kwalunkwe teorija legali għal xi "
+"danni speċjali, inċidentali, konsegwenzjali, punittivi jew eżemplari li "
+"jirriżultaw minn din il-liċenzja jew l-użu tal-Websajt u l-kontenut tagħha. "
+"B'mod partikolari, mhux se tkun responsabbli għal dan li ġej"
+
+#: templates/rights/terms-of-use.html:52
+#, fuzzy
+msgid "Accuracy, completeness, etc. of the website or its content;"
+msgstr "Eżattezza, kompletezza, eċċ. tal-Websajt jew tal-kontenut tagħha"
+
+#: templates/rights/terms-of-use.html:53
+msgid ""
+"Any infringement of privacy, publicity or other rights, including "
+"infringement of copyrights to metadata, previews or other content made "
+"available on Europeana.eu under conditions that were not approved by the "
+"right holder;"
+msgstr ""
+
+#: templates/rights/terms-of-use.html:54
+#, fuzzy
+msgid ""
+"Any use by third parties that goes beyond the rights expressed in these "
+"terms of use."
+msgstr ""
+"Kwalunkwe użu minn partijiet terzi li tmur lil hinn mill-jeddijiet espressi "
+"f'dawn it-Termini ta' Użu"
+
+#: templates/rights/terms-of-use.html:57
+#, fuzzy
+msgid "These terms of use"
+msgstr "Termini ta' użu"
+
+#: templates/rights/terms-of-use.html:59
+msgid ""
+"These terms of use do not pertain to the metadata, previews and other "
+"content of virtual exhibitions offered by Europeana on"
+msgstr ""
+
+#: templates/rights/terms-of-use.html:62
+msgid ""
+"By exercising any rights to the website or its content on grounds of these "
+"terms of use, you accept and agree to be bound to these terms of use. "
+"Europeana reserves the right to amend these terms of use."
+msgstr ""
+
+#: templates/rights/terms-of-use.html:65
+#, fuzzy
+msgid "These terms of use are governed by the laws of The Netherlands."
+msgstr "Dawn it-Termini ta' Użu huma rregolati mill-liġijiet tal-Olanda"
 
 #: templates/static_pages/aboutus.html:4
 msgid "Europeana - About us"
@@ -6222,64 +6373,6 @@ msgid ""
 "We would love to know how you are using this search widget, please tell us "
 "by dropping us an email at"
 msgstr ""
-
-#, fuzzy
-#~ msgid "Europeana - Terms of Use"
-#~ msgstr "Termini tal-Użu API - Europeana"
-
-#, fuzzy
-#~ msgid "Europeana Terms of Use"
-#~ msgstr "Termini tal-Użu API Europeana"
-
-#, fuzzy
-#~ msgid ""
-#~ "All metadata available on europeana.eu are published free of "
-#~ "restrictions, under the terms of the"
-#~ msgstr ""
-#~ "Il-metadejta kollha ppubblikata minn Europeana hi disponibbli mingħajr "
-#~ "restrizzjonijiet taħt il-"
-
-#, fuzzy
-#~ msgid ""
-#~ "Europeana does not guarantee the accuracy or completeness of the website "
-#~ "and its content."
-#~ msgstr ""
-#~ "Europeana Fondazzjoni ma taċċertax l-eżattezza jew kompletezza tal-"
-#~ "websajt u l-kontenut tagħha"
-
-#, fuzzy
-#~ msgid ""
-#~ "Except to the extent required by applicable law, in no event will "
-#~ "Europeana be liable on any legal theory for any special, incidental, "
-#~ "consequential, punitive or exemplary damages arising out of the use of "
-#~ "the website or its content. In particular, it will not be liable for the "
-#~ "following:"
-#~ msgstr ""
-#~ "Ħlief safejn meħtieġ mill-liġi applikabbli, fl-ebda każ il-Fondazzjoni "
-#~ "Europeana m'hi ħa tidħol responsabbli fuq kwalunkwe teorija legali għal "
-#~ "xi danni speċjali, inċidentali, konsegwenzjali, punittivi jew eżemplari "
-#~ "li jirriżultaw minn din il-liċenzja jew l-użu tal-Websajt u l-kontenut "
-#~ "tagħha. B'mod partikolari, mhux se tkun responsabbli għal dan li ġej"
-
-#, fuzzy
-#~ msgid "Accuracy, completeness, etc. of the website or its content;"
-#~ msgstr "Eżattezza, kompletezza, eċċ. tal-Websajt jew tal-kontenut tagħha"
-
-#, fuzzy
-#~ msgid ""
-#~ "Any use by third parties that goes beyond the rights expressed in these "
-#~ "terms of use."
-#~ msgstr ""
-#~ "Kwalunkwe użu minn partijiet terzi li tmur lil hinn mill-jeddijiet "
-#~ "espressi f'dawn it-Termini ta' Użu"
-
-#, fuzzy
-#~ msgid "These terms of use"
-#~ msgstr "Termini ta' użu"
-
-#, fuzzy
-#~ msgid "These terms of use are governed by the laws of The Netherlands."
-#~ msgstr "Dawn it-Termini ta' Użu huma rregolati mill-liġijiet tal-Olanda"
 
 #, fuzzy
 #~ msgid "Follow now"

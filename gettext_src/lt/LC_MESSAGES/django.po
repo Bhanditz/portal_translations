@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-09 15:56+0100\n"
+"POT-Creation-Date: 2015-02-09 16:29+0100\n"
 "PO-Revision-Date: 2014-08-05 13:26\n"
 "Last-Translator: <jacob.lundqvist@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -587,6 +587,7 @@ msgid "Europeana - Usage Guidelines for Metadata"
 msgstr "Spustelėkite, jei norite grįžti į Europeanos pirmąjį puslapį"
 
 #: templates/rights/metadata-usage-guidelines.html:15
+#: templates/rights/terms-of-use.html:26
 #, fuzzy
 msgid "Europeana Usage Guidelines for Metadata"
 msgstr "Spustelėkite, jei norite grįžti į Europeanos pirmąjį puslapį"
@@ -1181,6 +1182,156 @@ msgstr "Europeana - Skaitant Europą"
 #: templates/rights/terms-for-user-contributions.html:49
 msgid "Europeana Terms for User Contributions"
 msgstr "Europeana - Skaitant Europą"
+
+#: templates/rights/terms-of-use.html:4
+#, fuzzy
+msgid "Europeana - Terms of Use"
+msgstr "Europeana - Naudojimo sąlygos"
+
+#: templates/rights/terms-of-use.html:15
+#, fuzzy
+msgid "Europeana Terms of Use"
+msgstr "Europeana - Naudojimo sąlygos"
+
+#: templates/rights/terms-of-use.html:18
+msgid ""
+"The Europeana.eu website is run by the Europeana Foundation and gives access "
+"to a wide range of digitised cultural heritage from across Europe and "
+"beyond. This material is provided to Europeana by a large number of "
+"contributing institutions and organisations. Europeana strives to make all "
+"resources on this website available for re-use. As part of this, all "
+"metadata (textual information on digitised cultural heritage) on the site "
+"are published without any restrictions on re-use. Most other material, such "
+"as the previews to digitised cultural heritage, is clearly labelled with "
+"rights statements that indicate if and under which conditions it can be re-"
+"used."
+msgstr ""
+
+#: templates/rights/terms-of-use.html:21
+msgid "Metadata"
+msgstr ""
+
+#: templates/rights/terms-of-use.html:26
+msgid ""
+"All metadata available on europeana.eu are published free of restrictions, "
+"under the terms of the"
+msgstr ""
+
+#: templates/rights/terms-of-use.html:26
+msgid ""
+"However if you re-use data published by Europeana, we encourage you to "
+"follow the"
+msgstr ""
+
+#: templates/rights/terms-of-use.html:26
+msgid "and to provide attribution to the data sources whenever possible"
+msgstr ""
+
+#: templates/rights/terms-of-use.html:31
+msgid "Previews"
+msgstr ""
+
+#: templates/rights/terms-of-use.html:34
+msgid ""
+"The previews that are shown on Europeana.eu can only be used in accordance "
+"with the rights information displayed alongside them (the badges underneath "
+"the previews). If there is no rights information displayed alongside a "
+"preview, these previews may only be used in accordance with the applicable "
+"copyright laws. However, in the latter event, please refer to the website of "
+"the data provider to find out whether other types of use are also allowed."
+msgstr ""
+
+#: templates/rights/terms-of-use.html:37
+msgid "Notice and Takedown"
+msgstr ""
+
+#: templates/rights/terms-of-use.html:40
+msgid ""
+"Europeana is not the owner of the copyrights to the metadata, the previews "
+"or the digitised cultural heritage to which these metadata or previews "
+"refer. This information has been provided to Europeana by a large number of "
+"contributing institutions and organisations. These data providers have "
+"ensured Europeana that the owners of these rights have agreed to the "
+"publication of their works under the applicable conditions as referred to "
+"above. However, the Europeana Foundation cannot guarantee that this is "
+"always correct. If you think that anything published on Europeana.eu "
+"infringes your rights, you may report this to Europeana by emailing"
+msgstr ""
+
+#: templates/rights/terms-of-use.html:43
+msgid "Liability Disclaimer"
+msgstr ""
+
+#: templates/rights/terms-of-use.html:45
+#, fuzzy
+msgid ""
+"Europeana does not guarantee the accuracy or completeness of the website and "
+"its content."
+msgstr ""
+"Europos skaitmeninės bibliotekos fondas negarantuoja šios Svetainės ir jos "
+"turinio tikslumo ir išsamumo"
+
+#: templates/rights/terms-of-use.html:48
+#, fuzzy
+msgid ""
+"Except to the extent required by applicable law, in no event will Europeana "
+"be liable on any legal theory for any special, incidental, consequential, "
+"punitive or exemplary damages arising out of the use of the website or its "
+"content. In particular, it will not be liable for the following:"
+msgstr ""
+"Išskyrus tiek, kiek reikalauja galiojantys įstatymai, Europos skaitmeninės "
+"bibliotekos fondas jokiu atveju neatsako pagal jokią teisės teoriją už jokią "
+"atskirą, atsitiktinę, logiškai išplaukiančią, baudžiamąją ar įspėjamąją "
+"žalą, atsirandančią dėl leidimo naudoti ar naudojimosi šia Svetaine ir jos "
+"turiniu. Konkrečiai jis neatsako už"
+
+#: templates/rights/terms-of-use.html:52
+#, fuzzy
+msgid "Accuracy, completeness, etc. of the website or its content;"
+msgstr "Svetainės ar jos turinio tikslumą, išsamumą ir t.t"
+
+#: templates/rights/terms-of-use.html:53
+msgid ""
+"Any infringement of privacy, publicity or other rights, including "
+"infringement of copyrights to metadata, previews or other content made "
+"available on Europeana.eu under conditions that were not approved by the "
+"right holder;"
+msgstr ""
+
+#: templates/rights/terms-of-use.html:54
+#, fuzzy
+msgid ""
+"Any use by third parties that goes beyond the rights expressed in these "
+"terms of use."
+msgstr ""
+"Bet kokį trečiųjų šalių naudojimą, kuris išeina iš šiomis Naudojimo "
+"sąlygomis nustatytų teisių ribų"
+
+#: templates/rights/terms-of-use.html:57
+#, fuzzy
+msgid "These terms of use"
+msgstr "Naudojimo sąlygų laikymasis"
+
+#: templates/rights/terms-of-use.html:59
+msgid ""
+"These terms of use do not pertain to the metadata, previews and other "
+"content of virtual exhibitions offered by Europeana on"
+msgstr ""
+
+#: templates/rights/terms-of-use.html:62
+#, fuzzy
+msgid ""
+"By exercising any rights to the website or its content on grounds of these "
+"terms of use, you accept and agree to be bound to these terms of use. "
+"Europeana reserves the right to amend these terms of use."
+msgstr ""
+"Naudodamiesi bet kuriomis teisėmis į Svetainę šių Naudojimo sąlygų pagrindu, "
+"jūs priimate ir sutinkate su šiose Naudojimo sąlygose numatytais apribojimais"
+
+#: templates/rights/terms-of-use.html:65
+#, fuzzy
+msgid "These terms of use are governed by the laws of The Netherlands."
+msgstr "Šios Naudojimo sąlygos vadovaujasi Nyderlandų įstatymais"
 
 #: templates/static_pages/aboutus.html:4
 msgid "Europeana - About us"
@@ -6165,66 +6316,6 @@ msgid ""
 "We would love to know how you are using this search widget, please tell us "
 "by dropping us an email at"
 msgstr ""
-
-#, fuzzy
-#~ msgid "Europeana - Terms of Use"
-#~ msgstr "Europeana - Naudojimo sąlygos"
-
-#, fuzzy
-#~ msgid "Europeana Terms of Use"
-#~ msgstr "Europeana - Naudojimo sąlygos"
-
-#, fuzzy
-#~ msgid ""
-#~ "Europeana does not guarantee the accuracy or completeness of the website "
-#~ "and its content."
-#~ msgstr ""
-#~ "Europos skaitmeninės bibliotekos fondas negarantuoja šios Svetainės ir "
-#~ "jos turinio tikslumo ir išsamumo"
-
-#, fuzzy
-#~ msgid ""
-#~ "Except to the extent required by applicable law, in no event will "
-#~ "Europeana be liable on any legal theory for any special, incidental, "
-#~ "consequential, punitive or exemplary damages arising out of the use of "
-#~ "the website or its content. In particular, it will not be liable for the "
-#~ "following:"
-#~ msgstr ""
-#~ "Išskyrus tiek, kiek reikalauja galiojantys įstatymai, Europos "
-#~ "skaitmeninės bibliotekos fondas jokiu atveju neatsako pagal jokią teisės "
-#~ "teoriją už jokią atskirą, atsitiktinę, logiškai išplaukiančią, "
-#~ "baudžiamąją ar įspėjamąją žalą, atsirandančią dėl leidimo naudoti ar "
-#~ "naudojimosi šia Svetaine ir jos turiniu. Konkrečiai jis neatsako už"
-
-#, fuzzy
-#~ msgid "Accuracy, completeness, etc. of the website or its content;"
-#~ msgstr "Svetainės ar jos turinio tikslumą, išsamumą ir t.t"
-
-#, fuzzy
-#~ msgid ""
-#~ "Any use by third parties that goes beyond the rights expressed in these "
-#~ "terms of use."
-#~ msgstr ""
-#~ "Bet kokį trečiųjų šalių naudojimą, kuris išeina iš šiomis Naudojimo "
-#~ "sąlygomis nustatytų teisių ribų"
-
-#, fuzzy
-#~ msgid "These terms of use"
-#~ msgstr "Naudojimo sąlygų laikymasis"
-
-#, fuzzy
-#~ msgid ""
-#~ "By exercising any rights to the website or its content on grounds of "
-#~ "these terms of use, you accept and agree to be bound to these terms of "
-#~ "use. Europeana reserves the right to amend these terms of use."
-#~ msgstr ""
-#~ "Naudodamiesi bet kuriomis teisėmis į Svetainę šių Naudojimo sąlygų "
-#~ "pagrindu, jūs priimate ir sutinkate su šiose Naudojimo sąlygose "
-#~ "numatytais apribojimais"
-
-#, fuzzy
-#~ msgid "These terms of use are governed by the laws of The Netherlands."
-#~ msgstr "Šios Naudojimo sąlygos vadovaujasi Nyderlandų įstatymais"
 
 #, fuzzy
 #~ msgid "Visit exhibitions"
