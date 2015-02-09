@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-30 11:11+0100\n"
+"POT-Creation-Date: 2015-02-09 13:57+0100\n"
 "PO-Revision-Date: 2015-01-30 10:05\n"
 "Last-Translator: <dean.birkett@kb.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2787,8 +2787,9 @@ msgid "Sanskrit (sa)"
 msgstr ""
 
 #: templates/static_pages/prop_file.html:220
+#, fuzzy
 msgid "Tibetan (bo)"
-msgstr ""
+msgstr "Noruego (nor)"
 
 #: templates/static_pages/prop_file.html:221
 msgid "Khmer (km)"
@@ -4067,14 +4068,6 @@ msgstr "Cita de Wikipedia"
 msgid "Copy and paste the wiki-markup below:"
 msgstr "Copie y pegue el marcador wiki que figura abajo:"
 
-#: templates/static_pages/prop_file.html:736
-msgid ""
-"Due to maintenance, it is not possible to use the My Europeana feature at "
-"the moment. We apologise for any inconvenience caused."
-msgstr ""
-"Debido a tareas de mantenimiento, en este momento no es posible usar la "
-"aplicación My Europeana. Rogamos disculpe las molestias ocasionadas."
-
 #: templates/static_pages/prop_file.html:742
 #: templates/static_pages/usingeuropeana_search.html:67
 msgid "Include content contributed by users"
@@ -4580,8 +4573,9 @@ msgid "Yes, with attribution"
 msgstr "Atribución Europeana"
 
 #: templates/static_pages/prop_file.html:1040
+#, fuzzy
 msgid "Yes, with restrictions"
-msgstr ""
+msgstr "Atribución Europeana"
 
 #: templates/static_pages/prop_file.html:1041
 msgid "Only with permission"
@@ -6581,6 +6575,13 @@ msgid ""
 "We would love to know how you are using this search widget, please tell us "
 "by dropping us an email at"
 msgstr ""
+
+#~ msgid ""
+#~ "Due to maintenance, it is not possible to use the My Europeana feature at "
+#~ "the moment. We apologise for any inconvenience caused."
+#~ msgstr ""
+#~ "Debido a tareas de mantenimiento, en este momento no es posible usar la "
+#~ "aplicación My Europeana. Rogamos disculpe las molestias ocasionadas."
 
 #~ msgid "Follow now"
 #~ msgstr "Síguenos"
