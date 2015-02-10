@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-09 16:29+0100\n"
+"POT-Creation-Date: 2015-02-10 10:45+0100\n"
 "PO-Revision-Date: 2015-01-19 12:29\n"
 "Last-Translator: Latvian  <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4816,16 +4816,18 @@ msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
 msgstr "Vienošanās par Europeana datu apmaiņu (Profesionālā Europeana)"
 
 #: templates/static_pages/sitemap.html:115
-msgid "Free Access - no-reuse"
-msgstr "Brīva pieeja - Bez atkārtotas izmantošanas"
+#, fuzzy
+msgid "Rights Reserved - Free Access"
+msgstr "Visas tiesības aizsargātas - Brīvpieeja"
 
 #: templates/static_pages/sitemap.html:116
 msgid "Rights Reserved - Restricted access"
 msgstr "Tiesības rezervētas - Ierobežota pieeja"
 
 #: templates/static_pages/sitemap.html:117
-msgid "Paid Access - no re-use"
-msgstr "Maksas pieeja - Bez atkārtotas izmantošanas"
+#, fuzzy
+msgid "Rights Reserved - Paid Access"
+msgstr "Visas tiesības aizsargātas - Maksas pieeja"
 
 #: templates/static_pages/sitemap.html:118
 msgid "Unknown copyright status"
@@ -6501,6 +6503,12 @@ msgstr ""
 "Mēs labprāt vēlētos uzzināt, kā Jūs izmantojat šo meklēšanas vidžetu. Lūdzu "
 "pastāstiet mums par to, atsūtot e-pastu uz"
 
+#~ msgid "Free Access - no-reuse"
+#~ msgstr "Brīva pieeja - Bez atkārtotas izmantošanas"
+
+#~ msgid "Paid Access - no re-use"
+#~ msgstr "Maksas pieeja - Bez atkārtotas izmantošanas"
+
 #~ msgid "Europe’s culture in your newsfeed"
 #~ msgstr "Eiropas kultūra tavā ziņu lentē"
 
@@ -6573,12 +6581,6 @@ msgstr ""
 
 #~ msgid "Europeana Open Culture App"
 #~ msgstr "Europeana think culture"
-
-#~ msgid "Rights Reserved - Free access"
-#~ msgstr "Visas tiesības aizsargātas - Brīvpieeja"
-
-#~ msgid "Rights Reserved - Paid access"
-#~ msgstr "Visas tiesības aizsargātas - Maksas pieeja"
 
 #~ msgid "Europe's culture - collected for you."
 #~ msgstr "Eiropas kultūra - apkopota tieši tev"

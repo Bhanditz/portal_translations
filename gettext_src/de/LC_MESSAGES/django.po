@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-09 16:29+0100\n"
+"POT-Creation-Date: 2015-02-10 10:45+0100\n"
 "PO-Revision-Date: 2015-01-30 11:09\n"
 "Last-Translator: <dean.birkett@kb.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4884,8 +4884,9 @@ msgid "Searching in Europeana"
 msgstr "Suche in Europeana"
 
 #: templates/static_pages/sitemap.html:39
+#, fuzzy
 msgid "All Providers"
-msgstr ""
+msgstr "Bereitgestellt über"
 
 #: templates/static_pages/sitemap.html:41
 msgid "Press Centre (on Europeana Professional)"
@@ -4904,8 +4905,9 @@ msgid "Working with the API"
 msgstr ""
 
 #: templates/static_pages/sitemap.html:57
+#, fuzzy
 msgid "Latest changes"
-msgstr ""
+msgstr "Das Neueste aus"
 
 #: templates/static_pages/sitemap.html:58
 msgid "Sample Code and Libraries"
@@ -4948,15 +4950,16 @@ msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
 msgstr "Europeana Datenaustausch-Vereinbarung (auf Europeana Professionell)"
 
 #: templates/static_pages/sitemap.html:115
-msgid "Free Access - no-reuse"
+msgid "Rights Reserved - Free Access"
 msgstr ""
 
 #: templates/static_pages/sitemap.html:116
+#, fuzzy
 msgid "Rights Reserved - Restricted access"
-msgstr ""
+msgstr "Alle Rechte vorbehalten - Eingeschränkter Zugang"
 
 #: templates/static_pages/sitemap.html:117
-msgid "Paid Access - no re-use"
+msgid "Rights Reserved - Paid Access"
 msgstr ""
 
 #: templates/static_pages/sitemap.html:118
@@ -4976,12 +4979,14 @@ msgid "Out of copyright - non commercial re-use"
 msgstr ""
 
 #: templates/static_pages/sitemap.html:127
+#, fuzzy
 msgid "Europeana Semantic Elements (ESE)"
-msgstr ""
+msgstr "Europeana Search Widget"
 
 #: templates/static_pages/sitemap.html:128
+#, fuzzy
 msgid "Europeana metadata schemas"
-msgstr ""
+msgstr "Europeana-Metadaten"
 
 #: templates/static_pages/storyline.html:4
 msgid "Europeana - Storyline and credits"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-09 16:29+0100\n"
+"POT-Creation-Date: 2015-02-10 10:45+0100\n"
 "PO-Revision-Date: 2014-08-05 14:20\n"
 "Last-Translator: <anna.vandenbroek@europeana.eu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4933,16 +4933,18 @@ msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
 msgstr "Acord d'Intercanvi de Dades d'Europeana (a Europeana Professional)"
 
 #: templates/static_pages/sitemap.html:115
-msgid "Free Access - no-reuse"
-msgstr ""
+#, fuzzy
+msgid "Rights Reserved - Free Access"
+msgstr "Drets reservats - Accés lliure"
 
 #: templates/static_pages/sitemap.html:116
 msgid "Rights Reserved - Restricted access"
 msgstr "Drets reservats - Accés restringit"
 
 #: templates/static_pages/sitemap.html:117
-msgid "Paid Access - no re-use"
-msgstr ""
+#, fuzzy
+msgid "Rights Reserved - Paid Access"
+msgstr "Drets reservats - Accés de pagament"
 
 #: templates/static_pages/sitemap.html:118
 msgid "Unknown copyright status"
@@ -4953,20 +4955,23 @@ msgid "Orphan work - Free access"
 msgstr "Obra orfe - Accés lliure"
 
 #: templates/static_pages/sitemap.html:120
+#, fuzzy
 msgid "Orphan work"
-msgstr ""
+msgstr "Obra orfe - Accés lliure"
 
 #: templates/static_pages/sitemap.html:121
 msgid "Out of copyright - non commercial re-use"
 msgstr ""
 
 #: templates/static_pages/sitemap.html:127
+#, fuzzy
 msgid "Europeana Semantic Elements (ESE)"
-msgstr ""
+msgstr "Giny de cerca d'Europeana"
 
 #: templates/static_pages/sitemap.html:128
+#, fuzzy
 msgid "Europeana metadata schemas"
-msgstr ""
+msgstr "metadades d'Europeana"
 
 #: templates/static_pages/storyline.html:4
 msgid "Europeana - Storyline and credits"
@@ -6743,12 +6748,6 @@ msgstr ""
 
 #~ msgid "api-introduction.html"
 #~ msgstr "api-introduction.html"
-
-#~ msgid "Rights Reserved - Free access"
-#~ msgstr "Drets reservats - Accés lliure"
-
-#~ msgid "Rights Reserved - Paid access"
-#~ msgstr "Drets reservats - Accés de pagament"
 
 #~ msgid ""
 #~ "Explore more than 30 million items from a range of Europe's leading "

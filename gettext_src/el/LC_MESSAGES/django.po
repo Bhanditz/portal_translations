@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-09 16:29+0100\n"
+"POT-Creation-Date: 2015-02-10 10:45+0100\n"
 "PO-Revision-Date: 2014-08-05 14:26\n"
 "Last-Translator: <anna.vandenbroek@europeana.eu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4915,8 +4915,9 @@ msgid "Searching in Europeana"
 msgstr "Αναζήτηση στη Europeana"
 
 #: templates/static_pages/sitemap.html:39
+#, fuzzy
 msgid "All Providers"
-msgstr ""
+msgstr "Πάροχοι"
 
 #: templates/static_pages/sitemap.html:41
 msgid "Press Centre (on Europeana Professional)"
@@ -4935,8 +4936,9 @@ msgid "Working with the API"
 msgstr ""
 
 #: templates/static_pages/sitemap.html:57
+#, fuzzy
 msgid "Latest changes"
-msgstr ""
+msgstr "Τελευταίο στο"
 
 #: templates/static_pages/sitemap.html:58
 msgid "Sample Code and Libraries"
@@ -4980,24 +4982,28 @@ msgstr ""
 "Συμφωνία Ανταλλαγής Δεδομένων της Europeana (στο Europeana Professional)"
 
 #: templates/static_pages/sitemap.html:115
-msgid "Free Access - no-reuse"
-msgstr ""
+#, fuzzy
+msgid "Rights Reserved - Free Access"
+msgstr "Κατοχυρωμένα Δικαιώματα - Ελεύθερη Πρόσβαση"
 
 #: templates/static_pages/sitemap.html:116
+#, fuzzy
 msgid "Rights Reserved - Restricted access"
-msgstr ""
+msgstr "Κατοχυρωμένα Δικαιώματα - Πληρωμένη Πρόσβαση"
 
 #: templates/static_pages/sitemap.html:117
-msgid "Paid Access - no re-use"
-msgstr ""
+#, fuzzy
+msgid "Rights Reserved - Paid Access"
+msgstr "Κατοχυρωμένα Δικαιώματα - Πληρωμένη Πρόσβαση"
 
 #: templates/static_pages/sitemap.html:118
 msgid "Unknown copyright status"
 msgstr "Άγνωστης κατάστασης πνευματικά δικαιώματα"
 
 #: templates/static_pages/sitemap.html:119
+#, fuzzy
 msgid "Orphan work - Free access"
-msgstr ""
+msgstr "Κατοχυρωμένα Δικαιώματα - Ελεύθερη Πρόσβαση"
 
 #: templates/static_pages/sitemap.html:120
 msgid "Orphan work"
@@ -5008,12 +5014,14 @@ msgid "Out of copyright - non commercial re-use"
 msgstr ""
 
 #: templates/static_pages/sitemap.html:127
+#, fuzzy
 msgid "Europeana Semantic Elements (ESE)"
-msgstr ""
+msgstr "Αναζήτηση Στοιχείου Διεπαφής στη Europeana"
 
 #: templates/static_pages/sitemap.html:128
+#, fuzzy
 msgid "Europeana metadata schemas"
-msgstr ""
+msgstr "μεταδεδομένα της Europeana"
 
 #: templates/static_pages/storyline.html:4
 msgid "Europeana - Storyline and credits"
@@ -6680,12 +6688,6 @@ msgstr ""
 
 #~ msgid "api-introduction.html"
 #~ msgstr "Εισαγωγή"
-
-#~ msgid "Rights Reserved - Free access"
-#~ msgstr "Κατοχυρωμένα Δικαιώματα - Ελεύθερη Πρόσβαση"
-
-#~ msgid "Rights Reserved - Paid access"
-#~ msgstr "Κατοχυρωμένα Δικαιώματα - Πληρωμένη Πρόσβαση"
 
 #~ msgid "Europe's culture - collected for you."
 #~ msgstr "Ο πολιτισμός της Ευρώπης - συλλεγμένος για σένα"

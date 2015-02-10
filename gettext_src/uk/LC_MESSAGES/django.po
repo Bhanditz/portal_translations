@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-09 16:29+0100\n"
+"POT-Creation-Date: 2015-02-10 10:46+0100\n"
 "PO-Revision-Date: 2014-08-05 13:37\n"
 "Last-Translator: <jacob.lundqvist@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4806,16 +4806,18 @@ msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
 msgstr "Угода про Обмін Даними Європіана (в Європіана Професійна)"
 
 #: templates/static_pages/sitemap.html:115
-msgid "Free Access - no-reuse"
-msgstr "Загальний доступ - Використання обмежене"
+#, fuzzy
+msgid "Rights Reserved - Free Access"
+msgstr "Європіана: Права захищено - Вільний доступ"
 
 #: templates/static_pages/sitemap.html:116
 msgid "Rights Reserved - Restricted access"
 msgstr "Права захищено - Доступ обмежено"
 
 #: templates/static_pages/sitemap.html:117
-msgid "Paid Access - no re-use"
-msgstr "Платний доступ - без повторного використання"
+#, fuzzy
+msgid "Rights Reserved - Paid Access"
+msgstr "Європіана: Права захищені - Платний доступ"
 
 #: templates/static_pages/sitemap.html:118
 msgid "Unknown copyright status"
@@ -6479,6 +6481,12 @@ msgstr ""
 "Ми із радістю дізнаємось, ваш досвід використання цього пошукового віджету, "
 "будьте ласкаві надішліть нам повідомлення про це електронною поштою до "
 
+#~ msgid "Free Access - no-reuse"
+#~ msgstr "Загальний доступ - Використання обмежене"
+
+#~ msgid "Paid Access - no re-use"
+#~ msgstr "Платний доступ - без повторного використання"
+
 #, fuzzy
 #~ msgid "Follow now"
 #~ msgstr "Слідуйте за нами"
@@ -7434,12 +7442,6 @@ msgstr ""
 
 #~ msgid "Common Fields"
 #~ msgstr "Загальні поля"
-
-#~ msgid "Europeana: Rights Reserved - Free Access"
-#~ msgstr "Європіана: Права захищено - Вільний доступ"
-
-#~ msgid "Europeana: Rights Reserved - Paid Access"
-#~ msgstr "Європіана: Права захищені - Платний доступ"
 
 #~ msgid "Europeana: Unknown copyright status"
 #~ msgstr "Європіана: Невідомий статус прав власності"

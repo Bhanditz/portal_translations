@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-09 16:29+0100\n"
+"POT-Creation-Date: 2015-02-10 10:45+0100\n"
 "PO-Revision-Date: 2014-08-07 10:42\n"
 "Last-Translator: <anna.vandenbroek@europeana.eu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4845,8 +4845,9 @@ msgid "Searching in Europeana"
 msgstr "Поиск в Europeana"
 
 #: templates/static_pages/sitemap.html:39
+#, fuzzy
 msgid "All Providers"
-msgstr ""
+msgstr "Поставщики контента"
 
 #: templates/static_pages/sitemap.html:41
 msgid "Press Centre (on Europeana Professional)"
@@ -4873,20 +4874,24 @@ msgid "Sample Code and Libraries"
 msgstr ""
 
 #: templates/static_pages/sitemap.html:61
+#, fuzzy
 msgid "API Methods"
-msgstr ""
+msgstr "Коды API"
 
 #: templates/static_pages/sitemap.html:64
+#, fuzzy
 msgid "Record"
-msgstr ""
+msgstr "Идентификатор записи"
 
 #: templates/static_pages/sitemap.html:66
+#, fuzzy
 msgid "Suggestions"
-msgstr ""
+msgstr "Предложениях по правописанию"
 
 #: templates/static_pages/sitemap.html:67
+#, fuzzy
 msgid "OpenSearch"
-msgstr ""
+msgstr "Март"
 
 #: templates/static_pages/sitemap.html:69
 msgid "Query Syntax"
@@ -4897,8 +4902,9 @@ msgid "Data structure"
 msgstr ""
 
 #: templates/static_pages/sitemap.html:72
+#, fuzzy
 msgid "Europeana Fields"
-msgstr ""
+msgstr "Europeana - Помощь"
 
 #: templates/static_pages/sitemap.html:74
 msgid "API1-API2 compatability"
@@ -4909,16 +4915,19 @@ msgid "Europeana Data Exchange Agreement (on Europeana Professional)"
 msgstr "Соглашение об обмене данными (на  Europeana Professional) "
 
 #: templates/static_pages/sitemap.html:115
-msgid "Free Access - no-reuse"
-msgstr ""
+#, fuzzy
+msgid "Rights Reserved - Free Access"
+msgstr "Europeana: Права защищены - Свободный доступ"
 
 #: templates/static_pages/sitemap.html:116
+#, fuzzy
 msgid "Rights Reserved - Restricted access"
-msgstr ""
+msgstr "Права - Платный доступ"
 
 #: templates/static_pages/sitemap.html:117
-msgid "Paid Access - no re-use"
-msgstr ""
+#, fuzzy
+msgid "Rights Reserved - Paid Access"
+msgstr "Права - Платный доступ"
 
 #: templates/static_pages/sitemap.html:118
 msgid "Unknown copyright status"
@@ -4937,12 +4946,14 @@ msgid "Out of copyright - non commercial re-use"
 msgstr ""
 
 #: templates/static_pages/sitemap.html:127
+#, fuzzy
 msgid "Europeana Semantic Elements (ESE)"
-msgstr ""
+msgstr "Модуль поиска Europeana"
 
 #: templates/static_pages/sitemap.html:128
+#, fuzzy
 msgid "Europeana metadata schemas"
-msgstr ""
+msgstr "метаданными Europeana metadata,"
 
 #: templates/static_pages/storyline.html:4
 msgid "Europeana - Storyline and credits"
@@ -6461,9 +6472,6 @@ msgstr ""
 #~ msgid "api-introduction.html"
 #~ msgstr "Введение"
 
-#~ msgid "Rights Reserved - Paid access"
-#~ msgstr "Права - Платный доступ"
-
 #~ msgid "Europe's culture - collected for you."
 #~ msgstr "Исследуйте европейские культурные коллекции"
 
@@ -7630,9 +7638,6 @@ msgstr ""
 
 #~ msgid "Common Fields"
 #~ msgstr "Сообщества"
-
-#~ msgid "Europeana: Rights Reserved - Free Access"
-#~ msgstr "Europeana: Права защищены - Свободный доступ"
 
 #~ msgid "Europeana: Rights Reserved - Restricted Access"
 #~ msgstr "Europeana: права защищены - ограниченный доступ"
