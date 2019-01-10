@@ -1,4 +1,6 @@
+This project is not maintained anymore!
 
+-----------------------------------------------------------------------------------------------------
 
 gettext_src  - gettext source code
 message_keys - translated properties
